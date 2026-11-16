@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kode Wilayah — Wilayah Administratif Indonesia</title>
+<meta name="description" content="Telusuri kode dan nama wilayah administratif Indonesia: provinsi, kabupaten/kota, kecamatan, kelurahan/desa.">
+<meta name="htmx-config" content='{"noSwap":[204,304,"4xx","5xx"]}'>
+<link rel="stylesheet" href="app.css">
+<script src="vendor/htmx.min.js"></script>
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="head">
+  <h1>Kode Wilayah</h1>
+  <p class="lede">Telusuri wilayah administratif Indonesia dari provinsi sampai kelurahan/desa.</p>
+  <p class="stats">38 provinsi · 514 kabupaten/kota · 7.266 kecamatan · 83.981 desa</p>
+</header>
+
+<main>
+  <div class="search">
+    <label for="q">Cari nama atau kode wilayah</label>
+    <input id="q" type="search" placeholder="mis. bakongan atau 1101012001" autocomplete="off" spellcheck="false">
+    <div id="results" class="results" hidden></div>
+  </div>
+
+  <div id="detail" class="detail" hidden></div>
+
+  <div class="explorer">
+    <section class="col" data-level="prov" aria-labelledby="h-prov">
+      <h2 id="h-prov">Provinsi</h2>
+      <div id="col-prov" class="list" hx-get="api/provinces.json" hx-trigger="load" hx-swap="innerHTML">
+        <p class="muted">Memuat…</p>
+      </div>
+    </section>
+    <section class="col" data-level="kab" aria-labelledby="h-kab">
+      <h2 id="h-kab">Kabupaten / Kota</h2>
+      <div id="col-kab" class="list"><p class="muted">Pilih provinsi dahulu</p></div>
+    </section>
+    <section class="col" data-level="kec" aria-labelledby="h-kec">
+      <h2 id="h-kec">Kecamatan</h2>
+      <div id="col-kec" class="list"><p class="muted">Pilih kab/kota dahulu</p></div>
+    </section>
+    <section class="col" data-level="desa" aria-labelledby="h-desa">
+      <h2 id="h-desa">Kelurahan / Desa</h2>
+      <div id="col-desa" class="list"><p class="muted">Pilih kecamatan dahulu</p></div>
+    </section>
+  </div>
+</main>
+
+<footer class="foot">
+  <p>Data snapshot Kemendagri via <a href="https://kodewilayah.web.id/">kodewilayah.web.id</a>.
+  <span id="ver"></span></p>
+</footer>
+</body>
+</html>

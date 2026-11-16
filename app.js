@@ -55,3 +55,207 @@ export function searchRows(rows, q, limit = 50) {
     return { ...r, path };
   });
 }
+
+// ---- wiring browser ----
+
+const COLUMNS = ['col-prov', 'col-kab', 'col-kec', 'col-desa'];
+const EMPTY = [
+  'Pilih provinsi untuk mulai',
+  'Pilih provinsi dahulu',
+  'Pilih kab/kota dahulu',
+  'Pilih kecamatan dahulu',
+];
+
+function placeholder(text) {
+  const p = document.createElement('p');
+  p.className = 'muted';
+  p.textContent = text;
+  return p;
+}
+
+function resetColumns(from) {
+  for (let i = from; i < COLUMNS.length; i++) {
+    document.getElementById(COLUMNS[i]).replaceChildren(placeholder(EMPTY[i]));
+  }
+}
+
+function showDetail(btn) {
+  const path = [...document.querySelectorAll('.explorer .item[aria-current="true"] .name')]
+    .map((el) => el.textContent);
+  if (!path.includes(btn.querySelector('.name').textContent)) path.push(btn.querySelector('.name').textContent);
+
+  const box = document.getElementById('detail');
+  const title = document.createElement('h2');
+  title.textContent = btn.querySelector('.name').textContent;
+  const code = document.createElement('p');
+  code.className = 'muted';
+  code.textContent = `Kode ${btn.dataset.code}`;
+  const crumb = document.createElement('p');
+  crumb.textContent = path.join(' / ');
+  box.replaceChildren(title, crumb, code);
+  box.hidden = false;
+}
+
+function showError(target, action) {
+  const box = document.createElement('p');
+  box.className = 'error';
+  box.textContent = 'Data wilayah tidak tersedia. ';
+  const retry = document.createElement('button');
+  retry.type = 'button';
+  retry.className = 'retry';
+  retry.textContent = 'Coba lagi';
+  retry.addEventListener('click', () => htmx.ajax('GET', action, { target, swap: 'innerHTML' }));
+  box.append(retry);
+  target.replaceChildren(box);
+}
+
+let indexPromise;
+function loadIndex() {
+  indexPromise ||= fetch('api/search.txt')
+    .then((r) => (r.ok ? r.text() : Promise.reject(new Error(`index ${r.status}`))))
+    .then(parseIndex)
+    .catch((err) => {
+      indexPromise = null;
+      throw err;
+    });
+  return indexPromise;
+}
+
+async function fillCascade(code) {
+  const a = ancestorsOf(code);
+  const steps = [
+    ['col-prov', 'api/provinces.json', a.prov],
+    ['col-kab', `api/regencies/${a.prov}.json`, a.kab],
+    ['col-kec', `api/districts/${a.kab}.json`, a.kec],
+    ['col-desa', `api/villages/${a.kec}.json`, a.desa ? code : null],
+  ];
+  const lastFilled = steps.filter(([, , active]) => active).length - 1;
+  resetColumns(lastFilled + 1);
+  for (const [col, url, active] of steps) {
+    if (!active) continue;
+    await htmx.ajax('GET', url, { target: `#${col}`, swap: 'innerHTML' });
+    const btn = document.querySelector(`#${col} .item[data-code="${active}"]`);
+    if (!btn) continue;
+    for (const el of document.querySelectorAll('.explorer .item[aria-current="true"]')) {
+      if (el.closest('section').dataset.level !== col.slice(4)) el.removeAttribute('aria-current');
+    }
+    btn.setAttribute('aria-current', 'true');
+    btn.scrollIntoView({ block: 'nearest' });
+    if (btn.classList.contains('leaf')) showDetail(btn);
+  }
+}
+
+function initSearch() {
+  const input = document.getElementById('q');
+  const box = document.getElementById('results');
+  let rows = null;
+  let timer;
+
+  const ensure = () => (rows ? Promise.resolve(rows) : loadIndex().then((r) => (rows = r)));
+
+  input.addEventListener('focus', () => {
+    ensure().catch(() => {});
+  });
+
+  input.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(async () => {
+      const q = input.value.trim();
+      if (q.length < 2) {
+        box.hidden = true;
+        box.replaceChildren();
+        return;
+      }
+      let hits;
+      try {
+        hits = searchRows(await ensure(), q);
+      } catch {
+        box.hidden = false;
+        box.replaceChildren(placeholder('Indeks pencarian gagal dimuat.'));
+        return;
+      }
+      box.replaceChildren();
+      if (!hits.length) {
+        box.append(placeholder('Tidak ada hasil.'));
+      }
+      for (const hit of hits) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'result';
+        btn.dataset.code = hit.code;
+        const name = document.createElement('span');
+        name.textContent = hit.name;
+        btn.append(name);
+        if (hit.path) {
+          const path = document.createElement('span');
+          path.className = 'path';
+          path.textContent = `${hit.path} · ${hit.code}`;
+          btn.append(path);
+        } else {
+          const meta = document.createElement('span');
+          meta.className = 'path';
+          meta.textContent = String(hit.code);
+          btn.append(meta);
+        }
+        btn.addEventListener('click', () => {
+          box.hidden = true;
+          fillCascade(hit.code).catch(() => showError(document.getElementById('col-prov'), 'api/provinces.json'));
+        });
+        box.append(btn);
+      }
+      box.hidden = false;
+    }, 150);
+  });
+}
+
+function boot() {
+  htmx.registerExtension('json-html', {
+    htmx_after_request(elt, detail) {
+      const type = detail.ctx.response.headers.get('content-type') || '';
+      if (!type.includes('json')) return;
+      try {
+        detail.ctx.text = renderList(JSON.parse(detail.ctx.text).data);
+      } catch {
+        detail.ctx.text = '<p class="error">Data tidak dikenali.</p>';
+      }
+    },
+  });
+
+  const onFail = (evt) => {
+    const ctx = evt.detail?.ctx;
+    if (ctx?.target) showError(ctx.target, ctx.request.action);
+  };
+  htmx.on('htmx:error', onFail);
+  htmx.on('htmx:response:error', onFail);
+
+  document.querySelector('.explorer').addEventListener('click', (evt) => {
+    const btn = evt.target.closest('.item');
+    if (!btn) return;
+    const index = ['prov', 'kab', 'kec', 'desa'].indexOf(btn.closest('section').dataset.level);
+    for (const el of document.querySelectorAll('.explorer .item[aria-current="true"]')) {
+      el.removeAttribute('aria-current');
+    }
+    btn.setAttribute('aria-current', 'true');
+    document.getElementById('detail').hidden = true;
+    resetColumns(index + 1);
+    if (!btn.hasAttribute('hx-get')) showDetail(btn);
+  });
+
+  initSearch();
+
+  fetch('api/version.json')
+    .then((r) => (r.ok ? r.json() : null))
+    .then((v) => {
+      const ver = document.getElementById('ver');
+      if (v && ver) ver.textContent = `Data per ${v.data_version}.`;
+    })
+    .catch(() => {});
+}
+
+if (typeof document !== 'undefined' && globalThis.htmx) boot();
+
+if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}

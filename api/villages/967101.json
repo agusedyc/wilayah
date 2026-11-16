@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671011001,
+      "name": "Remu Utara"
+    },
+    {
+      "code": 9671011002,
+      "name": "Klademak"
+    },
+    {
+      "code": 9671011003,
+      "name": "Kofkerbu"
+    },
+    {
+      "code": 9671011004,
+      "name": "Remu"
+    }
+  ]
+}

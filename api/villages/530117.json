@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5301171001,
+      "name": "Teunbaun"
+    },
+    {
+      "code": 5301172002,
+      "name": "Soba"
+    },
+    {
+      "code": 5301172003,
+      "name": "Toobaun"
+    },
+    {
+      "code": 5301172004,
+      "name": "Niukbaun"
+    },
+    {
+      "code": 5301172005,
+      "name": "Tunbaun"
+    },
+    {
+      "code": 5301172006,
+      "name": "Nekbaun"
+    },
+    {
+      "code": 5301172007,
+      "name": "Merbaun"
+    },
+    {
+      "code": 5301172008,
+      "name": "Erbaun"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1303062001,
+      "name": "Sungai Lansek"
+    },
+    {
+      "code": 1303062002,
+      "name": "Kamang"
+    },
+    {
+      "code": 1303062003,
+      "name": "Muaro Takuang"
+    },
+    {
+      "code": 1303062004,
+      "name": "Aie Amo"
+    },
+    {
+      "code": 1303062005,
+      "name": "Sungai Batuang"
+    },
+    {
+      "code": 1303062006,
+      "name": "Kunangan Parik Rantang"
+    },
+    {
+      "code": 1303062007,
+      "name": "Tanjung Kaliang"
+    },
+    {
+      "code": 1303062008,
+      "name": "Padang Tarok"
+    },
+    {
+      "code": 1303062009,
+      "name": "Siaur"
+    },
+    {
+      "code": 1303062010,
+      "name": "Lubuk Tarantang"
+    },
+    {
+      "code": 1303062011,
+      "name": "Maloro"
+    }
+  ]
+}

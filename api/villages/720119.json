@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201192001,
+      "name": "Kampangar"
+    },
+    {
+      "code": 7201192002,
+      "name": "Kuntang"
+    },
+    {
+      "code": 7201192003,
+      "name": "Pulau Dua"
+    },
+    {
+      "code": 7201192004,
+      "name": "Teku"
+    },
+    {
+      "code": 7201192005,
+      "name": "Ondoliang"
+    },
+    {
+      "code": 7201192006,
+      "name": "Batu Simpang"
+    },
+    {
+      "code": 7201192007,
+      "name": "Batu Mandi"
+    },
+    {
+      "code": 7201192008,
+      "name": "Pangkalaseang"
+    },
+    {
+      "code": 7201192009,
+      "name": "Pangkalaseang Baru"
+    },
+    {
+      "code": 7201192010,
+      "name": "Toweer"
+    }
+  ]
+}

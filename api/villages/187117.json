@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1871171001,
+      "name": "Enggal"
+    },
+    {
+      "code": 1871171002,
+      "name": "Pelita"
+    },
+    {
+      "code": 1871171003,
+      "name": "Tanjungkarang"
+    },
+    {
+      "code": 1871171004,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 1871171005,
+      "name": "Rawalaut"
+    },
+    {
+      "code": 1871171006,
+      "name": "Pahoman"
+    }
+  ]
+}

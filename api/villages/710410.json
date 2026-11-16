@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7104102001,
+      "name": "Tuabatu"
+    },
+    {
+      "code": 7104102002,
+      "name": "Dapalan"
+    },
+    {
+      "code": 7104102003,
+      "name": "Riung"
+    },
+    {
+      "code": 7104102004,
+      "name": "Ammat"
+    },
+    {
+      "code": 7104102005,
+      "name": "Binalang"
+    },
+    {
+      "code": 7104102006,
+      "name": "Ganalo"
+    },
+    {
+      "code": 7104102007,
+      "name": "Dapihe"
+    },
+    {
+      "code": 7104102008,
+      "name": "Tuabatu Barat"
+    },
+    {
+      "code": 7104102009,
+      "name": "Ammat Selatan"
+    },
+    {
+      "code": 7104102010,
+      "name": "Binalang Timur"
+    },
+    {
+      "code": 7104102011,
+      "name": "Riung Utara"
+    }
+  ]
+}

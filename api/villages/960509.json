@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9605092001,
+      "name": "Yubiah"
+    },
+    {
+      "code": 9605092002,
+      "name": "Karetubun"
+    },
+    {
+      "code": 9605092003,
+      "name": "Setta"
+    },
+    {
+      "code": 9605092004,
+      "name": "Hohoyor"
+    },
+    {
+      "code": 9605092005,
+      "name": "Arne"
+    },
+    {
+      "code": 9605092006,
+      "name": "Aus Tiwit"
+    },
+    {
+      "code": 9605092007,
+      "name": "Johafah"
+    },
+    {
+      "code": 9605092008,
+      "name": "Yukase"
+    },
+    {
+      "code": 9605092009,
+      "name": "Serma"
+    },
+    {
+      "code": 9605092010,
+      "name": "Kfaa"
+    },
+    {
+      "code": 9605092011,
+      "name": "Arne Timur"
+    },
+    {
+      "code": 9605092012,
+      "name": "Nauwita"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3578041001,
+      "name": "Wonokromo"
+    },
+    {
+      "code": 3578041002,
+      "name": "Jagir"
+    },
+    {
+      "code": 3578041003,
+      "name": "Ngagel"
+    },
+    {
+      "code": 3578041004,
+      "name": "Ngagel Rejo"
+    },
+    {
+      "code": 3578041005,
+      "name": "Darmo"
+    },
+    {
+      "code": 3578041006,
+      "name": "Sawunggaling"
+    }
+  ]
+}

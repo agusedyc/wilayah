@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3324032001,
+      "name": "Gentinggunung"
+    },
+    {
+      "code": 3324032002,
+      "name": "Bringinsari"
+    },
+    {
+      "code": 3324032003,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3324032004,
+      "name": "Ngargosari"
+    },
+    {
+      "code": 3324032005,
+      "name": "Pesaren"
+    },
+    {
+      "code": 3324032006,
+      "name": "Tamanrejo"
+    },
+    {
+      "code": 3324032007,
+      "name": "Harjodowo"
+    },
+    {
+      "code": 3324032008,
+      "name": "Peron"
+    },
+    {
+      "code": 3324032009,
+      "name": "Damarjati"
+    },
+    {
+      "code": 3324032010,
+      "name": "Mulyosari"
+    },
+    {
+      "code": 3324032011,
+      "name": "Kalipakis"
+    },
+    {
+      "code": 3324032012,
+      "name": "Trimulyo"
+    },
+    {
+      "code": 3324032013,
+      "name": "Selokaton"
+    },
+    {
+      "code": 3324032014,
+      "name": "Ngadiwarno"
+    },
+    {
+      "code": 3324032015,
+      "name": "Tampingwinarno"
+    },
+    {
+      "code": 3324032016,
+      "name": "Kebumen"
+    },
+    {
+      "code": 3324032017,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3324032018,
+      "name": "Kalibogor"
+    }
+  ]
+}

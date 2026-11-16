@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1705031014,
+      "name": "Masmambang"
+    },
+    {
+      "code": 1705032002,
+      "name": "Napal Melintang"
+    },
+    {
+      "code": 1705032003,
+      "name": "Serambi Gunung"
+    },
+    {
+      "code": 1705032005,
+      "name": "Air Payangan"
+    },
+    {
+      "code": 1705032012,
+      "name": "Batu Tugu"
+    },
+    {
+      "code": 1705032013,
+      "name": "Kampai"
+    },
+    {
+      "code": 1705032015,
+      "name": "Lubuk Ngantungan"
+    },
+    {
+      "code": 1705032016,
+      "name": "Durian Bubur"
+    },
+    {
+      "code": 1705032017,
+      "name": "Muara Danau"
+    },
+    {
+      "code": 1705032018,
+      "name": "Lubuk Gio"
+    },
+    {
+      "code": 1705032019,
+      "name": "Kembang Seri"
+    },
+    {
+      "code": 1705032034,
+      "name": "Bunut Tinggi"
+    },
+    {
+      "code": 1705032035,
+      "name": "Air Teras"
+    },
+    {
+      "code": 1705032036,
+      "name": "Lubuk Gadis"
+    },
+    {
+      "code": 1705032045,
+      "name": "Simpang Tiga Pagar Gasing"
+    },
+    {
+      "code": 1705032046,
+      "name": "Harapan Mulya"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3505031004,
+      "name": "Togogan"
+    },
+    {
+      "code": 3505031007,
+      "name": "Srengat"
+    },
+    {
+      "code": 3505031009,
+      "name": "Dandong"
+    },
+    {
+      "code": 3505031010,
+      "name": "Kauman"
+    },
+    {
+      "code": 3505032001,
+      "name": "Karanggayam"
+    },
+    {
+      "code": 3505032002,
+      "name": "Dermojayan"
+    },
+    {
+      "code": 3505032003,
+      "name": "Kerjen"
+    },
+    {
+      "code": 3505032005,
+      "name": "Pakisrejo"
+    },
+    {
+      "code": 3505032006,
+      "name": "Purwokerto"
+    },
+    {
+      "code": 3505032008,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3505032011,
+      "name": "Maron"
+    },
+    {
+      "code": 3505032012,
+      "name": "Bagelenan"
+    },
+    {
+      "code": 3505032013,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3505032014,
+      "name": "Kendalrejo"
+    },
+    {
+      "code": 3505032015,
+      "name": "Selokajang"
+    },
+    {
+      "code": 3505032016,
+      "name": "Ngaglik"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3214011001,
+      "name": "Nagri Kidul"
+    },
+    {
+      "code": 3214011002,
+      "name": "Nagri Kaler"
+    },
+    {
+      "code": 3214011003,
+      "name": "Nagri Tengah"
+    },
+    {
+      "code": 3214011004,
+      "name": "Sindangkasih"
+    },
+    {
+      "code": 3214011005,
+      "name": "Cipaisan"
+    },
+    {
+      "code": 3214011006,
+      "name": "Purwamekar"
+    },
+    {
+      "code": 3214011007,
+      "name": "Ciseureuh"
+    },
+    {
+      "code": 3214011008,
+      "name": "Tegalmunjul"
+    },
+    {
+      "code": 3214011009,
+      "name": "Munjuljaya"
+    },
+    {
+      "code": 3214012010,
+      "name": "Citalang"
+    }
+  ]
+}

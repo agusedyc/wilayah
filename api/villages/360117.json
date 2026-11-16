@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3601172001,
+      "name": "Pandat"
+    },
+    {
+      "code": 3601172002,
+      "name": "Cikoneng"
+    },
+    {
+      "code": 3601172003,
+      "name": "Nembol"
+    },
+    {
+      "code": 3601172004,
+      "name": "Kurungkambing"
+    },
+    {
+      "code": 3601172005,
+      "name": "Mandalawangi"
+    },
+    {
+      "code": 3601172006,
+      "name": "Sinarjaya"
+    },
+    {
+      "code": 3601172007,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3601172008,
+      "name": "Cikumbuen"
+    },
+    {
+      "code": 3601172009,
+      "name": "Ramea"
+    },
+    {
+      "code": 3601172010,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3601172011,
+      "name": "Panjangjaya"
+    },
+    {
+      "code": 3601172012,
+      "name": "Giripawana"
+    },
+    {
+      "code": 3601172013,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3601172014,
+      "name": "Curuglemo"
+    },
+    {
+      "code": 3601172015,
+      "name": "Pari"
+    }
+  ]
+}

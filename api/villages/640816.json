@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408162001,
+      "name": "Karangan Dalam"
+    },
+    {
+      "code": 6408162002,
+      "name": "Batu Lepoq"
+    },
+    {
+      "code": 6408162003,
+      "name": "Pengadan"
+    },
+    {
+      "code": 6408162004,
+      "name": "Baay"
+    },
+    {
+      "code": 6408162005,
+      "name": "Mukti Lestari"
+    },
+    {
+      "code": 6408162006,
+      "name": "Karangan Seberang"
+    },
+    {
+      "code": 6408162007,
+      "name": "Karangan Hilir"
+    }
+  ]
+}

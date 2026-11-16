@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1212092002,
+      "name": "Lintong Julu"
+    },
+    {
+      "code": 1212092003,
+      "name": "Hatinggian"
+    },
+    {
+      "code": 1212092004,
+      "name": "Sibaruang"
+    },
+    {
+      "code": 1212092005,
+      "name": "Jangga Toruan"
+    },
+    {
+      "code": 1212092006,
+      "name": "Sionggang Selatan"
+    },
+    {
+      "code": 1212092007,
+      "name": "Pasar Lumban Julu"
+    },
+    {
+      "code": 1212092008,
+      "name": "Sionggang Utara"
+    },
+    {
+      "code": 1212092014,
+      "name": "Sionggang Tengah"
+    },
+    {
+      "code": 1212092015,
+      "name": "Jangga Dolok"
+    },
+    {
+      "code": 1212092016,
+      "name": "Hutanamora"
+    },
+    {
+      "code": 1212092017,
+      "name": "Jonggi Nihuta"
+    },
+    {
+      "code": 1212092018,
+      "name": "Aek Natolu Jaya"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7315041001,
+      "name": "Jaya"
+    },
+    {
+      "code": 7315041002,
+      "name": "Sawitto"
+    },
+    {
+      "code": 7315041003,
+      "name": "Macorawalie"
+    },
+    {
+      "code": 7315041004,
+      "name": "Penrang"
+    },
+    {
+      "code": 7315041005,
+      "name": "Salo"
+    },
+    {
+      "code": 7315041006,
+      "name": "Bentengnge"
+    },
+    {
+      "code": 7315041007,
+      "name": "Sipatokkong"
+    },
+    {
+      "code": 7315041008,
+      "name": "Siparappe"
+    }
+  ]
+}

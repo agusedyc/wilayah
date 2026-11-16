@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6403012001,
+      "name": "Merabu"
+    },
+    {
+      "code": 6403012002,
+      "name": "Panaan"
+    },
+    {
+      "code": 6403012003,
+      "name": "Merapun"
+    },
+    {
+      "code": 6403012004,
+      "name": "Muara Lesan"
+    },
+    {
+      "code": 6403012005,
+      "name": "Merasa"
+    },
+    {
+      "code": 6403012006,
+      "name": "Lesan Dayak"
+    },
+    {
+      "code": 6403012007,
+      "name": "Long Beliu"
+    },
+    {
+      "code": 6403012008,
+      "name": "Long Duhung"
+    },
+    {
+      "code": 6403012009,
+      "name": "Long Lamcin"
+    },
+    {
+      "code": 6403012010,
+      "name": "Long Keluh"
+    },
+    {
+      "code": 6403012011,
+      "name": "Long Pelay"
+    },
+    {
+      "code": 6403012012,
+      "name": "Mapulu"
+    },
+    {
+      "code": 6403012013,
+      "name": "Long Sului"
+    },
+    {
+      "code": 6403012014,
+      "name": "Sido Bangen"
+    }
+  ]
+}

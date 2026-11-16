@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3329062001,
+      "name": "Galuhtimur"
+    },
+    {
+      "code": 3329062002,
+      "name": "Kalijurang"
+    },
+    {
+      "code": 3329062003,
+      "name": "Karangjongkeng"
+    },
+    {
+      "code": 3329062004,
+      "name": "Kutamendala"
+    },
+    {
+      "code": 3329062005,
+      "name": "Kutayu"
+    },
+    {
+      "code": 3329062006,
+      "name": "Linggapura"
+    },
+    {
+      "code": 3329062007,
+      "name": "Negarayu"
+    },
+    {
+      "code": 3329062008,
+      "name": "Pepedan"
+    },
+    {
+      "code": 3329062009,
+      "name": "Purbayasa"
+    },
+    {
+      "code": 3329062010,
+      "name": "Rajawetan"
+    },
+    {
+      "code": 3329062011,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3329062012,
+      "name": "Tanggeran"
+    },
+    {
+      "code": 3329062013,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3329062014,
+      "name": "Watujaya"
+    }
+  ]
+}

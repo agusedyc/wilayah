@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271061001,
+      "name": "Titipapan"
+    },
+    {
+      "code": 1271061002,
+      "name": "Tanjung Mulia Hilir"
+    },
+    {
+      "code": 1271061003,
+      "name": "Tanjung Mulya"
+    },
+    {
+      "code": 1271061004,
+      "name": "Kota Bangun"
+    },
+    {
+      "code": 1271061005,
+      "name": "Mabar"
+    },
+    {
+      "code": 1271061006,
+      "name": "Mabar Hilir"
+    }
+  ]
+}

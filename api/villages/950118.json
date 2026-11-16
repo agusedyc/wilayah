@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9501182001,
+      "name": "Tailarek"
+    },
+    {
+      "code": 9501182002,
+      "name": "Senogolik"
+    },
+    {
+      "code": 9501182003,
+      "name": "Bokiem"
+    },
+    {
+      "code": 9501182004,
+      "name": "Iyora"
+    },
+    {
+      "code": 9501182005,
+      "name": "Budliem"
+    },
+    {
+      "code": 9501182006,
+      "name": "Yoman Weya"
+    },
+    {
+      "code": 9501182007,
+      "name": "Huluaima"
+    },
+    {
+      "code": 9501182008,
+      "name": "Entagekokma"
+    }
+  ]
+}

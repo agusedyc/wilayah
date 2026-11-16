@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7326011001,
+      "name": "Laang Tanduk"
+    },
+    {
+      "code": 7326011002,
+      "name": "Rantepao"
+    },
+    {
+      "code": 7326011003,
+      "name": "Mentirotiku"
+    },
+    {
+      "code": 7326011004,
+      "name": "Manggalo"
+    },
+    {
+      "code": 7326011005,
+      "name": "Pasale"
+    },
+    {
+      "code": 7326011006,
+      "name": "Singki'"
+    },
+    {
+      "code": 7326011007,
+      "name": "Karassik"
+    },
+    {
+      "code": 7326011008,
+      "name": "Penanian"
+    },
+    {
+      "code": 7326011009,
+      "name": "Rante Pasele"
+    },
+    {
+      "code": 7326012010,
+      "name": "Limbong"
+    },
+    {
+      "code": 7326012011,
+      "name": "Saloso"
+    }
+  ]
+}

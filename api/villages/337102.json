@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3371021003,
+      "name": "Wates"
+    },
+    {
+      "code": 3371021004,
+      "name": "Potrobangsan"
+    },
+    {
+      "code": 3371021005,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3371021008,
+      "name": "Kramat Utara"
+    },
+    {
+      "code": 3371021009,
+      "name": "Kramat Selatan"
+    }
+  ]
+}

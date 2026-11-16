@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9302182001,
+      "name": "Sesnuk"
+    },
+    {
+      "code": 9302182002,
+      "name": "Anggamburan"
+    },
+    {
+      "code": 9302182003,
+      "name": "Kanggup"
+    },
+    {
+      "code": 9302182004,
+      "name": "Yomkondo"
+    },
+    {
+      "code": 9302182005,
+      "name": "Amboran"
+    }
+  ]
+}

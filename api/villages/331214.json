@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3312141009,
+      "name": "Kayuloko"
+    },
+    {
+      "code": 3312141012,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3312142001,
+      "name": "Sempukerep"
+    },
+    {
+      "code": 3312142002,
+      "name": "Sembukan"
+    },
+    {
+      "code": 3312142003,
+      "name": "Tempursari"
+    },
+    {
+      "code": 3312142004,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3312142005,
+      "name": "Widoro"
+    },
+    {
+      "code": 3312142006,
+      "name": "Mojoreno"
+    },
+    {
+      "code": 3312142007,
+      "name": "Ngabeyan"
+    },
+    {
+      "code": 3312142008,
+      "name": "Kedunggupit"
+    },
+    {
+      "code": 3312142010,
+      "name": "Tremes"
+    },
+    {
+      "code": 3312142011,
+      "name": "Jatinom"
+    }
+  ]
+}

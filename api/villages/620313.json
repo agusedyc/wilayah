@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6203132001,
+      "name": "Tamban Baru Timur"
+    },
+    {
+      "code": 6203132002,
+      "name": "Tamban Baru Tengah"
+    },
+    {
+      "code": 6203132003,
+      "name": "Tamban Baru Mekar"
+    },
+    {
+      "code": 6203132004,
+      "name": "Bandaraya"
+    },
+    {
+      "code": 6203132005,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 6203132006,
+      "name": "Warna Sari"
+    },
+    {
+      "code": 6203132007,
+      "name": "Bandar Mekar"
+    },
+    {
+      "code": 6203132008,
+      "name": "Tamban Makmur"
+    },
+    {
+      "code": 6203132009,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6203132010,
+      "name": "Tamban Jaya"
+    }
+  ]
+}

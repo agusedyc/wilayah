@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1206011009,
+      "name": "Padang Mas"
+    },
+    {
+      "code": 1206011010,
+      "name": "Lau Cimba"
+    },
+    {
+      "code": 1206011011,
+      "name": "Gung Leto"
+    },
+    {
+      "code": 1206011012,
+      "name": "Gung Negeri"
+    },
+    {
+      "code": 1206011013,
+      "name": "Kampung Dalam"
+    },
+    {
+      "code": 1206012001,
+      "name": "Rumah Kabanjahe"
+    },
+    {
+      "code": 1206012002,
+      "name": "Kaban"
+    },
+    {
+      "code": 1206012003,
+      "name": "Ketaren"
+    },
+    {
+      "code": 1206012004,
+      "name": "Samura"
+    },
+    {
+      "code": 1206012005,
+      "name": "Lau Simomo"
+    },
+    {
+      "code": 1206012006,
+      "name": "Sumber Mufakat"
+    },
+    {
+      "code": 1206012007,
+      "name": "Kandibata"
+    },
+    {
+      "code": 1206012008,
+      "name": "Kacaribu"
+    }
+  ]
+}

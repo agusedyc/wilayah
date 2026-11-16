@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7602021001,
+      "name": "Galung"
+    },
+    {
+      "code": 7602021002,
+      "name": "Kasambang"
+    },
+    {
+      "code": 7602021014,
+      "name": "Dayanginna"
+    },
+    {
+      "code": 7602022003,
+      "name": "Orobatu"
+    },
+    {
+      "code": 7602022006,
+      "name": "Takandeang"
+    },
+    {
+      "code": 7602022009,
+      "name": "Bela"
+    },
+    {
+      "code": 7602022010,
+      "name": "Taan"
+    },
+    {
+      "code": 7602022011,
+      "name": "Tampalang"
+    },
+    {
+      "code": 7602022012,
+      "name": "Rantedoda"
+    },
+    {
+      "code": 7602022013,
+      "name": "Kopeang"
+    }
+  ]
+}

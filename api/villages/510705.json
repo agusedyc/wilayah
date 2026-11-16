@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5107052001,
+      "name": "Ababi"
+    },
+    {
+      "code": 5107052002,
+      "name": "Tiyingtali"
+    },
+    {
+      "code": 5107052003,
+      "name": "Bunutan"
+    },
+    {
+      "code": 5107052004,
+      "name": "Tista"
+    },
+    {
+      "code": 5107052005,
+      "name": "Abang"
+    },
+    {
+      "code": 5107052006,
+      "name": "Pidpid"
+    },
+    {
+      "code": 5107052007,
+      "name": "Datah"
+    },
+    {
+      "code": 5107052008,
+      "name": "Culik"
+    },
+    {
+      "code": 5107052009,
+      "name": "Purwa Kerthi"
+    },
+    {
+      "code": 5107052010,
+      "name": "Kertha Mandala"
+    },
+    {
+      "code": 5107052011,
+      "name": "Laba Sari"
+    },
+    {
+      "code": 5107052012,
+      "name": "Nawa Kerti"
+    },
+    {
+      "code": 5107052013,
+      "name": "Kesimpar"
+    },
+    {
+      "code": 5107052014,
+      "name": "Tri Buana"
+    }
+  ]
+}

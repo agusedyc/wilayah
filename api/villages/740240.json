@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7402402001,
+      "name": "Anggalomoare"
+    },
+    {
+      "code": 7402402002,
+      "name": "Lasoso"
+    },
+    {
+      "code": 7402402003,
+      "name": "Lakomea"
+    },
+    {
+      "code": 7402402004,
+      "name": "Abelisawah"
+    },
+    {
+      "code": 7402402005,
+      "name": "Galu"
+    },
+    {
+      "code": 7402402006,
+      "name": "Tabanggele"
+    },
+    {
+      "code": 7402402007,
+      "name": "Puusangi"
+    },
+    {
+      "code": 7402402008,
+      "name": "Andobeu Jaya"
+    },
+    {
+      "code": 7402402009,
+      "name": "Anggalomoare Jaya"
+    },
+    {
+      "code": 7402402010,
+      "name": "Pusawah Jaya"
+    }
+  ]
+}

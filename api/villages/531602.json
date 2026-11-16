@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5316021001,
+      "name": "Nangaroro"
+    },
+    {
+      "code": 5316022002,
+      "name": "Podenura"
+    },
+    {
+      "code": 5316022003,
+      "name": "Tonggo"
+    },
+    {
+      "code": 5316022004,
+      "name": "Wokodekororo"
+    },
+    {
+      "code": 5316022005,
+      "name": "Riti"
+    },
+    {
+      "code": 5316022006,
+      "name": "Kotakeo"
+    },
+    {
+      "code": 5316022007,
+      "name": "Pagomogo"
+    },
+    {
+      "code": 5316022008,
+      "name": "Degalea"
+    },
+    {
+      "code": 5316022009,
+      "name": "Ulupulu"
+    },
+    {
+      "code": 5316022010,
+      "name": "Bidoa"
+    },
+    {
+      "code": 5316022011,
+      "name": "Utetoto"
+    },
+    {
+      "code": 5316022012,
+      "name": "Nataute"
+    },
+    {
+      "code": 5316022013,
+      "name": "Woedoa"
+    },
+    {
+      "code": 5316022014,
+      "name": "Woewutu"
+    },
+    {
+      "code": 5316022015,
+      "name": "Ulupulu I"
+    },
+    {
+      "code": 5316022016,
+      "name": "Wokowoe"
+    },
+    {
+      "code": 5316022017,
+      "name": "Kotakeo Satu"
+    },
+    {
+      "code": 5316022018,
+      "name": "Kotakeo Dua"
+    },
+    {
+      "code": 5316022019,
+      "name": "Kodaute"
+    }
+  ]
+}

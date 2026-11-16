@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9502102001,
+      "name": "Bime"
+    },
+    {
+      "code": 9502102002,
+      "name": "Bob"
+    },
+    {
+      "code": 9502102003,
+      "name": "Kameme"
+    },
+    {
+      "code": 9502102004,
+      "name": "Calab"
+    },
+    {
+      "code": 9502102005,
+      "name": "Limiri"
+    },
+    {
+      "code": 9502102006,
+      "name": "Teli"
+    },
+    {
+      "code": 9502102007,
+      "name": "Lim Lim"
+    },
+    {
+      "code": 9502102008,
+      "name": "Bunggon"
+    },
+    {
+      "code": 9502102009,
+      "name": "Perem"
+    },
+    {
+      "code": 9502102010,
+      "name": "Turwe"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8204252001,
+      "name": "Gonone"
+    },
+    {
+      "code": 8204252002,
+      "name": "Kakupang"
+    },
+    {
+      "code": 8204252003,
+      "name": "Kurunga"
+    },
+    {
+      "code": 8204252004,
+      "name": "Liboba Hijrah"
+    },
+    {
+      "code": 8204252005,
+      "name": "Pulau Gala"
+    },
+    {
+      "code": 8204252006,
+      "name": "Tawabi"
+    },
+    {
+      "code": 8204252007,
+      "name": "Yomen"
+    }
+  ]
+}

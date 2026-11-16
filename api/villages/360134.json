@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3601341001,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3601341002,
+      "name": "Karaton"
+    },
+    {
+      "code": 3601341003,
+      "name": "Saruni"
+    },
+    {
+      "code": 3601341004,
+      "name": "Pagerbatu"
+    },
+    {
+      "code": 3601341005,
+      "name": "Cilaja"
+    }
+  ]
+}

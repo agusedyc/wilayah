@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8103182001,
+      "name": "Wedangkou"
+    },
+    {
+      "code": 8103182002,
+      "name": "Adodo Molu"
+    },
+    {
+      "code": 8103182003,
+      "name": "Wulmasa"
+    },
+    {
+      "code": 8103182004,
+      "name": "Tutunametal"
+    },
+    {
+      "code": 8103182005,
+      "name": "Nurkat"
+    }
+  ]
+}

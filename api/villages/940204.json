@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9402042001,
+      "name": "Mewoluk"
+    },
+    {
+      "code": 9402042002,
+      "name": "Gumbru"
+    },
+    {
+      "code": 9402042003,
+      "name": "Anggulobaga"
+    },
+    {
+      "code": 9402042004,
+      "name": "Balinggup"
+    },
+    {
+      "code": 9402042005,
+      "name": "Waliba"
+    },
+    {
+      "code": 9402042006,
+      "name": "Nggininik"
+    },
+    {
+      "code": 9402042007,
+      "name": "Biak"
+    },
+    {
+      "code": 9402042008,
+      "name": "Wutikme"
+    }
+  ]
+}

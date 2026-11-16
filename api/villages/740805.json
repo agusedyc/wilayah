@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7408051002,
+      "name": "Mala - Mala"
+    },
+    {
+      "code": 7408052001,
+      "name": "Awo"
+    },
+    {
+      "code": 7408052003,
+      "name": "Koroha"
+    },
+    {
+      "code": 7408052004,
+      "name": "Kamisi"
+    },
+    {
+      "code": 7408052006,
+      "name": "Lametuna"
+    },
+    {
+      "code": 7408052007,
+      "name": "Meeto"
+    },
+    {
+      "code": 7408052009,
+      "name": "Kalu-Kaluku"
+    },
+    {
+      "code": 7408052010,
+      "name": "Jabal Nur"
+    },
+    {
+      "code": 7408052012,
+      "name": "Jabal Kubis"
+    },
+    {
+      "code": 7408052014,
+      "name": "Sawangaoha"
+    },
+    {
+      "code": 7408052018,
+      "name": "Ainani Tajriani"
+    },
+    {
+      "code": 7408052019,
+      "name": "Delang-Delang"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7371061001,
+      "name": "Malimongan Baru"
+    },
+    {
+      "code": 7371061002,
+      "name": "Wajo Baru"
+    },
+    {
+      "code": 7371061003,
+      "name": "Gaddong"
+    },
+    {
+      "code": 7371061004,
+      "name": "Bontoala"
+    },
+    {
+      "code": 7371061005,
+      "name": "Baraya"
+    },
+    {
+      "code": 7371061006,
+      "name": "Layang"
+    },
+    {
+      "code": 7371061007,
+      "name": "Parang Layang"
+    },
+    {
+      "code": 7371061008,
+      "name": "Bontoala Tua"
+    },
+    {
+      "code": 7371061009,
+      "name": "Bontoala Parang"
+    },
+    {
+      "code": 7371061010,
+      "name": "Tompo Balang"
+    },
+    {
+      "code": 7371061011,
+      "name": "Bunga Ejaya"
+    },
+    {
+      "code": 7371061012,
+      "name": "Timungan Lompoa"
+    }
+  ]
+}

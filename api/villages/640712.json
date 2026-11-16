@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6407122001,
+      "name": "Gerunggung"
+    },
+    {
+      "code": 6407122002,
+      "name": "Pereng Taliq"
+    },
+    {
+      "code": 6407122003,
+      "name": "Tanjung Soke"
+    },
+    {
+      "code": 6407122004,
+      "name": "Deraya"
+    },
+    {
+      "code": 6407122005,
+      "name": "Lemper"
+    },
+    {
+      "code": 6407122006,
+      "name": "Muara Siram"
+    },
+    {
+      "code": 6407122007,
+      "name": "Resak"
+    },
+    {
+      "code": 6407122008,
+      "name": "Jambuk"
+    },
+    {
+      "code": 6407122009,
+      "name": "Muara Gusik"
+    },
+    {
+      "code": 6407122010,
+      "name": "Penawai"
+    },
+    {
+      "code": 6407122011,
+      "name": "Muara Kedang"
+    },
+    {
+      "code": 6407122012,
+      "name": "Jambuk Makmur"
+    },
+    {
+      "code": 6407122014,
+      "name": "Siram Makmur"
+    },
+    {
+      "code": 6407122015,
+      "name": "Siram Jaya"
+    },
+    {
+      "code": 6407122016,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 6407122019,
+      "name": "Tanjung Sari"
+    }
+  ]
+}

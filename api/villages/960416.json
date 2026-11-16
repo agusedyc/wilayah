@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604162001,
+      "name": "Mawor"
+    },
+    {
+      "code": 9604162002,
+      "name": "Ruf"
+    },
+    {
+      "code": 9604162003,
+      "name": "Ayamane"
+    },
+    {
+      "code": 9604162004,
+      "name": "Whismer"
+    },
+    {
+      "code": 9604162005,
+      "name": "Sahae"
+    },
+    {
+      "code": 9604162006,
+      "name": "Hewi"
+    },
+    {
+      "code": 9604162007,
+      "name": "Sisu"
+    },
+    {
+      "code": 9604162008,
+      "name": "Ruvewes"
+    },
+    {
+      "code": 9604162009,
+      "name": "Yabuow"
+    }
+  ]
+}

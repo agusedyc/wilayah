@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3279031001,
+      "name": "Purwaharja"
+    },
+    {
+      "code": 3279031004,
+      "name": "Karangpanimbal"
+    },
+    {
+      "code": 3279032002,
+      "name": "Raharja"
+    },
+    {
+      "code": 3279032003,
+      "name": "Mekarharja"
+    }
+  ]
+}

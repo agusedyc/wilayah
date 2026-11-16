@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9408052001,
+      "name": "Komauto/Kapiraya"
+    },
+    {
+      "code": 9408052002,
+      "name": "Mogodagi"
+    },
+    {
+      "code": 9408052003,
+      "name": "Yamouwitina"
+    },
+    {
+      "code": 9408052004,
+      "name": "Idego"
+    },
+    {
+      "code": 9408052005,
+      "name": "Uwe Onagei"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1706072001,
+      "name": "Arga Jaya"
+    },
+    {
+      "code": 1706072002,
+      "name": "Air Rami"
+    },
+    {
+      "code": 1706072003,
+      "name": "Rami Mulya"
+    },
+    {
+      "code": 1706072004,
+      "name": "Talang Rio"
+    },
+    {
+      "code": 1706072005,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 1706072006,
+      "name": "Marga Mulia"
+    },
+    {
+      "code": 1706072007,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1706072008,
+      "name": "Dusun Pulau"
+    },
+    {
+      "code": 1706072009,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 1706072010,
+      "name": "Tirta Kencana"
+    },
+    {
+      "code": 1706072011,
+      "name": "Cinta Asih"
+    },
+    {
+      "code": 1706072012,
+      "name": "Bukit Mulya"
+    }
+  ]
+}

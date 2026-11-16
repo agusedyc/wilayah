@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9508072001,
+      "name": "Mbuwa"
+    },
+    {
+      "code": 9508072002,
+      "name": "Otalama"
+    },
+    {
+      "code": 9508072003,
+      "name": "Arugia"
+    },
+    {
+      "code": 9508072004,
+      "name": "Opmu"
+    },
+    {
+      "code": 9508072005,
+      "name": "Digilimu"
+    },
+    {
+      "code": 9508072006,
+      "name": "Kogomaru"
+    }
+  ]
+}

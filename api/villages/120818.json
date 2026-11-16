@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1208181013,
+      "name": "Huta Bayu"
+    },
+    {
+      "code": 1208182001,
+      "name": "Mariah Hombang"
+    },
+    {
+      "code": 1208182002,
+      "name": "Pulo Bayu"
+    },
+    {
+      "code": 1208182003,
+      "name": "Silakkidir"
+    },
+    {
+      "code": 1208182004,
+      "name": "Raja Maligas"
+    },
+    {
+      "code": 1208182005,
+      "name": "Dolok Sinumbah"
+    },
+    {
+      "code": 1208182006,
+      "name": "Maligas Bayu"
+    },
+    {
+      "code": 1208182007,
+      "name": "Jawa Baru"
+    },
+    {
+      "code": 1208182008,
+      "name": "Mancuk"
+    },
+    {
+      "code": 1208182009,
+      "name": "Marihat Mayang"
+    },
+    {
+      "code": 1208182010,
+      "name": "Bosar Bayu"
+    },
+    {
+      "code": 1208182011,
+      "name": "Raja Maligas I"
+    },
+    {
+      "code": 1208182012,
+      "name": "Bahal Batu"
+    },
+    {
+      "code": 1208182014,
+      "name": "Pokan Baru"
+    },
+    {
+      "code": 1208182015,
+      "name": "Manrayap Bayu"
+    },
+    {
+      "code": 1208182016,
+      "name": "Talang Bayu"
+    }
+  ]
+}

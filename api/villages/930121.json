@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9301212001,
+      "name": "Sabudon"
+    },
+    {
+      "code": 9301212002,
+      "name": "Padua"
+    },
+    {
+      "code": 9301212003,
+      "name": "Sigad"
+    },
+    {
+      "code": 9301212004,
+      "name": "Bamol I"
+    },
+    {
+      "code": 9301212005,
+      "name": "Bamol II"
+    }
+  ]
+}

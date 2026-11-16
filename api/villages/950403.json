@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504031001,
+      "name": "Kanggime"
+    },
+    {
+      "code": 9504032002,
+      "name": "Marlo"
+    },
+    {
+      "code": 9504032003,
+      "name": "Logon"
+    },
+    {
+      "code": 9504032004,
+      "name": "Aulani"
+    },
+    {
+      "code": 9504032005,
+      "name": "Ligiibak"
+    },
+    {
+      "code": 9504032006,
+      "name": "Kerena"
+    },
+    {
+      "code": 9504032007,
+      "name": "Purugi"
+    },
+    {
+      "code": 9504032008,
+      "name": "Lawor"
+    },
+    {
+      "code": 9504032009,
+      "name": "Kagimaluk"
+    },
+    {
+      "code": 9504032010,
+      "name": "Dundu"
+    }
+  ]
+}

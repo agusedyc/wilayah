@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504342001,
+      "name": "Geka"
+    },
+    {
+      "code": 9504342002,
+      "name": "Kwa"
+    },
+    {
+      "code": 9504342003,
+      "name": "Gelok"
+    },
+    {
+      "code": 9504342004,
+      "name": "Makido"
+    },
+    {
+      "code": 9504342005,
+      "name": "Yinuwanu"
+    },
+    {
+      "code": 9504342006,
+      "name": "Wanuwi"
+    },
+    {
+      "code": 9504342007,
+      "name": "Dimbara"
+    },
+    {
+      "code": 9504342008,
+      "name": "Wenigi"
+    },
+    {
+      "code": 9504342009,
+      "name": "Membramonggen"
+    },
+    {
+      "code": 9504342010,
+      "name": "Tabunakme"
+    }
+  ]
+}

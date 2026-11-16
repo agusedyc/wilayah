@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 1111062001,
+      "name": "Leubu Me"
+    },
+    {
+      "code": 1111062002,
+      "name": "Paya Dua"
+    },
+    {
+      "code": 1111062003,
+      "name": "Leubu Cot"
+    },
+    {
+      "code": 1111062004,
+      "name": "Leubu Mesjid"
+    },
+    {
+      "code": 1111062005,
+      "name": "Kuta Barat"
+    },
+    {
+      "code": 1111062006,
+      "name": "Trienggadeng"
+    },
+    {
+      "code": 1111062007,
+      "name": "Cot Kruet"
+    },
+    {
+      "code": 1111062008,
+      "name": "Blang Khutang"
+    },
+    {
+      "code": 1111062009,
+      "name": "Buket Seulamat"
+    },
+    {
+      "code": 1111062010,
+      "name": "Lapehan Mesjid"
+    },
+    {
+      "code": 1111062011,
+      "name": "Ulee Glee"
+    },
+    {
+      "code": 1111062012,
+      "name": "Mona Ara"
+    },
+    {
+      "code": 1111062013,
+      "name": "Pandak"
+    },
+    {
+      "code": 1111062014,
+      "name": "Blang Dalam"
+    },
+    {
+      "code": 1111062015,
+      "name": "Alue Dua"
+    },
+    {
+      "code": 1111062016,
+      "name": "Seuneubok Baro"
+    },
+    {
+      "code": 1111062017,
+      "name": "Panteu Breuh"
+    },
+    {
+      "code": 1111062018,
+      "name": "Tanjong Mulia"
+    },
+    {
+      "code": 1111062019,
+      "name": "Blang Mane"
+    },
+    {
+      "code": 1111062020,
+      "name": "Meureubo"
+    },
+    {
+      "code": 1111062021,
+      "name": "Blang Perlak"
+    },
+    {
+      "code": 1111062022,
+      "name": "Panton Mesjid"
+    },
+    {
+      "code": 1111062023,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1111062024,
+      "name": "Matang Kumbang"
+    },
+    {
+      "code": 1111062025,
+      "name": "Pulo Teungoh"
+    },
+    {
+      "code": 1111062026,
+      "name": "Batee Dabai"
+    },
+    {
+      "code": 1111062027,
+      "name": "Ara Lipeh"
+    }
+  ]
+}

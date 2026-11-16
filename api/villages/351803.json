@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3518032001,
+      "name": "Salamrojo"
+    },
+    {
+      "code": 3518032002,
+      "name": "Cepoko"
+    },
+    {
+      "code": 3518032003,
+      "name": "Maguan"
+    },
+    {
+      "code": 3518032004,
+      "name": "Semare"
+    },
+    {
+      "code": 3518032005,
+      "name": "Berbek"
+    },
+    {
+      "code": 3518032006,
+      "name": "Mlilir"
+    },
+    {
+      "code": 3518032007,
+      "name": "Bendungrejo"
+    },
+    {
+      "code": 3518032008,
+      "name": "Sengkut"
+    },
+    {
+      "code": 3518032009,
+      "name": "Ngrawan"
+    },
+    {
+      "code": 3518032010,
+      "name": "Sumberwindu"
+    },
+    {
+      "code": 3518032011,
+      "name": "Kacangan"
+    },
+    {
+      "code": 3518032012,
+      "name": "Sendangbumen"
+    },
+    {
+      "code": 3518032013,
+      "name": "Patranrejo"
+    },
+    {
+      "code": 3518032014,
+      "name": "Sumberurip"
+    },
+    {
+      "code": 3518032015,
+      "name": "Bulu"
+    },
+    {
+      "code": 3518032016,
+      "name": "Grojogan"
+    },
+    {
+      "code": 3518032017,
+      "name": "Tiripan"
+    },
+    {
+      "code": 3518032018,
+      "name": "Balongrejo"
+    },
+    {
+      "code": 3518032019,
+      "name": "Sonopatik"
+    }
+  ]
+}

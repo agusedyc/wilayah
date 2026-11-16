@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9405052001,
+      "name": "Pogoma"
+    },
+    {
+      "code": 9405052002,
+      "name": "Gagama"
+    },
+    {
+      "code": 9405052003,
+      "name": "Wiha"
+    },
+    {
+      "code": 9405052004,
+      "name": "Wakme"
+    },
+    {
+      "code": 9405052005,
+      "name": "Ugutmu"
+    },
+    {
+      "code": 9405052006,
+      "name": "Yugume"
+    },
+    {
+      "code": 9405052007,
+      "name": "Kolamagi"
+    },
+    {
+      "code": 9405052008,
+      "name": "Guwamu"
+    },
+    {
+      "code": 9405052009,
+      "name": "Kumasingga"
+    }
+  ]
+}

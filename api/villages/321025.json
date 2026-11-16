@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3210252001,
+      "name": "Pasirayu"
+    },
+    {
+      "code": 3210252002,
+      "name": "Sindang"
+    },
+    {
+      "code": 3210252003,
+      "name": "Garawastu"
+    },
+    {
+      "code": 3210252004,
+      "name": "Indrakila"
+    },
+    {
+      "code": 3210252005,
+      "name": "Gunungkuning"
+    },
+    {
+      "code": 3210252007,
+      "name": "Sangkanhurip"
+    },
+    {
+      "code": 3210252008,
+      "name": "Bayureja"
+    }
+  ]
+}

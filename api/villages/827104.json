@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8271041001,
+      "name": "Takofi"
+    },
+    {
+      "code": 8271041002,
+      "name": "Moti Kota"
+    },
+    {
+      "code": 8271041003,
+      "name": "Tafamutu"
+    },
+    {
+      "code": 8271041004,
+      "name": "Tafaga"
+    },
+    {
+      "code": 8271041006,
+      "name": "Figur"
+    },
+    {
+      "code": 8271041007,
+      "name": "Tadenas"
+    }
+  ]
+}

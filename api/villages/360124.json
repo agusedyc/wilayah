@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601242006,
+      "name": "Turus"
+    },
+    {
+      "code": 3601242008,
+      "name": "Patia"
+    },
+    {
+      "code": 3601242009,
+      "name": "Pasirgadung"
+    },
+    {
+      "code": 3601242010,
+      "name": "Cimoyan"
+    },
+    {
+      "code": 3601242011,
+      "name": "Idaman"
+    },
+    {
+      "code": 3601242014,
+      "name": "Babakankeusik"
+    },
+    {
+      "code": 3601242015,
+      "name": "Surianeun"
+    },
+    {
+      "code": 3601242017,
+      "name": "Rahayu"
+    },
+    {
+      "code": 3601242018,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3601242020,
+      "name": "Simpangtiga"
+    }
+  ]
+}

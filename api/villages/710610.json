@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7106102001,
+      "name": "Kokoleh Satu"
+    },
+    {
+      "code": 7106102002,
+      "name": "Kokoleh Dua"
+    },
+    {
+      "code": 7106102003,
+      "name": "Paslaten"
+    },
+    {
+      "code": 7106102004,
+      "name": "Kaweruan"
+    },
+    {
+      "code": 7106102005,
+      "name": "Wangurer"
+    },
+    {
+      "code": 7106102006,
+      "name": "Batu"
+    },
+    {
+      "code": 7106102007,
+      "name": "Werot"
+    }
+  ]
+}

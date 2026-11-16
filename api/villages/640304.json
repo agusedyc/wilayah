@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6403042001,
+      "name": "Long La'ai"
+    },
+    {
+      "code": 6403042002,
+      "name": "Punan Segah"
+    },
+    {
+      "code": 6403042003,
+      "name": "Long Ayap"
+    },
+    {
+      "code": 6403042004,
+      "name": "Long Ayan"
+    },
+    {
+      "code": 6403042005,
+      "name": "Punan Malinau"
+    },
+    {
+      "code": 6403042006,
+      "name": "Punan Mahkam"
+    },
+    {
+      "code": 6403042007,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 6403042008,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 6403042009,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 6403042010,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 6403042011,
+      "name": "Tepian Buah"
+    },
+    {
+      "code": 6403042012,
+      "name": "Batu Rajang"
+    },
+    {
+      "code": 6403042013,
+      "name": "Siduung Indah"
+    }
+  ]
+}

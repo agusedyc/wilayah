@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3521162001,
+      "name": "Kalang"
+    },
+    {
+      "code": 3521162002,
+      "name": "Pitu"
+    },
+    {
+      "code": 3521162003,
+      "name": "Dumplengan"
+    },
+    {
+      "code": 3521162004,
+      "name": "Selopuro"
+    },
+    {
+      "code": 3521162005,
+      "name": "Karanggeneng"
+    },
+    {
+      "code": 3521162006,
+      "name": "Ngancar"
+    },
+    {
+      "code": 3521162007,
+      "name": "Cantel"
+    },
+    {
+      "code": 3521162008,
+      "name": "Papungan"
+    },
+    {
+      "code": 3521162009,
+      "name": "Banjarbanggi"
+    },
+    {
+      "code": 3521162010,
+      "name": "Bangunrejo Lor"
+    }
+  ]
+}

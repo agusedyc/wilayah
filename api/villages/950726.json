@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507262001,
+      "name": "Tinggipura"
+    },
+    {
+      "code": 9507262002,
+      "name": "Yeyugu"
+    },
+    {
+      "code": 9507262003,
+      "name": "Yugume"
+    },
+    {
+      "code": 9507262004,
+      "name": "Baliempura"
+    },
+    {
+      "code": 9507262005,
+      "name": "Denomagi"
+    },
+    {
+      "code": 9507262006,
+      "name": "Magame"
+    },
+    {
+      "code": 9507262007,
+      "name": "Lorea"
+    },
+    {
+      "code": 9507262008,
+      "name": "Anggumabume"
+    }
+  ]
+}

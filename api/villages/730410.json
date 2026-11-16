@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7304102001,
+      "name": "Rumbia"
+    },
+    {
+      "code": 7304102002,
+      "name": "Lebangmanai"
+    },
+    {
+      "code": 7304102003,
+      "name": "Bontomanai"
+    },
+    {
+      "code": 7304102004,
+      "name": "Bontotiro"
+    },
+    {
+      "code": 7304102005,
+      "name": "Loka"
+    },
+    {
+      "code": 7304102006,
+      "name": "Tompobulu"
+    },
+    {
+      "code": 7304102007,
+      "name": "Kassi"
+    },
+    {
+      "code": 7304102008,
+      "name": "Pallantikang"
+    },
+    {
+      "code": 7304102009,
+      "name": "Lebangmanai Utara"
+    },
+    {
+      "code": 7304102010,
+      "name": "Bontocini"
+    },
+    {
+      "code": 7304102011,
+      "name": "Janetallasa"
+    },
+    {
+      "code": 7304102012,
+      "name": "Ujung Bulu"
+    }
+  ]
+}

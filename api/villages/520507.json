@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5205072001,
+      "name": "Soriutu"
+    },
+    {
+      "code": 5205072002,
+      "name": "Banggo"
+    },
+    {
+      "code": 5205072003,
+      "name": "Kwangko"
+    },
+    {
+      "code": 5205072004,
+      "name": "Lanci Jaya"
+    },
+    {
+      "code": 5205072005,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 5205072006,
+      "name": "Nusa Jaya"
+    },
+    {
+      "code": 5205072007,
+      "name": "Doromelo"
+    },
+    {
+      "code": 5205072008,
+      "name": "Nangatumpu"
+    },
+    {
+      "code": 5205072009,
+      "name": "Kampasi Meci"
+    },
+    {
+      "code": 5205072010,
+      "name": "Teka Sire"
+    },
+    {
+      "code": 5205072011,
+      "name": "Anamina"
+    },
+    {
+      "code": 5205072012,
+      "name": "Tanju"
+    }
+  ]
+}

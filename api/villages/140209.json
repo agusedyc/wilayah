@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1402092001,
+      "name": "Japura"
+    },
+    {
+      "code": 1402092002,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1402092003,
+      "name": "Pasir Ringgit"
+    },
+    {
+      "code": 1402092004,
+      "name": "Gudang Batu"
+    },
+    {
+      "code": 1402092005,
+      "name": "Sungai Sagu"
+    },
+    {
+      "code": 1402092006,
+      "name": "Lirik Area"
+    },
+    {
+      "code": 1402092007,
+      "name": "Rejosari"
+    },
+    {
+      "code": 1402092008,
+      "name": "Lambang Sari V"
+    },
+    {
+      "code": 1402092009,
+      "name": "Lambang Sari IV"
+    },
+    {
+      "code": 1402092010,
+      "name": "\"Lambang Sari I"
+    },
+    {
+      "code": 1402092011,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1402092012,
+      "name": "Seko Lubuk Tigo"
+    },
+    {
+      "code": 1402092013,
+      "name": "Banjar Balam"
+    },
+    {
+      "code": 1402092014,
+      "name": "Redang Seko"
+    },
+    {
+      "code": 1402092015,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1402092016,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1402092017,
+      "name": "Pasir Sialang Jaya"
+    }
+  ]
+}

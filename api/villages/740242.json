@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7402422001,
+      "name": "Waworoda Jaya"
+    },
+    {
+      "code": 7402422002,
+      "name": "Uluao"
+    },
+    {
+      "code": 7402422003,
+      "name": "Sanuanggamo"
+    },
+    {
+      "code": 7402422004,
+      "name": "Anggohu"
+    },
+    {
+      "code": 7402422005,
+      "name": "Ambopi"
+    },
+    {
+      "code": 7402422006,
+      "name": "Nambeaboru"
+    },
+    {
+      "code": 7402422007,
+      "name": "Puundombi"
+    },
+    {
+      "code": 7402422008,
+      "name": "Olo Onua"
+    },
+    {
+      "code": 7402422009,
+      "name": "Barowila"
+    },
+    {
+      "code": 7402422010,
+      "name": "Andalambe"
+    }
+  ]
+}

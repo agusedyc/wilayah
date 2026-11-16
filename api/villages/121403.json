@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1214032001,
+      "name": "Bawolato"
+    },
+    {
+      "code": 1214032002,
+      "name": "Bawozihono"
+    },
+    {
+      "code": 1214032003,
+      "name": "Bawo'otalua"
+    },
+    {
+      "code": 1214032004,
+      "name": "Golambanua I"
+    },
+    {
+      "code": 1214032007,
+      "name": "Hilisimaetano Balaekha"
+    },
+    {
+      "code": 1214032009,
+      "name": "Lahusa"
+    },
+    {
+      "code": 1214032014,
+      "name": "Tetezou"
+    },
+    {
+      "code": 1214032016,
+      "name": "Orahili Balaekha"
+    },
+    {
+      "code": 1214032017,
+      "name": "Harenoro"
+    },
+    {
+      "code": 1214032018,
+      "name": "Sarahililaza"
+    },
+    {
+      "code": 1214032024,
+      "name": "Hiliabolata"
+    },
+    {
+      "code": 1214032025,
+      "name": "Hiligambukha"
+    },
+    {
+      "code": 1214032026,
+      "name": "Sinar Baru Darodaro"
+    },
+    {
+      "code": 1214032027,
+      "name": "Hiliorudua"
+    },
+    {
+      "code": 1214032032,
+      "name": "Hilizomboi"
+    },
+    {
+      "code": 1214032036,
+      "name": "Oikhoda Balaekha"
+    },
+    {
+      "code": 1214032037,
+      "name": "Angorudua Balaekha"
+    },
+    {
+      "code": 1214032038,
+      "name": "Hilinawalo Balaekha"
+    },
+    {
+      "code": 1214032039,
+      "name": "Sobawagoli"
+    },
+    {
+      "code": 1214032040,
+      "name": "Lahusa I"
+    },
+    {
+      "code": 1214032041,
+      "name": "Hiliwatema"
+    },
+    {
+      "code": 1214032042,
+      "name": "Mogae"
+    },
+    {
+      "code": 1214032043,
+      "name": "Sinar Baho"
+    }
+  ]
+}

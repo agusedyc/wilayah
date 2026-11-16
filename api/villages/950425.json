@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504252001,
+      "name": "Egiam"
+    },
+    {
+      "code": 9504252002,
+      "name": "Yonira"
+    },
+    {
+      "code": 9504252003,
+      "name": "Tabonakme"
+    },
+    {
+      "code": 9504252004,
+      "name": "Murni"
+    },
+    {
+      "code": 9504252005,
+      "name": "Yoka"
+    },
+    {
+      "code": 9504252006,
+      "name": "Wayongga"
+    },
+    {
+      "code": 9504252007,
+      "name": "Weri"
+    },
+    {
+      "code": 9504252008,
+      "name": "Pinde"
+    },
+    {
+      "code": 9504252009,
+      "name": "Kurba"
+    },
+    {
+      "code": 9504252010,
+      "name": "Kaliundi"
+    }
+  ]
+}

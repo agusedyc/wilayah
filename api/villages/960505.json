@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9605052001,
+      "name": "Kambufatem"
+    },
+    {
+      "code": 9605052002,
+      "name": "Kambufatem Utara"
+    },
+    {
+      "code": 9605052003,
+      "name": "Fatase"
+    },
+    {
+      "code": 9605052004,
+      "name": "Hosyo Ata"
+    },
+    {
+      "code": 9605052005,
+      "name": "Waybomatah"
+    },
+    {
+      "code": 9605052006,
+      "name": "Siyo"
+    },
+    {
+      "code": 9605052007,
+      "name": "Hasweh"
+    },
+    {
+      "code": 9605052008,
+      "name": "Fatem"
+    },
+    {
+      "code": 9605052009,
+      "name": "Hosyo Banah"
+    }
+  ]
+}

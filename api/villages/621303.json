@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6213032001,
+      "name": "Pulau Padang"
+    },
+    {
+      "code": 6213032002,
+      "name": "Kambitin"
+    },
+    {
+      "code": 6213032003,
+      "name": "Ramania"
+    },
+    {
+      "code": 6213032004,
+      "name": "Bentot"
+    },
+    {
+      "code": 6213032005,
+      "name": "Ampari Bura"
+    },
+    {
+      "code": 6213032006,
+      "name": "Kotam"
+    },
+    {
+      "code": 6213032008,
+      "name": "Betang Nalong"
+    },
+    {
+      "code": 6213032009,
+      "name": "Mawani"
+    },
+    {
+      "code": 6213032010,
+      "name": "Jango"
+    },
+    {
+      "code": 6213032011,
+      "name": "Lalap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1273011001,
+      "name": "Huta Barangan"
+    },
+    {
+      "code": 1273011002,
+      "name": "Angin Nauli"
+    },
+    {
+      "code": 1273011003,
+      "name": "Huta Tonga-tonga"
+    },
+    {
+      "code": 1273011004,
+      "name": "Sibolga Ilir"
+    },
+    {
+      "code": 1273011005,
+      "name": "Simare-Mare"
+    }
+  ]
+}

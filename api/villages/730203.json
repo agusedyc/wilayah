@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7302031001,
+      "name": "Tanahl Lemo"
+    },
+    {
+      "code": 7302031002,
+      "name": "Sapo Lohe"
+    },
+    {
+      "code": 7302031003,
+      "name": "Benjala"
+    },
+    {
+      "code": 7302031004,
+      "name": "Tanah Beru"
+    },
+    {
+      "code": 7302032005,
+      "name": "Bira"
+    },
+    {
+      "code": 7302032006,
+      "name": "Ara"
+    },
+    {
+      "code": 7302032007,
+      "name": "Darubiah"
+    },
+    {
+      "code": 7302032008,
+      "name": "Lembanna"
+    }
+  ]
+}

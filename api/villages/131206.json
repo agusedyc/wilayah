@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1312062001,
+      "name": "Muaro Kiawai"
+    },
+    {
+      "code": 1312062002,
+      "name": "Rabi Jonggor"
+    },
+    {
+      "code": 1312062003,
+      "name": "Seberang Kenaikan"
+    },
+    {
+      "code": 1312062004,
+      "name": "Bahoras"
+    },
+    {
+      "code": 1312062005,
+      "name": "Ranah Sungai Magelang"
+    },
+    {
+      "code": 1312062006,
+      "name": "Muaro Kiawai Barat"
+    },
+    {
+      "code": 1312062007,
+      "name": "Muaro Kiawai Hilir"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273021001,
+      "name": "Cipaganti"
+    },
+    {
+      "code": 3273021002,
+      "name": "Lebak Gede"
+    },
+    {
+      "code": 3273021003,
+      "name": "Sadang Serang"
+    },
+    {
+      "code": 3273021004,
+      "name": "Dago"
+    },
+    {
+      "code": 3273021005,
+      "name": "Sekeloa"
+    },
+    {
+      "code": 3273021006,
+      "name": "Lebak Siliwangi"
+    }
+  ]
+}

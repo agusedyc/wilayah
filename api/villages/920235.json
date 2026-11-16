@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9202352001,
+      "name": "Mubraidiba"
+    },
+    {
+      "code": 9202352002,
+      "name": "Mandopi"
+    },
+    {
+      "code": 9202352003,
+      "name": "Mubri"
+    },
+    {
+      "code": 9202352004,
+      "name": "Teluk Mubri"
+    },
+    {
+      "code": 9202352005,
+      "name": "Meyes"
+    },
+    {
+      "code": 9202352006,
+      "name": "Inya"
+    },
+    {
+      "code": 9202352007,
+      "name": "Warbefor"
+    },
+    {
+      "code": 9202352008,
+      "name": "Yonggam"
+    },
+    {
+      "code": 9202352009,
+      "name": "Singgimeba"
+    },
+    {
+      "code": 9202352010,
+      "name": "Inyei"
+    }
+  ]
+}

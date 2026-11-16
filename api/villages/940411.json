@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9404112001,
+      "name": "Potowai Buru"
+    },
+    {
+      "code": 9404112002,
+      "name": "Yapkoka"
+    },
+    {
+      "code": 9404112003,
+      "name": "Aindua"
+    },
+    {
+      "code": 9404112004,
+      "name": "Tapomai"
+    },
+    {
+      "code": 9404112005,
+      "name": "Umar"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7503012004,
+      "name": "Talumopatu"
+    },
+    {
+      "code": 7503012005,
+      "name": "Talulobutu"
+    },
+    {
+      "code": 7503012006,
+      "name": "Dunggala"
+    },
+    {
+      "code": 7503012007,
+      "name": "Langge"
+    },
+    {
+      "code": 7503012027,
+      "name": "Talulobutu Selatan"
+    },
+    {
+      "code": 7503012028,
+      "name": "Keramat"
+    },
+    {
+      "code": 7503012029,
+      "name": "Meranti"
+    }
+  ]
+}

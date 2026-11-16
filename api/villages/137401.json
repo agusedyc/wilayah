@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1374011001,
+      "name": "Ganting"
+    },
+    {
+      "code": 1374011002,
+      "name": "Sigando"
+    },
+    {
+      "code": 1374011003,
+      "name": "Ekor Lubuk"
+    },
+    {
+      "code": 1374011004,
+      "name": "Ngalau"
+    },
+    {
+      "code": 1374011005,
+      "name": "Guguk Malintang"
+    },
+    {
+      "code": 1374011006,
+      "name": "Koto Panjang"
+    },
+    {
+      "code": 1374011007,
+      "name": "Koto Katik"
+    },
+    {
+      "code": 1374011008,
+      "name": "Tanah Pak Lambik"
+    }
+  ]
+}

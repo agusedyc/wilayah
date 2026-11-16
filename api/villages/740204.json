@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7402041001,
+      "name": "Pondidaha"
+    },
+    {
+      "code": 7402042013,
+      "name": "Hongoa"
+    },
+    {
+      "code": 7402042016,
+      "name": "Mumundowu"
+    },
+    {
+      "code": 7402042019,
+      "name": "Ahuawatu"
+    },
+    {
+      "code": 7402042025,
+      "name": "Tirawuta"
+    },
+    {
+      "code": 7402042030,
+      "name": "Ambuulanu"
+    },
+    {
+      "code": 7402042031,
+      "name": "Belatu"
+    },
+    {
+      "code": 7402042034,
+      "name": "Amesiu"
+    },
+    {
+      "code": 7402042035,
+      "name": "Puumbinisi"
+    },
+    {
+      "code": 7402042039,
+      "name": "Wawolemo"
+    },
+    {
+      "code": 7402042045,
+      "name": "Sulemandara"
+    },
+    {
+      "code": 7402042046,
+      "name": "Lalodangge"
+    },
+    {
+      "code": 7402042047,
+      "name": "Wawolahumbuti"
+    },
+    {
+      "code": 7402042048,
+      "name": "Laloika"
+    },
+    {
+      "code": 7402042049,
+      "name": "Lalonggotomi"
+    },
+    {
+      "code": 7402042050,
+      "name": "Wonua Mandara"
+    },
+    {
+      "code": 7402042051,
+      "name": "Wonua Monapa"
+    },
+    {
+      "code": 7402042052,
+      "name": "Lahonggumbi"
+    }
+  ]
+}

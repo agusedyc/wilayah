@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6203152001,
+      "name": "Masaha"
+    },
+    {
+      "code": 6203152002,
+      "name": "Sei Pinang"
+    },
+    {
+      "code": 6203152003,
+      "name": "Lawang Tamang"
+    },
+    {
+      "code": 6203152004,
+      "name": "Karetau Manta'a"
+    },
+    {
+      "code": 6203152005,
+      "name": "Tumbang Bukoi"
+    },
+    {
+      "code": 6203152006,
+      "name": "Tumbang Tihis"
+    },
+    {
+      "code": 6203152007,
+      "name": "Tumbang Manyarung"
+    },
+    {
+      "code": 6203152008,
+      "name": "Tanjung Rendan"
+    },
+    {
+      "code": 6203152009,
+      "name": "Jakatan Masaha"
+    },
+    {
+      "code": 6203152010,
+      "name": "Masupa Ria"
+    }
+  ]
+}

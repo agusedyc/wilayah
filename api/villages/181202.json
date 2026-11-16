@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1812021001,
+      "name": "Daya Murni"
+    },
+    {
+      "code": 1812022002,
+      "name": "Daya Sakti"
+    },
+    {
+      "code": 1812022003,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1812022004,
+      "name": "Makarti"
+    },
+    {
+      "code": 1812022005,
+      "name": "Gunung Menanti"
+    },
+    {
+      "code": 1812022006,
+      "name": "Daya Asri"
+    },
+    {
+      "code": 1812022007,
+      "name": "Murni Jaya"
+    },
+    {
+      "code": 1812022008,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1812022009,
+      "name": "Margo Dadi"
+    },
+    {
+      "code": 1812022010,
+      "name": "Gunung Timbul"
+    }
+  ]
+}

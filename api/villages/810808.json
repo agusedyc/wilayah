@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8108082001,
+      "name": "Laitutun"
+    },
+    {
+      "code": 8108082002,
+      "name": "Batumiau"
+    },
+    {
+      "code": 8108082003,
+      "name": "Tutukey"
+    },
+    {
+      "code": 8108082004,
+      "name": "Tomra"
+    },
+    {
+      "code": 8108082005,
+      "name": "Nuwewang"
+    },
+    {
+      "code": 8108082006,
+      "name": "Tutuwaru"
+    },
+    {
+      "code": 8108082007,
+      "name": "Luhuely"
+    }
+  ]
+}

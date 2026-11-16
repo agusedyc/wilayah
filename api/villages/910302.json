@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9103022001,
+      "name": "Nolokla"
+    },
+    {
+      "code": 9103022002,
+      "name": "Puai"
+    },
+    {
+      "code": 9103022004,
+      "name": "Asei Besar"
+    },
+    {
+      "code": 9103022006,
+      "name": "Nendali"
+    },
+    {
+      "code": 9103023003,
+      "name": "Desa Adat Ayapo"
+    },
+    {
+      "code": 9103023005,
+      "name": "Desa Adat Kleuwblou"
+    },
+    {
+      "code": 9103023007,
+      "name": "Desa Adat Yokiwa"
+    }
+  ]
+}

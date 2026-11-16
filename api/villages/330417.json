@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3304172001,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3304172002,
+      "name": "Suwidak"
+    },
+    {
+      "code": 3304172003,
+      "name": "Bantar"
+    },
+    {
+      "code": 3304172004,
+      "name": "Pandansari"
+    },
+    {
+      "code": 3304172005,
+      "name": "Pagergunung"
+    },
+    {
+      "code": 3304172006,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3304172007,
+      "name": "Kubang"
+    },
+    {
+      "code": 3304172008,
+      "name": "Susukan"
+    },
+    {
+      "code": 3304172009,
+      "name": "Wanayasa"
+    },
+    {
+      "code": 3304172010,
+      "name": "Pesantren"
+    },
+    {
+      "code": 3304172011,
+      "name": "Balun"
+    },
+    {
+      "code": 3304172012,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3304172013,
+      "name": "Wanaraja"
+    },
+    {
+      "code": 3304172014,
+      "name": "Jatilawang"
+    },
+    {
+      "code": 3304172015,
+      "name": "Legoksayem"
+    },
+    {
+      "code": 3304172016,
+      "name": "Kasimpar"
+    },
+    {
+      "code": 3304172017,
+      "name": "Penanggungan"
+    }
+  ]
+}

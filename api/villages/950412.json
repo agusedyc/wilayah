@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504122001,
+      "name": "Konda"
+    },
+    {
+      "code": 9504122002,
+      "name": "Arulo"
+    },
+    {
+      "code": 9504122003,
+      "name": "Mandura"
+    },
+    {
+      "code": 9504122004,
+      "name": "Mowilome"
+    },
+    {
+      "code": 9504122005,
+      "name": "Arumagi"
+    },
+    {
+      "code": 9504122006,
+      "name": "Gimo"
+    },
+    {
+      "code": 9504122007,
+      "name": "Silabulo"
+    },
+    {
+      "code": 9504122008,
+      "name": "Arikoba"
+    },
+    {
+      "code": 9504122009,
+      "name": "Tingapura"
+    },
+    {
+      "code": 9504122010,
+      "name": "Ganage"
+    },
+    {
+      "code": 9504122011,
+      "name": "Yawineri"
+    }
+  ]
+}

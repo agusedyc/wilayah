@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7102011007,
+      "name": "Masarang"
+    },
+    {
+      "code": 7102011008,
+      "name": "Rinegetan"
+    },
+    {
+      "code": 7102011009,
+      "name": "Roong"
+    },
+    {
+      "code": 7102011010,
+      "name": "Tuutu"
+    },
+    {
+      "code": 7102011011,
+      "name": "Tounkuramber"
+    },
+    {
+      "code": 7102011012,
+      "name": "Wawalintouan"
+    },
+    {
+      "code": 7102011013,
+      "name": "Rerewokan"
+    },
+    {
+      "code": 7102011014,
+      "name": "Watulambot"
+    },
+    {
+      "code": 7102011015,
+      "name": "Wewelan"
+    }
+  ]
+}

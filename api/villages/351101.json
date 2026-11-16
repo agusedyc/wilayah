@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3511012001,
+      "name": "Sucolor"
+    },
+    {
+      "code": 3511012002,
+      "name": "Pujer Baru"
+    },
+    {
+      "code": 3511012003,
+      "name": "Tanahwulan"
+    },
+    {
+      "code": 3511012004,
+      "name": "Maesan"
+    },
+    {
+      "code": 3511012005,
+      "name": "Gambangan"
+    },
+    {
+      "code": 3511012006,
+      "name": "Suger Lor"
+    },
+    {
+      "code": 3511012007,
+      "name": "Sumber Pakem"
+    },
+    {
+      "code": 3511012008,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3511012009,
+      "name": "Sumber Anyar"
+    },
+    {
+      "code": 3511012010,
+      "name": "Penanggungan"
+    },
+    {
+      "code": 3511012011,
+      "name": "Pakuniran"
+    },
+    {
+      "code": 3511012012,
+      "name": "Gunungsari"
+    }
+  ]
+}

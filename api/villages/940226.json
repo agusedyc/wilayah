@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9402262001,
+      "name": "Kiyage"
+    },
+    {
+      "code": 9402262002,
+      "name": "Wanggiba"
+    },
+    {
+      "code": 9402262003,
+      "name": "Amuringgik"
+    },
+    {
+      "code": 9402262004,
+      "name": "Tenggabanggwi"
+    },
+    {
+      "code": 9402262005,
+      "name": "Tumbiwolu"
+    },
+    {
+      "code": 9402262006,
+      "name": "Kelandu"
+    },
+    {
+      "code": 9402262007,
+      "name": "Ambo"
+    },
+    {
+      "code": 9402262008,
+      "name": "Atoli"
+    }
+  ]
+}

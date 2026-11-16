@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1223071001,
+      "name": "Bandar Durian"
+    },
+    {
+      "code": 1223072002,
+      "name": "Poldung"
+    },
+    {
+      "code": 1223072003,
+      "name": "Rombisan"
+    },
+    {
+      "code": 1223072004,
+      "name": "Sibito"
+    },
+    {
+      "code": 1223072005,
+      "name": "Simonis"
+    },
+    {
+      "code": 1223072006,
+      "name": "Perk. Aek Pamienke"
+    },
+    {
+      "code": 1223072007,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 1223072008,
+      "name": "Adian Torop"
+    },
+    {
+      "code": 1223072009,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1223072010,
+      "name": "Kampung Yaman"
+    },
+    {
+      "code": 1223072011,
+      "name": "Terang Bulan"
+    },
+    {
+      "code": 1223072012,
+      "name": "Perkebunan Halimbe"
+    }
+  ]
+}

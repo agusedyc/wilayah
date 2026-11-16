@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3207112001,
+      "name": "Buniseuri"
+    },
+    {
+      "code": 3207112002,
+      "name": "Selacai"
+    },
+    {
+      "code": 3207112003,
+      "name": "Jalatrang"
+    },
+    {
+      "code": 3207112004,
+      "name": "Cipaku"
+    },
+    {
+      "code": 3207112005,
+      "name": "Cieurih"
+    },
+    {
+      "code": 3207112006,
+      "name": "Gereba"
+    },
+    {
+      "code": 3207112007,
+      "name": "Muktisari"
+    },
+    {
+      "code": 3207112008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3207112009,
+      "name": "Pusakasari"
+    },
+    {
+      "code": 3207112010,
+      "name": "Bangbayang"
+    },
+    {
+      "code": 3207112011,
+      "name": "Selamanik"
+    },
+    {
+      "code": 3207112012,
+      "name": "Ciakar"
+    },
+    {
+      "code": 3207112013,
+      "name": "Sukawening"
+    }
+  ]
+}

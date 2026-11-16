@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7102062003,
+      "name": "Kayuwatu"
+    },
+    {
+      "code": 7102062004,
+      "name": "Wineru"
+    },
+    {
+      "code": 7102062005,
+      "name": "Rinondor"
+    },
+    {
+      "code": 7102062006,
+      "name": "Sendangan"
+    },
+    {
+      "code": 7102062015,
+      "name": "Pahaleten"
+    },
+    {
+      "code": 7102062016,
+      "name": "Talikuran"
+    },
+    {
+      "code": 7102062017,
+      "name": "Tounelet"
+    },
+    {
+      "code": 7102062018,
+      "name": "Paslaten"
+    },
+    {
+      "code": 7102062019,
+      "name": "Kaweng"
+    },
+    {
+      "code": 7102062020,
+      "name": "Toulimembet"
+    },
+    {
+      "code": 7102062021,
+      "name": "Makalelon"
+    },
+    {
+      "code": 7102062022,
+      "name": "Tumpaan"
+    },
+    {
+      "code": 7102062023,
+      "name": "Mahembang"
+    }
+  ]
+}

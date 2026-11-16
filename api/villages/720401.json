@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7204012001,
+      "name": "Kombo"
+    },
+    {
+      "code": 7204012002,
+      "name": "Tampiala"
+    },
+    {
+      "code": 7204012003,
+      "name": "Soni"
+    },
+    {
+      "code": 7204012004,
+      "name": "Bangkir"
+    },
+    {
+      "code": 7204012005,
+      "name": "Dongko"
+    },
+    {
+      "code": 7204012006,
+      "name": "Mimbala"
+    },
+    {
+      "code": 7204012007,
+      "name": "Lempe"
+    },
+    {
+      "code": 7204012008,
+      "name": "Paddumpu"
+    },
+    {
+      "code": 7204012009,
+      "name": "Abbajareng"
+    },
+    {
+      "code": 7204012010,
+      "name": "Puse"
+    },
+    {
+      "code": 7204012011,
+      "name": "Pallakawe"
+    },
+    {
+      "code": 7204012012,
+      "name": "Simuntu"
+    },
+    {
+      "code": 7204012013,
+      "name": "Lemba Harapan"
+    }
+  ]
+}

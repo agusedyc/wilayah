@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6106142001,
+      "name": "Badau"
+    },
+    {
+      "code": 6106142002,
+      "name": "Janting"
+    },
+    {
+      "code": 6106142003,
+      "name": "Semuntik"
+    },
+    {
+      "code": 6106142004,
+      "name": "Kekurak"
+    },
+    {
+      "code": 6106142005,
+      "name": "Pulau Majang"
+    },
+    {
+      "code": 6106142006,
+      "name": "Seriang"
+    },
+    {
+      "code": 6106142007,
+      "name": "Sebindang"
+    },
+    {
+      "code": 6106142008,
+      "name": "Tinting Seligi"
+    },
+    {
+      "code": 6106142009,
+      "name": "Tajum"
+    }
+  ]
+}

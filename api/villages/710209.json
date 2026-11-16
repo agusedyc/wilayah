@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7102092004,
+      "name": "Wolaang"
+    },
+    {
+      "code": 7102092005,
+      "name": "Teep"
+    },
+    {
+      "code": 7102092006,
+      "name": "Karondoran"
+    },
+    {
+      "code": 7102092007,
+      "name": "Waleure"
+    },
+    {
+      "code": 7102092008,
+      "name": "Amongena I"
+    },
+    {
+      "code": 7102092009,
+      "name": "Amongena II"
+    },
+    {
+      "code": 7102092010,
+      "name": "Sumarayar"
+    },
+    {
+      "code": 7102092018,
+      "name": "Amongena III"
+    }
+  ]
+}

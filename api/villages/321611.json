@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3216111007,
+      "name": "Sertajaya"
+    },
+    {
+      "code": 3216112001,
+      "name": "Tanjungbaru"
+    },
+    {
+      "code": 3216112002,
+      "name": "Cipayung"
+    },
+    {
+      "code": 3216112003,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3216112004,
+      "name": "Jatireja"
+    },
+    {
+      "code": 3216112005,
+      "name": "Jatibaru"
+    },
+    {
+      "code": 3216112006,
+      "name": "Labansari"
+    },
+    {
+      "code": 3216112008,
+      "name": "Karangsari"
+    }
+  ]
+}

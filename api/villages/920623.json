@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206232001,
+      "name": "Meyado"
+    },
+    {
+      "code": 9206232002,
+      "name": "Barma"
+    },
+    {
+      "code": 9206232003,
+      "name": "Barma Baru"
+    },
+    {
+      "code": 9206232004,
+      "name": "Vasco Damneen"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3201342001,
+      "name": "Bantarjaya"
+    },
+    {
+      "code": 3201342002,
+      "name": "Bantarsari"
+    },
+    {
+      "code": 3201342003,
+      "name": "Pasirgaok"
+    },
+    {
+      "code": 3201342004,
+      "name": "Rancabungur"
+    },
+    {
+      "code": 3201342005,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3201342006,
+      "name": "Candali"
+    },
+    {
+      "code": 3201342007,
+      "name": "Cimulang"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7172021001,
+      "name": "Wangurer Barat"
+    },
+    {
+      "code": 7172021002,
+      "name": "Paceda"
+    },
+    {
+      "code": 7172021003,
+      "name": "Madidir Ure"
+    },
+    {
+      "code": 7172021004,
+      "name": "Kadoodan"
+    },
+    {
+      "code": 7172021006,
+      "name": "Madidir Weru"
+    },
+    {
+      "code": 7172021007,
+      "name": "Madidir Unet"
+    },
+    {
+      "code": 7172021009,
+      "name": "Wangurer timur"
+    },
+    {
+      "code": 7172021011,
+      "name": "Wangurer Utara"
+    }
+  ]
+}

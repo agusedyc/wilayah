@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3528021018,
+      "name": "Barurambat Timur"
+    },
+    {
+      "code": 3528021019,
+      "name": "Lawangan Daya"
+    },
+    {
+      "code": 3528022001,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3528022002,
+      "name": "Padelegan"
+    },
+    {
+      "code": 3528022003,
+      "name": "Majungan"
+    },
+    {
+      "code": 3528022004,
+      "name": "Pagagan"
+    },
+    {
+      "code": 3528022005,
+      "name": "Jarin"
+    },
+    {
+      "code": 3528022006,
+      "name": "Baddurih"
+    },
+    {
+      "code": 3528022007,
+      "name": "Buddih"
+    },
+    {
+      "code": 3528022008,
+      "name": "Sopa'ah"
+    },
+    {
+      "code": 3528022009,
+      "name": "Prekbun"
+    },
+    {
+      "code": 3528022010,
+      "name": "Durbuk"
+    },
+    {
+      "code": 3528022011,
+      "name": "Pademawu Barat"
+    },
+    {
+      "code": 3528022012,
+      "name": "Pademawu Timur"
+    },
+    {
+      "code": 3528022013,
+      "name": "Bunder"
+    },
+    {
+      "code": 3528022014,
+      "name": "Dasok"
+    },
+    {
+      "code": 3528022015,
+      "name": "Murtajih"
+    },
+    {
+      "code": 3528022016,
+      "name": "Sumedangan"
+    },
+    {
+      "code": 3528022017,
+      "name": "Lemper"
+    },
+    {
+      "code": 3528022020,
+      "name": "Sentol"
+    },
+    {
+      "code": 3528022021,
+      "name": "Tambung"
+    },
+    {
+      "code": 3528022022,
+      "name": "Buddagan"
+    }
+  ]
+}

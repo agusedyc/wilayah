@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3205232001,
+      "name": "Banjarwangi"
+    },
+    {
+      "code": 3205232002,
+      "name": "Talagajaya"
+    },
+    {
+      "code": 3205232003,
+      "name": "Padahurip"
+    },
+    {
+      "code": 3205232004,
+      "name": "Kadongdong"
+    },
+    {
+      "code": 3205232005,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3205232006,
+      "name": "Jayabakti"
+    },
+    {
+      "code": 3205232007,
+      "name": "Mulyajaya"
+    },
+    {
+      "code": 3205232008,
+      "name": "Dangiang"
+    },
+    {
+      "code": 3205232009,
+      "name": "Tanjungjaya"
+    },
+    {
+      "code": 3205232010,
+      "name": "Bojong"
+    },
+    {
+      "code": 3205232011,
+      "name": "Wangunjaya"
+    }
+  ]
+}

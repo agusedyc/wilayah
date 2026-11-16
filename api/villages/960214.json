@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9602142001,
+      "name": "Wenslolo"
+    },
+    {
+      "code": 9602142002,
+      "name": "Klamit"
+    },
+    {
+      "code": 9602142003,
+      "name": "Mlabolo"
+    },
+    {
+      "code": 9602142004,
+      "name": "Kofalit"
+    },
+    {
+      "code": 9602142005,
+      "name": "Alma"
+    }
+  ]
+}

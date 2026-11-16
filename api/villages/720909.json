@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7209092001,
+      "name": "Biga"
+    },
+    {
+      "code": 7209092002,
+      "name": "Salinggoha"
+    },
+    {
+      "code": 7209092003,
+      "name": "Tingki"
+    },
+    {
+      "code": 7209092004,
+      "name": "Malapo"
+    },
+    {
+      "code": 7209092005,
+      "name": "Pasokan"
+    },
+    {
+      "code": 7209092006,
+      "name": "Kondongan"
+    },
+    {
+      "code": 7209092007,
+      "name": "Katogop"
+    },
+    {
+      "code": 7209092008,
+      "name": "Tongidon"
+    }
+  ]
+}

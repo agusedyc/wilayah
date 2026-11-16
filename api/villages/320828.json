@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3208282001,
+      "name": "Cimara"
+    },
+    {
+      "code": 3208282002,
+      "name": "Sumurwiru"
+    },
+    {
+      "code": 3208282003,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3208282004,
+      "name": "Tarikolot"
+    },
+    {
+      "code": 3208282005,
+      "name": "Randusari"
+    },
+    {
+      "code": 3208282006,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3208282007,
+      "name": "Kawungsari"
+    },
+    {
+      "code": 3208282008,
+      "name": "Sukarapih"
+    }
+  ]
+}

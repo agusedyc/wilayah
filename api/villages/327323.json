@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273231001,
+      "name": "Cipamokolan"
+    },
+    {
+      "code": 3273231002,
+      "name": "Derwati"
+    },
+    {
+      "code": 3273231003,
+      "name": "Manjahlega"
+    },
+    {
+      "code": 3273231004,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

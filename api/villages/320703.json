@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3207032001,
+      "name": "Handapherang"
+    },
+    {
+      "code": 3207032002,
+      "name": "Ciharalang"
+    },
+    {
+      "code": 3207032003,
+      "name": "Bojongmengger"
+    },
+    {
+      "code": 3207032004,
+      "name": "Karangkamulyan"
+    },
+    {
+      "code": 3207032005,
+      "name": "Kertabumi"
+    },
+    {
+      "code": 3207032006,
+      "name": "Cijeungjing"
+    },
+    {
+      "code": 3207032007,
+      "name": "Pamalayan"
+    },
+    {
+      "code": 3207032008,
+      "name": "Dewasari"
+    },
+    {
+      "code": 3207032009,
+      "name": "Utama"
+    },
+    {
+      "code": 3207032010,
+      "name": "Kertaharja"
+    },
+    {
+      "code": 3207032011,
+      "name": "Karanganyar"
+    }
+  ]
+}

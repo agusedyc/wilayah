@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9111072001,
+      "name": "Towe Hitam"
+    },
+    {
+      "code": 9111072002,
+      "name": "Towe Atas"
+    },
+    {
+      "code": 9111072003,
+      "name": "Terfones"
+    },
+    {
+      "code": 9111072004,
+      "name": "Tefalma"
+    },
+    {
+      "code": 9111072005,
+      "name": "Bias"
+    },
+    {
+      "code": 9111072006,
+      "name": "Milki"
+    },
+    {
+      "code": 9111072007,
+      "name": "Lules"
+    },
+    {
+      "code": 9111072009,
+      "name": "Jember"
+    },
+    {
+      "code": 9111072010,
+      "name": "Niliti"
+    },
+    {
+      "code": 9111072011,
+      "name": "Pris"
+    }
+  ]
+}

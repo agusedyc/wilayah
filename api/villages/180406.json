@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804062001,
+      "name": "Kenali"
+    },
+    {
+      "code": 1804062002,
+      "name": "Kejadian"
+    },
+    {
+      "code": 1804062003,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1804062004,
+      "name": "Turgak"
+    },
+    {
+      "code": 1804062005,
+      "name": "Bedudu"
+    },
+    {
+      "code": 1804062006,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1804062007,
+      "name": "Hujung"
+    },
+    {
+      "code": 1804062013,
+      "name": "Serungkuk"
+    },
+    {
+      "code": 1804062019,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1804062020,
+      "name": "Fajar Agung"
+    }
+  ]
+}

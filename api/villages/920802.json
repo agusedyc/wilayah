@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9208022001,
+      "name": "Kambala"
+    },
+    {
+      "code": 9208022002,
+      "name": "Yarona"
+    },
+    {
+      "code": 9208022003,
+      "name": "Edor"
+    },
+    {
+      "code": 9208022004,
+      "name": "Tairi"
+    },
+    {
+      "code": 9208022005,
+      "name": "Gaka"
+    },
+    {
+      "code": 9208022006,
+      "name": "Guriasa"
+    },
+    {
+      "code": 9208022007,
+      "name": "Adi Jaya"
+    },
+    {
+      "code": 9208022008,
+      "name": "Nusaulan"
+    },
+    {
+      "code": 9208022009,
+      "name": "Esania"
+    },
+    {
+      "code": 9208022010,
+      "name": "Hia"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8205182001,
+      "name": "Man-Gega"
+    },
+    {
+      "code": 8205182002,
+      "name": "Bajo"
+    },
+    {
+      "code": 8205182003,
+      "name": "Pohea"
+    },
+    {
+      "code": 8205182004,
+      "name": "Fukweu"
+    },
+    {
+      "code": 8205182005,
+      "name": "Wainin"
+    },
+    {
+      "code": 8205182006,
+      "name": "Malbufa"
+    },
+    {
+      "code": 8205182007,
+      "name": "Fokalik"
+    }
+  ]
+}

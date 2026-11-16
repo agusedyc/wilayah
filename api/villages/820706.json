@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8207062001,
+      "name": "Posi-Posi"
+    },
+    {
+      "code": 8207062002,
+      "name": "Aru Burung"
+    },
+    {
+      "code": 8207062003,
+      "name": "Lou Madoro"
+    },
+    {
+      "code": 8207062004,
+      "name": "Leo-Leo"
+    },
+    {
+      "code": 8207062005,
+      "name": "Sami Nyamau"
+    }
+  ]
+}

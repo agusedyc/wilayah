@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3171041001,
+      "name": "Senen"
+    },
+    {
+      "code": 3171041002,
+      "name": "Kenari"
+    },
+    {
+      "code": 3171041003,
+      "name": "Paseban"
+    },
+    {
+      "code": 3171041004,
+      "name": "Kramat"
+    },
+    {
+      "code": 3171041005,
+      "name": "Kwitang"
+    },
+    {
+      "code": 3171041006,
+      "name": "Bungur"
+    }
+  ]
+}

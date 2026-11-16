@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3526152001,
+      "name": "Blega"
+    },
+    {
+      "code": 3526152002,
+      "name": "Rosep"
+    },
+    {
+      "code": 3526152003,
+      "name": "Nyor Manes"
+    },
+    {
+      "code": 3526152004,
+      "name": "Alas Rajah"
+    },
+    {
+      "code": 3526152005,
+      "name": "Blega Oloh"
+    },
+    {
+      "code": 3526152006,
+      "name": "Karang Nangkah"
+    },
+    {
+      "code": 3526152007,
+      "name": "Karang Panasan"
+    },
+    {
+      "code": 3526152008,
+      "name": "Karang Gayam"
+    },
+    {
+      "code": 3526152009,
+      "name": "Lomaer"
+    },
+    {
+      "code": 3526152010,
+      "name": "Bates"
+    },
+    {
+      "code": 3526152011,
+      "name": "Lombang Laok"
+    },
+    {
+      "code": 3526152012,
+      "name": "Lombang Dajah"
+    },
+    {
+      "code": 3526152013,
+      "name": "Karpote"
+    },
+    {
+      "code": 3526152014,
+      "name": "Kajjan"
+    },
+    {
+      "code": 3526152015,
+      "name": "Panjalinan"
+    },
+    {
+      "code": 3526152016,
+      "name": "Pangeran Gadungan"
+    },
+    {
+      "code": 3526152017,
+      "name": "Kampao"
+    },
+    {
+      "code": 3526152018,
+      "name": "Ko'olan"
+    },
+    {
+      "code": 3526152019,
+      "name": "Gigir"
+    }
+  ]
+}

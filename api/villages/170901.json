@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1709012001,
+      "name": "Taba Terunjam"
+    },
+    {
+      "code": 1709012002,
+      "name": "Talang Empat"
+    },
+    {
+      "code": 1709012003,
+      "name": "Padang Tambak"
+    },
+    {
+      "code": 1709012004,
+      "name": "Durian Demang"
+    },
+    {
+      "code": 1709012005,
+      "name": "Pelajau"
+    },
+    {
+      "code": 1709012007,
+      "name": "Dusun Baru II"
+    },
+    {
+      "code": 1709012008,
+      "name": "Penanding"
+    },
+    {
+      "code": 1709012009,
+      "name": "Karang Tinggi"
+    },
+    {
+      "code": 1709012010,
+      "name": "Renah Lebar"
+    },
+    {
+      "code": 1709012011,
+      "name": "Kancing"
+    },
+    {
+      "code": 1709012012,
+      "name": "Ujung Karang"
+    },
+    {
+      "code": 1709012013,
+      "name": "Taba Mutung"
+    },
+    {
+      "code": 1709012015,
+      "name": "Renah Semanek"
+    }
+  ]
+}

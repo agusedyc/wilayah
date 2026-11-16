@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3529262001,
+      "name": "Patean"
+    },
+    {
+      "code": 3529262002,
+      "name": "Babbalan"
+    },
+    {
+      "code": 3529262003,
+      "name": "Gedungan"
+    },
+    {
+      "code": 3529262004,
+      "name": "Gunggung"
+    },
+    {
+      "code": 3529262005,
+      "name": "Batuan"
+    },
+    {
+      "code": 3529262006,
+      "name": "Torbang"
+    },
+    {
+      "code": 3529262007,
+      "name": "Gelugur"
+    }
+  ]
+}

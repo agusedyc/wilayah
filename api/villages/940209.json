@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9402092001,
+      "name": "Pagaleme"
+    },
+    {
+      "code": 9402092002,
+      "name": "Muliambut"
+    },
+    {
+      "code": 9402092003,
+      "name": "Lunggineri"
+    },
+    {
+      "code": 9402092004,
+      "name": "Igimbut"
+    },
+    {
+      "code": 9402092005,
+      "name": "Kulok enggame"
+    }
+  ]
+}

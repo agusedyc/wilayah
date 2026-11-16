@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9508292001,
+      "name": "Muli"
+    },
+    {
+      "code": 9508292002,
+      "name": "Tinigele"
+    },
+    {
+      "code": 9508292003,
+      "name": "Wuone"
+    },
+    {
+      "code": 9508292004,
+      "name": "Luaren"
+    },
+    {
+      "code": 9508292005,
+      "name": "Wangun"
+    },
+    {
+      "code": 9508292006,
+      "name": "Wutpaga"
+    }
+  ]
+}

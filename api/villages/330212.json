@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3302122001,
+      "name": "Wlahar Kulon"
+    },
+    {
+      "code": 3302122002,
+      "name": "Sokawera"
+    },
+    {
+      "code": 3302122003,
+      "name": "Pegalongan"
+    },
+    {
+      "code": 3302122004,
+      "name": "Patikraja"
+    },
+    {
+      "code": 3302122005,
+      "name": "Notog"
+    },
+    {
+      "code": 3302122006,
+      "name": "Karangendep"
+    },
+    {
+      "code": 3302122007,
+      "name": "Sawangan Wetan"
+    },
+    {
+      "code": 3302122008,
+      "name": "Kedungwuluh Kidul"
+    },
+    {
+      "code": 3302122009,
+      "name": "Kedungrandu"
+    },
+    {
+      "code": 3302122010,
+      "name": "Kedungwuluh Lor"
+    },
+    {
+      "code": 3302122011,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3302122012,
+      "name": "Sidabowa"
+    },
+    {
+      "code": 3302122013,
+      "name": "Kedungwringin"
+    }
+  ]
+}

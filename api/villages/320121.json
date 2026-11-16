@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3201212001,
+      "name": "Malasari"
+    },
+    {
+      "code": 3201212002,
+      "name": "Curugbitung"
+    },
+    {
+      "code": 3201212003,
+      "name": "Cisarua"
+    },
+    {
+      "code": 3201212004,
+      "name": "Bantarkaret"
+    },
+    {
+      "code": 3201212005,
+      "name": "Hambaro"
+    },
+    {
+      "code": 3201212006,
+      "name": "Kalongliud"
+    },
+    {
+      "code": 3201212007,
+      "name": "Nanggung"
+    },
+    {
+      "code": 3201212008,
+      "name": "Parakanmuncang"
+    },
+    {
+      "code": 3201212009,
+      "name": "Pangkaljaya"
+    },
+    {
+      "code": 3201212010,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3201212011,
+      "name": "Batu Tulis"
+    }
+  ]
+}

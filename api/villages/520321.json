@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5203212001,
+      "name": "Lenek"
+    },
+    {
+      "code": 5203212002,
+      "name": "Lenek Lauk"
+    },
+    {
+      "code": 5203212003,
+      "name": "Lenek Daya"
+    },
+    {
+      "code": 5203212004,
+      "name": "Lenek Baru"
+    },
+    {
+      "code": 5203212005,
+      "name": "Lenek Kalibambang"
+    },
+    {
+      "code": 5203212006,
+      "name": "Lenek Pesiraman"
+    },
+    {
+      "code": 5203212007,
+      "name": "Lenek Ramban Biak"
+    },
+    {
+      "code": 5203212008,
+      "name": "Lenek Duren"
+    },
+    {
+      "code": 5203212009,
+      "name": "Sukarema"
+    },
+    {
+      "code": 5203212010,
+      "name": "Kalijaga Baru"
+    }
+  ]
+}

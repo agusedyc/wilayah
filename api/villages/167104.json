@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1671041001,
+      "name": "Bukitlama"
+    },
+    {
+      "code": 1671041002,
+      "name": "Lorokpakjo"
+    },
+    {
+      "code": 1671041003,
+      "name": "Dua-puluh-enam Ilir Satu"
+    },
+    {
+      "code": 1671041004,
+      "name": "Siringagung"
+    },
+    {
+      "code": 1671041005,
+      "name": "Demang-Lebardaun"
+    },
+    {
+      "code": 1671041006,
+      "name": "Bukitbaru"
+    }
+  ]
+}

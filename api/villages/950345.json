@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9503452001,
+      "name": "Debula"
+    },
+    {
+      "code": 9503452002,
+      "name": "Kwelamdua"
+    },
+    {
+      "code": 9503452003,
+      "name": "Kubuk dua"
+    },
+    {
+      "code": 9503452004,
+      "name": "Senayom"
+    },
+    {
+      "code": 9503452005,
+      "name": "Sesepne"
+    },
+    {
+      "code": 9503452006,
+      "name": "Baluk"
+    },
+    {
+      "code": 9503452007,
+      "name": "Kemligin"
+    },
+    {
+      "code": 9503452008,
+      "name": "Obis"
+    },
+    {
+      "code": 9503452009,
+      "name": "Yalidomon"
+    },
+    {
+      "code": 9503452010,
+      "name": "Kabulan"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5308191001,
+      "name": "Potulando"
+    },
+    {
+      "code": 5308191002,
+      "name": "Onekore"
+    },
+    {
+      "code": 5308191003,
+      "name": "Kelimutu"
+    },
+    {
+      "code": 5308191004,
+      "name": "Paupire"
+    }
+  ]
+}

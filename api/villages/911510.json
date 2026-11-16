@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9115102001,
+      "name": "Dairi"
+    },
+    {
+      "code": 9115102002,
+      "name": "Spoiri"
+    },
+    {
+      "code": 9115102003,
+      "name": "Sooh"
+    },
+    {
+      "code": 9115102004,
+      "name": "Dirou"
+    },
+    {
+      "code": 9115102005,
+      "name": "Diwah"
+    },
+    {
+      "code": 9115102006,
+      "name": "Kuaisa"
+    },
+    {
+      "code": 9115102007,
+      "name": "Aru Antu"
+    },
+    {
+      "code": 9115102008,
+      "name": "Foira"
+    },
+    {
+      "code": 9115102009,
+      "name": "Kawari"
+    },
+    {
+      "code": 9115102010,
+      "name": "Wafuka"
+    }
+  ]
+}

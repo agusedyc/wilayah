@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1807072001,
+      "name": "Braja Sakti"
+    },
+    {
+      "code": 1807072002,
+      "name": "Braja Fajar"
+    },
+    {
+      "code": 1807072003,
+      "name": "Braja Emas"
+    },
+    {
+      "code": 1807072004,
+      "name": "Braja Dewa"
+    },
+    {
+      "code": 1807072005,
+      "name": "Braja Caka"
+    },
+    {
+      "code": 1807072006,
+      "name": "Sri Wangi"
+    },
+    {
+      "code": 1807072007,
+      "name": "Jepara"
+    },
+    {
+      "code": 1807072008,
+      "name": "Sri Rejosari"
+    },
+    {
+      "code": 1807072009,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 1807072010,
+      "name": "Labuhan Ratu II"
+    },
+    {
+      "code": 1807072011,
+      "name": "Braja Asri"
+    },
+    {
+      "code": 1807072012,
+      "name": "Labuhan Ratu I"
+    },
+    {
+      "code": 1807072013,
+      "name": "Sumur Bandung"
+    },
+    {
+      "code": 1807072014,
+      "name": "Sumber Marga"
+    },
+    {
+      "code": 1807072015,
+      "name": "Labuhan Ratu Danau"
+    },
+    {
+      "code": 1807072016,
+      "name": "Labuhan Ratu Baru"
+    }
+  ]
+}

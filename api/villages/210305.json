@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 2103051008,
+      "name": "Sedanau"
+    },
+    {
+      "code": 2103052007,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 2103052012,
+      "name": "Binjai"
+    },
+    {
+      "code": 2103052013,
+      "name": "Piantengah"
+    },
+    {
+      "code": 2103052015,
+      "name": "Selaut"
+    }
+  ]
+}

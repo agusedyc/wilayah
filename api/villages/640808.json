@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408082001,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 6408082002,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 6408082003,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 6408082004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6408082005,
+      "name": "Sri Pantun"
+    },
+    {
+      "code": 6408082006,
+      "name": "Kombeng Indah"
+    },
+    {
+      "code": 6408082007,
+      "name": "Miau Baru"
+    }
+  ]
+}

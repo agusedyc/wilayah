@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8204192001,
+      "name": "Lele"
+    },
+    {
+      "code": 8204192002,
+      "name": "Bahu"
+    },
+    {
+      "code": 8204192003,
+      "name": "Jiko"
+    },
+    {
+      "code": 8204192004,
+      "name": "Galala"
+    },
+    {
+      "code": 8204192005,
+      "name": "Tabalema"
+    },
+    {
+      "code": 8204192006,
+      "name": "Yoyok"
+    }
+  ]
+}

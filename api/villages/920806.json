@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9208062001,
+      "name": "Jawera"
+    },
+    {
+      "code": 9208062002,
+      "name": "Ruara"
+    },
+    {
+      "code": 9208062003,
+      "name": "Wermenu"
+    },
+    {
+      "code": 9208062004,
+      "name": "Egerwara"
+    },
+    {
+      "code": 9208062005,
+      "name": "Kufuriyai"
+    },
+    {
+      "code": 9208062006,
+      "name": "Manggera"
+    },
+    {
+      "code": 9208062007,
+      "name": "Tanusan"
+    },
+    {
+      "code": 9208062008,
+      "name": "Urisa"
+    },
+    {
+      "code": 9208062009,
+      "name": "Waromi"
+    },
+    {
+      "code": 9208062010,
+      "name": "Ukiara"
+    },
+    {
+      "code": 9208062012,
+      "name": "Nagura"
+    },
+    {
+      "code": 9208062013,
+      "name": "Inari"
+    },
+    {
+      "code": 9208062014,
+      "name": "Wanoma"
+    },
+    {
+      "code": 9208062015,
+      "name": "Sumun"
+    },
+    {
+      "code": 9208062016,
+      "name": "Seraran"
+    }
+  ]
+}

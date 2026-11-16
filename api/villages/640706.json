@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6407061006,
+      "name": "Melak Ilir"
+    },
+    {
+      "code": 6407061011,
+      "name": "Melak Ulu"
+    },
+    {
+      "code": 6407062001,
+      "name": "Empas"
+    },
+    {
+      "code": 6407062002,
+      "name": "Empakuq"
+    },
+    {
+      "code": 6407062003,
+      "name": "Muara Bunyut"
+    },
+    {
+      "code": 6407062012,
+      "name": "Muara Benangaq"
+    }
+  ]
+}

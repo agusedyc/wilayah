@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 9503152001,
+      "name": "Kosihun"
+    },
+    {
+      "code": 9503152002,
+      "name": "Seima"
+    },
+    {
+      "code": 9503152003,
+      "name": "Userem"
+    },
+    {
+      "code": 9503152004,
+      "name": "Yuarima"
+    },
+    {
+      "code": 9503152005,
+      "name": "Ugem"
+    },
+    {
+      "code": 9503152006,
+      "name": "Wusagasem"
+    },
+    {
+      "code": 9503152007,
+      "name": "Hunenima"
+    },
+    {
+      "code": 9503152008,
+      "name": "Itlay Wopi"
+    },
+    {
+      "code": 9503152009,
+      "name": "Togoluk"
+    },
+    {
+      "code": 9503152010,
+      "name": "Herawe"
+    },
+    {
+      "code": 9503152011,
+      "name": "Hendang"
+    },
+    {
+      "code": 9503152012,
+      "name": "Ilokomo"
+    },
+    {
+      "code": 9503152013,
+      "name": "Hulesi"
+    },
+    {
+      "code": 9503152014,
+      "name": "Wanesi"
+    },
+    {
+      "code": 9503152015,
+      "name": "Panyoke"
+    },
+    {
+      "code": 9503152016,
+      "name": "Nyikinen"
+    },
+    {
+      "code": 9503152017,
+      "name": "Wesangma"
+    },
+    {
+      "code": 9503152018,
+      "name": "Olomising"
+    },
+    {
+      "code": 9503152019,
+      "name": "Wemasili"
+    },
+    {
+      "code": 9503152020,
+      "name": "Lugulmu"
+    }
+  ]
+}

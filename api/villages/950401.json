@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 9504011001,
+      "name": "Karubaga"
+    },
+    {
+      "code": 9504012002,
+      "name": "Kogimagi"
+    },
+    {
+      "code": 9504012003,
+      "name": "Muara"
+    },
+    {
+      "code": 9504012004,
+      "name": "Ampera"
+    },
+    {
+      "code": 9504012005,
+      "name": "Elsadai"
+    },
+    {
+      "code": 9504012006,
+      "name": "Ebenhaiser"
+    },
+    {
+      "code": 9504012007,
+      "name": "Kolilan"
+    },
+    {
+      "code": 9504012008,
+      "name": "Kuloname"
+    },
+    {
+      "code": 9504012009,
+      "name": "Lirak"
+    },
+    {
+      "code": 9504012010,
+      "name": "Kimobur"
+    },
+    {
+      "code": 9504012011,
+      "name": "Kuragepura"
+    },
+    {
+      "code": 9504012012,
+      "name": "Kiranage"
+    },
+    {
+      "code": 9504012013,
+      "name": "Luwik"
+    },
+    {
+      "code": 9504012014,
+      "name": "Gininggadonak"
+    },
+    {
+      "code": 9504012015,
+      "name": "Danggulurik"
+    },
+    {
+      "code": 9504012016,
+      "name": "Gurikme"
+    },
+    {
+      "code": 9504012017,
+      "name": "Molera"
+    },
+    {
+      "code": 9504012018,
+      "name": "Nalorini"
+    },
+    {
+      "code": 9504012019,
+      "name": "Beleme"
+    },
+    {
+      "code": 9504012020,
+      "name": "Gurikagewa"
+    },
+    {
+      "code": 9504012021,
+      "name": "Pulanggun"
+    },
+    {
+      "code": 9504012022,
+      "name": "Yalikaluk"
+    },
+    {
+      "code": 9504012023,
+      "name": "Losmen"
+    }
+  ]
+}

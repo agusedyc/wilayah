@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8202012004,
+      "name": "Nusliko"
+    },
+    {
+      "code": 8202012005,
+      "name": "Were"
+    },
+    {
+      "code": 8202012020,
+      "name": "Fidy Jaya"
+    },
+    {
+      "code": 8202012021,
+      "name": "Sidanga"
+    },
+    {
+      "code": 8202012022,
+      "name": "Nurweda"
+    },
+    {
+      "code": 8202012023,
+      "name": "Wedana"
+    },
+    {
+      "code": 8202012024,
+      "name": "Goeng"
+    }
+  ]
+}

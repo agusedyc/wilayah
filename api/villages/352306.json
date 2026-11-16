@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3523062001,
+      "name": "Dikir"
+    },
+    {
+      "code": 3523062002,
+      "name": "Ngulahan"
+    },
+    {
+      "code": 3523062003,
+      "name": "Plajan"
+    },
+    {
+      "code": 3523062004,
+      "name": "Mander"
+    },
+    {
+      "code": 3523062005,
+      "name": "Belikanget"
+    },
+    {
+      "code": 3523062006,
+      "name": "Cokrowati"
+    },
+    {
+      "code": 3523062007,
+      "name": "Pulogede"
+    },
+    {
+      "code": 3523062008,
+      "name": "Gadon"
+    },
+    {
+      "code": 3523062009,
+      "name": "Sotang"
+    },
+    {
+      "code": 3523062010,
+      "name": "Pabeyan"
+    },
+    {
+      "code": 3523062011,
+      "name": "Klutuk"
+    },
+    {
+      "code": 3523062012,
+      "name": "Tambakboyo"
+    },
+    {
+      "code": 3523062013,
+      "name": "Dasin"
+    },
+    {
+      "code": 3523062014,
+      "name": "Kenanti"
+    },
+    {
+      "code": 3523062015,
+      "name": "Sawir"
+    },
+    {
+      "code": 3523062016,
+      "name": "Sobontoro"
+    },
+    {
+      "code": 3523062017,
+      "name": "Merkawang"
+    },
+    {
+      "code": 3523062018,
+      "name": "Glondonggede"
+    }
+  ]
+}

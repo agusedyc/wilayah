@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3171021001,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 3171021002,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3171021003,
+      "name": "Kartini"
+    },
+    {
+      "code": 3171021004,
+      "name": "Gunung Sahari Utara"
+    },
+    {
+      "code": 3171021005,
+      "name": "Mangga Dua Selatan"
+    }
+  ]
+}

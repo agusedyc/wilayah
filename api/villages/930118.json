@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9301182001,
+      "name": "Tabonji"
+    },
+    {
+      "code": 9301182002,
+      "name": "Wanggambi"
+    },
+    {
+      "code": 9301182003,
+      "name": "Suam"
+    },
+    {
+      "code": 9301182004,
+      "name": "Yamuka"
+    },
+    {
+      "code": 9301182005,
+      "name": "Iromoro"
+    },
+    {
+      "code": 9301182006,
+      "name": "Konjombando"
+    },
+    {
+      "code": 9301182007,
+      "name": "Yeraha"
+    }
+  ]
+}

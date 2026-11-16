@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7174031007,
+      "name": "Motoboi Kecil"
+    },
+    {
+      "code": 7174031008,
+      "name": "Mongondow"
+    },
+    {
+      "code": 7174031009,
+      "name": "Pobundayan"
+    },
+    {
+      "code": 7174032001,
+      "name": "Poyowa Besar Satu"
+    },
+    {
+      "code": 7174032002,
+      "name": "Poyowa Besar Dua"
+    },
+    {
+      "code": 7174032003,
+      "name": "Tabang"
+    },
+    {
+      "code": 7174032004,
+      "name": "Bungko"
+    },
+    {
+      "code": 7174032005,
+      "name": "Kopandakan Satu"
+    },
+    {
+      "code": 7174032006,
+      "name": "Poyowa Kecil"
+    }
+  ]
+}

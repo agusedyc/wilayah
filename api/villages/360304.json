@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3603042001,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3603042002,
+      "name": "Jambe"
+    },
+    {
+      "code": 3603042003,
+      "name": "Tipar Raya"
+    },
+    {
+      "code": 3603042004,
+      "name": "Taban"
+    },
+    {
+      "code": 3603042005,
+      "name": "Daru"
+    },
+    {
+      "code": 3603042006,
+      "name": "Kutruk"
+    },
+    {
+      "code": 3603042007,
+      "name": "Ranca Buaya"
+    },
+    {
+      "code": 3603042008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3603042009,
+      "name": "Ancol Pasir"
+    },
+    {
+      "code": 3603042010,
+      "name": "Pasir Barat"
+    }
+  ]
+}

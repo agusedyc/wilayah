@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9401042001,
+      "name": "Topo"
+    },
+    {
+      "code": 9401042002,
+      "name": "Urumusu"
+    },
+    {
+      "code": 9401042003,
+      "name": "Marga Jaya"
+    },
+    {
+      "code": 9401042004,
+      "name": "Argo Mulyo"
+    },
+    {
+      "code": 9401042005,
+      "name": "Topo Jaya"
+    },
+    {
+      "code": 9401042006,
+      "name": "Gamei Jaya"
+    }
+  ]
+}

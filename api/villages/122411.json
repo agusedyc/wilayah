@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1224112001,
+      "name": "Laowowaga"
+    },
+    {
+      "code": 1224112002,
+      "name": "Lukhu Lase"
+    },
+    {
+      "code": 1224112003,
+      "name": "Tetehosi Sorowi"
+    },
+    {
+      "code": 1224112004,
+      "name": "Tefa'o"
+    },
+    {
+      "code": 1224112005,
+      "name": "Tugala Lauru"
+    },
+    {
+      "code": 1224112006,
+      "name": "Muzoi"
+    },
+    {
+      "code": 1224112007,
+      "name": "Meafu"
+    }
+  ]
+}

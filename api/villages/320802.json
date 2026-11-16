@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3208022001,
+      "name": "Pinara"
+    },
+    {
+      "code": 3208022002,
+      "name": "Cijemit"
+    },
+    {
+      "code": 3208022003,
+      "name": "Cipedes"
+    },
+    {
+      "code": 3208022004,
+      "name": "Ciniru"
+    },
+    {
+      "code": 3208022005,
+      "name": "Rambatan"
+    },
+    {
+      "code": 3208022006,
+      "name": "Longkewang"
+    },
+    {
+      "code": 3208022007,
+      "name": "Mungkaldatar"
+    },
+    {
+      "code": 3208022008,
+      "name": "Gunungmanik"
+    },
+    {
+      "code": 3208022009,
+      "name": "Pamupukan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3173021001,
+      "name": "Grogol"
+    },
+    {
+      "code": 3173021002,
+      "name": "Tanjung Duren Utara"
+    },
+    {
+      "code": 3173021003,
+      "name": "Tomang"
+    },
+    {
+      "code": 3173021004,
+      "name": "Jelambar"
+    },
+    {
+      "code": 3173021005,
+      "name": "Tanjung Duren Selatan"
+    },
+    {
+      "code": 3173021006,
+      "name": "Jelambar Baru"
+    },
+    {
+      "code": 3173021007,
+      "name": "Wijaya Kusuma"
+    }
+  ]
+}

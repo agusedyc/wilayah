@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9504222001,
+      "name": "Bolubur"
+    },
+    {
+      "code": 9504222002,
+      "name": "Geneluk"
+    },
+    {
+      "code": 9504222003,
+      "name": "Tirib"
+    },
+    {
+      "code": 9504222004,
+      "name": "Beremo"
+    },
+    {
+      "code": 9504222005,
+      "name": "Pirage"
+    },
+    {
+      "code": 9504222006,
+      "name": "Koinggambu"
+    },
+    {
+      "code": 9504222007,
+      "name": "Liwina"
+    },
+    {
+      "code": 9504222008,
+      "name": "Eragani"
+    },
+    {
+      "code": 9504222009,
+      "name": "Luki"
+    },
+    {
+      "code": 9504222010,
+      "name": "Tioner"
+    },
+    {
+      "code": 9504222011,
+      "name": "Logulo"
+    },
+    {
+      "code": 9504222012,
+      "name": "Bawi"
+    }
+  ]
+}

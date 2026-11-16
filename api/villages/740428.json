@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7404282001,
+      "name": "Kaumbu"
+    },
+    {
+      "code": 7404282002,
+      "name": "Wolowa"
+    },
+    {
+      "code": 7404282003,
+      "name": "Matawia"
+    },
+    {
+      "code": 7404282004,
+      "name": "Wolowa Baru"
+    },
+    {
+      "code": 7404282005,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 7404282006,
+      "name": "Bungi"
+    },
+    {
+      "code": 7404282007,
+      "name": "Galanti"
+    }
+  ]
+}

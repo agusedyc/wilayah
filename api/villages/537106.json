@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5371061001,
+      "name": "Airmata"
+    },
+    {
+      "code": 5371061002,
+      "name": "Lai Lai Bisi Kopan"
+    },
+    {
+      "code": 5371061003,
+      "name": "Bonipoi"
+    },
+    {
+      "code": 5371061004,
+      "name": "Solor"
+    },
+    {
+      "code": 5371061005,
+      "name": "Tode Kisar"
+    },
+    {
+      "code": 5371061006,
+      "name": "Merdeka"
+    },
+    {
+      "code": 5371061007,
+      "name": "Oeba"
+    },
+    {
+      "code": 5371061008,
+      "name": "Fatubesi"
+    },
+    {
+      "code": 5371061009,
+      "name": "Pasir Panjang"
+    },
+    {
+      "code": 5371061010,
+      "name": "Nefonaek"
+    }
+  ]
+}

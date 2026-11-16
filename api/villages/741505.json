@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7415052001,
+      "name": "Molona"
+    },
+    {
+      "code": 7415052002,
+      "name": "Mbanua"
+    },
+    {
+      "code": 7415052003,
+      "name": "Lalole"
+    },
+    {
+      "code": 7415052004,
+      "name": "Watuampara"
+    },
+    {
+      "code": 7415052005,
+      "name": "Katampe"
+    },
+    {
+      "code": 7415052006,
+      "name": "Lamaninggara"
+    },
+    {
+      "code": 7415052007,
+      "name": "Kamoali"
+    },
+    {
+      "code": 7415052008,
+      "name": "Mokobeau"
+    }
+  ]
+}

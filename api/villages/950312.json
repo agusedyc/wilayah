@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9503122001,
+      "name": "Usaregeik"
+    },
+    {
+      "code": 9503122002,
+      "name": "Lidipmu"
+    },
+    {
+      "code": 9503122003,
+      "name": "Sumegen"
+    },
+    {
+      "code": 9503122004,
+      "name": "Hendikma"
+    },
+    {
+      "code": 9503122005,
+      "name": "Bue"
+    },
+    {
+      "code": 9503122006,
+      "name": "Haletuk"
+    },
+    {
+      "code": 9503122007,
+      "name": "Dekbok"
+    },
+    {
+      "code": 9503122008,
+      "name": "Yeriko"
+    },
+    {
+      "code": 9503122009,
+      "name": "Weleheikma"
+    },
+    {
+      "code": 9503122010,
+      "name": "Esaikma"
+    }
+  ]
+}

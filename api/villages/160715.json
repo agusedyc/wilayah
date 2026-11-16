@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1607152001,
+      "name": "Bentayan"
+    },
+    {
+      "code": 1607152002,
+      "name": "Teluk Tenggulang"
+    },
+    {
+      "code": 1607152004,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 1607152005,
+      "name": "Suka Raja"
+    },
+    {
+      "code": 1607152006,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1607152007,
+      "name": "Karang Asem"
+    },
+    {
+      "code": 1607152008,
+      "name": "Marga Rahayu"
+    },
+    {
+      "code": 1607152009,
+      "name": "Sido Mulyo"
+    },
+    {
+      "code": 1607152010,
+      "name": "Keluang"
+    },
+    {
+      "code": 1607152011,
+      "name": "Bumi Serdang"
+    },
+    {
+      "code": 1607152012,
+      "name": "Karang Mulya"
+    },
+    {
+      "code": 1607152013,
+      "name": "Suka Karya"
+    },
+    {
+      "code": 1607152014,
+      "name": "Panca Mulya"
+    },
+    {
+      "code": 1607152015,
+      "name": "Suka Jaya"
+    }
+  ]
+}

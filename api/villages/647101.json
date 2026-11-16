@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6471011001,
+      "name": "Manggar"
+    },
+    {
+      "code": 6471011002,
+      "name": "Lamaru"
+    },
+    {
+      "code": 6471011003,
+      "name": "Teritip"
+    },
+    {
+      "code": 6471011004,
+      "name": "Manggar Baru"
+    }
+  ]
+}

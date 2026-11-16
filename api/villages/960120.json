@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9601202001,
+      "name": "Saluk"
+    },
+    {
+      "code": 9601202002,
+      "name": "Klawaren"
+    },
+    {
+      "code": 9601202003,
+      "name": "Woloin"
+    },
+    {
+      "code": 9601202004,
+      "name": "Klalin Mos"
+    },
+    {
+      "code": 9601202005,
+      "name": "Kwari"
+    },
+    {
+      "code": 9601202006,
+      "name": "Kamlin"
+    }
+  ]
+}

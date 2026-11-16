@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3211082001,
+      "name": "Paseh Kidul"
+    },
+    {
+      "code": 3211082002,
+      "name": "Paseh Kaler"
+    },
+    {
+      "code": 3211082003,
+      "name": "Legok Kidul"
+    },
+    {
+      "code": 3211082004,
+      "name": "Legok Kaler"
+    },
+    {
+      "code": 3211082005,
+      "name": "Bongkok"
+    },
+    {
+      "code": 3211082006,
+      "name": "Padanaan"
+    },
+    {
+      "code": 3211082007,
+      "name": "Pasireungit"
+    },
+    {
+      "code": 3211082008,
+      "name": "Cijambe"
+    },
+    {
+      "code": 3211082009,
+      "name": "Haurkuning"
+    },
+    {
+      "code": 3211082010,
+      "name": "Citepok"
+    }
+  ]
+}

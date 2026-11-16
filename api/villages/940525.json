@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9405252001,
+      "name": "Erelmakawia"
+    },
+    {
+      "code": 9405252002,
+      "name": "Kalpamonora"
+    },
+    {
+      "code": 9405252003,
+      "name": "Bomogin"
+    },
+    {
+      "code": 9405252004,
+      "name": "Mamoldema"
+    },
+    {
+      "code": 9405252005,
+      "name": "Wamagun"
+    },
+    {
+      "code": 9405252006,
+      "name": "Amungkonin"
+    },
+    {
+      "code": 9405252007,
+      "name": "Ipmangkop"
+    },
+    {
+      "code": 9405252008,
+      "name": "Tamagun"
+    },
+    {
+      "code": 9405252009,
+      "name": "Ai Arama"
+    }
+  ]
+}

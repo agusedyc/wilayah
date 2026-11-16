@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3309142001,
+      "name": "Manyaran"
+    },
+    {
+      "code": 3309142002,
+      "name": "Sempulur"
+    },
+    {
+      "code": 3309142003,
+      "name": "Klumpit"
+    },
+    {
+      "code": 3309142004,
+      "name": "Pinggir"
+    },
+    {
+      "code": 3309142005,
+      "name": "Bantengan"
+    },
+    {
+      "code": 3309142006,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3309142007,
+      "name": "Sranten"
+    },
+    {
+      "code": 3309142008,
+      "name": "Grogolan"
+    },
+    {
+      "code": 3309142009,
+      "name": "Mojosari"
+    },
+    {
+      "code": 3309142010,
+      "name": "Pengkol"
+    },
+    {
+      "code": 3309142011,
+      "name": "Karangkepoh"
+    },
+    {
+      "code": 3309142012,
+      "name": "Sendang"
+    },
+    {
+      "code": 3309142013,
+      "name": "Kebonan"
+    },
+    {
+      "code": 3309142014,
+      "name": "Klari"
+    },
+    {
+      "code": 3309142015,
+      "name": "Bangkok"
+    },
+    {
+      "code": 3309142016,
+      "name": "Dologan"
+    }
+  ]
+}

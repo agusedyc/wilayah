@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3210112001,
+      "name": "Burujul Kulon"
+    },
+    {
+      "code": 3210112002,
+      "name": "Burujul Wetan"
+    },
+    {
+      "code": 3210112003,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3210112004,
+      "name": "Andir"
+    },
+    {
+      "code": 3210112005,
+      "name": "Sukaraja Wetan"
+    },
+    {
+      "code": 3210112006,
+      "name": "Pinangraja"
+    },
+    {
+      "code": 3210112007,
+      "name": "Cibentar"
+    },
+    {
+      "code": 3210112008,
+      "name": "Leuweunggede"
+    },
+    {
+      "code": 3210112009,
+      "name": "Cibolerang"
+    },
+    {
+      "code": 3210112010,
+      "name": "Sutawangi"
+    },
+    {
+      "code": 3210112011,
+      "name": "Jatisura"
+    },
+    {
+      "code": 3210112012,
+      "name": "Jatiwangi"
+    },
+    {
+      "code": 3210112013,
+      "name": "Loji"
+    },
+    {
+      "code": 3210112014,
+      "name": "Sukaraja Kulon"
+    },
+    {
+      "code": 3210112015,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3210112016,
+      "name": "Surawangi"
+    }
+  ]
+}

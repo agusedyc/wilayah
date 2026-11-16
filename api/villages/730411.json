@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7304112001,
+      "name": "Pao"
+    },
+    {
+      "code": 7304112002,
+      "name": "Bontorappo"
+    },
+    {
+      "code": 7304112003,
+      "name": "Tarowang"
+    },
+    {
+      "code": 7304112004,
+      "name": "Allu Tarowang"
+    },
+    {
+      "code": 7304112005,
+      "name": "Balangbaru"
+    },
+    {
+      "code": 7304112006,
+      "name": "Balangloe Tarowang"
+    },
+    {
+      "code": 7304112007,
+      "name": "Bonto Ujung"
+    },
+    {
+      "code": 7304112008,
+      "name": "Tino"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9203122001,
+      "name": "Waserat"
+    },
+    {
+      "code": 9203122002,
+      "name": "Wambar"
+    },
+    {
+      "code": 9203122003,
+      "name": "Kotam"
+    },
+    {
+      "code": 9203122004,
+      "name": "Kwama"
+    },
+    {
+      "code": 9203122005,
+      "name": "Kalamanuk"
+    },
+    {
+      "code": 9203122006,
+      "name": "Wayati Timur"
+    },
+    {
+      "code": 9203122007,
+      "name": "Wayati"
+    },
+    {
+      "code": 9203122008,
+      "name": "Wayati Barat"
+    },
+    {
+      "code": 9203122009,
+      "name": "Krabelang"
+    },
+    {
+      "code": 9203122010,
+      "name": "Wambar Timur"
+    }
+  ]
+}

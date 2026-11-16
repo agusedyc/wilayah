@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1108232001,
+      "name": "Keureutou"
+    },
+    {
+      "code": 1108232002,
+      "name": "Lueng Baro"
+    },
+    {
+      "code": 1108232003,
+      "name": "Merbo Jurong"
+    },
+    {
+      "code": 1108232004,
+      "name": "Merbo Lama"
+    },
+    {
+      "code": 1108232005,
+      "name": "Tanjong Dama"
+    },
+    {
+      "code": 1108232006,
+      "name": "Geulanggang Baro"
+    },
+    {
+      "code": 1108232007,
+      "name": "Matang Tunong"
+    },
+    {
+      "code": 1108232008,
+      "name": "Keude Lapang"
+    },
+    {
+      "code": 1108232009,
+      "name": "Matang Baroh"
+    },
+    {
+      "code": 1108232010,
+      "name": "Kuala Kereuto"
+    },
+    {
+      "code": 1108232011,
+      "name": "Kuala Cangkoy"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 1104122001,
+      "name": "Atu Gogop"
+    },
+    {
+      "code": 1104122002,
+      "name": "Balik"
+    },
+    {
+      "code": 1104122003,
+      "name": "Buter Balik"
+    },
+    {
+      "code": 1104122004,
+      "name": "Dedingin"
+    },
+    {
+      "code": 1104122005,
+      "name": "Kute Panang"
+    },
+    {
+      "code": 1104122006,
+      "name": "Lukub Sabun"
+    },
+    {
+      "code": 1104122007,
+      "name": "Pantan Sile"
+    },
+    {
+      "code": 1104122008,
+      "name": "Ratawali"
+    },
+    {
+      "code": 1104122009,
+      "name": "Segene Balik"
+    },
+    {
+      "code": 1104122010,
+      "name": "Tapak Moge"
+    },
+    {
+      "code": 1104122011,
+      "name": "Tawar Miko"
+    },
+    {
+      "code": 1104122012,
+      "name": "Tawardi"
+    },
+    {
+      "code": 1104122013,
+      "name": "Timang Rasa"
+    },
+    {
+      "code": 1104122014,
+      "name": "Wih Nongkal"
+    },
+    {
+      "code": 1104122015,
+      "name": "Bukit Rata"
+    },
+    {
+      "code": 1104122016,
+      "name": "Lukub Sabun Barat"
+    },
+    {
+      "code": 1104122017,
+      "name": "Lukub Sabun Tengah"
+    },
+    {
+      "code": 1104122018,
+      "name": "Lukub Sabun Timur"
+    },
+    {
+      "code": 1104122019,
+      "name": "Wih Nongkal Toa"
+    },
+    {
+      "code": 1104122020,
+      "name": "Tapak Moge Timur"
+    },
+    {
+      "code": 1104122021,
+      "name": "Empu Balik"
+    },
+    {
+      "code": 1104122022,
+      "name": "Blang Balik"
+    },
+    {
+      "code": 1104122023,
+      "name": "Kala Nongkal"
+    },
+    {
+      "code": 1104122024,
+      "name": "Pantan Jerik"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6474021001,
+      "name": "Tanjung Laut"
+    },
+    {
+      "code": 6474021002,
+      "name": "Berbas Tengah"
+    },
+    {
+      "code": 6474021003,
+      "name": "Berbas Pantai"
+    },
+    {
+      "code": 6474021004,
+      "name": "Satimpo"
+    },
+    {
+      "code": 6474021005,
+      "name": "Bontang Lestari"
+    },
+    {
+      "code": 6474021006,
+      "name": "Tanjung Laut Indah"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5314102001,
+      "name": "Bolatena"
+    },
+    {
+      "code": 5314102002,
+      "name": "Lifuleo"
+    },
+    {
+      "code": 5314102003,
+      "name": "Sotimori"
+    },
+    {
+      "code": 5314102004,
+      "name": "Daeurendale"
+    },
+    {
+      "code": 5314102005,
+      "name": "Daiama"
+    },
+    {
+      "code": 5314102006,
+      "name": "Pukuafu"
+    },
+    {
+      "code": 5314102007,
+      "name": "Tena Lai"
+    }
+  ]
+}

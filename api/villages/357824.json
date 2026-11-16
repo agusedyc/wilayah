@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3578241001,
+      "name": "Kutisari"
+    },
+    {
+      "code": 3578241002,
+      "name": "Kendangsari"
+    },
+    {
+      "code": 3578241003,
+      "name": "Tenggilis Mejoyo"
+    },
+    {
+      "code": 3578241004,
+      "name": "Panjang Jiwo"
+    }
+  ]
+}

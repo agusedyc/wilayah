@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7409081009,
+      "name": "Linomoiyo"
+    },
+    {
+      "code": 7409082001,
+      "name": "Laronaha"
+    },
+    {
+      "code": 7409082002,
+      "name": "Bandaeha"
+    },
+    {
+      "code": 7409082003,
+      "name": "Kota Maju"
+    },
+    {
+      "code": 7409082004,
+      "name": "Landawe"
+    },
+    {
+      "code": 7409082005,
+      "name": "Wiwirano"
+    },
+    {
+      "code": 7409082006,
+      "name": "Mopute"
+    },
+    {
+      "code": 7409082007,
+      "name": "Tadoloiyo"
+    },
+    {
+      "code": 7409082008,
+      "name": "Puuhialu"
+    },
+    {
+      "code": 7409082010,
+      "name": "Sambandete"
+    },
+    {
+      "code": 7409082011,
+      "name": "Paka Indah"
+    },
+    {
+      "code": 7409082013,
+      "name": "Lameoru"
+    },
+    {
+      "code": 7409082014,
+      "name": "Walandawe"
+    },
+    {
+      "code": 7409082015,
+      "name": "Bendewuta"
+    },
+    {
+      "code": 7409082016,
+      "name": "Tinondo"
+    },
+    {
+      "code": 7409082018,
+      "name": "Horoe"
+    },
+    {
+      "code": 7409082019,
+      "name": "Tadoloiyo Trans"
+    }
+  ]
+}

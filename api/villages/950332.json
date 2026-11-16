@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9503322001,
+      "name": "Kona"
+    },
+    {
+      "code": 9503322002,
+      "name": "Kalpok"
+    },
+    {
+      "code": 9503322003,
+      "name": "Seklak"
+    },
+    {
+      "code": 9503322004,
+      "name": "Wetmuk"
+    },
+    {
+      "code": 9503322005,
+      "name": "Kugun"
+    }
+  ]
+}

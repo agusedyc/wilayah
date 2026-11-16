@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5321092001,
+      "name": "Raiulun"
+    },
+    {
+      "code": 5321092002,
+      "name": "Wemeda"
+    },
+    {
+      "code": 5321092003,
+      "name": "Kusa"
+    },
+    {
+      "code": 5321092004,
+      "name": "Numponi"
+    },
+    {
+      "code": 5321092005,
+      "name": "Dirma"
+    },
+    {
+      "code": 5321092006,
+      "name": "Sanleo"
+    }
+  ]
+}

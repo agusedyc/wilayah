@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3302162001,
+      "name": "Cikembulan"
+    },
+    {
+      "code": 3302162002,
+      "name": "Candinegara"
+    },
+    {
+      "code": 3302162003,
+      "name": "Karangklesem"
+    },
+    {
+      "code": 3302162004,
+      "name": "Cikawung"
+    },
+    {
+      "code": 3302162005,
+      "name": "Cibangkong"
+    },
+    {
+      "code": 3302162006,
+      "name": "Petahunan"
+    },
+    {
+      "code": 3302162007,
+      "name": "Semedo"
+    },
+    {
+      "code": 3302162008,
+      "name": "Banjaranyar"
+    },
+    {
+      "code": 3302162009,
+      "name": "Pasiraman Lor"
+    },
+    {
+      "code": 3302162010,
+      "name": "Pasiraman Kidul"
+    },
+    {
+      "code": 3302162011,
+      "name": "Tumiyang"
+    },
+    {
+      "code": 3302162012,
+      "name": "Glempang"
+    },
+    {
+      "code": 3302162013,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3302162014,
+      "name": "Karangkemiri"
+    },
+    {
+      "code": 3302162015,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3302162016,
+      "name": "Krajan"
+    }
+  ]
+}

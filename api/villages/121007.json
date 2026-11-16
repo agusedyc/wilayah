@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1210072001,
+      "name": "Sibargot"
+    },
+    {
+      "code": 1210072002,
+      "name": "Bandar Kumbul"
+    },
+    {
+      "code": 1210072003,
+      "name": "Tanjung Medan"
+    },
+    {
+      "code": 1210072004,
+      "name": "Janji"
+    },
+    {
+      "code": 1210072005,
+      "name": "Tebing Linggahara"
+    },
+    {
+      "code": 1210072006,
+      "name": "AFD.I Rantauprapat"
+    },
+    {
+      "code": 1210072007,
+      "name": "AFD.II Rantauprapat"
+    },
+    {
+      "code": 1210072008,
+      "name": "Aek Buru Selatan"
+    },
+    {
+      "code": 1210072009,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1210072010,
+      "name": "Tebing Linggahara Baru"
+    }
+  ]
+}

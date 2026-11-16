@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9508232001,
+      "name": "Paris"
+    },
+    {
+      "code": 9508232002,
+      "name": "Simie"
+    },
+    {
+      "code": 9508232003,
+      "name": "Urugi"
+    },
+    {
+      "code": 9508232004,
+      "name": "Pirim-Pirim"
+    },
+    {
+      "code": 9508232005,
+      "name": "Tombisik"
+    },
+    {
+      "code": 9508232006,
+      "name": "Yepma"
+    },
+    {
+      "code": 9508232007,
+      "name": "Sokore"
+    },
+    {
+      "code": 9508232008,
+      "name": "Tobonggom"
+    },
+    {
+      "code": 9508232009,
+      "name": "Rapa"
+    }
+  ]
+}

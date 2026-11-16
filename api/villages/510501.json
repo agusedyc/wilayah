@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5105012001,
+      "name": "Sakti"
+    },
+    {
+      "code": 5105012002,
+      "name": "Batumadeg"
+    },
+    {
+      "code": 5105012003,
+      "name": "Klumpu"
+    },
+    {
+      "code": 5105012004,
+      "name": "Batukandik"
+    },
+    {
+      "code": 5105012005,
+      "name": "Sekartaji"
+    },
+    {
+      "code": 5105012006,
+      "name": "Tanglad"
+    },
+    {
+      "code": 5105012007,
+      "name": "Suana"
+    },
+    {
+      "code": 5105012008,
+      "name": "Batununggul"
+    },
+    {
+      "code": 5105012009,
+      "name": "Kutampi"
+    },
+    {
+      "code": 5105012010,
+      "name": "Ped"
+    },
+    {
+      "code": 5105012011,
+      "name": "Kampung Toyapakeh"
+    },
+    {
+      "code": 5105012012,
+      "name": "Lembongan"
+    },
+    {
+      "code": 5105012013,
+      "name": "Jungutbatu"
+    },
+    {
+      "code": 5105012014,
+      "name": "Pejukutan"
+    },
+    {
+      "code": 5105012015,
+      "name": "Kutampi Kaler"
+    },
+    {
+      "code": 5105012016,
+      "name": "Bunga Mekar"
+    }
+  ]
+}

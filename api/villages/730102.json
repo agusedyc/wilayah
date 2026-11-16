@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7301021001,
+      "name": "Putabangun"
+    },
+    {
+      "code": 7301021002,
+      "name": "Bontobangun"
+    },
+    {
+      "code": 7301022003,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7301022004,
+      "name": "Bontoborusu"
+    },
+    {
+      "code": 7301022005,
+      "name": "Bontolebang"
+    },
+    {
+      "code": 7301022006,
+      "name": "Bontotangnga"
+    },
+    {
+      "code": 7301022007,
+      "name": "Kahu-Kahu"
+    },
+    {
+      "code": 7301022008,
+      "name": "Kalepadang"
+    }
+  ]
+}

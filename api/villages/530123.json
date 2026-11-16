@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5301232001,
+      "name": "Akle"
+    },
+    {
+      "code": 5301232002,
+      "name": "Uitiuh Ana"
+    },
+    {
+      "code": 5301232003,
+      "name": "Onansila"
+    },
+    {
+      "code": 5301232004,
+      "name": "Uitiuh Tuan"
+    },
+    {
+      "code": 5301232005,
+      "name": "Naikean"
+    },
+    {
+      "code": 5301232006,
+      "name": "Uiboa"
+    }
+  ]
+}

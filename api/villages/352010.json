@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3520101012,
+      "name": "Bendo"
+    },
+    {
+      "code": 3520102001,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3520102002,
+      "name": "Belotan"
+    },
+    {
+      "code": 3520102003,
+      "name": "Pingkuk"
+    },
+    {
+      "code": 3520102004,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3520102005,
+      "name": "Tegalarum"
+    },
+    {
+      "code": 3520102006,
+      "name": "Bulak"
+    },
+    {
+      "code": 3520102007,
+      "name": "Kinandang"
+    },
+    {
+      "code": 3520102008,
+      "name": "Soco"
+    },
+    {
+      "code": 3520102009,
+      "name": "Lemahbang"
+    },
+    {
+      "code": 3520102010,
+      "name": "Kledokan"
+    },
+    {
+      "code": 3520102011,
+      "name": "Carikan"
+    },
+    {
+      "code": 3520102013,
+      "name": "Bulugledeg"
+    },
+    {
+      "code": 3520102014,
+      "name": "Duwet"
+    },
+    {
+      "code": 3520102015,
+      "name": "Setren"
+    },
+    {
+      "code": 3520102016,
+      "name": "Kleco"
+    }
+  ]
+}

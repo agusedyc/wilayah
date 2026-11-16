@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102072004,
+      "name": "Tember"
+    },
+    {
+      "code": 7102072005,
+      "name": "Kamanga"
+    },
+    {
+      "code": 7102072006,
+      "name": "Sendangan"
+    },
+    {
+      "code": 7102072007,
+      "name": "Talikuran"
+    },
+    {
+      "code": 7102072009,
+      "name": "Tempok"
+    },
+    {
+      "code": 7102072010,
+      "name": "Liba"
+    },
+    {
+      "code": 7102072011,
+      "name": "Tolok"
+    },
+    {
+      "code": 7102072012,
+      "name": "Kamanga Dua"
+    },
+    {
+      "code": 7102072016,
+      "name": "Tempok Selatan"
+    },
+    {
+      "code": 7102072017,
+      "name": "Tolok Satu"
+    }
+  ]
+}

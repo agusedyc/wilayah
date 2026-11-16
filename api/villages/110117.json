@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1101172001,
+      "name": "Buket Gadeng"
+    },
+    {
+      "code": 1101172002,
+      "name": "Rambong"
+    },
+    {
+      "code": 1101172003,
+      "name": "Seuneubok Keuranji"
+    },
+    {
+      "code": 1101172004,
+      "name": "Seuneubok Alur Buloh"
+    },
+    {
+      "code": 1101172005,
+      "name": "Ujong Tanoh"
+    },
+    {
+      "code": 1101172006,
+      "name": "Ujong Gunong Cut"
+    },
+    {
+      "code": 1101172007,
+      "name": "Ujong Gunung Rayeuk"
+    },
+    {
+      "code": 1101172008,
+      "name": "Beutong"
+    },
+    {
+      "code": 1101172009,
+      "name": "Jambo Keupok"
+    },
+    {
+      "code": 1101172010,
+      "name": "Alurduamas"
+    }
+  ]
+}

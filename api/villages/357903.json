@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3579031001,
+      "name": "Dadaprejo"
+    },
+    {
+      "code": 3579032002,
+      "name": "Beji"
+    },
+    {
+      "code": 3579032003,
+      "name": "Junrejo"
+    },
+    {
+      "code": 3579032004,
+      "name": "Tlekung"
+    },
+    {
+      "code": 3579032005,
+      "name": "Mojorejo"
+    },
+    {
+      "code": 3579032006,
+      "name": "Pendem"
+    },
+    {
+      "code": 3579032007,
+      "name": "Torongrejo"
+    }
+  ]
+}

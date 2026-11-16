@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7206082001,
+      "name": "Bahoea Reko- Reko"
+    },
+    {
+      "code": 7206082002,
+      "name": "Wosu"
+    },
+    {
+      "code": 7206082003,
+      "name": "Larobenu"
+    },
+    {
+      "code": 7206082004,
+      "name": "Umpanga"
+    },
+    {
+      "code": 7206082005,
+      "name": "Tondo"
+    },
+    {
+      "code": 7206082006,
+      "name": "Topogaro"
+    },
+    {
+      "code": 7206082007,
+      "name": "Ambunu"
+    },
+    {
+      "code": 7206082008,
+      "name": "Wata"
+    },
+    {
+      "code": 7206082012,
+      "name": "Uedago"
+    },
+    {
+      "code": 7206082029,
+      "name": "Marga Mulya"
+    }
+  ]
+}

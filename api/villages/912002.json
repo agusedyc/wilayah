@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9120022001,
+      "name": "Dabra"
+    },
+    {
+      "code": 9120022002,
+      "name": "Taiyeve"
+    },
+    {
+      "code": 9120022003,
+      "name": "Fuao"
+    },
+    {
+      "code": 9120022004,
+      "name": "Papasena I"
+    },
+    {
+      "code": 9120022005,
+      "name": "Papasena II"
+    },
+    {
+      "code": 9120022006,
+      "name": "Dou"
+    },
+    {
+      "code": 9120022008,
+      "name": "Fokri"
+    },
+    {
+      "code": 9120022015,
+      "name": "Taria"
+    }
+  ]
+}

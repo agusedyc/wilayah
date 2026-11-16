@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1802212001,
+      "name": "Srikaton"
+    },
+    {
+      "code": 1802212002,
+      "name": "Jaya Sakti"
+    },
+    {
+      "code": 1802212003,
+      "name": "Haji Pemanggilan"
+    },
+    {
+      "code": 1802212004,
+      "name": "Negara Bumi Ilir"
+    },
+    {
+      "code": 1802212005,
+      "name": "Bumi Aji"
+    },
+    {
+      "code": 1802212006,
+      "name": "Negara Aji Tua"
+    },
+    {
+      "code": 1802212007,
+      "name": "Negara Bumi Udik"
+    },
+    {
+      "code": 1802212008,
+      "name": "Negara Aji Baru"
+    },
+    {
+      "code": 1802212009,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1802212010,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1802212011,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 1802212012,
+      "name": "Mulyo Haji"
+    }
+  ]
+}

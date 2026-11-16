@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1102132001,
+      "name": "Salang Baru"
+    },
+    {
+      "code": 1102132002,
+      "name": "Ranto Dior"
+    },
+    {
+      "code": 1102132003,
+      "name": "Lembah Alas"
+    },
+    {
+      "code": 1102132004,
+      "name": "Tenembak Lang-Lang"
+    },
+    {
+      "code": 1102132005,
+      "name": "Salang Sigotom"
+    },
+    {
+      "code": 1102132006,
+      "name": "Tualang Lama"
+    },
+    {
+      "code": 1102132007,
+      "name": "Gusung Batu"
+    },
+    {
+      "code": 1102132008,
+      "name": "Kaya Pangur"
+    },
+    {
+      "code": 1102132009,
+      "name": "Sepakat"
+    },
+    {
+      "code": 1102132010,
+      "name": "Lawe Pangkat"
+    },
+    {
+      "code": 1102132011,
+      "name": "Bunga Melur"
+    },
+    {
+      "code": 1102132012,
+      "name": "Penampaan"
+    },
+    {
+      "code": 1102132013,
+      "name": "Terutung Mbelang"
+    },
+    {
+      "code": 1102132014,
+      "name": "Salang Muara"
+    },
+    {
+      "code": 1102132015,
+      "name": "Lawe Hakhum"
+    },
+    {
+      "code": 1102132016,
+      "name": "Tanoh Khukahen"
+    },
+    {
+      "code": 1102132017,
+      "name": "Tading Ni Ulihi"
+    },
+    {
+      "code": 1102132018,
+      "name": "Peseluk Pesimbe"
+    },
+    {
+      "code": 1102132019,
+      "name": "Kane Lot"
+    },
+    {
+      "code": 1102132020,
+      "name": "Muhajirin"
+    },
+    {
+      "code": 1102132021,
+      "name": "Beriring Naru"
+    },
+    {
+      "code": 1102132022,
+      "name": "Kati Jeroh"
+    }
+  ]
+}

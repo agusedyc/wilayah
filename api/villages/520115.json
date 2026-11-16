@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5201152001,
+      "name": "Kuripan"
+    },
+    {
+      "code": 5201152002,
+      "name": "Jagaraga"
+    },
+    {
+      "code": 5201152003,
+      "name": "Kuripan Utara"
+    },
+    {
+      "code": 5201152004,
+      "name": "Kuripan Selatan"
+    },
+    {
+      "code": 5201152005,
+      "name": "Kuripan Timur"
+    },
+    {
+      "code": 5201152006,
+      "name": "Giri Sasak"
+    }
+  ]
+}

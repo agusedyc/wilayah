@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3214052001,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3214052002,
+      "name": "Malangnengah"
+    },
+    {
+      "code": 3214052003,
+      "name": "Cilalawi"
+    },
+    {
+      "code": 3214052004,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3214052005,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3214052006,
+      "name": "Cianting Utara"
+    },
+    {
+      "code": 3214052007,
+      "name": "Cianting"
+    },
+    {
+      "code": 3214052008,
+      "name": "Pasirmunjul"
+    },
+    {
+      "code": 3214052009,
+      "name": "Tajursindang"
+    },
+    {
+      "code": 3214052010,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3214052011,
+      "name": "Cijantung"
+    },
+    {
+      "code": 3214052012,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3214052013,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3214052014,
+      "name": "Sindanglaya"
+    }
+  ]
+}

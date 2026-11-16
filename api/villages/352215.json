@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3522151001,
+      "name": "Jetak"
+    },
+    {
+      "code": 3522151004,
+      "name": "Mojokampung"
+    },
+    {
+      "code": 3522151005,
+      "name": "Kepatihan"
+    },
+    {
+      "code": 3522151006,
+      "name": "Sumbang"
+    },
+    {
+      "code": 3522151007,
+      "name": "Klangon"
+    },
+    {
+      "code": 3522151009,
+      "name": "Ledok Kulon"
+    },
+    {
+      "code": 3522151010,
+      "name": "Ledok Wetan"
+    },
+    {
+      "code": 3522151011,
+      "name": "Kadipaten"
+    },
+    {
+      "code": 3522151012,
+      "name": "Ngrowo"
+    },
+    {
+      "code": 3522151013,
+      "name": "Karangpacar"
+    },
+    {
+      "code": 3522151014,
+      "name": "Banjarejo"
+    },
+    {
+      "code": 3522152002,
+      "name": "Pacul"
+    },
+    {
+      "code": 3522152003,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3522152008,
+      "name": "Kauman"
+    },
+    {
+      "code": 3522152015,
+      "name": "Campurejo"
+    },
+    {
+      "code": 3522152016,
+      "name": "Mulyoagung"
+    },
+    {
+      "code": 3522152017,
+      "name": "Kalirejo"
+    },
+    {
+      "code": 3522152018,
+      "name": "Semanding"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1214061008,
+      "name": "Pasar Teluk Dalam"
+    },
+    {
+      "code": 1214062006,
+      "name": "Hiligeho"
+    },
+    {
+      "code": 1214062007,
+      "name": "Hilitobara"
+    },
+    {
+      "code": 1214062009,
+      "name": "Bawonifaoso"
+    },
+    {
+      "code": 1214062010,
+      "name": "Bawozaua"
+    },
+    {
+      "code": 1214062011,
+      "name": "Hiliganowo"
+    },
+    {
+      "code": 1214062023,
+      "name": "Bawodobara"
+    },
+    {
+      "code": 1214062024,
+      "name": "Bawolowalani"
+    },
+    {
+      "code": 1214062025,
+      "name": "Hilisao'otoniha"
+    },
+    {
+      "code": 1214062026,
+      "name": "Hilisondrekha"
+    },
+    {
+      "code": 1214062040,
+      "name": "Hiliamuri"
+    },
+    {
+      "code": 1214062042,
+      "name": "Hiliana'a"
+    },
+    {
+      "code": 1214062043,
+      "name": "Hiliganowo Salo'o"
+    },
+    {
+      "code": 1214062044,
+      "name": "Ganowo Saua"
+    },
+    {
+      "code": 1214062045,
+      "name": "Nanowa"
+    },
+    {
+      "code": 1214062046,
+      "name": "Hililaza"
+    }
+  ]
+}

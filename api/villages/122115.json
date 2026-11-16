@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1221152001,
+      "name": "Pasir Julu"
+    },
+    {
+      "code": 1221152002,
+      "name": "Lumban Huayan"
+    },
+    {
+      "code": 1221152003,
+      "name": "Siborna Bunut"
+    },
+    {
+      "code": 1221152004,
+      "name": "Mananti Sosa Julu"
+    },
+    {
+      "code": 1221152005,
+      "name": "Ampolu"
+    },
+    {
+      "code": 1221152006,
+      "name": "Siginduang"
+    },
+    {
+      "code": 1221152007,
+      "name": "Ramba"
+    },
+    {
+      "code": 1221152008,
+      "name": "Roburan"
+    },
+    {
+      "code": 1221152009,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1221152010,
+      "name": "Hurung Jilok"
+    },
+    {
+      "code": 1221152011,
+      "name": "Pasir Jae"
+    },
+    {
+      "code": 1221152012,
+      "name": "Sungai Jior"
+    }
+  ]
+}

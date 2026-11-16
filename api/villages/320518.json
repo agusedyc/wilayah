@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3205182001,
+      "name": "Cigedug"
+    },
+    {
+      "code": 3205182002,
+      "name": "Barusuda"
+    },
+    {
+      "code": 3205182003,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3205182004,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3205182005,
+      "name": "Cintanagara"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1407101001,
+      "name": "Bangko Kanan"
+    },
+    {
+      "code": 1407101006,
+      "name": "Bangko Kiri"
+    },
+    {
+      "code": 1407102002,
+      "name": "Bangko Jaya"
+    },
+    {
+      "code": 1407102003,
+      "name": "Bangko Sempurna"
+    },
+    {
+      "code": 1407102004,
+      "name": "Bangko Bakti"
+    },
+    {
+      "code": 1407102005,
+      "name": "Bangko Pusako"
+    },
+    {
+      "code": 1407102007,
+      "name": "Sei Manasib"
+    },
+    {
+      "code": 1407102008,
+      "name": "Teluk Bano I"
+    },
+    {
+      "code": 1407102009,
+      "name": "Bangko Makmur"
+    },
+    {
+      "code": 1407102010,
+      "name": "Pematang Damar"
+    },
+    {
+      "code": 1407102011,
+      "name": "Pematang Ibul"
+    },
+    {
+      "code": 1407102012,
+      "name": "Bangko Permata"
+    },
+    {
+      "code": 1407102013,
+      "name": "Bangko Mukti"
+    },
+    {
+      "code": 1407102014,
+      "name": "Bangko Lestari"
+    },
+    {
+      "code": 1407102015,
+      "name": "Bangko Balam"
+    },
+    {
+      "code": 1407102016,
+      "name": "Bangko Mas Raya"
+    }
+  ]
+}

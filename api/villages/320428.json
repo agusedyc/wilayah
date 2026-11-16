@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3204281014,
+      "name": "Rancaekek Kencana"
+    },
+    {
+      "code": 3204282001,
+      "name": "Rancaekek Wetan"
+    },
+    {
+      "code": 3204282002,
+      "name": "Rancaekek Kulon"
+    },
+    {
+      "code": 3204282003,
+      "name": "Bojongsalam"
+    },
+    {
+      "code": 3204282004,
+      "name": "Bojongloa"
+    },
+    {
+      "code": 3204282005,
+      "name": "Jelegong"
+    },
+    {
+      "code": 3204282006,
+      "name": "Linggar"
+    },
+    {
+      "code": 3204282007,
+      "name": "Cangkuang"
+    },
+    {
+      "code": 3204282008,
+      "name": "Haurpugur"
+    },
+    {
+      "code": 3204282009,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3204282010,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3204282011,
+      "name": "Tegal Sumedang"
+    },
+    {
+      "code": 3204282012,
+      "name": "Sangiang"
+    },
+    {
+      "code": 3204282013,
+      "name": "Nanjung Mekar"
+    }
+  ]
+}

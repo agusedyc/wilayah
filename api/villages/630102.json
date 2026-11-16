@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6301022001,
+      "name": "Sabuhur"
+    },
+    {
+      "code": 6301022002,
+      "name": "Jorong"
+    },
+    {
+      "code": 6301022003,
+      "name": "Asam-Asam"
+    },
+    {
+      "code": 6301022004,
+      "name": "Batalang"
+    },
+    {
+      "code": 6301022005,
+      "name": "Swarangan"
+    },
+    {
+      "code": 6301022006,
+      "name": "Muara Asam-Asam"
+    },
+    {
+      "code": 6301022007,
+      "name": "Alur"
+    },
+    {
+      "code": 6301022008,
+      "name": "Asri Mulya"
+    },
+    {
+      "code": 6301022009,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 6301022010,
+      "name": "Asam Jaya"
+    },
+    {
+      "code": 6301022011,
+      "name": "Simpang Empat Sungai Baru"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7603082002,
+      "name": "Orobua"
+    },
+    {
+      "code": 7603082003,
+      "name": "Paladan"
+    },
+    {
+      "code": 7603082004,
+      "name": "Orobua Timur"
+    },
+    {
+      "code": 7603082006,
+      "name": "Rante Puang"
+    },
+    {
+      "code": 7603082007,
+      "name": "Satenetean"
+    },
+    {
+      "code": 7603082008,
+      "name": "Lisuan Ada"
+    },
+    {
+      "code": 7603082010,
+      "name": "Orobua Selatan"
+    },
+    {
+      "code": 7603082012,
+      "name": "Malangkena Padang"
+    },
+    {
+      "code": 7603082013,
+      "name": "Malimbong"
+    },
+    {
+      "code": 7603082014,
+      "name": "Marampan Orobua"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9605102001,
+      "name": "Kambuaya"
+    },
+    {
+      "code": 9605102002,
+      "name": "Huberita"
+    },
+    {
+      "code": 9605102003,
+      "name": "Faitmajin"
+    },
+    {
+      "code": 9605102004,
+      "name": "Ismayo"
+    },
+    {
+      "code": 9605102005,
+      "name": "Sefayit"
+    },
+    {
+      "code": 9605102006,
+      "name": "Insas"
+    },
+    {
+      "code": 9605102007,
+      "name": "Faitsiur"
+    },
+    {
+      "code": 9605102008,
+      "name": "Keyum"
+    }
+  ]
+}

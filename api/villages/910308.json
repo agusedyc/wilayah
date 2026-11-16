@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9103082001,
+      "name": "Nimbokrang"
+    },
+    {
+      "code": 9103082002,
+      "name": "Benyom Jaya I"
+    },
+    {
+      "code": 9103082003,
+      "name": "Benyom Jaya II"
+    },
+    {
+      "code": 9103082004,
+      "name": "Berab"
+    },
+    {
+      "code": 9103082005,
+      "name": "Hamonggrang"
+    },
+    {
+      "code": 9103082006,
+      "name": "Wahab"
+    },
+    {
+      "code": 9103082007,
+      "name": "Nombukrang Sari"
+    },
+    {
+      "code": 9103082008,
+      "name": "Rhepang Muaf"
+    },
+    {
+      "code": 9103082009,
+      "name": "Bunyom"
+    }
+  ]
+}

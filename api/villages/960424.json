@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604242001,
+      "name": "Nekori"
+    },
+    {
+      "code": 9604242002,
+      "name": "Ajami"
+    },
+    {
+      "code": 9604242003,
+      "name": "Aniti"
+    },
+    {
+      "code": 9604242004,
+      "name": "Akari"
+    },
+    {
+      "code": 9604242005,
+      "name": "Amnan"
+    },
+    {
+      "code": 9604242006,
+      "name": "Atiki"
+    },
+    {
+      "code": 9604242007,
+      "name": "Arwani"
+    },
+    {
+      "code": 9604242008,
+      "name": "Aritowi"
+    },
+    {
+      "code": 9604242009,
+      "name": "Umpay"
+    },
+    {
+      "code": 9604242010,
+      "name": "Meiwar"
+    }
+  ]
+}

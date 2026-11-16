@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3507102001,
+      "name": "Putat Kidul"
+    },
+    {
+      "code": 3507102002,
+      "name": "Gondanglegi Kulon"
+    },
+    {
+      "code": 3507102003,
+      "name": "Sukosari"
+    },
+    {
+      "code": 3507102004,
+      "name": "Gondanglegi Wetan"
+    },
+    {
+      "code": 3507102005,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3507102006,
+      "name": "Bulupitu"
+    },
+    {
+      "code": 3507102007,
+      "name": "Panggungrejo"
+    },
+    {
+      "code": 3507102008,
+      "name": "Ganjaran"
+    },
+    {
+      "code": 3507102009,
+      "name": "Putat Lor"
+    },
+    {
+      "code": 3507102010,
+      "name": "Urek - Urek"
+    },
+    {
+      "code": 3507102011,
+      "name": "Ketawang"
+    },
+    {
+      "code": 3507102012,
+      "name": "Putukrejo"
+    },
+    {
+      "code": 3507102013,
+      "name": "Sumberjaya"
+    },
+    {
+      "code": 3507102014,
+      "name": "Sepanjang"
+    }
+  ]
+}

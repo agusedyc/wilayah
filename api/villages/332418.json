@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3324182001,
+      "name": "Ngerjo"
+    },
+    {
+      "code": 3324182002,
+      "name": "Kedungasri"
+    },
+    {
+      "code": 3324182003,
+      "name": "Kedunggading"
+    },
+    {
+      "code": 3324182004,
+      "name": "Ringinarum"
+    },
+    {
+      "code": 3324182005,
+      "name": "Ngawensari"
+    },
+    {
+      "code": 3324182006,
+      "name": "Tejorejo"
+    },
+    {
+      "code": 3324182007,
+      "name": "Wungurejo"
+    },
+    {
+      "code": 3324182008,
+      "name": "Rowobranten"
+    },
+    {
+      "code": 3324182009,
+      "name": "Caruban"
+    },
+    {
+      "code": 3324182010,
+      "name": "Mojo"
+    },
+    {
+      "code": 3324182011,
+      "name": "Purworejo"
+    },
+    {
+      "code": 3324182012,
+      "name": "Pagerdawung"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603082001,
+      "name": "Penindaian"
+    },
+    {
+      "code": 1603082002,
+      "name": "Babatan"
+    },
+    {
+      "code": 1603082003,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1603082004,
+      "name": "Muara Danau"
+    },
+    {
+      "code": 1603082005,
+      "name": "Penyandingan"
+    },
+    {
+      "code": 1603082006,
+      "name": "Tanah Abang"
+    },
+    {
+      "code": 1603082007,
+      "name": "Pagar Agung"
+    },
+    {
+      "code": 1603082008,
+      "name": "Pulau Panggung"
+    },
+    {
+      "code": 1603082009,
+      "name": "Karya Nyata"
+    },
+    {
+      "code": 1603082010,
+      "name": "Perapau"
+    }
+  ]
+}

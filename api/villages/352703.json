@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3527031003,
+      "name": "Polagan"
+    },
+    {
+      "code": 3527031004,
+      "name": "Banyuanyar"
+    },
+    {
+      "code": 3527031006,
+      "name": "Rongtengah"
+    },
+    {
+      "code": 3527031007,
+      "name": "Karang Dalam"
+    },
+    {
+      "code": 3527031008,
+      "name": "Gunung Sekar"
+    },
+    {
+      "code": 3527031009,
+      "name": "Dalpenang"
+    },
+    {
+      "code": 3527032001,
+      "name": "P. Mandangin"
+    },
+    {
+      "code": 3527032002,
+      "name": "Aengsareh"
+    },
+    {
+      "code": 3527032005,
+      "name": "Gunung Maddah"
+    },
+    {
+      "code": 3527032010,
+      "name": "Panggung"
+    },
+    {
+      "code": 3527032011,
+      "name": "Taman Sareh"
+    },
+    {
+      "code": 3527032012,
+      "name": "Pakalongan"
+    },
+    {
+      "code": 3527032013,
+      "name": "Tanggumong"
+    },
+    {
+      "code": 3527032014,
+      "name": "Kamuning"
+    },
+    {
+      "code": 3527032015,
+      "name": "Banyumas"
+    },
+    {
+      "code": 3527032016,
+      "name": "Pangelen"
+    },
+    {
+      "code": 3527032017,
+      "name": "Paseyan"
+    },
+    {
+      "code": 3527032018,
+      "name": "Baruh"
+    }
+  ]
+}

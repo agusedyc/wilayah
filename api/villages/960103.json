@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9601031001,
+      "name": "Katinim"
+    },
+    {
+      "code": 9601031002,
+      "name": "Majener"
+    },
+    {
+      "code": 9601031003,
+      "name": "Majaran"
+    },
+    {
+      "code": 9601031004,
+      "name": "Matawolot"
+    },
+    {
+      "code": 9601032005,
+      "name": "Walal"
+    },
+    {
+      "code": 9601032006,
+      "name": "Malaus"
+    },
+    {
+      "code": 9601032007,
+      "name": "Rawa Sugi"
+    }
+  ]
+}

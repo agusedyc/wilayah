@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9505032001,
+      "name": "Winima"
+    },
+    {
+      "code": 9505032002,
+      "name": "Mogonik"
+    },
+    {
+      "code": 9505032003,
+      "name": "Winam"
+    },
+    {
+      "code": 9505032004,
+      "name": "Kino"
+    },
+    {
+      "code": 9505032005,
+      "name": "Ayeki"
+    },
+    {
+      "code": 9505032006,
+      "name": "Enggama"
+    },
+    {
+      "code": 9505032007,
+      "name": "Wurigelobar"
+    },
+    {
+      "code": 9505032008,
+      "name": "Pagale"
+    },
+    {
+      "code": 9505032009,
+      "name": "Arsbol"
+    },
+    {
+      "code": 9505032010,
+      "name": "Yabendili"
+    },
+    {
+      "code": 9505032011,
+      "name": "Moligi"
+    },
+    {
+      "code": 9505032012,
+      "name": "Kugab"
+    },
+    {
+      "code": 9505032013,
+      "name": "Engaima"
+    },
+    {
+      "code": 9505032014,
+      "name": "Erageam"
+    },
+    {
+      "code": 9505032015,
+      "name": "Wanilok"
+    }
+  ]
+}

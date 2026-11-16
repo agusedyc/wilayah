@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5302192001,
+      "name": "Kolbano"
+    },
+    {
+      "code": 5302192002,
+      "name": "Noesiu"
+    },
+    {
+      "code": 5302192003,
+      "name": "Pene Selatan"
+    },
+    {
+      "code": 5302192004,
+      "name": "Oetuke"
+    },
+    {
+      "code": 5302192005,
+      "name": "Babuin"
+    },
+    {
+      "code": 5302192006,
+      "name": "Oeleu"
+    },
+    {
+      "code": 5302192007,
+      "name": "Se'i"
+    },
+    {
+      "code": 5302192008,
+      "name": "Nununamat"
+    },
+    {
+      "code": 5302192009,
+      "name": "Pana"
+    },
+    {
+      "code": 5302192010,
+      "name": "Haunobenak"
+    },
+    {
+      "code": 5302192011,
+      "name": "Ofu"
+    },
+    {
+      "code": 5302192012,
+      "name": "Spaha"
+    }
+  ]
+}

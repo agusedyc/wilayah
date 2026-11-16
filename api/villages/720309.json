@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7203092001,
+      "name": "Labuan"
+    },
+    {
+      "code": 7203092008,
+      "name": "Labuan Salumbone"
+    },
+    {
+      "code": 7203092009,
+      "name": "Labuan Panimba"
+    },
+    {
+      "code": 7203092010,
+      "name": "Labuan Lelea"
+    },
+    {
+      "code": 7203092011,
+      "name": "Labuan Kungguma"
+    },
+    {
+      "code": 7203092012,
+      "name": "Labuan Toposo"
+    },
+    {
+      "code": 7203092013,
+      "name": "Labuan Lumbubaka"
+    }
+  ]
+}

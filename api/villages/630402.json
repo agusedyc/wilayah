@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6304022001,
+      "name": "Purwosari II"
+    },
+    {
+      "code": 6304022002,
+      "name": "Purwosari I"
+    },
+    {
+      "code": 6304022003,
+      "name": "Tamban Bangun"
+    },
+    {
+      "code": 6304022004,
+      "name": "Tamban Muara"
+    },
+    {
+      "code": 6304022005,
+      "name": "Tamban Kecil"
+    },
+    {
+      "code": 6304022006,
+      "name": "Tinggiran II Luar"
+    },
+    {
+      "code": 6304022007,
+      "name": "Jelapat I"
+    },
+    {
+      "code": 6304022008,
+      "name": "Tamban Muara Baru"
+    },
+    {
+      "code": 6304022009,
+      "name": "Purwosari Baru"
+    },
+    {
+      "code": 6304022010,
+      "name": "Sekata Baru"
+    },
+    {
+      "code": 6304022011,
+      "name": "Koanda"
+    },
+    {
+      "code": 6304022012,
+      "name": "Damsari"
+    },
+    {
+      "code": 6304022013,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 6304022014,
+      "name": "Jelapat Baru"
+    },
+    {
+      "code": 6304022015,
+      "name": "Tamban Bangun Baru"
+    },
+    {
+      "code": 6304022016,
+      "name": "Tamban Sari Baru"
+    }
+  ]
+}

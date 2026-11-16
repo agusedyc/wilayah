@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5317012001,
+      "name": "Makata Keri"
+    },
+    {
+      "code": 5317012003,
+      "name": "Kabela Wuntu"
+    },
+    {
+      "code": 5317012004,
+      "name": "Mata Woga"
+    },
+    {
+      "code": 5317012019,
+      "name": "Umbu Riri"
+    },
+    {
+      "code": 5317012023,
+      "name": "Anakalang"
+    },
+    {
+      "code": 5317012024,
+      "name": "Dewa Jara"
+    },
+    {
+      "code": 5317012025,
+      "name": "Mata Redi"
+    }
+  ]
+}

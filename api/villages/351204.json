@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3512042001,
+      "name": "Alas Bayur"
+    },
+    {
+      "code": 3512042002,
+      "name": "Sumberanyar"
+    },
+    {
+      "code": 3512042003,
+      "name": "Campoan"
+    },
+    {
+      "code": 3512042004,
+      "name": "Trebungan"
+    },
+    {
+      "code": 3512042005,
+      "name": "Sumber Pinang"
+    },
+    {
+      "code": 3512042006,
+      "name": "Selomukti"
+    },
+    {
+      "code": 3512042007,
+      "name": "Mlandingan Kulon"
+    }
+  ]
+}

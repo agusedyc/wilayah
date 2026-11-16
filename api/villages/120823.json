@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1208231014,
+      "name": "Perdagangan I"
+    },
+    {
+      "code": 1208231015,
+      "name": "Perdagangan III"
+    },
+    {
+      "code": 1208232001,
+      "name": "Pematang Kerasaan"
+    },
+    {
+      "code": 1208232002,
+      "name": "Marihat Bandar"
+    },
+    {
+      "code": 1208232003,
+      "name": "Nagori Bandar"
+    },
+    {
+      "code": 1208232004,
+      "name": "Bandar Rakyat"
+    },
+    {
+      "code": 1208232005,
+      "name": "Bandar Pulo"
+    },
+    {
+      "code": 1208232006,
+      "name": "Bah Lias"
+    },
+    {
+      "code": 1208232007,
+      "name": "Perdagangan II"
+    },
+    {
+      "code": 1208232008,
+      "name": "Perlanaan"
+    },
+    {
+      "code": 1208232009,
+      "name": "Sugarang Bayu"
+    },
+    {
+      "code": 1208232010,
+      "name": "Pem Kerasaan Rejo"
+    },
+    {
+      "code": 1208232011,
+      "name": "Timbaan"
+    },
+    {
+      "code": 1208232012,
+      "name": "Bandar Jawa"
+    },
+    {
+      "code": 1208232013,
+      "name": "Sidotani"
+    },
+    {
+      "code": 1208232016,
+      "name": "Landbouw"
+    }
+  ]
+}

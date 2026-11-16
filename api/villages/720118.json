@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7201182001,
+      "name": "Tombos"
+    },
+    {
+      "code": 7201182002,
+      "name": "Dondo"
+    },
+    {
+      "code": 7201182003,
+      "name": "Sepe"
+    },
+    {
+      "code": 7201182004,
+      "name": "Booy"
+    },
+    {
+      "code": 7201182005,
+      "name": "Tintingon"
+    },
+    {
+      "code": 7201182006,
+      "name": "Resarna"
+    },
+    {
+      "code": 7201182007,
+      "name": "Giwang"
+    },
+    {
+      "code": 7201182008,
+      "name": "Tongke"
+    },
+    {
+      "code": 7201182009,
+      "name": "Gorontalo"
+    },
+    {
+      "code": 7201182010,
+      "name": "Poyang"
+    },
+    {
+      "code": 7201182011,
+      "name": "Tanggawas"
+    }
+  ]
+}

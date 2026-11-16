@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9604072001,
+      "name": "Syujak"
+    },
+    {
+      "code": 9604072002,
+      "name": "Banso"
+    },
+    {
+      "code": 9604072003,
+      "name": "Iof"
+    },
+    {
+      "code": 9604072004,
+      "name": "Frafane"
+    }
+  ]
+}

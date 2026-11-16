@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7326181002,
+      "name": "Bokin"
+    },
+    {
+      "code": 7326181005,
+      "name": "Buangin"
+    },
+    {
+      "code": 7326182001,
+      "name": "Rantebua"
+    },
+    {
+      "code": 7326182003,
+      "name": "Pitung Penanian"
+    },
+    {
+      "code": 7326182004,
+      "name": "Ma'kuan Pare"
+    },
+    {
+      "code": 7326182006,
+      "name": "Rantebua Sumalu"
+    },
+    {
+      "code": 7326182007,
+      "name": "Rantebua Sanggalangi'"
+    }
+  ]
+}

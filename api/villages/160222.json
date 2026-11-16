@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1602222001,
+      "name": "Tanjung Sari I"
+    },
+    {
+      "code": 1602222002,
+      "name": "Lubuk Seberuk"
+    },
+    {
+      "code": 1602222003,
+      "name": "Rantau Durian I"
+    },
+    {
+      "code": 1602222004,
+      "name": "Sungai Belida"
+    },
+    {
+      "code": 1602222005,
+      "name": "Lempuing Indah"
+    },
+    {
+      "code": 1602222006,
+      "name": "Muktisari"
+    },
+    {
+      "code": 1602222007,
+      "name": "Tania Makmur"
+    },
+    {
+      "code": 1602222008,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1602222009,
+      "name": "Muara Burnai II"
+    },
+    {
+      "code": 1602222010,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1602222011,
+      "name": "Rantau Durian II"
+    },
+    {
+      "code": 1602222012,
+      "name": "Tanjung Sari II"
+    },
+    {
+      "code": 1602222013,
+      "name": "Purwo Asri"
+    },
+    {
+      "code": 1602222014,
+      "name": "Muara Burnai I"
+    },
+    {
+      "code": 1602222015,
+      "name": "Lubuk Makmur"
+    },
+    {
+      "code": 1602222016,
+      "name": "Rantau Durian Asli"
+    }
+  ]
+}

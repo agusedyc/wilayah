@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3506132001,
+      "name": "Kalipang"
+    },
+    {
+      "code": 3506132002,
+      "name": "Grogol"
+    },
+    {
+      "code": 3506132003,
+      "name": "Cerme"
+    },
+    {
+      "code": 3506132004,
+      "name": "Wonoasri"
+    },
+    {
+      "code": 3506132005,
+      "name": "Sonorejo"
+    },
+    {
+      "code": 3506132006,
+      "name": "Datengan"
+    },
+    {
+      "code": 3506132007,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3506132008,
+      "name": "Gambyok"
+    },
+    {
+      "code": 3506132009,
+      "name": "Bakalan"
+    }
+  ]
+}

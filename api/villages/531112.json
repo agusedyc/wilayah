@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311122001,
+      "name": "Kananggar"
+    },
+    {
+      "code": 5311122002,
+      "name": "Mehang Mata"
+    },
+    {
+      "code": 5311122003,
+      "name": "Karera Jangga"
+    },
+    {
+      "code": 5311122004,
+      "name": "Praimbana"
+    },
+    {
+      "code": 5311122005,
+      "name": "Pabera Manera"
+    },
+    {
+      "code": 5311122010,
+      "name": "Winumuru"
+    },
+    {
+      "code": 5311122011,
+      "name": "Laitaku"
+    }
+  ]
+}

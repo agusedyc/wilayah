@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1802132001,
+      "name": "Gunung Batin Udik"
+    },
+    {
+      "code": 1802132002,
+      "name": "Gunung Batin Ilir"
+    },
+    {
+      "code": 1802132003,
+      "name": "Gunung Batin Baru"
+    },
+    {
+      "code": 1802132004,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1802132005,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1802132006,
+      "name": "Bandar Sakti"
+    },
+    {
+      "code": 1802132007,
+      "name": "Tanjung Anom"
+    }
+  ]
+}

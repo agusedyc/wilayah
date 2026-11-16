@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5306112001,
+      "name": "Rodentena"
+    },
+    {
+      "code": 5306112002,
+      "name": "Adolaba"
+    },
+    {
+      "code": 5306112003,
+      "name": "Hinga"
+    },
+    {
+      "code": 5306112004,
+      "name": "Lamapaha"
+    },
+    {
+      "code": 5306112005,
+      "name": "Sukutokan"
+    },
+    {
+      "code": 5306112006,
+      "name": "Nisakarang"
+    },
+    {
+      "code": 5306112007,
+      "name": "Muda"
+    },
+    {
+      "code": 5306112008,
+      "name": "Horinara"
+    },
+    {
+      "code": 5306112009,
+      "name": "Pepageka"
+    },
+    {
+      "code": 5306112010,
+      "name": "Lamabunga"
+    },
+    {
+      "code": 5306112012,
+      "name": "Mangaaleng"
+    },
+    {
+      "code": 5306112019,
+      "name": "Keluwain"
+    }
+  ]
+}

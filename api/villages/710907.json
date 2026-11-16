@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7109072001,
+      "name": "Buang"
+    },
+    {
+      "code": 7109072002,
+      "name": "Karungo"
+    },
+    {
+      "code": 7109072003,
+      "name": "Lamanggo"
+    },
+    {
+      "code": 7109072004,
+      "name": "Dalinsaheng"
+    },
+    {
+      "code": 7109072005,
+      "name": "Tope"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7103192001,
+      "name": "Hangke"
+    },
+    {
+      "code": 7103192002,
+      "name": "Salurang"
+    },
+    {
+      "code": 7103192003,
+      "name": "Tambung"
+    },
+    {
+      "code": 7103192004,
+      "name": "Beeng"
+    },
+    {
+      "code": 7103192005,
+      "name": "Lehupu"
+    },
+    {
+      "code": 7103192006,
+      "name": "Bowone"
+    },
+    {
+      "code": 7103192007,
+      "name": "Beeng Laut"
+    },
+    {
+      "code": 7103192008,
+      "name": "Tenda"
+    },
+    {
+      "code": 7103192009,
+      "name": "Aha Patung"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6306062001,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 6306062002,
+      "name": "Simpur"
+    },
+    {
+      "code": 6306062003,
+      "name": "Garunggang"
+    },
+    {
+      "code": 6306062004,
+      "name": "Amparaya"
+    },
+    {
+      "code": 6306062005,
+      "name": "Panjampang Bahagia"
+    },
+    {
+      "code": 6306062006,
+      "name": "Ulin"
+    },
+    {
+      "code": 6306062007,
+      "name": "Pantai Ulin"
+    },
+    {
+      "code": 6306062008,
+      "name": "Wasah Hulu"
+    },
+    {
+      "code": 6306062009,
+      "name": "Wasah Tengah"
+    },
+    {
+      "code": 6306062010,
+      "name": "Wasah Hilir"
+    },
+    {
+      "code": 6306062011,
+      "name": "Kapuh"
+    }
+  ]
+}

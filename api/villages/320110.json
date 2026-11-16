@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3201102001,
+      "name": "Parung"
+    },
+    {
+      "code": 3201102002,
+      "name": "Iwul"
+    },
+    {
+      "code": 3201102003,
+      "name": "Bojong Sempu"
+    },
+    {
+      "code": 3201102004,
+      "name": "Waru"
+    },
+    {
+      "code": 3201102005,
+      "name": "Cogreg"
+    },
+    {
+      "code": 3201102006,
+      "name": "Pamegarsari"
+    },
+    {
+      "code": 3201102007,
+      "name": "Waru Jaya"
+    },
+    {
+      "code": 3201102008,
+      "name": "Bojong Indah"
+    },
+    {
+      "code": 3201102009,
+      "name": "Jabon Mekar"
+    }
+  ]
+}

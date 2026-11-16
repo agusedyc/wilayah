@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8202102001,
+      "name": "Sakam"
+    },
+    {
+      "code": 8202102002,
+      "name": "Nursifa"
+    },
+    {
+      "code": 8202102003,
+      "name": "Damuli"
+    },
+    {
+      "code": 8202102004,
+      "name": "Peniti"
+    },
+    {
+      "code": 8202102005,
+      "name": "Masure"
+    },
+    {
+      "code": 8202102006,
+      "name": "Palo"
+    }
+  ]
+}

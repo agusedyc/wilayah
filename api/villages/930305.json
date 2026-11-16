@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9303052001,
+      "name": "Yagatsu"
+    },
+    {
+      "code": 9303052002,
+      "name": "Amagatsu"
+    },
+    {
+      "code": 9303052003,
+      "name": "Katage"
+    },
+    {
+      "code": 9303052004,
+      "name": "Sogope"
+    },
+    {
+      "code": 9303052005,
+      "name": "Wiyage"
+    },
+    {
+      "code": 9303052006,
+      "name": "Kasima"
+    },
+    {
+      "code": 9303052007,
+      "name": "Amenda"
+    },
+    {
+      "code": 9303052008,
+      "name": "Kaibu"
+    },
+    {
+      "code": 9303052009,
+      "name": "Omuro"
+    },
+    {
+      "code": 9303052010,
+      "name": "Okor"
+    },
+    {
+      "code": 9303052011,
+      "name": "Atsipim"
+    },
+    {
+      "code": 9303052012,
+      "name": "Semtaipim"
+    },
+    {
+      "code": 9303052013,
+      "name": "Geiripim"
+    },
+    {
+      "code": 9303052014,
+      "name": "Warogom"
+    },
+    {
+      "code": 9303052015,
+      "name": "Kaibusene"
+    },
+    {
+      "code": 9303052016,
+      "name": "Arare"
+    },
+    {
+      "code": 9303052017,
+      "name": "Paghai"
+    },
+    {
+      "code": 9303052018,
+      "name": "Kerke"
+    },
+    {
+      "code": 9303052019,
+      "name": "Mani"
+    }
+  ]
+}

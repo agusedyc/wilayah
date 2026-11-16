@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3214022001,
+      "name": "Campaka"
+    },
+    {
+      "code": 3214022002,
+      "name": "Campakasari"
+    },
+    {
+      "code": 3214022003,
+      "name": "Benteng"
+    },
+    {
+      "code": 3214022004,
+      "name": "Cirende"
+    },
+    {
+      "code": 3214022005,
+      "name": "Cikumpay"
+    },
+    {
+      "code": 3214022006,
+      "name": "Cijaya"
+    },
+    {
+      "code": 3214022007,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3214022008,
+      "name": "Cimahi"
+    },
+    {
+      "code": 3214022009,
+      "name": "Cijunti"
+    },
+    {
+      "code": 3214022010,
+      "name": "Cisaat"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7371031001,
+      "name": "Maricaya"
+    },
+    {
+      "code": 7371031002,
+      "name": "Bara Baraya"
+    },
+    {
+      "code": 7371031003,
+      "name": "Maradekaya"
+    },
+    {
+      "code": 7371031004,
+      "name": "Lariangbangi"
+    },
+    {
+      "code": 7371031005,
+      "name": "Maccini"
+    },
+    {
+      "code": 7371031006,
+      "name": "Maricaya Baru"
+    },
+    {
+      "code": 7371031007,
+      "name": "Bara Baraya Timur"
+    },
+    {
+      "code": 7371031008,
+      "name": "Bara Baraya Selatan"
+    },
+    {
+      "code": 7371031009,
+      "name": "Maradekaya Selatan"
+    },
+    {
+      "code": 7371031010,
+      "name": "Barana"
+    },
+    {
+      "code": 7371031011,
+      "name": "Maccini Parang"
+    },
+    {
+      "code": 7371031012,
+      "name": "Maccini Gusung"
+    },
+    {
+      "code": 7371031013,
+      "name": "Maradekaya Utara"
+    },
+    {
+      "code": 7371031014,
+      "name": "Bara Baraya Utara"
+    }
+  ]
+}

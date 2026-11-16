@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202402001,
+      "name": "Gegerbitung"
+    },
+    {
+      "code": 3202402002,
+      "name": "Cijurey"
+    },
+    {
+      "code": 3202402003,
+      "name": "Ciengang"
+    },
+    {
+      "code": 3202402004,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3202402005,
+      "name": "Caringin"
+    },
+    {
+      "code": 3202402006,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3202402007,
+      "name": "Buniwangi"
+    }
+  ]
+}

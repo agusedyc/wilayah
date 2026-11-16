@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7408041004,
+      "name": "Rante Angin"
+    },
+    {
+      "code": 7408042003,
+      "name": "Rante Baru"
+    },
+    {
+      "code": 7408042005,
+      "name": "Pohu"
+    },
+    {
+      "code": 7408042011,
+      "name": "Torotuo"
+    },
+    {
+      "code": 7408042013,
+      "name": "Maroko"
+    },
+    {
+      "code": 7408042014,
+      "name": "Landolia"
+    },
+    {
+      "code": 7408042015,
+      "name": "Lawekara"
+    }
+  ]
+}

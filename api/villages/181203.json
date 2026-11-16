@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1812032001,
+      "name": "Karta"
+    },
+    {
+      "code": 1812032002,
+      "name": "Karta Sari"
+    },
+    {
+      "code": 1812032003,
+      "name": "Karta Raharja"
+    },
+    {
+      "code": 1812032004,
+      "name": "Gunung Katun Tanjungan"
+    },
+    {
+      "code": 1812032005,
+      "name": "Gunung Katun Malai"
+    },
+    {
+      "code": 1812032006,
+      "name": "Gedung Ratu"
+    },
+    {
+      "code": 1812032007,
+      "name": "Kagungan Ratu"
+    },
+    {
+      "code": 1812032008,
+      "name": "Marga Kencana"
+    },
+    {
+      "code": 1812032009,
+      "name": "Way Sido"
+    },
+    {
+      "code": 1812032010,
+      "name": "Kagungan Ratu Agung"
+    },
+    {
+      "code": 1812032011,
+      "name": "Gading Kencana"
+    },
+    {
+      "code": 1812032012,
+      "name": "Karta Raya"
+    },
+    {
+      "code": 1812032013,
+      "name": "Karta Tanjung Selamat"
+    }
+  ]
+}

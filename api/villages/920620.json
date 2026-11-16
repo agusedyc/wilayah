@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206202001,
+      "name": "Kalitami I"
+    },
+    {
+      "code": 9206202002,
+      "name": "Kalitami II"
+    },
+    {
+      "code": 9206202003,
+      "name": "Kenara"
+    },
+    {
+      "code": 9206202004,
+      "name": "Bibiram"
+    }
+  ]
+}

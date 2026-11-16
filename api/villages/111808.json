@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 1118082001,
+      "name": "Sagoe"
+    },
+    {
+      "code": 1118082002,
+      "name": "Mee Peuduek"
+    },
+    {
+      "code": 1118082003,
+      "name": "Mesjid Peuduek"
+    },
+    {
+      "code": 1118082004,
+      "name": "Tuha"
+    },
+    {
+      "code": 1118082005,
+      "name": "Reuseb"
+    },
+    {
+      "code": 1118082006,
+      "name": "Dee"
+    },
+    {
+      "code": 1118082007,
+      "name": "Panton Raya"
+    },
+    {
+      "code": 1118082008,
+      "name": "Deah Teumanah"
+    },
+    {
+      "code": 1118082009,
+      "name": "Tampui"
+    },
+    {
+      "code": 1118082010,
+      "name": "Keude Trienggadeng"
+    },
+    {
+      "code": 1118082011,
+      "name": "Raya"
+    },
+    {
+      "code": 1118082012,
+      "name": "Paya"
+    },
+    {
+      "code": 1118082013,
+      "name": "Meue"
+    },
+    {
+      "code": 1118082014,
+      "name": "Mesjid Trienggadeng"
+    },
+    {
+      "code": 1118082015,
+      "name": "Teungkluet"
+    },
+    {
+      "code": 1118082016,
+      "name": "Matang"
+    },
+    {
+      "code": 1118082017,
+      "name": "Deah Ujong Baroh"
+    },
+    {
+      "code": 1118082018,
+      "name": "Peulandok Teungoh"
+    },
+    {
+      "code": 1118082019,
+      "name": "Peulandok Tunong"
+    },
+    {
+      "code": 1118082020,
+      "name": "Deah Pangwa"
+    },
+    {
+      "code": 1118082021,
+      "name": "Meucat"
+    },
+    {
+      "code": 1118082022,
+      "name": "Cot Makaso"
+    },
+    {
+      "code": 1118082023,
+      "name": "Buloh"
+    },
+    {
+      "code": 1118082024,
+      "name": "Mee Pangwa"
+    },
+    {
+      "code": 1118082025,
+      "name": "Kuta Pangwa"
+    },
+    {
+      "code": 1118082026,
+      "name": "Cot Lheue Rheng"
+    },
+    {
+      "code": 1118082027,
+      "name": "Rawasari"
+    }
+  ]
+}

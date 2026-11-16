@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7402371001,
+      "name": "Onembute"
+    },
+    {
+      "code": 7402372002,
+      "name": "Trimulya"
+    },
+    {
+      "code": 7402372003,
+      "name": "Napoosi"
+    },
+    {
+      "code": 7402372004,
+      "name": "Silea"
+    },
+    {
+      "code": 7402372005,
+      "name": "Ulumeraka"
+    },
+    {
+      "code": 7402372006,
+      "name": "Mataiwoi"
+    },
+    {
+      "code": 7402372007,
+      "name": "Kumapo"
+    },
+    {
+      "code": 7402372008,
+      "name": "Kasumeia"
+    },
+    {
+      "code": 7402372009,
+      "name": "Ulu Onembute"
+    },
+    {
+      "code": 7402372010,
+      "name": "Tawapandere"
+    },
+    {
+      "code": 7402372011,
+      "name": "Anggaloosi"
+    },
+    {
+      "code": 7402372012,
+      "name": "Ana Onembute"
+    }
+  ]
+}

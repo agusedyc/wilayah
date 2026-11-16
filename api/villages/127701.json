@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1277011001,
+      "name": "Wek I"
+    },
+    {
+      "code": 1277011002,
+      "name": "Wek II"
+    },
+    {
+      "code": 1277011003,
+      "name": "Wek III"
+    },
+    {
+      "code": 1277011004,
+      "name": "Wek IV"
+    },
+    {
+      "code": 1277011005,
+      "name": "Tanobato"
+    },
+    {
+      "code": 1277011006,
+      "name": "Tobat"
+    },
+    {
+      "code": 1277011007,
+      "name": "Batang Ayumi Jae"
+    },
+    {
+      "code": 1277011008,
+      "name": "Batang Ayumi Julu"
+    },
+    {
+      "code": 1277011009,
+      "name": "Sadabuan"
+    },
+    {
+      "code": 1277011010,
+      "name": "Panyanggar"
+    },
+    {
+      "code": 1277011011,
+      "name": "Bonan Dolok"
+    },
+    {
+      "code": 1277011012,
+      "name": "Losung Batu."
+    },
+    {
+      "code": 1277011013,
+      "name": "Timbangan"
+    },
+    {
+      "code": 1277011014,
+      "name": "Bincar"
+    },
+    {
+      "code": 1277011015,
+      "name": "Kantin"
+    },
+    {
+      "code": 1277011016,
+      "name": "Kayu Ombun"
+    }
+  ]
+}

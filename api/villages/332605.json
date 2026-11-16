@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3326052001,
+      "name": "Mesoyi"
+    },
+    {
+      "code": 3326052002,
+      "name": "Jolotigo"
+    },
+    {
+      "code": 3326052003,
+      "name": "Sengare"
+    },
+    {
+      "code": 3326052004,
+      "name": "Donowangun"
+    },
+    {
+      "code": 3326052005,
+      "name": "Talun"
+    },
+    {
+      "code": 3326052006,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3326052007,
+      "name": "Kalirejo"
+    },
+    {
+      "code": 3326052008,
+      "name": "Batursari"
+    },
+    {
+      "code": 3326052009,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3326052010,
+      "name": "Krompeng"
+    }
+  ]
+}

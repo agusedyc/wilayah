@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9105162001,
+      "name": "Kontinuai"
+    },
+    {
+      "code": 9105162002,
+      "name": "Woniwon"
+    },
+    {
+      "code": 9105162003,
+      "name": "Sanayoka"
+    },
+    {
+      "code": 9105162004,
+      "name": "Rambai"
+    },
+    {
+      "code": 9105162005,
+      "name": "Yafanani"
+    },
+    {
+      "code": 9105162006,
+      "name": "Borai"
+    },
+    {
+      "code": 9105162007,
+      "name": "Kabuaena"
+    }
+  ]
+}

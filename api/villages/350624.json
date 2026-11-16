@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3506242001,
+      "name": "Baye"
+    },
+    {
+      "code": 3506242002,
+      "name": "Bangsongan"
+    },
+    {
+      "code": 3506242003,
+      "name": "Senden"
+    },
+    {
+      "code": 3506242004,
+      "name": "Sambirobyong"
+    },
+    {
+      "code": 3506242005,
+      "name": "Mukuh"
+    },
+    {
+      "code": 3506242006,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3506242007,
+      "name": "Jambu"
+    },
+    {
+      "code": 3506242008,
+      "name": "Sekaran"
+    },
+    {
+      "code": 3506242009,
+      "name": "Padangan"
+    },
+    {
+      "code": 3506242010,
+      "name": "Nanggungan"
+    },
+    {
+      "code": 3506242011,
+      "name": "Semambung"
+    },
+    {
+      "code": 3506242012,
+      "name": "Kayen Kidul"
+    }
+  ]
+}

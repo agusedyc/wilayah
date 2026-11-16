@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1204292001,
+      "name": "Sisobawino I"
+    },
+    {
+      "code": 1204292002,
+      "name": "I'odano"
+    },
+    {
+      "code": 1204292003,
+      "name": "Huno"
+    },
+    {
+      "code": 1204292004,
+      "name": "Sisaratandrawa"
+    },
+    {
+      "code": 1204292005,
+      "name": "Somolo-molo"
+    },
+    {
+      "code": 1204292006,
+      "name": "Lewuoguru I"
+    },
+    {
+      "code": 1204292007,
+      "name": "Sifaoroasi"
+    },
+    {
+      "code": 1204292008,
+      "name": "Lewuombanua"
+    },
+    {
+      "code": 1204292009,
+      "name": "Hiligodu Somolo-Molo"
+    },
+    {
+      "code": 1204292010,
+      "name": "Hilimborodano"
+    },
+    {
+      "code": 1204292011,
+      "name": "So'ewali"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7472041001,
+      "name": "Liabuku"
+    },
+    {
+      "code": 7472041002,
+      "name": "Ngkaring Karing"
+    },
+    {
+      "code": 7472041003,
+      "name": "Kampeonaho"
+    },
+    {
+      "code": 7472041008,
+      "name": "Waliabuku"
+    },
+    {
+      "code": 7472041010,
+      "name": "Tampuna"
+    }
+  ]
+}

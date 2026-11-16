@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3320061001,
+      "name": "Karangkebagusan"
+    },
+    {
+      "code": 3320061002,
+      "name": "Demaan"
+    },
+    {
+      "code": 3320061003,
+      "name": "Potroyudan"
+    },
+    {
+      "code": 3320061004,
+      "name": "Bapangan"
+    },
+    {
+      "code": 3320061005,
+      "name": "Saripan"
+    },
+    {
+      "code": 3320061006,
+      "name": "Panggang"
+    },
+    {
+      "code": 3320061007,
+      "name": "Kauman"
+    },
+    {
+      "code": 3320061008,
+      "name": "Bulu"
+    },
+    {
+      "code": 3320061009,
+      "name": "Jobokuto"
+    },
+    {
+      "code": 3320061010,
+      "name": "Ujungbatu"
+    },
+    {
+      "code": 3320061011,
+      "name": "Pengkol"
+    },
+    {
+      "code": 3320062012,
+      "name": "Mulyoharjo"
+    },
+    {
+      "code": 3320062013,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3320062014,
+      "name": "Kedungcino"
+    },
+    {
+      "code": 3320062015,
+      "name": "Kuwasen"
+    },
+    {
+      "code": 3320062016,
+      "name": "Bandengan"
+    }
+  ]
+}

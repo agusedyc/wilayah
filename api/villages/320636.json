@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3206362001,
+      "name": "Gombong"
+    },
+    {
+      "code": 3206362002,
+      "name": "Bugel"
+    },
+    {
+      "code": 3206362003,
+      "name": "Margasari"
+    },
+    {
+      "code": 3206362004,
+      "name": "Pakemitan"
+    },
+    {
+      "code": 3206362005,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3206362006,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3206362007,
+      "name": "Pasirhuni"
+    },
+    {
+      "code": 3206362008,
+      "name": "Citamba"
+    },
+    {
+      "code": 3206362009,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3206362010,
+      "name": "Kurniabakti"
+    },
+    {
+      "code": 3206362011,
+      "name": "Pakemitankidul"
+    }
+  ]
+}

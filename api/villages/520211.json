@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5202112001,
+      "name": "Montong Sapah"
+    },
+    {
+      "code": 5202112002,
+      "name": "Ungga"
+    },
+    {
+      "code": 5202112003,
+      "name": "Kabul"
+    },
+    {
+      "code": 5202112004,
+      "name": "Pelambik"
+    },
+    {
+      "code": 5202112005,
+      "name": "Darek"
+    },
+    {
+      "code": 5202112006,
+      "name": "Ranggagata"
+    },
+    {
+      "code": 5202112007,
+      "name": "Pandan Indah"
+    },
+    {
+      "code": 5202112008,
+      "name": "Serage"
+    },
+    {
+      "code": 5202112009,
+      "name": "Montong Ajan"
+    },
+    {
+      "code": 5202112010,
+      "name": "Batu Jangkih"
+    },
+    {
+      "code": 5202112011,
+      "name": "Teduh"
+    },
+    {
+      "code": 5202112012,
+      "name": "Pandan Tinggang"
+    }
+  ]
+}

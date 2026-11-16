@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1805021008,
+      "name": "Menggala Selatan"
+    },
+    {
+      "code": 1805021009,
+      "name": "Ujung Gunung"
+    },
+    {
+      "code": 1805021010,
+      "name": "Menggala Tengah"
+    },
+    {
+      "code": 1805021011,
+      "name": "Menggala Kota"
+    },
+    {
+      "code": 1805022001,
+      "name": "Bujung Tenuk"
+    },
+    {
+      "code": 1805022002,
+      "name": "Ujung Gunung Ilir"
+    },
+    {
+      "code": 1805022007,
+      "name": "Astra Ksetra"
+    },
+    {
+      "code": 1805022013,
+      "name": "Kagungan Rahayu"
+    },
+    {
+      "code": 1805022014,
+      "name": "Tiuh Tohou"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1502132001,
+      "name": "Tanjung Lamin"
+    },
+    {
+      "code": 1502132002,
+      "name": "Limbur Merangin"
+    },
+    {
+      "code": 1502132003,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1502132004,
+      "name": "Pinang Merah"
+    },
+    {
+      "code": 1502132005,
+      "name": "Simpang Limbur Merangin"
+    },
+    {
+      "code": 1502132006,
+      "name": "Mampun Baru"
+    },
+    {
+      "code": 1502132007,
+      "name": "Papit"
+    },
+    {
+      "code": 1502132008,
+      "name": "PulauTujuh"
+    }
+  ]
+}

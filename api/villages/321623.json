@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3216232001,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3216232002,
+      "name": "Karangindah"
+    },
+    {
+      "code": 3216232003,
+      "name": "Bojongmangu"
+    },
+    {
+      "code": 3216232004,
+      "name": "Sukabungah"
+    },
+    {
+      "code": 3216232005,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3216232006,
+      "name": "Medalkrisna"
+    }
+  ]
+}

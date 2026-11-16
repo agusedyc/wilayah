@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 regencies",
+  "data": [
+    {
+      "code": 6401,
+      "name": "Kabupaten Paser"
+    },
+    {
+      "code": 6402,
+      "name": "Kabupaten Kutai Kartanegara"
+    },
+    {
+      "code": 6403,
+      "name": "Kabupaten Berau"
+    },
+    {
+      "code": 6407,
+      "name": "Kabupaten Kutai Barat"
+    },
+    {
+      "code": 6408,
+      "name": "Kabupaten Kutai Timur"
+    },
+    {
+      "code": 6409,
+      "name": "Kabupaten Penajam Paser Utara"
+    },
+    {
+      "code": 6411,
+      "name": "Kabupaten Mahakam Ulu"
+    },
+    {
+      "code": 6471,
+      "name": "Kota Balikpapan"
+    },
+    {
+      "code": 6472,
+      "name": "Kota Samarinda"
+    },
+    {
+      "code": 6474,
+      "name": "Kota Bontang"
+    }
+  ]
+}

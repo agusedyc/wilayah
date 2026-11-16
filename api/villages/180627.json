@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1806272001,
+      "name": "Sukamara"
+    },
+    {
+      "code": 1806272002,
+      "name": "Sukanegara"
+    },
+    {
+      "code": 1806272003,
+      "name": "Banjarmasin"
+    },
+    {
+      "code": 1806272004,
+      "name": "Suka Agung Barat"
+    },
+    {
+      "code": 1806272005,
+      "name": "Suka Agung"
+    },
+    {
+      "code": 1806272006,
+      "name": "Gunung Terang"
+    },
+    {
+      "code": 1806272007,
+      "name": "Napal"
+    },
+    {
+      "code": 1806272008,
+      "name": "Sinar Petir"
+    },
+    {
+      "code": 1806272009,
+      "name": "Pematang Nebak"
+    },
+    {
+      "code": 1806272010,
+      "name": "Tanjung Sari"
+    }
+  ]
+}

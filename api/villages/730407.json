@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7304071002,
+      "name": "Bontoramba"
+    },
+    {
+      "code": 7304072001,
+      "name": "Bulusibatang"
+    },
+    {
+      "code": 7304072003,
+      "name": "Balumbungan"
+    },
+    {
+      "code": 7304072004,
+      "name": "Bangkalaloe"
+    },
+    {
+      "code": 7304072005,
+      "name": "Datara"
+    },
+    {
+      "code": 7304072006,
+      "name": "Maero"
+    },
+    {
+      "code": 7304072007,
+      "name": "Kareloe"
+    },
+    {
+      "code": 7304072008,
+      "name": "Batujala"
+    },
+    {
+      "code": 7304072009,
+      "name": "Bulusuka"
+    },
+    {
+      "code": 7304072010,
+      "name": "Tanammawang"
+    },
+    {
+      "code": 7304072011,
+      "name": "Lentu"
+    },
+    {
+      "code": 7304072012,
+      "name": "Baraya"
+    }
+  ]
+}

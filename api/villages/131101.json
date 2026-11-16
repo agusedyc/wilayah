@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1311012001,
+      "name": "Lubuk Gadang"
+    },
+    {
+      "code": 1311012002,
+      "name": "Lubuk Gadang Timur"
+    },
+    {
+      "code": 1311012003,
+      "name": "Lubuk Gadang Selatan"
+    },
+    {
+      "code": 1311012004,
+      "name": "Lubuk Gadang Utara"
+    }
+  ]
+}

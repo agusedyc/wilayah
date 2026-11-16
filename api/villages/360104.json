@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3601042001,
+      "name": "Tanjungan"
+    },
+    {
+      "code": 3601042002,
+      "name": "Sumurbatu"
+    },
+    {
+      "code": 3601042003,
+      "name": "Sukawaris"
+    },
+    {
+      "code": 3601042004,
+      "name": "Rancaseneng"
+    },
+    {
+      "code": 3601042005,
+      "name": "Parungkokosan"
+    },
+    {
+      "code": 3601042006,
+      "name": "Nanggala"
+    },
+    {
+      "code": 3601042007,
+      "name": "Cikeusik"
+    },
+    {
+      "code": 3601042008,
+      "name": "Cikadongdong"
+    },
+    {
+      "code": 3601042009,
+      "name": "Curugciung"
+    },
+    {
+      "code": 3601042010,
+      "name": "Leuwibalang"
+    },
+    {
+      "code": 3601042011,
+      "name": "Sukaseneng"
+    },
+    {
+      "code": 3601042012,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3601042013,
+      "name": "Umbulan"
+    },
+    {
+      "code": 3601042014,
+      "name": "Cikiruhwetan"
+    }
+  ]
+}

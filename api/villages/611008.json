@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 6110082001,
+      "name": "Tekelak"
+    },
+    {
+      "code": 6110082002,
+      "name": "Manding"
+    },
+    {
+      "code": 6110082003,
+      "name": "Nanga Belimbing"
+    },
+    {
+      "code": 6110082004,
+      "name": "Tengkajau"
+    },
+    {
+      "code": 6110082005,
+      "name": "Tanjung Paoh"
+    },
+    {
+      "code": 6110082006,
+      "name": "Nanga Man"
+    },
+    {
+      "code": 6110082007,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 6110082008,
+      "name": "Engkurai"
+    },
+    {
+      "code": 6110082009,
+      "name": "Merpak"
+    },
+    {
+      "code": 6110082010,
+      "name": "Senibung"
+    },
+    {
+      "code": 6110082011,
+      "name": "Melamut Bersatu"
+    },
+    {
+      "code": 6110082012,
+      "name": "Natai Panjang"
+    },
+    {
+      "code": 6110082013,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 6110082014,
+      "name": "Merah Arai"
+    },
+    {
+      "code": 6110082015,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 6110082016,
+      "name": "Tanjung Arak"
+    },
+    {
+      "code": 6110082017,
+      "name": "Melawi Kiri Hilir"
+    },
+    {
+      "code": 6110082018,
+      "name": "Kompas Raya"
+    },
+    {
+      "code": 6110082019,
+      "name": "Kayan Semapau"
+    }
+  ]
+}

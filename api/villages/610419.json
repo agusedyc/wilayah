@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6104192001,
+      "name": "Menyumbung"
+    },
+    {
+      "code": 6104192002,
+      "name": "Senduruhan"
+    },
+    {
+      "code": 6104192003,
+      "name": "Cinta Manis"
+    },
+    {
+      "code": 6104192004,
+      "name": "Beginci Darat"
+    },
+    {
+      "code": 6104192005,
+      "name": "Benua Krio"
+    },
+    {
+      "code": 6104192006,
+      "name": "Riam Dadap"
+    },
+    {
+      "code": 6104192007,
+      "name": "Sekukun"
+    },
+    {
+      "code": 6104192008,
+      "name": "Batu Lapis"
+    },
+    {
+      "code": 6104192009,
+      "name": "Krio Hulu"
+    },
+    {
+      "code": 6104192010,
+      "name": "Kenyabur"
+    },
+    {
+      "code": 6104192011,
+      "name": "Sunge Bengaras"
+    },
+    {
+      "code": 6104192012,
+      "name": "Lubuk Kakap"
+    }
+  ]
+}

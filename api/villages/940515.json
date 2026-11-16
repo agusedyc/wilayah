@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405152001,
+      "name": "Kilunggame"
+    },
+    {
+      "code": 9405152002,
+      "name": "Bakcini"
+    },
+    {
+      "code": 9405152003,
+      "name": "Timobut"
+    },
+    {
+      "code": 9405152004,
+      "name": "Tagalame I"
+    },
+    {
+      "code": 9405152005,
+      "name": "Wonelupaga"
+    },
+    {
+      "code": 9405152006,
+      "name": "Komapaga"
+    },
+    {
+      "code": 9405152007,
+      "name": "Timobut Egewak"
+    }
+  ]
+}

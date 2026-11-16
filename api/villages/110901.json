@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1109012007,
+      "name": "Wel Wel"
+    },
+    {
+      "code": 1109012008,
+      "name": "Kampung Aie"
+    },
+    {
+      "code": 1109012009,
+      "name": "Lauree"
+    },
+    {
+      "code": 1109012010,
+      "name": "Lamayang"
+    },
+    {
+      "code": 1109012011,
+      "name": "Lakubang"
+    },
+    {
+      "code": 1109012012,
+      "name": "Lambaya"
+    },
+    {
+      "code": 1109012013,
+      "name": "Dihit"
+    },
+    {
+      "code": 1109012016,
+      "name": "Latitik"
+    },
+    {
+      "code": 1109012017,
+      "name": "Wellangkum"
+    },
+    {
+      "code": 1109012018,
+      "name": "Kuta Baru"
+    },
+    {
+      "code": 1109012019,
+      "name": "Sebbe"
+    },
+    {
+      "code": 1109012020,
+      "name": "Suak Baru"
+    },
+    {
+      "code": 1109012021,
+      "name": "Luan Sorep"
+    },
+    {
+      "code": 1109012022,
+      "name": "Putra Jaya"
+    },
+    {
+      "code": 1109012023,
+      "name": "Lauke"
+    },
+    {
+      "code": 1109012024,
+      "name": "Situfa Jaya"
+    }
+  ]
+}

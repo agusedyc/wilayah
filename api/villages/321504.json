@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3215042001,
+      "name": "Kutapohaci"
+    },
+    {
+      "code": 3215042003,
+      "name": "Parungmulya"
+    },
+    {
+      "code": 3215042004,
+      "name": "Kutamekar"
+    },
+    {
+      "code": 3215042005,
+      "name": "Kutanegara"
+    },
+    {
+      "code": 3215042006,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3215042007,
+      "name": "Mulyasejati"
+    },
+    {
+      "code": 3215042008,
+      "name": "Tegallega"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1601082001,
+      "name": "Gunung Meraksa"
+    },
+    {
+      "code": 1601082003,
+      "name": "Tanjung Pura"
+    },
+    {
+      "code": 1601082004,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1601082005,
+      "name": "Tangsi Lontar"
+    },
+    {
+      "code": 1601082006,
+      "name": "Belambangan"
+    },
+    {
+      "code": 1601082007,
+      "name": "Kesambirata"
+    },
+    {
+      "code": 1601082008,
+      "name": "Gunung Liwat"
+    },
+    {
+      "code": 1601082015,
+      "name": "Pengandonan"
+    },
+    {
+      "code": 1601082016,
+      "name": "Semanding"
+    },
+    {
+      "code": 1601082017,
+      "name": "Tanjungan"
+    },
+    {
+      "code": 1601082018,
+      "name": "Ujanmas"
+    },
+    {
+      "code": 1601082019,
+      "name": "Gunung Kuripan"
+    }
+  ]
+}

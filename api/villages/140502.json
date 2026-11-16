@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1405021007,
+      "name": "Pangkalan Kerinci Barat"
+    },
+    {
+      "code": 1405021008,
+      "name": "Pangkalan Kerinci Kota"
+    },
+    {
+      "code": 1405021009,
+      "name": "Pangkalan Kerinci Timur"
+    },
+    {
+      "code": 1405022001,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1405022002,
+      "name": "Kuala Terusan"
+    },
+    {
+      "code": 1405022003,
+      "name": "Makmur"
+    },
+    {
+      "code": 1405022005,
+      "name": "Rantau Baru"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3213022001,
+      "name": "Cupunagara"
+    },
+    {
+      "code": 3213022002,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3213022003,
+      "name": "Gardusayang"
+    },
+    {
+      "code": 3213022004,
+      "name": "Mayang"
+    },
+    {
+      "code": 3213022005,
+      "name": "Sukakerti"
+    },
+    {
+      "code": 3213022007,
+      "name": "Darmaga"
+    },
+    {
+      "code": 3213022008,
+      "name": "Cisalak"
+    },
+    {
+      "code": 3213022011,
+      "name": "Cigadog"
+    },
+    {
+      "code": 3213022014,
+      "name": "Pakuhaji"
+    }
+  ]
+}

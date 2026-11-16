@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9404011001,
+      "name": "Koperapoka"
+    },
+    {
+      "code": 9404011002,
+      "name": "Kwamki"
+    },
+    {
+      "code": 9404011003,
+      "name": "Timika Jaya"
+    },
+    {
+      "code": 9404011007,
+      "name": "Sempan"
+    },
+    {
+      "code": 9404011008,
+      "name": "Pasar Sentral"
+    },
+    {
+      "code": 9404011009,
+      "name": "Wanagon"
+    },
+    {
+      "code": 9404011010,
+      "name": "Kebun Sirih"
+    },
+    {
+      "code": 9404011011,
+      "name": "Otomona"
+    },
+    {
+      "code": 9404011012,
+      "name": "Perintis"
+    },
+    {
+      "code": 9404011013,
+      "name": "Dingo Narama"
+    },
+    {
+      "code": 9404011014,
+      "name": "Timika Indah"
+    },
+    {
+      "code": 9404012004,
+      "name": "Nayaro"
+    },
+    {
+      "code": 9404012005,
+      "name": "Minabua"
+    },
+    {
+      "code": 9404012006,
+      "name": "Hangaitji"
+    }
+  ]
+}

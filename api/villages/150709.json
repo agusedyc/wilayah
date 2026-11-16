@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1507091001,
+      "name": "Simpang Tuan"
+    },
+    {
+      "code": 1507092002,
+      "name": "Pematang Rahim"
+    },
+    {
+      "code": 1507092003,
+      "name": "Sungai Toman"
+    },
+    {
+      "code": 1507092004,
+      "name": "Bukit Tempurung"
+    },
+    {
+      "code": 1507092005,
+      "name": "Sinar Wajo"
+    },
+    {
+      "code": 1507092006,
+      "name": "Sungai Beras"
+    },
+    {
+      "code": 1507092007,
+      "name": "Mencolok"
+    }
+  ]
+}

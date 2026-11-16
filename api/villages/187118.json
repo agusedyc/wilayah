@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871181001,
+      "name": "Kedamaian"
+    },
+    {
+      "code": 1871181002,
+      "name": "Bumi Kedamaian"
+    },
+    {
+      "code": 1871181003,
+      "name": "Tanjungagung Raya"
+    },
+    {
+      "code": 1871181004,
+      "name": "Tanjungbaru"
+    },
+    {
+      "code": 1871181005,
+      "name": "Kalibalau Kencana"
+    },
+    {
+      "code": 1871181006,
+      "name": "Tanjungraya"
+    },
+    {
+      "code": 1871181007,
+      "name": "Tanjunggading"
+    }
+  ]
+}

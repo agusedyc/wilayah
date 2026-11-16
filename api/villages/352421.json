@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3524212001,
+      "name": "Geger"
+    },
+    {
+      "code": 3524212002,
+      "name": "Badurame"
+    },
+    {
+      "code": 3524212003,
+      "name": "Karangwedoro"
+    },
+    {
+      "code": 3524212004,
+      "name": "Wangunrejo"
+    },
+    {
+      "code": 3524212005,
+      "name": "Putatkumpul"
+    },
+    {
+      "code": 3524212006,
+      "name": "Keben"
+    },
+    {
+      "code": 3524212007,
+      "name": "Sukoanyar"
+    },
+    {
+      "code": 3524212008,
+      "name": "Kemlagigede"
+    },
+    {
+      "code": 3524212009,
+      "name": "Turi"
+    },
+    {
+      "code": 3524212010,
+      "name": "Kemlagilor"
+    },
+    {
+      "code": 3524212011,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3524212012,
+      "name": "Tawangrejo"
+    },
+    {
+      "code": 3524212013,
+      "name": "Bambang"
+    },
+    {
+      "code": 3524212014,
+      "name": "Pomahanjanggan"
+    },
+    {
+      "code": 3524212015,
+      "name": "Tambakploso"
+    },
+    {
+      "code": 3524212016,
+      "name": "Balun"
+    },
+    {
+      "code": 3524212017,
+      "name": "Ngujungrejo"
+    },
+    {
+      "code": 3524212018,
+      "name": "Kepudibener"
+    },
+    {
+      "code": 3524212019,
+      "name": "Gedungboyountung"
+    }
+  ]
+}

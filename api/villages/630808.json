@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6308082001,
+      "name": "Palimbangan"
+    },
+    {
+      "code": 6308082002,
+      "name": "Palimbangan Gusti"
+    },
+    {
+      "code": 6308082003,
+      "name": "Palimbang Sari"
+    },
+    {
+      "code": 6308082004,
+      "name": "Bayur"
+    },
+    {
+      "code": 6308082005,
+      "name": "Lok Suga"
+    },
+    {
+      "code": 6308082006,
+      "name": "Sungai Limas"
+    },
+    {
+      "code": 6308082007,
+      "name": "Pihaung"
+    },
+    {
+      "code": 6308082008,
+      "name": "Sungai Binuang"
+    },
+    {
+      "code": 6308082009,
+      "name": "Jingah Bujur"
+    },
+    {
+      "code": 6308082010,
+      "name": "Haur Gading"
+    },
+    {
+      "code": 6308082011,
+      "name": "Keramat"
+    },
+    {
+      "code": 6308082012,
+      "name": "Tambak Sari panji"
+    },
+    {
+      "code": 6308082013,
+      "name": "Pulantani"
+    },
+    {
+      "code": 6308082014,
+      "name": "Waringin"
+    },
+    {
+      "code": 6308082015,
+      "name": "Tangkawang"
+    },
+    {
+      "code": 6308082016,
+      "name": "Tuhuran"
+    },
+    {
+      "code": 6308082017,
+      "name": "Teluk Haur"
+    },
+    {
+      "code": 6308082018,
+      "name": "Panawakan"
+    }
+  ]
+}

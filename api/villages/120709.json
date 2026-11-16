@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 1207092001,
+      "name": "Bah Perak"
+    },
+    {
+      "code": 1207092002,
+      "name": "Bandar Kwala"
+    },
+    {
+      "code": 1207092003,
+      "name": "Bah Balua"
+    },
+    {
+      "code": 1207092005,
+      "name": "Bandar Gugung"
+    },
+    {
+      "code": 1207092006,
+      "name": "Bandar Meriah"
+    },
+    {
+      "code": 1207092007,
+      "name": "Batu Gingging"
+    },
+    {
+      "code": 1207092008,
+      "name": "Bangun Purba"
+    },
+    {
+      "code": 1207092009,
+      "name": "Bangun Purba Tengah"
+    },
+    {
+      "code": 1207092010,
+      "name": "Begerpang"
+    },
+    {
+      "code": 1207092011,
+      "name": "Batu Rata"
+    },
+    {
+      "code": 1207092012,
+      "name": "Cimahi"
+    },
+    {
+      "code": 1207092014,
+      "name": "Damak Maliho"
+    },
+    {
+      "code": 1207092015,
+      "name": "Greahan"
+    },
+    {
+      "code": 1207092017,
+      "name": "Marombun Ujung Jawi"
+    },
+    {
+      "code": 1207092018,
+      "name": "Marombun Barat"
+    },
+    {
+      "code": 1207092019,
+      "name": "Mabar"
+    },
+    {
+      "code": 1207092020,
+      "name": "Perguroan"
+    },
+    {
+      "code": 1207092023,
+      "name": "Rumah Deleng"
+    },
+    {
+      "code": 1207092024,
+      "name": "Sibaganding"
+    },
+    {
+      "code": 1207092025,
+      "name": "Sialang"
+    },
+    {
+      "code": 1207092027,
+      "name": "Sukaluwei"
+    },
+    {
+      "code": 1207092030,
+      "name": "Tanjung Purba"
+    },
+    {
+      "code": 1207092032,
+      "name": "Urung Ganjang"
+    },
+    {
+      "code": 1207092033,
+      "name": "Ujung Rambe"
+    }
+  ]
+}

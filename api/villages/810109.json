@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 8101092001,
+      "name": "Nusantara"
+    },
+    {
+      "code": 8101092002,
+      "name": "Dwiwarna"
+    },
+    {
+      "code": 8101092003,
+      "name": "Merdeka"
+    },
+    {
+      "code": 8101092004,
+      "name": "Rajawali"
+    },
+    {
+      "code": 8101092005,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 8101092006,
+      "name": "Pulau Hatta"
+    },
+    {
+      "code": 8101092007,
+      "name": "Selamon"
+    },
+    {
+      "code": 8101092008,
+      "name": "Lonthoir"
+    },
+    {
+      "code": 8101092009,
+      "name": "Pulau Ay"
+    },
+    {
+      "code": 8101092010,
+      "name": "Pulau Rhun"
+    },
+    {
+      "code": 8101092011,
+      "name": "Tanah Rata"
+    },
+    {
+      "code": 8101092012,
+      "name": "Waer"
+    },
+    {
+      "code": 8101092013,
+      "name": "Boiyauw"
+    },
+    {
+      "code": 8101092014,
+      "name": "Dender"
+    },
+    {
+      "code": 8101092015,
+      "name": "Lautang"
+    },
+    {
+      "code": 8101092016,
+      "name": "Uring Tutra"
+    },
+    {
+      "code": 8101092017,
+      "name": "Walling Spanciby"
+    },
+    {
+      "code": 8101092018,
+      "name": "Combir Kasestoren"
+    }
+  ]
+}

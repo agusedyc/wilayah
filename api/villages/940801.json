@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 9408012001,
+      "name": "Waghete I"
+    },
+    {
+      "code": 9408012002,
+      "name": "Ugiya"
+    },
+    {
+      "code": 9408012003,
+      "name": "Yaba"
+    },
+    {
+      "code": 9408012004,
+      "name": "Waghete II"
+    },
+    {
+      "code": 9408012005,
+      "name": "Bomau I"
+    },
+    {
+      "code": 9408012006,
+      "name": "Okomakebo"
+    },
+    {
+      "code": 9408012007,
+      "name": "Bamou II"
+    },
+    {
+      "code": 9408012008,
+      "name": "Atouda"
+    },
+    {
+      "code": 9408012009,
+      "name": "Oneibo"
+    },
+    {
+      "code": 9408012010,
+      "name": "Yaba II"
+    },
+    {
+      "code": 9408012011,
+      "name": "Mugouda"
+    },
+    {
+      "code": 9408012012,
+      "name": "Bomou III"
+    },
+    {
+      "code": 9408012013,
+      "name": "Okomotadi"
+    },
+    {
+      "code": 9408012014,
+      "name": "Buwoudimi"
+    },
+    {
+      "code": 9408012015,
+      "name": "Ibodiyo"
+    },
+    {
+      "code": 9408012016,
+      "name": "Ikiyawo"
+    },
+    {
+      "code": 9408012017,
+      "name": "Motano"
+    },
+    {
+      "code": 9408012018,
+      "name": "Amago"
+    },
+    {
+      "code": 9408012019,
+      "name": "Idege"
+    },
+    {
+      "code": 9408012020,
+      "name": "Peku"
+    }
+  ]
+}

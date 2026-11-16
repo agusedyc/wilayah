@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3326022001,
+      "name": "Werdi"
+    },
+    {
+      "code": 3326022002,
+      "name": "Winduaji"
+    },
+    {
+      "code": 3326022003,
+      "name": "Krandegan"
+    },
+    {
+      "code": 3326022004,
+      "name": "Lumeneng"
+    },
+    {
+      "code": 3326022005,
+      "name": "Tangeran"
+    },
+    {
+      "code": 3326022006,
+      "name": "Kaliboja"
+    },
+    {
+      "code": 3326022007,
+      "name": "Kaliombo"
+    },
+    {
+      "code": 3326022008,
+      "name": "Botosari"
+    },
+    {
+      "code": 3326022009,
+      "name": "Sawangan"
+    },
+    {
+      "code": 3326022010,
+      "name": "Paninggaran"
+    },
+    {
+      "code": 3326022011,
+      "name": "Domiyang"
+    },
+    {
+      "code": 3326022012,
+      "name": "Notogiwang"
+    },
+    {
+      "code": 3326022013,
+      "name": "Lambanggelun"
+    },
+    {
+      "code": 3326022014,
+      "name": "Tenogo"
+    },
+    {
+      "code": 3326022015,
+      "name": "Bedagung"
+    }
+  ]
+}

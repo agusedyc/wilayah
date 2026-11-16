@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9405182001,
+      "name": "Mayuberi"
+    },
+    {
+      "code": 9405182002,
+      "name": "Maki"
+    },
+    {
+      "code": 9405182003,
+      "name": "Paluga"
+    },
+    {
+      "code": 9405182004,
+      "name": "Ayali"
+    },
+    {
+      "code": 9405182005,
+      "name": "Toegi"
+    },
+    {
+      "code": 9405182006,
+      "name": "Amungi"
+    },
+    {
+      "code": 9405182007,
+      "name": "Olenki"
+    },
+    {
+      "code": 9405182008,
+      "name": "Mundiba"
+    },
+    {
+      "code": 9405182009,
+      "name": "Akonobak"
+    }
+  ]
+}

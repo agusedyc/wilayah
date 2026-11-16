@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 9106032002,
+      "name": "Rimba Jaya"
+    },
+    {
+      "code": 9106032003,
+      "name": "Owi"
+    },
+    {
+      "code": 9106032004,
+      "name": "Woniki"
+    },
+    {
+      "code": 9106032005,
+      "name": "Kajasi"
+    },
+    {
+      "code": 9106032010,
+      "name": "Sunde"
+    },
+    {
+      "code": 9106032011,
+      "name": "Sepse"
+    },
+    {
+      "code": 9106032012,
+      "name": "Soon"
+    },
+    {
+      "code": 9106032013,
+      "name": "Sareidi"
+    },
+    {
+      "code": 9106032014,
+      "name": "Bindusi"
+    },
+    {
+      "code": 9106032015,
+      "name": "Orwer"
+    },
+    {
+      "code": 9106032016,
+      "name": "Yenusi"
+    },
+    {
+      "code": 9106032017,
+      "name": "Kajasbo"
+    },
+    {
+      "code": 9106032021,
+      "name": "Ruar"
+    },
+    {
+      "code": 9106032022,
+      "name": "Mandon"
+    },
+    {
+      "code": 9106032023,
+      "name": "Soryar"
+    },
+    {
+      "code": 9106032028,
+      "name": "Insumarires"
+    },
+    {
+      "code": 9106032030,
+      "name": "Rim"
+    },
+    {
+      "code": 9106032031,
+      "name": "Adorbari"
+    },
+    {
+      "code": 9106032032,
+      "name": "Bosnik Sup"
+    },
+    {
+      "code": 9106032033,
+      "name": "Inofi"
+    },
+    {
+      "code": 9106032034,
+      "name": "Yenberok"
+    },
+    {
+      "code": 9106032035,
+      "name": "Wasori"
+    },
+    {
+      "code": 9106032036,
+      "name": "Yendakem"
+    },
+    {
+      "code": 9106032037,
+      "name": "Waderbo"
+    },
+    {
+      "code": 9106032038,
+      "name": "Afefbo"
+    },
+    {
+      "code": 9106032039,
+      "name": "Inmdi"
+    }
+  ]
+}

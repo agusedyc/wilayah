@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6501051001,
+      "name": "Tanjung Selor Hulu"
+    },
+    {
+      "code": 6501051002,
+      "name": "Tanjung Selor Hilir"
+    },
+    {
+      "code": 6501051008,
+      "name": "Tanjung Selor Timur"
+    },
+    {
+      "code": 6501052003,
+      "name": "Jelarai Selor"
+    },
+    {
+      "code": 6501052004,
+      "name": "Gunung Seriang"
+    },
+    {
+      "code": 6501052005,
+      "name": "Bumi Rahayu"
+    },
+    {
+      "code": 6501052006,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 6501052007,
+      "name": "Apung"
+    },
+    {
+      "code": 6501052009,
+      "name": "Tengkapak"
+    }
+  ]
+}

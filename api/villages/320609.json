@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3206092001,
+      "name": "Mertajaya"
+    },
+    {
+      "code": 3206092002,
+      "name": "Cikadongdong"
+    },
+    {
+      "code": 3206092003,
+      "name": "Bojongasih"
+    },
+    {
+      "code": 3206092004,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3206092005,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3206092006,
+      "name": "Toblongan"
+    }
+  ]
+}

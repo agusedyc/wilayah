@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9207072001,
+      "name": "Wosimi"
+    },
+    {
+      "code": 9207072002,
+      "name": "Sararti"
+    },
+    {
+      "code": 9207072003,
+      "name": "Yabore"
+    },
+    {
+      "code": 9207072004,
+      "name": "Oyaa"
+    },
+    {
+      "code": 9207072005,
+      "name": "Inyora"
+    },
+    {
+      "code": 9207072006,
+      "name": "Undurara"
+    }
+  ]
+}

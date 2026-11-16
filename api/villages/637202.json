@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6372021003,
+      "name": "Landasan Ulin Timur"
+    },
+    {
+      "code": 6372021004,
+      "name": "Guntung Payung"
+    },
+    {
+      "code": 6372021005,
+      "name": "Guntung Manggis"
+    },
+    {
+      "code": 6372021006,
+      "name": "Syamsudin Noor"
+    }
+  ]
+}

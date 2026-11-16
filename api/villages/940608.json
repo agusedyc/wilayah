@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9406082001,
+      "name": "Ugapuga"
+    },
+    {
+      "code": 9406082002,
+      "name": "Deiyapa"
+    },
+    {
+      "code": 9406082003,
+      "name": "Boduda"
+    },
+    {
+      "code": 9406082004,
+      "name": "Yotapuga"
+    },
+    {
+      "code": 9406082005,
+      "name": "Bokaibutu"
+    },
+    {
+      "code": 9406082006,
+      "name": "Bunauwo"
+    },
+    {
+      "code": 9406082007,
+      "name": "Nuwa"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1209162001,
+      "name": "Ambalutu"
+    },
+    {
+      "code": 1209162002,
+      "name": "Buntu Pane"
+    },
+    {
+      "code": 1209162003,
+      "name": "Lestari"
+    },
+    {
+      "code": 1209162005,
+      "name": "Prapat Janji"
+    },
+    {
+      "code": 1209162007,
+      "name": "Sei Silau Timur"
+    },
+    {
+      "code": 1209162016,
+      "name": "Sionggang"
+    },
+    {
+      "code": 1209162017,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1209162018,
+      "name": "Perkebunan Sei Silau"
+    },
+    {
+      "code": 1209162019,
+      "name": "Karya Ambalutu"
+    }
+  ]
+}

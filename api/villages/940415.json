@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9404152001,
+      "name": "Limau Asri Timur"
+    },
+    {
+      "code": 9404152002,
+      "name": "Wangirja"
+    },
+    {
+      "code": 9404152003,
+      "name": "Iwaka"
+    },
+    {
+      "code": 9404152004,
+      "name": "Naena Muktipura"
+    },
+    {
+      "code": 9404152005,
+      "name": "Mulia Kencana"
+    },
+    {
+      "code": 9404152006,
+      "name": "Pigapu"
+    },
+    {
+      "code": 9404152007,
+      "name": "Limau Asri Barat"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9106102001,
+      "name": "Pai"
+    },
+    {
+      "code": 9106102002,
+      "name": "Auki"
+    },
+    {
+      "code": 9106102003,
+      "name": "Wundi"
+    },
+    {
+      "code": 9106102004,
+      "name": "Nusi Babaruk"
+    },
+    {
+      "code": 9106102005,
+      "name": "Nusi"
+    },
+    {
+      "code": 9106102014,
+      "name": "Inbeyomi"
+    },
+    {
+      "code": 9106102015,
+      "name": "Sorina"
+    },
+    {
+      "code": 9106102016,
+      "name": "Sandidori"
+    },
+    {
+      "code": 9106102020,
+      "name": "Paidori"
+    },
+    {
+      "code": 9106102021,
+      "name": "Kanai"
+    },
+    {
+      "code": 9106102022,
+      "name": "Sokani"
+    }
+  ]
+}

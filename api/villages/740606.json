@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7406061009,
+      "name": "Dongkala"
+    },
+    {
+      "code": 7406061010,
+      "name": "Lambale"
+    },
+    {
+      "code": 7406062005,
+      "name": "Wumbuburo"
+    },
+    {
+      "code": 7406062006,
+      "name": "Balo"
+    },
+    {
+      "code": 7406062007,
+      "name": "Toli-Toli"
+    },
+    {
+      "code": 7406062008,
+      "name": "Tapuhaka"
+    },
+    {
+      "code": 7406062011,
+      "name": "Bungi-Bungi"
+    }
+  ]
+}

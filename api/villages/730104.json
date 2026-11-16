@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7301042001,
+      "name": "Parak"
+    },
+    {
+      "code": 7301042002,
+      "name": "Barugaiya"
+    },
+    {
+      "code": 7301042003,
+      "name": "Jambuiya"
+    },
+    {
+      "code": 7301042004,
+      "name": "Mare-Mare"
+    },
+    {
+      "code": 7301042005,
+      "name": "Polebunging"
+    },
+    {
+      "code": 7301042006,
+      "name": "Bonea Makmur"
+    },
+    {
+      "code": 7301042008,
+      "name": "Bontomarannu"
+    },
+    {
+      "code": 7301042010,
+      "name": "Bonea Timur"
+    },
+    {
+      "code": 7301042011,
+      "name": "Bontokoraang"
+    },
+    {
+      "code": 7301042012,
+      "name": "Kaburu"
+    }
+  ]
+}

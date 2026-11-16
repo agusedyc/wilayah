@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5305051001,
+      "name": "Kolana Utara"
+    },
+    {
+      "code": 5305052004,
+      "name": "Tanglapui"
+    },
+    {
+      "code": 5305052005,
+      "name": "Kolana Selatan"
+    },
+    {
+      "code": 5305052007,
+      "name": "Padang Panjang"
+    },
+    {
+      "code": 5305052008,
+      "name": "Maritaing"
+    },
+    {
+      "code": 5305052010,
+      "name": "Elok"
+    },
+    {
+      "code": 5305052011,
+      "name": "Tanglapui Timur"
+    },
+    {
+      "code": 5305052012,
+      "name": "Mausamang"
+    },
+    {
+      "code": 5305052013,
+      "name": "Belemana"
+    },
+    {
+      "code": 5305052014,
+      "name": "Maukuru"
+    }
+  ]
+}

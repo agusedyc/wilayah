@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1707022001,
+      "name": "Sukau Kayo"
+    },
+    {
+      "code": 1707022004,
+      "name": "Tik Tebing"
+    },
+    {
+      "code": 1707022005,
+      "name": "Tabeak Blau"
+    },
+    {
+      "code": 1707022006,
+      "name": "Tabeak Blau I"
+    },
+    {
+      "code": 1707022008,
+      "name": "Daneu"
+    },
+    {
+      "code": 1707022012,
+      "name": "Blau"
+    }
+  ]
+}

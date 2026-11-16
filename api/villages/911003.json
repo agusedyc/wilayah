@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9110032005,
+      "name": "Mertewar"
+    },
+    {
+      "code": 9110032006,
+      "name": "Samorkena"
+    },
+    {
+      "code": 9110032007,
+      "name": "Arbais"
+    },
+    {
+      "code": 9110032008,
+      "name": "Kapeso"
+    },
+    {
+      "code": 9110032009,
+      "name": "Masep"
+    },
+    {
+      "code": 9110032012,
+      "name": "Nisro"
+    },
+    {
+      "code": 9110032013,
+      "name": "Aruswar"
+    },
+    {
+      "code": 9110032014,
+      "name": "Kamenawari"
+    },
+    {
+      "code": 9110032015,
+      "name": "Waim"
+    },
+    {
+      "code": 9110032016,
+      "name": "Subu"
+    },
+    {
+      "code": 9110032017,
+      "name": "Karfasia"
+    },
+    {
+      "code": 9110032023,
+      "name": "Burgena"
+    },
+    {
+      "code": 9110032024,
+      "name": "Webro"
+    },
+    {
+      "code": 9110032025,
+      "name": "Siantoa"
+    },
+    {
+      "code": 9110032026,
+      "name": "Niwerawar"
+    },
+    {
+      "code": 9110032027,
+      "name": "Wari"
+    }
+  ]
+}

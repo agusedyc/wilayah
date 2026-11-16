@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1809032001,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1809032002,
+      "name": "Kejadian"
+    },
+    {
+      "code": 1809032003,
+      "name": "Batang Hari Ogan"
+    },
+    {
+      "code": 1809032004,
+      "name": "Negara Ratu Wates"
+    },
+    {
+      "code": 1809032005,
+      "name": "Gunung Sugih Baru"
+    },
+    {
+      "code": 1809032006,
+      "name": "Gedung Gumanti"
+    },
+    {
+      "code": 1809032007,
+      "name": "Kresno Widodo"
+    },
+    {
+      "code": 1809032008,
+      "name": "Sinarjati"
+    },
+    {
+      "code": 1809032009,
+      "name": "Margo Rejo"
+    },
+    {
+      "code": 1809032010,
+      "name": "Gerning"
+    },
+    {
+      "code": 1809032011,
+      "name": "Panca Bakti"
+    },
+    {
+      "code": 1809032012,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1809032013,
+      "name": "Rejo Agung"
+    },
+    {
+      "code": 1809032014,
+      "name": "Kota Agung"
+    },
+    {
+      "code": 1809032015,
+      "name": "Trimulyo"
+    },
+    {
+      "code": 1809032016,
+      "name": "Sriwedari"
+    }
+  ]
+}

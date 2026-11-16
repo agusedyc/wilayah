@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6502012002,
+      "name": "Long Bisai"
+    },
+    {
+      "code": 6502012005,
+      "name": "Pulau Sapi"
+    },
+    {
+      "code": 6502012006,
+      "name": "Paking"
+    },
+    {
+      "code": 6502012007,
+      "name": "Lidung Kemenci"
+    },
+    {
+      "code": 6502012008,
+      "name": "Mentarang Baru"
+    },
+    {
+      "code": 6502012009,
+      "name": "Harapan Maju"
+    }
+  ]
+}

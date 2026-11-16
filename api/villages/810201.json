@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 8102011013,
+      "name": "Ohoijang Watdek"
+    },
+    {
+      "code": 8102012014,
+      "name": "Langgur"
+    },
+    {
+      "code": 8102012015,
+      "name": "Faan"
+    },
+    {
+      "code": 8102012016,
+      "name": "Sathean"
+    },
+    {
+      "code": 8102012017,
+      "name": "Ibra"
+    },
+    {
+      "code": 8102012018,
+      "name": "Ngabub"
+    },
+    {
+      "code": 8102012048,
+      "name": "Ohoidertawun"
+    },
+    {
+      "code": 8102012049,
+      "name": "Kelanit"
+    },
+    {
+      "code": 8102012051,
+      "name": "Kolser"
+    },
+    {
+      "code": 8102012052,
+      "name": "Letman"
+    },
+    {
+      "code": 8102012057,
+      "name": "Wearlilir"
+    },
+    {
+      "code": 8102012067,
+      "name": "Ohoider Atas"
+    },
+    {
+      "code": 8102012068,
+      "name": "Dudunwahan"
+    },
+    {
+      "code": 8102012069,
+      "name": "Loon"
+    },
+    {
+      "code": 8102012071,
+      "name": "Sitniohoi"
+    }
+  ]
+}

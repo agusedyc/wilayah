@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1508042001,
+      "name": "Tanjung Belit"
+    },
+    {
+      "code": 1508042002,
+      "name": "Rantau Ikil"
+    },
+    {
+      "code": 1508042003,
+      "name": "Pulau Jelmu"
+    },
+    {
+      "code": 1508042004,
+      "name": "Sirih Sekapur"
+    },
+    {
+      "code": 1508042005,
+      "name": "Ujung Tanjung"
+    },
+    {
+      "code": 1508042007,
+      "name": "Jumbak"
+    },
+    {
+      "code": 1508042009,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1508042013,
+      "name": "Talang Pamesun"
+    },
+    {
+      "code": 1508042014,
+      "name": "Baru Balai Panjang"
+    },
+    {
+      "code": 1508042015,
+      "name": "Sirih Sekapur Perkembangan"
+    }
+  ]
+}

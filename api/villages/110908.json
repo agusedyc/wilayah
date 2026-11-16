@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1109082001,
+      "name": "Lewak"
+    },
+    {
+      "code": 1109082002,
+      "name": "Lamerem"
+    },
+    {
+      "code": 1109082003,
+      "name": "Lhok Pauh"
+    },
+    {
+      "code": 1109082004,
+      "name": "Serafon"
+    },
+    {
+      "code": 1109082005,
+      "name": "Langi"
+    },
+    {
+      "code": 1109082006,
+      "name": "Lubuk Baik"
+    },
+    {
+      "code": 1109082007,
+      "name": "Lhok Dalam"
+    },
+    {
+      "code": 1109082008,
+      "name": "Lafakha"
+    }
+  ]
+}

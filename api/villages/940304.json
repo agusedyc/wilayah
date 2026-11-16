@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9403042001,
+      "name": "Bogobaida"
+    },
+    {
+      "code": 9403042002,
+      "name": "Nawipauwo"
+    },
+    {
+      "code": 9403042003,
+      "name": "Madou"
+    },
+    {
+      "code": 9403042004,
+      "name": "Jibudide II"
+    },
+    {
+      "code": 9403042005,
+      "name": "Yumauwo"
+    },
+    {
+      "code": 9403042006,
+      "name": "Kagoudide"
+    },
+    {
+      "code": 9403042007,
+      "name": "Eyapouda"
+    },
+    {
+      "code": 9403042008,
+      "name": "Miyokepi"
+    },
+    {
+      "code": 9403042009,
+      "name": "Obaya Dimi"
+    }
+  ]
+}

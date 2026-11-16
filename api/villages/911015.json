@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9110152001,
+      "name": "Gwinjaya"
+    },
+    {
+      "code": 9110152002,
+      "name": "Tamar Sari"
+    },
+    {
+      "code": 9110152003,
+      "name": "Mawes Mukti"
+    },
+    {
+      "code": 9110152004,
+      "name": "Mawesday"
+    },
+    {
+      "code": 9110152005,
+      "name": "Kapitiau"
+    }
+  ]
+}

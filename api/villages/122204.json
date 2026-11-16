@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1222041001,
+      "name": "Langga Payung"
+    },
+    {
+      "code": 1222042002,
+      "name": "Batang Nadenggan"
+    },
+    {
+      "code": 1222042003,
+      "name": "Sabungan"
+    },
+    {
+      "code": 1222042004,
+      "name": "Hajoran"
+    },
+    {
+      "code": 1222042005,
+      "name": "Ujung Gading"
+    },
+    {
+      "code": 1222042006,
+      "name": "Huta Godang"
+    },
+    {
+      "code": 1222042007,
+      "name": "Parimburan"
+    },
+    {
+      "code": 1222042008,
+      "name": "Sampean"
+    },
+    {
+      "code": 1222042009,
+      "name": "Marsonja"
+    }
+  ]
+}

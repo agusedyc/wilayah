@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1810052001,
+      "name": "Candi Retno"
+    },
+    {
+      "code": 1810052002,
+      "name": "Tanjung Dalom"
+    },
+    {
+      "code": 1810052003,
+      "name": "Way Ngison"
+    },
+    {
+      "code": 1810052004,
+      "name": "Suka Wangi"
+    },
+    {
+      "code": 1810052005,
+      "name": "Suka Ratu"
+    },
+    {
+      "code": 1810052006,
+      "name": "Pagelaran"
+    },
+    {
+      "code": 1810052007,
+      "name": "Patoman"
+    },
+    {
+      "code": 1810052008,
+      "name": "Karangsari"
+    },
+    {
+      "code": 1810052009,
+      "name": "Gumuk Mas"
+    },
+    {
+      "code": 1810052010,
+      "name": "Bumi Ratu"
+    },
+    {
+      "code": 1810052011,
+      "name": "Panutan"
+    },
+    {
+      "code": 1810052012,
+      "name": "Lugusari"
+    },
+    {
+      "code": 1810052019,
+      "name": "Pamenang"
+    },
+    {
+      "code": 1810052020,
+      "name": "Gemah Ripah"
+    },
+    {
+      "code": 1810052023,
+      "name": "Pasir Ukir"
+    },
+    {
+      "code": 1810052024,
+      "name": "Gumukrejo"
+    },
+    {
+      "code": 1810052027,
+      "name": "Puji Harjo"
+    },
+    {
+      "code": 1810052028,
+      "name": "Padang Rejo"
+    },
+    {
+      "code": 1810052029,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1810052030,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1810052031,
+      "name": "Ganjaran"
+    },
+    {
+      "code": 1810052032,
+      "name": "Bumi Rejo"
+    }
+  ]
+}

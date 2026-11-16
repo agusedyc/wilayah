@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1706032008,
+      "name": "Teras Terunjam"
+    },
+    {
+      "code": 1706032009,
+      "name": "Pondok Kopi"
+    },
+    {
+      "code": 1706032013,
+      "name": "Setia Budi"
+    },
+    {
+      "code": 1706032014,
+      "name": "Tunggal Jaya"
+    },
+    {
+      "code": 1706032024,
+      "name": "Talang Kuning"
+    },
+    {
+      "code": 1706032025,
+      "name": "Teruntung"
+    },
+    {
+      "code": 1706032026,
+      "name": "Karang Jaya"
+    },
+    {
+      "code": 1706032027,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

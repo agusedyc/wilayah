@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7208162001,
+      "name": "Parigimpu'u"
+    },
+    {
+      "code": 7208162002,
+      "name": "Baliara"
+    },
+    {
+      "code": 7208162003,
+      "name": "Kayuboko"
+    },
+    {
+      "code": 7208162004,
+      "name": "Jono Kalora"
+    },
+    {
+      "code": 7208162005,
+      "name": "Air Panas"
+    },
+    {
+      "code": 7208162006,
+      "name": "Lobu Mandiri"
+    }
+  ]
+}

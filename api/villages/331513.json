@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3315131003,
+      "name": "Danyang"
+    },
+    {
+      "code": 3315131004,
+      "name": "Kalongan"
+    },
+    {
+      "code": 3315131012,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3315131013,
+      "name": "Kuripan"
+    },
+    {
+      "code": 3315132001,
+      "name": "Candisari"
+    },
+    {
+      "code": 3315132002,
+      "name": "Genuksuran"
+    },
+    {
+      "code": 3315132005,
+      "name": "Ngraji"
+    },
+    {
+      "code": 3315132006,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3315132007,
+      "name": "Nambuhan"
+    },
+    {
+      "code": 3315132008,
+      "name": "Warukaranganyar"
+    },
+    {
+      "code": 3315132009,
+      "name": "Nglobar"
+    },
+    {
+      "code": 3315132010,
+      "name": "Kedungrejo"
+    },
+    {
+      "code": 3315132011,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3315132014,
+      "name": "Ngembak"
+    },
+    {
+      "code": 3315132015,
+      "name": "Cingkrong"
+    },
+    {
+      "code": 3315132016,
+      "name": "Pulorejo"
+    },
+    {
+      "code": 3315132017,
+      "name": "Putat"
+    }
+  ]
+}

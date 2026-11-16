@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6107092001,
+      "name": "Dharma Bhakti"
+    },
+    {
+      "code": 6107092002,
+      "name": "Sumber Karya"
+    },
+    {
+      "code": 6107092003,
+      "name": "Setia Jaya"
+    },
+    {
+      "code": 6107092004,
+      "name": "Bangun Sari"
+    },
+    {
+      "code": 6107092005,
+      "name": "Sebetung Menyala"
+    },
+    {
+      "code": 6107092006,
+      "name": "Malo Jelayan"
+    },
+    {
+      "code": 6107092007,
+      "name": "Ampar Benteng"
+    },
+    {
+      "code": 6107092008,
+      "name": "Tanjung"
+    },
+    {
+      "code": 6107092009,
+      "name": "Telidik"
+    },
+    {
+      "code": 6107092010,
+      "name": "Puteng"
+    },
+    {
+      "code": 6107092011,
+      "name": "Sekaruh"
+    },
+    {
+      "code": 6107092012,
+      "name": "Tubajur"
+    },
+    {
+      "code": 6107092013,
+      "name": "Lulang"
+    },
+    {
+      "code": 6107092014,
+      "name": "Benteng"
+    },
+    {
+      "code": 6107092015,
+      "name": "Sebente"
+    },
+    {
+      "code": 6107092016,
+      "name": "Teriak"
+    },
+    {
+      "code": 6107092017,
+      "name": "Temia Sio"
+    },
+    {
+      "code": 6107092018,
+      "name": "Bana"
+    }
+  ]
+}

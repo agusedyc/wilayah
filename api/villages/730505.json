@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7305052006,
+      "name": "Bonto Kanang"
+    },
+    {
+      "code": 7305052007,
+      "name": "Bontomarannu"
+    },
+    {
+      "code": 7305052008,
+      "name": "Mangindara"
+    },
+    {
+      "code": 7305052009,
+      "name": "Bontokassi"
+    },
+    {
+      "code": 7305052011,
+      "name": "Bentang"
+    },
+    {
+      "code": 7305052012,
+      "name": "Barangmamase"
+    },
+    {
+      "code": 7305052013,
+      "name": "Sawakong"
+    },
+    {
+      "code": 7305052015,
+      "name": "Popo"
+    },
+    {
+      "code": 7305052016,
+      "name": "Tarowang"
+    },
+    {
+      "code": 7305052017,
+      "name": "Kalukubodo"
+    },
+    {
+      "code": 7305052018,
+      "name": "Kadatong"
+    },
+    {
+      "code": 7305052019,
+      "name": "Kale Bentang"
+    },
+    {
+      "code": 7305052020,
+      "name": "Kanaeng"
+    }
+  ]
+}

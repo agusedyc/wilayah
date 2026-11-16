@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102211001,
+      "name": "Talikuran"
+    },
+    {
+      "code": 7102211002,
+      "name": "Talikuran Utara"
+    },
+    {
+      "code": 7102211003,
+      "name": "Talikuran Barat"
+    },
+    {
+      "code": 7102211004,
+      "name": "Uner"
+    },
+    {
+      "code": 7102212005,
+      "name": "Kiawa Satu"
+    },
+    {
+      "code": 7102212006,
+      "name": "Kiawa Satu Utara"
+    },
+    {
+      "code": 7102212007,
+      "name": "Kiawa Satu Barat"
+    },
+    {
+      "code": 7102212008,
+      "name": "Kiawa Dua"
+    },
+    {
+      "code": 7102212009,
+      "name": "Kiawa Dua Timur"
+    },
+    {
+      "code": 7102212010,
+      "name": "Kiawa Dua Barat"
+    }
+  ]
+}

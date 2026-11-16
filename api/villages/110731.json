@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1107312001,
+      "name": "Lingkok"
+    },
+    {
+      "code": 1107312002,
+      "name": "Pante Kulu"
+    },
+    {
+      "code": 1107312003,
+      "name": "Uke"
+    },
+    {
+      "code": 1107312004,
+      "name": "Pante Siren"
+    },
+    {
+      "code": 1107312005,
+      "name": "Pulo Raya"
+    },
+    {
+      "code": 1107312006,
+      "name": "Cut"
+    },
+    {
+      "code": 1107312007,
+      "name": "Dayah Meunara"
+    },
+    {
+      "code": 1107312008,
+      "name": "Paloh Naleueng"
+    },
+    {
+      "code": 1107312009,
+      "name": "Pulo Lhoih"
+    },
+    {
+      "code": 1107312010,
+      "name": "Mesjid Tongpudeng"
+    },
+    {
+      "code": 1107312011,
+      "name": "Blang Tho"
+    },
+    {
+      "code": 1107312012,
+      "name": "Asan Tongpudeng"
+    },
+    {
+      "code": 1107312013,
+      "name": "Alue"
+    }
+  ]
+}

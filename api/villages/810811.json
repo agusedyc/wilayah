@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8108112001,
+      "name": "Herley"
+    },
+    {
+      "code": 8108112002,
+      "name": "Upuhupun"
+    },
+    {
+      "code": 8108112003,
+      "name": "Pota Besar"
+    },
+    {
+      "code": 8108112004,
+      "name": "Pota Kecil"
+    },
+    {
+      "code": 8108112005,
+      "name": "Wasarili"
+    },
+    {
+      "code": 8108112006,
+      "name": "Rumahlewang Kecil"
+    },
+    {
+      "code": 8108112007,
+      "name": "Rumahlewang Besar"
+    },
+    {
+      "code": 8108112008,
+      "name": "Nusiata"
+    }
+  ]
+}

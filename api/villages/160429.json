@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1604292001,
+      "name": "Sukamerindu"
+    },
+    {
+      "code": 1604292002,
+      "name": "Guru Agung"
+    },
+    {
+      "code": 1604292003,
+      "name": "Karang Caya"
+    },
+    {
+      "code": 1604292004,
+      "name": "Gunung liwat"
+    },
+    {
+      "code": 1604292005,
+      "name": "Kapitan"
+    },
+    {
+      "code": 1604292006,
+      "name": "Rambai Kaca"
+    },
+    {
+      "code": 1604292007,
+      "name": "Pagar Kaya"
+    },
+    {
+      "code": 1604292008,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1604292009,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1604292010,
+      "name": "Tanjung Agung"
+    }
+  ]
+}

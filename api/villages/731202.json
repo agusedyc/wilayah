@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7312021001,
+      "name": "Appanang"
+    },
+    {
+      "code": 7312021002,
+      "name": "Jennae"
+    },
+    {
+      "code": 7312021003,
+      "name": "Galung"
+    },
+    {
+      "code": 7312022005,
+      "name": "Jampu"
+    },
+    {
+      "code": 7312022006,
+      "name": "Pattojo"
+    },
+    {
+      "code": 7312022009,
+      "name": "Timusu"
+    },
+    {
+      "code": 7312022010,
+      "name": "Rompegading"
+    },
+    {
+      "code": 7312022011,
+      "name": "Barang"
+    }
+  ]
+}

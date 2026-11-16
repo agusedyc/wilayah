@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3505101008,
+      "name": "Kanigoro"
+    },
+    {
+      "code": 3505101010,
+      "name": "Satreyan"
+    },
+    {
+      "code": 3505102001,
+      "name": "Minggirsari"
+    },
+    {
+      "code": 3505102002,
+      "name": "Jatinom"
+    },
+    {
+      "code": 3505102003,
+      "name": "Gogodeso"
+    },
+    {
+      "code": 3505102004,
+      "name": "Gaprang"
+    },
+    {
+      "code": 3505102005,
+      "name": "Papungan"
+    },
+    {
+      "code": 3505102006,
+      "name": "Tlogo"
+    },
+    {
+      "code": 3505102007,
+      "name": "Karangsono"
+    },
+    {
+      "code": 3505102009,
+      "name": "Banggle"
+    },
+    {
+      "code": 3505102011,
+      "name": "Sawentar"
+    },
+    {
+      "code": 3505102012,
+      "name": "Kuningan"
+    }
+  ]
+}

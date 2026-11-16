@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6209021017,
+      "name": "Kudangan"
+    },
+    {
+      "code": 6209022004,
+      "name": "Riam Panahan"
+    },
+    {
+      "code": 6209022005,
+      "name": "Sepoyu"
+    },
+    {
+      "code": 6209022010,
+      "name": "Nyalang"
+    },
+    {
+      "code": 6209022011,
+      "name": "Riam Tinggi"
+    },
+    {
+      "code": 6209022012,
+      "name": "Landau Kantu"
+    },
+    {
+      "code": 6209022013,
+      "name": "Lopus"
+    },
+    {
+      "code": 6209022014,
+      "name": "Kubung"
+    },
+    {
+      "code": 6209022015,
+      "name": "Sekombulan"
+    },
+    {
+      "code": 6209022016,
+      "name": "Penyombaan"
+    },
+    {
+      "code": 6209022020,
+      "name": "Hulu Jojabo"
+    }
+  ]
+}

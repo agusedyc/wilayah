@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7405252001,
+      "name": "Papawu"
+    },
+    {
+      "code": 7405252002,
+      "name": "Anese"
+    },
+    {
+      "code": 7405252003,
+      "name": "Bekenggasu"
+    },
+    {
+      "code": 7405252004,
+      "name": "Watumokala"
+    },
+    {
+      "code": 7405252005,
+      "name": "Mataupe"
+    },
+    {
+      "code": 7405252006,
+      "name": "Bimamaroa"
+    },
+    {
+      "code": 7405252007,
+      "name": "Wawobende"
+    },
+    {
+      "code": 7405252008,
+      "name": "Lapoa Indah"
+    },
+    {
+      "code": 7405252009,
+      "name": "Puundoho"
+    },
+    {
+      "code": 7405252010,
+      "name": "Mataiwoi"
+    }
+  ]
+}

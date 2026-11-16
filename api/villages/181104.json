@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1811042001,
+      "name": "Buko Poso"
+    },
+    {
+      "code": 1811042002,
+      "name": "Kejadian"
+    },
+    {
+      "code": 1811042003,
+      "name": "Bumi Harapan"
+    },
+    {
+      "code": 1811042004,
+      "name": "Kebun Dalam"
+    },
+    {
+      "code": 1811042005,
+      "name": "Panca Warna"
+    },
+    {
+      "code": 1811042006,
+      "name": "Gedung Boga"
+    },
+    {
+      "code": 1811042007,
+      "name": "Suka Agung"
+    },
+    {
+      "code": 1811042008,
+      "name": "Rejo Mulyo"
+    },
+    {
+      "code": 1811042009,
+      "name": "Hadi Mulyo"
+    },
+    {
+      "code": 1811042010,
+      "name": "Labuhan Batin"
+    },
+    {
+      "code": 1811042011,
+      "name": "Labuhan Baru"
+    },
+    {
+      "code": 1811042012,
+      "name": "Labuhan Makmur"
+    },
+    {
+      "code": 1811042013,
+      "name": "Gedung Sri Mulyo"
+    },
+    {
+      "code": 1811042014,
+      "name": "Labuhan Permai"
+    },
+    {
+      "code": 1811042015,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1811042016,
+      "name": "Margo Bhakti"
+    },
+    {
+      "code": 1811042017,
+      "name": "Labuhan Mulya"
+    },
+    {
+      "code": 1811042018,
+      "name": "Karang Mulya"
+    },
+    {
+      "code": 1811042019,
+      "name": "Tri Tunggal Jaya"
+    },
+    {
+      "code": 1811042020,
+      "name": "Suka Mandiri"
+    }
+  ]
+}

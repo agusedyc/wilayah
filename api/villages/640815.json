@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6408152001,
+      "name": "Bumi Etam"
+    },
+    {
+      "code": 6408152002,
+      "name": "Bumi Rapak"
+    },
+    {
+      "code": 6408152003,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 6408152004,
+      "name": "Cipta Graha"
+    },
+    {
+      "code": 6408152005,
+      "name": "Kadungan Jaya"
+    },
+    {
+      "code": 6408152006,
+      "name": "Pengadan Baru"
+    },
+    {
+      "code": 6408152007,
+      "name": "Mata Air"
+    },
+    {
+      "code": 6408152008,
+      "name": "Bukit Permata"
+    }
+  ]
+}

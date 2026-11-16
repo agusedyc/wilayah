@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9507102001,
+      "name": "Megalunik"
+    },
+    {
+      "code": 9507102002,
+      "name": "Lugobak"
+    },
+    {
+      "code": 9507102003,
+      "name": "Kanikbukme"
+    },
+    {
+      "code": 9507102004,
+      "name": "Poga"
+    },
+    {
+      "code": 9507102005,
+      "name": "Bigipaga"
+    },
+    {
+      "code": 9507102006,
+      "name": "Luneri"
+    },
+    {
+      "code": 9507102007,
+      "name": "Binipaga"
+    },
+    {
+      "code": 9507102008,
+      "name": "Mugime"
+    },
+    {
+      "code": 9507102009,
+      "name": "Brigme"
+    },
+    {
+      "code": 9507102010,
+      "name": "Unikme"
+    },
+    {
+      "code": 9507102011,
+      "name": "Binompaga"
+    },
+    {
+      "code": 9507102012,
+      "name": "Lugwa"
+    },
+    {
+      "code": 9507102013,
+      "name": "Guaneri"
+    }
+  ]
+}

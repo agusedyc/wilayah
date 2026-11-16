@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9405202001,
+      "name": "Eromaga"
+    },
+    {
+      "code": 9405202002,
+      "name": "Pinggil/Eronggobak"
+    },
+    {
+      "code": 9405202003,
+      "name": "Gilini"
+    },
+    {
+      "code": 9405202004,
+      "name": "Pinapa"
+    },
+    {
+      "code": 9405202005,
+      "name": "Kunga"
+    },
+    {
+      "code": 9405202006,
+      "name": "Ondugura"
+    },
+    {
+      "code": 9405202007,
+      "name": "Manggume"
+    },
+    {
+      "code": 9405202008,
+      "name": "Kuleme"
+    },
+    {
+      "code": 9405202009,
+      "name": "Ninggibome"
+    },
+    {
+      "code": 9405202010,
+      "name": "Awilkinop"
+    },
+    {
+      "code": 9405202011,
+      "name": "Domaoa"
+    },
+    {
+      "code": 9405202012,
+      "name": "Pungtrama"
+    },
+    {
+      "code": 9405202013,
+      "name": "Balamagalama"
+    },
+    {
+      "code": 9405202014,
+      "name": "Aminggaru"
+    }
+  ]
+}

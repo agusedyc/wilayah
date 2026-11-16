@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3209302001,
+      "name": "Dompyong Kulon"
+    },
+    {
+      "code": 3209302002,
+      "name": "Dompyong Wetan"
+    },
+    {
+      "code": 3209302003,
+      "name": "Kalimekar"
+    },
+    {
+      "code": 3209302004,
+      "name": "Kalimaro"
+    },
+    {
+      "code": 3209302005,
+      "name": "Gagasari"
+    },
+    {
+      "code": 3209302006,
+      "name": "Kalipasung"
+    },
+    {
+      "code": 3209302007,
+      "name": "Gebang Kulon"
+    },
+    {
+      "code": 3209302008,
+      "name": "Gebang"
+    },
+    {
+      "code": 3209302009,
+      "name": "Gebang Ilir"
+    },
+    {
+      "code": 3209302010,
+      "name": "Gebang Udik"
+    },
+    {
+      "code": 3209302011,
+      "name": "Gebang Mekar"
+    },
+    {
+      "code": 3209302012,
+      "name": "Playangan"
+    },
+    {
+      "code": 3209302013,
+      "name": "Melakasari"
+    }
+  ]
+}

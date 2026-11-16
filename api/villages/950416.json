@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9504162001,
+      "name": "Abena"
+    },
+    {
+      "code": 9504162002,
+      "name": "Nogobumbu"
+    },
+    {
+      "code": 9504162003,
+      "name": "Bilubaga"
+    },
+    {
+      "code": 9504162004,
+      "name": "Gabunggobak"
+    },
+    {
+      "code": 9504162005,
+      "name": "Wulurik"
+    },
+    {
+      "code": 9504162006,
+      "name": "Wanggulam"
+    },
+    {
+      "code": 9504162007,
+      "name": "Bitillabur"
+    },
+    {
+      "code": 9504162008,
+      "name": "Windik"
+    },
+    {
+      "code": 9504162009,
+      "name": "Yibalo"
+    },
+    {
+      "code": 9504162010,
+      "name": "Wania"
+    },
+    {
+      "code": 9504162011,
+      "name": "Arelam"
+    },
+    {
+      "code": 9504162012,
+      "name": "Gelalo"
+    },
+    {
+      "code": 9504162013,
+      "name": "Duma"
+    },
+    {
+      "code": 9504162014,
+      "name": "Yinama"
+    }
+  ]
+}

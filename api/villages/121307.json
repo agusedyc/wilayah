@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1213072001,
+      "name": "Bange"
+    },
+    {
+      "code": 1213072003,
+      "name": "Huta Bangun"
+    },
+    {
+      "code": 1213072005,
+      "name": "Janji Matogu"
+    },
+    {
+      "code": 1213072006,
+      "name": "Malintang Jae"
+    },
+    {
+      "code": 1213072007,
+      "name": "Malintang Julu"
+    },
+    {
+      "code": 1213072008,
+      "name": "Pasar Baru Malintang"
+    },
+    {
+      "code": 1213072010,
+      "name": "Sidojadi"
+    },
+    {
+      "code": 1213072013,
+      "name": "Lambou Darul Ihsan"
+    },
+    {
+      "code": 1213072014,
+      "name": "Huta Bangun Jae"
+    },
+    {
+      "code": 1213072015,
+      "name": "Bange Nauli"
+    },
+    {
+      "code": 1213072016,
+      "name": "Malintang"
+    }
+  ]
+}

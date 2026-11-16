@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7411071001,
+      "name": "Woitombo"
+    },
+    {
+      "code": 7411071002,
+      "name": "Inebenggi"
+    },
+    {
+      "code": 7411071004,
+      "name": "Horodopi"
+    },
+    {
+      "code": 7411072003,
+      "name": "Nelombu"
+    },
+    {
+      "code": 7411072005,
+      "name": "Watupute"
+    },
+    {
+      "code": 7411072006,
+      "name": "Puuosu"
+    },
+    {
+      "code": 7411072007,
+      "name": "Ulu Mowewe"
+    },
+    {
+      "code": 7411072008,
+      "name": "Lapangisi"
+    },
+    {
+      "code": 7411072009,
+      "name": "Sabi-sabila"
+    },
+    {
+      "code": 7411072010,
+      "name": "Lambo Tua"
+    }
+  ]
+}

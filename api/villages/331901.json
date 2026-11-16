@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3319012001,
+      "name": "Bakalankrapyak"
+    },
+    {
+      "code": 3319012002,
+      "name": "Prambatan Kidul"
+    },
+    {
+      "code": 3319012003,
+      "name": "Prambatan Lor"
+    },
+    {
+      "code": 3319012004,
+      "name": "Garung Kidul"
+    },
+    {
+      "code": 3319012005,
+      "name": "Setrokalangan"
+    },
+    {
+      "code": 3319012006,
+      "name": "Banget"
+    },
+    {
+      "code": 3319012007,
+      "name": "Blimbing Kidul"
+    },
+    {
+      "code": 3319012008,
+      "name": "Sidorekso"
+    },
+    {
+      "code": 3319012009,
+      "name": "Gamong"
+    },
+    {
+      "code": 3319012010,
+      "name": "Kedungdowo"
+    },
+    {
+      "code": 3319012011,
+      "name": "Garung Lor"
+    },
+    {
+      "code": 3319012012,
+      "name": "Karangampel"
+    },
+    {
+      "code": 3319012013,
+      "name": "Mijen"
+    },
+    {
+      "code": 3319012014,
+      "name": "Kaliwungu"
+    },
+    {
+      "code": 3319012015,
+      "name": "Papringan"
+    }
+  ]
+}

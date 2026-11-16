@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3521102001,
+      "name": "Gentong"
+    },
+    {
+      "code": 3521102002,
+      "name": "Babadan"
+    },
+    {
+      "code": 3521102003,
+      "name": "Semen"
+    },
+    {
+      "code": 3521102004,
+      "name": "Kedungputri"
+    },
+    {
+      "code": 3521102005,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3521102006,
+      "name": "Dawu"
+    },
+    {
+      "code": 3521102007,
+      "name": "Paron"
+    },
+    {
+      "code": 3521102008,
+      "name": "Jambangan"
+    },
+    {
+      "code": 3521102009,
+      "name": "Teguhan"
+    },
+    {
+      "code": 3521102010,
+      "name": "Sirigan"
+    },
+    {
+      "code": 3521102011,
+      "name": "Jeblogan"
+    },
+    {
+      "code": 3521102012,
+      "name": "Ngale"
+    },
+    {
+      "code": 3521102013,
+      "name": "Gelung"
+    },
+    {
+      "code": 3521102014,
+      "name": "Kebon"
+    }
+  ]
+}

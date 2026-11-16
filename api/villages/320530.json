@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3205302001,
+      "name": "Cikelet"
+    },
+    {
+      "code": 3205302002,
+      "name": "Linggamanik"
+    },
+    {
+      "code": 3205302003,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3205302004,
+      "name": "Cigadog"
+    },
+    {
+      "code": 3205302005,
+      "name": "Pamalayan"
+    },
+    {
+      "code": 3205302006,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3205302007,
+      "name": "Cijambe"
+    },
+    {
+      "code": 3205302008,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3205302009,
+      "name": "Ciroyom"
+    },
+    {
+      "code": 3205302010,
+      "name": "Awassagara"
+    },
+    {
+      "code": 3205302011,
+      "name": "Tipar"
+    }
+  ]
+}

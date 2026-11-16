@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3573051001,
+      "name": "Tunggulwulung"
+    },
+    {
+      "code": 3573051002,
+      "name": "Merjosari"
+    },
+    {
+      "code": 3573051003,
+      "name": "Tlogomas"
+    },
+    {
+      "code": 3573051004,
+      "name": "Dinoyo"
+    },
+    {
+      "code": 3573051005,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3573051006,
+      "name": "Ketawanggede"
+    },
+    {
+      "code": 3573051007,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3573051008,
+      "name": "Tunjungsekar"
+    },
+    {
+      "code": 3573051009,
+      "name": "Mojolangu"
+    },
+    {
+      "code": 3573051010,
+      "name": "Tulusrejo"
+    },
+    {
+      "code": 3573051011,
+      "name": "Lowokwaru"
+    },
+    {
+      "code": 3573051012,
+      "name": "Tasik Madu"
+    }
+  ]
+}

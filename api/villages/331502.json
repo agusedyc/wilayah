@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3315022001,
+      "name": "Nampu"
+    },
+    {
+      "code": 3315022002,
+      "name": "Karangsono"
+    },
+    {
+      "code": 3315022003,
+      "name": "Jetis"
+    },
+    {
+      "code": 3315022004,
+      "name": "Parakan"
+    },
+    {
+      "code": 3315022005,
+      "name": "Telawah"
+    },
+    {
+      "code": 3315022006,
+      "name": "Cekel"
+    },
+    {
+      "code": 3315022007,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3315022008,
+      "name": "Sendangharjo"
+    },
+    {
+      "code": 3315022009,
+      "name": "Mangin"
+    },
+    {
+      "code": 3315022010,
+      "name": "Sumberjosari"
+    },
+    {
+      "code": 3315022011,
+      "name": "Ketro"
+    },
+    {
+      "code": 3315022012,
+      "name": "Gunungtumpeng"
+    },
+    {
+      "code": 3315022013,
+      "name": "Temurejo"
+    },
+    {
+      "code": 3315022014,
+      "name": "Putatnganten"
+    },
+    {
+      "code": 3315022015,
+      "name": "Termas"
+    },
+    {
+      "code": 3315022016,
+      "name": "Dempel"
+    },
+    {
+      "code": 3315022017,
+      "name": "Rawoh"
+    },
+    {
+      "code": 3315022018,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 3315022019,
+      "name": "Mojoagung"
+    }
+  ]
+}

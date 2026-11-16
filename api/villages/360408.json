@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3604082001,
+      "name": "Pulo Ampel"
+    },
+    {
+      "code": 3604082002,
+      "name": "Sumuranja"
+    },
+    {
+      "code": 3604082003,
+      "name": "Mangunreja"
+    },
+    {
+      "code": 3604082004,
+      "name": "Kedungsoka"
+    },
+    {
+      "code": 3604082005,
+      "name": "Salira"
+    },
+    {
+      "code": 3604082006,
+      "name": "Argawana"
+    },
+    {
+      "code": 3604082007,
+      "name": "Banyuwangi"
+    },
+    {
+      "code": 3604082008,
+      "name": "Margasari"
+    },
+    {
+      "code": 3604082009,
+      "name": "Pulo Panjang"
+    }
+  ]
+}

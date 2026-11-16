@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603102001,
+      "name": "Tanjung Tiga"
+    },
+    {
+      "code": 1603102002,
+      "name": "Cahaya Alam"
+    },
+    {
+      "code": 1603102003,
+      "name": "Datar Lebar"
+    },
+    {
+      "code": 1603102004,
+      "name": "Segamit"
+    },
+    {
+      "code": 1603102005,
+      "name": "Siring Agung"
+    },
+    {
+      "code": 1603102006,
+      "name": "Aremantai"
+    },
+    {
+      "code": 1603102007,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1603102008,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1603102009,
+      "name": "Pelakat"
+    },
+    {
+      "code": 1603102010,
+      "name": "Danau Gerak"
+    }
+  ]
+}

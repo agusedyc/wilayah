@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9501252001,
+      "name": "Pisugi"
+    },
+    {
+      "code": 9501252002,
+      "name": "Pabuma"
+    },
+    {
+      "code": 9501252003,
+      "name": "Aikima"
+    },
+    {
+      "code": 9501252004,
+      "name": "Pikhe"
+    },
+    {
+      "code": 9501252005,
+      "name": "Akiaput"
+    },
+    {
+      "code": 9501252006,
+      "name": "Suroba"
+    },
+    {
+      "code": 9501252007,
+      "name": "Wara"
+    }
+  ]
+}

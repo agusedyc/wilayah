@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7604141001,
+      "name": "Matakali"
+    },
+    {
+      "code": 7604142002,
+      "name": "Petampanua"
+    },
+    {
+      "code": 7604142003,
+      "name": "Barumbung"
+    },
+    {
+      "code": 7604142004,
+      "name": "Pasiang"
+    },
+    {
+      "code": 7604142005,
+      "name": "Tonrolima"
+    },
+    {
+      "code": 7604142006,
+      "name": "Indomakkombong"
+    },
+    {
+      "code": 7604142007,
+      "name": "Bunga-Bunga"
+    }
+  ]
+}

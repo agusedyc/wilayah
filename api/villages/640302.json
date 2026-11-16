@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6403022002,
+      "name": "Dumaring"
+    },
+    {
+      "code": 6403022003,
+      "name": "Talisayan"
+    },
+    {
+      "code": 6403022014,
+      "name": "Campur Sari"
+    },
+    {
+      "code": 6403022015,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 6403022016,
+      "name": "Tunggal Bumi"
+    },
+    {
+      "code": 6403022017,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 6403022018,
+      "name": "Suka Murya"
+    },
+    {
+      "code": 6403022019,
+      "name": "Purna Sari Jaya"
+    },
+    {
+      "code": 6403022021,
+      "name": "Eka Sapta"
+    },
+    {
+      "code": 6403022023,
+      "name": "Capuak"
+    }
+  ]
+}

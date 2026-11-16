@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213152001,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3213152002,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3213152003,
+      "name": "Jatireja"
+    },
+    {
+      "code": 3213152004,
+      "name": "Compreng"
+    },
+    {
+      "code": 3213152005,
+      "name": "Kalensari"
+    },
+    {
+      "code": 3213152006,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3213152007,
+      "name": "Kiarasari"
+    },
+    {
+      "code": 3213152008,
+      "name": "Sukadana"
+    }
+  ]
+}

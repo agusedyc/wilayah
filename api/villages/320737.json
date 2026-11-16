@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3207372001,
+      "name": "Pasawahan"
+    },
+    {
+      "code": 3207372002,
+      "name": "Banjaranyar"
+    },
+    {
+      "code": 3207372003,
+      "name": "Cigayam"
+    },
+    {
+      "code": 3207372004,
+      "name": "Langkapsari"
+    },
+    {
+      "code": 3207372005,
+      "name": "Kalijaya"
+    },
+    {
+      "code": 3207372006,
+      "name": "Sindangrasa"
+    },
+    {
+      "code": 3207372007,
+      "name": "Cikaso"
+    },
+    {
+      "code": 3207372008,
+      "name": "Cikupa"
+    },
+    {
+      "code": 3207372009,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3207372010,
+      "name": "Tanjungsari"
+    }
+  ]
+}

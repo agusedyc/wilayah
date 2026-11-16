@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5203022001,
+      "name": "Suwangi"
+    },
+    {
+      "code": 5203022002,
+      "name": "Sakra"
+    },
+    {
+      "code": 5203022003,
+      "name": "Kabar"
+    },
+    {
+      "code": 5203022004,
+      "name": "Rumbuk"
+    },
+    {
+      "code": 5203022005,
+      "name": "Keselet"
+    },
+    {
+      "code": 5203022006,
+      "name": "Sakra Selatan"
+    },
+    {
+      "code": 5203022007,
+      "name": "Rumbuk Timur"
+    },
+    {
+      "code": 5203022008,
+      "name": "Suwangi Timur"
+    },
+    {
+      "code": 5203022009,
+      "name": "Moyot"
+    },
+    {
+      "code": 5203022010,
+      "name": "Songak"
+    },
+    {
+      "code": 5203022011,
+      "name": "Peresak"
+    },
+    {
+      "code": 5203022012,
+      "name": "Kuang Baru"
+    }
+  ]
+}

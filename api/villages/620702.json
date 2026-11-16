@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6207021016,
+      "name": "Rantau Pulut"
+    },
+    {
+      "code": 6207022008,
+      "name": "Gantung Pangayuh"
+    },
+    {
+      "code": 6207022009,
+      "name": "Teluk Bayur"
+    },
+    {
+      "code": 6207022010,
+      "name": "Suka Mandang"
+    },
+    {
+      "code": 6207022011,
+      "name": "Ayawan"
+    },
+    {
+      "code": 6207022012,
+      "name": "Mugi Panyuhu"
+    },
+    {
+      "code": 6207022013,
+      "name": "Bukit Buluh"
+    },
+    {
+      "code": 6207022014,
+      "name": "Tumbang Bai"
+    },
+    {
+      "code": 6207022015,
+      "name": "Durian Tunggal"
+    },
+    {
+      "code": 6207022017,
+      "name": "Pangke"
+    },
+    {
+      "code": 6207022018,
+      "name": "Panyumpa"
+    },
+    {
+      "code": 6207022022,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 6207022023,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 6207022024,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 6207022026,
+      "name": "Panca Jaya"
+    },
+    {
+      "code": 6207022029,
+      "name": "Tangga Batu"
+    },
+    {
+      "code": 6207022030,
+      "name": "Ringin Agung"
+    },
+    {
+      "code": 6207022031,
+      "name": "Batu Agung"
+    },
+    {
+      "code": 6207022032,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 6207022033,
+      "name": "Suka Maju"
+    }
+  ]
+}

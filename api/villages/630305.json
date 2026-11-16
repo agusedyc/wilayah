@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 6303051001,
+      "name": "Keraton"
+    },
+    {
+      "code": 6303051002,
+      "name": "Jawa"
+    },
+    {
+      "code": 6303051003,
+      "name": "Pasayangan"
+    },
+    {
+      "code": 6303051004,
+      "name": "Murung Keraton"
+    },
+    {
+      "code": 6303051005,
+      "name": "Sungai Paring"
+    },
+    {
+      "code": 6303051055,
+      "name": "Tanjung Rema Darat"
+    },
+    {
+      "code": 6303051059,
+      "name": "Sekumpul"
+    },
+    {
+      "code": 6303052009,
+      "name": "Sungai Sipai"
+    },
+    {
+      "code": 6303052010,
+      "name": "Pasayangan Selatan"
+    },
+    {
+      "code": 6303052011,
+      "name": "Tanjung Rema"
+    },
+    {
+      "code": 6303052012,
+      "name": "Bincau"
+    },
+    {
+      "code": 6303052013,
+      "name": "Murung Kenanga"
+    },
+    {
+      "code": 6303052015,
+      "name": "Tunggul Irang"
+    },
+    {
+      "code": 6303052016,
+      "name": "Tambak Baru"
+    },
+    {
+      "code": 6303052034,
+      "name": "Cindai Alus"
+    },
+    {
+      "code": 6303052036,
+      "name": "Tungkaran"
+    },
+    {
+      "code": 6303052037,
+      "name": "Tambak Baru Ulu"
+    },
+    {
+      "code": 6303052040,
+      "name": "Bincau Muara"
+    },
+    {
+      "code": 6303052042,
+      "name": "Tunggul Irang Ilir"
+    },
+    {
+      "code": 6303052043,
+      "name": "Tunggul Irang Ulu"
+    },
+    {
+      "code": 6303052051,
+      "name": "Labuan Tabu"
+    },
+    {
+      "code": 6303052052,
+      "name": "Indrasari"
+    },
+    {
+      "code": 6303052054,
+      "name": "Jawa Laut"
+    },
+    {
+      "code": 6303052056,
+      "name": "Pasayangan Utara"
+    },
+    {
+      "code": 6303052057,
+      "name": "Pasayangan Barat"
+    },
+    {
+      "code": 6303052058,
+      "name": "Tambak Baru Ilir"
+    }
+  ]
+}

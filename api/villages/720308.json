@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7203081020,
+      "name": "Ganti"
+    },
+    {
+      "code": 7203081021,
+      "name": "Kabonga Besar"
+    },
+    {
+      "code": 7203081022,
+      "name": "Kabonga Kecil"
+    },
+    {
+      "code": 7203081023,
+      "name": "Gunung Bale"
+    },
+    {
+      "code": 7203081024,
+      "name": "Maleni"
+    },
+    {
+      "code": 7203081025,
+      "name": "Tanjung Batu"
+    },
+    {
+      "code": 7203081026,
+      "name": "Boya"
+    },
+    {
+      "code": 7203081027,
+      "name": "Labuan Bajo"
+    },
+    {
+      "code": 7203081028,
+      "name": "Boneoge"
+    },
+    {
+      "code": 7203082012,
+      "name": "Loli Oge"
+    },
+    {
+      "code": 7203082013,
+      "name": "Loli Tasiburi"
+    },
+    {
+      "code": 7203082029,
+      "name": "Loli Pesua"
+    },
+    {
+      "code": 7203082030,
+      "name": "Loli Dondo"
+    },
+    {
+      "code": 7203082031,
+      "name": "Loli Saluran"
+    }
+  ]
+}

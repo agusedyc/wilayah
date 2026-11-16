@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7303071001,
+      "name": "Gantarang Keke"
+    },
+    {
+      "code": 7303071002,
+      "name": "Tanah Loe"
+    },
+    {
+      "code": 7303072003,
+      "name": "Layoa"
+    },
+    {
+      "code": 7303072004,
+      "name": "Bajiminasa"
+    },
+    {
+      "code": 7303072005,
+      "name": "Tombolo"
+    },
+    {
+      "code": 7303072006,
+      "name": "Kaloling"
+    }
+  ]
+}

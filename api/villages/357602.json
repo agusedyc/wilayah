@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3576021001,
+      "name": "Gununggedangan"
+    },
+    {
+      "code": 3576021003,
+      "name": "Magersari"
+    },
+    {
+      "code": 3576021004,
+      "name": "Gedongan"
+    },
+    {
+      "code": 3576021008,
+      "name": "Balongsari"
+    },
+    {
+      "code": 3576021009,
+      "name": "Kedundung"
+    },
+    {
+      "code": 3576021010,
+      "name": "Wates"
+    }
+  ]
+}

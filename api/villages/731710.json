@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7317101001,
+      "name": "Bone Pute"
+    },
+    {
+      "code": 7317102002,
+      "name": "Temboe"
+    },
+    {
+      "code": 7317102003,
+      "name": "Sampano"
+    },
+    {
+      "code": 7317102004,
+      "name": "Babang"
+    },
+    {
+      "code": 7317102005,
+      "name": "La'loa"
+    },
+    {
+      "code": 7317102006,
+      "name": "Batulappa"
+    },
+    {
+      "code": 7317102007,
+      "name": "Malewong"
+    },
+    {
+      "code": 7317102008,
+      "name": "Salusana"
+    },
+    {
+      "code": 7317102009,
+      "name": "Dadeko"
+    },
+    {
+      "code": 7317102010,
+      "name": "Gandang Batu"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3525152001,
+      "name": "Karangandong"
+    },
+    {
+      "code": 3525152002,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3525152003,
+      "name": "Krikilan"
+    },
+    {
+      "code": 3525152004,
+      "name": "Mojosari Rejo"
+    },
+    {
+      "code": 3525152005,
+      "name": "Tanjungan"
+    },
+    {
+      "code": 3525152006,
+      "name": "Anom"
+    },
+    {
+      "code": 3525152007,
+      "name": "Sumput"
+    },
+    {
+      "code": 3525152008,
+      "name": "Kesamben Wetan"
+    },
+    {
+      "code": 3525152009,
+      "name": "Randegansari"
+    },
+    {
+      "code": 3525152010,
+      "name": "Tenaru"
+    },
+    {
+      "code": 3525152011,
+      "name": "Driyorejo"
+    },
+    {
+      "code": 3525152012,
+      "name": "Petiken"
+    },
+    {
+      "code": 3525152013,
+      "name": "Cangkir"
+    },
+    {
+      "code": 3525152014,
+      "name": "Gadung"
+    },
+    {
+      "code": 3525152015,
+      "name": "Mulung"
+    },
+    {
+      "code": 3525152016,
+      "name": "Bambe"
+    }
+  ]
+}

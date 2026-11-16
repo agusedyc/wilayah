@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503492001,
+      "name": "Yogosem"
+    },
+    {
+      "code": 9503492002,
+      "name": "Kiroma"
+    },
+    {
+      "code": 9503492003,
+      "name": "Sogasio"
+    },
+    {
+      "code": 9503492004,
+      "name": "Saikama"
+    },
+    {
+      "code": 9503492005,
+      "name": "Hokolekma"
+    },
+    {
+      "code": 9503492006,
+      "name": "Esahapuk"
+    },
+    {
+      "code": 9503492007,
+      "name": "Mesahaput"
+    }
+  ]
+}

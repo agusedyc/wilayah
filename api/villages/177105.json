@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1771051001,
+      "name": "Kandang"
+    },
+    {
+      "code": 1771051002,
+      "name": "Kandang Mas"
+    },
+    {
+      "code": 1771051003,
+      "name": "Teluk Sepang"
+    },
+    {
+      "code": 1771051004,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1771051005,
+      "name": "Padang Serai"
+    },
+    {
+      "code": 1771051006,
+      "name": "Muara Dua"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3313012001,
+      "name": "Ngepungsari"
+    },
+    {
+      "code": 3313012002,
+      "name": "Jatipurwo"
+    },
+    {
+      "code": 3313012003,
+      "name": "Jatipuro"
+    },
+    {
+      "code": 3313012004,
+      "name": "Jatisobo"
+    },
+    {
+      "code": 3313012005,
+      "name": "Jatiwarno"
+    },
+    {
+      "code": 3313012006,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3313012007,
+      "name": "Jatisuko"
+    },
+    {
+      "code": 3313012008,
+      "name": "Jatiharjo"
+    },
+    {
+      "code": 3313012009,
+      "name": "Jatikuwung"
+    },
+    {
+      "code": 3313012010,
+      "name": "Jatiroyo"
+    }
+  ]
+}

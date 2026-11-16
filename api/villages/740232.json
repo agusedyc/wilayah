@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7402321001,
+      "name": "Bungguosu"
+    },
+    {
+      "code": 7402321002,
+      "name": "Tudaone"
+    },
+    {
+      "code": 7402321003,
+      "name": "Konawe"
+    },
+    {
+      "code": 7402321004,
+      "name": "Tawanga"
+    },
+    {
+      "code": 7402322005,
+      "name": "Sanggona"
+    },
+    {
+      "code": 7402322006,
+      "name": "Uelawu"
+    },
+    {
+      "code": 7402322007,
+      "name": "Mokowu"
+    },
+    {
+      "code": 7402322008,
+      "name": "Uete"
+    },
+    {
+      "code": 7402322009,
+      "name": "Hudoa"
+    },
+    {
+      "code": 7402322010,
+      "name": "Wonua Mbae"
+    },
+    {
+      "code": 7402322011,
+      "name": "Asoniwowo"
+    },
+    {
+      "code": 7402322012,
+      "name": "Puuwonua"
+    }
+  ]
+}

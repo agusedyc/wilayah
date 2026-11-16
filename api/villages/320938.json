@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3209382001,
+      "name": "Gumulung Lebak"
+    },
+    {
+      "code": 3209382002,
+      "name": "Lebak Mekar"
+    },
+    {
+      "code": 3209382003,
+      "name": "Gumulung Tonggoh"
+    },
+    {
+      "code": 3209382004,
+      "name": "Kamarang"
+    },
+    {
+      "code": 3209382005,
+      "name": "Greged"
+    },
+    {
+      "code": 3209382006,
+      "name": "Kamarang Lebak"
+    },
+    {
+      "code": 3209382007,
+      "name": "Durajaya"
+    },
+    {
+      "code": 3209382008,
+      "name": "Jatipancur"
+    },
+    {
+      "code": 3209382009,
+      "name": "Sindang Kempeng"
+    },
+    {
+      "code": 3209382010,
+      "name": "Nanggela"
+    }
+  ]
+}

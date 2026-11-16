@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6371031001,
+      "name": "Belitung Utara"
+    },
+    {
+      "code": 6371031002,
+      "name": "Belitung Selatan"
+    },
+    {
+      "code": 6371031003,
+      "name": "Pelambuan"
+    },
+    {
+      "code": 6371031004,
+      "name": "Telaga Biru"
+    },
+    {
+      "code": 6371031005,
+      "name": "Telawang"
+    },
+    {
+      "code": 6371031006,
+      "name": "Teluk Tiram"
+    },
+    {
+      "code": 6371031007,
+      "name": "Kuin Selatan"
+    },
+    {
+      "code": 6371031008,
+      "name": "Kuin Cerucuk"
+    },
+    {
+      "code": 6371031009,
+      "name": "Basirih"
+    }
+  ]
+}

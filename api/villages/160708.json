@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1607082007,
+      "name": "Marga Rahayu"
+    },
+    {
+      "code": 1607082008,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 1607082009,
+      "name": "Sumber Hidup"
+    },
+    {
+      "code": 1607082010,
+      "name": "Telang Rejo"
+    },
+    {
+      "code": 1607082011,
+      "name": "Telang Jaya"
+    },
+    {
+      "code": 1607082013,
+      "name": "Telang Makmur"
+    },
+    {
+      "code": 1607082014,
+      "name": "Telang Karya"
+    },
+    {
+      "code": 1607082015,
+      "name": "Panca Mukti"
+    },
+    {
+      "code": 1607082016,
+      "name": "Mukti Jaya"
+    },
+    {
+      "code": 1607082019,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1607082024,
+      "name": "Talang Indah"
+    },
+    {
+      "code": 1607082025,
+      "name": "Mekar Mukti"
+    },
+    {
+      "code": 1607082026,
+      "name": "Upang Jaya"
+    },
+    {
+      "code": 1607082027,
+      "name": "Upang Karya"
+    },
+    {
+      "code": 1607082028,
+      "name": "Upang Cemara"
+    },
+    {
+      "code": 1607082029,
+      "name": "Upang Ceria"
+    }
+  ]
+}

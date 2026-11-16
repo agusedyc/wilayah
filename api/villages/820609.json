@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8206092001,
+      "name": "Sosolat"
+    },
+    {
+      "code": 8206092002,
+      "name": "Dorosago"
+    },
+    {
+      "code": 8206092003,
+      "name": "Patlean"
+    },
+    {
+      "code": 8206092004,
+      "name": "Lolasita"
+    },
+    {
+      "code": 8206092005,
+      "name": "Wasileo"
+    },
+    {
+      "code": 8206092006,
+      "name": "Pumlanga"
+    },
+    {
+      "code": 8206092007,
+      "name": "Jara-jara"
+    },
+    {
+      "code": 8206092008,
+      "name": "Doromoi"
+    },
+    {
+      "code": 8206092009,
+      "name": "Lili"
+    },
+    {
+      "code": 8206092010,
+      "name": "Patlean Jaya"
+    }
+  ]
+}

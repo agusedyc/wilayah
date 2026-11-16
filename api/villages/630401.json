@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6304012001,
+      "name": "Kuala Lupak"
+    },
+    {
+      "code": 6304012002,
+      "name": "Sungai Telan Besar"
+    },
+    {
+      "code": 6304012003,
+      "name": "Sungai Telan Kecil"
+    },
+    {
+      "code": 6304012004,
+      "name": "Tabunganen Muara"
+    },
+    {
+      "code": 6304012005,
+      "name": "Tabunganen Tengah"
+    },
+    {
+      "code": 6304012006,
+      "name": "Karya Baru"
+    },
+    {
+      "code": 6304012007,
+      "name": "Tabunganen Pemurus"
+    },
+    {
+      "code": 6304012008,
+      "name": "Sungai Teras Dalam"
+    },
+    {
+      "code": 6304012009,
+      "name": "Sungai Jingah Besar"
+    },
+    {
+      "code": 6304012010,
+      "name": "Tabunganen Kecil"
+    },
+    {
+      "code": 6304012011,
+      "name": "Sungai Teras Luar"
+    },
+    {
+      "code": 6304012012,
+      "name": "Sungai Telan Muara"
+    },
+    {
+      "code": 6304012013,
+      "name": "Beringin Kencana"
+    },
+    {
+      "code": 6304012014,
+      "name": "Tanggul Rejo"
+    }
+  ]
+}

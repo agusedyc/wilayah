@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9503392001,
+      "name": "Langda"
+    },
+    {
+      "code": 9503392002,
+      "name": "Alirji"
+    },
+    {
+      "code": 9503392003,
+      "name": "Laryi"
+    },
+    {
+      "code": 9503392004,
+      "name": "Wasumurji"
+    },
+    {
+      "code": 9503392005,
+      "name": "Kirabuk"
+    },
+    {
+      "code": 9503392006,
+      "name": "Kap-kap"
+    },
+    {
+      "code": 9503392007,
+      "name": "Yalar"
+    },
+    {
+      "code": 9503392008,
+      "name": "Bebekle"
+    },
+    {
+      "code": 9503392009,
+      "name": "Lukun"
+    }
+  ]
+}

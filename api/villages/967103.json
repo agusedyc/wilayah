@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671031001,
+      "name": "Rufei"
+    },
+    {
+      "code": 9671031002,
+      "name": "Klawasi"
+    },
+    {
+      "code": 9671031003,
+      "name": "Puncak Cendrawasih"
+    },
+    {
+      "code": 9671031004,
+      "name": "Pal Putih"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9502052001,
+      "name": "Batom"
+    },
+    {
+      "code": 9502052002,
+      "name": "Oksip"
+    },
+    {
+      "code": 9502052003,
+      "name": "Mongham"
+    },
+    {
+      "code": 9502052004,
+      "name": "Sabi"
+    },
+    {
+      "code": 9502052005,
+      "name": "Neep"
+    },
+    {
+      "code": 9502052006,
+      "name": "Muara"
+    },
+    {
+      "code": 9502052007,
+      "name": "Batom Dua"
+    },
+    {
+      "code": 9502052008,
+      "name": "Akyako"
+    },
+    {
+      "code": 9502052009,
+      "name": "Peteng"
+    },
+    {
+      "code": 9502052010,
+      "name": "Belomo"
+    },
+    {
+      "code": 9502052011,
+      "name": "Abukerom"
+    }
+  ]
+}

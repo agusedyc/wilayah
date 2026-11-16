@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 1108172001,
+      "name": "Cot Girek"
+    },
+    {
+      "code": 1108172002,
+      "name": "Lhok Meurbo"
+    },
+    {
+      "code": 1108172003,
+      "name": "Kp. Bantan"
+    },
+    {
+      "code": 1108172004,
+      "name": "Alue Seumambu"
+    },
+    {
+      "code": 1108172005,
+      "name": "Ulee Gampong"
+    },
+    {
+      "code": 1108172006,
+      "name": "Batu XII"
+    },
+    {
+      "code": 1108172007,
+      "name": "Kp. Tempel"
+    },
+    {
+      "code": 1108172008,
+      "name": "Alue Leuhob"
+    },
+    {
+      "code": 1108172009,
+      "name": "Seuneubok Baro"
+    },
+    {
+      "code": 1108172010,
+      "name": "Alue Drien"
+    },
+    {
+      "code": 1108172011,
+      "name": "Cempeudak"
+    },
+    {
+      "code": 1108172012,
+      "name": "Matang Teungoh"
+    },
+    {
+      "code": 1108172013,
+      "name": "Pucok Alue"
+    },
+    {
+      "code": 1108172014,
+      "name": "U Baro."
+    },
+    {
+      "code": 1108172015,
+      "name": "Trieng"
+    },
+    {
+      "code": 1108172016,
+      "name": "Lhok Reuhat"
+    },
+    {
+      "code": 1108172017,
+      "name": "Lueng Baro"
+    },
+    {
+      "code": 1108172018,
+      "name": "Jeulikat"
+    },
+    {
+      "code": 1108172019,
+      "name": "Gampong Ara"
+    },
+    {
+      "code": 1108172020,
+      "name": "Beurandang Dayah"
+    },
+    {
+      "code": 1108172021,
+      "name": "Beurandang Krueng"
+    },
+    {
+      "code": 1108172022,
+      "name": "Seupeng"
+    },
+    {
+      "code": 1108172023,
+      "name": "Beurandang Asan"
+    },
+    {
+      "code": 1108172024,
+      "name": "Drien II"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3320102001,
+      "name": "Karimunjawa"
+    },
+    {
+      "code": 3320102002,
+      "name": "Kemujan"
+    },
+    {
+      "code": 3320102003,
+      "name": "Parang"
+    },
+    {
+      "code": 3320102004,
+      "name": "Nyamuk"
+    }
+  ]
+}

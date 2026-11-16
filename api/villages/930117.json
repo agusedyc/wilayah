@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9301172001,
+      "name": "Kwemsid"
+    },
+    {
+      "code": 9301172002,
+      "name": "Kaptel"
+    },
+    {
+      "code": 9301172003,
+      "name": "Kaniskobat"
+    },
+    {
+      "code": 9301172004,
+      "name": "Ihalik"
+    },
+    {
+      "code": 9301172005,
+      "name": "Bu Epe"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9402242001,
+      "name": "Guna"
+    },
+    {
+      "code": 9402242002,
+      "name": "Mandura"
+    },
+    {
+      "code": 9402242003,
+      "name": "Lugubago"
+    },
+    {
+      "code": 9402242004,
+      "name": "Andugir"
+    },
+    {
+      "code": 9402242005,
+      "name": "Muara Miguni"
+    },
+    {
+      "code": 9402242006,
+      "name": "Abili"
+    },
+    {
+      "code": 9402242007,
+      "name": "Pereya"
+    },
+    {
+      "code": 9402242008,
+      "name": "Ginimanggen"
+    },
+    {
+      "code": 9402242009,
+      "name": "Laworege"
+    },
+    {
+      "code": 9402242010,
+      "name": "Wumbiri"
+    }
+  ]
+}

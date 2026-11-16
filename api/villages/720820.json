@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7208202001,
+      "name": "Pelawa Baru"
+    },
+    {
+      "code": 7208202002,
+      "name": "Pelawa"
+    },
+    {
+      "code": 7208202003,
+      "name": "Binangga"
+    },
+    {
+      "code": 7208202004,
+      "name": "Jononunu"
+    },
+    {
+      "code": 7208202005,
+      "name": "Matolele"
+    },
+    {
+      "code": 7208202006,
+      "name": "Petapa"
+    }
+  ]
+}

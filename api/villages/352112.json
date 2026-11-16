@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3521122001,
+      "name": "Banyubiru"
+    },
+    {
+      "code": 3521122002,
+      "name": "Kedunggudel"
+    },
+    {
+      "code": 3521122003,
+      "name": "Sekaralas"
+    },
+    {
+      "code": 3521122004,
+      "name": "Sekarputih"
+    },
+    {
+      "code": 3521122005,
+      "name": "Kayutrejo"
+    },
+    {
+      "code": 3521122006,
+      "name": "Sidolaju"
+    },
+    {
+      "code": 3521122007,
+      "name": "Karangbanyu"
+    },
+    {
+      "code": 3521122008,
+      "name": "Widodaren"
+    },
+    {
+      "code": 3521122009,
+      "name": "Gendingan"
+    },
+    {
+      "code": 3521122010,
+      "name": "Kauman"
+    },
+    {
+      "code": 3521122011,
+      "name": "Sidomakmur"
+    },
+    {
+      "code": 3521122012,
+      "name": "Walikukun"
+    }
+  ]
+}

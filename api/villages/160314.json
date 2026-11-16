@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603142005,
+      "name": "Aur"
+    },
+    {
+      "code": 1603142006,
+      "name": "Beringin"
+    },
+    {
+      "code": 1603142007,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1603142008,
+      "name": "Pagar Gunung"
+    },
+    {
+      "code": 1603142009,
+      "name": "Gunung Raja"
+    },
+    {
+      "code": 1603142010,
+      "name": "Tanjung Kemala"
+    },
+    {
+      "code": 1603142011,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1603142014,
+      "name": "Jiwa Baru"
+    },
+    {
+      "code": 1603142020,
+      "name": "Air Asam"
+    },
+    {
+      "code": 1603142021,
+      "name": "Menanti"
+    }
+  ]
+}

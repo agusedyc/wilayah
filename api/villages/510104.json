@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5101041001,
+      "name": "Gilimanuk"
+    },
+    {
+      "code": 5101042002,
+      "name": "Melaya"
+    },
+    {
+      "code": 5101042003,
+      "name": "Belimbingsari"
+    },
+    {
+      "code": 5101042004,
+      "name": "Ekasari"
+    },
+    {
+      "code": 5101042005,
+      "name": "Nusasari"
+    },
+    {
+      "code": 5101042006,
+      "name": "Warnasari"
+    },
+    {
+      "code": 5101042007,
+      "name": "Candikusuma"
+    },
+    {
+      "code": 5101042008,
+      "name": "Tuwed"
+    },
+    {
+      "code": 5101042009,
+      "name": "Tukadaya"
+    },
+    {
+      "code": 5101042010,
+      "name": "Manistutu"
+    }
+  ]
+}

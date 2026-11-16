@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3304012001,
+      "name": "Berta"
+    },
+    {
+      "code": 3304012002,
+      "name": "Derik"
+    },
+    {
+      "code": 3304012003,
+      "name": "Gumelem Wetan"
+    },
+    {
+      "code": 3304012004,
+      "name": "Gumelem Kulon"
+    },
+    {
+      "code": 3304012005,
+      "name": "Penarusan Wetan"
+    },
+    {
+      "code": 3304012006,
+      "name": "Penarusan Kulon"
+    },
+    {
+      "code": 3304012007,
+      "name": "Brengkok"
+    },
+    {
+      "code": 3304012008,
+      "name": "Pekikiran"
+    },
+    {
+      "code": 3304012009,
+      "name": "Piasa Wetan"
+    },
+    {
+      "code": 3304012010,
+      "name": "Karangsalam"
+    },
+    {
+      "code": 3304012011,
+      "name": "Kemranggon"
+    },
+    {
+      "code": 3304012012,
+      "name": "Susukan"
+    },
+    {
+      "code": 3304012013,
+      "name": "Dermasari"
+    },
+    {
+      "code": 3304012014,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3304012015,
+      "name": "Karangjati"
+    }
+  ]
+}

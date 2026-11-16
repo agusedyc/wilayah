@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7311011001,
+      "name": "Lompo Riaja"
+    },
+    {
+      "code": 7311012002,
+      "name": "Harapan"
+    },
+    {
+      "code": 7311012003,
+      "name": "Lompo Tengah"
+    },
+    {
+      "code": 7311012004,
+      "name": "Kading"
+    },
+    {
+      "code": 7311012005,
+      "name": "Libureng"
+    },
+    {
+      "code": 7311012006,
+      "name": "Mattirowalie"
+    },
+    {
+      "code": 7311012007,
+      "name": "Lempang"
+    }
+  ]
+}

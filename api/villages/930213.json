@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9302132001,
+      "name": "Firiwage"
+    },
+    {
+      "code": 9302132002,
+      "name": "Karuwage"
+    },
+    {
+      "code": 9302132003,
+      "name": "Waliburu"
+    },
+    {
+      "code": 9302132004,
+      "name": "Kabuwage"
+    }
+  ]
+}

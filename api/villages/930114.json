@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9301142001,
+      "name": "Kumbe"
+    },
+    {
+      "code": 9301142002,
+      "name": "Onggari"
+    },
+    {
+      "code": 9301142003,
+      "name": "Rawa Sari"
+    },
+    {
+      "code": 9301142004,
+      "name": "Padang Raharja"
+    },
+    {
+      "code": 9301142005,
+      "name": "Kaiburse"
+    },
+    {
+      "code": 9301142006,
+      "name": "Domande"
+    },
+    {
+      "code": 9301142007,
+      "name": "Suka Maju"
+    }
+  ]
+}

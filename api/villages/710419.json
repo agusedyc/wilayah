@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7104192001,
+      "name": "Sambuara Satu"
+    },
+    {
+      "code": 7104192002,
+      "name": "Sambuara"
+    },
+    {
+      "code": 7104192003,
+      "name": "Ensem"
+    },
+    {
+      "code": 7104192004,
+      "name": "Ensem Timur"
+    },
+    {
+      "code": 7104192005,
+      "name": "Batumbalango"
+    },
+    {
+      "code": 7104192006,
+      "name": "Ambia"
+    },
+    {
+      "code": 7104192007,
+      "name": "Ambia Utara"
+    },
+    {
+      "code": 7104192008,
+      "name": "Kuma"
+    },
+    {
+      "code": 7104192009,
+      "name": "Kuma Selatan"
+    }
+  ]
+}

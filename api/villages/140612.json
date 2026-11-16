@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1406122001,
+      "name": "Kabun"
+    },
+    {
+      "code": 1406122002,
+      "name": "Aliantan"
+    },
+    {
+      "code": 1406122003,
+      "name": "Koto Ranah"
+    },
+    {
+      "code": 1406122004,
+      "name": "Boncah Kesuma"
+    },
+    {
+      "code": 1406122005,
+      "name": "Batu Langkah Besar"
+    },
+    {
+      "code": 1406122006,
+      "name": "Giti"
+    }
+  ]
+}

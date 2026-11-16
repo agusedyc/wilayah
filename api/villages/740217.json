@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7402171002,
+      "name": "Watundehoa"
+    },
+    {
+      "code": 7402172001,
+      "name": "Puriala"
+    },
+    {
+      "code": 7402172003,
+      "name": "Sonai"
+    },
+    {
+      "code": 7402172004,
+      "name": "Lalonggatu"
+    },
+    {
+      "code": 7402172005,
+      "name": "Poanaha"
+    },
+    {
+      "code": 7402172006,
+      "name": "Wonua Morome"
+    },
+    {
+      "code": 7402172007,
+      "name": "Ahuawali"
+    },
+    {
+      "code": 7402172008,
+      "name": "Watusa"
+    },
+    {
+      "code": 7402172009,
+      "name": "Puusangi"
+    },
+    {
+      "code": 7402172010,
+      "name": "Mokaleleo"
+    },
+    {
+      "code": 7402172011,
+      "name": "Unggulino"
+    },
+    {
+      "code": 7402172012,
+      "name": "Tetewatu"
+    },
+    {
+      "code": 7402172013,
+      "name": "Tetehaka"
+    },
+    {
+      "code": 7402172014,
+      "name": "Puuhopa"
+    },
+    {
+      "code": 7402172015,
+      "name": "Laloonaha"
+    },
+    {
+      "code": 7402172016,
+      "name": "Wawosanggula"
+    }
+  ]
+}

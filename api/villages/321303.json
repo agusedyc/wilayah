@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213031001,
+      "name": "Parung"
+    },
+    {
+      "code": 3213031002,
+      "name": "Cigadung"
+    },
+    {
+      "code": 3213031003,
+      "name": "Pasirkareumbi"
+    },
+    {
+      "code": 3213031004,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3213031005,
+      "name": "Soklat"
+    },
+    {
+      "code": 3213031006,
+      "name": "Sukamelang"
+    },
+    {
+      "code": 3213031007,
+      "name": "Dangdeur"
+    },
+    {
+      "code": 3213031008,
+      "name": "Wanareja"
+    }
+  ]
+}

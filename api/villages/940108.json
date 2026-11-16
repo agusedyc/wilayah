@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9401082001,
+      "name": "Napan Yaur"
+    },
+    {
+      "code": 9401082002,
+      "name": "Yeretuar"
+    },
+    {
+      "code": 9401082003,
+      "name": "Bawei"
+    },
+    {
+      "code": 9401082004,
+      "name": "Goni"
+    }
+  ]
+}

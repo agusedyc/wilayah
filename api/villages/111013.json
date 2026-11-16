@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1110132001,
+      "name": "Singkohor"
+    },
+    {
+      "code": 1110132002,
+      "name": "Lae Sipola"
+    },
+    {
+      "code": 1110132003,
+      "name": "Lae Pinang"
+    },
+    {
+      "code": 1110132004,
+      "name": "Mukti Jaya"
+    },
+    {
+      "code": 1110132006,
+      "name": "Sri Kayu"
+    },
+    {
+      "code": 1110132007,
+      "name": "Pea Jambu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7405242001,
+      "name": "Sabulakoa"
+    },
+    {
+      "code": 7405242002,
+      "name": "Talumbinga"
+    },
+    {
+      "code": 7405242003,
+      "name": "Tetenggabo"
+    },
+    {
+      "code": 7405242004,
+      "name": "Watu-watu"
+    },
+    {
+      "code": 7405242005,
+      "name": "Karoonua"
+    },
+    {
+      "code": 7405242006,
+      "name": "Ulu Sabulakoa"
+    },
+    {
+      "code": 7405242007,
+      "name": "Asaria"
+    },
+    {
+      "code": 7405242008,
+      "name": "Wawobende"
+    },
+    {
+      "code": 7405242009,
+      "name": "Wonua Koa"
+    }
+  ]
+}

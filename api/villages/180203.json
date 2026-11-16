@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1802032001,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1802032002,
+      "name": "Sendang Ayu"
+    },
+    {
+      "code": 1802032003,
+      "name": "Bandar Sari"
+    },
+    {
+      "code": 1802032004,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1802032005,
+      "name": "Margorejo"
+    },
+    {
+      "code": 1802032006,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1802032007,
+      "name": "Karang Tanjung"
+    },
+    {
+      "code": 1802032008,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1802032009,
+      "name": "Sri Agung"
+    },
+    {
+      "code": 1802032010,
+      "name": "Haduyang Ratu"
+    },
+    {
+      "code": 1802032011,
+      "name": "Padang Ratu"
+    },
+    {
+      "code": 1802032018,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1802032019,
+      "name": "Mojokerto"
+    },
+    {
+      "code": 1802032020,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 1802032021,
+      "name": "Purworejo"
+    }
+  ]
+}

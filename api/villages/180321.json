@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1803212001,
+      "name": "Sinar Harapan"
+    },
+    {
+      "code": 1803212002,
+      "name": "Kubu Hitu"
+    },
+    {
+      "code": 1803212003,
+      "name": "Negeri Sakti"
+    },
+    {
+      "code": 1803212004,
+      "name": "Tanjung Jaya"
+    },
+    {
+      "code": 1803212005,
+      "name": "Gunung Raja"
+    },
+    {
+      "code": 1803212006,
+      "name": "Cahaya Mas"
+    },
+    {
+      "code": 1803212007,
+      "name": "Comok Sinar Jaya"
+    },
+    {
+      "code": 1803212008,
+      "name": "Way Isem"
+    },
+    {
+      "code": 1803212009,
+      "name": "Gunung Maknibai"
+    },
+    {
+      "code": 1803212010,
+      "name": "Negeri Batin Jaya"
+    }
+  ]
+}

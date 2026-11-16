@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9605132001,
+      "name": "Ainesra"
+    },
+    {
+      "code": 9605132002,
+      "name": "Aimau"
+    },
+    {
+      "code": 9605132003,
+      "name": "Mesyam"
+    },
+    {
+      "code": 9605132004,
+      "name": "Aisasior"
+    },
+    {
+      "code": 9605132005,
+      "name": "Franeway"
+    },
+    {
+      "code": 9605132006,
+      "name": "Aikingging"
+    },
+    {
+      "code": 9605132007,
+      "name": "Tiefromen"
+    }
+  ]
+}

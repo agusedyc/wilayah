@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9402102001,
+      "name": "Yarmukum"
+    },
+    {
+      "code": 9402102002,
+      "name": "Pilia"
+    },
+    {
+      "code": 9402102003,
+      "name": "Yaniruk"
+    },
+    {
+      "code": 9402102004,
+      "name": "Gwenggu"
+    },
+    {
+      "code": 9402102005,
+      "name": "Tukwi"
+    },
+    {
+      "code": 9402102006,
+      "name": "Tiru"
+    },
+    {
+      "code": 9402102007,
+      "name": "Yogorini"
+    },
+    {
+      "code": 9402102008,
+      "name": "Nalime"
+    },
+    {
+      "code": 9402102009,
+      "name": "Urgele"
+    },
+    {
+      "code": 9402102010,
+      "name": "Yagonik"
+    },
+    {
+      "code": 9402102011,
+      "name": "Lulame"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1704031010,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1704032001,
+      "name": "Tanjung Betung"
+    },
+    {
+      "code": 1704032003,
+      "name": "Padang Manis"
+    },
+    {
+      "code": 1704032006,
+      "name": "Guru Agung"
+    },
+    {
+      "code": 1704032009,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1704032021,
+      "name": "Bandu Agung"
+    },
+    {
+      "code": 1704032027,
+      "name": "Tanjung Betung II"
+    },
+    {
+      "code": 1704032028,
+      "name": "Coko Enau"
+    },
+    {
+      "code": 1704032029,
+      "name": "Pancur Negara"
+    },
+    {
+      "code": 1704032030,
+      "name": "Perugaian"
+    },
+    {
+      "code": 1704032031,
+      "name": "Guru Agung II"
+    }
+  ]
+}

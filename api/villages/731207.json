@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7312072001,
+      "name": "Belo"
+    },
+    {
+      "code": 7312072002,
+      "name": "Ganra"
+    },
+    {
+      "code": 7312072003,
+      "name": "Lompulle"
+    },
+    {
+      "code": 7312072004,
+      "name": "Enrekeng"
+    }
+  ]
+}

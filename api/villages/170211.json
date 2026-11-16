@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1702111004,
+      "name": "Air Duku"
+    },
+    {
+      "code": 1702111006,
+      "name": "Cawang Baru"
+    },
+    {
+      "code": 1702111008,
+      "name": "Simpang Nangka"
+    },
+    {
+      "code": 1702112001,
+      "name": "Air Putih Kali Bandung"
+    },
+    {
+      "code": 1702112002,
+      "name": "Air Meles Atas"
+    },
+    {
+      "code": 1702112003,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 1702112005,
+      "name": "Suban Ayam"
+    },
+    {
+      "code": 1702112007,
+      "name": "Cawang Lama"
+    },
+    {
+      "code": 1702112009,
+      "name": "Sumber Urip"
+    },
+    {
+      "code": 1702112010,
+      "name": "Sumber Bening"
+    },
+    {
+      "code": 1702112011,
+      "name": "Karang Jaya"
+    },
+    {
+      "code": 1702112012,
+      "name": "Kayu Manis"
+    },
+    {
+      "code": 1702112013,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1702112014,
+      "name": "Kali Padang"
+    },
+    {
+      "code": 1702112015,
+      "name": "Mojorejo"
+    },
+    {
+      "code": 1702112016,
+      "name": "Talang Lahat"
+    }
+  ]
+}

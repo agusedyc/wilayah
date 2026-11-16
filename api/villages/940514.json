@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405142001,
+      "name": "Golu"
+    },
+    {
+      "code": 9405142002,
+      "name": "Bina"
+    },
+    {
+      "code": 9405142003,
+      "name": "Lumakluk"
+    },
+    {
+      "code": 9405142004,
+      "name": "Wogot"
+    },
+    {
+      "code": 9405142005,
+      "name": "Kabogoluk"
+    },
+    {
+      "code": 9405142006,
+      "name": "Ogomegat"
+    },
+    {
+      "code": 9405142007,
+      "name": "Mamaput"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5303212001,
+      "name": "Lanaus"
+    },
+    {
+      "code": 5303212002,
+      "name": "Letmafo"
+    },
+    {
+      "code": 5303212003,
+      "name": "Tainsala"
+    },
+    {
+      "code": 5303212004,
+      "name": "Maubesi"
+    },
+    {
+      "code": 5303212005,
+      "name": "Sone"
+    },
+    {
+      "code": 5303212006,
+      "name": "Letmafo Timur"
+    },
+    {
+      "code": 5303212007,
+      "name": "Oehalo"
+    }
+  ]
+}

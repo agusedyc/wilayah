@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7309082001,
+      "name": "Temmapaduae"
+    },
+    {
+      "code": 7309082002,
+      "name": "Nisombalia"
+    },
+    {
+      "code": 7309082003,
+      "name": "Tellumpoccoe"
+    },
+    {
+      "code": 7309082004,
+      "name": "Ma'rumpa"
+    },
+    {
+      "code": 7309082005,
+      "name": "Bonto Mate'ne"
+    },
+    {
+      "code": 7309082006,
+      "name": "Abbulosibatang"
+    },
+    {
+      "code": 7309082007,
+      "name": "Pabbentengang"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 1302192001,
+      "name": "Simpang Tj. Nan IV"
+    },
+    {
+      "code": 1302192002,
+      "name": "Kampung Batu Dalam"
+    }
+  ]
+}

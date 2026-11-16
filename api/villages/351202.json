@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3512022001,
+      "name": "Widoropayung"
+    },
+    {
+      "code": 3512022002,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3512022003,
+      "name": "Jetis"
+    },
+    {
+      "code": 3512022004,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3512022005,
+      "name": "Langkap"
+    },
+    {
+      "code": 3512022006,
+      "name": "Bloro"
+    },
+    {
+      "code": 3512022007,
+      "name": "Pesisir"
+    },
+    {
+      "code": 3512022008,
+      "name": "Kalimas"
+    },
+    {
+      "code": 3512022009,
+      "name": "Besuki"
+    },
+    {
+      "code": 3512022010,
+      "name": "Demung"
+    }
+  ]
+}

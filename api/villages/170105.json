@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1701051009,
+      "name": "Gunung Ayu"
+    },
+    {
+      "code": 1701051010,
+      "name": "Kota Medan"
+    },
+    {
+      "code": 1701051016,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1701051017,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1701051019,
+      "name": "Ibul"
+    },
+    {
+      "code": 1701051020,
+      "name": "Padang Kapuk"
+    },
+    {
+      "code": 1701052001,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1701052004,
+      "name": "Padang Niur"
+    },
+    {
+      "code": 1701052005,
+      "name": "Tebat Kubu"
+    },
+    {
+      "code": 1701052006,
+      "name": "Gelumbang"
+    },
+    {
+      "code": 1701052018,
+      "name": "Padang Berangin"
+    }
+  ]
+}

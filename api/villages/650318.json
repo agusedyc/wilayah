@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6503182001,
+      "name": "Pa' Betung"
+    },
+    {
+      "code": 6503182002,
+      "name": "Long Sepayang"
+    },
+    {
+      "code": 6503182003,
+      "name": "Pa' Pawan"
+    },
+    {
+      "code": 6503182004,
+      "name": "Pa' Melade"
+    },
+    {
+      "code": 6503182005,
+      "name": "Pa' Kebuan"
+    },
+    {
+      "code": 6503182006,
+      "name": "Pa' Umung"
+    },
+    {
+      "code": 6503182007,
+      "name": "Pa' Rangeb"
+    },
+    {
+      "code": 6503182008,
+      "name": "Long Umung"
+    },
+    {
+      "code": 6503182009,
+      "name": "Long Tenem"
+    },
+    {
+      "code": 6503182010,
+      "name": "Long Nuat"
+    },
+    {
+      "code": 6503182011,
+      "name": "Pa' Pala"
+    },
+    {
+      "code": 6503182012,
+      "name": "Sinar Baru"
+    },
+    {
+      "code": 6503182013,
+      "name": "Pa' Lidung"
+    },
+    {
+      "code": 6503182014,
+      "name": "Pa' Raye"
+    },
+    {
+      "code": 6503182015,
+      "name": "Bungayan"
+    },
+    {
+      "code": 6503182016,
+      "name": "Wa' Yagung"
+    },
+    {
+      "code": 6503182017,
+      "name": "Kampung Baru"
+    }
+  ]
+}

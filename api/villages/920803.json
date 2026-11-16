@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 9208032001,
+      "name": "Furnusu"
+    },
+    {
+      "code": 9208032002,
+      "name": "Feternu"
+    },
+    {
+      "code": 9208032003,
+      "name": "Sawi"
+    },
+    {
+      "code": 9208032004,
+      "name": "Tugarni"
+    },
+    {
+      "code": 9208032010,
+      "name": "Sawatawera"
+    },
+    {
+      "code": 9208032012,
+      "name": "Bofuwer"
+    },
+    {
+      "code": 9208032013,
+      "name": "Warwarsi"
+    },
+    {
+      "code": 9208032014,
+      "name": "Wanggita"
+    },
+    {
+      "code": 9208032016,
+      "name": "Fudima"
+    },
+    {
+      "code": 9208032017,
+      "name": "Weswasa"
+    },
+    {
+      "code": 9208032018,
+      "name": "Borogerba"
+    },
+    {
+      "code": 9208032019,
+      "name": "Afu Afu"
+    },
+    {
+      "code": 9208032020,
+      "name": "Bayeda"
+    },
+    {
+      "code": 9208032021,
+      "name": "Moyana"
+    },
+    {
+      "code": 9208032022,
+      "name": "Kokoroba"
+    },
+    {
+      "code": 9208032023,
+      "name": "Wainaga"
+    },
+    {
+      "code": 9208032024,
+      "name": "Maskur"
+    },
+    {
+      "code": 9208032025,
+      "name": "Kensi"
+    },
+    {
+      "code": 9208032027,
+      "name": "Erigara"
+    },
+    {
+      "code": 9208032028,
+      "name": "Pigo"
+    },
+    {
+      "code": 9208032029,
+      "name": "Tugumawa"
+    },
+    {
+      "code": 9208032030,
+      "name": "Tiwara"
+    },
+    {
+      "code": 9208032031,
+      "name": "Gusi"
+    },
+    {
+      "code": 9208032032,
+      "name": "Warua"
+    }
+  ]
+}

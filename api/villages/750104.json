@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7501042001,
+      "name": "Isimu Utara"
+    },
+    {
+      "code": 7501042002,
+      "name": "Isimu Selatan"
+    },
+    {
+      "code": 7501042003,
+      "name": "Datahu"
+    },
+    {
+      "code": 7501042004,
+      "name": "Tolotio"
+    },
+    {
+      "code": 7501042005,
+      "name": "Labanu"
+    },
+    {
+      "code": 7501042006,
+      "name": "Reksonegoro"
+    },
+    {
+      "code": 7501042007,
+      "name": "Buhu"
+    },
+    {
+      "code": 7501042008,
+      "name": "Dunggala"
+    },
+    {
+      "code": 7501042009,
+      "name": "Molowahu"
+    },
+    {
+      "code": 7501042010,
+      "name": "Iloponu"
+    },
+    {
+      "code": 7501042011,
+      "name": "Ilomata"
+    },
+    {
+      "code": 7501042012,
+      "name": "Motilango"
+    },
+    {
+      "code": 7501042013,
+      "name": "Isimu Raya"
+    },
+    {
+      "code": 7501042014,
+      "name": "Balahu"
+    },
+    {
+      "code": 7501042015,
+      "name": "Botumoputi"
+    },
+    {
+      "code": 7501042016,
+      "name": "Ulobua"
+    }
+  ]
+}

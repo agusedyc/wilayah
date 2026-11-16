@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209342001,
+      "name": "Seuseupan"
+    },
+    {
+      "code": 3209342002,
+      "name": "Blender"
+    },
+    {
+      "code": 3209342003,
+      "name": "Sumurkondang"
+    },
+    {
+      "code": 3209342004,
+      "name": "Kubangdeleg"
+    },
+    {
+      "code": 3209342005,
+      "name": "Jatipiring"
+    },
+    {
+      "code": 3209342006,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3209342007,
+      "name": "Karangwangi"
+    },
+    {
+      "code": 3209342008,
+      "name": "Karangwareng"
+    },
+    {
+      "code": 3209342009,
+      "name": "Karangasem"
+    }
+  ]
+}

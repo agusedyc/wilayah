@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9403072001,
+      "name": "Todia"
+    },
+    {
+      "code": 9403072002,
+      "name": "Dadou"
+    },
+    {
+      "code": 9403072003,
+      "name": "Bua"
+    },
+    {
+      "code": 9403072004,
+      "name": "Kepi"
+    },
+    {
+      "code": 9403072005,
+      "name": "Wageme"
+    },
+    {
+      "code": 9403072006,
+      "name": "Bugubutu"
+    },
+    {
+      "code": 9403072007,
+      "name": "Dogomouto"
+    },
+    {
+      "code": 9403072008,
+      "name": "Giwo"
+    },
+    {
+      "code": 9403072009,
+      "name": "Nomokepota"
+    },
+    {
+      "code": 9403072010,
+      "name": "Eguai"
+    },
+    {
+      "code": 9403072011,
+      "name": "Degatadi"
+    },
+    {
+      "code": 9403072012,
+      "name": "Uwoyupi"
+    },
+    {
+      "code": 9403072013,
+      "name": "Wegekebo"
+    },
+    {
+      "code": 9403072014,
+      "name": "Yinotadi"
+    }
+  ]
+}

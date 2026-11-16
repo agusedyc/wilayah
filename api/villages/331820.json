@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3318202001,
+      "name": "Wedusan"
+    },
+    {
+      "code": 3318202002,
+      "name": "Dumpil"
+    },
+    {
+      "code": 3318202003,
+      "name": "Ngagel"
+    },
+    {
+      "code": 3318202004,
+      "name": "Bakalan"
+    },
+    {
+      "code": 3318202005,
+      "name": "Kenanti"
+    },
+    {
+      "code": 3318202006,
+      "name": "Alasdowo"
+    },
+    {
+      "code": 3318202007,
+      "name": "Banyutowo"
+    },
+    {
+      "code": 3318202008,
+      "name": "Dukuhseti"
+    },
+    {
+      "code": 3318202009,
+      "name": "Grogolan"
+    },
+    {
+      "code": 3318202010,
+      "name": "Kembang"
+    },
+    {
+      "code": 3318202011,
+      "name": "Tegalombo"
+    },
+    {
+      "code": 3318202012,
+      "name": "Puncel"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201302001,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 3201302002,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3201302003,
+      "name": "Sinarsari"
+    },
+    {
+      "code": 3201302004,
+      "name": "Sukawening"
+    },
+    {
+      "code": 3201302005,
+      "name": "Petir"
+    },
+    {
+      "code": 3201302006,
+      "name": "Purwasari"
+    },
+    {
+      "code": 3201302007,
+      "name": "Cikarawang"
+    },
+    {
+      "code": 3201302008,
+      "name": "Babakan"
+    },
+    {
+      "code": 3201302009,
+      "name": "Dramaga"
+    },
+    {
+      "code": 3201302010,
+      "name": "Neglasari"
+    }
+  ]
+}

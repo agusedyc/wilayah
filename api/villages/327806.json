@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3278061005,
+      "name": "Setiaratu"
+    },
+    {
+      "code": 3278061007,
+      "name": "Kersanagara"
+    },
+    {
+      "code": 3278061008,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 3278061009,
+      "name": "Awipari"
+    },
+    {
+      "code": 3278061010,
+      "name": "Setianagara"
+    },
+    {
+      "code": 3278061011,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3278061012,
+      "name": "Ciakar"
+    },
+    {
+      "code": 3278061013,
+      "name": "Margabakti"
+    },
+    {
+      "code": 3278061014,
+      "name": "Setiajaya"
+    }
+  ]
+}

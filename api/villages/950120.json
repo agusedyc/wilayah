@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9501202001,
+      "name": "Siepkosi"
+    },
+    {
+      "code": 9501202002,
+      "name": "Yumogima"
+    },
+    {
+      "code": 9501202003,
+      "name": "Sekan"
+    },
+    {
+      "code": 9501202004,
+      "name": "Noagalo"
+    },
+    {
+      "code": 9501202005,
+      "name": "Manika"
+    },
+    {
+      "code": 9501202006,
+      "name": "Sekan Dalam"
+    },
+    {
+      "code": 9501202007,
+      "name": "Isawa Himan"
+    },
+    {
+      "code": 9501202008,
+      "name": "Lunaima"
+    },
+    {
+      "code": 9501202009,
+      "name": "Wekia"
+    }
+  ]
+}

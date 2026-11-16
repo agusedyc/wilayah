@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3503142001,
+      "name": "Puru"
+    },
+    {
+      "code": 3503142002,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3503142003,
+      "name": "Nglebo"
+    },
+    {
+      "code": 3503142004,
+      "name": "Ngrandu"
+    },
+    {
+      "code": 3503142005,
+      "name": "Gamping"
+    },
+    {
+      "code": 3503142006,
+      "name": "Suruh"
+    },
+    {
+      "code": 3503142007,
+      "name": "Mlinjon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871031001,
+      "name": "Gedong Air"
+    },
+    {
+      "code": 1871031002,
+      "name": "Sukajawa"
+    },
+    {
+      "code": 1871031004,
+      "name": "Susunan Baru"
+    },
+    {
+      "code": 1871031006,
+      "name": "Sukadana Ham"
+    },
+    {
+      "code": 1871031008,
+      "name": "Kelapa Tiga Permai"
+    },
+    {
+      "code": 1871031010,
+      "name": "Sukajawa Baru"
+    },
+    {
+      "code": 1871031011,
+      "name": "Segalamider"
+    }
+  ]
+}

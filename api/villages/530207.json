@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5302072007,
+      "name": "Tublopo"
+    },
+    {
+      "code": 5302072008,
+      "name": "Nule"
+    },
+    {
+      "code": 5302072009,
+      "name": "Nusa"
+    },
+    {
+      "code": 5302072010,
+      "name": "Mnelalete"
+    },
+    {
+      "code": 5302072011,
+      "name": "Pusu"
+    },
+    {
+      "code": 5302072012,
+      "name": "Tubuhue"
+    },
+    {
+      "code": 5302072013,
+      "name": "Haumeni Baki"
+    },
+    {
+      "code": 5302072015,
+      "name": "Nifukani"
+    }
+  ]
+}

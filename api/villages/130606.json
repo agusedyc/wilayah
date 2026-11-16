@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1306062001,
+      "name": "Padang Lua"
+    },
+    {
+      "code": 1306062002,
+      "name": "Taluak Ampek Suku"
+    },
+    {
+      "code": 1306062003,
+      "name": "Pakan Sinayan"
+    },
+    {
+      "code": 1306062004,
+      "name": "Kubang Putiah"
+    },
+    {
+      "code": 1306062005,
+      "name": "Ladang Laweh"
+    },
+    {
+      "code": 1306062006,
+      "name": "Cingkariang"
+    },
+    {
+      "code": 1306062007,
+      "name": "Sungai Tanang"
+    }
+  ]
+}

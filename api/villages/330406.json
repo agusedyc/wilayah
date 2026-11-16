@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3304061001,
+      "name": "Argasoka"
+    },
+    {
+      "code": 3304061006,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3304061007,
+      "name": "Wangon"
+    },
+    {
+      "code": 3304061008,
+      "name": "Semampir"
+    },
+    {
+      "code": 3304061009,
+      "name": "Sokanandi"
+    },
+    {
+      "code": 3304061010,
+      "name": "Parakancanggah"
+    },
+    {
+      "code": 3304061011,
+      "name": "Semarang"
+    },
+    {
+      "code": 3304061012,
+      "name": "Krandegan"
+    },
+    {
+      "code": 3304061013,
+      "name": "Kutabanjarnegara"
+    },
+    {
+      "code": 3304062002,
+      "name": "Ampelsari"
+    },
+    {
+      "code": 3304062003,
+      "name": "Tlagawera"
+    },
+    {
+      "code": 3304062004,
+      "name": "Cendana"
+    },
+    {
+      "code": 3304062005,
+      "name": "Sokayasa"
+    }
+  ]
+}

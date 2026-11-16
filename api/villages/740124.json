@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7401241003,
+      "name": "Ranomentaa"
+    },
+    {
+      "code": 7401242001,
+      "name": "Toari"
+    },
+    {
+      "code": 7401242002,
+      "name": "Lakito"
+    },
+    {
+      "code": 7401242004,
+      "name": "Anawua"
+    },
+    {
+      "code": 7401242005,
+      "name": "Wowoli"
+    },
+    {
+      "code": 7401242006,
+      "name": "Rano Jaya"
+    },
+    {
+      "code": 7401242007,
+      "name": "Rahabite"
+    },
+    {
+      "code": 7401242008,
+      "name": "Wonua Raya"
+    },
+    {
+      "code": 7401242009,
+      "name": "Rano Sangia"
+    },
+    {
+      "code": 7401242010,
+      "name": "Horongkuli"
+    }
+  ]
+}

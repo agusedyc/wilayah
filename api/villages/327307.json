@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3273071001,
+      "name": "Pasteur"
+    },
+    {
+      "code": 3273071002,
+      "name": "Cipedes"
+    },
+    {
+      "code": 3273071003,
+      "name": "Sukawarna"
+    },
+    {
+      "code": 3273071004,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3273071005,
+      "name": "Sukabungah"
+    }
+  ]
+}

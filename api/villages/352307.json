@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3523072001,
+      "name": "Lajo Kidul"
+    },
+    {
+      "code": 3523072002,
+      "name": "Lajo Lor"
+    },
+    {
+      "code": 3523072003,
+      "name": "Tanggir"
+    },
+    {
+      "code": 3523072004,
+      "name": "Tanjungrejo"
+    },
+    {
+      "code": 3523072005,
+      "name": "Binangun"
+    },
+    {
+      "code": 3523072006,
+      "name": "Mergosari"
+    },
+    {
+      "code": 3523072007,
+      "name": "Mulyoagung"
+    },
+    {
+      "code": 3523072008,
+      "name": "Tunggulrejo"
+    },
+    {
+      "code": 3523072009,
+      "name": "Tingkis"
+    },
+    {
+      "code": 3523072010,
+      "name": "Mulyorejo"
+    },
+    {
+      "code": 3523072011,
+      "name": "Saringembat"
+    },
+    {
+      "code": 3523072012,
+      "name": "Kedungjambe"
+    }
+  ]
+}

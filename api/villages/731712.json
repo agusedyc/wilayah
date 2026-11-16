@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7317122001,
+      "name": "Rante Balla"
+    },
+    {
+      "code": 7317122002,
+      "name": "Kadundung"
+    },
+    {
+      "code": 7317122003,
+      "name": "Ulusalu"
+    },
+    {
+      "code": 7317122004,
+      "name": "Lambanan"
+    },
+    {
+      "code": 7317122005,
+      "name": "Tabang"
+    },
+    {
+      "code": 7317122006,
+      "name": "Boneposi"
+    },
+    {
+      "code": 7317122007,
+      "name": "Pangi"
+    },
+    {
+      "code": 7317122008,
+      "name": "Pajang"
+    },
+    {
+      "code": 7317122009,
+      "name": "Buntu Sarek"
+    },
+    {
+      "code": 7317122010,
+      "name": "To'barru"
+    },
+    {
+      "code": 7317122011,
+      "name": "Tibussan"
+    },
+    {
+      "code": 7317122012,
+      "name": "To'lajuk"
+    }
+  ]
+}

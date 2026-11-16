@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7406152001,
+      "name": "Mapila"
+    },
+    {
+      "code": 7406152002,
+      "name": "Wumbulasa"
+    },
+    {
+      "code": 7406152003,
+      "name": "Sangia Makmur"
+    },
+    {
+      "code": 7406152004,
+      "name": "Eemokolo"
+    },
+    {
+      "code": 7406152005,
+      "name": "Tedubara"
+    },
+    {
+      "code": 7406152006,
+      "name": "Larolanu"
+    }
+  ]
+}

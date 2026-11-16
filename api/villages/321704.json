@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3217042001,
+      "name": "Ciptagumati"
+    },
+    {
+      "code": 3217042002,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3217042003,
+      "name": "Cipada"
+    },
+    {
+      "code": 3217042004,
+      "name": "Cisomangbarat"
+    },
+    {
+      "code": 3217042005,
+      "name": "Ganjarsari"
+    },
+    {
+      "code": 3217042006,
+      "name": "Kanangasari"
+    },
+    {
+      "code": 3217042007,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3217042008,
+      "name": "Mandalamukti"
+    },
+    {
+      "code": 3217042009,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3217042010,
+      "name": "Puteran"
+    },
+    {
+      "code": 3217042011,
+      "name": "Rende"
+    },
+    {
+      "code": 3217042012,
+      "name": "Tenjolaut"
+    },
+    {
+      "code": 3217042013,
+      "name": "Wangunjaya"
+    }
+  ]
+}

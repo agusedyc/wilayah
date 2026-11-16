@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1471031001,
+      "name": "Cinta Raja"
+    },
+    {
+      "code": 1471031002,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 1471031003,
+      "name": "Sukamaju"
+    }
+  ]
+}

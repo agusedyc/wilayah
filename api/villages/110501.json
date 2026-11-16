@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1105012001,
+      "name": "Suak Indrapuri"
+    },
+    {
+      "code": 1105012002,
+      "name": "Kampung Belakang"
+    },
+    {
+      "code": 1105012003,
+      "name": "Ujong Kalak"
+    },
+    {
+      "code": 1105012004,
+      "name": "Kuta Padang"
+    },
+    {
+      "code": 1105012005,
+      "name": "Ujong Baroh"
+    },
+    {
+      "code": 1105012006,
+      "name": "Rundeng"
+    },
+    {
+      "code": 1105012007,
+      "name": "Drien Rampak"
+    },
+    {
+      "code": 1105012008,
+      "name": "Pasir"
+    },
+    {
+      "code": 1105012009,
+      "name": "Pasar Aceh"
+    },
+    {
+      "code": 1105012010,
+      "name": "Padang Seurahet"
+    },
+    {
+      "code": 1105012011,
+      "name": "Panggong"
+    },
+    {
+      "code": 1105012012,
+      "name": "Seuneubok"
+    },
+    {
+      "code": 1105012013,
+      "name": "Gampong Darat"
+    },
+    {
+      "code": 1105012014,
+      "name": "Gampa"
+    },
+    {
+      "code": 1105012015,
+      "name": "Lapang"
+    },
+    {
+      "code": 1105012016,
+      "name": "Blang Beurandang"
+    },
+    {
+      "code": 1105012017,
+      "name": "Suak Ribee"
+    },
+    {
+      "code": 1105012018,
+      "name": "Suak Raya"
+    },
+    {
+      "code": 1105012019,
+      "name": "Suak Nie"
+    },
+    {
+      "code": 1105012020,
+      "name": "Leuhan"
+    },
+    {
+      "code": 1105012021,
+      "name": "Suak Sigadeng"
+    }
+  ]
+}

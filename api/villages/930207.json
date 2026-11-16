@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9302072001,
+      "name": "Kombut"
+    },
+    {
+      "code": 9302072002,
+      "name": "Moukbiran"
+    },
+    {
+      "code": 9302072003,
+      "name": "Kawangtet"
+    },
+    {
+      "code": 9302072004,
+      "name": "Amuan"
+    }
+  ]
+}

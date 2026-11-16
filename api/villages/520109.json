@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5201092001,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 5201092002,
+      "name": "Midang"
+    },
+    {
+      "code": 5201092003,
+      "name": "Sesela"
+    },
+    {
+      "code": 5201092004,
+      "name": "Kekait"
+    },
+    {
+      "code": 5201092005,
+      "name": "Kekeri"
+    },
+    {
+      "code": 5201092006,
+      "name": "Mambalan"
+    },
+    {
+      "code": 5201092007,
+      "name": "Dopang"
+    },
+    {
+      "code": 5201092008,
+      "name": "Penimbung"
+    },
+    {
+      "code": 5201092009,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 5201092010,
+      "name": "Jatisela"
+    },
+    {
+      "code": 5201092011,
+      "name": "Guntur Macan"
+    },
+    {
+      "code": 5201092012,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 5201092013,
+      "name": "Ranjok"
+    },
+    {
+      "code": 5201092014,
+      "name": "Gelangsar"
+    },
+    {
+      "code": 5201092015,
+      "name": "Jeringo"
+    },
+    {
+      "code": 5201092016,
+      "name": "Bukittinggi"
+    }
+  ]
+}

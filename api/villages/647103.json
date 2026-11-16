@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6471031001,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6471031002,
+      "name": "Gunung Samarinda"
+    },
+    {
+      "code": 6471031003,
+      "name": "Karang Joang"
+    },
+    {
+      "code": 6471031004,
+      "name": "Muara Rapak"
+    },
+    {
+      "code": 6471031005,
+      "name": "Gunung Samarinda Baru"
+    },
+    {
+      "code": 6471031006,
+      "name": "Graha Indah"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1804222001,
+      "name": "Lombok"
+    },
+    {
+      "code": 1804222002,
+      "name": "Heni Arong"
+    },
+    {
+      "code": 1804222003,
+      "name": "Suka Banjar"
+    },
+    {
+      "code": 1804222004,
+      "name": "Lombok Timur"
+    },
+    {
+      "code": 1804222005,
+      "name": "Suka Banjar II Ujung Rembun"
+    },
+    {
+      "code": 1804222006,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1804222007,
+      "name": "Ujung"
+    },
+    {
+      "code": 1804222008,
+      "name": "Keagungan"
+    },
+    {
+      "code": 1804222009,
+      "name": "Tawan Suka Mulya"
+    },
+    {
+      "code": 1804222010,
+      "name": "Pancur Mas"
+    },
+    {
+      "code": 1804222011,
+      "name": "Lombok Selatan"
+    }
+  ]
+}

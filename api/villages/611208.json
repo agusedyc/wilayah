@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6112082001,
+      "name": "Teluk Pakedai Hulu"
+    },
+    {
+      "code": 6112082002,
+      "name": "Teluk Pakedai Satu"
+    },
+    {
+      "code": 6112082003,
+      "name": "Teluk Pakedai Dua"
+    },
+    {
+      "code": 6112082004,
+      "name": "Kuala Karang"
+    },
+    {
+      "code": 6112082005,
+      "name": "Seruat Satu"
+    },
+    {
+      "code": 6112082006,
+      "name": "Sungai Deras"
+    },
+    {
+      "code": 6112082007,
+      "name": "Selat Remis"
+    },
+    {
+      "code": 6112082008,
+      "name": "Madura"
+    },
+    {
+      "code": 6112082009,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 6112082010,
+      "name": "Teluk Gelam"
+    },
+    {
+      "code": 6112082011,
+      "name": "Tanjung Bunga"
+    },
+    {
+      "code": 6112082012,
+      "name": "Sungai Nibung"
+    },
+    {
+      "code": 6112082013,
+      "name": "Arus Deras"
+    },
+    {
+      "code": 6112082014,
+      "name": "Sungai Nipah"
+    }
+  ]
+}

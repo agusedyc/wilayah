@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5317022002,
+      "name": "Praimadeta"
+    },
+    {
+      "code": 5317022003,
+      "name": "Pondok"
+    },
+    {
+      "code": 5317022004,
+      "name": "Maderi"
+    },
+    {
+      "code": 5317022005,
+      "name": "Anajiaka"
+    },
+    {
+      "code": 5317022006,
+      "name": "Wairasa"
+    },
+    {
+      "code": 5317022007,
+      "name": "Umbu Kawolu"
+    },
+    {
+      "code": 5317022008,
+      "name": "Umbu Mamijuk"
+    },
+    {
+      "code": 5317022009,
+      "name": "Umbu Pabal"
+    },
+    {
+      "code": 5317022010,
+      "name": "Umbu Langang"
+    },
+    {
+      "code": 5317022021,
+      "name": "Umbu Pabal Selatan"
+    },
+    {
+      "code": 5317022022,
+      "name": "Umbu Jodu"
+    },
+    {
+      "code": 5317022023,
+      "name": "Anapalu"
+    },
+    {
+      "code": 5317022024,
+      "name": "Daha Elu"
+    },
+    {
+      "code": 5317022025,
+      "name": "Dewa Tana"
+    },
+    {
+      "code": 5317022027,
+      "name": "Mata Waikajawi"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3205172001,
+      "name": "Bayongbong"
+    },
+    {
+      "code": 3205172002,
+      "name": "Panembong"
+    },
+    {
+      "code": 3205172003,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3205172004,
+      "name": "Salakuray"
+    },
+    {
+      "code": 3205172005,
+      "name": "Karyajaya"
+    },
+    {
+      "code": 3205172006,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3205172007,
+      "name": "Pamalayan"
+    },
+    {
+      "code": 3205172008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3205172009,
+      "name": "Ciburuy"
+    },
+    {
+      "code": 3205172010,
+      "name": "Ciela"
+    },
+    {
+      "code": 3205172011,
+      "name": "Cikedokan"
+    },
+    {
+      "code": 3205172012,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3205172013,
+      "name": "Sukasenang"
+    },
+    {
+      "code": 3205172014,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3205172015,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3205172016,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3205172017,
+      "name": "Cinisti"
+    },
+    {
+      "code": 3205172018,
+      "name": "Sukamanah"
+    }
+  ]
+}

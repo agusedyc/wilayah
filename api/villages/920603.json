@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206032020,
+      "name": "Irarutu III"
+    },
+    {
+      "code": 9206032021,
+      "name": "Amutu"
+    },
+    {
+      "code": 9206032022,
+      "name": "Nusei"
+    },
+    {
+      "code": 9206032023,
+      "name": "Kasira"
+    }
+  ]
+}

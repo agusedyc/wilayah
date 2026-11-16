@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9402172001,
+      "name": "Dokome"
+    },
+    {
+      "code": 9402172002,
+      "name": "Purbalo"
+    },
+    {
+      "code": 9402172003,
+      "name": "Wurage"
+    },
+    {
+      "code": 9402172004,
+      "name": "Nowoneri"
+    },
+    {
+      "code": 9402172005,
+      "name": "Nowome"
+    },
+    {
+      "code": 9402172006,
+      "name": "Imulineri"
+    },
+    {
+      "code": 9402172007,
+      "name": "Molobak"
+    },
+    {
+      "code": 9402172008,
+      "name": "Kimibut"
+    },
+    {
+      "code": 9402172009,
+      "name": "Nunggwagi"
+    }
+  ]
+}

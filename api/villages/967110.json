@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671101001,
+      "name": "Suprau"
+    },
+    {
+      "code": 9671101002,
+      "name": "Tampa Garam"
+    },
+    {
+      "code": 9671101003,
+      "name": "Saoka"
+    },
+    {
+      "code": 9671101004,
+      "name": "Tanjung Kasuari"
+    }
+  ]
+}

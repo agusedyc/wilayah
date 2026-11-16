@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3201192001,
+      "name": "Curug"
+    },
+    {
+      "code": 3201192002,
+      "name": "Pangradin"
+    },
+    {
+      "code": 3201192003,
+      "name": "Kalongsawah"
+    },
+    {
+      "code": 3201192004,
+      "name": "Sipak"
+    },
+    {
+      "code": 3201192005,
+      "name": "Jasinga"
+    },
+    {
+      "code": 3201192006,
+      "name": "Koleang"
+    },
+    {
+      "code": 3201192007,
+      "name": "Cikopomayak"
+    },
+    {
+      "code": 3201192008,
+      "name": "Setu"
+    },
+    {
+      "code": 3201192009,
+      "name": "Barengkok"
+    },
+    {
+      "code": 3201192010,
+      "name": "Bagoang"
+    },
+    {
+      "code": 3201192011,
+      "name": "Pangaur"
+    },
+    {
+      "code": 3201192012,
+      "name": "Pamagersari"
+    },
+    {
+      "code": 3201192013,
+      "name": "Jugalajaya"
+    },
+    {
+      "code": 3201192014,
+      "name": "Tegalwangi"
+    },
+    {
+      "code": 3201192015,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3201192016,
+      "name": "Wirajaya"
+    }
+  ]
+}

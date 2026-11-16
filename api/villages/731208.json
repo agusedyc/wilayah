@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7312082001,
+      "name": "Citta"
+    },
+    {
+      "code": 7312082002,
+      "name": "Kampiri"
+    },
+    {
+      "code": 7312082003,
+      "name": "Labae"
+    },
+    {
+      "code": 7312082004,
+      "name": "Tinco"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6208052001,
+      "name": "Kenawan"
+    },
+    {
+      "code": 6208052002,
+      "name": "Laman Baru"
+    },
+    {
+      "code": 6208052003,
+      "name": "Ajang"
+    },
+    {
+      "code": 6208052004,
+      "name": "Semantun"
+    },
+    {
+      "code": 6208052005,
+      "name": "Nibung Terjun"
+    },
+    {
+      "code": 6208052006,
+      "name": "Natai Kondang"
+    },
+    {
+      "code": 6208052007,
+      "name": "Sembikuan"
+    }
+  ]
+}

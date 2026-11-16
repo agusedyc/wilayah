@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6209031005,
+      "name": "Nanga Bulik"
+    },
+    {
+      "code": 6209032001,
+      "name": "Sungai Mentawa"
+    },
+    {
+      "code": 6209032002,
+      "name": "Guci"
+    },
+    {
+      "code": 6209032003,
+      "name": "Batu Kotam"
+    },
+    {
+      "code": 6209032004,
+      "name": "Kujan"
+    },
+    {
+      "code": 6209032006,
+      "name": "Bunut"
+    },
+    {
+      "code": 6209032007,
+      "name": "Beruta"
+    },
+    {
+      "code": 6209032008,
+      "name": "Tamiang"
+    },
+    {
+      "code": 6209032031,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 6209032032,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 6209032036,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 6209032037,
+      "name": "Arga Mulya"
+    },
+    {
+      "code": 6209032043,
+      "name": "Perigi Raya"
+    },
+    {
+      "code": 6209032044,
+      "name": "Nanga Pamalontian"
+    }
+  ]
+}

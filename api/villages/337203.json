@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3372031001,
+      "name": "Joyosuran"
+    },
+    {
+      "code": 3372031002,
+      "name": "Semanggi"
+    },
+    {
+      "code": 3372031003,
+      "name": "Pasarkliwon"
+    },
+    {
+      "code": 3372031004,
+      "name": "Gajahan"
+    },
+    {
+      "code": 3372031005,
+      "name": "Baluwarti"
+    },
+    {
+      "code": 3372031006,
+      "name": "Kampungbaru"
+    },
+    {
+      "code": 3372031007,
+      "name": "Kedunglumbu"
+    },
+    {
+      "code": 3372031008,
+      "name": "Sangkrah"
+    },
+    {
+      "code": 3372031009,
+      "name": "Kauman"
+    },
+    {
+      "code": 3372031010,
+      "name": "Mojo"
+    }
+  ]
+}

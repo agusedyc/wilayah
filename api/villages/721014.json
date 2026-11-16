@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7210142001,
+      "name": "Lebanu"
+    },
+    {
+      "code": 7210142002,
+      "name": "Bomba"
+    },
+    {
+      "code": 7210142003,
+      "name": "Beka"
+    },
+    {
+      "code": 7210142004,
+      "name": "Sibedi"
+    },
+    {
+      "code": 7210142005,
+      "name": "Padende"
+    },
+    {
+      "code": 7210142006,
+      "name": "Sunju"
+    },
+    {
+      "code": 7210142007,
+      "name": "Tinggede"
+    },
+    {
+      "code": 7210142008,
+      "name": "Baliase"
+    },
+    {
+      "code": 7210142009,
+      "name": "Binangga"
+    },
+    {
+      "code": 7210142010,
+      "name": "Boyabaliase"
+    },
+    {
+      "code": 7210142011,
+      "name": "Tinggede Selatan"
+    }
+  ]
+}

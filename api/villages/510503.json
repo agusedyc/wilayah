@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5105031008,
+      "name": "Semarapura Kaja"
+    },
+    {
+      "code": 5105031009,
+      "name": "Semarapura Kauh"
+    },
+    {
+      "code": 5105031010,
+      "name": "Semarapura Tengah"
+    },
+    {
+      "code": 5105031011,
+      "name": "Semarapura Kangin"
+    },
+    {
+      "code": 5105031012,
+      "name": "Semarapura Klod Kangin"
+    },
+    {
+      "code": 5105031013,
+      "name": "Semarapura Klod"
+    },
+    {
+      "code": 5105032001,
+      "name": "Satra"
+    },
+    {
+      "code": 5105032002,
+      "name": "Tojan"
+    },
+    {
+      "code": 5105032003,
+      "name": "Gelgel"
+    },
+    {
+      "code": 5105032004,
+      "name": "Kampung Gelgel"
+    },
+    {
+      "code": 5105032005,
+      "name": "Jumpai"
+    },
+    {
+      "code": 5105032006,
+      "name": "Tangkas"
+    },
+    {
+      "code": 5105032007,
+      "name": "Kamasan"
+    },
+    {
+      "code": 5105032014,
+      "name": "Akah"
+    },
+    {
+      "code": 5105032015,
+      "name": "Manduang"
+    },
+    {
+      "code": 5105032016,
+      "name": "Selat"
+    },
+    {
+      "code": 5105032017,
+      "name": "Tegak"
+    },
+    {
+      "code": 5105032018,
+      "name": "Selisihan"
+    }
+  ]
+}

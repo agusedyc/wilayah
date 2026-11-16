@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1402132001,
+      "name": "Talang Tujuh Buah Tangga"
+    },
+    {
+      "code": 1402132002,
+      "name": "Talang Durian Cacar"
+    },
+    {
+      "code": 1402132003,
+      "name": "Talang Selantai"
+    },
+    {
+      "code": 1402132004,
+      "name": "Talang Perigi"
+    },
+    {
+      "code": 1402132005,
+      "name": "Kuantan Tenang"
+    },
+    {
+      "code": 1402132006,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1402132007,
+      "name": "Rimba Seminai"
+    },
+    {
+      "code": 1402132008,
+      "name": "Kelayang"
+    },
+    {
+      "code": 1402132009,
+      "name": "Talang Gedabu"
+    },
+    {
+      "code": 1402132010,
+      "name": "Talang Sungai Limau"
+    },
+    {
+      "code": 1402132011,
+      "name": "Talang Sungai Parit"
+    },
+    {
+      "code": 1402132012,
+      "name": "Batu Sawar"
+    },
+    {
+      "code": 1402132013,
+      "name": "Petonggan"
+    },
+    {
+      "code": 1402132014,
+      "name": "Lubuk Sitarak"
+    },
+    {
+      "code": 1402132015,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 1402132016,
+      "name": "Sungai Ekok"
+    },
+    {
+      "code": 1402132017,
+      "name": "Talang Suka Maju"
+    },
+    {
+      "code": 1402132018,
+      "name": "Kampung Bunga"
+    },
+    {
+      "code": 1402132019,
+      "name": "Talang Pring Jaya"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9502272001,
+      "name": "Merpasikne"
+    },
+    {
+      "code": 9502272002,
+      "name": "Taramlu"
+    },
+    {
+      "code": 9502272003,
+      "name": "Weime"
+    },
+    {
+      "code": 9502272004,
+      "name": "Meryang"
+    },
+    {
+      "code": 9502272005,
+      "name": "Limrepasikne"
+    },
+    {
+      "code": 9502272006,
+      "name": "Youlban"
+    },
+    {
+      "code": 9502272007,
+      "name": "Mekdamgon"
+    },
+    {
+      "code": 9502272008,
+      "name": "Daluban"
+    },
+    {
+      "code": 9502272009,
+      "name": "Nomteren"
+    }
+  ]
+}

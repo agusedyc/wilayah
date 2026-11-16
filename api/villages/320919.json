@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209192001,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3209192002,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3209192003,
+      "name": "Megu Gede"
+    },
+    {
+      "code": 3209192004,
+      "name": "Megu Cilik"
+    },
+    {
+      "code": 3209192005,
+      "name": "Setu Wetan"
+    },
+    {
+      "code": 3209192006,
+      "name": "Setu Kulon"
+    },
+    {
+      "code": 3209192007,
+      "name": "Weru Kidul"
+    },
+    {
+      "code": 3209192008,
+      "name": "Weru Lor"
+    },
+    {
+      "code": 3209192009,
+      "name": "Tegalwangi"
+    }
+  ]
+}

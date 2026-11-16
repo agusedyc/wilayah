@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 districts",
+  "data": [
+    {
+      "code": 367401,
+      "name": "Serpong"
+    },
+    {
+      "code": 367402,
+      "name": "Serpong Utara"
+    },
+    {
+      "code": 367403,
+      "name": "Pondok Aren"
+    },
+    {
+      "code": 367404,
+      "name": "Ciputat"
+    },
+    {
+      "code": 367405,
+      "name": "Ciputat Timur"
+    },
+    {
+      "code": 367406,
+      "name": "Pamulang"
+    },
+    {
+      "code": 367407,
+      "name": "Setu"
+    }
+  ]
+}

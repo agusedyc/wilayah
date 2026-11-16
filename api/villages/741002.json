@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7410021004,
+      "name": "Kambowa"
+    },
+    {
+      "code": 7410022001,
+      "name": "Bubu"
+    },
+    {
+      "code": 7410022002,
+      "name": "Lahumoko"
+    },
+    {
+      "code": 7410022003,
+      "name": "Morindino"
+    },
+    {
+      "code": 7410022005,
+      "name": "Pongkowulu"
+    },
+    {
+      "code": 7410022006,
+      "name": "Lagundi"
+    },
+    {
+      "code": 7410022007,
+      "name": "Konde"
+    },
+    {
+      "code": 7410022008,
+      "name": "Mata"
+    },
+    {
+      "code": 7410022009,
+      "name": "Bubu Barat"
+    },
+    {
+      "code": 7410022010,
+      "name": "Bente"
+    },
+    {
+      "code": 7410022011,
+      "name": "Baluara"
+    }
+  ]
+}

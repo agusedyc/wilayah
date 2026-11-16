@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9106162001,
+      "name": "Sandau"
+    },
+    {
+      "code": 9106162002,
+      "name": "Bruyadori"
+    },
+    {
+      "code": 9106162003,
+      "name": "Dafi"
+    },
+    {
+      "code": 9106162004,
+      "name": "Amberparem"
+    },
+    {
+      "code": 9106162005,
+      "name": "Mandori"
+    },
+    {
+      "code": 9106162006,
+      "name": "Duai"
+    },
+    {
+      "code": 9106162007,
+      "name": "Mandori Sup"
+    },
+    {
+      "code": 9106162008,
+      "name": "Kamumi"
+    },
+    {
+      "code": 9106162009,
+      "name": "Arimi Jaya"
+    },
+    {
+      "code": 9106162010,
+      "name": "Warbukor"
+    }
+  ]
+}

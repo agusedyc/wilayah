@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3173071001,
+      "name": "Palmerah"
+    },
+    {
+      "code": 3173071002,
+      "name": "Slipi"
+    },
+    {
+      "code": 3173071003,
+      "name": "Kota Bambu Utara"
+    },
+    {
+      "code": 3173071004,
+      "name": "Jatipulo"
+    },
+    {
+      "code": 3173071005,
+      "name": "Kemanggisan"
+    },
+    {
+      "code": 3173071006,
+      "name": "Kota Bambu Selatan"
+    }
+  ]
+}

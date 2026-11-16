@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5307032001,
+      "name": "Lela"
+    },
+    {
+      "code": 5307032002,
+      "name": "Watutedang"
+    },
+    {
+      "code": 5307032003,
+      "name": "Korowuwu"
+    },
+    {
+      "code": 5307032004,
+      "name": "Kolidetung"
+    },
+    {
+      "code": 5307032005,
+      "name": "Sikka"
+    },
+    {
+      "code": 5307032006,
+      "name": "Iligai"
+    },
+    {
+      "code": 5307032007,
+      "name": "Hepang"
+    },
+    {
+      "code": 5307032008,
+      "name": "Baopaat"
+    },
+    {
+      "code": 5307032009,
+      "name": "Du"
+    }
+  ]
+}

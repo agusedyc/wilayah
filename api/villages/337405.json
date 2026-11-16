@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3374051001,
+      "name": "Sembungharjo"
+    },
+    {
+      "code": 3374051002,
+      "name": "Kudu"
+    },
+    {
+      "code": 3374051003,
+      "name": "Karangroto"
+    },
+    {
+      "code": 3374051004,
+      "name": "Genuksari"
+    },
+    {
+      "code": 3374051005,
+      "name": "Banjardowo"
+    },
+    {
+      "code": 3374051006,
+      "name": "Gebangsari"
+    },
+    {
+      "code": 3374051007,
+      "name": "Trimulyo"
+    },
+    {
+      "code": 3374051008,
+      "name": "Penggaron Lor"
+    },
+    {
+      "code": 3374051009,
+      "name": "Muktiharjo Lor"
+    },
+    {
+      "code": 3374051010,
+      "name": "Bangetayu Kulon"
+    },
+    {
+      "code": 3374051011,
+      "name": "Bangetayu Wetan"
+    },
+    {
+      "code": 3374051012,
+      "name": "Terboyo Kulon"
+    },
+    {
+      "code": 3374051013,
+      "name": "Terboyo Wetan"
+    }
+  ]
+}

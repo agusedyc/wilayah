@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6304051001,
+      "name": "Berangas Barat"
+    },
+    {
+      "code": 6304051002,
+      "name": "Berangas"
+    },
+    {
+      "code": 6304051003,
+      "name": "Handil Bakti"
+    },
+    {
+      "code": 6304052004,
+      "name": "Pulau Alalak"
+    },
+    {
+      "code": 6304052005,
+      "name": "Pulau Sewangi"
+    },
+    {
+      "code": 6304052006,
+      "name": "Pulau Sugara"
+    },
+    {
+      "code": 6304052007,
+      "name": "Sungai Lumbah"
+    },
+    {
+      "code": 6304052008,
+      "name": "Berangas Timur"
+    },
+    {
+      "code": 6304052009,
+      "name": "Sei Semangat Bhakti"
+    },
+    {
+      "code": 6304052010,
+      "name": "Sungai Pitung"
+    },
+    {
+      "code": 6304052011,
+      "name": "Belandean Muara"
+    },
+    {
+      "code": 6304052012,
+      "name": "Belandean"
+    },
+    {
+      "code": 6304052013,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6304052014,
+      "name": "Semangat Dalam"
+    },
+    {
+      "code": 6304052015,
+      "name": "Beringin"
+    },
+    {
+      "code": 6304052016,
+      "name": "Semangat Karya"
+    },
+    {
+      "code": 6304052017,
+      "name": "Panca Karya"
+    },
+    {
+      "code": 6304052018,
+      "name": "Tatah Mesjid"
+    }
+  ]
+}

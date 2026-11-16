@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3518182001,
+      "name": "Sugihwaras"
+    },
+    {
+      "code": 3518182002,
+      "name": "Ngluyu"
+    },
+    {
+      "code": 3518182003,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3518182004,
+      "name": "Lengkong Lor"
+    },
+    {
+      "code": 3518182005,
+      "name": "Gampeng"
+    },
+    {
+      "code": 3518182006,
+      "name": "Bajang"
+    }
+  ]
+}

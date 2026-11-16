@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1306152001,
+      "name": "Magek"
+    },
+    {
+      "code": 1306152002,
+      "name": "Kamang Hilia"
+    },
+    {
+      "code": 1306152003,
+      "name": "Kamang Mudiak"
+    },
+    {
+      "code": 1306152004,
+      "name": "Kamang Tangah Anam Suku"
+    },
+    {
+      "code": 1306152005,
+      "name": "Pauh Kamang Mudiak"
+    }
+  ]
+}

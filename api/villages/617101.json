@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6171011002,
+      "name": "Benuamelayu Laut"
+    },
+    {
+      "code": 6171011003,
+      "name": "Benuamelayu Darat"
+    },
+    {
+      "code": 6171011004,
+      "name": "Parittokaya"
+    },
+    {
+      "code": 6171011005,
+      "name": "Kotabaru"
+    },
+    {
+      "code": 6171011006,
+      "name": "Akcaya"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1801182001,
+      "name": "Merbau Mataram"
+    },
+    {
+      "code": 1801182002,
+      "name": "Suban"
+    },
+    {
+      "code": 1801182003,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1801182004,
+      "name": "Baru Ranji"
+    },
+    {
+      "code": 1801182005,
+      "name": "Karang Raja"
+    },
+    {
+      "code": 1801182006,
+      "name": "Talang Jawa"
+    },
+    {
+      "code": 1801182007,
+      "name": "Lebung Sari"
+    },
+    {
+      "code": 1801182008,
+      "name": "Puji Rahayu"
+    },
+    {
+      "code": 1801182009,
+      "name": "Batu Agung"
+    },
+    {
+      "code": 1801182010,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1801182011,
+      "name": "Sinar Karya"
+    },
+    {
+      "code": 1801182012,
+      "name": "Triharjo"
+    },
+    {
+      "code": 1801182013,
+      "name": "Panca Tunggal"
+    },
+    {
+      "code": 1801182014,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1801182015,
+      "name": "Karang Jaya"
+    }
+  ]
+}

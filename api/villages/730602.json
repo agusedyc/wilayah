@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7306021001,
+      "name": "Kalebajeng"
+    },
+    {
+      "code": 7306021002,
+      "name": "Limbung"
+    },
+    {
+      "code": 7306021017,
+      "name": "Tubajeng"
+    },
+    {
+      "code": 7306021018,
+      "name": "Mata Allo"
+    },
+    {
+      "code": 7306022003,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7306022006,
+      "name": "Maccinibaji"
+    },
+    {
+      "code": 7306022007,
+      "name": "Pa'bentengang"
+    },
+    {
+      "code": 7306022009,
+      "name": "Tangkebajeng"
+    },
+    {
+      "code": 7306022010,
+      "name": "Maradekaya"
+    },
+    {
+      "code": 7306022011,
+      "name": "Panciro"
+    },
+    {
+      "code": 7306022012,
+      "name": "Lempangang"
+    },
+    {
+      "code": 7306022013,
+      "name": "Bone"
+    },
+    {
+      "code": 7306022015,
+      "name": "Pannyangkalang"
+    },
+    {
+      "code": 7306022019,
+      "name": "Paraikatte"
+    }
+  ]
+}

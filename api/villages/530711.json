@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5307112001,
+      "name": "Hokor"
+    },
+    {
+      "code": 5307112002,
+      "name": "Wolonwalu"
+    },
+    {
+      "code": 5307112003,
+      "name": "Wolokoli"
+    },
+    {
+      "code": 5307112004,
+      "name": "Bola"
+    },
+    {
+      "code": 5307112005,
+      "name": "Umauta"
+    },
+    {
+      "code": 5307112006,
+      "name": "Ipir"
+    },
+    {
+      "code": 5307112018,
+      "name": "Bura Bekor"
+    },
+    {
+      "code": 5307112019,
+      "name": "Watukrus"
+    }
+  ]
+}

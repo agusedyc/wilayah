@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7405041001,
+      "name": "Palangga"
+    },
+    {
+      "code": 7405042003,
+      "name": "Aosole"
+    },
+    {
+      "code": 7405042005,
+      "name": "Anggondara"
+    },
+    {
+      "code": 7405042007,
+      "name": "Eewa"
+    },
+    {
+      "code": 7405042008,
+      "name": "Kiaea"
+    },
+    {
+      "code": 7405042011,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 7405042013,
+      "name": "Onembute"
+    },
+    {
+      "code": 7405042018,
+      "name": "Waworaha"
+    },
+    {
+      "code": 7405042019,
+      "name": "Watumerembe"
+    },
+    {
+      "code": 7405042022,
+      "name": "Wawouru"
+    },
+    {
+      "code": 7405042025,
+      "name": "Alakaya"
+    },
+    {
+      "code": 7405042029,
+      "name": "Wawonggura"
+    },
+    {
+      "code": 7405042030,
+      "name": "Kapujaya"
+    },
+    {
+      "code": 7405042031,
+      "name": "Watudemba"
+    },
+    {
+      "code": 7405042032,
+      "name": "Sanggi-Sanggi"
+    }
+  ]
+}

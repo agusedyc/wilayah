@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5319051020,
+      "name": "Tiwu Kondo"
+    },
+    {
+      "code": 5319052001,
+      "name": "Lengko Namut"
+    },
+    {
+      "code": 5319052002,
+      "name": "Rana Kulan"
+    },
+    {
+      "code": 5319052003,
+      "name": "Golo Munde"
+    },
+    {
+      "code": 5319052004,
+      "name": "Golo Lebo"
+    },
+    {
+      "code": 5319052005,
+      "name": "Golo Lijun"
+    },
+    {
+      "code": 5319052009,
+      "name": "Sisir"
+    },
+    {
+      "code": 5319052015,
+      "name": "Haju Ngendong"
+    },
+    {
+      "code": 5319052016,
+      "name": "Legur Lai"
+    },
+    {
+      "code": 5319052017,
+      "name": "Rana Gapang"
+    },
+    {
+      "code": 5319052018,
+      "name": "Biting"
+    },
+    {
+      "code": 5319052025,
+      "name": "Compang Soba"
+    },
+    {
+      "code": 5319052026,
+      "name": "Compang Teo"
+    },
+    {
+      "code": 5319052028,
+      "name": "Kaju Wangi"
+    },
+    {
+      "code": 5319052029,
+      "name": "Wae Lokom"
+    }
+  ]
+}

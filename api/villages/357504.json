@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3575041001,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3575041002,
+      "name": "Tamba'an"
+    },
+    {
+      "code": 3575041003,
+      "name": "Trajeng"
+    },
+    {
+      "code": 3575041004,
+      "name": "Bangilan"
+    },
+    {
+      "code": 3575041005,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3575041006,
+      "name": "Mayangan"
+    },
+    {
+      "code": 3575041007,
+      "name": "Ngemplakrejo"
+    },
+    {
+      "code": 3575041008,
+      "name": "Petamanan"
+    },
+    {
+      "code": 3575041009,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3575041010,
+      "name": "Bugul Lor"
+    },
+    {
+      "code": 3575041011,
+      "name": "Kandangsapi"
+    },
+    {
+      "code": 3575041012,
+      "name": "Panggungrejo"
+    },
+    {
+      "code": 3575041013,
+      "name": "Mandaranrejo"
+    }
+  ]
+}

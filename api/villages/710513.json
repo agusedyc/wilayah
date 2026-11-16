@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7105132001,
+      "name": "Pinamorongan"
+    },
+    {
+      "code": 7105132002,
+      "name": "Kaneyan"
+    },
+    {
+      "code": 7105132003,
+      "name": "Koreng"
+    },
+    {
+      "code": 7105132004,
+      "name": "Tumaluntung"
+    },
+    {
+      "code": 7105132005,
+      "name": "Rumoong Atas"
+    },
+    {
+      "code": 7105132006,
+      "name": "Lansot"
+    },
+    {
+      "code": 7105132007,
+      "name": "Wiau Lapi"
+    },
+    {
+      "code": 7105132008,
+      "name": "Wuwuk"
+    },
+    {
+      "code": 7105132014,
+      "name": "Rumoong Atas Dua"
+    },
+    {
+      "code": 7105132017,
+      "name": "Lansot Timur"
+    },
+    {
+      "code": 7105132018,
+      "name": "Wuwuk Barat"
+    },
+    {
+      "code": 7105132019,
+      "name": "Tumaluntung Satu"
+    },
+    {
+      "code": 7105132020,
+      "name": "Wiau Lapi Barat"
+    }
+  ]
+}

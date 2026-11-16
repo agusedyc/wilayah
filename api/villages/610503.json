@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "message": "Showing 39 villages",
+  "data": [
+    {
+      "code": 6105032001,
+      "name": "Nanga Sepauk"
+    },
+    {
+      "code": 6105032002,
+      "name": "Tanjung Ria"
+    },
+    {
+      "code": 6105032003,
+      "name": "Sekubang"
+    },
+    {
+      "code": 6105032004,
+      "name": "Kenyauk"
+    },
+    {
+      "code": 6105032005,
+      "name": "Lengkenat"
+    },
+    {
+      "code": 6105032006,
+      "name": "Manis Raya"
+    },
+    {
+      "code": 6105032007,
+      "name": "Temiang Kapuas"
+    },
+    {
+      "code": 6105032008,
+      "name": "Ensabang"
+    },
+    {
+      "code": 6105032009,
+      "name": "Mait Hilir"
+    },
+    {
+      "code": 6105032010,
+      "name": "Sekujam Timbai"
+    },
+    {
+      "code": 6105032011,
+      "name": "Semuntai"
+    },
+    {
+      "code": 6105032012,
+      "name": "Sirang Setambang"
+    },
+    {
+      "code": 6105032013,
+      "name": "Nanga Libau"
+    },
+    {
+      "code": 6105032014,
+      "name": "Bernayau"
+    },
+    {
+      "code": 6105032015,
+      "name": "Sinar Pekayau"
+    },
+    {
+      "code": 6105032016,
+      "name": "Nanga Pari"
+    },
+    {
+      "code": 6105032017,
+      "name": "Buluh Kuning"
+    },
+    {
+      "code": 6105032018,
+      "name": "Temawang Muntai"
+    },
+    {
+      "code": 6105032019,
+      "name": "Tawang Sari"
+    },
+    {
+      "code": 6105032020,
+      "name": "Gernis Jaya"
+    },
+    {
+      "code": 6105032021,
+      "name": "Paoh Benua"
+    },
+    {
+      "code": 6105032022,
+      "name": "Bedayan"
+    },
+    {
+      "code": 6105032023,
+      "name": "Tanjung Hulu"
+    },
+    {
+      "code": 6105032024,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 6105032025,
+      "name": "Landau Panjang"
+    },
+    {
+      "code": 6105032026,
+      "name": "Bangun"
+    },
+    {
+      "code": 6105032027,
+      "name": "Sukau Bersatu"
+    },
+    {
+      "code": 6105032028,
+      "name": "Kemantan"
+    },
+    {
+      "code": 6105032029,
+      "name": "Peninsung"
+    },
+    {
+      "code": 6105032030,
+      "name": "Sepulut"
+    },
+    {
+      "code": 6105032031,
+      "name": "Temawang Bulai"
+    },
+    {
+      "code": 6105032032,
+      "name": "Sungai Segak"
+    },
+    {
+      "code": 6105032033,
+      "name": "Tanjung Balai"
+    },
+    {
+      "code": 6105032034,
+      "name": "Sinar Harapan"
+    },
+    {
+      "code": 6105032035,
+      "name": "Riam Kempadik"
+    },
+    {
+      "code": 6105032036,
+      "name": "Nanga Layung"
+    },
+    {
+      "code": 6105032037,
+      "name": "Limau Bakti"
+    },
+    {
+      "code": 6105032038,
+      "name": "Tanjung Mawang"
+    },
+    {
+      "code": 6105032040,
+      "name": "Sungai Jaung"
+    }
+  ]
+}

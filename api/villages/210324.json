@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 2103242001,
+      "name": "Kelarik Barat"
+    },
+    {
+      "code": 2103242002,
+      "name": "Seluan Barat"
+    }
+  ]
+}

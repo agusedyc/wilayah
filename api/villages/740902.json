@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7409021001,
+      "name": "Lamonae"
+    },
+    {
+      "code": 7409022002,
+      "name": "Padalere"
+    },
+    {
+      "code": 7409022004,
+      "name": "Tetewatu"
+    },
+    {
+      "code": 7409022006,
+      "name": "Culumbatu"
+    },
+    {
+      "code": 7409022007,
+      "name": "Wawoheo"
+    },
+    {
+      "code": 7409022009,
+      "name": "Lamparinga"
+    },
+    {
+      "code": 7409022010,
+      "name": "Lamonae Utama"
+    },
+    {
+      "code": 7409022012,
+      "name": "Wacumelewe"
+    },
+    {
+      "code": 7409022013,
+      "name": "Mata Osole"
+    },
+    {
+      "code": 7409022014,
+      "name": "Pondoa"
+    },
+    {
+      "code": 7409022020,
+      "name": "Wawonsangi"
+    },
+    {
+      "code": 7409022021,
+      "name": "Wawontoaho"
+    },
+    {
+      "code": 7409022022,
+      "name": "Larompana"
+    },
+    {
+      "code": 7409022023,
+      "name": "Wacu Pinodo"
+    },
+    {
+      "code": 7409022024,
+      "name": "Padalere Utama"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3604252001,
+      "name": "Kopo"
+    },
+    {
+      "code": 3604252002,
+      "name": "Garut"
+    },
+    {
+      "code": 3604252003,
+      "name": "Nanggung"
+    },
+    {
+      "code": 3604252004,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3604252005,
+      "name": "Nyompok"
+    },
+    {
+      "code": 3604252006,
+      "name": "Gabus"
+    },
+    {
+      "code": 3604252007,
+      "name": "Carenang Udik"
+    },
+    {
+      "code": 3604252008,
+      "name": "Rancasumur"
+    },
+    {
+      "code": 3604252009,
+      "name": "Babakanjaya"
+    },
+    {
+      "code": 3604252010,
+      "name": "Mekarbaru"
+    }
+  ]
+}

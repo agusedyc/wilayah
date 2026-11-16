@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 7404111005,
+      "name": "Wakoko"
+    },
+    {
+      "code": 7404111006,
+      "name": "Wasaga"
+    },
+    {
+      "code": 7404111020,
+      "name": "Holimombo"
+    },
+    {
+      "code": 7404111021,
+      "name": "Kombeli"
+    },
+    {
+      "code": 7404111022,
+      "name": "Takimpo"
+    },
+    {
+      "code": 7404111023,
+      "name": "Awainulu"
+    },
+    {
+      "code": 7404111026,
+      "name": "Kambulabulana"
+    },
+    {
+      "code": 7404111027,
+      "name": "Pasarwajo"
+    },
+    {
+      "code": 7404111028,
+      "name": "Saragi"
+    },
+    {
+      "code": 7404112002,
+      "name": "Waangu-angu"
+    },
+    {
+      "code": 7404112003,
+      "name": "Warinta"
+    },
+    {
+      "code": 7404112004,
+      "name": "Lapodi"
+    },
+    {
+      "code": 7404112007,
+      "name": "Kancinaa"
+    },
+    {
+      "code": 7404112008,
+      "name": "Winning"
+    },
+    {
+      "code": 7404112017,
+      "name": "Holimombo Jaya"
+    },
+    {
+      "code": 7404112018,
+      "name": "Kondowa"
+    },
+    {
+      "code": 7404112019,
+      "name": "Dongkala"
+    },
+    {
+      "code": 7404112024,
+      "name": "Laburunci"
+    },
+    {
+      "code": 7404112025,
+      "name": "Banabungi"
+    },
+    {
+      "code": 7404112029,
+      "name": "Kabawakole"
+    },
+    {
+      "code": 7404112030,
+      "name": "Mantowu"
+    },
+    {
+      "code": 7404112031,
+      "name": "Kaongkeongkea"
+    }
+  ]
+}

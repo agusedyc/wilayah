@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306041001,
+      "name": "Malino"
+    },
+    {
+      "code": 7306041002,
+      "name": "Buluttana"
+    },
+    {
+      "code": 7306041003,
+      "name": "Gantarang"
+    },
+    {
+      "code": 7306041010,
+      "name": "Pattapang"
+    },
+    {
+      "code": 7306041011,
+      "name": "Bonto Lerung"
+    },
+    {
+      "code": 7306041012,
+      "name": "Garassi"
+    },
+    {
+      "code": 7306042004,
+      "name": "Parigi"
+    }
+  ]
+}

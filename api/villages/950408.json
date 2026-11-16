@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9504082001,
+      "name": "Umagi"
+    },
+    {
+      "code": 9504082002,
+      "name": "Yali"
+    },
+    {
+      "code": 9504082003,
+      "name": "Nambu"
+    },
+    {
+      "code": 9504082004,
+      "name": "Nolopur"
+    },
+    {
+      "code": 9504082005,
+      "name": "Yaleme"
+    },
+    {
+      "code": 9504082006,
+      "name": "Gatini"
+    },
+    {
+      "code": 9504082007,
+      "name": "Mino"
+    },
+    {
+      "code": 9504082008,
+      "name": "Gurin"
+    },
+    {
+      "code": 9504082009,
+      "name": "Piriluk"
+    },
+    {
+      "code": 9504082010,
+      "name": "Pagongga"
+    },
+    {
+      "code": 9504082011,
+      "name": "Warna"
+    },
+    {
+      "code": 9504082012,
+      "name": "Popaga"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1602122001,
+      "name": "Ulak Kemang"
+    },
+    {
+      "code": 1602122002,
+      "name": "Sepang"
+    },
+    {
+      "code": 1602122003,
+      "name": "Keman"
+    },
+    {
+      "code": 1602122004,
+      "name": "Kandis"
+    },
+    {
+      "code": 1602122005,
+      "name": "Ulak Depati"
+    },
+    {
+      "code": 1602122006,
+      "name": "Pulau Layang"
+    },
+    {
+      "code": 1602122007,
+      "name": "Tapus"
+    },
+    {
+      "code": 1602122008,
+      "name": "Pulau Betung"
+    },
+    {
+      "code": 1602122009,
+      "name": "Bangsal"
+    },
+    {
+      "code": 1602122010,
+      "name": "Kuro"
+    },
+    {
+      "code": 1602122011,
+      "name": "Menggeris"
+    },
+    {
+      "code": 1602122012,
+      "name": "Pampangan"
+    },
+    {
+      "code": 1602122013,
+      "name": "Serimenang"
+    },
+    {
+      "code": 1602122014,
+      "name": "Secondong"
+    },
+    {
+      "code": 1602122015,
+      "name": "Jermun"
+    },
+    {
+      "code": 1602122016,
+      "name": "Serdang"
+    },
+    {
+      "code": 1602122017,
+      "name": "Jungkal"
+    },
+    {
+      "code": 1602122035,
+      "name": "Tanjung Kemang"
+    },
+    {
+      "code": 1602122036,
+      "name": "Ulak Pianggu"
+    },
+    {
+      "code": 1602122037,
+      "name": "Ulak Kemang Baru"
+    },
+    {
+      "code": 1602122038,
+      "name": "Keman Baru"
+    },
+    {
+      "code": 1602122039,
+      "name": "Sri Mulya"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3528132001,
+      "name": "Sana Tengah"
+    },
+    {
+      "code": 3528132002,
+      "name": "Sana Daja"
+    },
+    {
+      "code": 3528132003,
+      "name": "Tagangser Daja"
+    },
+    {
+      "code": 3528132004,
+      "name": "Sotabar"
+    },
+    {
+      "code": 3528132005,
+      "name": "Tlonto Raja"
+    },
+    {
+      "code": 3528132006,
+      "name": "Dempo Barat"
+    },
+    {
+      "code": 3528132007,
+      "name": "Dempo Timur"
+    },
+    {
+      "code": 3528132008,
+      "name": "Bindang"
+    },
+    {
+      "code": 3528132009,
+      "name": "Batokerbuy"
+    }
+  ]
+}

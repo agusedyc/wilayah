@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3529011015,
+      "name": "Kepanjin"
+    },
+    {
+      "code": 3529011016,
+      "name": "Pajagalan"
+    },
+    {
+      "code": 3529011017,
+      "name": "Bangselok"
+    },
+    {
+      "code": 3529011018,
+      "name": "Karangduak"
+    },
+    {
+      "code": 3529012005,
+      "name": "Kolor"
+    },
+    {
+      "code": 3529012006,
+      "name": "Pabian"
+    },
+    {
+      "code": 3529012007,
+      "name": "Marengan Daya"
+    },
+    {
+      "code": 3529012008,
+      "name": "Kacongan"
+    },
+    {
+      "code": 3529012009,
+      "name": "Paberasan"
+    },
+    {
+      "code": 3529012010,
+      "name": "Parsanga"
+    },
+    {
+      "code": 3529012011,
+      "name": "Bangkal"
+    },
+    {
+      "code": 3529012012,
+      "name": "Kebunan"
+    },
+    {
+      "code": 3529012013,
+      "name": "Pamolokan"
+    },
+    {
+      "code": 3529012014,
+      "name": "Pangarangan"
+    },
+    {
+      "code": 3529012019,
+      "name": "Pandian"
+    },
+    {
+      "code": 3529012020,
+      "name": "Kebunagung"
+    }
+  ]
+}

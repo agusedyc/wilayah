@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3504032001,
+      "name": "Plosokandang"
+    },
+    {
+      "code": 3504032002,
+      "name": "Tunggulsari"
+    },
+    {
+      "code": 3504032003,
+      "name": "Ringinpitu"
+    },
+    {
+      "code": 3504032004,
+      "name": "Loderesan"
+    },
+    {
+      "code": 3504032005,
+      "name": "Bulusari"
+    },
+    {
+      "code": 3504032006,
+      "name": "Bangoan"
+    },
+    {
+      "code": 3504032007,
+      "name": "Boro"
+    },
+    {
+      "code": 3504032008,
+      "name": "Tapan"
+    },
+    {
+      "code": 3504032009,
+      "name": "Rejoagung"
+    },
+    {
+      "code": 3504032010,
+      "name": "Kedungwaru"
+    },
+    {
+      "code": 3504032011,
+      "name": "Plandaan"
+    },
+    {
+      "code": 3504032012,
+      "name": "Ketanon"
+    },
+    {
+      "code": 3504032013,
+      "name": "Tawangsari"
+    },
+    {
+      "code": 3504032014,
+      "name": "Mangunsari"
+    },
+    {
+      "code": 3504032015,
+      "name": "Winong"
+    },
+    {
+      "code": 3504032016,
+      "name": "Majan"
+    },
+    {
+      "code": 3504032017,
+      "name": "Simo"
+    },
+    {
+      "code": 3504032018,
+      "name": "Gendingan"
+    },
+    {
+      "code": 3504032019,
+      "name": "Ngujang"
+    }
+  ]
+}

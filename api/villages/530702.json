@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5307022001,
+      "name": "Bhera"
+    },
+    {
+      "code": 5307022002,
+      "name": "Dobo"
+    },
+    {
+      "code": 5307022003,
+      "name": "Gera"
+    },
+    {
+      "code": 5307022004,
+      "name": "Liakutu"
+    },
+    {
+      "code": 5307022005,
+      "name": "Parabubu"
+    },
+    {
+      "code": 5307022006,
+      "name": "Wolodhesa"
+    },
+    {
+      "code": 5307022007,
+      "name": "Korobhera"
+    },
+    {
+      "code": 5307022008,
+      "name": "Napugera"
+    },
+    {
+      "code": 5307022009,
+      "name": "Kowi"
+    },
+    {
+      "code": 5307022010,
+      "name": "Dobo Nuapuu"
+    },
+    {
+      "code": 5307022011,
+      "name": "Ratekalo"
+    },
+    {
+      "code": 5307022012,
+      "name": "Ndaimbere"
+    }
+  ]
+}

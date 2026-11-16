@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3212212001,
+      "name": "Curug"
+    },
+    {
+      "code": 3212212002,
+      "name": "Pranti"
+    },
+    {
+      "code": 3212212003,
+      "name": "Wirakanan"
+    },
+    {
+      "code": 3212212004,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3212212005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3212212006,
+      "name": "Wirapanjunan"
+    },
+    {
+      "code": 3212212007,
+      "name": "Pareangirang"
+    },
+    {
+      "code": 3212212008,
+      "name": "Bulak"
+    },
+    {
+      "code": 3212212009,
+      "name": "Ilir"
+    },
+    {
+      "code": 3212212010,
+      "name": "Soge"
+    },
+    {
+      "code": 3212212011,
+      "name": "Eretan Wetan"
+    },
+    {
+      "code": 3212212012,
+      "name": "Eretan Kulon"
+    },
+    {
+      "code": 3212212013,
+      "name": "Kertawinangun"
+    }
+  ]
+}

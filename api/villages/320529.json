@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3205292001,
+      "name": "Karyasari"
+    },
+    {
+      "code": 3205292002,
+      "name": "Maroko"
+    },
+    {
+      "code": 3205292003,
+      "name": "Sancang"
+    },
+    {
+      "code": 3205292004,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3205292005,
+      "name": "Sagara"
+    },
+    {
+      "code": 3205292006,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3205292007,
+      "name": "Simpang"
+    },
+    {
+      "code": 3205292008,
+      "name": "Mekar Mukti"
+    },
+    {
+      "code": 3205292009,
+      "name": "Cigaronggong"
+    },
+    {
+      "code": 3205292010,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3205292011,
+      "name": "Najaten"
+    }
+  ]
+}

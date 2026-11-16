@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1174032001,
+      "name": "Teungoh"
+    },
+    {
+      "code": 1174032002,
+      "name": "Peukan Langsa"
+    },
+    {
+      "code": 1174032004,
+      "name": "Jawa"
+    },
+    {
+      "code": 1174032005,
+      "name": "Paya Bujok Blang Pase"
+    },
+    {
+      "code": 1174032006,
+      "name": "Blang"
+    },
+    {
+      "code": 1174032007,
+      "name": "Alue Beurawe"
+    },
+    {
+      "code": 1174032009,
+      "name": "Daulat"
+    },
+    {
+      "code": 1174032010,
+      "name": "Meutia"
+    },
+    {
+      "code": 1174032011,
+      "name": "Blang Seunibong"
+    },
+    {
+      "code": 1174032013,
+      "name": "Tualang Teungoh"
+    }
+  ]
+}

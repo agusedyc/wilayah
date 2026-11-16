@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6503102001,
+      "name": "Sungai Nyamuk"
+    },
+    {
+      "code": 6503102002,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6503102003,
+      "name": "Bukit Aru Indah"
+    },
+    {
+      "code": 6503102004,
+      "name": "Tanjung Aru"
+    }
+  ]
+}

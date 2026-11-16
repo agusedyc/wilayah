@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1208242001,
+      "name": "Bandar Masilam"
+    },
+    {
+      "code": 1208242002,
+      "name": "Lias Baru"
+    },
+    {
+      "code": 1208242003,
+      "name": "Bandar Silou"
+    },
+    {
+      "code": 1208242004,
+      "name": "Panombeian Baru"
+    },
+    {
+      "code": 1208242005,
+      "name": "Gunung Serawan"
+    },
+    {
+      "code": 1208242006,
+      "name": "Bandar Masilam II"
+    },
+    {
+      "code": 1208242007,
+      "name": "Partimbalan"
+    },
+    {
+      "code": 1208242008,
+      "name": "Bandar Tinggi"
+    },
+    {
+      "code": 1208242009,
+      "name": "Bandar Rejo"
+    },
+    {
+      "code": 1208242010,
+      "name": "Bandar Gunung"
+    }
+  ]
+}

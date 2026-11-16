@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509232001,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3509232002,
+      "name": "Kawangrejo"
+    },
+    {
+      "code": 3509232003,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3509232004,
+      "name": "Mumbulsari"
+    },
+    {
+      "code": 3509232005,
+      "name": "Suco"
+    },
+    {
+      "code": 3509232006,
+      "name": "Lampeji"
+    },
+    {
+      "code": 3509232007,
+      "name": "Karang Kedawung"
+    }
+  ]
+}

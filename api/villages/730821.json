@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7308211001,
+      "name": "Biru"
+    },
+    {
+      "code": 7308211002,
+      "name": "Ta"
+    },
+    {
+      "code": 7308211003,
+      "name": "Watampone"
+    },
+    {
+      "code": 7308211004,
+      "name": "Bukaka"
+    },
+    {
+      "code": 7308211005,
+      "name": "Pappolo"
+    },
+    {
+      "code": 7308211006,
+      "name": "Manurunge"
+    },
+    {
+      "code": 7308211007,
+      "name": "Walanae"
+    },
+    {
+      "code": 7308211008,
+      "name": "Masumpu"
+    }
+  ]
+}

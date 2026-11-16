@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5306072002,
+      "name": "Watanhura I"
+    },
+    {
+      "code": 5306072003,
+      "name": "Lebao"
+    },
+    {
+      "code": 5306072004,
+      "name": "Watohari"
+    },
+    {
+      "code": 5306072005,
+      "name": "Moton Wutun"
+    },
+    {
+      "code": 5306072006,
+      "name": "Watobuku"
+    },
+    {
+      "code": 5306072007,
+      "name": "Labelen"
+    },
+    {
+      "code": 5306072008,
+      "name": "Menanga"
+    },
+    {
+      "code": 5306072009,
+      "name": "Lohayong I"
+    },
+    {
+      "code": 5306072010,
+      "name": "Wulublolong"
+    },
+    {
+      "code": 5306072011,
+      "name": "Liwo"
+    },
+    {
+      "code": 5306072012,
+      "name": "Tanahwerang"
+    },
+    {
+      "code": 5306072013,
+      "name": "Lewohedo"
+    },
+    {
+      "code": 5306072014,
+      "name": "Lohayong II"
+    },
+    {
+      "code": 5306072016,
+      "name": "Watanhura II"
+    },
+    {
+      "code": 5306072017,
+      "name": "Lewogeka"
+    },
+    {
+      "code": 5306072018,
+      "name": "Lamawai"
+    },
+    {
+      "code": 5306072019,
+      "name": "Kewuta"
+    }
+  ]
+}

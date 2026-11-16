@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1107252001,
+      "name": "Gintong"
+    },
+    {
+      "code": 1107252002,
+      "name": "Mesjid Beureuleung"
+    },
+    {
+      "code": 1107252003,
+      "name": "Beureuleung"
+    },
+    {
+      "code": 1107252004,
+      "name": "Baroh"
+    },
+    {
+      "code": 1107252005,
+      "name": "Mee"
+    },
+    {
+      "code": 1107252006,
+      "name": "Paya"
+    },
+    {
+      "code": 1107252007,
+      "name": "Teungoh"
+    },
+    {
+      "code": 1107252008,
+      "name": "Pangge Pilok"
+    },
+    {
+      "code": 1107252009,
+      "name": "Karieng"
+    },
+    {
+      "code": 1107252010,
+      "name": "Grong-Grong"
+    },
+    {
+      "code": 1107252011,
+      "name": "Nicah"
+    },
+    {
+      "code": 1107252012,
+      "name": "Mesjid Memeuaneuk"
+    },
+    {
+      "code": 1107252013,
+      "name": "Daka"
+    },
+    {
+      "code": 1107252014,
+      "name": "Sentosa"
+    },
+    {
+      "code": 1107252015,
+      "name": "Sukon"
+    }
+  ]
+}

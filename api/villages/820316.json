@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8203162001,
+      "name": "Seki"
+    },
+    {
+      "code": 8203162002,
+      "name": "Togawa"
+    },
+    {
+      "code": 8203162003,
+      "name": "Soakonora"
+    },
+    {
+      "code": 8203162004,
+      "name": "Igobula"
+    },
+    {
+      "code": 8203162005,
+      "name": "Bale"
+    },
+    {
+      "code": 8203162006,
+      "name": "Togawabesi"
+    },
+    {
+      "code": 8203162007,
+      "name": "Ori"
+    }
+  ]
+}

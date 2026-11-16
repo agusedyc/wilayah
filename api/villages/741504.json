@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7415042001,
+      "name": "Batuatas Liwu"
+    },
+    {
+      "code": 7415042002,
+      "name": "Batuatas Barat"
+    },
+    {
+      "code": 7415042003,
+      "name": "Wacuala"
+    },
+    {
+      "code": 7415042004,
+      "name": "Batu Atas Timur"
+    },
+    {
+      "code": 7415042005,
+      "name": "Tolando Jaya"
+    },
+    {
+      "code": 7415042006,
+      "name": "Taduasa"
+    },
+    {
+      "code": 7415042007,
+      "name": "Wambongi"
+    }
+  ]
+}

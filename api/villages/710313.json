@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7103132001,
+      "name": "Tawoali"
+    },
+    {
+      "code": 7103132002,
+      "name": "Barangka"
+    },
+    {
+      "code": 7103132003,
+      "name": "Nahepese"
+    },
+    {
+      "code": 7103132004,
+      "name": "Manumpitaeng"
+    },
+    {
+      "code": 7103132005,
+      "name": "Taloarane"
+    },
+    {
+      "code": 7103132006,
+      "name": "Mala"
+    },
+    {
+      "code": 7103132007,
+      "name": "Karatung I"
+    },
+    {
+      "code": 7103132008,
+      "name": "Karatung II"
+    },
+    {
+      "code": 7103132009,
+      "name": "Kauhis"
+    },
+    {
+      "code": 7103132010,
+      "name": "Sesiwung"
+    },
+    {
+      "code": 7103132011,
+      "name": "Lebo"
+    },
+    {
+      "code": 7103132012,
+      "name": "Barangkalang"
+    },
+    {
+      "code": 7103132013,
+      "name": "Belengang"
+    },
+    {
+      "code": 7103132014,
+      "name": "Bakalaeng"
+    },
+    {
+      "code": 7103132015,
+      "name": "Hiung"
+    },
+    {
+      "code": 7103132016,
+      "name": "Pinebentengang"
+    },
+    {
+      "code": 7103132017,
+      "name": "Taloarane I"
+    },
+    {
+      "code": 7103132018,
+      "name": "Bengka"
+    }
+  ]
+}

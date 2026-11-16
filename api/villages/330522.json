@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3305222001,
+      "name": "Pucangan"
+    },
+    {
+      "code": 3305222002,
+      "name": "Seboro"
+    },
+    {
+      "code": 3305222003,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3305222004,
+      "name": "Sadangkulon"
+    },
+    {
+      "code": 3305222005,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3305222006,
+      "name": "Sadangwetan"
+    },
+    {
+      "code": 3305222007,
+      "name": "Kedunggong"
+    }
+  ]
+}

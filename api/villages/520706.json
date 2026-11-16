@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5207062001,
+      "name": "Senayan"
+    },
+    {
+      "code": 5207062002,
+      "name": "Mantar"
+    },
+    {
+      "code": 5207062003,
+      "name": "Kiantar"
+    },
+    {
+      "code": 5207062004,
+      "name": "Poto Tano"
+    },
+    {
+      "code": 5207062005,
+      "name": "UPT Tambak Sari"
+    },
+    {
+      "code": 5207062006,
+      "name": "Kokarlian"
+    },
+    {
+      "code": 5207062007,
+      "name": "Tebo"
+    },
+    {
+      "code": 5207062008,
+      "name": "Tuananga"
+    }
+  ]
+}

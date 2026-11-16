@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202202001,
+      "name": "Waluran"
+    },
+    {
+      "code": 3202202002,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3202202003,
+      "name": "Caringinnunggal"
+    },
+    {
+      "code": 3202202004,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3202202005,
+      "name": "Mangunjaya"
+    },
+    {
+      "code": 3202202006,
+      "name": "Waluran Mandiri"
+    }
+  ]
+}

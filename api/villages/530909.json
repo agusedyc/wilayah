@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 5309091010,
+      "name": "Benteng Tengah"
+    },
+    {
+      "code": 5309091011,
+      "name": "Nangamese"
+    },
+    {
+      "code": 5309092005,
+      "name": "Taenterong"
+    },
+    {
+      "code": 5309092006,
+      "name": "Wangka"
+    },
+    {
+      "code": 5309092008,
+      "name": "Lengkosambi"
+    },
+    {
+      "code": 5309092009,
+      "name": "Tadho"
+    },
+    {
+      "code": 5309092012,
+      "name": "Sambinasi"
+    },
+    {
+      "code": 5309092013,
+      "name": "Latung"
+    },
+    {
+      "code": 5309092014,
+      "name": "Rawangkalo"
+    },
+    {
+      "code": 5309092016,
+      "name": "Wangka Selatan"
+    },
+    {
+      "code": 5309092017,
+      "name": "Lengkosambi Timur"
+    },
+    {
+      "code": 5309092018,
+      "name": "Lengkosambi Barat"
+    },
+    {
+      "code": 5309092019,
+      "name": "Sambinasi Barat"
+    },
+    {
+      "code": 5309092020,
+      "name": "Lengkosambi Utara"
+    },
+    {
+      "code": 5309092021,
+      "name": "Taen Terong I"
+    },
+    {
+      "code": 5309092022,
+      "name": "Taen Terong II"
+    },
+    {
+      "code": 5309092023,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 5309092024,
+      "name": "Ite Jaya"
+    },
+    {
+      "code": 5309092025,
+      "name": "Wangka Barat"
+    },
+    {
+      "code": 5309092026,
+      "name": "Lengkosambi Tengah"
+    },
+    {
+      "code": 5309092027,
+      "name": "Tadho Timur"
+    },
+    {
+      "code": 5309092028,
+      "name": "Tadho Barat"
+    },
+    {
+      "code": 5309092029,
+      "name": "Tadho Tengah"
+    },
+    {
+      "code": 5309092030,
+      "name": "Sambinasi Tengah"
+    },
+    {
+      "code": 5309092031,
+      "name": "Latung Barat"
+    },
+    {
+      "code": 5309092032,
+      "name": "Rawangkalo I"
+    },
+    {
+      "code": 5309092033,
+      "name": "Rawangkalo II"
+    },
+    {
+      "code": 5309092034,
+      "name": "Wakamanga"
+    },
+    {
+      "code": 5309092035,
+      "name": "Lengkosambi Barat Daya"
+    }
+  ]
+}

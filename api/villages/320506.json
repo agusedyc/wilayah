@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3205062001,
+      "name": "Banyuresmi"
+    },
+    {
+      "code": 3205062002,
+      "name": "Cimareme"
+    },
+    {
+      "code": 3205062003,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3205062004,
+      "name": "Sukasenang"
+    },
+    {
+      "code": 3205062005,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3205062006,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3205062007,
+      "name": "Dangdeur"
+    },
+    {
+      "code": 3205062008,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 3205062009,
+      "name": "Pamekarsari"
+    },
+    {
+      "code": 3205062010,
+      "name": "Binakarya"
+    },
+    {
+      "code": 3205062011,
+      "name": "Bagendit"
+    },
+    {
+      "code": 3205062012,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3205062013,
+      "name": "Karyasari"
+    },
+    {
+      "code": 3205062014,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3205062015,
+      "name": "Sukalaksana"
+    }
+  ]
+}

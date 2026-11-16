@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5302042001,
+      "name": "Billa"
+    },
+    {
+      "code": 5302042002,
+      "name": "Oelet"
+    },
+    {
+      "code": 5302042004,
+      "name": "Pisan"
+    },
+    {
+      "code": 5302042005,
+      "name": "Mauleum"
+    },
+    {
+      "code": 5302042007,
+      "name": "Nifukiu"
+    },
+    {
+      "code": 5302042008,
+      "name": "Mnelaanen"
+    },
+    {
+      "code": 5302042009,
+      "name": "Teluk"
+    },
+    {
+      "code": 5302042012,
+      "name": "Oe'Ekam"
+    },
+    {
+      "code": 5302042016,
+      "name": "Sini"
+    },
+    {
+      "code": 5302042017,
+      "name": "Tliu"
+    }
+  ]
+}

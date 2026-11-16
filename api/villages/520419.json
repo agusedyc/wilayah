@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5204192001,
+      "name": "Labangka"
+    },
+    {
+      "code": 5204192002,
+      "name": "Sekokat"
+    },
+    {
+      "code": 5204192003,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 5204192004,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 5204192005,
+      "name": "Jaya Makmur"
+    }
+  ]
+}

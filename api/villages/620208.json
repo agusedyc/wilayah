@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6202081008,
+      "name": "Samuda Kota"
+    },
+    {
+      "code": 6202081009,
+      "name": "Basirih Hilir"
+    },
+    {
+      "code": 6202082005,
+      "name": "Sebamban"
+    },
+    {
+      "code": 6202082006,
+      "name": "Samuda Besar"
+    },
+    {
+      "code": 6202082007,
+      "name": "Samuda Kecil"
+    },
+    {
+      "code": 6202082010,
+      "name": "Jaya Kelapa"
+    },
+    {
+      "code": 6202082011,
+      "name": "Basirih Hulu"
+    },
+    {
+      "code": 6202082012,
+      "name": "Jaya Karet"
+    },
+    {
+      "code": 6202082013,
+      "name": "Handil Sohor"
+    },
+    {
+      "code": 6202082014,
+      "name": "Sei Ijum Raya"
+    }
+  ]
+}

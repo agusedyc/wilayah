@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7271031001,
+      "name": "Tatura Utara"
+    },
+    {
+      "code": 7271031002,
+      "name": "Birobuli Utara"
+    },
+    {
+      "code": 7271031003,
+      "name": "Petobo"
+    },
+    {
+      "code": 7271031011,
+      "name": "Birobuli Selatan"
+    },
+    {
+      "code": 7271031012,
+      "name": "Tatura Selatan"
+    }
+  ]
+}

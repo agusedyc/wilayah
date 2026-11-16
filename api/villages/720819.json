@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7208192001,
+      "name": "Avolua"
+    },
+    {
+      "code": 7208192002,
+      "name": "Toboli"
+    },
+    {
+      "code": 7208192003,
+      "name": "Toboli Barat"
+    },
+    {
+      "code": 7208192004,
+      "name": "Pangi"
+    },
+    {
+      "code": 7208192005,
+      "name": "Sakinah Jaya"
+    }
+  ]
+}

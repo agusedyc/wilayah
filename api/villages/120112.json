@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1201121007,
+      "name": "Rina Bolak"
+    },
+    {
+      "code": 1201122001,
+      "name": "Sijungkang"
+    },
+    {
+      "code": 1201122002,
+      "name": "Pangaribuan"
+    },
+    {
+      "code": 1201122003,
+      "name": "Sogar"
+    },
+    {
+      "code": 1201122004,
+      "name": "Sirami Ramian"
+    },
+    {
+      "code": 1201122005,
+      "name": "Sigolang"
+    },
+    {
+      "code": 1201122006,
+      "name": "Sosor Gonting"
+    },
+    {
+      "code": 1201122008,
+      "name": "Bondar Sihudon I"
+    },
+    {
+      "code": 1201122009,
+      "name": "Uratan"
+    },
+    {
+      "code": 1201122010,
+      "name": "Ladang Tengah"
+    },
+    {
+      "code": 1201122011,
+      "name": "Lobu Tua"
+    },
+    {
+      "code": 1201122012,
+      "name": "Bondar Sihudon II"
+    },
+    {
+      "code": 1201122013,
+      "name": "Sitiris-Tiris"
+    },
+    {
+      "code": 1201122014,
+      "name": "Sawah Lamo"
+    }
+  ]
+}

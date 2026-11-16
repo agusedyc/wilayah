@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1101082001,
+      "name": "Lhok Keutapang"
+    },
+    {
+      "code": 1101082002,
+      "name": "Hilir"
+    },
+    {
+      "code": 1101082003,
+      "name": "Padang"
+    },
+    {
+      "code": 1101082004,
+      "name": "Hulu"
+    },
+    {
+      "code": 1101082005,
+      "name": "Jambo Apha"
+    },
+    {
+      "code": 1101082006,
+      "name": "Tepi Air"
+    },
+    {
+      "code": 1101082007,
+      "name": "Pasar"
+    },
+    {
+      "code": 1101082008,
+      "name": "Lhok Bengkuang"
+    },
+    {
+      "code": 1101082009,
+      "name": "Panton Luas"
+    },
+    {
+      "code": 1101082010,
+      "name": "Gunung Kerambil"
+    },
+    {
+      "code": 1101082011,
+      "name": "Air Berudang"
+    },
+    {
+      "code": 1101082012,
+      "name": "Batu Itam"
+    },
+    {
+      "code": 1101082013,
+      "name": "Panjupian"
+    },
+    {
+      "code": 1101082014,
+      "name": "Lhok Rukam"
+    },
+    {
+      "code": 1101082015,
+      "name": "Air Pinang"
+    },
+    {
+      "code": 1101082016,
+      "name": "Lhok Bengkuang Timur"
+    }
+  ]
+}

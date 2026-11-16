@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3510092001,
+      "name": "Kembiritan"
+    },
+    {
+      "code": 3510092002,
+      "name": "Genteng Wetan"
+    },
+    {
+      "code": 3510092003,
+      "name": "Genteng Kulon"
+    },
+    {
+      "code": 3510092004,
+      "name": "Setail"
+    },
+    {
+      "code": 3510092005,
+      "name": "Kaligondo"
+    }
+  ]
+}

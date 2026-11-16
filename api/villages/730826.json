@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7308262001,
+      "name": "Samaenre"
+    },
+    {
+      "code": 7308262002,
+      "name": "Tungke"
+    },
+    {
+      "code": 7308262003,
+      "name": "Selli"
+    },
+    {
+      "code": 7308262004,
+      "name": "Bengo"
+    },
+    {
+      "code": 7308262005,
+      "name": "Mattaropuli"
+    },
+    {
+      "code": 7308262006,
+      "name": "Lili Riawang"
+    },
+    {
+      "code": 7308262007,
+      "name": "Walimpong"
+    },
+    {
+      "code": 7308262008,
+      "name": "Bulu Allaporenge"
+    },
+    {
+      "code": 7308262009,
+      "name": "Mattirowalie"
+    }
+  ]
+}

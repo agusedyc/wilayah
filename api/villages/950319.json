@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9503192001,
+      "name": "Ukha"
+    },
+    {
+      "code": 9503192002,
+      "name": "Kuleken"
+    },
+    {
+      "code": 9503192003,
+      "name": "Amisangi"
+    },
+    {
+      "code": 9503192004,
+      "name": "Wenapuk"
+    },
+    {
+      "code": 9503192005,
+      "name": "Eki"
+    },
+    {
+      "code": 9503192006,
+      "name": "Yelepunu"
+    },
+    {
+      "code": 9503192007,
+      "name": "Siolorema"
+    },
+    {
+      "code": 9503192008,
+      "name": "Musanarek"
+    },
+    {
+      "code": 9503192009,
+      "name": "Walialema"
+    },
+    {
+      "code": 9503192010,
+      "name": "Lua"
+    },
+    {
+      "code": 9503192022,
+      "name": "Wakunyama"
+    }
+  ]
+}

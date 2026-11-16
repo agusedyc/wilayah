@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1810072001,
+      "name": "Adiluwih"
+    },
+    {
+      "code": 1810072002,
+      "name": "Bandung Baru"
+    },
+    {
+      "code": 1810072003,
+      "name": "Sinarwayah"
+    },
+    {
+      "code": 1810072004,
+      "name": "Enggal Rejo"
+    },
+    {
+      "code": 1810072005,
+      "name": "Sukoharum"
+    },
+    {
+      "code": 1810072006,
+      "name": "Waringin Sari Timur"
+    },
+    {
+      "code": 1810072007,
+      "name": "Tri Tunggal Mulya"
+    },
+    {
+      "code": 1810072008,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1810072009,
+      "name": "Srikaton"
+    },
+    {
+      "code": 1810072010,
+      "name": "Tunggul Pawenang"
+    },
+    {
+      "code": 1810072011,
+      "name": "Bandung Baru Barat"
+    },
+    {
+      "code": 1810072012,
+      "name": "Totokarto"
+    },
+    {
+      "code": 1810072013,
+      "name": "Kuta Waringin"
+    }
+  ]
+}

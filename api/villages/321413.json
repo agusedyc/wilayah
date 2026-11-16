@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3214132001,
+      "name": "Ciwangi"
+    },
+    {
+      "code": 3214132002,
+      "name": "Cibening"
+    },
+    {
+      "code": 3214132003,
+      "name": "Bungursari"
+    },
+    {
+      "code": 3214132004,
+      "name": "Dangdeur"
+    },
+    {
+      "code": 3214132005,
+      "name": "Cibungur"
+    },
+    {
+      "code": 3214132006,
+      "name": "Wanakerta"
+    },
+    {
+      "code": 3214132007,
+      "name": "Cinangka"
+    },
+    {
+      "code": 3214132008,
+      "name": "Cikopo"
+    },
+    {
+      "code": 3214132009,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3214132010,
+      "name": "Karangmukti"
+    }
+  ]
+}

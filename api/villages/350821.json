@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3508212001,
+      "name": "Sumbersuko"
+    },
+    {
+      "code": 3508212002,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3508212003,
+      "name": "Grati"
+    },
+    {
+      "code": 3508212004,
+      "name": "Labruk Kidul"
+    },
+    {
+      "code": 3508212005,
+      "name": "Mojosari"
+    },
+    {
+      "code": 3508212006,
+      "name": "Sentul"
+    },
+    {
+      "code": 3508212007,
+      "name": "Purwosono"
+    },
+    {
+      "code": 3508212008,
+      "name": "Petahunan"
+    }
+  ]
+}

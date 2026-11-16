@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3218082001,
+      "name": "Putrapinggan"
+    },
+    {
+      "code": 3218082002,
+      "name": "Emplak"
+    },
+    {
+      "code": 3218082003,
+      "name": "Bagolo"
+    },
+    {
+      "code": 3218082004,
+      "name": "Pamotan"
+    },
+    {
+      "code": 3218082005,
+      "name": "Kalipucang"
+    },
+    {
+      "code": 3218082006,
+      "name": "Cibuluh"
+    },
+    {
+      "code": 3218082007,
+      "name": "Banjarharja"
+    },
+    {
+      "code": 3218082008,
+      "name": "Tunggilis"
+    },
+    {
+      "code": 3218082009,
+      "name": "Ciparakan"
+    }
+  ]
+}

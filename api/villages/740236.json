@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7402362001,
+      "name": "Toli Toli"
+    },
+    {
+      "code": 7402362002,
+      "name": "Nii Tanasa"
+    },
+    {
+      "code": 7402362003,
+      "name": "Rapambinopaka"
+    },
+    {
+      "code": 7402362004,
+      "name": "Lalombonda"
+    },
+    {
+      "code": 7402362005,
+      "name": "Puuwonua"
+    },
+    {
+      "code": 7402362006,
+      "name": "Bumi Indah"
+    },
+    {
+      "code": 7402362007,
+      "name": "Lolanggasumeeto"
+    },
+    {
+      "code": 7402362008,
+      "name": "Toolawawo"
+    },
+    {
+      "code": 7402362010,
+      "name": "Wawobungi"
+    },
+    {
+      "code": 7402362011,
+      "name": "Batu Gong"
+    },
+    {
+      "code": 7402362012,
+      "name": "Watunggarandu"
+    }
+  ]
+}

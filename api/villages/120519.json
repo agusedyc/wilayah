@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1205191001,
+      "name": "Batang Serangan"
+    },
+    {
+      "code": 1205192002,
+      "name": "Sei Bamban"
+    },
+    {
+      "code": 1205192003,
+      "name": "Sei Musam"
+    },
+    {
+      "code": 1205192004,
+      "name": "Sei Serdang"
+    },
+    {
+      "code": 1205192005,
+      "name": "Namo Sialang"
+    },
+    {
+      "code": 1205192006,
+      "name": "Kwala Musam"
+    },
+    {
+      "code": 1205192007,
+      "name": "Karya Jadi"
+    },
+    {
+      "code": 1205192008,
+      "name": "Paluh Pakeh Babussalam"
+    }
+  ]
+}

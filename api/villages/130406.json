@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1304062001,
+      "name": "Taluk"
+    },
+    {
+      "code": 1304062002,
+      "name": "Buo"
+    },
+    {
+      "code": 1304062003,
+      "name": "Tigo Jangko"
+    },
+    {
+      "code": 1304062004,
+      "name": "Pangian"
+    }
+  ]
+}

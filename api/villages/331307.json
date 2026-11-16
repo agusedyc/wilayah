@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3313072001,
+      "name": "Puntukrejo"
+    },
+    {
+      "code": 3313072002,
+      "name": "Berjo"
+    },
+    {
+      "code": 3313072003,
+      "name": "Girimulyo"
+    },
+    {
+      "code": 3313072004,
+      "name": "Segorogunung"
+    },
+    {
+      "code": 3313072005,
+      "name": "Kemuning"
+    },
+    {
+      "code": 3313072006,
+      "name": "Nglegok"
+    },
+    {
+      "code": 3313072007,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3313072008,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3313072009,
+      "name": "Ngargoyoso"
+    }
+  ]
+}

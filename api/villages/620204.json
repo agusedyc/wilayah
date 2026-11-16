@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6202041004,
+      "name": "Parenggean"
+    },
+    {
+      "code": 6202042001,
+      "name": "Tehang"
+    },
+    {
+      "code": 6202042002,
+      "name": "Kabuau"
+    },
+    {
+      "code": 6202042007,
+      "name": "Barunang Miri"
+    },
+    {
+      "code": 6202042009,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 6202042010,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6202042011,
+      "name": "Karang Tunggal"
+    },
+    {
+      "code": 6202042012,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 6202042013,
+      "name": "Beringin Tunggal Jaya"
+    },
+    {
+      "code": 6202042015,
+      "name": "Sari Harapan"
+    },
+    {
+      "code": 6202042016,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 6202042019,
+      "name": "Bajarau"
+    },
+    {
+      "code": 6202042023,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 6202042024,
+      "name": "Manjalin"
+    },
+    {
+      "code": 6202042025,
+      "name": "Karya Bersama"
+    }
+  ]
+}

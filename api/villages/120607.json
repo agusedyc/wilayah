@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1206072001,
+      "name": "Juhar Perangin-angin"
+    },
+    {
+      "code": 1206072002,
+      "name": "Lau Lingga"
+    },
+    {
+      "code": 1206072003,
+      "name": "Kidupen"
+    },
+    {
+      "code": 1206072004,
+      "name": "Namosuro"
+    },
+    {
+      "code": 1206072005,
+      "name": "Bekilang"
+    },
+    {
+      "code": 1206072006,
+      "name": "Sugihen"
+    },
+    {
+      "code": 1206072007,
+      "name": "Pernantin"
+    },
+    {
+      "code": 1206072008,
+      "name": "Nageri"
+    },
+    {
+      "code": 1206072009,
+      "name": "Juhar Ginting"
+    },
+    {
+      "code": 1206072010,
+      "name": "Juhar Tarigan"
+    },
+    {
+      "code": 1206072011,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1206072012,
+      "name": "Batu Mamak"
+    },
+    {
+      "code": 1206072013,
+      "name": "Naga"
+    },
+    {
+      "code": 1206072014,
+      "name": "Kutambelin"
+    },
+    {
+      "code": 1206072015,
+      "name": "Mbetong"
+    },
+    {
+      "code": 1206072016,
+      "name": "Keriahen"
+    },
+    {
+      "code": 1206072017,
+      "name": "Gunung Juhar"
+    },
+    {
+      "code": 1206072018,
+      "name": "Ketawaren"
+    },
+    {
+      "code": 1206072019,
+      "name": "Jandi"
+    },
+    {
+      "code": 1206072020,
+      "name": "Buluh Pancur"
+    },
+    {
+      "code": 1206072021,
+      "name": "Kutagugung"
+    },
+    {
+      "code": 1206072022,
+      "name": "Sukababo"
+    },
+    {
+      "code": 1206072023,
+      "name": "Lau Kidupen"
+    },
+    {
+      "code": 1206072024,
+      "name": "Sigenderang"
+    },
+    {
+      "code": 1206072025,
+      "name": "Juhar Ginting Sadanioga"
+    }
+  ]
+}

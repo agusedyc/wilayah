@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3508012001,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3508012002,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3508012003,
+      "name": "Purorejo"
+    },
+    {
+      "code": 3508012004,
+      "name": "Tempurejo"
+    },
+    {
+      "code": 3508012005,
+      "name": "Tempursari"
+    },
+    {
+      "code": 3508012006,
+      "name": "Pundungsari"
+    },
+    {
+      "code": 3508012007,
+      "name": "Kaliuling"
+    }
+  ]
+}

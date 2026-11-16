@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7202211001,
+      "name": "Sayo"
+    },
+    {
+      "code": 7202211002,
+      "name": "Bukit Bambu"
+    },
+    {
+      "code": 7202211003,
+      "name": "Kawua"
+    },
+    {
+      "code": 7202211004,
+      "name": "Ronononcu"
+    },
+    {
+      "code": 7202211005,
+      "name": "Lembomawo"
+    }
+  ]
+}

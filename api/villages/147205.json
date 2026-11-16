@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1472051001,
+      "name": "Teluk Makmur"
+    },
+    {
+      "code": 1472051002,
+      "name": "Mundam"
+    },
+    {
+      "code": 1472051003,
+      "name": "Guntung"
+    },
+    {
+      "code": 1472051004,
+      "name": "Pelintung"
+    }
+  ]
+}

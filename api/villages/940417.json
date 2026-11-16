@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9404172001,
+      "name": "Amar"
+    },
+    {
+      "code": 9404172002,
+      "name": "Kawar"
+    },
+    {
+      "code": 9404172003,
+      "name": "Manuare"
+    },
+    {
+      "code": 9404172004,
+      "name": "Ipiri"
+    },
+    {
+      "code": 9404172005,
+      "name": "Paripi"
+    },
+    {
+      "code": 9404172006,
+      "name": "Yaraya"
+    }
+  ]
+}

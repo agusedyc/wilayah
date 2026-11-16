@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7105101004,
+      "name": "Buyungon"
+    },
+    {
+      "code": 7105101005,
+      "name": "Ranoyapo"
+    },
+    {
+      "code": 7105101006,
+      "name": "Uwuran I"
+    },
+    {
+      "code": 7105101007,
+      "name": "Uwuran II"
+    },
+    {
+      "code": 7105101008,
+      "name": "Lewet"
+    },
+    {
+      "code": 7105101010,
+      "name": "Bitung"
+    },
+    {
+      "code": 7105102009,
+      "name": "Ranoketang Tua"
+    },
+    {
+      "code": 7105102018,
+      "name": "Kilometer 3"
+    }
+  ]
+}

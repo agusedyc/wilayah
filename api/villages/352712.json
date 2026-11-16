@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3527122001,
+      "name": "Paopale Laok"
+    },
+    {
+      "code": 3527122002,
+      "name": "Bunten Barat"
+    },
+    {
+      "code": 3527122003,
+      "name": "Bunten Timur"
+    },
+    {
+      "code": 3527122004,
+      "name": "Pancor"
+    },
+    {
+      "code": 3527122005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3527122006,
+      "name": "Pangereman"
+    },
+    {
+      "code": 3527122007,
+      "name": "Bira Barat"
+    },
+    {
+      "code": 3527122008,
+      "name": "Ketapang Timur"
+    },
+    {
+      "code": 3527122009,
+      "name": "Ketapang Daya"
+    },
+    {
+      "code": 3527122010,
+      "name": "Ketapang Laok"
+    },
+    {
+      "code": 3527122011,
+      "name": "Ketapang Barat"
+    },
+    {
+      "code": 3527122012,
+      "name": "Paopale Daya"
+    },
+    {
+      "code": 3527122013,
+      "name": "Rabiyan"
+    },
+    {
+      "code": 3527122014,
+      "name": "Banyusokah"
+    }
+  ]
+}

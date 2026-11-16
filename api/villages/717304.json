@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7173041001,
+      "name": "Woloan Satu"
+    },
+    {
+      "code": 7173041002,
+      "name": "Woloan Dua"
+    },
+    {
+      "code": 7173041003,
+      "name": "Woloan Tiga"
+    },
+    {
+      "code": 7173041004,
+      "name": "Taratara Satu"
+    },
+    {
+      "code": 7173041005,
+      "name": "Taratara Dua"
+    },
+    {
+      "code": 7173041006,
+      "name": "Woloan Satu Utara"
+    },
+    {
+      "code": 7173041007,
+      "name": "Taratara"
+    },
+    {
+      "code": 7173041008,
+      "name": "Taratara Tiga"
+    }
+  ]
+}

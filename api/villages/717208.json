@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7172081001,
+      "name": "Mawali"
+    },
+    {
+      "code": 7172081002,
+      "name": "Pintukota"
+    },
+    {
+      "code": 7172081003,
+      "name": "Binuang"
+    },
+    {
+      "code": 7172081004,
+      "name": "Motto"
+    },
+    {
+      "code": 7172081005,
+      "name": "Lirang"
+    },
+    {
+      "code": 7172081006,
+      "name": "Posokan"
+    },
+    {
+      "code": 7172081007,
+      "name": "Nusu"
+    },
+    {
+      "code": 7172081008,
+      "name": "Kareko"
+    },
+    {
+      "code": 7172081009,
+      "name": "Gunung Woka"
+    },
+    {
+      "code": 7172081010,
+      "name": "Batukota"
+    }
+  ]
+}

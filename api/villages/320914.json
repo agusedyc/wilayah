@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3209142001,
+      "name": "Sampiran"
+    },
+    {
+      "code": 3209142002,
+      "name": "Ciperna"
+    },
+    {
+      "code": 3209142003,
+      "name": "Kecomberan"
+    },
+    {
+      "code": 3209142004,
+      "name": "Cirebon Girang"
+    },
+    {
+      "code": 3209142005,
+      "name": "Kerandon"
+    },
+    {
+      "code": 3209142006,
+      "name": "Wanasaba Kidul"
+    },
+    {
+      "code": 3209142007,
+      "name": "Wanasaba Lor"
+    },
+    {
+      "code": 3209142008,
+      "name": "Cempaka"
+    },
+    {
+      "code": 3209142009,
+      "name": "Kepongpongan"
+    },
+    {
+      "code": 3209142010,
+      "name": "Sarwadadi"
+    },
+    {
+      "code": 3209142011,
+      "name": "Kubang"
+    }
+  ]
+}

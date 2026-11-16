@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3502202001,
+      "name": "Jonggol"
+    },
+    {
+      "code": 3502202002,
+      "name": "Poko"
+    },
+    {
+      "code": 3502202003,
+      "name": "Sendang"
+    },
+    {
+      "code": 3502202004,
+      "name": "Bringinan"
+    },
+    {
+      "code": 3502202005,
+      "name": "Karanglo Kidul"
+    },
+    {
+      "code": 3502202006,
+      "name": "Krebet"
+    },
+    {
+      "code": 3502202007,
+      "name": "Bulu Lor"
+    },
+    {
+      "code": 3502202008,
+      "name": "Jambon"
+    },
+    {
+      "code": 3502202009,
+      "name": "Blembem"
+    },
+    {
+      "code": 3502202010,
+      "name": "Pulosari"
+    },
+    {
+      "code": 3502202011,
+      "name": "Menang"
+    },
+    {
+      "code": 3502202012,
+      "name": "Srandil"
+    },
+    {
+      "code": 3502202013,
+      "name": "Sidoharjo"
+    }
+  ]
+}

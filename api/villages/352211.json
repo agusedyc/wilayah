@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 3522112001,
+      "name": "Semambung"
+    },
+    {
+      "code": 3522112002,
+      "name": "Kanor"
+    },
+    {
+      "code": 3522112003,
+      "name": "Tambahrejo"
+    },
+    {
+      "code": 3522112004,
+      "name": "Piyak"
+    },
+    {
+      "code": 3522112005,
+      "name": "Kabalan"
+    },
+    {
+      "code": 3522112006,
+      "name": "Cangaan"
+    },
+    {
+      "code": 3522112007,
+      "name": "Sarangan"
+    },
+    {
+      "code": 3522112008,
+      "name": "Tejo"
+    },
+    {
+      "code": 3522112009,
+      "name": "Simbatan"
+    },
+    {
+      "code": 3522112010,
+      "name": "Pesen"
+    },
+    {
+      "code": 3522112011,
+      "name": "Samberan"
+    },
+    {
+      "code": 3522112012,
+      "name": "Palembon"
+    },
+    {
+      "code": 3522112013,
+      "name": "Sedeng"
+    },
+    {
+      "code": 3522112014,
+      "name": "Caruban"
+    },
+    {
+      "code": 3522112015,
+      "name": "Sumberwangi"
+    },
+    {
+      "code": 3522112016,
+      "name": "Prigi"
+    },
+    {
+      "code": 3522112017,
+      "name": "Pilang"
+    },
+    {
+      "code": 3522112018,
+      "name": "Gedongarum"
+    },
+    {
+      "code": 3522112019,
+      "name": "Kedungprimpen"
+    },
+    {
+      "code": 3522112020,
+      "name": "Temu"
+    },
+    {
+      "code": 3522112021,
+      "name": "Simorejo"
+    },
+    {
+      "code": 3522112022,
+      "name": "Bungur"
+    },
+    {
+      "code": 3522112023,
+      "name": "Bakung"
+    },
+    {
+      "code": 3522112024,
+      "name": "Nglarangan"
+    },
+    {
+      "code": 3522112025,
+      "name": "Sroyo"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1906062001,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1906062002,
+      "name": "Renggiang"
+    },
+    {
+      "code": 1906062003,
+      "name": "Aik Madu"
+    },
+    {
+      "code": 1906062004,
+      "name": "Lintang"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1101132001,
+      "name": "Koto"
+    },
+    {
+      "code": 1101132002,
+      "name": "Alur Keujrun"
+    },
+    {
+      "code": 1101132003,
+      "name": "Jambo Papan"
+    },
+    {
+      "code": 1101132004,
+      "name": "Malaka"
+    },
+    {
+      "code": 1101132005,
+      "name": "Koto Indarung"
+    },
+    {
+      "code": 1101132006,
+      "name": "Siurai-Urai"
+    },
+    {
+      "code": 1101132007,
+      "name": "Kampung Sawah"
+    },
+    {
+      "code": 1101132008,
+      "name": "Kampung Padang"
+    },
+    {
+      "code": 1101132009,
+      "name": "Pulo Air"
+    },
+    {
+      "code": 1101132010,
+      "name": "Lawe Melang"
+    },
+    {
+      "code": 1101132011,
+      "name": "Mersak"
+    },
+    {
+      "code": 1101132012,
+      "name": "Simpang Dua"
+    },
+    {
+      "code": 1101132013,
+      "name": "Simpang Tiga"
+    }
+  ]
+}

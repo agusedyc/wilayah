@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6112022001,
+      "name": "Kuala Mandor B"
+    },
+    {
+      "code": 6112022002,
+      "name": "Kubu Padi"
+    },
+    {
+      "code": 6112022003,
+      "name": "Kuala Mandor A"
+    },
+    {
+      "code": 6112022004,
+      "name": "Retok"
+    },
+    {
+      "code": 6112022005,
+      "name": "Sungai Enau"
+    },
+    {
+      "code": 6112022006,
+      "name": "Padi Jaya"
+    }
+  ]
+}

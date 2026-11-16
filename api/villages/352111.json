@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3521112001,
+      "name": "Begal"
+    },
+    {
+      "code": 3521112002,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3521112003,
+      "name": "Katikan"
+    },
+    {
+      "code": 3521112004,
+      "name": "Pelang Kidul"
+    },
+    {
+      "code": 3521112005,
+      "name": "Kedunggalar"
+    },
+    {
+      "code": 3521112006,
+      "name": "Jatigembol"
+    },
+    {
+      "code": 3521112007,
+      "name": "Pelang Lor"
+    },
+    {
+      "code": 3521112008,
+      "name": "Bangunrejo Kidul"
+    },
+    {
+      "code": 3521112009,
+      "name": "Jenggrik"
+    },
+    {
+      "code": 3521112010,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3521112011,
+      "name": "Gemarang"
+    },
+    {
+      "code": 3521112012,
+      "name": "Kawu"
+    }
+  ]
+}

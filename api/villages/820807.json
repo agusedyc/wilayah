@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8208072001,
+      "name": "Bahu"
+    },
+    {
+      "code": 8208072002,
+      "name": "Bapenu"
+    },
+    {
+      "code": 8208072003,
+      "name": "Kilo"
+    },
+    {
+      "code": 8208072004,
+      "name": "Pancado"
+    },
+    {
+      "code": 8208072005,
+      "name": "Nggaki"
+    },
+    {
+      "code": 8208072006,
+      "name": "Sumbong"
+    },
+    {
+      "code": 8208072007,
+      "name": "Maluli"
+    },
+    {
+      "code": 8208072008,
+      "name": "Galebo"
+    },
+    {
+      "code": 8208072009,
+      "name": "Nggoli"
+    }
+  ]
+}

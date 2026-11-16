@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1208222001,
+      "name": "Naga Jaya I"
+    },
+    {
+      "code": 1208222002,
+      "name": "Bah Gunung"
+    },
+    {
+      "code": 1208222003,
+      "name": "Bandar Tongah"
+    },
+    {
+      "code": 1208222004,
+      "name": "Dolog Parmonangan"
+    },
+    {
+      "code": 1208222005,
+      "name": "Laras"
+    },
+    {
+      "code": 1208222006,
+      "name": "Naga Jaya II"
+    },
+    {
+      "code": 1208222007,
+      "name": "Tanjung Hataran"
+    },
+    {
+      "code": 1208222008,
+      "name": "Bandar Betsy I"
+    },
+    {
+      "code": 1208222009,
+      "name": "Bandar Betsy II"
+    },
+    {
+      "code": 1208222010,
+      "name": "Naga Soppa"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1305022001,
+      "name": "Katapiang"
+    },
+    {
+      "code": 1305022002,
+      "name": "Kasang"
+    },
+    {
+      "code": 1305022003,
+      "name": "Sungai Buluah"
+    },
+    {
+      "code": 1305022004,
+      "name": "Buayan Lubuk Alung"
+    },
+    {
+      "code": 1305022005,
+      "name": "Sungai Buluah Timur"
+    },
+    {
+      "code": 1305022006,
+      "name": "Sungai Buluah Barat"
+    },
+    {
+      "code": 1305022007,
+      "name": "Sungai Buluah Utara"
+    },
+    {
+      "code": 1305022008,
+      "name": "Sungai Buluah Selatan"
+    }
+  ]
+}

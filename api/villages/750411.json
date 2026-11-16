@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7504112001,
+      "name": "Wonggarasi Timur"
+    },
+    {
+      "code": 7504112002,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 7504112003,
+      "name": "Bohusami"
+    },
+    {
+      "code": 7504112004,
+      "name": "Lembah Permai"
+    },
+    {
+      "code": 7504112005,
+      "name": "Limbula"
+    },
+    {
+      "code": 7504112006,
+      "name": "Yipilo"
+    },
+    {
+      "code": 7504112007,
+      "name": "Tuweya"
+    }
+  ]
+}

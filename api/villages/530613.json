@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5306132001,
+      "name": "Bedalewun"
+    },
+    {
+      "code": 5306132002,
+      "name": "Nihaone"
+    },
+    {
+      "code": 5306132003,
+      "name": "Lewobelolong"
+    },
+    {
+      "code": 5306132004,
+      "name": "Bungalawan"
+    },
+    {
+      "code": 5306132005,
+      "name": "Lamawolo"
+    },
+    {
+      "code": 5306132006,
+      "name": "Helanlangowuyo"
+    },
+    {
+      "code": 5306132007,
+      "name": "Lewopao"
+    },
+    {
+      "code": 5306132008,
+      "name": "Gayak"
+    },
+    {
+      "code": 5306132009,
+      "name": "Boleng"
+    },
+    {
+      "code": 5306132010,
+      "name": "Neleblolong"
+    },
+    {
+      "code": 5306132011,
+      "name": "Duablolong"
+    },
+    {
+      "code": 5306132012,
+      "name": "Lewokeleng"
+    },
+    {
+      "code": 5306132013,
+      "name": "Nelelamawangi"
+    },
+    {
+      "code": 5306132014,
+      "name": "Harubala"
+    },
+    {
+      "code": 5306132015,
+      "name": "Nelelamadike"
+    },
+    {
+      "code": 5306132016,
+      "name": "Lamabayung"
+    },
+    {
+      "code": 5306132017,
+      "name": "Lewat"
+    },
+    {
+      "code": 5306132018,
+      "name": "Dokeng"
+    },
+    {
+      "code": 5306132019,
+      "name": "Bajuntaa"
+    },
+    {
+      "code": 5306132020,
+      "name": "Nobo"
+    },
+    {
+      "code": 5306132021,
+      "name": "Nelelamawangi II"
+    }
+  ]
+}

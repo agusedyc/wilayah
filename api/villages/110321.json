@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1103212001,
+      "name": "Meudang Ara"
+    },
+    {
+      "code": 1103212002,
+      "name": "Gunong Putoh"
+    },
+    {
+      "code": 1103212003,
+      "name": "Meunasah Aroen"
+    },
+    {
+      "code": 1103212004,
+      "name": "Keude Dua"
+    },
+    {
+      "code": 1103212005,
+      "name": "Seuneubok Lapang"
+    },
+    {
+      "code": 1103212006,
+      "name": "Alue Jangat"
+    },
+    {
+      "code": 1103212007,
+      "name": "Buket Peulawi"
+    },
+    {
+      "code": 1103212008,
+      "name": "Lhok Panjoe"
+    },
+    {
+      "code": 1103212009,
+      "name": "Seuneubok Aceh Baro"
+    },
+    {
+      "code": 1103212010,
+      "name": "Pulo Blang"
+    },
+    {
+      "code": 1103212011,
+      "name": "Lhok Dalam"
+    },
+    {
+      "code": 1103212012,
+      "name": "Lhok Leumak"
+    },
+    {
+      "code": 1103212013,
+      "name": "Seuneubok Kulam"
+    },
+    {
+      "code": 1103212014,
+      "name": "Panton Meurebo"
+    },
+    {
+      "code": 1103212015,
+      "name": "Seuneubok Teungoh"
+    },
+    {
+      "code": 1103212016,
+      "name": "Lhok Meureu"
+    }
+  ]
+}

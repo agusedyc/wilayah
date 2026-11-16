@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9203032001,
+      "name": "Tunas Gain"
+    },
+    {
+      "code": 9203032003,
+      "name": "Urat"
+    },
+    {
+      "code": 9203032004,
+      "name": "Sanggram"
+    },
+    {
+      "code": 9203032010,
+      "name": "Weri"
+    },
+    {
+      "code": 9203032012,
+      "name": "Kiria Bisa"
+    },
+    {
+      "code": 9203032013,
+      "name": "Saharei"
+    }
+  ]
+}

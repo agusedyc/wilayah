@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7204092005,
+      "name": "Santigi"
+    },
+    {
+      "code": 7204092006,
+      "name": "Laulalang"
+    },
+    {
+      "code": 7204092007,
+      "name": "Salumpaga"
+    },
+    {
+      "code": 7204092008,
+      "name": "Diule"
+    },
+    {
+      "code": 7204092009,
+      "name": "Pinjan"
+    },
+    {
+      "code": 7204092010,
+      "name": "Binontoan"
+    },
+    {
+      "code": 7204092011,
+      "name": "Lakuan Tolitoli"
+    },
+    {
+      "code": 7204092012,
+      "name": "Timbolo"
+    },
+    {
+      "code": 7204092013,
+      "name": "Teluk Jaya"
+    },
+    {
+      "code": 7204092014,
+      "name": "Gio"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408182001,
+      "name": "Sika Makmur"
+    },
+    {
+      "code": 6408182002,
+      "name": "Segoy Makmur"
+    },
+    {
+      "code": 6408182003,
+      "name": "Mukti Utama"
+    },
+    {
+      "code": 6408182004,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6408182005,
+      "name": "Melan"
+    },
+    {
+      "code": 6408182006,
+      "name": "Tanah Abang"
+    },
+    {
+      "code": 6408182007,
+      "name": "Sumber Agung"
+    }
+  ]
+}

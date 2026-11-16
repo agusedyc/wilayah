@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3526102001,
+      "name": "Dupok"
+    },
+    {
+      "code": 3526102002,
+      "name": "Bandasoleh"
+    },
+    {
+      "code": 3526102003,
+      "name": "Batokorogan"
+    },
+    {
+      "code": 3526102004,
+      "name": "Tramok"
+    },
+    {
+      "code": 3526102005,
+      "name": "Katol Timur"
+    },
+    {
+      "code": 3526102006,
+      "name": "Lembung Gunong"
+    },
+    {
+      "code": 3526102007,
+      "name": "Ampara'an"
+    },
+    {
+      "code": 3526102008,
+      "name": "Kokop"
+    },
+    {
+      "code": 3526102009,
+      "name": "Tlokoh"
+    },
+    {
+      "code": 3526102010,
+      "name": "Durjan"
+    },
+    {
+      "code": 3526102011,
+      "name": "Mano'an"
+    },
+    {
+      "code": 3526102012,
+      "name": "Mandung"
+    },
+    {
+      "code": 3526102013,
+      "name": "Bandang Laok"
+    }
+  ]
+}

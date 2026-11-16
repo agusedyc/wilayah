@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7471091001,
+      "name": "Puuwatu"
+    },
+    {
+      "code": 7471091002,
+      "name": "Watulondo"
+    },
+    {
+      "code": 7471091003,
+      "name": "Punggolaka"
+    },
+    {
+      "code": 7471091004,
+      "name": "Tobuuha"
+    },
+    {
+      "code": 7471091005,
+      "name": "Abeli Dalam"
+    },
+    {
+      "code": 7471091006,
+      "name": "Lalodati"
+    }
+  ]
+}

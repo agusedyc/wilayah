@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1673021001,
+      "name": "Kayu Ara"
+    },
+    {
+      "code": 1673021002,
+      "name": "Lubuk Tanjung"
+    },
+    {
+      "code": 1673021003,
+      "name": "Tanjung Indah"
+    },
+    {
+      "code": 1673021004,
+      "name": "Bandung Ujung"
+    },
+    {
+      "code": 1673021008,
+      "name": "Bandung Kiri"
+    },
+    {
+      "code": 1673021009,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1673021010,
+      "name": "Muara Enim"
+    },
+    {
+      "code": 1673021015,
+      "name": "Watas Lubuk Durian"
+    },
+    {
+      "code": 1673021016,
+      "name": "Lubuk Aman"
+    },
+    {
+      "code": 1673021018,
+      "name": "Tanjung Aman"
+    },
+    {
+      "code": 1673021019,
+      "name": "Pelita Jaya"
+    }
+  ]
+}

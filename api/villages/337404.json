@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3374041001,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3374041002,
+      "name": "Kaligawe"
+    },
+    {
+      "code": 3374041003,
+      "name": "Sawah Besar"
+    },
+    {
+      "code": 3374041004,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3374041005,
+      "name": "Siwalan"
+    },
+    {
+      "code": 3374041006,
+      "name": "Pandean Lamper"
+    },
+    {
+      "code": 3374041007,
+      "name": "Gayamsari"
+    }
+  ]
+}

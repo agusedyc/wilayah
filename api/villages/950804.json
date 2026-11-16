@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9508042001,
+      "name": "Pilini"
+    },
+    {
+      "code": 9508042002,
+      "name": "Ndugwa"
+    },
+    {
+      "code": 9508042003,
+      "name": "Biala"
+    },
+    {
+      "code": 9508042004,
+      "name": "Bambisik"
+    },
+    {
+      "code": 9508042005,
+      "name": "Sitpogol"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3603292001,
+      "name": "Sindang Jaya"
+    },
+    {
+      "code": 3603292002,
+      "name": "Wanakerta"
+    },
+    {
+      "code": 3603292003,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3603292004,
+      "name": "Sindangasih"
+    },
+    {
+      "code": 3603292005,
+      "name": "Sindangpanon"
+    },
+    {
+      "code": 3603292006,
+      "name": "Sindangsono"
+    },
+    {
+      "code": 3603292007,
+      "name": "Badak Anom"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9603022001,
+      "name": "Kabare"
+    },
+    {
+      "code": 9603022002,
+      "name": "Andey"
+    },
+    {
+      "code": 9603022003,
+      "name": "Asukweri"
+    },
+    {
+      "code": 9603022004,
+      "name": "Bonsayor"
+    },
+    {
+      "code": 9603022005,
+      "name": "Darumbab"
+    },
+    {
+      "code": 9603022006,
+      "name": "Kalisade"
+    }
+  ]
+}

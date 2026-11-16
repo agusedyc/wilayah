@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 regencies",
+  "data": [
+    {
+      "code": 1401,
+      "name": "Kabupaten Kampar"
+    },
+    {
+      "code": 1402,
+      "name": "Kabupaten Indragiri Hulu"
+    },
+    {
+      "code": 1403,
+      "name": "Kabupaten Bengkalis"
+    },
+    {
+      "code": 1404,
+      "name": "Kabupaten Indragiri Hilir"
+    },
+    {
+      "code": 1405,
+      "name": "Kabupaten Pelalawan"
+    },
+    {
+      "code": 1406,
+      "name": "Kabupaten Rokan Hulu"
+    },
+    {
+      "code": 1407,
+      "name": "Kabupaten Rokan Hilir"
+    },
+    {
+      "code": 1408,
+      "name": "Kabupaten Siak"
+    },
+    {
+      "code": 1409,
+      "name": "Kabupaten Kuantan Singingi"
+    },
+    {
+      "code": 1410,
+      "name": "Kabupaten Kepulauan Meranti"
+    },
+    {
+      "code": 1471,
+      "name": "Kota Pekanbaru"
+    },
+    {
+      "code": 1472,
+      "name": "Kota Dumai"
+    }
+  ]
+}

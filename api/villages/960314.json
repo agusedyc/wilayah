@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9603142001,
+      "name": "Manyaifun"
+    },
+    {
+      "code": 9603142002,
+      "name": "Miosmanggara"
+    },
+    {
+      "code": 9603142003,
+      "name": "Pam"
+    },
+    {
+      "code": 9603142004,
+      "name": "Saukabu"
+    },
+    {
+      "code": 9603142005,
+      "name": "Gag"
+    },
+    {
+      "code": 9603142006,
+      "name": "Saupapir"
+    }
+  ]
+}

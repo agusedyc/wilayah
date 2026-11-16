@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7504062001,
+      "name": "Iloheluma"
+    },
+    {
+      "code": 7504062002,
+      "name": "Balayo"
+    },
+    {
+      "code": 7504062003,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 7504062004,
+      "name": "Manawa"
+    },
+    {
+      "code": 7504062005,
+      "name": "Dulomo"
+    },
+    {
+      "code": 7504062006,
+      "name": "Dudepo"
+    }
+  ]
+}

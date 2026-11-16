@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3371031001,
+      "name": "Kemirirejo"
+    },
+    {
+      "code": 3371031002,
+      "name": "Cacaban"
+    },
+    {
+      "code": 3371031003,
+      "name": "Rejowinangun Utara"
+    },
+    {
+      "code": 3371031004,
+      "name": "Magelang"
+    },
+    {
+      "code": 3371031005,
+      "name": "Panjang"
+    },
+    {
+      "code": 3371031006,
+      "name": "Gelangan"
+    }
+  ]
+}

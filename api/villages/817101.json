@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8171011006,
+      "name": "Nusaniwe"
+    },
+    {
+      "code": 8171011007,
+      "name": "Wainitu"
+    },
+    {
+      "code": 8171011008,
+      "name": "Benteng"
+    },
+    {
+      "code": 8171011009,
+      "name": "Kudamati"
+    },
+    {
+      "code": 8171011010,
+      "name": "Mangga Dua"
+    },
+    {
+      "code": 8171011011,
+      "name": "Urimessing"
+    },
+    {
+      "code": 8171011012,
+      "name": "Waihaong"
+    },
+    {
+      "code": 8171011013,
+      "name": "Silale"
+    },
+    {
+      "code": 8171012001,
+      "name": "Latuhalat"
+    },
+    {
+      "code": 8171012002,
+      "name": "Seilale"
+    },
+    {
+      "code": 8171012003,
+      "name": "Nusaniwe"
+    },
+    {
+      "code": 8171012004,
+      "name": "Amahusu"
+    },
+    {
+      "code": 8171012005,
+      "name": "Urimessing"
+    }
+  ]
+}

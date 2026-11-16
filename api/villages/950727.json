@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9507272001,
+      "name": "Lelam"
+    },
+    {
+      "code": 9507272002,
+      "name": "Teiko"
+    },
+    {
+      "code": 9507272003,
+      "name": "Yaneko"
+    },
+    {
+      "code": 9507272004,
+      "name": "Kimbo"
+    },
+    {
+      "code": 9507272005,
+      "name": "Penggima"
+    },
+    {
+      "code": 9507272006,
+      "name": "Magelo"
+    },
+    {
+      "code": 9507272007,
+      "name": "Onesia"
+    },
+    {
+      "code": 9507272008,
+      "name": "Wapur"
+    },
+    {
+      "code": 9507272009,
+      "name": "Andeyok"
+    },
+    {
+      "code": 9507272010,
+      "name": "Kibingga"
+    },
+    {
+      "code": 9507272011,
+      "name": "Ogobakni"
+    },
+    {
+      "code": 9507272012,
+      "name": "Jilam"
+    }
+  ]
+}

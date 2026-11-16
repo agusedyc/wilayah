@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 regencies",
+  "data": [
+    {
+      "code": 7401,
+      "name": "Kabupaten Kolaka"
+    },
+    {
+      "code": 7402,
+      "name": "Kabupaten Konawe"
+    },
+    {
+      "code": 7403,
+      "name": "Kabupaten Muna"
+    },
+    {
+      "code": 7404,
+      "name": "Kabupaten Buton"
+    },
+    {
+      "code": 7405,
+      "name": "Kabupaten Konawe Selatan"
+    },
+    {
+      "code": 7406,
+      "name": "Kabupaten Bombana"
+    },
+    {
+      "code": 7407,
+      "name": "Kabupaten Wakatobi"
+    },
+    {
+      "code": 7408,
+      "name": "Kabupaten Kolaka Utara"
+    },
+    {
+      "code": 7409,
+      "name": "Kabupaten Konawe Utara"
+    },
+    {
+      "code": 7410,
+      "name": "Kabupaten Buton Utara"
+    },
+    {
+      "code": 7411,
+      "name": "Kabupaten Kolaka Timur"
+    },
+    {
+      "code": 7412,
+      "name": "Kabupaten Konawe Kepulauan"
+    },
+    {
+      "code": 7413,
+      "name": "Kabupaten Muna Barat"
+    },
+    {
+      "code": 7414,
+      "name": "Kabupaten Buton Tengah"
+    },
+    {
+      "code": 7415,
+      "name": "Kabupaten Buton Selatan"
+    },
+    {
+      "code": 7471,
+      "name": "Kota Kendari"
+    },
+    {
+      "code": 7472,
+      "name": "Kota Bau Bau"
+    }
+  ]
+}

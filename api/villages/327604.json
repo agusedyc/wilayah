@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3276041001,
+      "name": "Meruyung"
+    },
+    {
+      "code": 3276041002,
+      "name": "Grogol"
+    },
+    {
+      "code": 3276041003,
+      "name": "Krukut"
+    },
+    {
+      "code": 3276041004,
+      "name": "Limo"
+    }
+  ]
+}

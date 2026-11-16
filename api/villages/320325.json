@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3203252001,
+      "name": "Cibanggala"
+    },
+    {
+      "code": 3203252002,
+      "name": "Campakawarna"
+    },
+    {
+      "code": 3203252003,
+      "name": "Sukasirna"
+    },
+    {
+      "code": 3203252004,
+      "name": "Campakamulya"
+    },
+    {
+      "code": 3203252005,
+      "name": "Sukabungah"
+    }
+  ]
+}

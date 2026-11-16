@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7409132001,
+      "name": "Kuratao"
+    },
+    {
+      "code": 7409132002,
+      "name": "Landiwo"
+    },
+    {
+      "code": 7409132003,
+      "name": "Kolosua"
+    },
+    {
+      "code": 7409132004,
+      "name": "Laumoso"
+    },
+    {
+      "code": 7409132005,
+      "name": "Hialu Utama"
+    },
+    {
+      "code": 7409132006,
+      "name": "Polo-polora"
+    },
+    {
+      "code": 7409132007,
+      "name": "Tambakua"
+    },
+    {
+      "code": 7409132008,
+      "name": "Matabaho"
+    },
+    {
+      "code": 7409132009,
+      "name": "Landawe Utama"
+    },
+    {
+      "code": 7409132010,
+      "name": "Mata Benua"
+    },
+    {
+      "code": 7409132011,
+      "name": "Hialu"
+    }
+  ]
+}

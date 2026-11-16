@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1224052001,
+      "name": "Berua"
+    },
+    {
+      "code": 1224052002,
+      "name": "Esiwa"
+    },
+    {
+      "code": 1224052003,
+      "name": "Dahana Hiligodu"
+    },
+    {
+      "code": 1224052004,
+      "name": "Hilibanua"
+    },
+    {
+      "code": 1224052005,
+      "name": "Sisarahili"
+    },
+    {
+      "code": 1224052006,
+      "name": "Sisobahili"
+    },
+    {
+      "code": 1224052007,
+      "name": "Lasara"
+    },
+    {
+      "code": 1224052008,
+      "name": "Namohalu"
+    },
+    {
+      "code": 1224052009,
+      "name": "Tuhenakhe I"
+    },
+    {
+      "code": 1224052010,
+      "name": "Orahili"
+    },
+    {
+      "code": 1224052011,
+      "name": "Banua Sibohou"
+    }
+  ]
+}

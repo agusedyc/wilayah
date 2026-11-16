@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3327062001,
+      "name": "Sumurkidang"
+    },
+    {
+      "code": 3327062002,
+      "name": "Wanarata"
+    },
+    {
+      "code": 3327062003,
+      "name": "Pedagung"
+    },
+    {
+      "code": 3327062004,
+      "name": "Suru"
+    },
+    {
+      "code": 3327062005,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3327062006,
+      "name": "Pegiringan"
+    },
+    {
+      "code": 3327062007,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3327062008,
+      "name": "Purana"
+    },
+    {
+      "code": 3327062009,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3327062010,
+      "name": "Sarwodadi"
+    },
+    {
+      "code": 3327062011,
+      "name": "Bantarbolang"
+    },
+    {
+      "code": 3327062012,
+      "name": "Sambeng"
+    },
+    {
+      "code": 3327062013,
+      "name": "Glandang"
+    },
+    {
+      "code": 3327062014,
+      "name": "Kuta"
+    },
+    {
+      "code": 3327062015,
+      "name": "Kebon Gede"
+    },
+    {
+      "code": 3327062016,
+      "name": "Paguyangan"
+    },
+    {
+      "code": 3327062017,
+      "name": "Lenggerong"
+    }
+  ]
+}

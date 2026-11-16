@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7402111001,
+      "name": "Toronipa"
+    },
+    {
+      "code": 7402112002,
+      "name": "Atowatu"
+    },
+    {
+      "code": 7402112004,
+      "name": "Waworaha"
+    },
+    {
+      "code": 7402112006,
+      "name": "Sorue Jaya"
+    },
+    {
+      "code": 7402112010,
+      "name": "Soropia"
+    },
+    {
+      "code": 7402112011,
+      "name": "Tapulaga"
+    },
+    {
+      "code": 7402112012,
+      "name": "Sawapudo"
+    },
+    {
+      "code": 7402112014,
+      "name": "Bokori"
+    },
+    {
+      "code": 7402112015,
+      "name": "Saponda"
+    },
+    {
+      "code": 7402112016,
+      "name": "Mekar"
+    },
+    {
+      "code": 7402112017,
+      "name": "Bajo Indah"
+    },
+    {
+      "code": 7402112022,
+      "name": "Telaga Biru"
+    },
+    {
+      "code": 7402112023,
+      "name": "Leppe"
+    },
+    {
+      "code": 7402112024,
+      "name": "Bajoe"
+    },
+    {
+      "code": 7402112025,
+      "name": "Saponda Laut"
+    }
+  ]
+}

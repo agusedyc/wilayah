@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3328052001,
+      "name": "Srengseng"
+    },
+    {
+      "code": 3328052002,
+      "name": "Rajegwesi"
+    },
+    {
+      "code": 3328052003,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3328052004,
+      "name": "Mulyoharjo"
+    },
+    {
+      "code": 3328052005,
+      "name": "Semboja"
+    },
+    {
+      "code": 3328052006,
+      "name": "Randusari"
+    },
+    {
+      "code": 3328052007,
+      "name": "Jatiwangi"
+    },
+    {
+      "code": 3328052008,
+      "name": "Pagerbarang"
+    },
+    {
+      "code": 3328052009,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3328052010,
+      "name": "Kertaharja"
+    },
+    {
+      "code": 3328052011,
+      "name": "Kedungsugih"
+    },
+    {
+      "code": 3328052012,
+      "name": "Surokidul"
+    },
+    {
+      "code": 3328052013,
+      "name": "Pesarean"
+    }
+  ]
+}

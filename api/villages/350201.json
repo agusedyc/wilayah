@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3502012001,
+      "name": "Tugurejo"
+    },
+    {
+      "code": 3502012002,
+      "name": "Senepo"
+    },
+    {
+      "code": 3502012003,
+      "name": "Slahung"
+    },
+    {
+      "code": 3502012004,
+      "name": "Caluk"
+    },
+    {
+      "code": 3502012005,
+      "name": "Broto"
+    },
+    {
+      "code": 3502012006,
+      "name": "Menggare"
+    },
+    {
+      "code": 3502012007,
+      "name": "Kambeng"
+    },
+    {
+      "code": 3502012008,
+      "name": "Wates"
+    },
+    {
+      "code": 3502012009,
+      "name": "Ngilo-Ilo"
+    },
+    {
+      "code": 3502012010,
+      "name": "Duri"
+    },
+    {
+      "code": 3502012011,
+      "name": "Ngloning"
+    },
+    {
+      "code": 3502012012,
+      "name": "Plancungan"
+    },
+    {
+      "code": 3502012013,
+      "name": "Jebeng"
+    },
+    {
+      "code": 3502012014,
+      "name": "Galak"
+    },
+    {
+      "code": 3502012015,
+      "name": "Truneng"
+    },
+    {
+      "code": 3502012016,
+      "name": "Simo"
+    },
+    {
+      "code": 3502012017,
+      "name": "Crabak"
+    },
+    {
+      "code": 3502012018,
+      "name": "Mojopitu"
+    },
+    {
+      "code": 3502012019,
+      "name": "Gundik"
+    },
+    {
+      "code": 3502012020,
+      "name": "Nailan"
+    },
+    {
+      "code": 3502012021,
+      "name": "Gombang"
+    },
+    {
+      "code": 3502012022,
+      "name": "Janti"
+    }
+  ]
+}

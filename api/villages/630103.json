@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6301031001,
+      "name": "Sarang Halang"
+    },
+    {
+      "code": 6301031002,
+      "name": "Karang Taruna"
+    },
+    {
+      "code": 6301031003,
+      "name": "Pelaihari"
+    },
+    {
+      "code": 6301031004,
+      "name": "Angsau"
+    },
+    {
+      "code": 6301031005,
+      "name": "Pabahanan"
+    },
+    {
+      "code": 6301032006,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 6301032008,
+      "name": "Sungai Riam"
+    },
+    {
+      "code": 6301032009,
+      "name": "Tampang"
+    },
+    {
+      "code": 6301032010,
+      "name": "Telaga"
+    },
+    {
+      "code": 6301032011,
+      "name": "Panjaratan"
+    },
+    {
+      "code": 6301032012,
+      "name": "Atu-atu"
+    },
+    {
+      "code": 6301032015,
+      "name": "Panggung"
+    },
+    {
+      "code": 6301032016,
+      "name": "Tungkaran"
+    },
+    {
+      "code": 6301032017,
+      "name": "Ujung Batu"
+    },
+    {
+      "code": 6301032020,
+      "name": "Panggung Baru"
+    },
+    {
+      "code": 6301032024,
+      "name": "Ambungan"
+    },
+    {
+      "code": 6301032025,
+      "name": "Guntung Besar"
+    },
+    {
+      "code": 6301032026,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6301032027,
+      "name": "Sumber Mulia"
+    },
+    {
+      "code": 6301032029,
+      "name": "Pemuda"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6208021001,
+      "name": "Kuala Jelai"
+    },
+    {
+      "code": 6208022002,
+      "name": "Pulau Nibung"
+    },
+    {
+      "code": 6208022003,
+      "name": "Sungai Baru"
+    },
+    {
+      "code": 6208022004,
+      "name": "Sungai Bundung"
+    },
+    {
+      "code": 6208022005,
+      "name": "Sungai Raja"
+    }
+  ]
+}

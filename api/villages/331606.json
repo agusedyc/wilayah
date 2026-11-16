@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3316062001,
+      "name": "Temengeng"
+    },
+    {
+      "code": 3316062002,
+      "name": "Sambongrejo"
+    },
+    {
+      "code": 3316062003,
+      "name": "Gadu"
+    },
+    {
+      "code": 3316062004,
+      "name": "Sambong"
+    },
+    {
+      "code": 3316062005,
+      "name": "Pojokwatu"
+    },
+    {
+      "code": 3316062006,
+      "name": "Gagakan"
+    },
+    {
+      "code": 3316062007,
+      "name": "Biting"
+    },
+    {
+      "code": 3316062008,
+      "name": "Brabowan"
+    },
+    {
+      "code": 3316062009,
+      "name": "Ledok"
+    },
+    {
+      "code": 3316062010,
+      "name": "Giyanti"
+    }
+  ]
+}

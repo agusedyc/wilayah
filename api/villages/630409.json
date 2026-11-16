@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6304092001,
+      "name": "Sungai Kambat"
+    },
+    {
+      "code": 6304092002,
+      "name": "Sungai Rasau"
+    },
+    {
+      "code": 6304092003,
+      "name": "Simpang Nungki"
+    },
+    {
+      "code": 6304092004,
+      "name": "Sawahan"
+    },
+    {
+      "code": 6304092005,
+      "name": "Bantuil"
+    },
+    {
+      "code": 6304092006,
+      "name": "Badandan"
+    },
+    {
+      "code": 6304092007,
+      "name": "Sei Tunjang"
+    },
+    {
+      "code": 6304092008,
+      "name": "Sei Raya"
+    }
+  ]
+}

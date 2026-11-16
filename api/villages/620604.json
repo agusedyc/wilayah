@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6206042001,
+      "name": "Tewang Papari"
+    },
+    {
+      "code": 6206042002,
+      "name": "Tewang Darayu"
+    },
+    {
+      "code": 6206042003,
+      "name": "Buntut Bali"
+    },
+    {
+      "code": 6206042004,
+      "name": "Kuluk Bali"
+    },
+    {
+      "code": 6206042005,
+      "name": "Manduing Taheta"
+    },
+    {
+      "code": 6206042006,
+      "name": "Manduing Lama"
+    },
+    {
+      "code": 6206042007,
+      "name": "Tumbang Banjang"
+    },
+    {
+      "code": 6206042008,
+      "name": "Tumbang Lawang"
+    },
+    {
+      "code": 6206042009,
+      "name": "Dahian Tunggal"
+    },
+    {
+      "code": 6206042010,
+      "name": "Tewang Karangan"
+    },
+    {
+      "code": 6206042011,
+      "name": "Tumbang Tungku"
+    },
+    {
+      "code": 6206042012,
+      "name": "Geragu"
+    },
+    {
+      "code": 6206042013,
+      "name": "Tumbang Tanjung"
+    },
+    {
+      "code": 6206042014,
+      "name": "Tura"
+    }
+  ]
+}

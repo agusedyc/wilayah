@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6209072001,
+      "name": "Nanga Belantikan"
+    },
+    {
+      "code": 6209072002,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 6209072003,
+      "name": "Tangga Batu"
+    },
+    {
+      "code": 6209072004,
+      "name": "Belibi"
+    },
+    {
+      "code": 6209072005,
+      "name": "Bayat"
+    },
+    {
+      "code": 6209072006,
+      "name": "Karang Besi"
+    },
+    {
+      "code": 6209072007,
+      "name": "Benuatan"
+    },
+    {
+      "code": 6209072008,
+      "name": "Kahingai"
+    },
+    {
+      "code": 6209072009,
+      "name": "Nanga Matu"
+    },
+    {
+      "code": 6209072010,
+      "name": "Bintang Mangalih"
+    },
+    {
+      "code": 6209072011,
+      "name": "Petarikan"
+    },
+    {
+      "code": 6209072012,
+      "name": "Sumber Cahaya"
+    }
+  ]
+}

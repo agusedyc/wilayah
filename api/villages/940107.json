@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9401072001,
+      "name": "Makimi"
+    },
+    {
+      "code": 9401072002,
+      "name": "Nifasi"
+    },
+    {
+      "code": 9401072003,
+      "name": "Biha"
+    },
+    {
+      "code": 9401072004,
+      "name": "Lagari Jaya"
+    },
+    {
+      "code": 9401072005,
+      "name": "Maidei"
+    },
+    {
+      "code": 9401072006,
+      "name": "Manunggal Jaya"
+    }
+  ]
+}

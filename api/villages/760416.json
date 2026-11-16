@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7604162001,
+      "name": "Bulo"
+    },
+    {
+      "code": 7604162002,
+      "name": "Pulliwa"
+    },
+    {
+      "code": 7604162003,
+      "name": "Patambanua"
+    },
+    {
+      "code": 7604162004,
+      "name": "Karombang"
+    },
+    {
+      "code": 7604162005,
+      "name": "Daala Timur"
+    },
+    {
+      "code": 7604162006,
+      "name": "Lenggo"
+    },
+    {
+      "code": 7604162007,
+      "name": "Sabura"
+    },
+    {
+      "code": 7604162008,
+      "name": "Sepporakki"
+    },
+    {
+      "code": 7604162009,
+      "name": "Ihing"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3302132001,
+      "name": "Gerduren"
+    },
+    {
+      "code": 3302132002,
+      "name": "Karangtalun Kidul"
+    },
+    {
+      "code": 3302132003,
+      "name": "Kaliurip"
+    },
+    {
+      "code": 3302132004,
+      "name": "Karangtalun Lor"
+    },
+    {
+      "code": 3302132005,
+      "name": "Purwojati"
+    },
+    {
+      "code": 3302132006,
+      "name": "Klapasawit"
+    },
+    {
+      "code": 3302132007,
+      "name": "Karangmangu"
+    },
+    {
+      "code": 3302132008,
+      "name": "Kaliputih"
+    },
+    {
+      "code": 3302132009,
+      "name": "Kaliwangi"
+    },
+    {
+      "code": 3302132010,
+      "name": "Kalitapen"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1275041001,
+      "name": "Tanah Tinggi"
+    },
+    {
+      "code": 1275041002,
+      "name": "Dataran Tinggi"
+    },
+    {
+      "code": 1275041003,
+      "name": "Timbang Langkat"
+    },
+    {
+      "code": 1275041004,
+      "name": "Mencirim"
+    },
+    {
+      "code": 1275041005,
+      "name": "Tunggurono"
+    },
+    {
+      "code": 1275041006,
+      "name": "Sumber Mulyorejo"
+    },
+    {
+      "code": 1275041007,
+      "name": "Sumber Karya"
+    }
+  ]
+}

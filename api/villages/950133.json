@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9501332001,
+      "name": "Bugi"
+    },
+    {
+      "code": 9501332002,
+      "name": "Manda"
+    },
+    {
+      "code": 9501332003,
+      "name": "Dewene"
+    },
+    {
+      "code": 9501332004,
+      "name": "Totni"
+    },
+    {
+      "code": 9501332005,
+      "name": "Tagulik"
+    },
+    {
+      "code": 9501332006,
+      "name": "Walak Selatan"
+    },
+    {
+      "code": 9501332007,
+      "name": "Kodlangga"
+    },
+    {
+      "code": 9501332008,
+      "name": "Air Garam"
+    }
+  ]
+}

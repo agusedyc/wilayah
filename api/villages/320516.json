@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3205162001,
+      "name": "Caringin"
+    },
+    {
+      "code": 3205162002,
+      "name": "Cintamanik"
+    },
+    {
+      "code": 3205162003,
+      "name": "Cinta"
+    },
+    {
+      "code": 3205162004,
+      "name": "Sindanggalih"
+    }
+  ]
+}

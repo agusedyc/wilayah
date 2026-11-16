@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1703211001,
+      "name": "Kemumu"
+    },
+    {
+      "code": 1703212002,
+      "name": "Tebing Kaning"
+    },
+    {
+      "code": 1703212003,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1703212004,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1703212005,
+      "name": "Pematang Sapang"
+    },
+    {
+      "code": 1703212006,
+      "name": "Pagar Banyu"
+    },
+    {
+      "code": 1703212007,
+      "name": "Gardu"
+    },
+    {
+      "code": 1703212008,
+      "name": "Kali"
+    },
+    {
+      "code": 1703212009,
+      "name": "Kalai Duai"
+    },
+    {
+      "code": 1703212010,
+      "name": "Pagar Ruyung"
+    },
+    {
+      "code": 1703212011,
+      "name": "Air Merah"
+    },
+    {
+      "code": 1703212012,
+      "name": "Gunung Besar"
+    }
+  ]
+}

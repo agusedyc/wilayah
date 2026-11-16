@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3172031001,
+      "name": "Koja"
+    },
+    {
+      "code": 3172031002,
+      "name": "Tugu Utara"
+    },
+    {
+      "code": 3172031003,
+      "name": "Lagoa"
+    },
+    {
+      "code": 3172031004,
+      "name": "Rawa Badak Utara"
+    },
+    {
+      "code": 3172031005,
+      "name": "Tugu Selatan"
+    },
+    {
+      "code": 3172031006,
+      "name": "Rawa Badak Selatan"
+    }
+  ]
+}

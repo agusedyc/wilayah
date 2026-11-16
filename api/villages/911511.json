@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9115112001,
+      "name": "Botawa"
+    },
+    {
+      "code": 9115112002,
+      "name": "Sowiwa"
+    },
+    {
+      "code": 9115112003,
+      "name": "Baino Jaya"
+    },
+    {
+      "code": 9115112004,
+      "name": "Nau"
+    },
+    {
+      "code": 9115112005,
+      "name": "Rasawa"
+    },
+    {
+      "code": 9115112006,
+      "name": "Ruambak Jaya"
+    },
+    {
+      "code": 9115112007,
+      "name": "Moroa"
+    },
+    {
+      "code": 9115112008,
+      "name": "Oiboa"
+    }
+  ]
+}

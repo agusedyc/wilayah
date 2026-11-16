@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7306071001,
+      "name": "Tetebatu"
+    },
+    {
+      "code": 7306071002,
+      "name": "Pangkabinanga"
+    },
+    {
+      "code": 7306071003,
+      "name": "Parangbanoa"
+    },
+    {
+      "code": 7306071015,
+      "name": "Mangalli"
+    },
+    {
+      "code": 7306072004,
+      "name": "Bontoala"
+    },
+    {
+      "code": 7306072005,
+      "name": "Pallangga"
+    },
+    {
+      "code": 7306072006,
+      "name": "Julubori"
+    },
+    {
+      "code": 7306072007,
+      "name": "Kampili"
+    },
+    {
+      "code": 7306072008,
+      "name": "Panakkukang"
+    },
+    {
+      "code": 7306072009,
+      "name": "Bontoramba"
+    },
+    {
+      "code": 7306072010,
+      "name": "Jene'tallasa"
+    },
+    {
+      "code": 7306072011,
+      "name": "Julukanaya"
+    },
+    {
+      "code": 7306072012,
+      "name": "Julupa'mai"
+    },
+    {
+      "code": 7306072013,
+      "name": "Bungaejaya"
+    },
+    {
+      "code": 7306072014,
+      "name": "Toddotoa"
+    },
+    {
+      "code": 7306072016,
+      "name": "Taeng"
+    }
+  ]
+}

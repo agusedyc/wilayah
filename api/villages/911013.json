@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9110132001,
+      "name": "Holmafen"
+    },
+    {
+      "code": 9110132002,
+      "name": "Sewan"
+    },
+    {
+      "code": 9110132003,
+      "name": "Waskey/ Tanjung Batu"
+    },
+    {
+      "code": 9110132004,
+      "name": "Ebram"
+    },
+    {
+      "code": 9110132005,
+      "name": "Binyer"
+    },
+    {
+      "code": 9110132006,
+      "name": "Bagaiserwar Dua"
+    },
+    {
+      "code": 9110132007,
+      "name": "Waskey"
+    },
+    {
+      "code": 9110132008,
+      "name": "Tanjung Batu"
+    }
+  ]
+}

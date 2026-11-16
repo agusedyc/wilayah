@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 regencies",
+  "data": [
+    {
+      "code": 9103,
+      "name": "Kabupaten Jayapura"
+    },
+    {
+      "code": 9105,
+      "name": "Kabupaten Kepulauan Yapen"
+    },
+    {
+      "code": 9106,
+      "name": "Kabupaten Biak Numfor"
+    },
+    {
+      "code": 9110,
+      "name": "Kabupaten Sarmi"
+    },
+    {
+      "code": 9111,
+      "name": "Kabupaten Keerom"
+    },
+    {
+      "code": 9115,
+      "name": "Kabupaten Waropen"
+    },
+    {
+      "code": 9119,
+      "name": "Kabupaten Supiori"
+    },
+    {
+      "code": 9120,
+      "name": "Kabupaten Mamberamo Raya"
+    },
+    {
+      "code": 9171,
+      "name": "Kota Jayapura"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7212072001,
+      "name": "Lembah Sumara"
+    },
+    {
+      "code": 7212072002,
+      "name": "Sumara Jaya"
+    },
+    {
+      "code": 7212072003,
+      "name": "Tambayoli"
+    },
+    {
+      "code": 7212072004,
+      "name": "Malino"
+    },
+    {
+      "code": 7212072005,
+      "name": "Panca Makmur"
+    },
+    {
+      "code": 7212072006,
+      "name": "Tamainusi"
+    },
+    {
+      "code": 7212072007,
+      "name": "Bau"
+    },
+    {
+      "code": 7212072008,
+      "name": "Malino Jaya"
+    },
+    {
+      "code": 7212072009,
+      "name": "Toddopoli Uebangke"
+    },
+    {
+      "code": 7212072010,
+      "name": "Tandoyondo"
+    }
+  ]
+}

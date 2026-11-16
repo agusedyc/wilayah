@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5108051009,
+      "name": "Sukasada"
+    },
+    {
+      "code": 5108052001,
+      "name": "Pancasari"
+    },
+    {
+      "code": 5108052002,
+      "name": "Wanagiri"
+    },
+    {
+      "code": 5108052003,
+      "name": "Ambengan"
+    },
+    {
+      "code": 5108052004,
+      "name": "Gitgit"
+    },
+    {
+      "code": 5108052005,
+      "name": "Pegayaman"
+    },
+    {
+      "code": 5108052006,
+      "name": "Silangjana"
+    },
+    {
+      "code": 5108052007,
+      "name": "Pegadungan"
+    },
+    {
+      "code": 5108052008,
+      "name": "Padangbulia"
+    },
+    {
+      "code": 5108052010,
+      "name": "Sambangan"
+    },
+    {
+      "code": 5108052011,
+      "name": "Panji"
+    },
+    {
+      "code": 5108052012,
+      "name": "Panji Anom"
+    },
+    {
+      "code": 5108052013,
+      "name": "Tegallinggah"
+    },
+    {
+      "code": 5108052014,
+      "name": "Selat"
+    },
+    {
+      "code": 5108052015,
+      "name": "Kayuputih"
+    }
+  ]
+}

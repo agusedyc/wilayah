@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1608011007,
+      "name": "Dusun Martapura"
+    },
+    {
+      "code": 1608011008,
+      "name": "Pasar Martapura"
+    },
+    {
+      "code": 1608011014,
+      "name": "Paku Sengkunyit"
+    },
+    {
+      "code": 1608011016,
+      "name": "Bukit Sari"
+    },
+    {
+      "code": 1608011017,
+      "name": "Sungai Tuha Jaya"
+    },
+    {
+      "code": 1608011018,
+      "name": "Terukis Rahayu"
+    },
+    {
+      "code": 1608011019,
+      "name": "Veteran Jaya"
+    },
+    {
+      "code": 1608012006,
+      "name": "Tanjung Kemala"
+    },
+    {
+      "code": 1608012009,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1608012010,
+      "name": "Keromongan"
+    },
+    {
+      "code": 1608012011,
+      "name": "Perjaya"
+    },
+    {
+      "code": 1608012015,
+      "name": "Sukomulyo"
+    },
+    {
+      "code": 1608012020,
+      "name": "Kotabaru Barat"
+    },
+    {
+      "code": 1608012021,
+      "name": "Kotabaru Selatan"
+    },
+    {
+      "code": 1608012022,
+      "name": "Perjaya Barat"
+    },
+    {
+      "code": 1608012023,
+      "name": "Tanjung Kemala Barat"
+    }
+  ]
+}

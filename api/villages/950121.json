@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501212001,
+      "name": "Usilimo"
+    },
+    {
+      "code": 9501212002,
+      "name": "Siba"
+    },
+    {
+      "code": 9501212003,
+      "name": "Wosiala"
+    },
+    {
+      "code": 9501212004,
+      "name": "Gua Wisata"
+    },
+    {
+      "code": 9501212005,
+      "name": "Undulumo"
+    },
+    {
+      "code": 9501212006,
+      "name": "Fikha"
+    },
+    {
+      "code": 9501212007,
+      "name": "Meagamia"
+    },
+    {
+      "code": 9501212008,
+      "name": "Alona"
+    },
+    {
+      "code": 9501212009,
+      "name": "Abutpuk"
+    },
+    {
+      "code": 9501212010,
+      "name": "Isaiman"
+    }
+  ]
+}

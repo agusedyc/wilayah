@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 187201,
+      "name": "Metro Pusat"
+    },
+    {
+      "code": 187202,
+      "name": "Metro Utara"
+    },
+    {
+      "code": 187203,
+      "name": "Metro Barat"
+    },
+    {
+      "code": 187204,
+      "name": "Metro Timur"
+    },
+    {
+      "code": 187205,
+      "name": "Metro Selatan"
+    }
+  ]
+}

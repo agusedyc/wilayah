@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3375041002,
+      "name": "Banyurip"
+    },
+    {
+      "code": 3375041003,
+      "name": "Buaran Kradenan"
+    },
+    {
+      "code": 3375041004,
+      "name": "Jenggot"
+    },
+    {
+      "code": 3375041006,
+      "name": "Kuripan Kertoharjo"
+    },
+    {
+      "code": 3375041008,
+      "name": "Kuripan Yosorejo"
+    },
+    {
+      "code": 3375041010,
+      "name": "Sokoduwet"
+    }
+  ]
+}

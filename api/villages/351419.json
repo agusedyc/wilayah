@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3514192001,
+      "name": "Minggir"
+    },
+    {
+      "code": 3514192002,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3514192003,
+      "name": "Kedungrejo"
+    },
+    {
+      "code": 3514192004,
+      "name": "Umbulan"
+    },
+    {
+      "code": 3514192005,
+      "name": "Sidepan"
+    },
+    {
+      "code": 3514192006,
+      "name": "Sruwi"
+    },
+    {
+      "code": 3514192007,
+      "name": "Jeladri"
+    },
+    {
+      "code": 3514192008,
+      "name": "Sumberrejo"
+    },
+    {
+      "code": 3514192009,
+      "name": "Prodo"
+    },
+    {
+      "code": 3514192010,
+      "name": "Lebak"
+    },
+    {
+      "code": 3514192011,
+      "name": "Menyarik"
+    },
+    {
+      "code": 3514192012,
+      "name": "Kandung"
+    },
+    {
+      "code": 3514192013,
+      "name": "Mendalan"
+    },
+    {
+      "code": 3514192014,
+      "name": "Penataan"
+    },
+    {
+      "code": 3514192015,
+      "name": "Winongan Kidul"
+    },
+    {
+      "code": 3514192016,
+      "name": "Bandaran"
+    },
+    {
+      "code": 3514192017,
+      "name": "Winongan Lor"
+    },
+    {
+      "code": 3514192018,
+      "name": "Gading"
+    }
+  ]
+}

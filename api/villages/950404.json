@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504041001,
+      "name": "Kembu"
+    },
+    {
+      "code": 9504042002,
+      "name": "Mamit"
+    },
+    {
+      "code": 9504042003,
+      "name": "Yowo"
+    },
+    {
+      "code": 9504042004,
+      "name": "Nugari"
+    },
+    {
+      "code": 9504042005,
+      "name": "Kobon"
+    },
+    {
+      "code": 9504042006,
+      "name": "Kabori"
+    },
+    {
+      "code": 9504042007,
+      "name": "Genani"
+    },
+    {
+      "code": 9504042008,
+      "name": "Wulinaga"
+    },
+    {
+      "code": 9504042009,
+      "name": "Aworera"
+    },
+    {
+      "code": 9504042010,
+      "name": "Agimdek"
+    },
+    {
+      "code": 9504042011,
+      "name": "Tioga"
+    }
+  ]
+}

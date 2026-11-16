@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5318032001,
+      "name": "Kalembu Ndara Mane"
+    },
+    {
+      "code": 5318032002,
+      "name": "Tema Tana"
+    },
+    {
+      "code": 5318032005,
+      "name": "Mareda Kalada"
+    },
+    {
+      "code": 5318032006,
+      "name": "Pada Eweta"
+    },
+    {
+      "code": 5318032012,
+      "name": "Wee Limbu"
+    },
+    {
+      "code": 5318032013,
+      "name": "Lete Kamouna"
+    },
+    {
+      "code": 5318032014,
+      "name": "Mata Pyawu"
+    },
+    {
+      "code": 5318032015,
+      "name": "Wee Lima"
+    },
+    {
+      "code": 5318032018,
+      "name": "Dikira"
+    },
+    {
+      "code": 5318032020,
+      "name": "Dangga Mangu"
+    },
+    {
+      "code": 5318032021,
+      "name": "Mainda Ole"
+    },
+    {
+      "code": 5318032022,
+      "name": "Kadi Wano"
+    },
+    {
+      "code": 5318032023,
+      "name": "Nyura Lele"
+    },
+    {
+      "code": 5318032024,
+      "name": "Lele Maya"
+    },
+    {
+      "code": 5318032025,
+      "name": "Maliti Dari"
+    },
+    {
+      "code": 5318032026,
+      "name": "Mawo Dana"
+    },
+    {
+      "code": 5318032027,
+      "name": "Dede Pada"
+    },
+    {
+      "code": 5318032028,
+      "name": "Mata Wee Lima"
+    },
+    {
+      "code": 5318032029,
+      "name": "Kadi Wone"
+    }
+  ]
+}

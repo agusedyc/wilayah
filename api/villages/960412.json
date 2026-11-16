@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604122001,
+      "name": "Arfu"
+    },
+    {
+      "code": 9604122002,
+      "name": "Bawey"
+    },
+    {
+      "code": 9604122003,
+      "name": "Wasnembri"
+    },
+    {
+      "code": 9604122004,
+      "name": "Waru"
+    },
+    {
+      "code": 9604122005,
+      "name": "Atori"
+    },
+    {
+      "code": 9604122006,
+      "name": "Meriambeker"
+    },
+    {
+      "code": 9604122007,
+      "name": "Warokon"
+    },
+    {
+      "code": 9604122008,
+      "name": "Arekon"
+    },
+    {
+      "code": 9604122009,
+      "name": "Bonpaya"
+    },
+    {
+      "code": 9604122010,
+      "name": "Marbuan"
+    }
+  ]
+}

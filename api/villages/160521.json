@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1605212001,
+      "name": "Sukowarno"
+    },
+    {
+      "code": 1605212002,
+      "name": "Sugih Waras"
+    },
+    {
+      "code": 1605212003,
+      "name": "Bangun Rejo"
+    },
+    {
+      "code": 1605212004,
+      "name": "Ciptodadi"
+    },
+    {
+      "code": 1605212005,
+      "name": "Sukarena"
+    },
+    {
+      "code": 1605212006,
+      "name": "Yudha Karya Bakti"
+    },
+    {
+      "code": 1605212007,
+      "name": "Rantau Alih"
+    },
+    {
+      "code": 1605212008,
+      "name": "Ciptodadi II"
+    }
+  ]
+}

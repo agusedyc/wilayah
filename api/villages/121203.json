@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1212032001,
+      "name": "Pintu Batu"
+    },
+    {
+      "code": 1212032002,
+      "name": "Sitorang"
+    },
+    {
+      "code": 1212032003,
+      "name": "Parsambilan"
+    },
+    {
+      "code": 1212032004,
+      "name": "Huta Gur- Gur II"
+    },
+    {
+      "code": 1212032005,
+      "name": "Silaen"
+    },
+    {
+      "code": 1212032006,
+      "name": "Ombur"
+    },
+    {
+      "code": 1212032008,
+      "name": "Natolutali"
+    },
+    {
+      "code": 1212032009,
+      "name": "Dalihan Natolu"
+    },
+    {
+      "code": 1212032010,
+      "name": "Sigodang Tua"
+    },
+    {
+      "code": 1212032014,
+      "name": "Sinta Dame"
+    },
+    {
+      "code": 1212032015,
+      "name": "Hutanamora"
+    },
+    {
+      "code": 1212032017,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1212032018,
+      "name": "Huta Gur-Gur I"
+    },
+    {
+      "code": 1212032022,
+      "name": "Lumban Dolok"
+    },
+    {
+      "code": 1212032023,
+      "name": "Napitupulu"
+    },
+    {
+      "code": 1212032024,
+      "name": "Hutagaol Sihujur"
+    },
+    {
+      "code": 1212032025,
+      "name": "Meranti Barat"
+    },
+    {
+      "code": 1212032026,
+      "name": "Sibide Barat"
+    },
+    {
+      "code": 1212032027,
+      "name": "Sibide"
+    },
+    {
+      "code": 1212032028,
+      "name": "Simanobak"
+    },
+    {
+      "code": 1212032029,
+      "name": "Panindi"
+    },
+    {
+      "code": 1212032030,
+      "name": "Siringkiron"
+    },
+    {
+      "code": 1212032031,
+      "name": "Marbulang"
+    }
+  ]
+}

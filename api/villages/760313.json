@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7603131001,
+      "name": "Nosu"
+    },
+    {
+      "code": 7603132002,
+      "name": "Minanga"
+    },
+    {
+      "code": 7603132003,
+      "name": "Batupapan"
+    },
+    {
+      "code": 7603132004,
+      "name": "Masewwe"
+    },
+    {
+      "code": 7603132005,
+      "name": "Siwi"
+    },
+    {
+      "code": 7603132006,
+      "name": "Minanga Timur"
+    },
+    {
+      "code": 7603132007,
+      "name": "Parinding"
+    }
+  ]
+}

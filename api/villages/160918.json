@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1609182001,
+      "name": "Peninggiran"
+    },
+    {
+      "code": 1609182002,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1609182003,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1609182004,
+      "name": "Sukarena"
+    },
+    {
+      "code": 1609182005,
+      "name": "Karang Pendeta"
+    },
+    {
+      "code": 1609182006,
+      "name": "Kota Agung"
+    },
+    {
+      "code": 1609182007,
+      "name": "Sukabumi"
+    },
+    {
+      "code": 1609182008,
+      "name": "Kuripan II"
+    }
+  ]
+}

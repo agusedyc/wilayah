@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3302142001,
+      "name": "Darmakradenan"
+    },
+    {
+      "code": 3302142002,
+      "name": "Tipar Kidul"
+    },
+    {
+      "code": 3302142003,
+      "name": "Sawangan"
+    },
+    {
+      "code": 3302142004,
+      "name": "Jingkang"
+    },
+    {
+      "code": 3302142005,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3302142006,
+      "name": "Kalibenda"
+    },
+    {
+      "code": 3302142007,
+      "name": "Pancurendang"
+    },
+    {
+      "code": 3302142008,
+      "name": "Pancasan"
+    },
+    {
+      "code": 3302142009,
+      "name": "Karangbawang"
+    },
+    {
+      "code": 3302142010,
+      "name": "Kracak"
+    },
+    {
+      "code": 3302142011,
+      "name": "Ajibarang Kulon"
+    },
+    {
+      "code": 3302142012,
+      "name": "Ajibarang Wetan"
+    },
+    {
+      "code": 3302142013,
+      "name": "Lesmana"
+    },
+    {
+      "code": 3302142014,
+      "name": "Pandansari"
+    },
+    {
+      "code": 3302142015,
+      "name": "Ciberung"
+    }
+  ]
+}

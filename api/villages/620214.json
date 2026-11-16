@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6202142001,
+      "name": "Sebabi"
+    },
+    {
+      "code": 6202142002,
+      "name": "Tanah Putih"
+    },
+    {
+      "code": 6202142003,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 6202142004,
+      "name": "Kenyala"
+    },
+    {
+      "code": 6202142005,
+      "name": "Penyang"
+    },
+    {
+      "code": 6202142006,
+      "name": "Biru Maju"
+    }
+  ]
+}

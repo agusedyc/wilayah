@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3602182001,
+      "name": "Tambakbaya"
+    },
+    {
+      "code": 3602182002,
+      "name": "Kaduagung Timur"
+    },
+    {
+      "code": 3602182003,
+      "name": "Panancangan"
+    },
+    {
+      "code": 3602182004,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3602182005,
+      "name": "Asem"
+    },
+    {
+      "code": 3602182006,
+      "name": "Cisangu"
+    },
+    {
+      "code": 3602182007,
+      "name": "Kaduagung Barat"
+    },
+    {
+      "code": 3602182008,
+      "name": "Bojongcae"
+    },
+    {
+      "code": 3602182009,
+      "name": "Malabar"
+    },
+    {
+      "code": 3602182010,
+      "name": "Pasar Keong"
+    },
+    {
+      "code": 3602182011,
+      "name": "Bojong Leles"
+    },
+    {
+      "code": 3602182012,
+      "name": "Cimenteng Jaya"
+    },
+    {
+      "code": 3602182013,
+      "name": "Mekar Agung"
+    },
+    {
+      "code": 3602182014,
+      "name": "Asem Margaluyu"
+    },
+    {
+      "code": 3602182015,
+      "name": "Kaduagung Tengah"
+    }
+  ]
+}

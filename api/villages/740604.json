@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7406041002,
+      "name": "Lameroro"
+    },
+    {
+      "code": 7406041003,
+      "name": "Lampopala"
+    },
+    {
+      "code": 7406041004,
+      "name": "Doule"
+    },
+    {
+      "code": 7406041005,
+      "name": "Kasipute"
+    },
+    {
+      "code": 7406042001,
+      "name": "Lantawonua"
+    }
+  ]
+}

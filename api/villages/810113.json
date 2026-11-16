@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8101132001,
+      "name": "Aboru"
+    },
+    {
+      "code": 8101132002,
+      "name": "Wassu"
+    },
+    {
+      "code": 8101132003,
+      "name": "Oma"
+    },
+    {
+      "code": 8101132004,
+      "name": "Haruku"
+    },
+    {
+      "code": 8101132005,
+      "name": "Sameth"
+    },
+    {
+      "code": 8101132006,
+      "name": "Rohomoni"
+    },
+    {
+      "code": 8101132007,
+      "name": "Kabauw"
+    },
+    {
+      "code": 8101132008,
+      "name": "Kailolo"
+    },
+    {
+      "code": 8101132009,
+      "name": "Pelauw"
+    },
+    {
+      "code": 8101132010,
+      "name": "Kariu"
+    },
+    {
+      "code": 8101132011,
+      "name": "Hulaliu"
+    }
+  ]
+}

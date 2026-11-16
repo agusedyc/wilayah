@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7201011006,
+      "name": "Bugis"
+    },
+    {
+      "code": 7201011007,
+      "name": "Balantang"
+    },
+    {
+      "code": 7201011008,
+      "name": "Batui"
+    },
+    {
+      "code": 7201011009,
+      "name": "Tolando"
+    },
+    {
+      "code": 7201011010,
+      "name": "Lamo"
+    },
+    {
+      "code": 7201011017,
+      "name": "Sisipan"
+    },
+    {
+      "code": 7201011023,
+      "name": "Bakung"
+    },
+    {
+      "code": 7201012002,
+      "name": "Nonong"
+    },
+    {
+      "code": 7201012003,
+      "name": "Kayowa"
+    },
+    {
+      "code": 7201012005,
+      "name": "Ondo-Ondolu"
+    },
+    {
+      "code": 7201012011,
+      "name": "Honbola"
+    },
+    {
+      "code": 7201012012,
+      "name": "Uso"
+    },
+    {
+      "code": 7201012016,
+      "name": "Ondo-Ondolu I"
+    }
+  ]
+}

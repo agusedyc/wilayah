@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1807132001,
+      "name": "Sukaraja Nuban"
+    },
+    {
+      "code": 1807132002,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1807132003,
+      "name": "Tulung Balak"
+    },
+    {
+      "code": 1807132004,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1807132005,
+      "name": "Kedaton I"
+    },
+    {
+      "code": 1807132006,
+      "name": "Kedaton II"
+    },
+    {
+      "code": 1807132007,
+      "name": "Trisnomulyo"
+    },
+    {
+      "code": 1807132008,
+      "name": "Cempaka Nuban"
+    },
+    {
+      "code": 1807132009,
+      "name": "Gedung Dalem"
+    },
+    {
+      "code": 1807132010,
+      "name": "Bumi Jawa"
+    },
+    {
+      "code": 1807132011,
+      "name": "Gunung Tiga"
+    },
+    {
+      "code": 1807132012,
+      "name": "Negara Ratu"
+    },
+    {
+      "code": 1807132013,
+      "name": "Sukacari"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507042001,
+      "name": "Gamelia"
+    },
+    {
+      "code": 9507042002,
+      "name": "Pirawun"
+    },
+    {
+      "code": 9507042003,
+      "name": "Wupi"
+    },
+    {
+      "code": 9507042004,
+      "name": "Gawiwarak"
+    },
+    {
+      "code": 9507042005,
+      "name": "Meyagale"
+    },
+    {
+      "code": 9507042006,
+      "name": "Wulaipas"
+    },
+    {
+      "code": 9507042007,
+      "name": "Gunagewak"
+    },
+    {
+      "code": 9507042008,
+      "name": "Wunume"
+    }
+  ]
+}

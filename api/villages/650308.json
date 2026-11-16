@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6503082001,
+      "name": "Liang Bunyu"
+    },
+    {
+      "code": 6503082002,
+      "name": "Binalawan"
+    },
+    {
+      "code": 6503082003,
+      "name": "Setabu"
+    },
+    {
+      "code": 6503082004,
+      "name": "Bambangan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7406212001,
+      "name": "Lombakasih"
+    },
+    {
+      "code": 7406212002,
+      "name": "Lantari"
+    },
+    {
+      "code": 7406212003,
+      "name": "Langkowala"
+    },
+    {
+      "code": 7406212004,
+      "name": "Pasare Apua"
+    },
+    {
+      "code": 7406212006,
+      "name": "Anugerah"
+    },
+    {
+      "code": 7406212007,
+      "name": "Kalaero"
+    },
+    {
+      "code": 7406212008,
+      "name": "Tinabite"
+    },
+    {
+      "code": 7406212009,
+      "name": "Rarongkeu"
+    },
+    {
+      "code": 7406212010,
+      "name": "Watu-watu"
+    }
+  ]
+}

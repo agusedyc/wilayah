@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5302062001,
+      "name": "Pollo"
+    },
+    {
+      "code": 5302062002,
+      "name": "Oekiu"
+    },
+    {
+      "code": 5302062003,
+      "name": "Oebelo"
+    },
+    {
+      "code": 5302062004,
+      "name": "Noemuke"
+    },
+    {
+      "code": 5302062010,
+      "name": "Kiubaat"
+    },
+    {
+      "code": 5302062011,
+      "name": "Linamnutu"
+    },
+    {
+      "code": 5302062014,
+      "name": "Mio"
+    },
+    {
+      "code": 5302062015,
+      "name": "Batnun"
+    },
+    {
+      "code": 5302062018,
+      "name": "Bena"
+    },
+    {
+      "code": 5302062019,
+      "name": "Eno Neten"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7205061001,
+      "name": "Buol"
+    },
+    {
+      "code": 7205061002,
+      "name": "Kali"
+    },
+    {
+      "code": 7205061003,
+      "name": "Leok II"
+    },
+    {
+      "code": 7205061004,
+      "name": "Leok I"
+    },
+    {
+      "code": 7205061005,
+      "name": "Kumaligon"
+    },
+    {
+      "code": 7205061006,
+      "name": "Kulango"
+    },
+    {
+      "code": 7205061007,
+      "name": "Bugis"
+    }
+  ]
+}

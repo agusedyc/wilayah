@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1811012001,
+      "name": "Wiralaga I"
+    },
+    {
+      "code": 1811012002,
+      "name": "Wiralaga II"
+    },
+    {
+      "code": 1811012003,
+      "name": "Sungai Badak"
+    },
+    {
+      "code": 1811012004,
+      "name": "Nipah Kuning"
+    },
+    {
+      "code": 1811012005,
+      "name": "Sido Mulyo"
+    },
+    {
+      "code": 1811012006,
+      "name": "Tirta Laga"
+    },
+    {
+      "code": 1811012007,
+      "name": "Tanjung Serayan"
+    },
+    {
+      "code": 1811012008,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 1811012009,
+      "name": "Mulya Sari"
+    },
+    {
+      "code": 1811012010,
+      "name": "Wiralaga Mulya"
+    },
+    {
+      "code": 1811012011,
+      "name": "Suka Maju"
+    }
+  ]
+}

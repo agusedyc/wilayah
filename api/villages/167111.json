@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1671111001,
+      "name": "Sembilan-belas Ilir"
+    },
+    {
+      "code": 1671111002,
+      "name": "Dua-puluh-dua Ilir"
+    },
+    {
+      "code": 1671111003,
+      "name": "Dua-puluh-tiga Ilir"
+    },
+    {
+      "code": 1671111004,
+      "name": "Dua-puluh-empat Ilir"
+    },
+    {
+      "code": 1671111005,
+      "name": "Dua-puluh-enam Ilir"
+    },
+    {
+      "code": 1671111006,
+      "name": "Talangsemut"
+    }
+  ]
+}

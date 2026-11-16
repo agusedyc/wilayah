@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1605101017,
+      "name": "Terawas"
+    },
+    {
+      "code": 1605102001,
+      "name": "Sumber Karya"
+    },
+    {
+      "code": 1605102002,
+      "name": "Suko Rejo"
+    },
+    {
+      "code": 1605102003,
+      "name": "Suka Karya"
+    },
+    {
+      "code": 1605102011,
+      "name": "Sri Mulyo"
+    },
+    {
+      "code": 1605102014,
+      "name": "Sukamerindu"
+    },
+    {
+      "code": 1605102015,
+      "name": "Paduraksa"
+    },
+    {
+      "code": 1605102016,
+      "name": "Babat"
+    },
+    {
+      "code": 1605102018,
+      "name": "Pasenan"
+    },
+    {
+      "code": 1605102019,
+      "name": "Sukaraya"
+    },
+    {
+      "code": 1605102020,
+      "name": "Sukamana"
+    },
+    {
+      "code": 1605102021,
+      "name": "Kosgoro"
+    },
+    {
+      "code": 1605102022,
+      "name": "Sukaraya Baru"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1502082001,
+      "name": "Sungai Sahut"
+    },
+    {
+      "code": 1502082002,
+      "name": "Bungo Antoi"
+    },
+    {
+      "code": 1502082003,
+      "name": "Muara Delang"
+    },
+    {
+      "code": 1502082004,
+      "name": "Sinar Gading"
+    },
+    {
+      "code": 1502082005,
+      "name": "Bungo Tanjung"
+    },
+    {
+      "code": 1502082006,
+      "name": "Rawa Jaya"
+    },
+    {
+      "code": 1502082007,
+      "name": "Gading Jaya"
+    },
+    {
+      "code": 1502082008,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

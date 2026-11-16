@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6202072001,
+      "name": "Pondok Damar"
+    },
+    {
+      "code": 6202072002,
+      "name": "Bagendang Hilir"
+    },
+    {
+      "code": 6202072003,
+      "name": "Bagendang Tengah"
+    },
+    {
+      "code": 6202072004,
+      "name": "Natai Baru"
+    },
+    {
+      "code": 6202072005,
+      "name": "Bagendang Hulu"
+    },
+    {
+      "code": 6202072006,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 6202072007,
+      "name": "Bagendang Permai"
+    }
+  ]
+}

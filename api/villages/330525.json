@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3305252001,
+      "name": "Jatipurus"
+    },
+    {
+      "code": 3305252002,
+      "name": "Lerepkebumen"
+    },
+    {
+      "code": 3305252003,
+      "name": "Blater"
+    },
+    {
+      "code": 3305252004,
+      "name": "Poncowarno"
+    },
+    {
+      "code": 3305252005,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3305252006,
+      "name": "Jembangan"
+    },
+    {
+      "code": 3305252007,
+      "name": "Kedungdowo"
+    },
+    {
+      "code": 3305252008,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3305252009,
+      "name": "Tirtomoyo"
+    },
+    {
+      "code": 3305252010,
+      "name": "Soka"
+    },
+    {
+      "code": 3305252011,
+      "name": "Kebapangan"
+    }
+  ]
+}

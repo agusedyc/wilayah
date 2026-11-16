@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3216212001,
+      "name": "Sukaragam"
+    },
+    {
+      "code": 3216212002,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3216212003,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3216212004,
+      "name": "Jayamulya"
+    },
+    {
+      "code": 3216212005,
+      "name": "Nagacipta"
+    },
+    {
+      "code": 3216212006,
+      "name": "Nagasari"
+    },
+    {
+      "code": 3216212007,
+      "name": "Cilangkara"
+    },
+    {
+      "code": 3216212008,
+      "name": "Jayasampurna"
+    }
+  ]
+}

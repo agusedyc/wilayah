@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1701072001,
+      "name": "Karang Caya"
+    },
+    {
+      "code": 1701072002,
+      "name": "Betungan"
+    },
+    {
+      "code": 1701072003,
+      "name": "Pagar Banyu"
+    },
+    {
+      "code": 1701072004,
+      "name": "Nanjungan"
+    },
+    {
+      "code": 1701072005,
+      "name": "Suka Rami"
+    },
+    {
+      "code": 1701072006,
+      "name": "Padang Bindu"
+    },
+    {
+      "code": 1701072007,
+      "name": "Penindaian"
+    },
+    {
+      "code": 1701072008,
+      "name": "Limus"
+    },
+    {
+      "code": 1701072009,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1701072010,
+      "name": "Lubuk Ladung"
+    },
+    {
+      "code": 1701072011,
+      "name": "Air Sulau"
+    },
+    {
+      "code": 1701072012,
+      "name": "Suka Jaya"
+    }
+  ]
+}

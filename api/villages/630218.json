@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6302182001,
+      "name": "Siayuh"
+    },
+    {
+      "code": 6302182002,
+      "name": "Bungkukan"
+    },
+    {
+      "code": 6302182003,
+      "name": "Batang Kulur"
+    },
+    {
+      "code": 6302182004,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 6302182005,
+      "name": "Magalau Hilir"
+    },
+    {
+      "code": 6302182006,
+      "name": "Magalau Hulu"
+    }
+  ]
+}

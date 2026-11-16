@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9605212001,
+      "name": "Soroan"
+    },
+    {
+      "code": 9605212002,
+      "name": "Fanse"
+    },
+    {
+      "code": 9605212003,
+      "name": "Chaliat"
+    },
+    {
+      "code": 9605212004,
+      "name": "Sfacko"
+    },
+    {
+      "code": 9605212005,
+      "name": "Sehu"
+    },
+    {
+      "code": 9605212006,
+      "name": "Tbo"
+    },
+    {
+      "code": 9605212007,
+      "name": "Sien"
+    },
+    {
+      "code": 9605212008,
+      "name": "Sfaraka"
+    }
+  ]
+}

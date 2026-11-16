@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1102122001,
+      "name": "Aunan Sepakat"
+    },
+    {
+      "code": 1102122002,
+      "name": "Lawe Penanggalan"
+    },
+    {
+      "code": 1102122003,
+      "name": "Lawe Mengkudu"
+    },
+    {
+      "code": 1102122004,
+      "name": "Jambur Lak-lak"
+    },
+    {
+      "code": 1102122005,
+      "name": "Simpang Tiga Jongar"
+    },
+    {
+      "code": 1102122006,
+      "name": "Jongar Asli"
+    },
+    {
+      "code": 1102122007,
+      "name": "Ketambe"
+    },
+    {
+      "code": 1102122008,
+      "name": "Rumah Bundar"
+    },
+    {
+      "code": 1102122009,
+      "name": "Penyeberangan Cingkam"
+    },
+    {
+      "code": 1102122010,
+      "name": "Deleng Damar"
+    },
+    {
+      "code": 1102122011,
+      "name": "Bintang Bener"
+    },
+    {
+      "code": 1102122012,
+      "name": "Suka Rimbun"
+    },
+    {
+      "code": 1102122013,
+      "name": "Lawe Aunan"
+    },
+    {
+      "code": 1102122014,
+      "name": "Bener Bepapah"
+    },
+    {
+      "code": 1102122015,
+      "name": "Penungkunen"
+    },
+    {
+      "code": 1102122016,
+      "name": "Datok Pining"
+    },
+    {
+      "code": 1102122017,
+      "name": "Kati Maju"
+    },
+    {
+      "code": 1102122018,
+      "name": "Leuser"
+    },
+    {
+      "code": 1102122019,
+      "name": "Jati Sara"
+    },
+    {
+      "code": 1102122020,
+      "name": "Bukit Mbakhu"
+    },
+    {
+      "code": 1102122021,
+      "name": "Kayu Metangur"
+    },
+    {
+      "code": 1102122022,
+      "name": "Lawe Sembekan"
+    },
+    {
+      "code": 1102122023,
+      "name": "Lawe Beringin"
+    },
+    {
+      "code": 1102122024,
+      "name": "Lawe Ger-Ger"
+    },
+    {
+      "code": 1102122025,
+      "name": "Simpur Jaya"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3529142001,
+      "name": "Slopeng"
+    },
+    {
+      "code": 3529142002,
+      "name": "Semaan"
+    },
+    {
+      "code": 3529142003,
+      "name": "Batubellah Barat"
+    },
+    {
+      "code": 3529142004,
+      "name": "Batubellah Timur"
+    },
+    {
+      "code": 3529142005,
+      "name": "Kecer"
+    },
+    {
+      "code": 3529142006,
+      "name": "Bates"
+    },
+    {
+      "code": 3529142007,
+      "name": "Bringin"
+    },
+    {
+      "code": 3529142008,
+      "name": "Jelbudan"
+    },
+    {
+      "code": 3529142009,
+      "name": "Kerta Barat"
+    },
+    {
+      "code": 3529142010,
+      "name": "Kerta Timur"
+    },
+    {
+      "code": 3529142011,
+      "name": "Nyapar"
+    },
+    {
+      "code": 3529142012,
+      "name": "Dasuk Barat"
+    },
+    {
+      "code": 3529142013,
+      "name": "Dasuk Timur"
+    },
+    {
+      "code": 3529142014,
+      "name": "Dasuk Laok"
+    },
+    {
+      "code": 3529142015,
+      "name": "Mantajun"
+    }
+  ]
+}

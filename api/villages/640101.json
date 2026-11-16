@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6401012009,
+      "name": "Samurangau"
+    },
+    {
+      "code": 6401012010,
+      "name": "Busui"
+    },
+    {
+      "code": 6401012011,
+      "name": "Batu Kajang"
+    },
+    {
+      "code": 6401012012,
+      "name": "Legai"
+    },
+    {
+      "code": 6401012013,
+      "name": "Sungai Terik"
+    },
+    {
+      "code": 6401012014,
+      "name": "Kasungai"
+    },
+    {
+      "code": 6401012015,
+      "name": "Rantau Buta"
+    },
+    {
+      "code": 6401012016,
+      "name": "Rantau Layung"
+    },
+    {
+      "code": 6401012017,
+      "name": "Songka"
+    }
+  ]
+}

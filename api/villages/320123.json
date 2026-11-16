@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3201232001,
+      "name": "Tapos"
+    },
+    {
+      "code": 3201232002,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3201232003,
+      "name": "Batok"
+    },
+    {
+      "code": 3201232004,
+      "name": "Babakan"
+    },
+    {
+      "code": 3201232005,
+      "name": "Tenjo"
+    },
+    {
+      "code": 3201232006,
+      "name": "Cilaku"
+    },
+    {
+      "code": 3201232007,
+      "name": "Singabraja"
+    },
+    {
+      "code": 3201232008,
+      "name": "Singabangsa"
+    },
+    {
+      "code": 3201232009,
+      "name": "Bojong"
+    }
+  ]
+}

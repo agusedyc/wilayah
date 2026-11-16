@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5303142001,
+      "name": "Oelami"
+    },
+    {
+      "code": 5303142002,
+      "name": "Kiusili"
+    },
+    {
+      "code": 5303142003,
+      "name": "Naiola"
+    },
+    {
+      "code": 5303142004,
+      "name": "Maurisu"
+    },
+    {
+      "code": 5303142005,
+      "name": "Oetalus"
+    },
+    {
+      "code": 5303142006,
+      "name": "Tublopo"
+    },
+    {
+      "code": 5303142007,
+      "name": "Maurisu Utara"
+    },
+    {
+      "code": 5303142008,
+      "name": "Maurisu Selatan"
+    },
+    {
+      "code": 5303142009,
+      "name": "Maurisu Tengah"
+    },
+    {
+      "code": 5303142010,
+      "name": "Naiola Timur"
+    }
+  ]
+}

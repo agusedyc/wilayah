@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7471031001,
+      "name": "Baruga"
+    },
+    {
+      "code": 7471031002,
+      "name": "Lepo Lepo"
+    },
+    {
+      "code": 7471031007,
+      "name": "Watubangga"
+    },
+    {
+      "code": 7471031008,
+      "name": "Wundudopi"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7307092001,
+      "name": "Pulau Harapan"
+    },
+    {
+      "code": 7307092002,
+      "name": "Pulau Buhung Pitue"
+    },
+    {
+      "code": 7307092003,
+      "name": "Pulau Padaelo"
+    },
+    {
+      "code": 7307092004,
+      "name": "Pulau Persatuan"
+    }
+  ]
+}

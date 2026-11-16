@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1218052001,
+      "name": "Pekan Tanjung Beringin"
+    },
+    {
+      "code": 1218052002,
+      "name": "Nagur"
+    },
+    {
+      "code": 1218052003,
+      "name": "Mangga Dua"
+    },
+    {
+      "code": 1218052004,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1218052005,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 1218052006,
+      "name": "Pematang Cermai"
+    },
+    {
+      "code": 1218052007,
+      "name": "Pematang Terang"
+    },
+    {
+      "code": 1218052008,
+      "name": "Bagan Kuala"
+    }
+  ]
+}

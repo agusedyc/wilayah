@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6101072001,
+      "name": "Semelagi Besar"
+    },
+    {
+      "code": 6101072002,
+      "name": "Sungai Daun"
+    },
+    {
+      "code": 6101072003,
+      "name": "Sungai Rusa"
+    },
+    {
+      "code": 6101072004,
+      "name": "Sungai Nyirih"
+    },
+    {
+      "code": 6101072005,
+      "name": "Kuala"
+    },
+    {
+      "code": 6101072006,
+      "name": "Parit Baru"
+    },
+    {
+      "code": 6101072007,
+      "name": "Twi Mentibar"
+    },
+    {
+      "code": 6101072008,
+      "name": "Bentunai"
+    },
+    {
+      "code": 6101072013,
+      "name": "Pangkalan Bemban"
+    },
+    {
+      "code": 6101072014,
+      "name": "Parit Kongsi"
+    },
+    {
+      "code": 6101072015,
+      "name": "Gayung Bersambut"
+    }
+  ]
+}

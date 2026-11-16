@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1106022001,
+      "name": "Mon Ikeun"
+    },
+    {
+      "code": 1106022002,
+      "name": "Nusa"
+    },
+    {
+      "code": 1106022003,
+      "name": "Weu Raya"
+    },
+    {
+      "code": 1106022004,
+      "name": "Lamkrut"
+    },
+    {
+      "code": 1106022005,
+      "name": "Lamgaboh"
+    },
+    {
+      "code": 1106022006,
+      "name": "Lambaro Kueh"
+    },
+    {
+      "code": 1106022007,
+      "name": "Lam Ateuk"
+    },
+    {
+      "code": 1106022008,
+      "name": "Kueh"
+    },
+    {
+      "code": 1106022009,
+      "name": "Tanjong"
+    },
+    {
+      "code": 1106022010,
+      "name": "Aneuk Paya"
+    },
+    {
+      "code": 1106022011,
+      "name": "Seubun Keutapang"
+    },
+    {
+      "code": 1106022012,
+      "name": "Seubun Ayon"
+    },
+    {
+      "code": 1106022013,
+      "name": "Lambaro Seubun"
+    },
+    {
+      "code": 1106022014,
+      "name": "Naga Umbang"
+    },
+    {
+      "code": 1106022015,
+      "name": "Lampaya"
+    },
+    {
+      "code": 1106022016,
+      "name": "Meunasah Mesjid Lamlhom"
+    },
+    {
+      "code": 1106022017,
+      "name": "Meunasah Mon Cut"
+    },
+    {
+      "code": 1106022018,
+      "name": "Meunasah Manyang"
+    },
+    {
+      "code": 1106022019,
+      "name": "Meunasah Lam Girek"
+    },
+    {
+      "code": 1106022020,
+      "name": "Meunasah Lambaro"
+    },
+    {
+      "code": 1106022021,
+      "name": "Meunasah Baro Lamlhom"
+    },
+    {
+      "code": 1106022022,
+      "name": "Meunasah Beutong"
+    },
+    {
+      "code": 1106022023,
+      "name": "Mns. Mesjid Lampuuk"
+    },
+    {
+      "code": 1106022024,
+      "name": "Meunasah Balee"
+    },
+    {
+      "code": 1106022025,
+      "name": "Meunasah Karieng"
+    },
+    {
+      "code": 1106022026,
+      "name": "Lamcok"
+    },
+    {
+      "code": 1106022027,
+      "name": "Meunasah Cut"
+    },
+    {
+      "code": 1106022028,
+      "name": "Meunasah Blang"
+    }
+  ]
+}

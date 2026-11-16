@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 5310052003,
+      "name": "Jaong"
+    },
+    {
+      "code": 5310052004,
+      "name": "Pongkor"
+    },
+    {
+      "code": 5310052005,
+      "name": "Wae Ajang"
+    },
+    {
+      "code": 5310052018,
+      "name": "Papang"
+    },
+    {
+      "code": 5310052019,
+      "name": "Wewo"
+    },
+    {
+      "code": 5310052020,
+      "name": "Lungar"
+    },
+    {
+      "code": 5310052021,
+      "name": "Mocok"
+    },
+    {
+      "code": 5310052022,
+      "name": "Koak"
+    },
+    {
+      "code": 5310052023,
+      "name": "Langgo"
+    },
+    {
+      "code": 5310052024,
+      "name": "Legu"
+    },
+    {
+      "code": 5310052025,
+      "name": "Paka"
+    },
+    {
+      "code": 5310052028,
+      "name": "Tal"
+    },
+    {
+      "code": 5310052031,
+      "name": "Golo Lambo"
+    },
+    {
+      "code": 5310052032,
+      "name": "Ngkaer"
+    },
+    {
+      "code": 5310052033,
+      "name": "Umung"
+    },
+    {
+      "code": 5310052034,
+      "name": "Tado"
+    },
+    {
+      "code": 5310052035,
+      "name": "Gara"
+    },
+    {
+      "code": 5310052036,
+      "name": "Golo Muntas"
+    },
+    {
+      "code": 5310052038,
+      "name": "Ponggeok"
+    },
+    {
+      "code": 5310052039,
+      "name": "Iteng"
+    },
+    {
+      "code": 5310052040,
+      "name": "Satar Loung"
+    },
+    {
+      "code": 5310052041,
+      "name": "Lolang"
+    },
+    {
+      "code": 5310052042,
+      "name": "Ulu Belang"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3217092001,
+      "name": "Batujajar Timur"
+    },
+    {
+      "code": 3217092002,
+      "name": "Batujajar Barat"
+    },
+    {
+      "code": 3217092004,
+      "name": "Galanggang"
+    },
+    {
+      "code": 3217092005,
+      "name": "Cangkorah"
+    },
+    {
+      "code": 3217092007,
+      "name": "Selacau"
+    },
+    {
+      "code": 3217092008,
+      "name": "Pangauban"
+    },
+    {
+      "code": 3217092010,
+      "name": "Giriasih"
+    }
+  ]
+}

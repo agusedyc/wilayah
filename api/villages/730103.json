@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7301031001,
+      "name": "Batangmata"
+    },
+    {
+      "code": 7301031002,
+      "name": "Batangmata Sapo"
+    },
+    {
+      "code": 7301032003,
+      "name": "Pamatata"
+    },
+    {
+      "code": 7301032004,
+      "name": "Tanete"
+    },
+    {
+      "code": 7301032005,
+      "name": "Bungaiya"
+    },
+    {
+      "code": 7301032006,
+      "name": "Kayu Bauk"
+    },
+    {
+      "code": 7301032007,
+      "name": "Barat Lambongan"
+    },
+    {
+      "code": 7301032008,
+      "name": "Bontona Saluk"
+    },
+    {
+      "code": 7301032009,
+      "name": "Onto"
+    },
+    {
+      "code": 7301032010,
+      "name": "Maharayya"
+    },
+    {
+      "code": 7301032011,
+      "name": "Menara Indah"
+    },
+    {
+      "code": 7301032015,
+      "name": "Tamalanrea"
+    }
+  ]
+}

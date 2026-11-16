@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208212001,
+      "name": "Muncangela"
+    },
+    {
+      "code": 3208212002,
+      "name": "Karoya"
+    },
+    {
+      "code": 3208212003,
+      "name": "Susukan"
+    },
+    {
+      "code": 3208212004,
+      "name": "Cimaranten"
+    },
+    {
+      "code": 3208212005,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3208212006,
+      "name": "Pamulihan"
+    },
+    {
+      "code": 3208212007,
+      "name": "Salareuma"
+    },
+    {
+      "code": 3208212008,
+      "name": "Suganangan"
+    },
+    {
+      "code": 3208212009,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3208212010,
+      "name": "Mekarsari"
+    }
+  ]
+}

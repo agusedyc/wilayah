@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3278091001,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3278091002,
+      "name": "Sukarindik"
+    },
+    {
+      "code": 3278091003,
+      "name": "Bungursari"
+    },
+    {
+      "code": 3278091004,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3278091005,
+      "name": "Cibunigeulis"
+    },
+    {
+      "code": 3278091006,
+      "name": "Bantarsari"
+    },
+    {
+      "code": 3278091007,
+      "name": "Sukalaksana"
+    }
+  ]
+}

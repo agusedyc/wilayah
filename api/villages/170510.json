@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1705101003,
+      "name": "Puguk"
+    },
+    {
+      "code": 1705102001,
+      "name": "Talang Rami"
+    },
+    {
+      "code": 1705102002,
+      "name": "Talang Beringin"
+    },
+    {
+      "code": 1705102004,
+      "name": "Pandan"
+    },
+    {
+      "code": 1705102005,
+      "name": "Selinsingan"
+    },
+    {
+      "code": 1705102006,
+      "name": "Simpang"
+    },
+    {
+      "code": 1705102007,
+      "name": "Sekalak"
+    },
+    {
+      "code": 1705102008,
+      "name": "Lubuk Resam"
+    },
+    {
+      "code": 1705102009,
+      "name": "Sinar Pagi"
+    },
+    {
+      "code": 1705102010,
+      "name": "Talang Empat"
+    }
+  ]
+}

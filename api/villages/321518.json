@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3215182001,
+      "name": "Sukamerta"
+    },
+    {
+      "code": 3215182002,
+      "name": "Kutawargi"
+    },
+    {
+      "code": 3215182003,
+      "name": "Panyingkiran"
+    },
+    {
+      "code": 3215182004,
+      "name": "Pasirkaliki"
+    },
+    {
+      "code": 3215182005,
+      "name": "Pasirawi"
+    },
+    {
+      "code": 3215182006,
+      "name": "Balongsari"
+    },
+    {
+      "code": 3215182007,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3215182008,
+      "name": "Sekarwangi"
+    },
+    {
+      "code": 3215182009,
+      "name": "Purwamekar"
+    },
+    {
+      "code": 3215182010,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3215182011,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3215182012,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3215182014,
+      "name": "Gombongsari"
+    }
+  ]
+}

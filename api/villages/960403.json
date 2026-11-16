@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9604032001,
+      "name": "Baun"
+    },
+    {
+      "code": 9604032002,
+      "name": "Sumbekas"
+    },
+    {
+      "code": 9604032003,
+      "name": "Metnayam"
+    },
+    {
+      "code": 9604032004,
+      "name": "Metbelum"
+    },
+    {
+      "code": 9604032005,
+      "name": "Salem"
+    },
+    {
+      "code": 9604032006,
+      "name": "Metbesa"
+    }
+  ]
+}

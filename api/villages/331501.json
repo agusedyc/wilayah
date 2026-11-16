@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3315012001,
+      "name": "Karanglangu"
+    },
+    {
+      "code": 3315012002,
+      "name": "Panimbo"
+    },
+    {
+      "code": 3315012003,
+      "name": "Deras"
+    },
+    {
+      "code": 3315012004,
+      "name": "Kentengsari"
+    },
+    {
+      "code": 3315012005,
+      "name": "Ngombak"
+    },
+    {
+      "code": 3315012006,
+      "name": "Prigi"
+    },
+    {
+      "code": 3315012007,
+      "name": "Kedungjati"
+    },
+    {
+      "code": 3315012008,
+      "name": "Klitikan"
+    },
+    {
+      "code": 3315012009,
+      "name": "Padas"
+    },
+    {
+      "code": 3315012010,
+      "name": "Kalimaro"
+    },
+    {
+      "code": 3315012011,
+      "name": "Jumo"
+    },
+    {
+      "code": 3315012012,
+      "name": "Wates"
+    }
+  ]
+}

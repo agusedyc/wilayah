@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9507382001,
+      "name": "Kabiga"
+    },
+    {
+      "code": 9507382002,
+      "name": "Tekul"
+    },
+    {
+      "code": 9507382003,
+      "name": "Melendik"
+    },
+    {
+      "code": 9507382004,
+      "name": "Pirime"
+    },
+    {
+      "code": 9507382005,
+      "name": "Karunggame"
+    },
+    {
+      "code": 9507382006,
+      "name": "Ilunggime"
+    },
+    {
+      "code": 9507382007,
+      "name": "Timolome"
+    },
+    {
+      "code": 9507382008,
+      "name": "Wunime"
+    },
+    {
+      "code": 9507382009,
+      "name": "Genena"
+    },
+    {
+      "code": 9507382010,
+      "name": "Kulogonggame"
+    },
+    {
+      "code": 9507382011,
+      "name": "Kelonome"
+    },
+    {
+      "code": 9507382012,
+      "name": "Dua Lanny"
+    },
+    {
+      "code": 9507382013,
+      "name": "Dangguni"
+    }
+  ]
+}

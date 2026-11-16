@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3604332001,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3604332002,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3604332003,
+      "name": "Tamiang"
+    },
+    {
+      "code": 3604332004,
+      "name": "Sukalaba"
+    },
+    {
+      "code": 3604332005,
+      "name": "Kadu Agung"
+    },
+    {
+      "code": 3604332006,
+      "name": "Luwuk"
+    },
+    {
+      "code": 3604332007,
+      "name": "Curug Sulanjana"
+    }
+  ]
+}

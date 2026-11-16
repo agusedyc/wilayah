@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3508202001,
+      "name": "Jenggrong"
+    },
+    {
+      "code": 3508202002,
+      "name": "Meninjo"
+    },
+    {
+      "code": 3508202003,
+      "name": "Tegalbangsri"
+    },
+    {
+      "code": 3508202004,
+      "name": "Sumberpetung"
+    },
+    {
+      "code": 3508202005,
+      "name": "Alun-Alun"
+    },
+    {
+      "code": 3508202006,
+      "name": "Ranubedali"
+    },
+    {
+      "code": 3508202007,
+      "name": "Ranuyoso"
+    },
+    {
+      "code": 3508202008,
+      "name": "Wonoayu"
+    },
+    {
+      "code": 3508202009,
+      "name": "Penawungan"
+    },
+    {
+      "code": 3508202010,
+      "name": "Wates Kulon"
+    },
+    {
+      "code": 3508202011,
+      "name": "Wates Wetan"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7405172001,
+      "name": "Andoolo Utama"
+    },
+    {
+      "code": 7405172002,
+      "name": "Anggokoti"
+    },
+    {
+      "code": 7405172003,
+      "name": "Asembu Mulya"
+    },
+    {
+      "code": 7405172004,
+      "name": "Awalo"
+    },
+    {
+      "code": 7405172005,
+      "name": "Adaka Jaya"
+    },
+    {
+      "code": 7405172006,
+      "name": "Buke"
+    },
+    {
+      "code": 7405172007,
+      "name": "Pelandia"
+    },
+    {
+      "code": 7405172008,
+      "name": "Puudaria"
+    },
+    {
+      "code": 7405172009,
+      "name": "Rahamendaa"
+    },
+    {
+      "code": 7405172010,
+      "name": "Silea Jaya"
+    },
+    {
+      "code": 7405172011,
+      "name": "Tirtamartani"
+    },
+    {
+      "code": 7405172012,
+      "name": "Tetenggolasa"
+    },
+    {
+      "code": 7405172013,
+      "name": "Adayu Indah"
+    },
+    {
+      "code": 7405172014,
+      "name": "Wonua Maroa"
+    },
+    {
+      "code": 7405172015,
+      "name": "Wulele Jaya"
+    },
+    {
+      "code": 7405172016,
+      "name": "Ranooha Lestari"
+    }
+  ]
+}

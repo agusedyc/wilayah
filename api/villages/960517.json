@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9605172001,
+      "name": "Faitsimar"
+    },
+    {
+      "code": 9605172002,
+      "name": "Asses"
+    },
+    {
+      "code": 9605172003,
+      "name": "Fait Nigre"
+    },
+    {
+      "code": 9605172004,
+      "name": "Sufu"
+    },
+    {
+      "code": 9605172005,
+      "name": "Arus"
+    },
+    {
+      "code": 9605172006,
+      "name": "Kofait"
+    },
+    {
+      "code": 9605172007,
+      "name": "Isnum"
+    }
+  ]
+}

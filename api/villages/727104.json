@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7271041001,
+      "name": "Mamboro"
+    },
+    {
+      "code": 7271041002,
+      "name": "Taipa"
+    },
+    {
+      "code": 7271041003,
+      "name": "Kayumalue Ngapa"
+    },
+    {
+      "code": 7271041004,
+      "name": "Kayumalue Pajeko"
+    },
+    {
+      "code": 7271041010,
+      "name": "Mamboro Barat"
+    }
+  ]
+}

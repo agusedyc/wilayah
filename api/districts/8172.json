@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 817201,
+      "name": "Pulau Dullah Utara"
+    },
+    {
+      "code": 817202,
+      "name": "Pulau Dullah Selatan"
+    },
+    {
+      "code": 817203,
+      "name": "Tayando Tam"
+    },
+    {
+      "code": 817204,
+      "name": "Pulau-Pulau Kur"
+    },
+    {
+      "code": 817205,
+      "name": "Kur Selatan"
+    }
+  ]
+}

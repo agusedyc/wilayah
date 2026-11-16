@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8103032001,
+      "name": "Tumbur"
+    },
+    {
+      "code": 8103032002,
+      "name": "Lorulun"
+    },
+    {
+      "code": 8103032003,
+      "name": "Atubul Dol"
+    },
+    {
+      "code": 8103032004,
+      "name": "Amdasa"
+    },
+    {
+      "code": 8103032005,
+      "name": "Sangliat Krawain"
+    },
+    {
+      "code": 8103032006,
+      "name": "Arui Bab"
+    },
+    {
+      "code": 8103032007,
+      "name": "Arui Das"
+    },
+    {
+      "code": 8103032008,
+      "name": "Sangliat Dol"
+    },
+    {
+      "code": 8103032009,
+      "name": "Atubul Da"
+    }
+  ]
+}

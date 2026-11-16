@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3508112001,
+      "name": "Pasrujambe"
+    },
+    {
+      "code": 3508112002,
+      "name": "Jambekumbu"
+    },
+    {
+      "code": 3508112003,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3508112004,
+      "name": "Jambearum"
+    },
+    {
+      "code": 3508112005,
+      "name": "Kertosari"
+    },
+    {
+      "code": 3508112006,
+      "name": "Pagowan"
+    },
+    {
+      "code": 3508112007,
+      "name": "Karanganom"
+    }
+  ]
+}

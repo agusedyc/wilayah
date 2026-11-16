@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604092001,
+      "name": "Injai"
+    },
+    {
+      "code": 9604092002,
+      "name": "Apoki"
+    },
+    {
+      "code": 9604092003,
+      "name": "Matatun"
+    },
+    {
+      "code": 9604092004,
+      "name": "Jafai"
+    },
+    {
+      "code": 9604092005,
+      "name": "Jambuani"
+    },
+    {
+      "code": 9604092006,
+      "name": "Manaria"
+    },
+    {
+      "code": 9604092007,
+      "name": "Anarum"
+    },
+    {
+      "code": 9604092008,
+      "name": "Wasanggon"
+    },
+    {
+      "code": 9604092009,
+      "name": "Wabanek"
+    }
+  ]
+}

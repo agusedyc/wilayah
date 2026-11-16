@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1808142001,
+      "name": "Pisang Baru"
+    },
+    {
+      "code": 1808142002,
+      "name": "Pisang Indah"
+    },
+    {
+      "code": 1808142003,
+      "name": "Srinumpi"
+    },
+    {
+      "code": 1808142004,
+      "name": "Mulyoharjo"
+    },
+    {
+      "code": 1808142005,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1808142006,
+      "name": "Karangan"
+    },
+    {
+      "code": 1808142007,
+      "name": "Wonoharjo"
+    },
+    {
+      "code": 1808142008,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1808142009,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1808142010,
+      "name": "Bumi Say Agung"
+    }
+  ]
+}

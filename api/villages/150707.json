@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1507071001,
+      "name": "Kampung Singkep"
+    },
+    {
+      "code": 1507071002,
+      "name": "Nibung Putih"
+    },
+    {
+      "code": 1507071003,
+      "name": "Rano"
+    },
+    {
+      "code": 1507071004,
+      "name": "Talang Babat"
+    },
+    {
+      "code": 1507071005,
+      "name": "Parit Culum I"
+    },
+    {
+      "code": 1507071006,
+      "name": "Parit Culum II"
+    },
+    {
+      "code": 1507071007,
+      "name": "Teluk Dawan"
+    }
+  ]
+}

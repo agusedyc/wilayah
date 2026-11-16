@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3603171001,
+      "name": "Curug Kulon"
+    },
+    {
+      "code": 3603171005,
+      "name": "Sukabakti"
+    },
+    {
+      "code": 3603171006,
+      "name": "Binong"
+    },
+    {
+      "code": 3603172002,
+      "name": "Curug Wetan"
+    },
+    {
+      "code": 3603172003,
+      "name": "Kadu"
+    },
+    {
+      "code": 3603172004,
+      "name": "Kadu Jaya"
+    },
+    {
+      "code": 3603172010,
+      "name": "Cukanggalih"
+    }
+  ]
+}

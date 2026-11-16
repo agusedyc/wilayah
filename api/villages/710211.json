@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7102112001,
+      "name": "Leilem"
+    },
+    {
+      "code": 7102112002,
+      "name": "Kolongan Atas"
+    },
+    {
+      "code": 7102112003,
+      "name": "Tounelet Satu"
+    },
+    {
+      "code": 7102112004,
+      "name": "Talikuran"
+    },
+    {
+      "code": 7102112005,
+      "name": "Kauneran"
+    },
+    {
+      "code": 7102112006,
+      "name": "Sendangan"
+    },
+    {
+      "code": 7102112007,
+      "name": "Rambunan"
+    },
+    {
+      "code": 7102112008,
+      "name": "Sawangan"
+    },
+    {
+      "code": 7102112009,
+      "name": "Tincep"
+    },
+    {
+      "code": 7102112010,
+      "name": "Timbukar"
+    },
+    {
+      "code": 7102112011,
+      "name": "Leilem Dua"
+    },
+    {
+      "code": 7102112012,
+      "name": "Leilem Tiga"
+    },
+    {
+      "code": 7102112013,
+      "name": "Kolongan Atas Dua"
+    },
+    {
+      "code": 7102112014,
+      "name": "Kauneran Satu"
+    },
+    {
+      "code": 7102112015,
+      "name": "Rambunan Amian"
+    },
+    {
+      "code": 7102112016,
+      "name": "Sendangan I"
+    },
+    {
+      "code": 7102112017,
+      "name": "Talikuran Satu"
+    },
+    {
+      "code": 7102112018,
+      "name": "Tounelet Satu"
+    },
+    {
+      "code": 7102112019,
+      "name": "Kolongan Atas Satu"
+    }
+  ]
+}

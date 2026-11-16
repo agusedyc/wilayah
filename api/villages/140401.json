@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1404011001,
+      "name": "Pulaukijang"
+    },
+    {
+      "code": 1404011017,
+      "name": "Metro"
+    },
+    {
+      "code": 1404011018,
+      "name": "Madani"
+    },
+    {
+      "code": 1404012002,
+      "name": "Sanglar"
+    },
+    {
+      "code": 1404012003,
+      "name": "Pulaukecil"
+    },
+    {
+      "code": 1404012004,
+      "name": "Sungaiterap"
+    },
+    {
+      "code": 1404012009,
+      "name": "Sungaiundan"
+    },
+    {
+      "code": 1404012010,
+      "name": "Seberang Sanglar"
+    },
+    {
+      "code": 1404012011,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1404012012,
+      "name": "Seberang Pulau Kijang"
+    },
+    {
+      "code": 1404012013,
+      "name": "Sungaiasam"
+    },
+    {
+      "code": 1404012014,
+      "name": "Pulauruku"
+    },
+    {
+      "code": 1404012019,
+      "name": "Tanjunglabuh"
+    },
+    {
+      "code": 1404012020,
+      "name": "Sungaimahang"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3513122001,
+      "name": "Jabungsisir"
+    },
+    {
+      "code": 3513122002,
+      "name": "Jabungcandi"
+    },
+    {
+      "code": 3513122003,
+      "name": "Jabung Wetan"
+    },
+    {
+      "code": 3513122004,
+      "name": "Kalikajar Kulon"
+    },
+    {
+      "code": 3513122005,
+      "name": "Kalikajar Wetan"
+    },
+    {
+      "code": 3513122006,
+      "name": "Pandean"
+    },
+    {
+      "code": 3513122007,
+      "name": "Alastengah"
+    },
+    {
+      "code": 3513122008,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 3513122009,
+      "name": "Randumerak"
+    },
+    {
+      "code": 3513122010,
+      "name": "Randutatah"
+    },
+    {
+      "code": 3513122011,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3513122012,
+      "name": "Plampang"
+    },
+    {
+      "code": 3513122013,
+      "name": "Petunjungan"
+    },
+    {
+      "code": 3513122014,
+      "name": "Taman"
+    },
+    {
+      "code": 3513122015,
+      "name": "Paiton"
+    },
+    {
+      "code": 3513122016,
+      "name": "Sukodadi"
+    },
+    {
+      "code": 3513122017,
+      "name": "Podokkelor"
+    },
+    {
+      "code": 3513122018,
+      "name": "Sumberanyar"
+    },
+    {
+      "code": 3513122019,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3513122020,
+      "name": "Bhinor"
+    }
+  ]
+}

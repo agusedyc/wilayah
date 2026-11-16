@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3205332001,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3205332002,
+      "name": "Tanjungjaya"
+    },
+    {
+      "code": 3205332003,
+      "name": "Tanjungmulya"
+    },
+    {
+      "code": 3205332004,
+      "name": "Wangunjaya"
+    },
+    {
+      "code": 3205332005,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3205332006,
+      "name": "Pasirlangu"
+    },
+    {
+      "code": 3205332007,
+      "name": "Talagawangi"
+    },
+    {
+      "code": 3205332008,
+      "name": "Jatiwangi"
+    },
+    {
+      "code": 3205332009,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3205332010,
+      "name": "Tegalgede"
+    },
+    {
+      "code": 3205332011,
+      "name": "Depok"
+    },
+    {
+      "code": 3205332012,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3205332013,
+      "name": "Jayamekar"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1805122003,
+      "name": "Yudha Karya Jitu"
+    },
+    {
+      "code": 1805122004,
+      "name": "Gedung Karya Jitu"
+    },
+    {
+      "code": 1805122005,
+      "name": "Hargo Rejo"
+    },
+    {
+      "code": 1805122006,
+      "name": "Wono Agung"
+    },
+    {
+      "code": 1805122008,
+      "name": "Karya Jitu Mukti"
+    },
+    {
+      "code": 1805122009,
+      "name": "Bumi Ratu"
+    },
+    {
+      "code": 1805122010,
+      "name": "Medasari"
+    },
+    {
+      "code": 1805122013,
+      "name": "Hargo Mulyo"
+    },
+    {
+      "code": 1805122014,
+      "name": "Karya Cipta Abadi"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1212212001,
+      "name": "Lumban Rau Tengah"
+    },
+    {
+      "code": 1212212002,
+      "name": "Lumban Rau Timur"
+    },
+    {
+      "code": 1212212003,
+      "name": "Lumban Rau Utara"
+    },
+    {
+      "code": 1212212004,
+      "name": "Sipagabu"
+    },
+    {
+      "code": 1212212005,
+      "name": "Napajoring"
+    },
+    {
+      "code": 1212212006,
+      "name": "Liat Tondung"
+    },
+    {
+      "code": 1212212007,
+      "name": "Batu Manumpak"
+    },
+    {
+      "code": 1212212008,
+      "name": "Lumban Rau Tenggara"
+    },
+    {
+      "code": 1212212009,
+      "name": "Cinta Damai"
+    },
+    {
+      "code": 1212212010,
+      "name": "Siantarasa"
+    }
+  ]
+}

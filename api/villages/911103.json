@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9111032001,
+      "name": "Molof"
+    },
+    {
+      "code": 9111032002,
+      "name": "Senggi"
+    },
+    {
+      "code": 9111032003,
+      "name": "Warlef"
+    },
+    {
+      "code": 9111032005,
+      "name": "Usku"
+    },
+    {
+      "code": 9111032006,
+      "name": "Woslay"
+    },
+    {
+      "code": 9111032010,
+      "name": "Namla"
+    },
+    {
+      "code": 9111032011,
+      "name": "Waley"
+    }
+  ]
+}

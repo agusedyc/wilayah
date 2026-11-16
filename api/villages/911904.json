@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9119042001,
+      "name": "Rayori"
+    },
+    {
+      "code": 9119042002,
+      "name": "Mbrurwandi"
+    },
+    {
+      "code": 9119042003,
+      "name": "Manggonswan"
+    },
+    {
+      "code": 9119042004,
+      "name": "Wongkeina"
+    },
+    {
+      "code": 9119042005,
+      "name": "Yamnaisu"
+    },
+    {
+      "code": 9119042006,
+      "name": "Aruri"
+    },
+    {
+      "code": 9119042007,
+      "name": "Imbirsbari"
+    },
+    {
+      "code": 9119042008,
+      "name": "Ineki"
+    },
+    {
+      "code": 9119042009,
+      "name": "Insumbrei"
+    }
+  ]
+}

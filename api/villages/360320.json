@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3603201011,
+      "name": "Babakan"
+    },
+    {
+      "code": 3603202002,
+      "name": "Caringin"
+    },
+    {
+      "code": 3603202003,
+      "name": "Serdang Wetan"
+    },
+    {
+      "code": 3603202004,
+      "name": "Babat"
+    },
+    {
+      "code": 3603202005,
+      "name": "Ciangir"
+    },
+    {
+      "code": 3603202006,
+      "name": "Legok"
+    },
+    {
+      "code": 3603202007,
+      "name": "Palasari"
+    },
+    {
+      "code": 3603202008,
+      "name": "Bojongkamal"
+    },
+    {
+      "code": 3603202009,
+      "name": "Rancagong"
+    },
+    {
+      "code": 3603202010,
+      "name": "Kemuning"
+    },
+    {
+      "code": 3603202012,
+      "name": "Cirarab"
+    }
+  ]
+}

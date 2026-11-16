@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5205051001,
+      "name": "Monta Baru"
+    },
+    {
+      "code": 5205051002,
+      "name": "Kandai II"
+    },
+    {
+      "code": 5205051003,
+      "name": "Simpasai"
+    },
+    {
+      "code": 5205052004,
+      "name": "Saneo"
+    },
+    {
+      "code": 5205052005,
+      "name": "Wawonduru"
+    },
+    {
+      "code": 5205052006,
+      "name": "Matua"
+    },
+    {
+      "code": 5205052007,
+      "name": "Nowa"
+    },
+    {
+      "code": 5205052008,
+      "name": "Bara"
+    },
+    {
+      "code": 5205052009,
+      "name": "Mada Prama"
+    },
+    {
+      "code": 5205052010,
+      "name": "Riwo"
+    },
+    {
+      "code": 5205052011,
+      "name": "Mumbu"
+    },
+    {
+      "code": 5205052012,
+      "name": "Sera Kapi"
+    },
+    {
+      "code": 5205052013,
+      "name": "Raba Baka"
+    },
+    {
+      "code": 5205052014,
+      "name": "Baka Jaya"
+    }
+  ]
+}

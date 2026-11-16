@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6103092001,
+      "name": "Pusat Damai"
+    },
+    {
+      "code": 6103092002,
+      "name": "Maju Karya"
+    },
+    {
+      "code": 6103092003,
+      "name": "Sebarra"
+    },
+    {
+      "code": 6103092004,
+      "name": "Pandu Raya"
+    },
+    {
+      "code": 6103092005,
+      "name": "Embala"
+    },
+    {
+      "code": 6103092006,
+      "name": "Hibun"
+    },
+    {
+      "code": 6103092007,
+      "name": "Maringin Jaya"
+    },
+    {
+      "code": 6103092008,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 6103092009,
+      "name": "Palem Jaya"
+    },
+    {
+      "code": 6103092010,
+      "name": "Rahayu"
+    },
+    {
+      "code": 6103092011,
+      "name": "Dosan"
+    },
+    {
+      "code": 6103092012,
+      "name": "Suka Gerundi"
+    },
+    {
+      "code": 6103092013,
+      "name": "Gunam"
+    },
+    {
+      "code": 6103092014,
+      "name": "Marita"
+    }
+  ]
+}

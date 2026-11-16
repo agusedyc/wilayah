@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1210142001,
+      "name": "Sidorukun"
+    },
+    {
+      "code": 1210142002,
+      "name": "Tebing Tinggi Pangkatan"
+    },
+    {
+      "code": 1210142003,
+      "name": "Perkebunan Pangkatan"
+    },
+    {
+      "code": 1210142004,
+      "name": "Kampung Padang"
+    },
+    {
+      "code": 1210142005,
+      "name": "Pangkatan"
+    },
+    {
+      "code": 1210142006,
+      "name": "Sennah"
+    },
+    {
+      "code": 1210142007,
+      "name": "Tanjung Harapan"
+    }
+  ]
+}

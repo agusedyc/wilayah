@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6402092001,
+      "name": "Lamin Telihan"
+    },
+    {
+      "code": 6402092002,
+      "name": "Lamin Pulut"
+    },
+    {
+      "code": 6402092003,
+      "name": "Teluk Bingkai"
+    },
+    {
+      "code": 6402092004,
+      "name": "Kahala"
+    },
+    {
+      "code": 6402092005,
+      "name": "Tubuhan"
+    },
+    {
+      "code": 6402092006,
+      "name": "Semayang"
+    },
+    {
+      "code": 6402092007,
+      "name": "Teluk Muda"
+    },
+    {
+      "code": 6402092008,
+      "name": "Tuana Tuha"
+    },
+    {
+      "code": 6402092009,
+      "name": "Kahala Ilir"
+    }
+  ]
+}

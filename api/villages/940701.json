@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 9407012001,
+      "name": "Emondi"
+    },
+    {
+      "code": 9407012002,
+      "name": "Mindau"
+    },
+    {
+      "code": 9407012003,
+      "name": "Sambili"
+    },
+    {
+      "code": 9407012004,
+      "name": "Yoparu"
+    },
+    {
+      "code": 9407012005,
+      "name": "Yokatapa"
+    },
+    {
+      "code": 9407012006,
+      "name": "Bilogai"
+    },
+    {
+      "code": 9407012007,
+      "name": "Puyagia"
+    },
+    {
+      "code": 9407012008,
+      "name": "Jalae"
+    },
+    {
+      "code": 9407012009,
+      "name": "Mamba"
+    },
+    {
+      "code": 9407012010,
+      "name": "Titigi"
+    },
+    {
+      "code": 9407012011,
+      "name": "Eknemba"
+    },
+    {
+      "code": 9407012012,
+      "name": "Wandoga"
+    },
+    {
+      "code": 9407012013,
+      "name": "Pesiga"
+    },
+    {
+      "code": 9407012014,
+      "name": "Mblusiga"
+    },
+    {
+      "code": 9407012015,
+      "name": "Ndugusiga"
+    },
+    {
+      "code": 9407012016,
+      "name": "Kumbalagupa"
+    },
+    {
+      "code": 9407012017,
+      "name": "Buwisiga"
+    }
+  ]
+}

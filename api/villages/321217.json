@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3212172001,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3212172002,
+      "name": "Cantigi Kulon"
+    },
+    {
+      "code": 3212172003,
+      "name": "Cantigi Wetan"
+    },
+    {
+      "code": 3212172004,
+      "name": "Panyingkiran Kidul"
+    },
+    {
+      "code": 3212172005,
+      "name": "Panyingkiran Lor"
+    },
+    {
+      "code": 3212172006,
+      "name": "Lamarantarung"
+    },
+    {
+      "code": 3212172007,
+      "name": "Cemara"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3674011001,
+      "name": "Ciater"
+    },
+    {
+      "code": 3674011002,
+      "name": "Rawabuntu"
+    },
+    {
+      "code": 3674011003,
+      "name": "Rawa Mekar Jaya"
+    },
+    {
+      "code": 3674011004,
+      "name": "Lengkong Gudang"
+    },
+    {
+      "code": 3674011005,
+      "name": "Lengkong Wetan"
+    },
+    {
+      "code": 3674011006,
+      "name": "Buaran"
+    },
+    {
+      "code": 3674011007,
+      "name": "Lengkong Gudang Timur"
+    },
+    {
+      "code": 3674011008,
+      "name": "Cilenggang"
+    },
+    {
+      "code": 3674011009,
+      "name": "Serpong"
+    }
+  ]
+}

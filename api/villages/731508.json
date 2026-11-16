@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7315081001,
+      "name": "Cempa"
+    },
+    {
+      "code": 7315082002,
+      "name": "Mangki"
+    },
+    {
+      "code": 7315082003,
+      "name": "Mattunru Tunrue"
+    },
+    {
+      "code": 7315082004,
+      "name": "Sikkuale"
+    },
+    {
+      "code": 7315082005,
+      "name": "Tadang Palie"
+    },
+    {
+      "code": 7315082006,
+      "name": "Salipolo"
+    },
+    {
+      "code": 7315082007,
+      "name": "Tanra Tuo"
+    }
+  ]
+}

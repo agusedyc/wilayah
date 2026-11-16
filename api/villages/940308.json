@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9403082001,
+      "name": "Kebo II"
+    },
+    {
+      "code": 9403082002,
+      "name": "Togowa"
+    },
+    {
+      "code": 9403082003,
+      "name": "Ibumaida"
+    },
+    {
+      "code": 9403082004,
+      "name": "Kagupagu"
+    },
+    {
+      "code": 9403082005,
+      "name": "Ayaigo"
+    },
+    {
+      "code": 9403082006,
+      "name": "Geibu"
+    },
+    {
+      "code": 9403082007,
+      "name": "Yokadagi"
+    },
+    {
+      "code": 9403082008,
+      "name": "Bunaida"
+    },
+    {
+      "code": 9403082009,
+      "name": "Kedege"
+    },
+    {
+      "code": 9403082010,
+      "name": "Uwaiye"
+    },
+    {
+      "code": 9403082011,
+      "name": "Dawawa"
+    },
+    {
+      "code": 9403082012,
+      "name": "Mugime Ketago"
+    },
+    {
+      "code": 9403082013,
+      "name": "Tuwamakida"
+    }
+  ]
+}

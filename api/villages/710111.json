@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7101112001,
+      "name": "Tumokang Baru"
+    },
+    {
+      "code": 7101112002,
+      "name": "Mopugad Utara"
+    },
+    {
+      "code": 7101112003,
+      "name": "Mopugad Selatan"
+    },
+    {
+      "code": 7101112004,
+      "name": "Mopuya Utara"
+    },
+    {
+      "code": 7101112005,
+      "name": "Mopuya Selatan"
+    },
+    {
+      "code": 7101112007,
+      "name": "Dondomon"
+    },
+    {
+      "code": 7101112014,
+      "name": "Mopugad Utara Satu"
+    },
+    {
+      "code": 7101112015,
+      "name": "Mopugad Utara Dua"
+    },
+    {
+      "code": 7101112016,
+      "name": "Mopugad Selatan Satu"
+    },
+    {
+      "code": 7101112017,
+      "name": "Mopuya Utara Satu"
+    },
+    {
+      "code": 7101112018,
+      "name": "Mopuya Utara Dua"
+    },
+    {
+      "code": 7101112019,
+      "name": "Mopuya Selatan Satu"
+    },
+    {
+      "code": 7101112020,
+      "name": "Mopuya Selatan Dua"
+    },
+    {
+      "code": 7101112024,
+      "name": "Dondomon Utara"
+    },
+    {
+      "code": 7101112025,
+      "name": "Dondomon Selatan"
+    },
+    {
+      "code": 7101112026,
+      "name": "Tumokang Timur"
+    }
+  ]
+}

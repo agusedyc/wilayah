@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1602212001,
+      "name": "Embacang"
+    },
+    {
+      "code": 1602212002,
+      "name": "Balian"
+    },
+    {
+      "code": 1602212003,
+      "name": "Sumbu Sari"
+    },
+    {
+      "code": 1602212004,
+      "name": "Suka Sari"
+    },
+    {
+      "code": 1602212005,
+      "name": "Ciptasari"
+    },
+    {
+      "code": 1602212006,
+      "name": "Mataram Jaya"
+    },
+    {
+      "code": 1602212007,
+      "name": "Bumi Makmur"
+    },
+    {
+      "code": 1602212008,
+      "name": "Sumber Baru"
+    },
+    {
+      "code": 1602212009,
+      "name": "Mulya Jaya"
+    },
+    {
+      "code": 1602212010,
+      "name": "Rotan Mulya"
+    },
+    {
+      "code": 1602212011,
+      "name": "Embacang Permai"
+    },
+    {
+      "code": 1602212012,
+      "name": "Gedung Rejo"
+    },
+    {
+      "code": 1602212013,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 1602212014,
+      "name": "Kemang Indah"
+    },
+    {
+      "code": 1602212015,
+      "name": "Balian Makmur"
+    },
+    {
+      "code": 1602212016,
+      "name": "Sedyomulyo"
+    },
+    {
+      "code": 1602212017,
+      "name": "Dabuk Makmur"
+    }
+  ]
+}

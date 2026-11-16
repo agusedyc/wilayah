@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7205072001,
+      "name": "Boilan"
+    },
+    {
+      "code": 7205072002,
+      "name": "Kokobuka"
+    },
+    {
+      "code": 7205072003,
+      "name": "Air Terang"
+    },
+    {
+      "code": 7205072004,
+      "name": "Panilan Jaya"
+    },
+    {
+      "code": 7205072005,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 7205072006,
+      "name": "Lomuli"
+    },
+    {
+      "code": 7205072007,
+      "name": "Balau"
+    },
+    {
+      "code": 7205072008,
+      "name": "Maniala"
+    },
+    {
+      "code": 7205072009,
+      "name": "Monggonit"
+    }
+  ]
+}

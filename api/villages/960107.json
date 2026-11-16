@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9601072001,
+      "name": "Sayosa"
+    },
+    {
+      "code": 9601072002,
+      "name": "Maladofok"
+    },
+    {
+      "code": 9601072003,
+      "name": "Yorbes"
+    },
+    {
+      "code": 9601072004,
+      "name": "Samusa"
+    },
+    {
+      "code": 9601072005,
+      "name": "Klamintu"
+    },
+    {
+      "code": 9601072006,
+      "name": "Klain"
+    }
+  ]
+}

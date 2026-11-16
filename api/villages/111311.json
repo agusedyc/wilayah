@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1113112001,
+      "name": "Seneren"
+    },
+    {
+      "code": 1113112002,
+      "name": "Remukut"
+    },
+    {
+      "code": 1113112003,
+      "name": "Kenyaran"
+    },
+    {
+      "code": 1113112004,
+      "name": "Tetingi"
+    },
+    {
+      "code": 1113112005,
+      "name": "Atu Kapur"
+    },
+    {
+      "code": 1113112006,
+      "name": "Suri Musara"
+    },
+    {
+      "code": 1113112007,
+      "name": "UPT Aih Selah"
+    },
+    {
+      "code": 1113112008,
+      "name": "Cane Baru"
+    },
+    {
+      "code": 1113112009,
+      "name": "Kurnia"
+    }
+  ]
+}

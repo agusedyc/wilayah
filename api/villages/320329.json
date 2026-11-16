@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3203292001,
+      "name": "Parakantugu"
+    },
+    {
+      "code": 3203292002,
+      "name": "Cijati"
+    },
+    {
+      "code": 3203292003,
+      "name": "Bojonglarang"
+    },
+    {
+      "code": 3203292004,
+      "name": "Padaasih"
+    },
+    {
+      "code": 3203292005,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3203292006,
+      "name": "Sukamahi"
+    },
+    {
+      "code": 3203292007,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3203292008,
+      "name": "Caringin"
+    },
+    {
+      "code": 3203292009,
+      "name": "Sinarbakti"
+    },
+    {
+      "code": 3203292010,
+      "name": "Sukamaju"
+    }
+  ]
+}

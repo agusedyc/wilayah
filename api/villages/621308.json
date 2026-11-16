@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6213082001,
+      "name": "Puri"
+    },
+    {
+      "code": 6213082002,
+      "name": "Lenggang"
+    },
+    {
+      "code": 6213082003,
+      "name": "Batuah"
+    },
+    {
+      "code": 6213082004,
+      "name": "Unsum"
+    },
+    {
+      "code": 6213082005,
+      "name": "Baruyan"
+    },
+    {
+      "code": 6213082006,
+      "name": "Turan Amis"
+    },
+    {
+      "code": 6213082007,
+      "name": "Malintut"
+    },
+    {
+      "code": 6213082008,
+      "name": "Tangkum"
+    },
+    {
+      "code": 6213082009,
+      "name": "Sibung"
+    }
+  ]
+}

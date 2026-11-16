@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1409122001,
+      "name": "Lubuk Ambacang"
+    },
+    {
+      "code": 1409122002,
+      "name": "Sungaikelelawar"
+    },
+    {
+      "code": 1409122003,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1409122004,
+      "name": "Sungaipinang"
+    },
+    {
+      "code": 1409122005,
+      "name": "Sungaialah"
+    },
+    {
+      "code": 1409122006,
+      "name": "Koto Kombu"
+    },
+    {
+      "code": 1409122007,
+      "name": "Sumpu"
+    },
+    {
+      "code": 1409122008,
+      "name": "Mudik Ulo"
+    },
+    {
+      "code": 1409122009,
+      "name": "Inuman"
+    },
+    {
+      "code": 1409122010,
+      "name": "Tanjungmedang"
+    },
+    {
+      "code": 1409122011,
+      "name": "Serosa"
+    },
+    {
+      "code": 1409122012,
+      "name": "Sampurago"
+    }
+  ]
+}

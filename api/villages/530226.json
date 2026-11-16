@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302262001,
+      "name": "Naip"
+    },
+    {
+      "code": 5302262002,
+      "name": "Fatutnana"
+    },
+    {
+      "code": 5302262003,
+      "name": "Oepliki"
+    },
+    {
+      "code": 5302262004,
+      "name": "Oe'ekam"
+    },
+    {
+      "code": 5302262005,
+      "name": "Teas"
+    },
+    {
+      "code": 5302262006,
+      "name": "Oebaki"
+    },
+    {
+      "code": 5302262007,
+      "name": "Eno Nabuasa"
+    }
+  ]
+}

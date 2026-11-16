@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5318112001,
+      "name": "Wailangira"
+    },
+    {
+      "code": 5318112002,
+      "name": "Kahale"
+    },
+    {
+      "code": 5318112003,
+      "name": "Waikarara"
+    },
+    {
+      "code": 5318112004,
+      "name": "Panenggo Ede"
+    },
+    {
+      "code": 5318112005,
+      "name": "Waiha"
+    },
+    {
+      "code": 5318112006,
+      "name": "Wainyapu"
+    },
+    {
+      "code": 5318112007,
+      "name": "Loko Tali"
+    },
+    {
+      "code": 5318112008,
+      "name": "Waipakolo"
+    }
+  ]
+}

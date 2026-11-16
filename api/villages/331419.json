@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3314192001,
+      "name": "Katelan"
+    },
+    {
+      "code": 3314192002,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3314192003,
+      "name": "Jekawal"
+    },
+    {
+      "code": 3314192004,
+      "name": "Galeh"
+    },
+    {
+      "code": 3314192005,
+      "name": "Ngrombo"
+    },
+    {
+      "code": 3314192006,
+      "name": "Sigit"
+    },
+    {
+      "code": 3314192007,
+      "name": "Denanyar"
+    }
+  ]
+}

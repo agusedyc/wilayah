@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1706132001,
+      "name": "Pondok Makmur"
+    },
+    {
+      "code": 1706132002,
+      "name": "Manjunto Jaya"
+    },
+    {
+      "code": 1706132003,
+      "name": "Tirta Makmur"
+    },
+    {
+      "code": 1706132004,
+      "name": "Agung Jaya"
+    },
+    {
+      "code": 1706132005,
+      "name": "Tirta Mulya"
+    },
+    {
+      "code": 1706132006,
+      "name": "Kota Praja"
+    },
+    {
+      "code": 1706132007,
+      "name": "Sinar Jaya"
+    },
+    {
+      "code": 1706132008,
+      "name": "Sido Makmur"
+    }
+  ]
+}

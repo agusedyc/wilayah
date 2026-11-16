@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1401041018,
+      "name": "Batu Bersurat"
+    },
+    {
+      "code": 1401042004,
+      "name": "Gunung Bungsu"
+    },
+    {
+      "code": 1401042005,
+      "name": "Koto Tuo"
+    },
+    {
+      "code": 1401042006,
+      "name": "Balung"
+    },
+    {
+      "code": 1401042007,
+      "name": "Muara Takus"
+    },
+    {
+      "code": 1401042010,
+      "name": "Pulau Gadang"
+    },
+    {
+      "code": 1401042011,
+      "name": "Tanjung Alai"
+    },
+    {
+      "code": 1401042012,
+      "name": "Ranah Sungkai"
+    },
+    {
+      "code": 1401042013,
+      "name": "Lubuk Agung"
+    },
+    {
+      "code": 1401042014,
+      "name": "Koto Mesjid"
+    },
+    {
+      "code": 1401042016,
+      "name": "Pongkai Istiqomah"
+    },
+    {
+      "code": 1401042017,
+      "name": "Binamang"
+    },
+    {
+      "code": 1401042019,
+      "name": "Koto Tuo Barat"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7208022005,
+      "name": "Tolole"
+    },
+    {
+      "code": 7208022006,
+      "name": "Toga"
+    },
+    {
+      "code": 7208022007,
+      "name": "Sidole"
+    },
+    {
+      "code": 7208022008,
+      "name": "Paranggi"
+    },
+    {
+      "code": 7208022009,
+      "name": "Ampibabo"
+    },
+    {
+      "code": 7208022010,
+      "name": "Lemo"
+    },
+    {
+      "code": 7208022011,
+      "name": "Buranga"
+    },
+    {
+      "code": 7208022021,
+      "name": "Tanampedagi"
+    },
+    {
+      "code": 7208022022,
+      "name": "Tombi"
+    },
+    {
+      "code": 7208022024,
+      "name": "Ampibabo Utara"
+    },
+    {
+      "code": 7208022025,
+      "name": "Ogolugus"
+    },
+    {
+      "code": 7208022026,
+      "name": "Lemo Utara"
+    },
+    {
+      "code": 7208022027,
+      "name": "Sidole Barat"
+    },
+    {
+      "code": 7208022028,
+      "name": "Aloo"
+    },
+    {
+      "code": 7208022029,
+      "name": "Ampibabo Timur"
+    },
+    {
+      "code": 7208022030,
+      "name": "Sidole Timur"
+    },
+    {
+      "code": 7208022031,
+      "name": "Pangku"
+    },
+    {
+      "code": 7208022032,
+      "name": "Tolole Raya"
+    },
+    {
+      "code": 7208022033,
+      "name": "Lemo Tengah"
+    }
+  ]
+}

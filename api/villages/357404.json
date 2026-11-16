@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3574041001,
+      "name": "Tisnonegaran"
+    },
+    {
+      "code": 3574041002,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3574041003,
+      "name": "Kanigaran"
+    },
+    {
+      "code": 3574041004,
+      "name": "Kebonsari Wetan"
+    },
+    {
+      "code": 3574041005,
+      "name": "Curahgrinting"
+    },
+    {
+      "code": 3574041006,
+      "name": "Kebonsari Kulon"
+    }
+  ]
+}

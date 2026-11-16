@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1609162001,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1609162002,
+      "name": "Muara Sindang Ilir"
+    },
+    {
+      "code": 1609162003,
+      "name": "Muara Sindang Tengah"
+    },
+    {
+      "code": 1609162004,
+      "name": "Pematang Danau"
+    },
+    {
+      "code": 1609162005,
+      "name": "Ulu Danau"
+    },
+    {
+      "code": 1609162006,
+      "name": "Tebat Layang"
+    },
+    {
+      "code": 1609162007,
+      "name": "Watas"
+    }
+  ]
+}

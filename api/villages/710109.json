@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7101092001,
+      "name": "Matayangan"
+    },
+    {
+      "code": 7101092002,
+      "name": "Uuan"
+    },
+    {
+      "code": 7101092003,
+      "name": "Ikhwan"
+    },
+    {
+      "code": 7101092004,
+      "name": "Doloduo"
+    },
+    {
+      "code": 7101092005,
+      "name": "Wangga Baru"
+    },
+    {
+      "code": 7101092010,
+      "name": "Toraut"
+    },
+    {
+      "code": 7101092011,
+      "name": "Mekaruo"
+    },
+    {
+      "code": 7101092017,
+      "name": "Toraut Utara"
+    },
+    {
+      "code": 7101092018,
+      "name": "Doloduo Satu"
+    },
+    {
+      "code": 7101092019,
+      "name": "Doloduo Dua"
+    },
+    {
+      "code": 7101092020,
+      "name": "Doloduo Tiga"
+    },
+    {
+      "code": 7101092022,
+      "name": "Toraut Tengah"
+    }
+  ]
+}

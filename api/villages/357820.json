@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3578201001,
+      "name": "Wiyung"
+    },
+    {
+      "code": 3578201002,
+      "name": "Jajar Tunggal"
+    },
+    {
+      "code": 3578201003,
+      "name": "Babatan"
+    },
+    {
+      "code": 3578201004,
+      "name": "Balas Klumprik"
+    }
+  ]
+}

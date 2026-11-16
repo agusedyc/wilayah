@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3276061001,
+      "name": "Beji"
+    },
+    {
+      "code": 3276061002,
+      "name": "Kukusan"
+    },
+    {
+      "code": 3276061003,
+      "name": "Tanah Baru"
+    },
+    {
+      "code": 3276061004,
+      "name": "Kemiri Muka"
+    },
+    {
+      "code": 3276061005,
+      "name": "Pondok Cina"
+    },
+    {
+      "code": 3276061006,
+      "name": "Beji Timur"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3672051001,
+      "name": "Sukmajaya"
+    },
+    {
+      "code": 3672051002,
+      "name": "Jombang Wetan"
+    },
+    {
+      "code": 3672051003,
+      "name": "Masigit"
+    },
+    {
+      "code": 3672051004,
+      "name": "Panggung Rawi"
+    },
+    {
+      "code": 3672051005,
+      "name": "Gedong Dalem"
+    }
+  ]
+}

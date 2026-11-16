@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502082001,
+      "name": "Aboy"
+    },
+    {
+      "code": 9502082002,
+      "name": "Luban"
+    },
+    {
+      "code": 9502082003,
+      "name": "Jubly"
+    },
+    {
+      "code": 9502082004,
+      "name": "Armise"
+    },
+    {
+      "code": 9502082005,
+      "name": "Woro"
+    },
+    {
+      "code": 9502082006,
+      "name": "Pipal"
+    },
+    {
+      "code": 9502082007,
+      "name": "Lulis Wii"
+    }
+  ]
+}

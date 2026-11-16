@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3276101001,
+      "name": "Tapos"
+    },
+    {
+      "code": 3276101002,
+      "name": "Leuwinanggung"
+    },
+    {
+      "code": 3276101003,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3276101004,
+      "name": "Sukamaju Baru"
+    },
+    {
+      "code": 3276101005,
+      "name": "Jatijajar"
+    },
+    {
+      "code": 3276101006,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3276101007,
+      "name": "Cimpaeun"
+    }
+  ]
+}

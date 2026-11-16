@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8102182001,
+      "name": "Hoat"
+    },
+    {
+      "code": 8102182002,
+      "name": "Ngafan"
+    },
+    {
+      "code": 8102182003,
+      "name": "Feer"
+    },
+    {
+      "code": 8102182004,
+      "name": "Rerean"
+    },
+    {
+      "code": 8102182005,
+      "name": "Ngurko"
+    },
+    {
+      "code": 8102182006,
+      "name": "Hoko"
+    },
+    {
+      "code": 8102182007,
+      "name": "Weduar Fer"
+    },
+    {
+      "code": 8102182008,
+      "name": "Uat"
+    },
+    {
+      "code": 8102182009,
+      "name": "Ngan"
+    },
+    {
+      "code": 8102182010,
+      "name": "Watkidat"
+    },
+    {
+      "code": 8102182011,
+      "name": "Ohoilean"
+    },
+    {
+      "code": 8102182012,
+      "name": "Wafol"
+    },
+    {
+      "code": 8102182013,
+      "name": "Rahangiar"
+    }
+  ]
+}

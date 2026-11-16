@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 8271021001,
+      "name": "Sasa"
+    },
+    {
+      "code": 8271021002,
+      "name": "Gambesi"
+    },
+    {
+      "code": 8271021003,
+      "name": "Fitu"
+    },
+    {
+      "code": 8271021004,
+      "name": "Kalumata"
+    },
+    {
+      "code": 8271021005,
+      "name": "Kayu Merah"
+    },
+    {
+      "code": 8271021006,
+      "name": "Bastiong Talangame"
+    },
+    {
+      "code": 8271021007,
+      "name": "Ubo-Ubo"
+    },
+    {
+      "code": 8271021008,
+      "name": "Mangga Dua"
+    },
+    {
+      "code": 8271021009,
+      "name": "Jati"
+    },
+    {
+      "code": 8271021010,
+      "name": "Toboko"
+    },
+    {
+      "code": 8271021011,
+      "name": "Tanah Tinggi"
+    },
+    {
+      "code": 8271021020,
+      "name": "Tanah Tinggi Barat"
+    },
+    {
+      "code": 8271021021,
+      "name": "Mangga Dua Utara"
+    },
+    {
+      "code": 8271021022,
+      "name": "Jati Perumnas"
+    },
+    {
+      "code": 8271021023,
+      "name": "Tabona"
+    },
+    {
+      "code": 8271021024,
+      "name": "Bastiong Karance"
+    },
+    {
+      "code": 8271021025,
+      "name": "Ngade"
+    }
+  ]
+}

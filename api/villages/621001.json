@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6210011001,
+      "name": "Sepang Simin"
+    },
+    {
+      "code": 6210012002,
+      "name": "Sepang Kota"
+    },
+    {
+      "code": 6210012003,
+      "name": "Tewai Baru"
+    },
+    {
+      "code": 6210012004,
+      "name": "Tanjung Karitak"
+    },
+    {
+      "code": 6210012011,
+      "name": "Pamatang Limau"
+    },
+    {
+      "code": 6210012012,
+      "name": "Tampelas"
+    },
+    {
+      "code": 6210012014,
+      "name": "Rabauh"
+    }
+  ]
+}

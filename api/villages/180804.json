@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1808041009,
+      "name": "Taman Asri"
+    },
+    {
+      "code": 1808041015,
+      "name": "Tiuh Balak Pasar"
+    },
+    {
+      "code": 1808041016,
+      "name": "Campur Asri"
+    },
+    {
+      "code": 1808042001,
+      "name": "Setia Negara"
+    },
+    {
+      "code": 1808042002,
+      "name": "Gedung Pakuon"
+    },
+    {
+      "code": 1808042003,
+      "name": "Bumi Merapi"
+    },
+    {
+      "code": 1808042004,
+      "name": "Banjar Sari"
+    },
+    {
+      "code": 1808042005,
+      "name": "Gunung Katun"
+    },
+    {
+      "code": 1808042006,
+      "name": "Bhakti Negara"
+    },
+    {
+      "code": 1808042007,
+      "name": "Bumi Rejo"
+    },
+    {
+      "code": 1808042008,
+      "name": "Sukosari"
+    },
+    {
+      "code": 1808042010,
+      "name": "Banjar Setia"
+    },
+    {
+      "code": 1808042011,
+      "name": "Gedung Rejo"
+    },
+    {
+      "code": 1808042012,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1808042013,
+      "name": "Cugah"
+    },
+    {
+      "code": 1808042014,
+      "name": "Tiuh Balak I"
+    },
+    {
+      "code": 1808042017,
+      "name": "Tiuh Balak"
+    },
+    {
+      "code": 1808042018,
+      "name": "Mekar Asri"
+    },
+    {
+      "code": 1808042019,
+      "name": "Banjar Negara"
+    },
+    {
+      "code": 1808042020,
+      "name": "Banjar Masin"
+    },
+    {
+      "code": 1808042021,
+      "name": "Banjar Mulya"
+    },
+    {
+      "code": 1808042022,
+      "name": "Banjar Baru"
+    }
+  ]
+}

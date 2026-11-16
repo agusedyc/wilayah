@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3304052001,
+      "name": "Wanadri"
+    },
+    {
+      "code": 3304052002,
+      "name": "Kebondalem"
+    },
+    {
+      "code": 3304052003,
+      "name": "Majalengka"
+    },
+    {
+      "code": 3304052004,
+      "name": "Wiramastra"
+    },
+    {
+      "code": 3304052005,
+      "name": "Kutayasa"
+    },
+    {
+      "code": 3304052006,
+      "name": "Winong"
+    },
+    {
+      "code": 3304052007,
+      "name": "Depok"
+    },
+    {
+      "code": 3304052008,
+      "name": "Watuurip"
+    },
+    {
+      "code": 3304052009,
+      "name": "Masaran"
+    },
+    {
+      "code": 3304052010,
+      "name": "Serang"
+    },
+    {
+      "code": 3304052011,
+      "name": "Mantrianom"
+    },
+    {
+      "code": 3304052012,
+      "name": "Binorong"
+    },
+    {
+      "code": 3304052013,
+      "name": "Joho"
+    },
+    {
+      "code": 3304052014,
+      "name": "Bawang"
+    },
+    {
+      "code": 3304052015,
+      "name": "Bandingan"
+    },
+    {
+      "code": 3304052016,
+      "name": "Blambangan"
+    },
+    {
+      "code": 3304052017,
+      "name": "Gemuruh"
+    },
+    {
+      "code": 3304052018,
+      "name": "Pucang"
+    }
+  ]
+}

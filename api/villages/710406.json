@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7104062001,
+      "name": "Pangeran"
+    },
+    {
+      "code": 7104062007,
+      "name": "Bulude"
+    },
+    {
+      "code": 7104062008,
+      "name": "Pantuge"
+    },
+    {
+      "code": 7104062009,
+      "name": "Kabaruan"
+    },
+    {
+      "code": 7104062010,
+      "name": "Mangaran"
+    },
+    {
+      "code": 7104062011,
+      "name": "Kordakel"
+    },
+    {
+      "code": 7104062012,
+      "name": "Rarange"
+    },
+    {
+      "code": 7104062013,
+      "name": "Taduna"
+    },
+    {
+      "code": 7104062017,
+      "name": "Kabaruan Timur"
+    },
+    {
+      "code": 7104062018,
+      "name": "Pantuge Timur"
+    },
+    {
+      "code": 7104062019,
+      "name": "Pannulan"
+    },
+    {
+      "code": 7104062020,
+      "name": "Bulude Selatan"
+    }
+  ]
+}

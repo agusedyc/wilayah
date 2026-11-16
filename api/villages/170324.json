@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1703242001,
+      "name": "Air Sebayur"
+    },
+    {
+      "code": 1703242002,
+      "name": "Air Sekamanak"
+    },
+    {
+      "code": 1703242003,
+      "name": "Air Simpang"
+    },
+    {
+      "code": 1703242004,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 1703242005,
+      "name": "Marga Bhakti"
+    },
+    {
+      "code": 1703242006,
+      "name": "Bumi Harjo"
+    },
+    {
+      "code": 1703242007,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 1703242008,
+      "name": "Gunung Payung"
+    },
+    {
+      "code": 1703242009,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 1703242010,
+      "name": "Tanjung Muara"
+    }
+  ]
+}

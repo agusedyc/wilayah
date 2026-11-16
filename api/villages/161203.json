@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1612032001,
+      "name": "Purun"
+    },
+    {
+      "code": 1612032002,
+      "name": "Gunung Menang"
+    },
+    {
+      "code": 1612032003,
+      "name": "Mangkunegara"
+    },
+    {
+      "code": 1612032004,
+      "name": "Raja Jaya"
+    },
+    {
+      "code": 1612032005,
+      "name": "Air Itam"
+    },
+    {
+      "code": 1612032006,
+      "name": "Gunung Raja"
+    },
+    {
+      "code": 1612032007,
+      "name": "Air Itam Timur"
+    },
+    {
+      "code": 1612032008,
+      "name": "Sungai Langan"
+    },
+    {
+      "code": 1612032009,
+      "name": "Spantan Jaya"
+    },
+    {
+      "code": 1612032010,
+      "name": "Babat"
+    },
+    {
+      "code": 1612032011,
+      "name": "Suka Raja"
+    },
+    {
+      "code": 1612032012,
+      "name": "Purun Timur"
+    },
+    {
+      "code": 1612032013,
+      "name": "Mangkunegara Timur"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3403182001,
+      "name": "Giripurwo"
+    },
+    {
+      "code": 3403182002,
+      "name": "Giricahyo"
+    },
+    {
+      "code": 3403182003,
+      "name": "Girijati"
+    },
+    {
+      "code": 3403182004,
+      "name": "Giriasih"
+    },
+    {
+      "code": 3403182005,
+      "name": "Giritirto"
+    }
+  ]
+}

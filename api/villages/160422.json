@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1604222001,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1604222002,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1604222003,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1604222004,
+      "name": "Bandung Agung"
+    },
+    {
+      "code": 1604222005,
+      "name": "Lesung Batu"
+    },
+    {
+      "code": 1604222006,
+      "name": "Air Lingkar"
+    },
+    {
+      "code": 1604222007,
+      "name": "Batu Rusa"
+    },
+    {
+      "code": 1604222008,
+      "name": "Kupang"
+    },
+    {
+      "code": 1604222009,
+      "name": "Sawah Darat"
+    },
+    {
+      "code": 1604222010,
+      "name": "Danau"
+    },
+    {
+      "code": 1604222011,
+      "name": "Siring Agung"
+    },
+    {
+      "code": 1604222012,
+      "name": "Pagar Alam"
+    },
+    {
+      "code": 1604222013,
+      "name": "Rimba Sujud"
+    },
+    {
+      "code": 1604222014,
+      "name": "Germidar Ilir"
+    },
+    {
+      "code": 1604222015,
+      "name": "Pagar Gunung"
+    },
+    {
+      "code": 1604222016,
+      "name": "Germidar Ulu"
+    },
+    {
+      "code": 1604222017,
+      "name": "Padang Pagun"
+    },
+    {
+      "code": 1604222018,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1604222019,
+      "name": "Penantian"
+    },
+    {
+      "code": 1604222020,
+      "name": "Merindu"
+    }
+  ]
+}

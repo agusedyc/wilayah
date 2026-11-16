@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1101072001,
+      "name": "Sikulat"
+    },
+    {
+      "code": 1101072002,
+      "name": "Sawang I"
+    },
+    {
+      "code": 1101072003,
+      "name": "Meuligo"
+    },
+    {
+      "code": 1101072004,
+      "name": "Lhok Pawoh"
+    },
+    {
+      "code": 1101072005,
+      "name": "Sawang II"
+    },
+    {
+      "code": 1101072006,
+      "name": "Ujung Karang"
+    },
+    {
+      "code": 1101072007,
+      "name": "Trieng Meuduro Baroh"
+    },
+    {
+      "code": 1101072008,
+      "name": "Trieng Meuduro Tunong"
+    },
+    {
+      "code": 1101072009,
+      "name": "Panton Luas"
+    },
+    {
+      "code": 1101072010,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1101072011,
+      "name": "Kuta Baro"
+    },
+    {
+      "code": 1101072012,
+      "name": "Blang Geulinggang"
+    },
+    {
+      "code": 1101072013,
+      "name": "Mutiara"
+    },
+    {
+      "code": 1101072014,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1101072015,
+      "name": "Sawang Ba'u"
+    }
+  ]
+}

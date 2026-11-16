@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3316032001,
+      "name": "Megeri"
+    },
+    {
+      "code": 3316032002,
+      "name": "Nglebak"
+    },
+    {
+      "code": 3316032003,
+      "name": "Getas"
+    },
+    {
+      "code": 3316032004,
+      "name": "Nginggil"
+    },
+    {
+      "code": 3316032005,
+      "name": "Ngrawoh"
+    },
+    {
+      "code": 3316032006,
+      "name": "Mendenrejo"
+    },
+    {
+      "code": 3316032007,
+      "name": "Sumber"
+    },
+    {
+      "code": 3316032008,
+      "name": "Mojorembun"
+    },
+    {
+      "code": 3316032009,
+      "name": "Nglungger"
+    },
+    {
+      "code": 3316032010,
+      "name": "Medalem"
+    }
+  ]
+}

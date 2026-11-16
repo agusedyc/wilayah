@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1505112001,
+      "name": "Kunangan"
+    },
+    {
+      "code": 1505112002,
+      "name": "Talang Duku"
+    },
+    {
+      "code": 1505112003,
+      "name": "Tebat Patah"
+    },
+    {
+      "code": 1505112004,
+      "name": "Kemingking Dalam"
+    },
+    {
+      "code": 1505112005,
+      "name": "Teluk Jambu"
+    },
+    {
+      "code": 1505112006,
+      "name": "Dusun Mudo"
+    },
+    {
+      "code": 1505112007,
+      "name": "Sekumbung"
+    },
+    {
+      "code": 1505112008,
+      "name": "Kemingking Luar"
+    },
+    {
+      "code": 1505112009,
+      "name": "Rukam"
+    },
+    {
+      "code": 1505112010,
+      "name": "Manis Mato"
+    }
+  ]
+}

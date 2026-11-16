@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7403282001,
+      "name": "Kogholifano"
+    },
+    {
+      "code": 7403282002,
+      "name": "Pola"
+    },
+    {
+      "code": 7403282007,
+      "name": "Kamosope"
+    },
+    {
+      "code": 7403282008,
+      "name": "Liwumetingki"
+    },
+    {
+      "code": 7403282009,
+      "name": "Labulawa"
+    },
+    {
+      "code": 7403282010,
+      "name": "Bumbu"
+    }
+  ]
+}

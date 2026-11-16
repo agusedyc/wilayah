@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3207132001,
+      "name": "Rajadesa"
+    },
+    {
+      "code": 3207132002,
+      "name": "Tanjungsukur"
+    },
+    {
+      "code": 3207132003,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3207132004,
+      "name": "Tanjungjaya"
+    },
+    {
+      "code": 3207132005,
+      "name": "Andapraja"
+    },
+    {
+      "code": 3207132006,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3207132007,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3207132008,
+      "name": "Tigaherang"
+    },
+    {
+      "code": 3207132009,
+      "name": "Sirnabaya"
+    },
+    {
+      "code": 3207132010,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3207132011,
+      "name": "Purwaraja"
+    }
+  ]
+}

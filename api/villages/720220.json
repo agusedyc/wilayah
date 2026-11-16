@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7202202001,
+      "name": "Taipa"
+    },
+    {
+      "code": 7202202002,
+      "name": "Meko"
+    },
+    {
+      "code": 7202202003,
+      "name": "Toinasa"
+    },
+    {
+      "code": 7202202004,
+      "name": "Salukaia"
+    },
+    {
+      "code": 7202202005,
+      "name": "Uranosari"
+    },
+    {
+      "code": 7202202006,
+      "name": "Owini"
+    }
+  ]
+}

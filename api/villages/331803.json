@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3318032001,
+      "name": "Pakis"
+    },
+    {
+      "code": 3318032002,
+      "name": "Maitan"
+    },
+    {
+      "code": 3318032003,
+      "name": "Wukirsari"
+    },
+    {
+      "code": 3318032004,
+      "name": "Sinomwidodo"
+    },
+    {
+      "code": 3318032005,
+      "name": "Keben"
+    },
+    {
+      "code": 3318032006,
+      "name": "Larangan"
+    },
+    {
+      "code": 3318032007,
+      "name": "Tambakromo"
+    },
+    {
+      "code": 3318032008,
+      "name": "Mojomulyo"
+    },
+    {
+      "code": 3318032009,
+      "name": "Karangawen"
+    },
+    {
+      "code": 3318032010,
+      "name": "Mangunrekso"
+    },
+    {
+      "code": 3318032011,
+      "name": "Tambaharjo"
+    },
+    {
+      "code": 3318032012,
+      "name": "Tambahagung"
+    },
+    {
+      "code": 3318032013,
+      "name": "Sitirejo"
+    },
+    {
+      "code": 3318032014,
+      "name": "Kedalingan"
+    },
+    {
+      "code": 3318032015,
+      "name": "Karangmulyo"
+    },
+    {
+      "code": 3318032016,
+      "name": "Karangwono"
+    },
+    {
+      "code": 3318032017,
+      "name": "Angkatan Lor"
+    },
+    {
+      "code": 3318032018,
+      "name": "Angkatan Kidul"
+    }
+  ]
+}

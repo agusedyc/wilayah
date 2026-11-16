@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1371071001,
+      "name": "Indarung"
+    },
+    {
+      "code": 1371071002,
+      "name": "Padang Besi"
+    },
+    {
+      "code": 1371071003,
+      "name": "Batu Gadang"
+    },
+    {
+      "code": 1371071004,
+      "name": "Banda Buek"
+    },
+    {
+      "code": 1371071005,
+      "name": "Koto Lalang"
+    },
+    {
+      "code": 1371071006,
+      "name": "Baringin"
+    },
+    {
+      "code": 1371071007,
+      "name": "Tarantang"
+    }
+  ]
+}

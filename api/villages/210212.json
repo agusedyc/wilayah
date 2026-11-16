@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2102122001,
+      "name": "Sebele"
+    },
+    {
+      "code": 2102122002,
+      "name": "Lebuh"
+    },
+    {
+      "code": 2102122003,
+      "name": "Penarah"
+    },
+    {
+      "code": 2102122004,
+      "name": "Sungai Asam"
+    },
+    {
+      "code": 2102122005,
+      "name": "Tebias"
+    },
+    {
+      "code": 2102122006,
+      "name": "Degong"
+    }
+  ]
+}

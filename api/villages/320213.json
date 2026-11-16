@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3202132001,
+      "name": "Parungkuda"
+    },
+    {
+      "code": 3202132002,
+      "name": "Palasari Hilir"
+    },
+    {
+      "code": 3202132003,
+      "name": "Kompa"
+    },
+    {
+      "code": 3202132004,
+      "name": "Pondokkaso Landeuh"
+    },
+    {
+      "code": 3202132005,
+      "name": "Sundawenang"
+    },
+    {
+      "code": 3202132006,
+      "name": "Bojongkokosan"
+    },
+    {
+      "code": 3202132007,
+      "name": "Langesari"
+    },
+    {
+      "code": 3202132008,
+      "name": "Babakanjaya"
+    }
+  ]
+}

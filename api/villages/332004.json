@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3320042001,
+      "name": "Mayong Lor"
+    },
+    {
+      "code": 3320042002,
+      "name": "Tigajuru"
+    },
+    {
+      "code": 3320042003,
+      "name": "Paren"
+    },
+    {
+      "code": 3320042004,
+      "name": "Kuanyar"
+    },
+    {
+      "code": 3320042005,
+      "name": "Pelang"
+    },
+    {
+      "code": 3320042006,
+      "name": "Sengonbugel"
+    },
+    {
+      "code": 3320042007,
+      "name": "Jebol"
+    },
+    {
+      "code": 3320042008,
+      "name": "Singorojo"
+    },
+    {
+      "code": 3320042009,
+      "name": "Pelemkerep"
+    },
+    {
+      "code": 3320042010,
+      "name": "Buaran"
+    },
+    {
+      "code": 3320042011,
+      "name": "Ngroto"
+    },
+    {
+      "code": 3320042012,
+      "name": "Rajekwesi"
+    },
+    {
+      "code": 3320042013,
+      "name": "Datar"
+    },
+    {
+      "code": 3320042014,
+      "name": "Pule"
+    },
+    {
+      "code": 3320042015,
+      "name": "Bandung"
+    },
+    {
+      "code": 3320042016,
+      "name": "Bungu"
+    },
+    {
+      "code": 3320042017,
+      "name": "Pancur"
+    },
+    {
+      "code": 3320042018,
+      "name": "Mayong Kidul"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1612011003,
+      "name": "Talang Ubi Timur"
+    },
+    {
+      "code": 1612011010,
+      "name": "Talang Ubi Barat"
+    },
+    {
+      "code": 1612011011,
+      "name": "Talang Ubi Utara"
+    },
+    {
+      "code": 1612011012,
+      "name": "Talang Ubi Selatan"
+    },
+    {
+      "code": 1612011017,
+      "name": "Pasar Bhayangkara"
+    },
+    {
+      "code": 1612011018,
+      "name": "Handayani Mulya"
+    },
+    {
+      "code": 1612012001,
+      "name": "Talang Bulang"
+    },
+    {
+      "code": 1612012002,
+      "name": "Benuang"
+    },
+    {
+      "code": 1612012004,
+      "name": "Talang Akar"
+    },
+    {
+      "code": 1612012005,
+      "name": "Sungai Ibul"
+    },
+    {
+      "code": 1612012006,
+      "name": "Karta Dewa"
+    },
+    {
+      "code": 1612012007,
+      "name": "Panta Dewa"
+    },
+    {
+      "code": 1612012008,
+      "name": "Sungai Baung"
+    },
+    {
+      "code": 1612012009,
+      "name": "Semangus"
+    },
+    {
+      "code": 1612012013,
+      "name": "Sinar Dewa"
+    },
+    {
+      "code": 1612012014,
+      "name": "Benakat Minyak"
+    },
+    {
+      "code": 1612012015,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1612012016,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1612012019,
+      "name": "Beruge Darat"
+    },
+    {
+      "code": 1612012020,
+      "name": "Simpang Tais"
+    }
+  ]
+}

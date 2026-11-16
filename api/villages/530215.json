@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302152006,
+      "name": "Sabun"
+    },
+    {
+      "code": 5302152007,
+      "name": "Nano"
+    },
+    {
+      "code": 5302152009,
+      "name": "Boking"
+    },
+    {
+      "code": 5302152010,
+      "name": "Baus"
+    },
+    {
+      "code": 5302152011,
+      "name": "Meusin"
+    },
+    {
+      "code": 5302152013,
+      "name": "Leonmeni"
+    },
+    {
+      "code": 5302152014,
+      "name": "Fatu Manufui"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5310142001,
+      "name": "Buar"
+    },
+    {
+      "code": 5310142002,
+      "name": "Benteng Tubi"
+    },
+    {
+      "code": 5310142003,
+      "name": "Compang Dari"
+    },
+    {
+      "code": 5310142004,
+      "name": "Dimpong"
+    },
+    {
+      "code": 5310142005,
+      "name": "Bangka Ajang"
+    },
+    {
+      "code": 5310142006,
+      "name": "Liang Bua"
+    },
+    {
+      "code": 5310142007,
+      "name": "Tengku Lese"
+    },
+    {
+      "code": 5310142008,
+      "name": "Golo Langkok"
+    },
+    {
+      "code": 5310142009,
+      "name": "Pong Lengor"
+    },
+    {
+      "code": 5310142010,
+      "name": "Manong"
+    },
+    {
+      "code": 5310142011,
+      "name": "Bangka Ruang"
+    },
+    {
+      "code": 5310142012,
+      "name": "Wae Mantang"
+    }
+  ]
+}

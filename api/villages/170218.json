@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1702181001,
+      "name": "Air Putih Baru"
+    },
+    {
+      "code": 1702181002,
+      "name": "Tempel Rejo"
+    },
+    {
+      "code": 1702182003,
+      "name": "Rimbo Recap"
+    },
+    {
+      "code": 1702182004,
+      "name": "Watas Marga"
+    },
+    {
+      "code": 1702182005,
+      "name": "Teladan"
+    },
+    {
+      "code": 1702182006,
+      "name": "Suka Marga"
+    },
+    {
+      "code": 1702182007,
+      "name": "Lubuk Ubar"
+    },
+    {
+      "code": 1702182008,
+      "name": "Pungguk Lalang"
+    },
+    {
+      "code": 1702182009,
+      "name": "Turan Baru"
+    },
+    {
+      "code": 1702182010,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1702182011,
+      "name": "Air Lanang"
+    }
+  ]
+}

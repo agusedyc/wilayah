@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7203102001,
+      "name": "Dalaka"
+    },
+    {
+      "code": 7203102002,
+      "name": "Lero"
+    },
+    {
+      "code": 7203102003,
+      "name": "Taripa"
+    },
+    {
+      "code": 7203102004,
+      "name": "Sumari"
+    },
+    {
+      "code": 7203102005,
+      "name": "Toaya"
+    },
+    {
+      "code": 7203102006,
+      "name": "Masaingi"
+    },
+    {
+      "code": 7203102007,
+      "name": "Marana"
+    },
+    {
+      "code": 7203102008,
+      "name": "Enu"
+    },
+    {
+      "code": 7203102016,
+      "name": "Lero Tatari"
+    },
+    {
+      "code": 7203102017,
+      "name": "Toaya Vunta"
+    },
+    {
+      "code": 7203102018,
+      "name": "Gumbasa"
+    },
+    {
+      "code": 7203102019,
+      "name": "Ape Maliko"
+    },
+    {
+      "code": 7203102020,
+      "name": "Kavaya"
+    }
+  ]
+}

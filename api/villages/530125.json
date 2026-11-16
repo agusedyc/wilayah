@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5301252001,
+      "name": "Fatukanutu"
+    },
+    {
+      "code": 5301252002,
+      "name": "Kairane"
+    },
+    {
+      "code": 5301252003,
+      "name": "Raknamo"
+    },
+    {
+      "code": 5301252004,
+      "name": "Kuanheum"
+    },
+    {
+      "code": 5301252005,
+      "name": "Fatuteta"
+    },
+    {
+      "code": 5301252006,
+      "name": "Oefeto"
+    },
+    {
+      "code": 5301252007,
+      "name": "Niunbaun"
+    }
+  ]
+}

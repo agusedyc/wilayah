@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5202042001,
+      "name": "Sengkol"
+    },
+    {
+      "code": 5202042002,
+      "name": "Segala Anyar"
+    },
+    {
+      "code": 5202042003,
+      "name": "Sukadana"
+    },
+    {
+      "code": 5202042004,
+      "name": "Teruwai"
+    },
+    {
+      "code": 5202042005,
+      "name": "Pengengat"
+    },
+    {
+      "code": 5202042006,
+      "name": "Kawo"
+    },
+    {
+      "code": 5202042007,
+      "name": "Gapura"
+    },
+    {
+      "code": 5202042008,
+      "name": "Rembitan"
+    },
+    {
+      "code": 5202042009,
+      "name": "Kuta"
+    },
+    {
+      "code": 5202042010,
+      "name": "Pengembur"
+    },
+    {
+      "code": 5202042011,
+      "name": "Tumpak"
+    },
+    {
+      "code": 5202042012,
+      "name": "Mertak"
+    },
+    {
+      "code": 5202042013,
+      "name": "Prabu"
+    },
+    {
+      "code": 5202042014,
+      "name": "Tanak Awu"
+    },
+    {
+      "code": 5202042015,
+      "name": "Ketara"
+    },
+    {
+      "code": 5202042016,
+      "name": "Bangket Parak"
+    },
+    {
+      "code": 5202042017,
+      "name": "Dadap"
+    },
+    {
+      "code": 5202042018,
+      "name": "Kerame Jati"
+    }
+  ]
+}

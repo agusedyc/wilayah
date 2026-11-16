@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1807172001,
+      "name": "Wana"
+    },
+    {
+      "code": 1807172002,
+      "name": "Tanjung Aji"
+    },
+    {
+      "code": 1807172003,
+      "name": "Tebing"
+    },
+    {
+      "code": 1807172004,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 1807172005,
+      "name": "Itik Renday"
+    },
+    {
+      "code": 1807172006,
+      "name": "Sumber Hadi"
+    }
+  ]
+}

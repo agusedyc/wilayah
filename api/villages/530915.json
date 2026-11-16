@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5309152001,
+      "name": "Uluwae"
+    },
+    {
+      "code": 5309152002,
+      "name": "Inelika"
+    },
+    {
+      "code": 5309152003,
+      "name": "Inegena"
+    },
+    {
+      "code": 5309152004,
+      "name": "Wololika"
+    },
+    {
+      "code": 5309152005,
+      "name": "Watukapu"
+    },
+    {
+      "code": 5309152006,
+      "name": "Waewea"
+    },
+    {
+      "code": 5309152007,
+      "name": "Nabelena"
+    },
+    {
+      "code": 5309152008,
+      "name": "Genamere"
+    },
+    {
+      "code": 5309152009,
+      "name": "Uluwae I"
+    },
+    {
+      "code": 5309152010,
+      "name": "Uluwae II"
+    },
+    {
+      "code": 5309152011,
+      "name": "Tura Muri"
+    },
+    {
+      "code": 5309152012,
+      "name": "Bowado"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6401051001,
+      "name": "Kuaro"
+    },
+    {
+      "code": 6401052002,
+      "name": "Lolo"
+    },
+    {
+      "code": 6401052003,
+      "name": "Sandeley"
+    },
+    {
+      "code": 6401052004,
+      "name": "Harapan Baru"
+    },
+    {
+      "code": 6401052005,
+      "name": "Rangan"
+    },
+    {
+      "code": 6401052006,
+      "name": "Modang"
+    },
+    {
+      "code": 6401052007,
+      "name": "Pasir Mayang"
+    },
+    {
+      "code": 6401052008,
+      "name": "Kerta Bumi"
+    },
+    {
+      "code": 6401052009,
+      "name": "Pondong Baru"
+    },
+    {
+      "code": 6401052010,
+      "name": "Padang Jaya"
+    },
+    {
+      "code": 6401052011,
+      "name": "Kendarom"
+    },
+    {
+      "code": 6401052012,
+      "name": "Klempang Sari"
+    },
+    {
+      "code": 6401052013,
+      "name": "Keluang Paser Jaya"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3506232001,
+      "name": "Ringinrejo"
+    },
+    {
+      "code": 3506232002,
+      "name": "Batuaji"
+    },
+    {
+      "code": 3506232003,
+      "name": "Deyeng"
+    },
+    {
+      "code": 3506232004,
+      "name": "Dawung"
+    },
+    {
+      "code": 3506232005,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3506232006,
+      "name": "Sambi"
+    },
+    {
+      "code": 3506232007,
+      "name": "Susuhbango"
+    },
+    {
+      "code": 3506232008,
+      "name": "Selodono"
+    },
+    {
+      "code": 3506232009,
+      "name": "Nambakan"
+    },
+    {
+      "code": 3506232010,
+      "name": "Srikaton"
+    },
+    {
+      "code": 3506232011,
+      "name": "Jemekan"
+    }
+  ]
+}

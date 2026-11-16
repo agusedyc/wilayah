@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3210182001,
+      "name": "Cijurey"
+    },
+    {
+      "code": 3210182002,
+      "name": "Pasirmuncang"
+    },
+    {
+      "code": 3210182003,
+      "name": "Jatipamor"
+    },
+    {
+      "code": 3210182004,
+      "name": "Bantrangsana"
+    },
+    {
+      "code": 3210182005,
+      "name": "Jatiserang"
+    },
+    {
+      "code": 3210182006,
+      "name": "Bonang"
+    },
+    {
+      "code": 3210182007,
+      "name": "Leuwiseeng"
+    },
+    {
+      "code": 3210182008,
+      "name": "Panyingkiran"
+    },
+    {
+      "code": 3210182009,
+      "name": "Karyamukti"
+    }
+  ]
+}

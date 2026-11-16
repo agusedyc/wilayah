@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7211022001,
+      "name": "Kendek"
+    },
+    {
+      "code": 7211022002,
+      "name": "Lokotoy"
+    },
+    {
+      "code": 7211022003,
+      "name": "Popisi"
+    },
+    {
+      "code": 7211022004,
+      "name": "Paisumosoni"
+    },
+    {
+      "code": 7211022005,
+      "name": "Tolisetubono"
+    },
+    {
+      "code": 7211022006,
+      "name": "Bone Baru"
+    }
+  ]
+}

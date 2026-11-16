@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6310042003,
+      "name": "Setarap"
+    },
+    {
+      "code": 6310042004,
+      "name": "Satui Timur"
+    },
+    {
+      "code": 6310042005,
+      "name": "Sungaicuka"
+    },
+    {
+      "code": 6310042006,
+      "name": "Jombang"
+    },
+    {
+      "code": 6310042008,
+      "name": "Satui Barat"
+    },
+    {
+      "code": 6310042009,
+      "name": "Sekapuk"
+    },
+    {
+      "code": 6310042010,
+      "name": "Sungaidanau"
+    },
+    {
+      "code": 6310042011,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 6310042012,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 6310042013,
+      "name": "Tegal Sari"
+    },
+    {
+      "code": 6310042019,
+      "name": "Sumber Arum"
+    },
+    {
+      "code": 6310042022,
+      "name": "Sejahtera Mulia"
+    },
+    {
+      "code": 6310042023,
+      "name": "Al Kautsar"
+    },
+    {
+      "code": 6310042024,
+      "name": "Makmur Mulia"
+    },
+    {
+      "code": 6310042025,
+      "name": "Sinar Bulan"
+    },
+    {
+      "code": 6310042026,
+      "name": "Pandamaran Jaya"
+    },
+    {
+      "code": 6310042027,
+      "name": "Sido Rejo"
+    },
+    {
+      "code": 6310042028,
+      "name": "Beruntung Raya"
+    },
+    {
+      "code": 6310042029,
+      "name": "Barakat Mufakat"
+    },
+    {
+      "code": 6310042030,
+      "name": "Makmur Jaya"
+    }
+  ]
+}

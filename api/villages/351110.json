@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3511102001,
+      "name": "Wonokusumo"
+    },
+    {
+      "code": 3511102002,
+      "name": "Mangli Wetan"
+    },
+    {
+      "code": 3511102003,
+      "name": "Taal"
+    },
+    {
+      "code": 3511102004,
+      "name": "Mrawan"
+    },
+    {
+      "code": 3511102005,
+      "name": "Gunung Anyar"
+    },
+    {
+      "code": 3511102006,
+      "name": "Jurang Sapi"
+    },
+    {
+      "code": 3511102007,
+      "name": "Cindogo"
+    },
+    {
+      "code": 3511102008,
+      "name": "Kalitapen"
+    },
+    {
+      "code": 3511102009,
+      "name": "Tapen"
+    }
+  ]
+}

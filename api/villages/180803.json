@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1808031006,
+      "name": "Pasar Banjit"
+    },
+    {
+      "code": 1808032001,
+      "name": "Bonglai"
+    },
+    {
+      "code": 1808032002,
+      "name": "Campang Lapan"
+    },
+    {
+      "code": 1808032003,
+      "name": "Sumber Baru"
+    },
+    {
+      "code": 1808032004,
+      "name": "Rantau Temiang"
+    },
+    {
+      "code": 1808032005,
+      "name": "Juku Batu"
+    },
+    {
+      "code": 1808032007,
+      "name": "Bali Sadhar Tengah"
+    },
+    {
+      "code": 1808032008,
+      "name": "Donomulyo"
+    },
+    {
+      "code": 1808032009,
+      "name": "Bali Sadhar Utara"
+    },
+    {
+      "code": 1808032010,
+      "name": "Bali Sadhar Selatan"
+    },
+    {
+      "code": 1808032011,
+      "name": "Menanga Jaya"
+    },
+    {
+      "code": 1808032012,
+      "name": "Argomulyo"
+    },
+    {
+      "code": 1808032013,
+      "name": "Rantau Jaya"
+    },
+    {
+      "code": 1808032014,
+      "name": "Rebang Tinggi"
+    },
+    {
+      "code": 1808032015,
+      "name": "Simpang Asam"
+    },
+    {
+      "code": 1808032016,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1808032017,
+      "name": "Kemu"
+    },
+    {
+      "code": 1808032018,
+      "name": "Menanga Siamang"
+    },
+    {
+      "code": 1808032019,
+      "name": "Neki"
+    },
+    {
+      "code": 1808032020,
+      "name": "Sumber Sari"
+    }
+  ]
+}

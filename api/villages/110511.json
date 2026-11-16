@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1105112001,
+      "name": "Seuradeuk"
+    },
+    {
+      "code": 1105112002,
+      "name": "Lubuk Panyang"
+    },
+    {
+      "code": 1105112003,
+      "name": "Paya Baro"
+    },
+    {
+      "code": 1105112004,
+      "name": "Kubu Capang"
+    },
+    {
+      "code": 1105112005,
+      "name": "Pasi Ara WT"
+    },
+    {
+      "code": 1105112006,
+      "name": "Gampong Baro WT"
+    },
+    {
+      "code": 1105112007,
+      "name": "Rambong"
+    },
+    {
+      "code": 1105112008,
+      "name": "Cot Punti"
+    },
+    {
+      "code": 1105112009,
+      "name": "Alue Eumpeuk"
+    },
+    {
+      "code": 1105112010,
+      "name": "Alue Bilie"
+    },
+    {
+      "code": 1105112011,
+      "name": "Pasi Janeng"
+    },
+    {
+      "code": 1105112012,
+      "name": "Tangkeh"
+    },
+    {
+      "code": 1105112013,
+      "name": "Alue Kuyun"
+    },
+    {
+      "code": 1105112014,
+      "name": "Bukit Meugajah"
+    },
+    {
+      "code": 1105112015,
+      "name": "Blang Dalam"
+    },
+    {
+      "code": 1105112016,
+      "name": "Teumiket Ranom"
+    },
+    {
+      "code": 1105112017,
+      "name": "Blang Makmue"
+    },
+    {
+      "code": 1105112018,
+      "name": "Gampong Baro KB"
+    },
+    {
+      "code": 1105112019,
+      "name": "Alue Meuganda"
+    },
+    {
+      "code": 1105112020,
+      "name": "Alue Seuralen"
+    },
+    {
+      "code": 1105112021,
+      "name": "Rambong Pinto"
+    },
+    {
+      "code": 1105112022,
+      "name": "Tuwi Eumpeuk"
+    },
+    {
+      "code": 1105112023,
+      "name": "Blang Luah KB"
+    },
+    {
+      "code": 1105112024,
+      "name": "Seuneubok Dalam"
+    },
+    {
+      "code": 1105112025,
+      "name": "Paya Meugendrang"
+    },
+    {
+      "code": 1105112026,
+      "name": "Gunong Panyang"
+    }
+  ]
+}

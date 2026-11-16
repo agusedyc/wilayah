@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201022001,
+      "name": "Wanaherang"
+    },
+    {
+      "code": 3201022002,
+      "name": "Bojongkulur"
+    },
+    {
+      "code": 3201022003,
+      "name": "Ciangsana"
+    },
+    {
+      "code": 3201022004,
+      "name": "Gunungputri"
+    },
+    {
+      "code": 3201022005,
+      "name": "Bojongnangka"
+    },
+    {
+      "code": 3201022006,
+      "name": "Tlajung Udik"
+    },
+    {
+      "code": 3201022007,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3201022008,
+      "name": "Cikeas Udik"
+    },
+    {
+      "code": 3201022009,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3201022010,
+      "name": "Karanggan"
+    }
+  ]
+}

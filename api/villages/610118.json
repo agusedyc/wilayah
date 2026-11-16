@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6101182001,
+      "name": "Parit Baru"
+    },
+    {
+      "code": 6101182002,
+      "name": "Sungai Toman"
+    },
+    {
+      "code": 6101182003,
+      "name": "Serunai"
+    },
+    {
+      "code": 6101182004,
+      "name": "Serumpun"
+    },
+    {
+      "code": 6101182005,
+      "name": "Salatiga"
+    }
+  ]
+}

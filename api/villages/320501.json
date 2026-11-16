@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3205011001,
+      "name": "Kota Kulon"
+    },
+    {
+      "code": 3205011002,
+      "name": "Kota Wetan"
+    },
+    {
+      "code": 3205011003,
+      "name": "Margawati"
+    },
+    {
+      "code": 3205011004,
+      "name": "Pakuwon"
+    },
+    {
+      "code": 3205011005,
+      "name": "Muara Sanding"
+    },
+    {
+      "code": 3205011006,
+      "name": "Sukamentri"
+    },
+    {
+      "code": 3205011007,
+      "name": "Ciwalen"
+    },
+    {
+      "code": 3205011008,
+      "name": "Paminggir"
+    },
+    {
+      "code": 3205011009,
+      "name": "Regol"
+    },
+    {
+      "code": 3205011010,
+      "name": "Sukanegla"
+    },
+    {
+      "code": 3205011011,
+      "name": "Cimuncang"
+    }
+  ]
+}

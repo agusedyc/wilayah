@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7318291001,
+      "name": "Tiromanda"
+    },
+    {
+      "code": 7318291002,
+      "name": "Sandabilik"
+    },
+    {
+      "code": 7318291003,
+      "name": "Tosapan"
+    },
+    {
+      "code": 7318291004,
+      "name": "Pasang"
+    },
+    {
+      "code": 7318292005,
+      "name": "Randan Batu"
+    },
+    {
+      "code": 7318292006,
+      "name": "Patekke"
+    },
+    {
+      "code": 7318292007,
+      "name": "Pa'buaran"
+    },
+    {
+      "code": 7318292008,
+      "name": "Bo'ne Buntu Sisong"
+    }
+  ]
+}

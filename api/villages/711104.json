@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7111042001,
+      "name": "Mataindo"
+    },
+    {
+      "code": 7111042002,
+      "name": "Adow"
+    },
+    {
+      "code": 7111042003,
+      "name": "Torosik"
+    },
+    {
+      "code": 7111042004,
+      "name": "Tobayagan"
+    },
+    {
+      "code": 7111042005,
+      "name": "Deaga"
+    },
+    {
+      "code": 7111042006,
+      "name": "Adow Selatan"
+    },
+    {
+      "code": 7111042007,
+      "name": "Mataindo Utara"
+    },
+    {
+      "code": 7111042008,
+      "name": "Tobayagan Selatan"
+    }
+  ]
+}

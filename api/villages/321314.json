@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3213142001,
+      "name": "Buniara"
+    },
+    {
+      "code": 3213142002,
+      "name": "Tanjungsiang"
+    },
+    {
+      "code": 3213142003,
+      "name": "Cimeuhmal"
+    },
+    {
+      "code": 3213142004,
+      "name": "Sirap"
+    },
+    {
+      "code": 3213142005,
+      "name": "Kawungluwuk"
+    },
+    {
+      "code": 3213142006,
+      "name": "Cibuluh"
+    },
+    {
+      "code": 3213142007,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3213142008,
+      "name": "Rancamanggung"
+    },
+    {
+      "code": 3213142009,
+      "name": "Cikawung"
+    },
+    {
+      "code": 3213142010,
+      "name": "Gandasoli"
+    }
+  ]
+}

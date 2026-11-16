@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9111022001,
+      "name": "Arso Kota"
+    },
+    {
+      "code": 9111022002,
+      "name": "Workwana"
+    },
+    {
+      "code": 9111022003,
+      "name": "Kwimi"
+    },
+    {
+      "code": 9111022004,
+      "name": "Ubiyau"
+    },
+    {
+      "code": 9111022006,
+      "name": "Sawanawa"
+    },
+    {
+      "code": 9111022009,
+      "name": "Yuwanain"
+    },
+    {
+      "code": 9111022010,
+      "name": "Yanamaa"
+    },
+    {
+      "code": 9111022011,
+      "name": "Asyaman"
+    },
+    {
+      "code": 9111022012,
+      "name": "Yamta"
+    },
+    {
+      "code": 9111022016,
+      "name": "Bagia"
+    },
+    {
+      "code": 9111022030,
+      "name": "Sawabuun"
+    },
+    {
+      "code": 9111022031,
+      "name": "Bibiosi"
+    }
+  ]
+}

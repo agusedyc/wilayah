@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3324202001,
+      "name": "Jeruk Giling"
+    },
+    {
+      "code": 3324202002,
+      "name": "Kedungsuren"
+    },
+    {
+      "code": 3324202003,
+      "name": "Darupono"
+    },
+    {
+      "code": 3324202004,
+      "name": "Protomulyo"
+    },
+    {
+      "code": 3324202005,
+      "name": "Magelung"
+    },
+    {
+      "code": 3324202006,
+      "name": "Plantaran"
+    },
+    {
+      "code": 3324202007,
+      "name": "Sukomulyo"
+    },
+    {
+      "code": 3324202008,
+      "name": "Sidomakmur"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9407052001,
+      "name": "Agisiga"
+    },
+    {
+      "code": 9407052002,
+      "name": "Tausiga"
+    },
+    {
+      "code": 9407052003,
+      "name": "Unabundoga"
+    },
+    {
+      "code": 9407052004,
+      "name": "Mbamogo"
+    },
+    {
+      "code": 9407052005,
+      "name": "Jenetapa Janasiga"
+    },
+    {
+      "code": 9407052006,
+      "name": "Soali"
+    },
+    {
+      "code": 9407052007,
+      "name": "Tambage"
+    },
+    {
+      "code": 9407052008,
+      "name": "Nabia"
+    },
+    {
+      "code": 9407052009,
+      "name": "Danggoa"
+    },
+    {
+      "code": 9407052010,
+      "name": "Kombogosiga"
+    }
+  ]
+}

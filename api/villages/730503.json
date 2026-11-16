@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7305031001,
+      "name": "Pa'bundukang"
+    },
+    {
+      "code": 7305031002,
+      "name": "Pattene"
+    },
+    {
+      "code": 7305031003,
+      "name": "Bontokadatto"
+    },
+    {
+      "code": 7305031004,
+      "name": "Canrego"
+    },
+    {
+      "code": 7305031005,
+      "name": "Bulukunyi"
+    },
+    {
+      "code": 7305031010,
+      "name": "Rajaya"
+    },
+    {
+      "code": 7305032006,
+      "name": "Moncongkomba"
+    },
+    {
+      "code": 7305032007,
+      "name": "Cakura"
+    },
+    {
+      "code": 7305032008,
+      "name": "Lantang"
+    },
+    {
+      "code": 7305032009,
+      "name": "Su'rulangi"
+    },
+    {
+      "code": 7305032011,
+      "name": "Kale Lantang"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7371091001,
+      "name": "Karuwisi"
+    },
+    {
+      "code": 7371091002,
+      "name": "Panaikang"
+    },
+    {
+      "code": 7371091003,
+      "name": "Tello Baru"
+    },
+    {
+      "code": 7371091004,
+      "name": "Pampang"
+    },
+    {
+      "code": 7371091005,
+      "name": "Karampuang"
+    },
+    {
+      "code": 7371091006,
+      "name": "Tamamaung"
+    },
+    {
+      "code": 7371091007,
+      "name": "Masale"
+    },
+    {
+      "code": 7371091008,
+      "name": "Pandang"
+    },
+    {
+      "code": 7371091009,
+      "name": "Karuwisi Utara"
+    },
+    {
+      "code": 7371091010,
+      "name": "Sinrijala"
+    },
+    {
+      "code": 7371091011,
+      "name": "Paropo"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1705072001,
+      "name": "Talang Giring"
+    },
+    {
+      "code": 1705072002,
+      "name": "Padang Capo Ilir"
+    },
+    {
+      "code": 1705072003,
+      "name": "Padang Capo Ulu"
+    },
+    {
+      "code": 1705072004,
+      "name": "Talang Kebun"
+    },
+    {
+      "code": 1705072005,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1705072006,
+      "name": "Cawang"
+    },
+    {
+      "code": 1705072007,
+      "name": "Arang Sapat"
+    },
+    {
+      "code": 1705072008,
+      "name": "Dusun Tengah"
+    },
+    {
+      "code": 1705072009,
+      "name": "Tanjung Kuaw"
+    },
+    {
+      "code": 1705072010,
+      "name": "Napal Jungur"
+    },
+    {
+      "code": 1705072011,
+      "name": "Tumbu'an"
+    },
+    {
+      "code": 1705072012,
+      "name": "Rena Panjang"
+    },
+    {
+      "code": 1705072013,
+      "name": "Sakaian"
+    },
+    {
+      "code": 1705072014,
+      "name": "Lubuk Terentang"
+    }
+  ]
+}

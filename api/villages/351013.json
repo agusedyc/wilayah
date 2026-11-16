@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3510132001,
+      "name": "Aliyan"
+    },
+    {
+      "code": 3510132002,
+      "name": "Mangir"
+    },
+    {
+      "code": 3510132006,
+      "name": "Gladag"
+    },
+    {
+      "code": 3510132007,
+      "name": "Bubuk"
+    },
+    {
+      "code": 3510132008,
+      "name": "Lemahbangdewo"
+    },
+    {
+      "code": 3510132010,
+      "name": "Gitik"
+    },
+    {
+      "code": 3510132012,
+      "name": "Karangbendo"
+    },
+    {
+      "code": 3510132013,
+      "name": "Rogojampi"
+    },
+    {
+      "code": 3510132014,
+      "name": "Pengatigan"
+    },
+    {
+      "code": 3510132018,
+      "name": "Kedaleman"
+    }
+  ]
+}

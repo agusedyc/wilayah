@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1306112001,
+      "name": "Baringin"
+    },
+    {
+      "code": 1306112002,
+      "name": "Sipinang"
+    },
+    {
+      "code": 1306112003,
+      "name": "Sungai Puar"
+    },
+    {
+      "code": 1306112004,
+      "name": "Ampek Koto Palembayan"
+    },
+    {
+      "code": 1306112005,
+      "name": "Tigo Koto Silungkang"
+    },
+    {
+      "code": 1306112006,
+      "name": "Salareh Aia"
+    },
+    {
+      "code": 1306112007,
+      "name": "Salareh Aia Timur"
+    },
+    {
+      "code": 1306112008,
+      "name": "Salareh Aia Utara"
+    },
+    {
+      "code": 1306112009,
+      "name": "Salareh Aia Barat"
+    }
+  ]
+}

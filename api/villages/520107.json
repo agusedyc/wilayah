@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5201072001,
+      "name": "Sekotong Tengah"
+    },
+    {
+      "code": 5201072002,
+      "name": "Sekotong Barat"
+    },
+    {
+      "code": 5201072003,
+      "name": "Pelangan"
+    },
+    {
+      "code": 5201072004,
+      "name": "Buwun Mas"
+    },
+    {
+      "code": 5201072005,
+      "name": "Kedaro"
+    },
+    {
+      "code": 5201072006,
+      "name": "Batu Putih"
+    },
+    {
+      "code": 5201072007,
+      "name": "Gili Gede Indah"
+    },
+    {
+      "code": 5201072008,
+      "name": "Cendi Manik"
+    },
+    {
+      "code": 5201072009,
+      "name": "Taman Baru"
+    }
+  ]
+}

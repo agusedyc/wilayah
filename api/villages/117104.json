@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1171042001,
+      "name": "Jeulingke"
+    },
+    {
+      "code": 1171042002,
+      "name": "Tibang"
+    },
+    {
+      "code": 1171042003,
+      "name": "Deah Raya"
+    },
+    {
+      "code": 1171042004,
+      "name": "Alue Naga"
+    },
+    {
+      "code": 1171042005,
+      "name": "Ie Masen Kayee Adang"
+    },
+    {
+      "code": 1171042006,
+      "name": "Pineung"
+    },
+    {
+      "code": 1171042007,
+      "name": "Lamgugob"
+    },
+    {
+      "code": 1171042008,
+      "name": "Kopelma Darussalam"
+    },
+    {
+      "code": 1171042009,
+      "name": "Rukoh"
+    },
+    {
+      "code": 1171042010,
+      "name": "Peurada"
+    }
+  ]
+}

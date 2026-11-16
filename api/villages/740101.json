@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7401011001,
+      "name": "19 Nopember"
+    },
+    {
+      "code": 7401011002,
+      "name": "Wundulako"
+    },
+    {
+      "code": 7401011003,
+      "name": "Lamekongga"
+    },
+    {
+      "code": 7401011004,
+      "name": "Kowioha"
+    },
+    {
+      "code": 7401011005,
+      "name": "Silea"
+    },
+    {
+      "code": 7401011011,
+      "name": "Ngapa"
+    },
+    {
+      "code": 7401012006,
+      "name": "Towua"
+    },
+    {
+      "code": 7401012007,
+      "name": "Bende"
+    },
+    {
+      "code": 7401012008,
+      "name": "Unamendaa"
+    },
+    {
+      "code": 7401012009,
+      "name": "Tikonu"
+    },
+    {
+      "code": 7401012010,
+      "name": "Sabiano"
+    }
+  ]
+}

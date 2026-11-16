@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9503112001,
+      "name": "Amuma"
+    },
+    {
+      "code": 9503112002,
+      "name": "Sarmuge"
+    },
+    {
+      "code": 9503112003,
+      "name": "Tolikapura"
+    },
+    {
+      "code": 9503112004,
+      "name": "Wisikma"
+    },
+    {
+      "code": 9503112005,
+      "name": "Silorin"
+    },
+    {
+      "code": 9503112006,
+      "name": "Waeklek"
+    },
+    {
+      "code": 9503112007,
+      "name": "Balum Erang"
+    },
+    {
+      "code": 9503112008,
+      "name": "Golowen"
+    },
+    {
+      "code": 9503112009,
+      "name": "Orugai"
+    },
+    {
+      "code": 9503112010,
+      "name": "Plau"
+    },
+    {
+      "code": 9503112011,
+      "name": "Sagasal"
+    },
+    {
+      "code": 9503112012,
+      "name": "Kinika"
+    },
+    {
+      "code": 9503112013,
+      "name": "Harapan"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3506062001,
+      "name": "Duwet"
+    },
+    {
+      "code": 3506062002,
+      "name": "Pojok"
+    },
+    {
+      "code": 3506062003,
+      "name": "Segaran"
+    },
+    {
+      "code": 3506062004,
+      "name": "Gadungan"
+    },
+    {
+      "code": 3506062005,
+      "name": "Wates"
+    },
+    {
+      "code": 3506062006,
+      "name": "Tawang"
+    },
+    {
+      "code": 3506062007,
+      "name": "Jajar"
+    },
+    {
+      "code": 3506062008,
+      "name": "Tunge"
+    },
+    {
+      "code": 3506062009,
+      "name": "Tempurejo"
+    },
+    {
+      "code": 3506062010,
+      "name": "Plaosan"
+    },
+    {
+      "code": 3506062011,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3506062012,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3506062013,
+      "name": "Pagu"
+    },
+    {
+      "code": 3506062014,
+      "name": "Joho"
+    },
+    {
+      "code": 3506062015,
+      "name": "Silir"
+    },
+    {
+      "code": 3506062016,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3506062017,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3506062018,
+      "name": "Janti"
+    }
+  ]
+}

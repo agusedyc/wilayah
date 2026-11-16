@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6372031001,
+      "name": "Palam"
+    },
+    {
+      "code": 6372031002,
+      "name": "Bangkal"
+    },
+    {
+      "code": 6372031003,
+      "name": "Sungai Tiung"
+    },
+    {
+      "code": 6372031004,
+      "name": "Cempaka"
+    }
+  ]
+}

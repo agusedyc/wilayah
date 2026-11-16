@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3578101001,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3578101002,
+      "name": "Ploso"
+    },
+    {
+      "code": 3578101003,
+      "name": "Gading"
+    },
+    {
+      "code": 3578101004,
+      "name": "Pacarkembang"
+    },
+    {
+      "code": 3578101005,
+      "name": "Rangkah"
+    },
+    {
+      "code": 3578101006,
+      "name": "Pacarkeling"
+    },
+    {
+      "code": 3578101007,
+      "name": "Kapasmadya Baru"
+    },
+    {
+      "code": 3578101008,
+      "name": "Dukuh Setro"
+    }
+  ]
+}

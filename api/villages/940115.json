@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9401152001,
+      "name": "Kunupi"
+    },
+    {
+      "code": 9401152002,
+      "name": "Ogiyai"
+    },
+    {
+      "code": 9401152003,
+      "name": "Lokodimi"
+    },
+    {
+      "code": 9401152004,
+      "name": "Yegeugi"
+    }
+  ]
+}

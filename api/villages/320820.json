@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3208202001,
+      "name": "Haurkuning"
+    },
+    {
+      "code": 3208202002,
+      "name": "Kertayuga"
+    },
+    {
+      "code": 3208202003,
+      "name": "Windusari"
+    },
+    {
+      "code": 3208202004,
+      "name": "Nusaherang"
+    },
+    {
+      "code": 3208202005,
+      "name": "Jambar"
+    },
+    {
+      "code": 3208202006,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3208202007,
+      "name": "Kertawirama"
+    },
+    {
+      "code": 3208202008,
+      "name": "Ciasih"
+    }
+  ]
+}

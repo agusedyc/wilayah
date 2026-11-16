@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7315061001,
+      "name": "Pekkabata"
+    },
+    {
+      "code": 7315061002,
+      "name": "Tatae"
+    },
+    {
+      "code": 7315061003,
+      "name": "Lampa"
+    },
+    {
+      "code": 7315061004,
+      "name": "Data"
+    },
+    {
+      "code": 7315061005,
+      "name": "Bittoeng"
+    },
+    {
+      "code": 7315062006,
+      "name": "Kaballangang"
+    },
+    {
+      "code": 7315062007,
+      "name": "Paria"
+    },
+    {
+      "code": 7315062008,
+      "name": "Kaliang"
+    },
+    {
+      "code": 7315062009,
+      "name": "Buttu Sawe"
+    },
+    {
+      "code": 7315062010,
+      "name": "Maroneng"
+    },
+    {
+      "code": 7315062011,
+      "name": "Katomporang"
+    },
+    {
+      "code": 7315062012,
+      "name": "Bungi"
+    },
+    {
+      "code": 7315062013,
+      "name": "Massewae"
+    },
+    {
+      "code": 7315062014,
+      "name": "Bababinanga"
+    },
+    {
+      "code": 7315062015,
+      "name": "Barugae"
+    }
+  ]
+}

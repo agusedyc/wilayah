@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1103192001,
+      "name": "Alue Rangan"
+    },
+    {
+      "code": 1103192002,
+      "name": "Geulumpang Payong"
+    },
+    {
+      "code": 1103192003,
+      "name": "Labuhan Keudee"
+    },
+    {
+      "code": 1103192004,
+      "name": "Buket Seulamat"
+    },
+    {
+      "code": 1103192005,
+      "name": "Buket Drien"
+    },
+    {
+      "code": 1103192006,
+      "name": "Alue Itam"
+    },
+    {
+      "code": 1103192007,
+      "name": "Paya Keutapang"
+    },
+    {
+      "code": 1103192008,
+      "name": "Gajah Mentah"
+    },
+    {
+      "code": 1103192009,
+      "name": "Seuneubok Pase"
+    },
+    {
+      "code": 1103192010,
+      "name": "Seuneubok Aceh"
+    },
+    {
+      "code": 1103192011,
+      "name": "Krueng Lingka"
+    },
+    {
+      "code": 1103192012,
+      "name": "Sungai Simpang"
+    },
+    {
+      "code": 1103192013,
+      "name": "Kuala Parek"
+    }
+  ]
+}

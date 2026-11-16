@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1277051001,
+      "name": "Sihitang"
+    },
+    {
+      "code": 1277051002,
+      "name": "Pijor Koling"
+    },
+    {
+      "code": 1277052003,
+      "name": "Palopat Pijor Koling"
+    },
+    {
+      "code": 1277052004,
+      "name": "Salambue"
+    },
+    {
+      "code": 1277052005,
+      "name": "Purbatua Pijor Koling"
+    },
+    {
+      "code": 1277052006,
+      "name": "Sigulang"
+    },
+    {
+      "code": 1277052007,
+      "name": "Manunggang Julu"
+    },
+    {
+      "code": 1277052008,
+      "name": "Goti"
+    },
+    {
+      "code": 1277052009,
+      "name": "Manegen"
+    },
+    {
+      "code": 1277052010,
+      "name": "Huta Koje"
+    },
+    {
+      "code": 1277052011,
+      "name": "Hutalimbong"
+    },
+    {
+      "code": 1277052012,
+      "name": "Huta Padang"
+    },
+    {
+      "code": 1277052013,
+      "name": "Perkebunan Pijor Koling"
+    },
+    {
+      "code": 1277052014,
+      "name": "Labuhan Labo"
+    },
+    {
+      "code": 1277052015,
+      "name": "Huta Lombang"
+    },
+    {
+      "code": 1277052016,
+      "name": "Manunggang Jae"
+    },
+    {
+      "code": 1277052017,
+      "name": "Labuhan Rasoki"
+    },
+    {
+      "code": 1277052018,
+      "name": "Tarutung Baru"
+    }
+  ]
+}

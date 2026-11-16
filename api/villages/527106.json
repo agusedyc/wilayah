@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5271061001,
+      "name": "Dasan Cermen"
+    },
+    {
+      "code": 5271061002,
+      "name": "Babakan"
+    },
+    {
+      "code": 5271061003,
+      "name": "Bertais"
+    },
+    {
+      "code": 5271061004,
+      "name": "Selagalas"
+    },
+    {
+      "code": 5271061005,
+      "name": "Abian Tubuh Baru"
+    },
+    {
+      "code": 5271061006,
+      "name": "Turida"
+    },
+    {
+      "code": 5271061007,
+      "name": "Mandalika"
+    }
+  ]
+}

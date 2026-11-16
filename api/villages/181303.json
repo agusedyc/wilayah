@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1813032001,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 1813032002,
+      "name": "Tanjung Sakti"
+    },
+    {
+      "code": 1813032003,
+      "name": "Way Batang"
+    },
+    {
+      "code": 1813032004,
+      "name": "Lemong"
+    },
+    {
+      "code": 1813032005,
+      "name": "Cahya Negeri"
+    },
+    {
+      "code": 1813032006,
+      "name": "Malaya"
+    },
+    {
+      "code": 1813032007,
+      "name": "Bambang"
+    },
+    {
+      "code": 1813032008,
+      "name": "Pagar Dalam"
+    },
+    {
+      "code": 1813032009,
+      "name": "Bandar Pugung"
+    },
+    {
+      "code": 1813032010,
+      "name": "Penengahan"
+    },
+    {
+      "code": 1813032011,
+      "name": "Rata Agung"
+    },
+    {
+      "code": 1813032012,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 1813032013,
+      "name": "Parda Haga"
+    }
+  ]
+}

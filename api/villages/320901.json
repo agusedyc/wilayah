@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3209012008,
+      "name": "Waled Desa"
+    },
+    {
+      "code": 3209012009,
+      "name": "Waled Kota"
+    },
+    {
+      "code": 3209012010,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3209012011,
+      "name": "Waled Asem"
+    },
+    {
+      "code": 3209012012,
+      "name": "Ambit"
+    },
+    {
+      "code": 3209012013,
+      "name": "Ciuyah"
+    },
+    {
+      "code": 3209012014,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3209012015,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3209012016,
+      "name": "Cikulak Kidul"
+    },
+    {
+      "code": 3209012017,
+      "name": "Cikulak"
+    },
+    {
+      "code": 3209012018,
+      "name": "Cibogo"
+    },
+    {
+      "code": 3209012019,
+      "name": "Cisaat"
+    }
+  ]
+}

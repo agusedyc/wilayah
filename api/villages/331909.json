@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3319092001,
+      "name": "Samirejo"
+    },
+    {
+      "code": 3319092002,
+      "name": "Cendono"
+    },
+    {
+      "code": 3319092003,
+      "name": "Margorejo"
+    },
+    {
+      "code": 3319092004,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3319092005,
+      "name": "Kandangmas"
+    },
+    {
+      "code": 3319092006,
+      "name": "Glagah Kulon"
+    },
+    {
+      "code": 3319092007,
+      "name": "Tergo"
+    },
+    {
+      "code": 3319092008,
+      "name": "Cranggang"
+    },
+    {
+      "code": 3319092009,
+      "name": "Lau"
+    },
+    {
+      "code": 3319092010,
+      "name": "Piji"
+    },
+    {
+      "code": 3319092011,
+      "name": "Puyoh"
+    },
+    {
+      "code": 3319092012,
+      "name": "Soco"
+    },
+    {
+      "code": 3319092013,
+      "name": "Ternadi"
+    },
+    {
+      "code": 3319092014,
+      "name": "Kajar"
+    },
+    {
+      "code": 3319092015,
+      "name": "Kuwukan"
+    },
+    {
+      "code": 3319092016,
+      "name": "Dukuhwaringin"
+    },
+    {
+      "code": 3319092017,
+      "name": "Japan"
+    },
+    {
+      "code": 3319092018,
+      "name": "Colo"
+    }
+  ]
+}

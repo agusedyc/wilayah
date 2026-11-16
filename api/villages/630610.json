@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6306102001,
+      "name": "Halunuk"
+    },
+    {
+      "code": 6306102002,
+      "name": "Panggungan"
+    },
+    {
+      "code": 6306102003,
+      "name": "Lumpangi"
+    },
+    {
+      "code": 6306102004,
+      "name": "Malinau"
+    },
+    {
+      "code": 6306102005,
+      "name": "Hulu Banyu"
+    },
+    {
+      "code": 6306102006,
+      "name": "Tumingki"
+    },
+    {
+      "code": 6306102007,
+      "name": "Kamawakan"
+    },
+    {
+      "code": 6306102008,
+      "name": "Lok Lahung"
+    },
+    {
+      "code": 6306102009,
+      "name": "Loksado"
+    },
+    {
+      "code": 6306102010,
+      "name": "Haratai"
+    },
+    {
+      "code": 6306102011,
+      "name": "Ulang"
+    }
+  ]
+}

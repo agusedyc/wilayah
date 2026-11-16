@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1214112001,
+      "name": "Togizita"
+    },
+    {
+      "code": 1214112002,
+      "name": "Soledua"
+    },
+    {
+      "code": 1214112003,
+      "name": "Bawosalo'o Dao-dao"
+    },
+    {
+      "code": 1214112004,
+      "name": "Tuho'owo"
+    },
+    {
+      "code": 1214112005,
+      "name": "Togizita I"
+    },
+    {
+      "code": 1214112007,
+      "name": "Hilitoese"
+    },
+    {
+      "code": 1214112008,
+      "name": "Dao-dao Sowo"
+    },
+    {
+      "code": 1214112009,
+      "name": "Hiliadulo"
+    },
+    {
+      "code": 1214112010,
+      "name": "Soledua I"
+    },
+    {
+      "code": 1214112011,
+      "name": "Soledua II"
+    }
+  ]
+}

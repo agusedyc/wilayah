@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3217052001,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3217052002,
+      "name": "Ciharashas"
+    },
+    {
+      "code": 3217052003,
+      "name": "Bojongmekar"
+    },
+    {
+      "code": 3217052004,
+      "name": "Ciroyom"
+    },
+    {
+      "code": 3217052005,
+      "name": "Jatimekar"
+    },
+    {
+      "code": 3217052006,
+      "name": "Margalaksana"
+    },
+    {
+      "code": 3217052007,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3217052008,
+      "name": "Nanggeleng"
+    },
+    {
+      "code": 3217052009,
+      "name": "Nyenang"
+    },
+    {
+      "code": 3217052010,
+      "name": "Sirnaraja"
+    },
+    {
+      "code": 3217052011,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3217052012,
+      "name": "Sukahaji"
+    }
+  ]
+}

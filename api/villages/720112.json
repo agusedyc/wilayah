@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7201122001,
+      "name": "Dongin"
+    },
+    {
+      "code": 7201122002,
+      "name": "Pandan Wangi"
+    },
+    {
+      "code": 7201122003,
+      "name": "Kami Wangi"
+    },
+    {
+      "code": 7201122004,
+      "name": "Sindang Sari"
+    },
+    {
+      "code": 7201122005,
+      "name": "Makapa"
+    },
+    {
+      "code": 7201122006,
+      "name": "Karya Makmur"
+    },
+    {
+      "code": 7201122007,
+      "name": "Mantawa"
+    },
+    {
+      "code": 7201122008,
+      "name": "Pasir Lamba"
+    },
+    {
+      "code": 7201122009,
+      "name": "Mantawa Bonebae"
+    },
+    {
+      "code": 7201122010,
+      "name": "Gunung Kramat"
+    },
+    {
+      "code": 7201122011,
+      "name": "Lembah Kramat"
+    },
+    {
+      "code": 7201122012,
+      "name": "Rata"
+    },
+    {
+      "code": 7201122013,
+      "name": "Bukit Makarti"
+    },
+    {
+      "code": 7201122014,
+      "name": "Uwe Lolu"
+    },
+    {
+      "code": 7201122015,
+      "name": "Bumi Harapan"
+    },
+    {
+      "code": 7201122016,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 7201122017,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3604172001,
+      "name": "Carenang"
+    },
+    {
+      "code": 3604172002,
+      "name": "Pamanuk"
+    },
+    {
+      "code": 3604172003,
+      "name": "Mandaya"
+    },
+    {
+      "code": 3604172004,
+      "name": "Teras"
+    },
+    {
+      "code": 3604172006,
+      "name": "Ragas Masigit"
+    },
+    {
+      "code": 3604172007,
+      "name": "Walikukun"
+    },
+    {
+      "code": 3604172009,
+      "name": "Panenjoan"
+    },
+    {
+      "code": 3604172010,
+      "name": "Mekarsari"
+    }
+  ]
+}

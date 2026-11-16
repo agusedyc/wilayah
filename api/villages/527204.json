@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5272041001,
+      "name": "Penaraga"
+    },
+    {
+      "code": 5272041002,
+      "name": "Rontu"
+    },
+    {
+      "code": 5272041003,
+      "name": "PenanaE"
+    },
+    {
+      "code": 5272041004,
+      "name": "Kendo"
+    },
+    {
+      "code": 5272041005,
+      "name": "Ntobo"
+    },
+    {
+      "code": 5272041006,
+      "name": "Nitu"
+    },
+    {
+      "code": 5272041007,
+      "name": "Rabangodu Selatan"
+    },
+    {
+      "code": 5272041008,
+      "name": "Rabadompu Timur"
+    },
+    {
+      "code": 5272041009,
+      "name": "Rite"
+    },
+    {
+      "code": 5272041010,
+      "name": "Rabadompu Barat"
+    },
+    {
+      "code": 5272041011,
+      "name": "Rabangodu Utara"
+    }
+  ]
+}

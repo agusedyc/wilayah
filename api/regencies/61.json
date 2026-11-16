@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 regencies",
+  "data": [
+    {
+      "code": 6101,
+      "name": "Kabupaten Sambas"
+    },
+    {
+      "code": 6102,
+      "name": "Kabupaten Mempawah"
+    },
+    {
+      "code": 6103,
+      "name": "Kabupaten Sanggau"
+    },
+    {
+      "code": 6104,
+      "name": "Kabupaten Ketapang"
+    },
+    {
+      "code": 6105,
+      "name": "Kabupaten Sintang"
+    },
+    {
+      "code": 6106,
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    {
+      "code": 6107,
+      "name": "Kabupaten Bengkayang"
+    },
+    {
+      "code": 6108,
+      "name": "Kabupaten Landak"
+    },
+    {
+      "code": 6109,
+      "name": "Kabupaten Sekadau"
+    },
+    {
+      "code": 6110,
+      "name": "Kabupaten Melawi"
+    },
+    {
+      "code": 6111,
+      "name": "Kabupaten Kayong Utara"
+    },
+    {
+      "code": 6112,
+      "name": "Kabupaten Kubu Raya"
+    },
+    {
+      "code": 6171,
+      "name": "Kota Pontianak"
+    },
+    {
+      "code": 6172,
+      "name": "Kota Singkawang"
+    }
+  ]
+}

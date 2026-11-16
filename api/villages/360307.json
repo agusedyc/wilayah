@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3603072001,
+      "name": "Kronjo"
+    },
+    {
+      "code": 3603072002,
+      "name": "Pagenjahan"
+    },
+    {
+      "code": 3603072006,
+      "name": "Pasir"
+    },
+    {
+      "code": 3603072007,
+      "name": "Muncung"
+    },
+    {
+      "code": 3603072008,
+      "name": "Pagedangan Ilir"
+    },
+    {
+      "code": 3603072009,
+      "name": "Pagedangan Udik"
+    },
+    {
+      "code": 3603072010,
+      "name": "Pasilian"
+    },
+    {
+      "code": 3603072013,
+      "name": "Bakung"
+    },
+    {
+      "code": 3603072015,
+      "name": "Blukbuk"
+    },
+    {
+      "code": 3603072017,
+      "name": "Cirumpak"
+    }
+  ]
+}

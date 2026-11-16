@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3276031001,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 3276031002,
+      "name": "Bedahan"
+    },
+    {
+      "code": 3276031003,
+      "name": "Pengasinan"
+    },
+    {
+      "code": 3276031009,
+      "name": "Cinangka"
+    },
+    {
+      "code": 3276031010,
+      "name": "Sawangan"
+    },
+    {
+      "code": 3276031011,
+      "name": "Sawangan Baru"
+    },
+    {
+      "code": 3276031012,
+      "name": "Kedaung"
+    }
+  ]
+}

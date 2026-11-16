@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7413101008,
+      "name": "Konawe"
+    },
+    {
+      "code": 7413102001,
+      "name": "Lemoambo"
+    },
+    {
+      "code": 7413102002,
+      "name": "Kasakamu"
+    },
+    {
+      "code": 7413102003,
+      "name": "Tanjung Pinang"
+    },
+    {
+      "code": 7413102004,
+      "name": "Sidamangura"
+    },
+    {
+      "code": 7413102005,
+      "name": "Lakawoghe"
+    },
+    {
+      "code": 7413102006,
+      "name": "Lapokainse"
+    },
+    {
+      "code": 7413102007,
+      "name": "Guali"
+    },
+    {
+      "code": 7413102009,
+      "name": "Kusambi"
+    },
+    {
+      "code": 7413102010,
+      "name": "Bakeramba"
+    }
+  ]
+}

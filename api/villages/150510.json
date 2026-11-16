@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1505102001,
+      "name": "Bukit Subur"
+    },
+    {
+      "code": 1505102002,
+      "name": "Tri Jaya"
+    },
+    {
+      "code": 1505102003,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1505102004,
+      "name": "Ujung Tanjung"
+    },
+    {
+      "code": 1505102005,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1505102006,
+      "name": "Tanjung Mulia"
+    },
+    {
+      "code": 1505102007,
+      "name": "Adipura Kencana"
+    },
+    {
+      "code": 1505102008,
+      "name": "Bukit Jaya"
+    },
+    {
+      "code": 1505102009,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1505102010,
+      "name": "Tanjung Lebar"
+    }
+  ]
+}

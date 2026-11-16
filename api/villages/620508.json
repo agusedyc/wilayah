@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6205082001,
+      "name": "Trahean"
+    },
+    {
+      "code": 6205082002,
+      "name": "Trinsing"
+    },
+    {
+      "code": 6205082003,
+      "name": "Bintang Ninggi I"
+    },
+    {
+      "code": 6205082004,
+      "name": "Bintang Ninggi II"
+    },
+    {
+      "code": 6205082005,
+      "name": "Butong"
+    },
+    {
+      "code": 6205082006,
+      "name": "Buntok Baru"
+    },
+    {
+      "code": 6205082007,
+      "name": "Bukit Sawit"
+    },
+    {
+      "code": 6205082008,
+      "name": "Tawan Jaya"
+    },
+    {
+      "code": 6205082009,
+      "name": "Pandran Raya"
+    },
+    {
+      "code": 6205082010,
+      "name": "Pandran Permai"
+    }
+  ]
+}

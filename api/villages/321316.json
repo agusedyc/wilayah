@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3213162001,
+      "name": "Rancabango"
+    },
+    {
+      "code": 3213162002,
+      "name": "Tanjungrasa"
+    },
+    {
+      "code": 3213162003,
+      "name": "Ciberes"
+    },
+    {
+      "code": 3213162004,
+      "name": "Jatiragas Hilir"
+    },
+    {
+      "code": 3213162005,
+      "name": "Tambakjati"
+    },
+    {
+      "code": 3213162006,
+      "name": "Rancajaya"
+    },
+    {
+      "code": 3213162007,
+      "name": "Gempolsari"
+    },
+    {
+      "code": 3213162008,
+      "name": "Tanjungrasa Kidul"
+    },
+    {
+      "code": 3213162009,
+      "name": "Rancaasih"
+    },
+    {
+      "code": 3213162010,
+      "name": "Rancamulya"
+    }
+  ]
+}

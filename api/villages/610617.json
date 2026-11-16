@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6106171001,
+      "name": "Kedamin Hulu"
+    },
+    {
+      "code": 6106171002,
+      "name": "Kedamin Hilir"
+    },
+    {
+      "code": 6106172003,
+      "name": "Sungai Uluk"
+    },
+    {
+      "code": 6106172004,
+      "name": "Jaras"
+    },
+    {
+      "code": 6106172005,
+      "name": "Melapi"
+    },
+    {
+      "code": 6106172014,
+      "name": "Kedamin Darat"
+    },
+    {
+      "code": 6106172015,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 6106172016,
+      "name": "Sayut"
+    },
+    {
+      "code": 6106172017,
+      "name": "Urang Unsa"
+    },
+    {
+      "code": 6106172018,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 6106172019,
+      "name": "Cempaka Baru"
+    },
+    {
+      "code": 6106172020,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 6106172021,
+      "name": "Bungan Jaya"
+    },
+    {
+      "code": 6106172022,
+      "name": "Tanjunglokang"
+    },
+    {
+      "code": 6106172023,
+      "name": "Kereho"
+    },
+    {
+      "code": 6106172024,
+      "name": "Ingko' Tambe"
+    }
+  ]
+}

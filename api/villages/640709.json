@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6407092001,
+      "name": "Muara Begai"
+    },
+    {
+      "code": 6407092002,
+      "name": "Lotaq"
+    },
+    {
+      "code": 6407092003,
+      "name": "Payang"
+    },
+    {
+      "code": 6407092004,
+      "name": "Dingin"
+    },
+    {
+      "code": 6407092005,
+      "name": "Muara Lawa"
+    },
+    {
+      "code": 6407092006,
+      "name": "Lambing"
+    },
+    {
+      "code": 6407092007,
+      "name": "Benggeris"
+    },
+    {
+      "code": 6407092008,
+      "name": "Cempedas"
+    }
+  ]
+}

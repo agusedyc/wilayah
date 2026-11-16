@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3208272001,
+      "name": "Kalimanggiskulon"
+    },
+    {
+      "code": 3208272002,
+      "name": "Partawangunan"
+    },
+    {
+      "code": 3208272003,
+      "name": "Cipancur"
+    },
+    {
+      "code": 3208272004,
+      "name": "Kertawana"
+    },
+    {
+      "code": 3208272005,
+      "name": "Wanasaraya"
+    },
+    {
+      "code": 3208272006,
+      "name": "Kalimanggiswetan"
+    }
+  ]
+}

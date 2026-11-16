@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1602051001,
+      "name": "Jua-jua"
+    },
+    {
+      "code": 1602051002,
+      "name": "Kayuagung"
+    },
+    {
+      "code": 1602051003,
+      "name": "Sidakersa"
+    },
+    {
+      "code": 1602051004,
+      "name": "Cintaraja"
+    },
+    {
+      "code": 1602051005,
+      "name": "Mangun Jaya"
+    },
+    {
+      "code": 1602051006,
+      "name": "Paku"
+    },
+    {
+      "code": 1602051007,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1602051008,
+      "name": "Sukadana"
+    },
+    {
+      "code": 1602051009,
+      "name": "Perigi"
+    },
+    {
+      "code": 1602051010,
+      "name": "Kutaraja"
+    },
+    {
+      "code": 1602051025,
+      "name": "Tanjung Rancing"
+    },
+    {
+      "code": 1602052011,
+      "name": "Kijang Ulu"
+    },
+    {
+      "code": 1602052012,
+      "name": "Muarabaru"
+    },
+    {
+      "code": 1602052013,
+      "name": "Tanjung Lubuk"
+    },
+    {
+      "code": 1602052014,
+      "name": "Arisan Buntal"
+    },
+    {
+      "code": 1602052015,
+      "name": "Celikah"
+    },
+    {
+      "code": 1602052016,
+      "name": "Banding Anyar"
+    },
+    {
+      "code": 1602052017,
+      "name": "Buluh Cawang"
+    },
+    {
+      "code": 1602052018,
+      "name": "Lubuk Dalam"
+    },
+    {
+      "code": 1602052019,
+      "name": "Anyar"
+    },
+    {
+      "code": 1602052020,
+      "name": "Tanjung Menang"
+    },
+    {
+      "code": 1602052021,
+      "name": "Teloko"
+    },
+    {
+      "code": 1602052022,
+      "name": "Tanjung Serang"
+    },
+    {
+      "code": 1602052023,
+      "name": "Serigeni Baru"
+    },
+    {
+      "code": 1602052024,
+      "name": "Serigeni"
+    }
+  ]
+}

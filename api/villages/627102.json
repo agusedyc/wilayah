@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6271021001,
+      "name": "Marang"
+    },
+    {
+      "code": 6271021002,
+      "name": "Tumbang Tahai"
+    },
+    {
+      "code": 6271021003,
+      "name": "Banturung"
+    },
+    {
+      "code": 6271021004,
+      "name": "Tangkiling"
+    },
+    {
+      "code": 6271021005,
+      "name": "Sei Gohong"
+    },
+    {
+      "code": 6271021006,
+      "name": "Kanarakan"
+    },
+    {
+      "code": 6271021007,
+      "name": "Habaring Hurung"
+    }
+  ]
+}

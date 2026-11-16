@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1703252001,
+      "name": "Air Putih"
+    },
+    {
+      "code": 1703252002,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1703252003,
+      "name": "Karya Pelita"
+    },
+    {
+      "code": 1703252004,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1703252005,
+      "name": "Suka Baru"
+    },
+    {
+      "code": 1703252006,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1703252007,
+      "name": "Suka Medan"
+    },
+    {
+      "code": 1703252008,
+      "name": "Karya Bakti"
+    },
+    {
+      "code": 1703252009,
+      "name": "Karya Jaya"
+    },
+    {
+      "code": 1703252010,
+      "name": "Suka Negara"
+    }
+  ]
+}

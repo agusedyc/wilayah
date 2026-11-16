@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9403182001,
+      "name": "Youtadi"
+    },
+    {
+      "code": 9403182002,
+      "name": "Uwagi"
+    },
+    {
+      "code": 9403182003,
+      "name": "Ipouwa"
+    },
+    {
+      "code": 9403182004,
+      "name": "Munaiyepa"
+    },
+    {
+      "code": 9403182005,
+      "name": "Dokoneida"
+    },
+    {
+      "code": 9403182006,
+      "name": "Namutadi"
+    }
+  ]
+}

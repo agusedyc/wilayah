@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7308161001,
+      "name": "Maccope"
+    },
+    {
+      "code": 7308162002,
+      "name": "Carebbu"
+    },
+    {
+      "code": 7308162003,
+      "name": "Cumpiga"
+    },
+    {
+      "code": 7308162004,
+      "name": "Paccing"
+    },
+    {
+      "code": 7308162005,
+      "name": "Lattekko"
+    },
+    {
+      "code": 7308162006,
+      "name": "Matuju"
+    },
+    {
+      "code": 7308162007,
+      "name": "Unra"
+    },
+    {
+      "code": 7308162008,
+      "name": "Kading"
+    },
+    {
+      "code": 7308162009,
+      "name": "Mallari"
+    },
+    {
+      "code": 7308162010,
+      "name": "Kajuara"
+    },
+    {
+      "code": 7308162011,
+      "name": "Jaling"
+    },
+    {
+      "code": 7308162012,
+      "name": "Bulumpare'e"
+    },
+    {
+      "code": 7308162013,
+      "name": "Abbanuang"
+    },
+    {
+      "code": 7308162014,
+      "name": "Lappoase"
+    },
+    {
+      "code": 7308162015,
+      "name": "Awolagading"
+    },
+    {
+      "code": 7308162016,
+      "name": "Carigading"
+    },
+    {
+      "code": 7308162017,
+      "name": "Cakke Bone"
+    },
+    {
+      "code": 7308162018,
+      "name": "Mappalo Ulaweng"
+    }
+  ]
+}

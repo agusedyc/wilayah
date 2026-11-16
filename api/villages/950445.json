@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504452001,
+      "name": "Biuk"
+    },
+    {
+      "code": 9504452002,
+      "name": "Guburini"
+    },
+    {
+      "code": 9504452003,
+      "name": "Yiluk/Kondenggun"
+    },
+    {
+      "code": 9504452004,
+      "name": "Yugu Mabur"
+    },
+    {
+      "code": 9504452005,
+      "name": "Tomagipura"
+    },
+    {
+      "code": 9504452006,
+      "name": "Yiyogobak/Kibur"
+    },
+    {
+      "code": 9504452007,
+      "name": "Galubup"
+    },
+    {
+      "code": 9504452008,
+      "name": "Mbinime/Jinulira"
+    },
+    {
+      "code": 9504452009,
+      "name": "Wonabu"
+    },
+    {
+      "code": 9504452010,
+      "name": "Tomagi/Gubagi"
+    },
+    {
+      "code": 9504452011,
+      "name": "Purugi"
+    }
+  ]
+}

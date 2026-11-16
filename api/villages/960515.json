@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9605152001,
+      "name": "Sauf"
+    },
+    {
+      "code": 9605152002,
+      "name": "Sembaro"
+    },
+    {
+      "code": 9605152003,
+      "name": "Koma Koma"
+    },
+    {
+      "code": 9605152004,
+      "name": "Kanisabar"
+    },
+    {
+      "code": 9605152005,
+      "name": "Sfarare"
+    },
+    {
+      "code": 9605152006,
+      "name": "Saneh"
+    },
+    {
+      "code": 9605152007,
+      "name": "Lemauk Klit"
+    },
+    {
+      "code": 9605152008,
+      "name": "Hawioh"
+    },
+    {
+      "code": 9605152009,
+      "name": "Simiyah"
+    },
+    {
+      "code": 9605152010,
+      "name": "Sagrim"
+    }
+  ]
+}

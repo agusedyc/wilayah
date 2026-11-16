@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1971051001,
+      "name": "Taman Bunga"
+    },
+    {
+      "code": 1971051002,
+      "name": "Bukit Merapen"
+    },
+    {
+      "code": 1971051004,
+      "name": "Bukit Sari"
+    },
+    {
+      "code": 1971051005,
+      "name": "Tua Tunu Indah"
+    },
+    {
+      "code": 1971051006,
+      "name": "Kacang Pedang"
+    },
+    {
+      "code": 1971051007,
+      "name": "Air Kepala Tujuh"
+    }
+  ]
+}

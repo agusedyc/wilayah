@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9402052001,
+      "name": "Yambuni"
+    },
+    {
+      "code": 9402052002,
+      "name": "Yogolawi"
+    },
+    {
+      "code": 9402052003,
+      "name": "Wundu"
+    },
+    {
+      "code": 9402052004,
+      "name": "Binime"
+    },
+    {
+      "code": 9402052005,
+      "name": "Tiogeme"
+    },
+    {
+      "code": 9402052006,
+      "name": "Goyage"
+    },
+    {
+      "code": 9402052007,
+      "name": "Kalimbut"
+    },
+    {
+      "code": 9402052008,
+      "name": "Wolame"
+    },
+    {
+      "code": 9402052009,
+      "name": "Muara"
+    },
+    {
+      "code": 9402052010,
+      "name": "Gibaga"
+    },
+    {
+      "code": 9402052011,
+      "name": "Nami"
+    },
+    {
+      "code": 9402052012,
+      "name": "Linwakwi"
+    },
+    {
+      "code": 9402052013,
+      "name": "Kwantineri"
+    },
+    {
+      "code": 9402052014,
+      "name": "Jileyale"
+    }
+  ]
+}

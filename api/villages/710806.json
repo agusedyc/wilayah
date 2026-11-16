@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 7108062001,
+      "name": "Komus I"
+    },
+    {
+      "code": 7108062002,
+      "name": "Tuntung"
+    },
+    {
+      "code": 7108062003,
+      "name": "Batu Tajam"
+    },
+    {
+      "code": 7108062004,
+      "name": "Dalapuli"
+    },
+    {
+      "code": 7108062005,
+      "name": "Buko"
+    },
+    {
+      "code": 7108062006,
+      "name": "Dengi"
+    },
+    {
+      "code": 7108062007,
+      "name": "Tombulang"
+    },
+    {
+      "code": 7108062008,
+      "name": "Tuntulow"
+    },
+    {
+      "code": 7108062009,
+      "name": "Kayu Ogu"
+    },
+    {
+      "code": 7108062010,
+      "name": "Tanjung Sidupa"
+    },
+    {
+      "code": 7108062011,
+      "name": "Buko Selatan"
+    },
+    {
+      "code": 7108062012,
+      "name": "Busato"
+    },
+    {
+      "code": 7108062013,
+      "name": "Batu Bantayo"
+    },
+    {
+      "code": 7108062014,
+      "name": "Padango"
+    },
+    {
+      "code": 7108062015,
+      "name": "Tuntulow Utara"
+    },
+    {
+      "code": 7108062016,
+      "name": "Dalapuli Timur"
+    },
+    {
+      "code": 7108062017,
+      "name": "Dalapuli Barat"
+    },
+    {
+      "code": 7108062018,
+      "name": "Buko Utara"
+    },
+    {
+      "code": 7108062019,
+      "name": "Tambulang Timur"
+    },
+    {
+      "code": 7108062020,
+      "name": "Tambulang Pantai"
+    },
+    {
+      "code": 7108062021,
+      "name": "Tuntung Timur"
+    },
+    {
+      "code": 7108062022,
+      "name": "Duini"
+    }
+  ]
+}

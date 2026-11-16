@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1509112001,
+      "name": "Teluk Kepayang Pulau Indah"
+    },
+    {
+      "code": 1509112002,
+      "name": "Balai Rajo"
+    },
+    {
+      "code": 1509112003,
+      "name": "Cermin Alam"
+    },
+    {
+      "code": 1509112004,
+      "name": "Sungai Karang"
+    },
+    {
+      "code": 1509112005,
+      "name": "Paseban"
+    },
+    {
+      "code": 1509112006,
+      "name": "Pasir Mayang"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9601242001,
+      "name": "Malasigit"
+    },
+    {
+      "code": 9601242002,
+      "name": "Klagulu"
+    },
+    {
+      "code": 9601242003,
+      "name": "Klamugun"
+    },
+    {
+      "code": 9601242004,
+      "name": "Malajapa"
+    },
+    {
+      "code": 9601242005,
+      "name": "Klasman"
+    },
+    {
+      "code": 9601242006,
+      "name": "Malamoja"
+    },
+    {
+      "code": 9601242007,
+      "name": "Magatarum"
+    },
+    {
+      "code": 9601242008,
+      "name": "Tanah Tinggi"
+    },
+    {
+      "code": 9601242009,
+      "name": "Marik May"
+    }
+  ]
+}

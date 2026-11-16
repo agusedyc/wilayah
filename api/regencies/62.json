@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 regencies",
+  "data": [
+    {
+      "code": 6201,
+      "name": "Kabupaten Kotawaringin Barat"
+    },
+    {
+      "code": 6202,
+      "name": "Kabupaten Kotawaringin Timur"
+    },
+    {
+      "code": 6203,
+      "name": "Kabupaten Kapuas"
+    },
+    {
+      "code": 6204,
+      "name": "Kabupaten Barito Selatan"
+    },
+    {
+      "code": 6205,
+      "name": "Kabupaten Barito Utara"
+    },
+    {
+      "code": 6206,
+      "name": "Kabupaten Katingan"
+    },
+    {
+      "code": 6207,
+      "name": "Kabupaten Seruyan"
+    },
+    {
+      "code": 6208,
+      "name": "Kabupaten Sukamara"
+    },
+    {
+      "code": 6209,
+      "name": "Kabupaten Lamandau"
+    },
+    {
+      "code": 6210,
+      "name": "Kabupaten Gunung Mas"
+    },
+    {
+      "code": 6211,
+      "name": "Kabupaten Pulang Pisau"
+    },
+    {
+      "code": 6212,
+      "name": "Kabupaten Murung Raya"
+    },
+    {
+      "code": 6213,
+      "name": "Kabupaten Barito Timur"
+    },
+    {
+      "code": 6271,
+      "name": "Kota Palangkaraya"
+    }
+  ]
+}

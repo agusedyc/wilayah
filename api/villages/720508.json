@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7205082001,
+      "name": "Biau"
+    },
+    {
+      "code": 7205082002,
+      "name": "Bungkudu"
+    },
+    {
+      "code": 7205082003,
+      "name": "Rantemaranu"
+    },
+    {
+      "code": 7205082004,
+      "name": "Winangun"
+    },
+    {
+      "code": 7205082005,
+      "name": "Modo I"
+    },
+    {
+      "code": 7205082006,
+      "name": "Unone"
+    },
+    {
+      "code": 7205082007,
+      "name": "Mopu"
+    },
+    {
+      "code": 7205082008,
+      "name": "Diat"
+    },
+    {
+      "code": 7205082009,
+      "name": "Potangoan"
+    },
+    {
+      "code": 7205082010,
+      "name": "Binuang"
+    },
+    {
+      "code": 7205082011,
+      "name": "Yugut"
+    },
+    {
+      "code": 7205082012,
+      "name": "Mooyong"
+    },
+    {
+      "code": 7205082013,
+      "name": "Mulat"
+    },
+    {
+      "code": 7205082014,
+      "name": "Bukal"
+    }
+  ]
+}

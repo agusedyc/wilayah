@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6309041001,
+      "name": "Jangkung"
+    },
+    {
+      "code": 6309041002,
+      "name": "Tanjung"
+    },
+    {
+      "code": 6309041003,
+      "name": "Agung"
+    },
+    {
+      "code": 6309041004,
+      "name": "Hikun"
+    },
+    {
+      "code": 6309042005,
+      "name": "Banyu Tajun"
+    },
+    {
+      "code": 6309042006,
+      "name": "Pamarangan Kiwa"
+    },
+    {
+      "code": 6309042007,
+      "name": "Puain Kiwa"
+    },
+    {
+      "code": 6309042008,
+      "name": "Juai"
+    },
+    {
+      "code": 6309042009,
+      "name": "Mahe Seberang"
+    },
+    {
+      "code": 6309042010,
+      "name": "Kambitin"
+    },
+    {
+      "code": 6309042011,
+      "name": "Wayau"
+    },
+    {
+      "code": 6309042012,
+      "name": "Garunggung"
+    },
+    {
+      "code": 6309042013,
+      "name": "Kitang"
+    },
+    {
+      "code": 6309042014,
+      "name": "Sungai Pimping"
+    },
+    {
+      "code": 6309042015,
+      "name": "Kambitin Raya"
+    }
+  ]
+}

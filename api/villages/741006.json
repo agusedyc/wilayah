@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7410061007,
+      "name": "Labuan"
+    },
+    {
+      "code": 7410061008,
+      "name": "Labuan Wolio"
+    },
+    {
+      "code": 7410062001,
+      "name": "Lasiwa"
+    },
+    {
+      "code": 7410062002,
+      "name": "Laeya"
+    },
+    {
+      "code": 7410062003,
+      "name": "Matalagi"
+    },
+    {
+      "code": 7410062004,
+      "name": "Wantulasi"
+    },
+    {
+      "code": 7410062005,
+      "name": "Labuan Bajo"
+    },
+    {
+      "code": 7410062006,
+      "name": "Labaraga"
+    },
+    {
+      "code": 7410062009,
+      "name": "Wamorapa"
+    },
+    {
+      "code": 7410062010,
+      "name": "Sumampeno"
+    },
+    {
+      "code": 7410062011,
+      "name": "Oengkapala"
+    },
+    {
+      "code": 7410062012,
+      "name": "Labuko"
+    },
+    {
+      "code": 7410062013,
+      "name": "Laba Jaya"
+    }
+  ]
+}

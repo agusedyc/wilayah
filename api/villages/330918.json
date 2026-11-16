@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3309182002,
+      "name": "Karangjati"
+    },
+    {
+      "code": 3309182003,
+      "name": "Ketoyan"
+    },
+    {
+      "code": 3309182004,
+      "name": "Bolo"
+    },
+    {
+      "code": 3309182005,
+      "name": "Banyusri"
+    },
+    {
+      "code": 3309182006,
+      "name": "Gosono"
+    },
+    {
+      "code": 3309182007,
+      "name": "Wonosegoro"
+    },
+    {
+      "code": 3309182008,
+      "name": "Bandung"
+    },
+    {
+      "code": 3309182014,
+      "name": "Bojong"
+    },
+    {
+      "code": 3309182019,
+      "name": "Kauman"
+    },
+    {
+      "code": 3309182020,
+      "name": "Lemahireng"
+    },
+    {
+      "code": 3309182021,
+      "name": "Guwo"
+    }
+  ]
+}

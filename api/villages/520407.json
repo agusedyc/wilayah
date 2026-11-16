@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5204072001,
+      "name": "Batu Rotok"
+    },
+    {
+      "code": 5204072002,
+      "name": "Tangkam Pulit"
+    },
+    {
+      "code": 5204072003,
+      "name": "Bao Desa"
+    },
+    {
+      "code": 5204072004,
+      "name": "Tepal"
+    },
+    {
+      "code": 5204072005,
+      "name": "Batu Dulang"
+    },
+    {
+      "code": 5204072006,
+      "name": "Kelungkung"
+    }
+  ]
+}

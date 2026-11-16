@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1203051001,
+      "name": "Pasar Sipagimbar"
+    },
+    {
+      "code": 1203051080,
+      "name": "Aek Simotung"
+    },
+    {
+      "code": 1203052018,
+      "name": "Simangambat"
+    },
+    {
+      "code": 1203052069,
+      "name": "Sidapdap Simanosor"
+    },
+    {
+      "code": 1203052070,
+      "name": "Saut Banua Simanosor"
+    },
+    {
+      "code": 1203052071,
+      "name": "Damparan Haunatas"
+    },
+    {
+      "code": 1203052072,
+      "name": "Somba Debata Purba"
+    },
+    {
+      "code": 1203052073,
+      "name": "Padang Mandailing Garugur"
+    },
+    {
+      "code": 1203052074,
+      "name": "Ulu Mamis Situnggaling"
+    },
+    {
+      "code": 1203052075,
+      "name": "Parau Sorat Sitabo-tabo"
+    },
+    {
+      "code": 1203052076,
+      "name": "Pintu Padang Mandalasena"
+    },
+    {
+      "code": 1203052077,
+      "name": "Sunge Sigiring-giring"
+    },
+    {
+      "code": 1203052078,
+      "name": "Silangkitang Tambiski"
+    },
+    {
+      "code": 1203052079,
+      "name": "Batang Parsuluman"
+    }
+  ]
+}

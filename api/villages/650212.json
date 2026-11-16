@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6502122001,
+      "name": "Lung Fala"
+    },
+    {
+      "code": 6502122002,
+      "name": "Lung Kebinu"
+    },
+    {
+      "code": 6502122003,
+      "name": "Lung Mekatif"
+    },
+    {
+      "code": 6502122004,
+      "name": "Lung Simau"
+    },
+    {
+      "code": 6502122005,
+      "name": "Lung Berang"
+    },
+    {
+      "code": 6502122006,
+      "name": "Lung Sulit"
+    },
+    {
+      "code": 6502122007,
+      "name": "Lung Semamu"
+    },
+    {
+      "code": 6502122008,
+      "name": "Long Gafid"
+    },
+    {
+      "code": 6502122009,
+      "name": "Temalang"
+    },
+    {
+      "code": 6502122010,
+      "name": "Long Liku"
+    }
+  ]
+}

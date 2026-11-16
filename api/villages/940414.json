@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9404142001,
+      "name": "Hoya"
+    },
+    {
+      "code": 9404142002,
+      "name": "Mamontoga"
+    },
+    {
+      "code": 9404142003,
+      "name": "Jinonin"
+    },
+    {
+      "code": 9404142004,
+      "name": "Kulama Ogom"
+    },
+    {
+      "code": 9404142005,
+      "name": "Puti"
+    },
+    {
+      "code": 9404142006,
+      "name": "Jawa"
+    }
+  ]
+}

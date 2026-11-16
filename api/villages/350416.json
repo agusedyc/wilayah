@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3504162001,
+      "name": "Ngentrong"
+    },
+    {
+      "code": 3504162002,
+      "name": "Gedangan"
+    },
+    {
+      "code": 3504162003,
+      "name": "Sawo"
+    },
+    {
+      "code": 3504162004,
+      "name": "Gamping"
+    },
+    {
+      "code": 3504162005,
+      "name": "Campurdarat"
+    },
+    {
+      "code": 3504162006,
+      "name": "Wates"
+    },
+    {
+      "code": 3504162007,
+      "name": "Pelem"
+    },
+    {
+      "code": 3504162008,
+      "name": "Pojok"
+    },
+    {
+      "code": 3504162009,
+      "name": "Tanggung"
+    }
+  ]
+}

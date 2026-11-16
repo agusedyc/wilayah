@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3172051001,
+      "name": "Pademangan Timur"
+    },
+    {
+      "code": 3172051002,
+      "name": "Pademangan Barat"
+    },
+    {
+      "code": 3172051003,
+      "name": "Ancol"
+    }
+  ]
+}

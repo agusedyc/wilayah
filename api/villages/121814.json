@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1218141012,
+      "name": "Melati Kebun"
+    },
+    {
+      "code": 1218142001,
+      "name": "Bengabing"
+    },
+    {
+      "code": 1218142002,
+      "name": "Bingkat"
+    },
+    {
+      "code": 1218142003,
+      "name": "Jati Mulyo"
+    },
+    {
+      "code": 1218142004,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1218142005,
+      "name": "Lestari Dadi"
+    },
+    {
+      "code": 1218142006,
+      "name": "Pegajahan"
+    },
+    {
+      "code": 1218142007,
+      "name": "Petuaran Hulu"
+    },
+    {
+      "code": 1218142008,
+      "name": "Petuaran Hilir"
+    },
+    {
+      "code": 1218142009,
+      "name": "Pondok Tengah"
+    },
+    {
+      "code": 1218142010,
+      "name": "Sukasari"
+    },
+    {
+      "code": 1218142011,
+      "name": "Tanjung Putus"
+    },
+    {
+      "code": 1218142013,
+      "name": "Sennah"
+    }
+  ]
+}

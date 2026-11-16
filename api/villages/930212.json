@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9302122001,
+      "name": "Manggelum"
+    },
+    {
+      "code": 9302122002,
+      "name": "Burunggop"
+    },
+    {
+      "code": 9302122003,
+      "name": "Bayanggop"
+    },
+    {
+      "code": 9302122004,
+      "name": "Gaguop"
+    },
+    {
+      "code": 9302122005,
+      "name": "Kewam"
+    },
+    {
+      "code": 9302122006,
+      "name": "Mangga Tiga"
+    }
+  ]
+}

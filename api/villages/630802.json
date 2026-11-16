@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 6308022001,
+      "name": "Babirik Hilir"
+    },
+    {
+      "code": 6308022002,
+      "name": "Babirik Hulu"
+    },
+    {
+      "code": 6308022003,
+      "name": "Sungai Durait Hilir"
+    },
+    {
+      "code": 6308022004,
+      "name": "Hambuku Hilir"
+    },
+    {
+      "code": 6308022005,
+      "name": "Murung Panti Hulu"
+    },
+    {
+      "code": 6308022006,
+      "name": "Murung Panti Hilir"
+    },
+    {
+      "code": 6308022007,
+      "name": "Murung Kupang"
+    },
+    {
+      "code": 6308022008,
+      "name": "Sungai Luang Hilir"
+    },
+    {
+      "code": 6308022009,
+      "name": "Pajukungan Hilir"
+    },
+    {
+      "code": 6308022010,
+      "name": "Kalumpang Dalam"
+    },
+    {
+      "code": 6308022011,
+      "name": "Parupukan"
+    },
+    {
+      "code": 6308022012,
+      "name": "Sungai Luang Hulu"
+    },
+    {
+      "code": 6308022013,
+      "name": "Sungai Durait Hulu"
+    },
+    {
+      "code": 6308022014,
+      "name": "Sungai Dalam"
+    },
+    {
+      "code": 6308022015,
+      "name": "Hambuku Baru"
+    },
+    {
+      "code": 6308022016,
+      "name": "Hambuku Lima"
+    },
+    {
+      "code": 6308022017,
+      "name": "Sungai Janjam"
+    },
+    {
+      "code": 6308022018,
+      "name": "Kalumpang Luar"
+    },
+    {
+      "code": 6308022019,
+      "name": "Teluk Limbung"
+    },
+    {
+      "code": 6308022020,
+      "name": "Sungai Durait Tengah"
+    },
+    {
+      "code": 6308022021,
+      "name": "Pajukungan Hulu"
+    },
+    {
+      "code": 6308022022,
+      "name": "Sungai Papuyu"
+    },
+    {
+      "code": 6308022023,
+      "name": "Sungai Nyiur"
+    }
+  ]
+}

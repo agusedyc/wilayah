@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1205121006,
+      "name": "Tanjung Selamat"
+    },
+    {
+      "code": 1205122001,
+      "name": "Serapuh ABC"
+    },
+    {
+      "code": 1205122002,
+      "name": "Padang Tualang"
+    },
+    {
+      "code": 1205122003,
+      "name": "Kwala Besilam"
+    },
+    {
+      "code": 1205122004,
+      "name": "Buluh Telang"
+    },
+    {
+      "code": 1205122005,
+      "name": "Besilam"
+    },
+    {
+      "code": 1205122007,
+      "name": "Tebing Tanjung Selamat"
+    },
+    {
+      "code": 1205122008,
+      "name": "Tanjung Putus"
+    },
+    {
+      "code": 1205122009,
+      "name": "Suka Ramai"
+    },
+    {
+      "code": 1205122010,
+      "name": "Jati Sari"
+    },
+    {
+      "code": 1205122011,
+      "name": "Banjaran Raya"
+    },
+    {
+      "code": 1205122012,
+      "name": "Bukit Sari"
+    }
+  ]
+}

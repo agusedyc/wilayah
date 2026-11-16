@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3207142001,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3207142002,
+      "name": "Salakaria"
+    },
+    {
+      "code": 3207142003,
+      "name": "Margaharja"
+    },
+    {
+      "code": 3207142004,
+      "name": "Margajaya"
+    },
+    {
+      "code": 3207142005,
+      "name": "Bunter"
+    },
+    {
+      "code": 3207142006,
+      "name": "Ciparigi"
+    }
+  ]
+}

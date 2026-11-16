@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6503172001,
+      "name": "Tang Paye"
+    },
+    {
+      "code": 6503172002,
+      "name": "Long Rungan"
+    },
+    {
+      "code": 6503172003,
+      "name": "Long Kelupan"
+    },
+    {
+      "code": 6503172004,
+      "name": "Long Padi"
+    },
+    {
+      "code": 6503172005,
+      "name": "Tang Badui"
+    },
+    {
+      "code": 6503172006,
+      "name": "Binuang"
+    },
+    {
+      "code": 6503172007,
+      "name": "Long Mutan"
+    },
+    {
+      "code": 6503172008,
+      "name": "Pa' Milau"
+    },
+    {
+      "code": 6503172009,
+      "name": "Ba' Liku"
+    },
+    {
+      "code": 6503172010,
+      "name": "Long Rian"
+    },
+    {
+      "code": 6503172011,
+      "name": "Pa' Yalau"
+    }
+  ]
+}

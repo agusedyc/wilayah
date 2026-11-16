@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5301131002,
+      "name": "Naikliu"
+    },
+    {
+      "code": 5301132001,
+      "name": "Afoan"
+    },
+    {
+      "code": 5301132003,
+      "name": "Fatunaus"
+    },
+    {
+      "code": 5301132004,
+      "name": "Kolabe"
+    },
+    {
+      "code": 5301132005,
+      "name": "Bakuin"
+    },
+    {
+      "code": 5301132010,
+      "name": "Lilmus"
+    }
+  ]
+}

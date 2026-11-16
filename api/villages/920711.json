@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9207112001,
+      "name": "Waprak"
+    },
+    {
+      "code": 9207112002,
+      "name": "Yomber"
+    },
+    {
+      "code": 9207112003,
+      "name": "Syeiwar"
+    }
+  ]
+}

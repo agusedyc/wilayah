@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1306072001,
+      "name": "Batu Taba"
+    },
+    {
+      "code": 1306072002,
+      "name": "Biaro Gadang"
+    },
+    {
+      "code": 1306072003,
+      "name": "Lambah"
+    },
+    {
+      "code": 1306072004,
+      "name": "Panampuang"
+    },
+    {
+      "code": 1306072005,
+      "name": "Ampang Gadang"
+    },
+    {
+      "code": 1306072006,
+      "name": "Pasia"
+    },
+    {
+      "code": 1306072008,
+      "name": "Balai Gurah"
+    }
+  ]
+}

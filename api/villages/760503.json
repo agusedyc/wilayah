@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7605031001,
+      "name": "Mosso"
+    },
+    {
+      "code": 7605031002,
+      "name": "Mosso Dhua"
+    },
+    {
+      "code": 7605032004,
+      "name": "Totolisi Sendana"
+    },
+    {
+      "code": 7605032007,
+      "name": "Tallubanua"
+    },
+    {
+      "code": 7605032015,
+      "name": "Lalatedzong"
+    },
+    {
+      "code": 7605032016,
+      "name": "Binanga"
+    },
+    {
+      "code": 7605032017,
+      "name": "Puttada"
+    },
+    {
+      "code": 7605032018,
+      "name": "Paminggalan"
+    },
+    {
+      "code": 7605032019,
+      "name": "Leppangang"
+    },
+    {
+      "code": 7605032020,
+      "name": "Pundau"
+    },
+    {
+      "code": 7605032021,
+      "name": "Sendana"
+    },
+    {
+      "code": 7605032022,
+      "name": "Banua Sendana"
+    },
+    {
+      "code": 7605032023,
+      "name": "Tallubanua Utara"
+    },
+    {
+      "code": 7605032024,
+      "name": "Limboro Rambu-Rambu"
+    },
+    {
+      "code": 7605032025,
+      "name": "Limbua"
+    },
+    {
+      "code": 7605032026,
+      "name": "Bukit Samang"
+    }
+  ]
+}

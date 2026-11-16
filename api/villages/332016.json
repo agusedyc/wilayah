@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3320162001,
+      "name": "Sumberrejo"
+    },
+    {
+      "code": 3320162002,
+      "name": "Clering"
+    },
+    {
+      "code": 3320162003,
+      "name": "Ujungwatu"
+    },
+    {
+      "code": 3320162004,
+      "name": "Banyumanis"
+    },
+    {
+      "code": 3320162005,
+      "name": "Tulakan"
+    },
+    {
+      "code": 3320162006,
+      "name": "Bandungharjo"
+    },
+    {
+      "code": 3320162007,
+      "name": "Blingoh"
+    },
+    {
+      "code": 3320162008,
+      "name": "Jugo"
+    }
+  ]
+}

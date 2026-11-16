@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3507232001,
+      "name": "Tegalgondo"
+    },
+    {
+      "code": 3507232002,
+      "name": "Kepuharjo"
+    },
+    {
+      "code": 3507232003,
+      "name": "Ngenep"
+    },
+    {
+      "code": 3507232004,
+      "name": "Ngijo"
+    },
+    {
+      "code": 3507232005,
+      "name": "Ampeldento"
+    },
+    {
+      "code": 3507232006,
+      "name": "Girimoyo"
+    },
+    {
+      "code": 3507232007,
+      "name": "Bocek"
+    },
+    {
+      "code": 3507232008,
+      "name": "Donowarih"
+    },
+    {
+      "code": 3507232009,
+      "name": "Tawangargo"
+    }
+  ]
+}

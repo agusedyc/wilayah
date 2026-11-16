@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7503032011,
+      "name": "Tingkohubu"
+    },
+    {
+      "code": 7503032012,
+      "name": "Boludawa"
+    },
+    {
+      "code": 7503032013,
+      "name": "Bube"
+    },
+    {
+      "code": 7503032014,
+      "name": "Huluduotamo"
+    },
+    {
+      "code": 7503032020,
+      "name": "Ulanta"
+    },
+    {
+      "code": 7503032021,
+      "name": "Tinelo"
+    },
+    {
+      "code": 7503032022,
+      "name": "Bubeya"
+    },
+    {
+      "code": 7503032023,
+      "name": "Bube Baru"
+    },
+    {
+      "code": 7503032027,
+      "name": "Tingkohubu Timur"
+    },
+    {
+      "code": 7503032028,
+      "name": "Helumo"
+    }
+  ]
+}

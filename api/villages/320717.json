@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3207172006,
+      "name": "Sidaharja"
+    },
+    {
+      "code": 3207172007,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3207172009,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3207172010,
+      "name": "Cintajaya"
+    },
+    {
+      "code": 3207172011,
+      "name": "Cintaratu"
+    },
+    {
+      "code": 3207172012,
+      "name": "Sindangangin"
+    },
+    {
+      "code": 3207172013,
+      "name": "Tambakreja"
+    },
+    {
+      "code": 3207172017,
+      "name": "Baregbeg"
+    },
+    {
+      "code": 3207172018,
+      "name": "Kalapasawit"
+    },
+    {
+      "code": 3207172019,
+      "name": "Puloerang"
+    }
+  ]
+}

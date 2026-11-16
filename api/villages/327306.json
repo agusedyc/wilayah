@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273061001,
+      "name": "Husein Sastranegara"
+    },
+    {
+      "code": 3273061002,
+      "name": "Arjuna"
+    },
+    {
+      "code": 3273061003,
+      "name": "Pajajaran"
+    },
+    {
+      "code": 3273061004,
+      "name": "Pasirkaliki"
+    },
+    {
+      "code": 3273061005,
+      "name": "Pamoyanan"
+    },
+    {
+      "code": 3273061006,
+      "name": "Sukaraja"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 9402021021,
+      "name": "Wurak"
+    },
+    {
+      "code": 9402022001,
+      "name": "Wurak"
+    },
+    {
+      "code": 9402022002,
+      "name": "Lambo"
+    },
+    {
+      "code": 9402022003,
+      "name": "Pindebaga"
+    },
+    {
+      "code": 9402022004,
+      "name": "Dolinggame"
+    },
+    {
+      "code": 9402022005,
+      "name": "Belantara"
+    },
+    {
+      "code": 9402022006,
+      "name": "Kalengga"
+    },
+    {
+      "code": 9402022007,
+      "name": "Pulau Timur"
+    },
+    {
+      "code": 9402022008,
+      "name": "Girmor"
+    },
+    {
+      "code": 9402022009,
+      "name": "Maka"
+    },
+    {
+      "code": 9402022010,
+      "name": "Mobigi"
+    },
+    {
+      "code": 9402022011,
+      "name": "Jauria I"
+    },
+    {
+      "code": 9402022012,
+      "name": "Gubulome"
+    },
+    {
+      "code": 9402022013,
+      "name": "Megawi Megewa"
+    },
+    {
+      "code": 9402022014,
+      "name": "Kurikpulok"
+    },
+    {
+      "code": 9402022015,
+      "name": "Puky paky"
+    },
+    {
+      "code": 9402022016,
+      "name": "Kaninonggo"
+    },
+    {
+      "code": 9402022017,
+      "name": "Kirigimaduk"
+    },
+    {
+      "code": 9402022018,
+      "name": "Pologengga"
+    },
+    {
+      "code": 9402022019,
+      "name": "Ginipago"
+    },
+    {
+      "code": 9402022020,
+      "name": "Aulukme"
+    }
+  ]
+}

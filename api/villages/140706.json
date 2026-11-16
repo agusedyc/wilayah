@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1407061007,
+      "name": "Panipahan"
+    },
+    {
+      "code": 1407062001,
+      "name": "Panipahan"
+    },
+    {
+      "code": 1407062002,
+      "name": "Telukpulai"
+    },
+    {
+      "code": 1407062003,
+      "name": "Pasir Limau Kapas"
+    },
+    {
+      "code": 1407062004,
+      "name": "Sungai Daun"
+    },
+    {
+      "code": 1407062005,
+      "name": "Panipahan Darat"
+    },
+    {
+      "code": 1407062006,
+      "name": "Panipahan Laut"
+    },
+    {
+      "code": 1407062008,
+      "name": "Pulaujemur"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3207062001,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3207062002,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3207062003,
+      "name": "Cijulang"
+    },
+    {
+      "code": 3207062004,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3207062005,
+      "name": "Sukasetia"
+    },
+    {
+      "code": 3207062006,
+      "name": "Sumberjaya"
+    },
+    {
+      "code": 3207062007,
+      "name": "Cihaurbeuti"
+    },
+    {
+      "code": 3207062008,
+      "name": "Pasirtamiang"
+    },
+    {
+      "code": 3207062009,
+      "name": "Padamulya"
+    },
+    {
+      "code": 3207062010,
+      "name": "Pamokolan"
+    },
+    {
+      "code": 3207062011,
+      "name": "Sukahaji"
+    }
+  ]
+}

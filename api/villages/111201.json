@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1112012006,
+      "name": "Guhang"
+    },
+    {
+      "code": 1112012007,
+      "name": "Seunaloh"
+    },
+    {
+      "code": 1112012008,
+      "name": "Lhung Asan"
+    },
+    {
+      "code": 1112012010,
+      "name": "Lhung Tarok"
+    },
+    {
+      "code": 1112012014,
+      "name": "Cot Jeurat"
+    },
+    {
+      "code": 1112012015,
+      "name": "Meudang Ara"
+    },
+    {
+      "code": 1112012016,
+      "name": "Keude Siblah"
+    },
+    {
+      "code": 1112012017,
+      "name": "Kuta Bahagia"
+    },
+    {
+      "code": 1112012018,
+      "name": "Kuta Tinggi"
+    },
+    {
+      "code": 1112012019,
+      "name": "Mata Ie"
+    },
+    {
+      "code": 1112012020,
+      "name": "Geulumpang Payong"
+    },
+    {
+      "code": 1112012021,
+      "name": "Panton Raya"
+    },
+    {
+      "code": 1112012022,
+      "name": "Alue Manggota"
+    },
+    {
+      "code": 1112012023,
+      "name": "Lam Kuta"
+    },
+    {
+      "code": 1112012024,
+      "name": "Baharu"
+    },
+    {
+      "code": 1112012025,
+      "name": "Keude Paya"
+    },
+    {
+      "code": 1112012026,
+      "name": "Pasar Blangpidie"
+    },
+    {
+      "code": 1112012028,
+      "name": "Kuta Tuha"
+    },
+    {
+      "code": 1112012029,
+      "name": "Gudang"
+    },
+    {
+      "code": 1112012030,
+      "name": "Babah Lhung"
+    }
+  ]
+}

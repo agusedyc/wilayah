@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3471141001,
+      "name": "Rejowinangun"
+    },
+    {
+      "code": 3471141002,
+      "name": "Prenggan"
+    },
+    {
+      "code": 3471141003,
+      "name": "Purbayan"
+    }
+  ]
+}

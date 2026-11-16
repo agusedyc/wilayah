@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9404082001,
+      "name": "Atuka"
+    },
+    {
+      "code": 9404082002,
+      "name": "Tiwaka"
+    },
+    {
+      "code": 9404082003,
+      "name": "Keakwa"
+    },
+    {
+      "code": 9404082004,
+      "name": "Aikawapuka"
+    },
+    {
+      "code": 9404082005,
+      "name": "Kamoro"
+    }
+  ]
+}

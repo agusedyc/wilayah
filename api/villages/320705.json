@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3207052001,
+      "name": "Cidolog"
+    },
+    {
+      "code": 3207052002,
+      "name": "Janggala"
+    },
+    {
+      "code": 3207052003,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3207052004,
+      "name": "Jelegong"
+    },
+    {
+      "code": 3207052005,
+      "name": "Ciparay"
+    },
+    {
+      "code": 3207052006,
+      "name": "Sukasari"
+    }
+  ]
+}

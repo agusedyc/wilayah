@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9503462001,
+      "name": "Silakma"
+    },
+    {
+      "code": 9503462002,
+      "name": "Somarin"
+    },
+    {
+      "code": 9503462003,
+      "name": "Kenkeni"
+    },
+    {
+      "code": 9503462004,
+      "name": "Monin"
+    },
+    {
+      "code": 9503462005,
+      "name": "Enggelasue"
+    },
+    {
+      "code": 9503462006,
+      "name": "Oakbisik"
+    },
+    {
+      "code": 9503462007,
+      "name": "Momenggama"
+    },
+    {
+      "code": 9503462008,
+      "name": "Husmo"
+    },
+    {
+      "code": 9503462009,
+      "name": "Karelma"
+    },
+    {
+      "code": 9503462010,
+      "name": "Usabini"
+    }
+  ]
+}

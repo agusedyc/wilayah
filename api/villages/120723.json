@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1207232001,
+      "name": "Sei Semayang"
+    },
+    {
+      "code": 1207232002,
+      "name": "Lalang"
+    },
+    {
+      "code": 1207232003,
+      "name": "Puji Mulyo"
+    },
+    {
+      "code": 1207232004,
+      "name": "Paya Geli"
+    },
+    {
+      "code": 1207232005,
+      "name": "Mulio Rejo"
+    },
+    {
+      "code": 1207232006,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1207232007,
+      "name": "Sumber Melati Diski"
+    },
+    {
+      "code": 1207232008,
+      "name": "Tanjung Gusta"
+    },
+    {
+      "code": 1207232009,
+      "name": "Helvetia"
+    },
+    {
+      "code": 1207232010,
+      "name": "Medan Krio"
+    },
+    {
+      "code": 1207232011,
+      "name": "Sei Mencirim"
+    },
+    {
+      "code": 1207232012,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1207232013,
+      "name": "Sunggal Kanan"
+    },
+    {
+      "code": 1207232014,
+      "name": "Serbajadi"
+    },
+    {
+      "code": 1207232015,
+      "name": "Telaga Sari"
+    },
+    {
+      "code": 1207232016,
+      "name": "Tanjung Selamat"
+    },
+    {
+      "code": 1207232017,
+      "name": "Sei Beras Sekata"
+    }
+  ]
+}

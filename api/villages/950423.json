@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504232001,
+      "name": "Dundu"
+    },
+    {
+      "code": 9504232002,
+      "name": "Nugini"
+    },
+    {
+      "code": 9504232003,
+      "name": "Kembu"
+    },
+    {
+      "code": 9504232004,
+      "name": "Kurupu"
+    },
+    {
+      "code": 9504232005,
+      "name": "Yiku"
+    },
+    {
+      "code": 9504232006,
+      "name": "Bimo"
+    },
+    {
+      "code": 9504232007,
+      "name": "Dugunagep"
+    },
+    {
+      "code": 9504232008,
+      "name": "Nilogabu"
+    },
+    {
+      "code": 9504232009,
+      "name": "Nakwi"
+    },
+    {
+      "code": 9504232010,
+      "name": "Nini"
+    }
+  ]
+}

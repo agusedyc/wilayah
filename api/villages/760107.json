@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7601072001,
+      "name": "Lilimori"
+    },
+    {
+      "code": 7601072002,
+      "name": "Karave"
+    },
+    {
+      "code": 7601072003,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 7601072004,
+      "name": "Kastabuana"
+    },
+    {
+      "code": 7601072005,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 7601072006,
+      "name": "Lelejae"
+    },
+    {
+      "code": 7601072007,
+      "name": "Ompi"
+    }
+  ]
+}

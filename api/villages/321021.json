@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3210212001,
+      "name": "Bantaragung"
+    },
+    {
+      "code": 3210212002,
+      "name": "Padaherang"
+    },
+    {
+      "code": 3210212003,
+      "name": "Lengkong Kulon"
+    },
+    {
+      "code": 3210212004,
+      "name": "Jerukleueut"
+    },
+    {
+      "code": 3210212005,
+      "name": "Sindangwangi"
+    },
+    {
+      "code": 3210212006,
+      "name": "Buahkapas"
+    },
+    {
+      "code": 3210212007,
+      "name": "Ujungberung"
+    },
+    {
+      "code": 3210212008,
+      "name": "Balagedog"
+    },
+    {
+      "code": 3210212009,
+      "name": "Leuwilaja"
+    },
+    {
+      "code": 3210212010,
+      "name": "Lengkong Wetan"
+    }
+  ]
+}

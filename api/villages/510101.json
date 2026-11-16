@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5101011006,
+      "name": "Baler Bale Agung"
+    },
+    {
+      "code": 5101011008,
+      "name": "Banjar Tengah"
+    },
+    {
+      "code": 5101011013,
+      "name": "Lelateng"
+    },
+    {
+      "code": 5101011014,
+      "name": "Loloan Barat"
+    },
+    {
+      "code": 5101012001,
+      "name": "Cupel"
+    },
+    {
+      "code": 5101012002,
+      "name": "Baluk"
+    },
+    {
+      "code": 5101012003,
+      "name": "Banyubiru"
+    },
+    {
+      "code": 5101012004,
+      "name": "Kaliakah"
+    },
+    {
+      "code": 5101012005,
+      "name": "Berangbang"
+    },
+    {
+      "code": 5101012009,
+      "name": "Tegal Badeng Timur"
+    },
+    {
+      "code": 5101012010,
+      "name": "Tegal Badeng Barat"
+    },
+    {
+      "code": 5101012011,
+      "name": "Pengambengan"
+    }
+  ]
+}

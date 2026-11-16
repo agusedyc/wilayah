@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5108072001,
+      "name": "Lemukih"
+    },
+    {
+      "code": 5108072002,
+      "name": "Galungan"
+    },
+    {
+      "code": 5108072003,
+      "name": "Sekumpul"
+    },
+    {
+      "code": 5108072004,
+      "name": "Bebetin"
+    },
+    {
+      "code": 5108072005,
+      "name": "Sudaji"
+    },
+    {
+      "code": 5108072006,
+      "name": "Sawan"
+    },
+    {
+      "code": 5108072007,
+      "name": "Menyali"
+    },
+    {
+      "code": 5108072008,
+      "name": "Suwug"
+    },
+    {
+      "code": 5108072009,
+      "name": "Jagaraga"
+    },
+    {
+      "code": 5108072010,
+      "name": "Sinabun"
+    },
+    {
+      "code": 5108072011,
+      "name": "Kerobokan"
+    },
+    {
+      "code": 5108072012,
+      "name": "Sangsit"
+    },
+    {
+      "code": 5108072013,
+      "name": "Bungkulan"
+    },
+    {
+      "code": 5108072014,
+      "name": "Giri Emas"
+    }
+  ]
+}

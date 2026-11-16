@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6211062001,
+      "name": "Tahai Jaya"
+    },
+    {
+      "code": 6211062002,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 6211062003,
+      "name": "Wono Agung"
+    },
+    {
+      "code": 6211062004,
+      "name": "Kanamit Barat"
+    },
+    {
+      "code": 6211062005,
+      "name": "Sei Baru Tewu"
+    },
+    {
+      "code": 6211062006,
+      "name": "Kanamit"
+    },
+    {
+      "code": 6211062007,
+      "name": "Garantung"
+    },
+    {
+      "code": 6211062008,
+      "name": "Gandang"
+    },
+    {
+      "code": 6211062009,
+      "name": "Badirih"
+    },
+    {
+      "code": 6211062010,
+      "name": "Tahai Baru"
+    },
+    {
+      "code": 6211062011,
+      "name": "Maliku Baru"
+    },
+    {
+      "code": 6211062012,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 6211062013,
+      "name": "Kanamit Jaya"
+    },
+    {
+      "code": 6211062014,
+      "name": "Gandang Barat"
+    },
+    {
+      "code": 6211062015,
+      "name": "Maliku Mulia"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1813042001,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1813042002,
+      "name": "Padang Rindu"
+    },
+    {
+      "code": 1813042003,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1813042004,
+      "name": "Kerbang Dalam"
+    },
+    {
+      "code": 1813042005,
+      "name": "Kota Karang"
+    },
+    {
+      "code": 1813042006,
+      "name": "Balam"
+    },
+    {
+      "code": 1813042007,
+      "name": "Way Narta"
+    },
+    {
+      "code": 1813042008,
+      "name": "Kerbang Langgar"
+    },
+    {
+      "code": 1813042009,
+      "name": "Walur"
+    },
+    {
+      "code": 1813042010,
+      "name": "Batu Raja"
+    },
+    {
+      "code": 1813042011,
+      "name": "Pemancar"
+    },
+    {
+      "code": 1813042012,
+      "name": "Gedau"
+    }
+  ]
+}

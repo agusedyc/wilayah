@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7601011006,
+      "name": "Bambalamotu"
+    },
+    {
+      "code": 7601012003,
+      "name": "Polewali"
+    },
+    {
+      "code": 7601012004,
+      "name": "Randomayang"
+    },
+    {
+      "code": 7601012007,
+      "name": "Pangiang"
+    },
+    {
+      "code": 7601012008,
+      "name": "Kalola"
+    },
+    {
+      "code": 7601012009,
+      "name": "Wulai"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1271071001,
+      "name": "Tanjung Selamat"
+    },
+    {
+      "code": 1271071002,
+      "name": "Simpang Selayang"
+    },
+    {
+      "code": 1271071003,
+      "name": "Namo Gajah"
+    },
+    {
+      "code": 1271071004,
+      "name": "Kemenangan Tani"
+    },
+    {
+      "code": 1271071005,
+      "name": "Laucih"
+    },
+    {
+      "code": 1271071006,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1271071007,
+      "name": "Ladang Bambu"
+    },
+    {
+      "code": 1271071008,
+      "name": "Simalingkar B"
+    },
+    {
+      "code": 1271071009,
+      "name": "Mangga"
+    }
+  ]
+}

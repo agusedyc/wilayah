@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3319052001,
+      "name": "Gulang"
+    },
+    {
+      "code": 3319052002,
+      "name": "Jepang"
+    },
+    {
+      "code": 3319052003,
+      "name": "Payaman"
+    },
+    {
+      "code": 3319052004,
+      "name": "Kirig"
+    },
+    {
+      "code": 3319052005,
+      "name": "Temulus"
+    },
+    {
+      "code": 3319052006,
+      "name": "Kesambi"
+    },
+    {
+      "code": 3319052007,
+      "name": "Jojo"
+    },
+    {
+      "code": 3319052008,
+      "name": "Hadiwarno"
+    },
+    {
+      "code": 3319052009,
+      "name": "Mejobo"
+    },
+    {
+      "code": 3319052010,
+      "name": "Golantepus"
+    },
+    {
+      "code": 3319052011,
+      "name": "Tenggeles"
+    }
+  ]
+}

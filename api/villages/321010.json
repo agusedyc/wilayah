@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3210102001,
+      "name": "Parakan"
+    },
+    {
+      "code": 3210102002,
+      "name": "Patuanan"
+    },
+    {
+      "code": 3210102003,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3210102004,
+      "name": "Lame"
+    },
+    {
+      "code": 3210102005,
+      "name": "Mindi"
+    },
+    {
+      "code": 3210102006,
+      "name": "Rajawangi"
+    },
+    {
+      "code": 3210102007,
+      "name": "Leuwikujang"
+    },
+    {
+      "code": 3210102008,
+      "name": "Mirat"
+    },
+    {
+      "code": 3210102009,
+      "name": "Leuwimunding"
+    },
+    {
+      "code": 3210102010,
+      "name": "Ciparay"
+    },
+    {
+      "code": 3210102011,
+      "name": "Heuleut"
+    },
+    {
+      "code": 3210102012,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3210102013,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3210102014,
+      "name": "Parungjaya"
+    }
+  ]
+}

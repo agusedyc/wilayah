@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3209402001,
+      "name": "Jamblang"
+    },
+    {
+      "code": 3209402002,
+      "name": "Sitiwinangun"
+    },
+    {
+      "code": 3209402003,
+      "name": "Wangunharja"
+    },
+    {
+      "code": 3209402004,
+      "name": "Bojong Wetan"
+    },
+    {
+      "code": 3209402005,
+      "name": "Bojong Lor"
+    },
+    {
+      "code": 3209402006,
+      "name": "Orimalang"
+    },
+    {
+      "code": 3209402007,
+      "name": "Bakung Kidul"
+    },
+    {
+      "code": 3209402008,
+      "name": "Bakung Lor"
+    }
+  ]
+}

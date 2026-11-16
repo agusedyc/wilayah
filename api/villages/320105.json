@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3201052001,
+      "name": "Cijayanti"
+    },
+    {
+      "code": 3201052002,
+      "name": "Sumur Batu"
+    },
+    {
+      "code": 3201052003,
+      "name": "Sentul"
+    },
+    {
+      "code": 3201052004,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 3201052005,
+      "name": "Cipambuan"
+    },
+    {
+      "code": 3201052006,
+      "name": "Kadumanggu"
+    },
+    {
+      "code": 3201052007,
+      "name": "Citaringgul"
+    },
+    {
+      "code": 3201052008,
+      "name": "Babakan Madang"
+    },
+    {
+      "code": 3201052009,
+      "name": "Bojong Koneng"
+    }
+  ]
+}

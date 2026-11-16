@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7602112001,
+      "name": "Tommo"
+    },
+    {
+      "code": 7602112002,
+      "name": "Campaloga"
+    },
+    {
+      "code": 7602112003,
+      "name": "Buana Sakti"
+    },
+    {
+      "code": 7602112004,
+      "name": "Tamemongga"
+    },
+    {
+      "code": 7602112005,
+      "name": "Tamejarra"
+    },
+    {
+      "code": 7602112006,
+      "name": "Rantemario"
+    },
+    {
+      "code": 7602112007,
+      "name": "Malino"
+    },
+    {
+      "code": 7602112008,
+      "name": "Kakullasang"
+    },
+    {
+      "code": 7602112009,
+      "name": "Leling"
+    },
+    {
+      "code": 7602112010,
+      "name": "Kalepu"
+    },
+    {
+      "code": 7602112011,
+      "name": "Sandana"
+    },
+    {
+      "code": 7602112012,
+      "name": "Leling Barat"
+    },
+    {
+      "code": 7602112013,
+      "name": "Leling Utara"
+    },
+    {
+      "code": 7602112014,
+      "name": "Saludengen"
+    }
+  ]
+}

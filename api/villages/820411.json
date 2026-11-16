@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 8204112001,
+      "name": "Bokimiake"
+    },
+    {
+      "code": 8204112002,
+      "name": "Hatejawa"
+    },
+    {
+      "code": 8204112003,
+      "name": "Busua"
+    },
+    {
+      "code": 8204112004,
+      "name": "Fofao"
+    }
+  ]
+}

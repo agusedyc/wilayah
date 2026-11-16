@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9403032001,
+      "name": "Toyaimoti"
+    },
+    {
+      "code": 9403032002,
+      "name": "Agapo"
+    },
+    {
+      "code": 9403032003,
+      "name": "Abatadi"
+    },
+    {
+      "code": 9403032005,
+      "name": "Baguwo"
+    },
+    {
+      "code": 9403032006,
+      "name": "Makidini"
+    },
+    {
+      "code": 9403032007,
+      "name": "Tagiya"
+    },
+    {
+      "code": 9403032008,
+      "name": "Emai"
+    },
+    {
+      "code": 9403032009,
+      "name": "Dinubutu"
+    },
+    {
+      "code": 9403032013,
+      "name": "Duwadide"
+    }
+  ]
+}

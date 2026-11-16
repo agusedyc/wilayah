@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6311042001,
+      "name": "Tariwin"
+    },
+    {
+      "code": 6311042002,
+      "name": "Lok Batu"
+    },
+    {
+      "code": 6311042003,
+      "name": "Munjung"
+    },
+    {
+      "code": 6311042004,
+      "name": "Pelajau"
+    },
+    {
+      "code": 6311042005,
+      "name": "Batumandi"
+    },
+    {
+      "code": 6311042006,
+      "name": "Riwa"
+    },
+    {
+      "code": 6311042007,
+      "name": "Mantimin"
+    },
+    {
+      "code": 6311042008,
+      "name": "Mampari"
+    },
+    {
+      "code": 6311042009,
+      "name": "Bungur"
+    },
+    {
+      "code": 6311042010,
+      "name": "Teluk Mesjid"
+    },
+    {
+      "code": 6311042011,
+      "name": "Timbun Tulang"
+    },
+    {
+      "code": 6311042012,
+      "name": "Banua Hanyar"
+    },
+    {
+      "code": 6311042013,
+      "name": "Bakung"
+    },
+    {
+      "code": 6311042014,
+      "name": "Karuh"
+    },
+    {
+      "code": 6311042015,
+      "name": "Guha"
+    },
+    {
+      "code": 6311042016,
+      "name": "Gunung Manau"
+    },
+    {
+      "code": 6311042017,
+      "name": "Hampa Raya"
+    },
+    {
+      "code": 6311042018,
+      "name": "Kasai"
+    }
+  ]
+}

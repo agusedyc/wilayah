@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7202221001,
+      "name": "Bonesompe"
+    },
+    {
+      "code": 7202221002,
+      "name": "Kasintuwu"
+    },
+    {
+      "code": 7202221003,
+      "name": "Lombogia"
+    },
+    {
+      "code": 7202221004,
+      "name": "Lawanga"
+    },
+    {
+      "code": 7202221005,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 7202221006,
+      "name": "Madale"
+    },
+    {
+      "code": 7202221007,
+      "name": "Lawanga Tawongan"
+    }
+  ]
+}

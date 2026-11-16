@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3510182001,
+      "name": "Bangsring"
+    },
+    {
+      "code": 3510182002,
+      "name": "Bengkak"
+    },
+    {
+      "code": 3510182003,
+      "name": "Alasbuluh"
+    },
+    {
+      "code": 3510182004,
+      "name": "Wongsorejo"
+    },
+    {
+      "code": 3510182005,
+      "name": "Sumberkencono"
+    },
+    {
+      "code": 3510182006,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 3510182007,
+      "name": "Bajulmati"
+    },
+    {
+      "code": 3510182008,
+      "name": "Watukebo"
+    },
+    {
+      "code": 3510182009,
+      "name": "Alasrejo"
+    },
+    {
+      "code": 3510182010,
+      "name": "Sidowangi"
+    },
+    {
+      "code": 3510182011,
+      "name": "Sumberanyar"
+    },
+    {
+      "code": 3510182012,
+      "name": "Bimorejo"
+    }
+  ]
+}

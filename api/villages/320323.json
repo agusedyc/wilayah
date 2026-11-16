@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3203232001,
+      "name": "Cidamar"
+    },
+    {
+      "code": 3203232002,
+      "name": "Cibuluh"
+    },
+    {
+      "code": 3203232003,
+      "name": "Cisalak"
+    },
+    {
+      "code": 3203232004,
+      "name": "Cimaragang"
+    },
+    {
+      "code": 3203232005,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3203232006,
+      "name": "Kertajadi"
+    },
+    {
+      "code": 3203232007,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3203232008,
+      "name": "Gelarpawitan"
+    },
+    {
+      "code": 3203232009,
+      "name": "Karangwangi"
+    },
+    {
+      "code": 3203232010,
+      "name": "Karyabakti"
+    },
+    {
+      "code": 3203232011,
+      "name": "Jayapura"
+    },
+    {
+      "code": 3203232012,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3203232013,
+      "name": "Puncakbaru"
+    },
+    {
+      "code": 3203232014,
+      "name": "Gelarwangi"
+    }
+  ]
+}

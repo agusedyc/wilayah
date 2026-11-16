@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1803112001,
+      "name": "Gunung Besar"
+    },
+    {
+      "code": 1803112002,
+      "name": "Kinciran"
+    },
+    {
+      "code": 1803112003,
+      "name": "Negla Sari"
+    },
+    {
+      "code": 1803112004,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1803112005,
+      "name": "Sri Bandung"
+    },
+    {
+      "code": 1803112006,
+      "name": "Subik"
+    },
+    {
+      "code": 1803112007,
+      "name": "Gunung Sadar"
+    },
+    {
+      "code": 1803112008,
+      "name": "Gunung Gijul"
+    },
+    {
+      "code": 1803112016,
+      "name": "Pekurun Barat"
+    },
+    {
+      "code": 1803112017,
+      "name": "Pekurun Selatan"
+    },
+    {
+      "code": 1803112018,
+      "name": "Pekurun Utara"
+    }
+  ]
+}

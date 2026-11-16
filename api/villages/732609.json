@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7326091001,
+      "name": "Tikala"
+    },
+    {
+      "code": 7326091002,
+      "name": "Buntu Barana"
+    },
+    {
+      "code": 7326092003,
+      "name": "Buntu Batu"
+    },
+    {
+      "code": 7326092004,
+      "name": "Sereale"
+    },
+    {
+      "code": 7326092005,
+      "name": "Embatau"
+    },
+    {
+      "code": 7326092006,
+      "name": "Benteng Ka'do To'ria"
+    },
+    {
+      "code": 7326092007,
+      "name": "Pangden"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6304062001,
+      "name": "Terantang"
+    },
+    {
+      "code": 6304062002,
+      "name": "Tanipah"
+    },
+    {
+      "code": 6304062003,
+      "name": "Puntik Luar"
+    },
+    {
+      "code": 6304062004,
+      "name": "Puntik Dalam"
+    },
+    {
+      "code": 6304062005,
+      "name": "Tabing Rimbah"
+    },
+    {
+      "code": 6304062006,
+      "name": "Pantai Hambawang"
+    },
+    {
+      "code": 6304062009,
+      "name": "Tatah Alayung"
+    },
+    {
+      "code": 6304062011,
+      "name": "Puntik Tengah"
+    },
+    {
+      "code": 6304062014,
+      "name": "Lokrawa"
+    },
+    {
+      "code": 6304062015,
+      "name": "Sei Ramania"
+    },
+    {
+      "code": 6304062016,
+      "name": "Bangkit Baru"
+    },
+    {
+      "code": 6304062017,
+      "name": "Antasan Segera"
+    },
+    {
+      "code": 6304062020,
+      "name": "Karang Bunga"
+    },
+    {
+      "code": 6304062021,
+      "name": "Karang Indah"
+    }
+  ]
+}

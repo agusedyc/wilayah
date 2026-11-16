@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3310092001,
+      "name": "Nangsri"
+    },
+    {
+      "code": 3310092002,
+      "name": "Barukan"
+    },
+    {
+      "code": 3310092003,
+      "name": "Borangan"
+    },
+    {
+      "code": 3310092004,
+      "name": "Sukorini"
+    },
+    {
+      "code": 3310092005,
+      "name": "Ngemplakseneng"
+    },
+    {
+      "code": 3310092006,
+      "name": "Sapen"
+    },
+    {
+      "code": 3310092007,
+      "name": "Kecemen"
+    },
+    {
+      "code": 3310092008,
+      "name": "Tijayan"
+    },
+    {
+      "code": 3310092009,
+      "name": "Bendan"
+    },
+    {
+      "code": 3310092010,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3310092011,
+      "name": "Solodiran"
+    },
+    {
+      "code": 3310092012,
+      "name": "Taskombang"
+    },
+    {
+      "code": 3310092013,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3310092014,
+      "name": "Kebonalas"
+    },
+    {
+      "code": 3310092015,
+      "name": "Leses"
+    },
+    {
+      "code": 3310092016,
+      "name": "Kepurun"
+    }
+  ]
+}

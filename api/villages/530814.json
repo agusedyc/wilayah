@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5308142002,
+      "name": "Nduaria"
+    },
+    {
+      "code": 5308142003,
+      "name": "Nuamuri"
+    },
+    {
+      "code": 5308142004,
+      "name": "Nuamuri Barat"
+    },
+    {
+      "code": 5308142005,
+      "name": "Koanara"
+    },
+    {
+      "code": 5308142006,
+      "name": "Woloara"
+    },
+    {
+      "code": 5308142007,
+      "name": "Pemo"
+    },
+    {
+      "code": 5308142009,
+      "name": "Detuena"
+    },
+    {
+      "code": 5308142010,
+      "name": "Wolokelo"
+    },
+    {
+      "code": 5308142011,
+      "name": "Waturaka"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 9504192001,
+      "name": "Nunggawi"
+    },
+    {
+      "code": 9504192002,
+      "name": "Kokondao"
+    },
+    {
+      "code": 9504192003,
+      "name": "Belep"
+    },
+    {
+      "code": 9504192004,
+      "name": "Kuripaga"
+    },
+    {
+      "code": 9504192005,
+      "name": "Kimobur"
+    },
+    {
+      "code": 9504192006,
+      "name": "Wondame"
+    },
+    {
+      "code": 9504192007,
+      "name": "Kilungga"
+    },
+    {
+      "code": 9504192008,
+      "name": "Nombori"
+    },
+    {
+      "code": 9504192009,
+      "name": "Delelah"
+    },
+    {
+      "code": 9504192010,
+      "name": "Gilo"
+    },
+    {
+      "code": 9504192011,
+      "name": "Undi"
+    },
+    {
+      "code": 9504192012,
+      "name": "Derek"
+    },
+    {
+      "code": 9504192013,
+      "name": "Numbe"
+    },
+    {
+      "code": 9504192014,
+      "name": "Kanggineri"
+    },
+    {
+      "code": 9504192015,
+      "name": "Wonoluk"
+    },
+    {
+      "code": 9504192016,
+      "name": "Barenggo"
+    },
+    {
+      "code": 9504192017,
+      "name": "Tunibur"
+    },
+    {
+      "code": 9504192018,
+      "name": "Woyi"
+    },
+    {
+      "code": 9504192019,
+      "name": "Kubalo"
+    },
+    {
+      "code": 9504192020,
+      "name": "Tinoweno"
+    },
+    {
+      "code": 9504192021,
+      "name": "Mololowa"
+    },
+    {
+      "code": 9504192022,
+      "name": "Kunipaga"
+    },
+    {
+      "code": 9504192023,
+      "name": "Kabumanggen"
+    },
+    {
+      "code": 9504192024,
+      "name": "Kondangwi"
+    },
+    {
+      "code": 9504192025,
+      "name": "Kipino"
+    },
+    {
+      "code": 9504192026,
+      "name": "Tomobur"
+    }
+  ]
+}

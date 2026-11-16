@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9408022001,
+      "name": "Damabagata"
+    },
+    {
+      "code": 9408022002,
+      "name": "Kokobaya"
+    },
+    {
+      "code": 9408022003,
+      "name": "Watiyai"
+    },
+    {
+      "code": 9408022004,
+      "name": "Edagotadi"
+    },
+    {
+      "code": 9408022005,
+      "name": "Dakebo"
+    },
+    {
+      "code": 9408022006,
+      "name": "Bagou"
+    },
+    {
+      "code": 9408022007,
+      "name": "Dagokebo"
+    },
+    {
+      "code": 9408022008,
+      "name": "Ipoke"
+    },
+    {
+      "code": 9408022009,
+      "name": "Waitakotu"
+    },
+    {
+      "code": 9408022010,
+      "name": "Pekepa"
+    },
+    {
+      "code": 9408022011,
+      "name": "Bagumoma"
+    },
+    {
+      "code": 9408022012,
+      "name": "Udaugida"
+    },
+    {
+      "code": 9408022013,
+      "name": "Bagou II"
+    },
+    {
+      "code": 9408022014,
+      "name": "Idayodagi"
+    }
+  ]
+}

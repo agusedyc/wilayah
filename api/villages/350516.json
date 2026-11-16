@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3505162001,
+      "name": "Kedungwungu"
+    },
+    {
+      "code": 3505162002,
+      "name": "Salamrejo"
+    },
+    {
+      "code": 3505162003,
+      "name": "Sumberkembar"
+    },
+    {
+      "code": 3505162004,
+      "name": "Binangun"
+    },
+    {
+      "code": 3505162005,
+      "name": "Rejoso"
+    },
+    {
+      "code": 3505162006,
+      "name": "Ngembul"
+    },
+    {
+      "code": 3505162007,
+      "name": "Sambigede"
+    },
+    {
+      "code": 3505162008,
+      "name": "Tawangrejo"
+    },
+    {
+      "code": 3505162009,
+      "name": "Umbuldamar"
+    },
+    {
+      "code": 3505162010,
+      "name": "Ngadri"
+    },
+    {
+      "code": 3505162011,
+      "name": "Birowo"
+    },
+    {
+      "code": 3505162012,
+      "name": "Sukorame"
+    }
+  ]
+}

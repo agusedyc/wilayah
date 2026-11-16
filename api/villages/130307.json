@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1303072001,
+      "name": "Lubuak Tarok"
+    },
+    {
+      "code": 1303072002,
+      "name": "Lalan"
+    },
+    {
+      "code": 1303072003,
+      "name": "Buluah Kasok"
+    },
+    {
+      "code": 1303072004,
+      "name": "Kampung Dalam"
+    },
+    {
+      "code": 1303072005,
+      "name": "Silongo"
+    },
+    {
+      "code": 1303072006,
+      "name": "Latang"
+    }
+  ]
+}

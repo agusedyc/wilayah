@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1507021001,
+      "name": "Nipah Panjang I"
+    },
+    {
+      "code": 1507021002,
+      "name": "Nipah Panjang II"
+    },
+    {
+      "code": 1507022003,
+      "name": "Simpang Jelita"
+    },
+    {
+      "code": 1507022004,
+      "name": "Simpang Datuk"
+    },
+    {
+      "code": 1507022005,
+      "name": "Teluk Kijing"
+    },
+    {
+      "code": 1507022006,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 1507022007,
+      "name": "Pemusiran"
+    },
+    {
+      "code": 1507022008,
+      "name": "Sungai Tering"
+    },
+    {
+      "code": 1507022009,
+      "name": "Sungai Jeruk"
+    },
+    {
+      "code": 1507022010,
+      "name": "Bunga Tanjung"
+    }
+  ]
+}

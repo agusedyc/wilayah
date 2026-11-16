@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5313082001,
+      "name": "Alap Atadei"
+    },
+    {
+      "code": 5313082002,
+      "name": "Atakera"
+    },
+    {
+      "code": 5313082003,
+      "name": "Leworaja"
+    },
+    {
+      "code": 5313082004,
+      "name": "Pantai Harapan"
+    },
+    {
+      "code": 5313082005,
+      "name": "Puor"
+    },
+    {
+      "code": 5313082006,
+      "name": "Imulolong"
+    },
+    {
+      "code": 5313082007,
+      "name": "Lamalera B"
+    },
+    {
+      "code": 5313082008,
+      "name": "Lamalera A"
+    },
+    {
+      "code": 5313082009,
+      "name": "Lelata"
+    },
+    {
+      "code": 5313082010,
+      "name": "Wulandoni"
+    },
+    {
+      "code": 5313082011,
+      "name": "Belobao"
+    },
+    {
+      "code": 5313082012,
+      "name": "Posiwatu"
+    },
+    {
+      "code": 5313082013,
+      "name": "Puor B"
+    },
+    {
+      "code": 5313082014,
+      "name": "Ataili"
+    },
+    {
+      "code": 5313082015,
+      "name": "Tapobali"
+    }
+  ]
+}

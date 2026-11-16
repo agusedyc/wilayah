@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3210222001,
+      "name": "Genteng"
+    },
+    {
+      "code": 3210222002,
+      "name": "Sunia"
+    },
+    {
+      "code": 3210222003,
+      "name": "Darmalarang"
+    },
+    {
+      "code": 3210222004,
+      "name": "Sindangpala"
+    },
+    {
+      "code": 3210222005,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3210222006,
+      "name": "Kagok"
+    },
+    {
+      "code": 3210222007,
+      "name": "Cimeong"
+    },
+    {
+      "code": 3210222008,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3210222009,
+      "name": "Kareo"
+    },
+    {
+      "code": 3210222010,
+      "name": "Sangiang"
+    },
+    {
+      "code": 3210222011,
+      "name": "Sunia Baru"
+    },
+    {
+      "code": 3210222012,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3210222013,
+      "name": "Girimulya"
+    }
+  ]
+}

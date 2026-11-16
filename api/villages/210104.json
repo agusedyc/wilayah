@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 2101041005,
+      "name": "Kawal"
+    },
+    {
+      "code": 2101042001,
+      "name": "Gunung Kijang"
+    },
+    {
+      "code": 2101042002,
+      "name": "Malang Rapat"
+    },
+    {
+      "code": 2101042003,
+      "name": "Teluk Bakau"
+    }
+  ]
+}

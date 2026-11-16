@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9202131001,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 9202132002,
+      "name": "Mansinam"
+    },
+    {
+      "code": 9202132003,
+      "name": "Ayambori"
+    },
+    {
+      "code": 9202132004,
+      "name": "Bakaro"
+    },
+    {
+      "code": 9202132005,
+      "name": "Arowi"
+    },
+    {
+      "code": 9202132006,
+      "name": "Aipiri"
+    },
+    {
+      "code": 9202132007,
+      "name": "Susweni"
+    }
+  ]
+}

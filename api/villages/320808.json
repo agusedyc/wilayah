@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3208082001,
+      "name": "Gewok"
+    },
+    {
+      "code": 3208082002,
+      "name": "Cirukem"
+    },
+    {
+      "code": 3208082003,
+      "name": "Pakembangan"
+    },
+    {
+      "code": 3208082004,
+      "name": "Sukaimut"
+    },
+    {
+      "code": 3208082005,
+      "name": "Cikananga"
+    },
+    {
+      "code": 3208082006,
+      "name": "Tambakbaya"
+    },
+    {
+      "code": 3208082007,
+      "name": "Garawangi"
+    },
+    {
+      "code": 3208082008,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3208082009,
+      "name": "Mancagar"
+    },
+    {
+      "code": 3208082010,
+      "name": "Purwasari"
+    },
+    {
+      "code": 3208082011,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3208082023,
+      "name": "Karamatwangi"
+    },
+    {
+      "code": 3208082024,
+      "name": "Citiusari"
+    },
+    {
+      "code": 3208082026,
+      "name": "Mekarmulya"
+    },
+    {
+      "code": 3208082027,
+      "name": "Tembong"
+    },
+    {
+      "code": 3208082028,
+      "name": "Kutakembaran"
+    },
+    {
+      "code": 3208082029,
+      "name": "Kadatuan"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7106062001,
+      "name": "Gangga I"
+    },
+    {
+      "code": 7106062002,
+      "name": "Gangga II"
+    },
+    {
+      "code": 7106062003,
+      "name": "Talise"
+    },
+    {
+      "code": 7106062004,
+      "name": "Airbanua"
+    },
+    {
+      "code": 7106062005,
+      "name": "Palaes"
+    },
+    {
+      "code": 7106062006,
+      "name": "Maliambao"
+    },
+    {
+      "code": 7106062007,
+      "name": "Termaal"
+    },
+    {
+      "code": 7106062008,
+      "name": "Paputungan"
+    },
+    {
+      "code": 7106062009,
+      "name": "Jayakarsa"
+    },
+    {
+      "code": 7106062010,
+      "name": "Tanah Putih"
+    },
+    {
+      "code": 7106062011,
+      "name": "Bahoi"
+    },
+    {
+      "code": 7106062012,
+      "name": "Tarabitan"
+    },
+    {
+      "code": 7106062013,
+      "name": "Serei"
+    },
+    {
+      "code": 7106062014,
+      "name": "Sonsilo"
+    },
+    {
+      "code": 7106062015,
+      "name": "Mubune"
+    },
+    {
+      "code": 7106062016,
+      "name": "Munte"
+    },
+    {
+      "code": 7106062017,
+      "name": "Bulutui"
+    },
+    {
+      "code": 7106062018,
+      "name": "Wawunian"
+    },
+    {
+      "code": 7106062019,
+      "name": "Kinabuhutan"
+    },
+    {
+      "code": 7106062020,
+      "name": "Tambun"
+    }
+  ]
+}

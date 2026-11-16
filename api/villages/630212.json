@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6302122001,
+      "name": "Sepapah"
+    },
+    {
+      "code": 6302122002,
+      "name": "Sungai Betung"
+    },
+    {
+      "code": 6302122003,
+      "name": "Basuang"
+    },
+    {
+      "code": 6302122004,
+      "name": "Gunung Batu Besar"
+    },
+    {
+      "code": 6302122005,
+      "name": "Sampanahan"
+    },
+    {
+      "code": 6302122006,
+      "name": "Rampa Manunggul"
+    },
+    {
+      "code": 6302122007,
+      "name": "Papaan"
+    },
+    {
+      "code": 6302122008,
+      "name": "Sampanahan Hilir"
+    },
+    {
+      "code": 6302122009,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 6302122010,
+      "name": "Sukamaju"
+    }
+  ]
+}

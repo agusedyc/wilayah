@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7309041001,
+      "name": "Baji Pa'mai"
+    },
+    {
+      "code": 7309041002,
+      "name": "Pallantikang"
+    },
+    {
+      "code": 7309041003,
+      "name": "Baju Bodoa"
+    },
+    {
+      "code": 7309042004,
+      "name": "Borikamase"
+    },
+    {
+      "code": 7309042005,
+      "name": "Mattirotasi"
+    },
+    {
+      "code": 7309042006,
+      "name": "Majannang"
+    },
+    {
+      "code": 7309042007,
+      "name": "Borimasunggu"
+    }
+  ]
+}

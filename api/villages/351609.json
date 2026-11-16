@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3516092001,
+      "name": "Punggul"
+    },
+    {
+      "code": 3516092002,
+      "name": "Kalen"
+    },
+    {
+      "code": 3516092003,
+      "name": "Kedunggede"
+    },
+    {
+      "code": 3516092004,
+      "name": "Mojokarang"
+    },
+    {
+      "code": 3516092005,
+      "name": "Segunung"
+    },
+    {
+      "code": 3516092006,
+      "name": "Talok"
+    },
+    {
+      "code": 3516092007,
+      "name": "Sumbersono"
+    },
+    {
+      "code": 3516092008,
+      "name": "Sambilawang"
+    },
+    {
+      "code": 3516092009,
+      "name": "Jrambe"
+    },
+    {
+      "code": 3516092010,
+      "name": "Randugenengan"
+    },
+    {
+      "code": 3516092011,
+      "name": "Pohkecik"
+    },
+    {
+      "code": 3516092012,
+      "name": "Dlanggu"
+    },
+    {
+      "code": 3516092013,
+      "name": "Ngembeh"
+    },
+    {
+      "code": 3516092014,
+      "name": "Sumberkarang"
+    },
+    {
+      "code": 3516092015,
+      "name": "Kedunglengkong"
+    },
+    {
+      "code": 3516092016,
+      "name": "Tumapel"
+    }
+  ]
+}

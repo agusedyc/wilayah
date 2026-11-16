@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7205112001,
+      "name": "Bodi"
+    },
+    {
+      "code": 7205112002,
+      "name": "Tayokan"
+    },
+    {
+      "code": 7205112003,
+      "name": "Harmoni"
+    },
+    {
+      "code": 7205112004,
+      "name": "Lunguto"
+    },
+    {
+      "code": 7205112005,
+      "name": "Timbulon"
+    },
+    {
+      "code": 7205112006,
+      "name": "Oyak"
+    },
+    {
+      "code": 7205112007,
+      "name": "Hulubalang"
+    }
+  ]
+}

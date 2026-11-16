@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7304021001,
+      "name": "Bonto Tangnga"
+    },
+    {
+      "code": 7304021002,
+      "name": "Tonro Kassi"
+    },
+    {
+      "code": 7304021003,
+      "name": "Tonro Kassi Barat"
+    },
+    {
+      "code": 7304021004,
+      "name": "Tonro Kassi Timur"
+    },
+    {
+      "code": 7304021005,
+      "name": "Taman Roya"
+    },
+    {
+      "code": 7304021006,
+      "name": "Manjangloe"
+    },
+    {
+      "code": 7304022007,
+      "name": "Borongtala"
+    },
+    {
+      "code": 7304022008,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7304022009,
+      "name": "Turatea"
+    },
+    {
+      "code": 7304022010,
+      "name": "Karelayu"
+    },
+    {
+      "code": 7304022011,
+      "name": "Bontojai"
+    },
+    {
+      "code": 7304022012,
+      "name": "Turatea Timur"
+    }
+  ]
+}

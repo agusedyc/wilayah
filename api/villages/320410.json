@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204102001,
+      "name": "Margaasih"
+    },
+    {
+      "code": 3204102002,
+      "name": "Lagadar"
+    },
+    {
+      "code": 3204102003,
+      "name": "Nanjung"
+    },
+    {
+      "code": 3204102004,
+      "name": "Mekarrahayu"
+    },
+    {
+      "code": 3204102005,
+      "name": "Rahayu"
+    },
+    {
+      "code": 3204102006,
+      "name": "Cigondewah Hilir"
+    }
+  ]
+}

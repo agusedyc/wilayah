@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9202312001,
+      "name": "Kerenu"
+    },
+    {
+      "code": 9202312002,
+      "name": "Wasegi Indah"
+    },
+    {
+      "code": 9202312003,
+      "name": "Udapi Hilir"
+    },
+    {
+      "code": 9202312004,
+      "name": "Waseki Pop"
+    },
+    {
+      "code": 9202312005,
+      "name": "Uhyehebrig"
+    },
+    {
+      "code": 9202312006,
+      "name": "Kali Amin"
+    },
+    {
+      "code": 9202312007,
+      "name": "Bogor"
+    },
+    {
+      "code": 9202312008,
+      "name": "Aimasi"
+    },
+    {
+      "code": 9202312009,
+      "name": "Lismaungu"
+    },
+    {
+      "code": 9202312010,
+      "name": "Bedip Matoa"
+    }
+  ]
+}

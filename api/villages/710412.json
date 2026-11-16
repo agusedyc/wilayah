@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7104122001,
+      "name": "Kalongan"
+    },
+    {
+      "code": 7104122002,
+      "name": "Kalongan Utara"
+    },
+    {
+      "code": 7104122003,
+      "name": "Kalongan Selatan"
+    },
+    {
+      "code": 7104122004,
+      "name": "Alude"
+    },
+    {
+      "code": 7104122005,
+      "name": "Musi I"
+    }
+  ]
+}

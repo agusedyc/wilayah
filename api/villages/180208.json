@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1802082001,
+      "name": "Rejo Basuki"
+    },
+    {
+      "code": 1802082002,
+      "name": "Rejo Asri"
+    },
+    {
+      "code": 1802082003,
+      "name": "Rukti Endah"
+    },
+    {
+      "code": 1802082004,
+      "name": "Rama Dewa"
+    },
+    {
+      "code": 1802082005,
+      "name": "Ratna Chaton"
+    },
+    {
+      "code": 1802082006,
+      "name": "Rama Yana"
+    },
+    {
+      "code": 1802082007,
+      "name": "Rama Indra"
+    },
+    {
+      "code": 1802082008,
+      "name": "Rukti Harjo"
+    },
+    {
+      "code": 1802082009,
+      "name": "Rama Gunawan"
+    },
+    {
+      "code": 1802082010,
+      "name": "Rama Oetama"
+    },
+    {
+      "code": 1802082011,
+      "name": "Rama Nirwana"
+    },
+    {
+      "code": 1802082012,
+      "name": "Rama Murti"
+    },
+    {
+      "code": 1802082013,
+      "name": "Rama Klandungan"
+    },
+    {
+      "code": 1802082014,
+      "name": "Buyut Baru"
+    }
+  ]
+}

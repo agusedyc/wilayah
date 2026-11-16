@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201362001,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3201362002,
+      "name": "Selawangi"
+    },
+    {
+      "code": 3201362003,
+      "name": "Tanjungrasa"
+    },
+    {
+      "code": 3201362004,
+      "name": "Antajaya"
+    },
+    {
+      "code": 3201362005,
+      "name": "Pasirtanjung"
+    },
+    {
+      "code": 3201362006,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3201362007,
+      "name": "Sukarasa"
+    },
+    {
+      "code": 3201362008,
+      "name": "Sirnasari"
+    },
+    {
+      "code": 3201362009,
+      "name": "Buanajaya"
+    },
+    {
+      "code": 3201362010,
+      "name": "Sirnarasa"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1904052001,
+      "name": "Namang"
+    },
+    {
+      "code": 1904052002,
+      "name": "Cambai"
+    },
+    {
+      "code": 1904052003,
+      "name": "Kayu Besi"
+    },
+    {
+      "code": 1904052004,
+      "name": "Jelutung"
+    },
+    {
+      "code": 1904052005,
+      "name": "Belilik"
+    },
+    {
+      "code": 1904052006,
+      "name": "Bhaskara Bhakti"
+    },
+    {
+      "code": 1904052008,
+      "name": "Bukit Kijang"
+    },
+    {
+      "code": 1904052009,
+      "name": "Cambai Selatan"
+    }
+  ]
+}

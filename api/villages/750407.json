@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7504072001,
+      "name": "Pancakarsa I"
+    },
+    {
+      "code": 7504072002,
+      "name": "Pancakarsa II"
+    },
+    {
+      "code": 7504072003,
+      "name": "Makarti Jaya"
+    },
+    {
+      "code": 7504072004,
+      "name": "Kalimas"
+    },
+    {
+      "code": 7504072005,
+      "name": "Malango"
+    },
+    {
+      "code": 7504072006,
+      "name": "Puncak Jaya"
+    },
+    {
+      "code": 7504072007,
+      "name": "Tirto Asri"
+    }
+  ]
+}

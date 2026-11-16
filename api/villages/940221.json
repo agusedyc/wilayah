@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9402212001,
+      "name": "Anggutare"
+    },
+    {
+      "code": 9402212002,
+      "name": "Agopaga"
+    },
+    {
+      "code": 9402212003,
+      "name": "Lerawera"
+    },
+    {
+      "code": 9402212004,
+      "name": "Nakongwe"
+    },
+    {
+      "code": 9402212005,
+      "name": "Ginilome"
+    },
+    {
+      "code": 9402212006,
+      "name": "Yalibate"
+    },
+    {
+      "code": 9402212007,
+      "name": "Wurunikime"
+    },
+    {
+      "code": 9402212008,
+      "name": "Jimbinggame"
+    },
+    {
+      "code": 9402212009,
+      "name": "Oriluk"
+    },
+    {
+      "code": 9402212010,
+      "name": "Pagarugom"
+    },
+    {
+      "code": 9402212011,
+      "name": "Towoluk"
+    },
+    {
+      "code": 9402212012,
+      "name": "Tenolok"
+    },
+    {
+      "code": 9402212013,
+      "name": "Jiogobak"
+    },
+    {
+      "code": 9402212014,
+      "name": "Tirigoi"
+    },
+    {
+      "code": 9402212015,
+      "name": "Mondogoneri"
+    },
+    {
+      "code": 9402212016,
+      "name": "Tenomanggen"
+    },
+    {
+      "code": 9402212017,
+      "name": "Andiron"
+    },
+    {
+      "code": 9402212018,
+      "name": "Ambitmbit"
+    },
+    {
+      "code": 9402212019,
+      "name": "Aulakme"
+    }
+  ]
+}

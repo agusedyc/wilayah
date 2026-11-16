@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9120042001,
+      "name": "Kustra"
+    },
+    {
+      "code": 9120042002,
+      "name": "Noyadi"
+    },
+    {
+      "code": 9120042003,
+      "name": "Obogoi"
+    },
+    {
+      "code": 9120042004,
+      "name": "Biri"
+    },
+    {
+      "code": 9120042005,
+      "name": "Wakeyadi"
+    },
+    {
+      "code": 9120042006,
+      "name": "Eri"
+    },
+    {
+      "code": 9120042007,
+      "name": "Towao"
+    }
+  ]
+}

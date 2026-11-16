@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6111032001,
+      "name": "Mas Bangun"
+    },
+    {
+      "code": 6111032002,
+      "name": "Alur Bandung"
+    },
+    {
+      "code": 6111032003,
+      "name": "Telukbatang"
+    },
+    {
+      "code": 6111032004,
+      "name": "Sungaipaduan"
+    },
+    {
+      "code": 6111032005,
+      "name": "Banyu Abang"
+    },
+    {
+      "code": 6111032006,
+      "name": "Telukbatang Selatan"
+    },
+    {
+      "code": 6111032007,
+      "name": "Telukbatang Utara"
+    }
+  ]
+}

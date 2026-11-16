@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3505222001,
+      "name": "Mandesan"
+    },
+    {
+      "code": 3505222002,
+      "name": "Jatitengah"
+    },
+    {
+      "code": 3505222003,
+      "name": "Jambewangi"
+    },
+    {
+      "code": 3505222004,
+      "name": "Selopuro"
+    },
+    {
+      "code": 3505222005,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3505222006,
+      "name": "Ploso"
+    },
+    {
+      "code": 3505222007,
+      "name": "Popoh"
+    },
+    {
+      "code": 3505222008,
+      "name": "Mronjo"
+    }
+  ]
+}

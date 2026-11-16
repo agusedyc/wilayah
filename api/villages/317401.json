@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3174011001,
+      "name": "Tebet Timur"
+    },
+    {
+      "code": 3174011002,
+      "name": "Tebet Barat"
+    },
+    {
+      "code": 3174011003,
+      "name": "Menteng Dalam"
+    },
+    {
+      "code": 3174011004,
+      "name": "Kebon Baru"
+    },
+    {
+      "code": 3174011005,
+      "name": "Bukit Duri"
+    },
+    {
+      "code": 3174011006,
+      "name": "Manggarai Selatan"
+    },
+    {
+      "code": 3174011007,
+      "name": "Manggarai"
+    }
+  ]
+}

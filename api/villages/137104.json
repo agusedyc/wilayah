@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1371041001,
+      "name": "Air Tawar Timur"
+    },
+    {
+      "code": 1371041002,
+      "name": "Air Tawar Barat"
+    },
+    {
+      "code": 1371041003,
+      "name": "Ulak Karang Utara"
+    },
+    {
+      "code": 1371041004,
+      "name": "Ulak Karang Selatan"
+    },
+    {
+      "code": 1371041005,
+      "name": "Lolong Belanti"
+    },
+    {
+      "code": 1371041006,
+      "name": "Alai Parak Kopi"
+    },
+    {
+      "code": 1371041007,
+      "name": "Gunung Pangilun"
+    }
+  ]
+}

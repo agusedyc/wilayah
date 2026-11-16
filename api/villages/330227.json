@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3302271001,
+      "name": "Purwanegara"
+    },
+    {
+      "code": 3302271002,
+      "name": "Bancarkembar"
+    },
+    {
+      "code": 3302271003,
+      "name": "Sumampir"
+    },
+    {
+      "code": 3302271004,
+      "name": "Pabuwaran"
+    },
+    {
+      "code": 3302271005,
+      "name": "Grendeng"
+    },
+    {
+      "code": 3302271006,
+      "name": "Karangwangkal"
+    },
+    {
+      "code": 3302271007,
+      "name": "Bobosan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9106182001,
+      "name": "Andei"
+    },
+    {
+      "code": 9106182002,
+      "name": "Syoribo"
+    },
+    {
+      "code": 9106182003,
+      "name": "Sauribru"
+    },
+    {
+      "code": 9106182004,
+      "name": "Manggari"
+    },
+    {
+      "code": 9106182005,
+      "name": "Bawei"
+    },
+    {
+      "code": 9106182006,
+      "name": "Sauri"
+    },
+    {
+      "code": 9106182007,
+      "name": "Andei Sup"
+    },
+    {
+      "code": 9106182008,
+      "name": "Surdori"
+    },
+    {
+      "code": 9106182009,
+      "name": "Koryakam"
+    }
+  ]
+}

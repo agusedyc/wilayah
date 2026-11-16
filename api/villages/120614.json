@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1206142001,
+      "name": "Kubu Colia"
+    },
+    {
+      "code": 1206142002,
+      "name": "Ujung Sampun"
+    },
+    {
+      "code": 1206142003,
+      "name": "Bukit"
+    },
+    {
+      "code": 1206142004,
+      "name": "Melas"
+    },
+    {
+      "code": 1206142005,
+      "name": "Sampun"
+    },
+    {
+      "code": 1206142006,
+      "name": "Sugihen"
+    },
+    {
+      "code": 1206142007,
+      "name": "Dolat Rayat"
+    }
+  ]
+}

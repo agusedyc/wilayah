@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1206162002,
+      "name": "Kutagugung"
+    },
+    {
+      "code": 1206162003,
+      "name": "Kuta Tonggal"
+    },
+    {
+      "code": 1206162004,
+      "name": "Naman"
+    },
+    {
+      "code": 1206162005,
+      "name": "Sukanalu"
+    },
+    {
+      "code": 1206162006,
+      "name": "Kebayaken"
+    },
+    {
+      "code": 1206162007,
+      "name": "Kutarayat"
+    },
+    {
+      "code": 1206162009,
+      "name": "Sukandebi"
+    },
+    {
+      "code": 1206162010,
+      "name": "Gung Pinto"
+    },
+    {
+      "code": 1206162011,
+      "name": "Kutambelin"
+    },
+    {
+      "code": 1206162012,
+      "name": "Ndeskati"
+    },
+    {
+      "code": 1206162013,
+      "name": "Sukatepu"
+    },
+    {
+      "code": 1206162014,
+      "name": "Sigarang-garang"
+    }
+  ]
+}

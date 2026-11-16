@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8204072001,
+      "name": "Babang"
+    },
+    {
+      "code": 8204072013,
+      "name": "Bori"
+    },
+    {
+      "code": 8204072014,
+      "name": "Nyonyifi"
+    },
+    {
+      "code": 8204072015,
+      "name": "Sabatang"
+    },
+    {
+      "code": 8204072016,
+      "name": "Goro-Goro"
+    },
+    {
+      "code": 8204072017,
+      "name": "Sali Kecil"
+    },
+    {
+      "code": 8204072018,
+      "name": "Timlonga"
+    },
+    {
+      "code": 8204072021,
+      "name": "Sayoang"
+    },
+    {
+      "code": 8204072022,
+      "name": "Wayamiga"
+    },
+    {
+      "code": 8204072023,
+      "name": "Kaireu"
+    }
+  ]
+}

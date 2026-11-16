@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671041001,
+      "name": "Dum Barat"
+    },
+    {
+      "code": 9671041002,
+      "name": "Dum Timur"
+    },
+    {
+      "code": 9671041003,
+      "name": "Soop"
+    },
+    {
+      "code": 9671041004,
+      "name": "Raam"
+    }
+  ]
+}

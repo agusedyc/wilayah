@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9502312001,
+      "name": "Teiraplu"
+    },
+    {
+      "code": 9502312002,
+      "name": "Sinami"
+    },
+    {
+      "code": 9502312003,
+      "name": "Maigame"
+    },
+    {
+      "code": 9502312004,
+      "name": "Murme"
+    },
+    {
+      "code": 9502312005,
+      "name": "Yuaban Satu"
+    },
+    {
+      "code": 9502312006,
+      "name": "Yuaban Dua"
+    },
+    {
+      "code": 9502312007,
+      "name": "Terapdei"
+    },
+    {
+      "code": 9502312008,
+      "name": "Yitarget"
+    },
+    {
+      "code": 9502312009,
+      "name": "Teriame"
+    },
+    {
+      "code": 9502312010,
+      "name": "Bautme"
+    }
+  ]
+}

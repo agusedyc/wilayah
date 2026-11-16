@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7403182001,
+      "name": "Liangkobori"
+    },
+    {
+      "code": 7403182002,
+      "name": "Mabolu"
+    },
+    {
+      "code": 7403182003,
+      "name": "Kondongia"
+    },
+    {
+      "code": 7403182004,
+      "name": "Waara"
+    },
+    {
+      "code": 7403182005,
+      "name": "Mantobua"
+    },
+    {
+      "code": 7403182006,
+      "name": "Loghiya"
+    },
+    {
+      "code": 7403182007,
+      "name": "Lohia"
+    },
+    {
+      "code": 7403182008,
+      "name": "Korihi"
+    },
+    {
+      "code": 7403182009,
+      "name": "Lakarinta"
+    }
+  ]
+}

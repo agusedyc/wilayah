@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3203322001,
+      "name": "Simpang"
+    },
+    {
+      "code": 3203322002,
+      "name": "Kalibaru"
+    },
+    {
+      "code": 3203322003,
+      "name": "Pusakajaya"
+    },
+    {
+      "code": 3203322004,
+      "name": "Kubang"
+    },
+    {
+      "code": 3203322005,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3203322006,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3203322007,
+      "name": "Mekarmulya"
+    },
+    {
+      "code": 3203322008,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3203322009,
+      "name": "Padamulya"
+    }
+  ]
+}

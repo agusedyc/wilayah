@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3204352001,
+      "name": "Cigentur"
+    },
+    {
+      "code": 3204352002,
+      "name": "Cipedes"
+    },
+    {
+      "code": 3204352003,
+      "name": "Loa"
+    },
+    {
+      "code": 3204352004,
+      "name": "Cijagra"
+    },
+    {
+      "code": 3204352005,
+      "name": "Cipaku"
+    },
+    {
+      "code": 3204352006,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3204352007,
+      "name": "Drawati"
+    },
+    {
+      "code": 3204352008,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3204352009,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3204352010,
+      "name": "Karangtunggal"
+    },
+    {
+      "code": 3204352011,
+      "name": "Mekarpawitan"
+    },
+    {
+      "code": 3204352012,
+      "name": "Tangsimekar"
+    }
+  ]
+}

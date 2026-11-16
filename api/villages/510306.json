@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5103061001,
+      "name": "Kerobokan Kelod"
+    },
+    {
+      "code": 5103061002,
+      "name": "Kerobokan"
+    },
+    {
+      "code": 5103061003,
+      "name": "Kerobokan Kaja"
+    },
+    {
+      "code": 5103062004,
+      "name": "Tibubeneng"
+    },
+    {
+      "code": 5103062005,
+      "name": "Canggu"
+    },
+    {
+      "code": 5103062006,
+      "name": "Dalung"
+    }
+  ]
+}

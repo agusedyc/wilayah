@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9212042001,
+      "name": "Sururey"
+    },
+    {
+      "code": 9212042002,
+      "name": "Tuhubea"
+    },
+    {
+      "code": 9212042003,
+      "name": "Sungedes"
+    },
+    {
+      "code": 9212042004,
+      "name": "Inyaub"
+    },
+    {
+      "code": 9212042005,
+      "name": "Saugemeba"
+    },
+    {
+      "code": 9212042006,
+      "name": "Kobrey"
+    },
+    {
+      "code": 9212042007,
+      "name": "Kopo"
+    },
+    {
+      "code": 9212042008,
+      "name": "Dugahani"
+    },
+    {
+      "code": 9212042009,
+      "name": "Tomstera"
+    },
+    {
+      "code": 9212042010,
+      "name": "Kostera"
+    },
+    {
+      "code": 9212042011,
+      "name": "Anuk"
+    },
+    {
+      "code": 9212042012,
+      "name": "Menesrij"
+    }
+  ]
+}

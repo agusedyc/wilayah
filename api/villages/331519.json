@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3315192001,
+      "name": "Ringinpitu"
+    },
+    {
+      "code": 3315192002,
+      "name": "Ngambakrejo"
+    },
+    {
+      "code": 3315192003,
+      "name": "Kapung"
+    },
+    {
+      "code": 3315192004,
+      "name": "Mrisi"
+    },
+    {
+      "code": 3315192005,
+      "name": "Kaliwenang"
+    },
+    {
+      "code": 3315192006,
+      "name": "Sugihmanik"
+    },
+    {
+      "code": 3315192007,
+      "name": "Tanggungharjo"
+    },
+    {
+      "code": 3315192008,
+      "name": "Brabo"
+    },
+    {
+      "code": 3315192009,
+      "name": "Padang"
+    }
+  ]
+}

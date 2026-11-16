@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6307092001,
+      "name": "Hantakan"
+    },
+    {
+      "code": 6307092002,
+      "name": "Alat"
+    },
+    {
+      "code": 6307092003,
+      "name": "Murung B."
+    },
+    {
+      "code": 6307092004,
+      "name": "Bulayak"
+    },
+    {
+      "code": 6307092005,
+      "name": "Batu Tunggal"
+    },
+    {
+      "code": 6307092006,
+      "name": "Pasting"
+    },
+    {
+      "code": 6307092007,
+      "name": "Tilahan"
+    },
+    {
+      "code": 6307092008,
+      "name": "Haruyan Dayak"
+    },
+    {
+      "code": 6307092009,
+      "name": "Kindingan"
+    },
+    {
+      "code": 6307092010,
+      "name": "Datar Ajab"
+    },
+    {
+      "code": 6307092011,
+      "name": "Hinas Kanan"
+    },
+    {
+      "code": 6307092012,
+      "name": "Patikalain"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1408142001,
+      "name": "Sungai Berbari"
+    },
+    {
+      "code": 1408142002,
+      "name": "Sungai Limau"
+    },
+    {
+      "code": 1408142003,
+      "name": "Dosan"
+    },
+    {
+      "code": 1408142004,
+      "name": "Benayah"
+    },
+    {
+      "code": 1408142005,
+      "name": "Pebadaran"
+    },
+    {
+      "code": 1408142006,
+      "name": "Dusun Pusaka"
+    },
+    {
+      "code": 1408142007,
+      "name": "Perincit"
+    }
+  ]
+}

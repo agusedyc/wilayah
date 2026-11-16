@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3328072001,
+      "name": "Kedungwungu"
+    },
+    {
+      "code": 3328072002,
+      "name": "Mokaha"
+    },
+    {
+      "code": 3328072003,
+      "name": "Penyalahan"
+    },
+    {
+      "code": 3328072004,
+      "name": "Sitail"
+    },
+    {
+      "code": 3328072005,
+      "name": "Sumbarang"
+    },
+    {
+      "code": 3328072006,
+      "name": "Cerih"
+    },
+    {
+      "code": 3328072007,
+      "name": "Gantungan"
+    },
+    {
+      "code": 3328072008,
+      "name": "Argatawang"
+    },
+    {
+      "code": 3328072009,
+      "name": "Padasari"
+    },
+    {
+      "code": 3328072010,
+      "name": "Capar"
+    },
+    {
+      "code": 3328072011,
+      "name": "Lebakwangi"
+    },
+    {
+      "code": 3328072012,
+      "name": "Dukuhbangsa"
+    },
+    {
+      "code": 3328072013,
+      "name": "Jatinegara"
+    },
+    {
+      "code": 3328072014,
+      "name": "Luwijawa"
+    },
+    {
+      "code": 3328072015,
+      "name": "Lembasari"
+    },
+    {
+      "code": 3328072016,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3328072017,
+      "name": "Wotgalih"
+    }
+  ]
+}

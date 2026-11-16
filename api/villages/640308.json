@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6403082001,
+      "name": "Biduk-Biduk"
+    },
+    {
+      "code": 6403082002,
+      "name": "Pantai Harapan"
+    },
+    {
+      "code": 6403082003,
+      "name": "Tanjung Prepat"
+    },
+    {
+      "code": 6403082004,
+      "name": "Teluk Sumbang"
+    },
+    {
+      "code": 6403082008,
+      "name": "Teluk Sulaiman"
+    },
+    {
+      "code": 6403082009,
+      "name": "Giring-Giring"
+    }
+  ]
+}

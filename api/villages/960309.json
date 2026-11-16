@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603092001,
+      "name": "Lopintol"
+    },
+    {
+      "code": 9603092002,
+      "name": "Warsamdin"
+    },
+    {
+      "code": 9603092003,
+      "name": "Mumes"
+    },
+    {
+      "code": 9603092004,
+      "name": "Kalitoko"
+    }
+  ]
+}

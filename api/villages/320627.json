@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3206272001,
+      "name": "Kersamaju"
+    },
+    {
+      "code": 3206272002,
+      "name": "Nangtang"
+    },
+    {
+      "code": 3206272003,
+      "name": "Pusparaja"
+    },
+    {
+      "code": 3206272004,
+      "name": "Jayapura"
+    },
+    {
+      "code": 3206272005,
+      "name": "Lengkongjaya"
+    },
+    {
+      "code": 3206272006,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3206272007,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3206272008,
+      "name": "Sirnaraja"
+    },
+    {
+      "code": 3206272009,
+      "name": "Cidugaleun"
+    },
+    {
+      "code": 3206272010,
+      "name": "Parentas"
+    },
+    {
+      "code": 3206272011,
+      "name": "Puspamukti"
+    },
+    {
+      "code": 3206272012,
+      "name": "Tenjonagara"
+    },
+    {
+      "code": 3206272013,
+      "name": "Cigalontang"
+    },
+    {
+      "code": 3206272014,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3206272015,
+      "name": "Tanjungkarang"
+    },
+    {
+      "code": 3206272016,
+      "name": "Sirnaputra"
+    }
+  ]
+}

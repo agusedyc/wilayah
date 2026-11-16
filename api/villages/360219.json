@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3602192001,
+      "name": "Cibeber"
+    },
+    {
+      "code": 3602192002,
+      "name": "Citorek Tengah"
+    },
+    {
+      "code": 3602192003,
+      "name": "Cisungsang"
+    },
+    {
+      "code": 3602192004,
+      "name": "Kujangjaya"
+    },
+    {
+      "code": 3602192005,
+      "name": "Kujangsari"
+    },
+    {
+      "code": 3602192006,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3602192007,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3602192008,
+      "name": "Cikotok"
+    },
+    {
+      "code": 3602192009,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3602192010,
+      "name": "Citorek Timur"
+    },
+    {
+      "code": 3602192011,
+      "name": "Warungbanten"
+    },
+    {
+      "code": 3602192013,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3602192014,
+      "name": "Situmulya"
+    },
+    {
+      "code": 3602192015,
+      "name": "Citorek Kidul"
+    },
+    {
+      "code": 3602192016,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3602192017,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3602192018,
+      "name": "Cihambali"
+    },
+    {
+      "code": 3602192019,
+      "name": "Citorek Barat"
+    },
+    {
+      "code": 3602192020,
+      "name": "Gunungwangun"
+    },
+    {
+      "code": 3602192021,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3602192022,
+      "name": "Citorek Sabrang"
+    },
+    {
+      "code": 3602192023,
+      "name": "Ciherang"
+    }
+  ]
+}

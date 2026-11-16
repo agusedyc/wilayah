@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5309162001,
+      "name": "Nginamanu"
+    },
+    {
+      "code": 5309162002,
+      "name": "Denatana"
+    },
+    {
+      "code": 5309162003,
+      "name": "Mainai"
+    },
+    {
+      "code": 5309162004,
+      "name": "Turaloa"
+    },
+    {
+      "code": 5309162005,
+      "name": "Nginamanu Selatan"
+    },
+    {
+      "code": 5309162006,
+      "name": "Nginamanu Barat"
+    },
+    {
+      "code": 5309162007,
+      "name": "Wue"
+    },
+    {
+      "code": 5309162008,
+      "name": "Denatana Timur"
+    },
+    {
+      "code": 5309162009,
+      "name": "Larilaki"
+    },
+    {
+      "code": 5309162010,
+      "name": "Mulumese"
+    },
+    {
+      "code": 5309162011,
+      "name": "Turaloa Timur"
+    }
+  ]
+}

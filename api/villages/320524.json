@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3205242001,
+      "name": "Singajaya"
+    },
+    {
+      "code": 3205242002,
+      "name": "Ciudian"
+    },
+    {
+      "code": 3205242003,
+      "name": "Mekartani"
+    },
+    {
+      "code": 3205242004,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3205242005,
+      "name": "Sukawangi"
+    },
+    {
+      "code": 3205242006,
+      "name": "Pancasura"
+    },
+    {
+      "code": 3205242007,
+      "name": "Karangagung"
+    },
+    {
+      "code": 3205242008,
+      "name": "Cigintung"
+    },
+    {
+      "code": 3205242009,
+      "name": "Girimukti"
+    }
+  ]
+}

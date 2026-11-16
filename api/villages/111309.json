@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1113092001,
+      "name": "Penosan"
+    },
+    {
+      "code": 1113092002,
+      "name": "Sekuelen"
+    },
+    {
+      "code": 1113092003,
+      "name": "Akul"
+    },
+    {
+      "code": 1113092004,
+      "name": "Gegarang"
+    },
+    {
+      "code": 1113092005,
+      "name": "Peparik Gaib"
+    },
+    {
+      "code": 1113092006,
+      "name": "Penosan Sepakat"
+    },
+    {
+      "code": 1113092007,
+      "name": "Tingkem"
+    },
+    {
+      "code": 1113092008,
+      "name": "Ketukah"
+    },
+    {
+      "code": 1113092009,
+      "name": "Peparik Dekat"
+    },
+    {
+      "code": 1113092010,
+      "name": "Blangjerango"
+    }
+  ]
+}

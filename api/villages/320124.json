@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3201242001,
+      "name": "Cileungsi"
+    },
+    {
+      "code": 3201242002,
+      "name": "Citapen"
+    },
+    {
+      "code": 3201242003,
+      "name": "Cibedug"
+    },
+    {
+      "code": 3201242004,
+      "name": "Jambuluwuk"
+    },
+    {
+      "code": 3201242005,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3201242006,
+      "name": "Telukpinang"
+    },
+    {
+      "code": 3201242007,
+      "name": "Banjarwaru"
+    },
+    {
+      "code": 3201242008,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3201242009,
+      "name": "Pandansari"
+    },
+    {
+      "code": 3201242010,
+      "name": "Bojongmurni"
+    },
+    {
+      "code": 3201242011,
+      "name": "Banjarwangi"
+    },
+    {
+      "code": 3201242012,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3201242013,
+      "name": "Bitungsari"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3501102001,
+      "name": "Jetak"
+    },
+    {
+      "code": 3501102002,
+      "name": "Nglaran"
+    },
+    {
+      "code": 3501102003,
+      "name": "Wonoanti"
+    },
+    {
+      "code": 3501102004,
+      "name": "Padi"
+    },
+    {
+      "code": 3501102005,
+      "name": "Kluwih"
+    },
+    {
+      "code": 3501102006,
+      "name": "Bungur"
+    },
+    {
+      "code": 3501102007,
+      "name": "Tulakan"
+    },
+    {
+      "code": 3501102008,
+      "name": "Jatigunung"
+    },
+    {
+      "code": 3501102009,
+      "name": "Gasang"
+    },
+    {
+      "code": 3501102010,
+      "name": "Kalikuning"
+    },
+    {
+      "code": 3501102011,
+      "name": "Ngile"
+    },
+    {
+      "code": 3501102012,
+      "name": "Bubakan"
+    },
+    {
+      "code": 3501102013,
+      "name": "Losari"
+    },
+    {
+      "code": 3501102014,
+      "name": "Ngumbul"
+    },
+    {
+      "code": 3501102015,
+      "name": "Wonosidi"
+    },
+    {
+      "code": 3501102016,
+      "name": "Ketro"
+    },
+    {
+      "code": 3501102017,
+      "name": "Ketro Harjo"
+    }
+  ]
+}

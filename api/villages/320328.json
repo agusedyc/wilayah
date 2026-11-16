@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3203282001,
+      "name": "Cipanas"
+    },
+    {
+      "code": 3203282002,
+      "name": "Cimacan"
+    },
+    {
+      "code": 3203282003,
+      "name": "Ciloto"
+    },
+    {
+      "code": 3203282004,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3203282005,
+      "name": "Batulawang"
+    },
+    {
+      "code": 3203282006,
+      "name": "Palasari"
+    },
+    {
+      "code": 3203282007,
+      "name": "Sindangjaya"
+    }
+  ]
+}

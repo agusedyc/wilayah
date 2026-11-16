@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7471101001,
+      "name": "Kambu"
+    },
+    {
+      "code": 7471101002,
+      "name": "Mokoau"
+    },
+    {
+      "code": 7471101003,
+      "name": "Padaleu"
+    },
+    {
+      "code": 7471101004,
+      "name": "Lalolara"
+    }
+  ]
+}

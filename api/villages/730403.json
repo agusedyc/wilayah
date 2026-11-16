@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7304031001,
+      "name": "Pabiringa"
+    },
+    {
+      "code": 7304031002,
+      "name": "Balang"
+    },
+    {
+      "code": 7304031003,
+      "name": "Empoang"
+    },
+    {
+      "code": 7304031004,
+      "name": "Balang Toa"
+    },
+    {
+      "code": 7304031005,
+      "name": "Balang Beru"
+    },
+    {
+      "code": 7304031006,
+      "name": "Empoang Selatan"
+    },
+    {
+      "code": 7304031007,
+      "name": "Sidenre"
+    },
+    {
+      "code": 7304031008,
+      "name": "Empoang Utara"
+    },
+    {
+      "code": 7304031009,
+      "name": "Monro Monro"
+    },
+    {
+      "code": 7304031010,
+      "name": "Biring Kassi"
+    },
+    {
+      "code": 7304031011,
+      "name": "Panaikang"
+    },
+    {
+      "code": 7304031012,
+      "name": "Bontoa"
+    },
+    {
+      "code": 7304032013,
+      "name": "Sapanang"
+    }
+  ]
+}

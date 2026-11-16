@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1307102001,
+      "name": "Situjuah Batua"
+    },
+    {
+      "code": 1307102002,
+      "name": "Situjuah Ladang Laweh"
+    },
+    {
+      "code": 1307102003,
+      "name": "Tungka"
+    },
+    {
+      "code": 1307102004,
+      "name": "Situjuah Banda Dalam"
+    },
+    {
+      "code": 1307102005,
+      "name": "Situjuah Gadang"
+    }
+  ]
+}

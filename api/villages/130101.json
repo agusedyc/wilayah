@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1301012001,
+      "name": "Inderapura"
+    },
+    {
+      "code": 1301012002,
+      "name": "Muaro Sakai Inderapura"
+    },
+    {
+      "code": 1301012003,
+      "name": "Tiga Sepakat Inderapura"
+    },
+    {
+      "code": 1301012004,
+      "name": "Inderapura Barat"
+    },
+    {
+      "code": 1301012005,
+      "name": "Kudo-Kudo Inderapura"
+    },
+    {
+      "code": 1301012006,
+      "name": "Inderapura Selatan"
+    },
+    {
+      "code": 1301012009,
+      "name": "Simpang Lama Inderapura"
+    },
+    {
+      "code": 1301012010,
+      "name": "Tigo Sungai Inderapura"
+    },
+    {
+      "code": 1301012011,
+      "name": "Tluk Amplu Inderapura"
+    },
+    {
+      "code": 1301012012,
+      "name": "Inderapura Tengah"
+    }
+  ]
+}

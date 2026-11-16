@@ -1,0 +1,142 @@
+{
+  "success": true,
+  "message": "Showing 34 villages",
+  "data": [
+    {
+      "code": 1107062001,
+      "name": "Simpang"
+    },
+    {
+      "code": 1107062002,
+      "name": "Krueng Jangko"
+    },
+    {
+      "code": 1107062003,
+      "name": "Krueng Nyong"
+    },
+    {
+      "code": 1107062004,
+      "name": "Cot Baroh"
+    },
+    {
+      "code": 1107062005,
+      "name": "Cot Tunong"
+    },
+    {
+      "code": 1107062006,
+      "name": "Bili"
+    },
+    {
+      "code": 1107062007,
+      "name": "Panjoe"
+    },
+    {
+      "code": 1107062008,
+      "name": "Amud Mesjid"
+    },
+    {
+      "code": 1107062009,
+      "name": "Reudeup Meulayu"
+    },
+    {
+      "code": 1107062010,
+      "name": "Dayah Tanoh"
+    },
+    {
+      "code": 1107062011,
+      "name": "Mamplam"
+    },
+    {
+      "code": 1107062012,
+      "name": "Balee"
+    },
+    {
+      "code": 1107062013,
+      "name": "Kupula"
+    },
+    {
+      "code": 1107062014,
+      "name": "Pulo Lueng Teuga"
+    },
+    {
+      "code": 1107062015,
+      "name": "Sukon Mesjid"
+    },
+    {
+      "code": 1107062016,
+      "name": "Sukon Baroh"
+    },
+    {
+      "code": 1107062017,
+      "name": "Kruet Teumpeun"
+    },
+    {
+      "code": 1107062018,
+      "name": "Blang Drang"
+    },
+    {
+      "code": 1107062019,
+      "name": "Ude Gampong"
+    },
+    {
+      "code": 1107062020,
+      "name": "Kayee Jatoe"
+    },
+    {
+      "code": 1107062021,
+      "name": "Kampong Jeumpa"
+    },
+    {
+      "code": 1107062022,
+      "name": "Pulo Lon / Pulo Dayah"
+    },
+    {
+      "code": 1107062023,
+      "name": "Jurong Pande"
+    },
+    {
+      "code": 1107062024,
+      "name": "Pulo Gajah Mate"
+    },
+    {
+      "code": 1107062025,
+      "name": "Tufah Jeulatang"
+    },
+    {
+      "code": 1107062026,
+      "name": "Kumbang Keupula"
+    },
+    {
+      "code": 1107062027,
+      "name": "Pulo Batee"
+    },
+    {
+      "code": 1107062028,
+      "name": "Meunjee"
+    },
+    {
+      "code": 1107062029,
+      "name": "Keutapang Mesjid"
+    },
+    {
+      "code": 1107062030,
+      "name": "Dayah Kp. Pisang"
+    },
+    {
+      "code": 1107062031,
+      "name": "Blang Tunong"
+    },
+    {
+      "code": 1107062032,
+      "name": "Blang Pueb"
+    },
+    {
+      "code": 1107062033,
+      "name": "Lambaro"
+    },
+    {
+      "code": 1107062034,
+      "name": "Neurok"
+    }
+  ]
+}

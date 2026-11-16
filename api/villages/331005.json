@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3310052001,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3310052002,
+      "name": "Burikan"
+    },
+    {
+      "code": 3310052003,
+      "name": "Nanggulan"
+    },
+    {
+      "code": 3310052004,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3310052005,
+      "name": "Tugu"
+    },
+    {
+      "code": 3310052006,
+      "name": "Kedungampel"
+    },
+    {
+      "code": 3310052007,
+      "name": "Bawak"
+    },
+    {
+      "code": 3310052008,
+      "name": "Barepan"
+    },
+    {
+      "code": 3310052009,
+      "name": "Pakisan"
+    },
+    {
+      "code": 3310052010,
+      "name": "Balak"
+    },
+    {
+      "code": 3310052011,
+      "name": "Cawas"
+    },
+    {
+      "code": 3310052012,
+      "name": "Plosowangi"
+    },
+    {
+      "code": 3310052013,
+      "name": "Baran"
+    },
+    {
+      "code": 3310052014,
+      "name": "Tirtomarto"
+    },
+    {
+      "code": 3310052015,
+      "name": "Japanan"
+    },
+    {
+      "code": 3310052016,
+      "name": "Tlingsing"
+    },
+    {
+      "code": 3310052017,
+      "name": "Mlese"
+    },
+    {
+      "code": 3310052018,
+      "name": "Gombang"
+    },
+    {
+      "code": 3310052019,
+      "name": "Pogung"
+    },
+    {
+      "code": 3310052020,
+      "name": "Bogor"
+    }
+  ]
+}

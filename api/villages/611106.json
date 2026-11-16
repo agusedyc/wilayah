@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 6111062001,
+      "name": "Pelapis"
+    },
+    {
+      "code": 6111062002,
+      "name": "Betok Jaya"
+    },
+    {
+      "code": 6111062003,
+      "name": "Padang"
+    }
+  ]
+}

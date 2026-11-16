@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9301152001,
+      "name": "Yowied"
+    },
+    {
+      "code": 9301152002,
+      "name": "Dokib"
+    },
+    {
+      "code": 9301152003,
+      "name": "Wamal"
+    },
+    {
+      "code": 9301152004,
+      "name": "Dodalim"
+    },
+    {
+      "code": 9301152005,
+      "name": "Woboyo"
+    },
+    {
+      "code": 9301152006,
+      "name": "Welbuti"
+    }
+  ]
+}

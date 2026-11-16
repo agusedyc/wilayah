@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 1116042002,
+      "name": "Pekan Seruway"
+    },
+    {
+      "code": 1116042003,
+      "name": "Binjai"
+    },
+    {
+      "code": 1116042004,
+      "name": "Pantai Balai"
+    },
+    {
+      "code": 1116042005,
+      "name": "Padang Langgis"
+    },
+    {
+      "code": 1116042006,
+      "name": "Suka Ramai Satu"
+    },
+    {
+      "code": 1116042007,
+      "name": "Suka Ramai Dua"
+    },
+    {
+      "code": 1116042008,
+      "name": "Perkebunan Seruway"
+    },
+    {
+      "code": 1116042009,
+      "name": "Gedung Biara"
+    },
+    {
+      "code": 1116042010,
+      "name": "Alur Alim"
+    },
+    {
+      "code": 1116042011,
+      "name": "Tualang"
+    },
+    {
+      "code": 1116042012,
+      "name": "Matang Sentang"
+    },
+    {
+      "code": 1116042013,
+      "name": "Air Masin"
+    },
+    {
+      "code": 1116042014,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1116042015,
+      "name": "Perk. Gedung Biara"
+    },
+    {
+      "code": 1116042016,
+      "name": "Muka Sungai Kuruk"
+    },
+    {
+      "code": 1116042017,
+      "name": "Paya Udang"
+    },
+    {
+      "code": 1116042018,
+      "name": "Gelung"
+    },
+    {
+      "code": 1116042019,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1116042020,
+      "name": "Kuala Pusung Kapal"
+    },
+    {
+      "code": 1116042021,
+      "name": "Sungai Kuruk I"
+    },
+    {
+      "code": 1116042022,
+      "name": "Sungai Kuruk II"
+    },
+    {
+      "code": 1116042023,
+      "name": "Sungai Kuruk III"
+    },
+    {
+      "code": 1116042024,
+      "name": "Tangsi Lama"
+    },
+    {
+      "code": 1116042025,
+      "name": "Lubuk Damar"
+    }
+  ]
+}

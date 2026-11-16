@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7402181001,
+      "name": "Uepai"
+    },
+    {
+      "code": 7402182002,
+      "name": "Ameroro"
+    },
+    {
+      "code": 7402182003,
+      "name": "Tawarotebota"
+    },
+    {
+      "code": 7402182004,
+      "name": "Olo-Oloho"
+    },
+    {
+      "code": 7402182005,
+      "name": "Matahoalu"
+    },
+    {
+      "code": 7402182006,
+      "name": "Langgomea"
+    },
+    {
+      "code": 7402182007,
+      "name": "Rawua"
+    },
+    {
+      "code": 7402182008,
+      "name": "Baruga"
+    },
+    {
+      "code": 7402182009,
+      "name": "Amaroa"
+    },
+    {
+      "code": 7402182010,
+      "name": "Tawamelewe"
+    },
+    {
+      "code": 7402182011,
+      "name": "Anggopiu"
+    },
+    {
+      "code": 7402182012,
+      "name": "Tamesandi"
+    },
+    {
+      "code": 7402182013,
+      "name": "Humboto"
+    },
+    {
+      "code": 7402182015,
+      "name": "Anggawo"
+    },
+    {
+      "code": 7402182016,
+      "name": "Kasaeda"
+    },
+    {
+      "code": 7402182017,
+      "name": "Tanggondipo"
+    },
+    {
+      "code": 7402182018,
+      "name": "Panggulawu"
+    },
+    {
+      "code": 7402182019,
+      "name": "Puuroda Jaya"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1803132001,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1803132002,
+      "name": "Semuli Raya"
+    },
+    {
+      "code": 1803132003,
+      "name": "Semuli Jaya"
+    },
+    {
+      "code": 1803132004,
+      "name": "Papan Asri"
+    },
+    {
+      "code": 1803132005,
+      "name": "Gunung Keramat"
+    },
+    {
+      "code": 1803132006,
+      "name": "Sido Rahayu"
+    },
+    {
+      "code": 1803132007,
+      "name": "Gunung Sari"
+    }
+  ]
+}

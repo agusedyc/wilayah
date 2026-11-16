@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3401072001,
+      "name": "Tawangsari"
+    },
+    {
+      "code": 3401072002,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3401072003,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3401072004,
+      "name": "Margosari"
+    },
+    {
+      "code": 3401072005,
+      "name": "Pengasih"
+    },
+    {
+      "code": 3401072006,
+      "name": "Sendangsari"
+    },
+    {
+      "code": 3401072007,
+      "name": "Sidomulyo"
+    }
+  ]
+}

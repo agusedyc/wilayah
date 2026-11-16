@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8104152001,
+      "name": "Ubung"
+    },
+    {
+      "code": 8104152002,
+      "name": "Jikumerasa"
+    },
+    {
+      "code": 8104152003,
+      "name": "Waemiting"
+    },
+    {
+      "code": 8104152004,
+      "name": "Sawa"
+    },
+    {
+      "code": 8104152005,
+      "name": "Waeperang"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1373042001,
+      "name": "Talawi Hilie"
+    },
+    {
+      "code": 1373042002,
+      "name": "Talawi Mudiak"
+    },
+    {
+      "code": 1373042003,
+      "name": "Bukit Gadang"
+    },
+    {
+      "code": 1373042004,
+      "name": "Batu Tanjung"
+    },
+    {
+      "code": 1373042005,
+      "name": "Kumbayau"
+    },
+    {
+      "code": 1373042006,
+      "name": "Tumpuk Tangah"
+    },
+    {
+      "code": 1373042007,
+      "name": "Datar Mansiang"
+    },
+    {
+      "code": 1373042008,
+      "name": "Sijantang Koto"
+    },
+    {
+      "code": 1373042009,
+      "name": "Salak"
+    },
+    {
+      "code": 1373042010,
+      "name": "Sikalang"
+    },
+    {
+      "code": 1373042011,
+      "name": "Rantih"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1803232001,
+      "name": "Pagar"
+    },
+    {
+      "code": 1803232002,
+      "name": "Blambangan"
+    },
+    {
+      "code": 1803232003,
+      "name": "Jagang"
+    },
+    {
+      "code": 1803232004,
+      "name": "Tanjung Iman"
+    },
+    {
+      "code": 1803232005,
+      "name": "Tulung Singkip"
+    },
+    {
+      "code": 1803232006,
+      "name": "Pagar Gading"
+    },
+    {
+      "code": 1803232007,
+      "name": "Buring Kencana"
+    }
+  ]
+}

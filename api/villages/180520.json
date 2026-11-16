@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1805202001,
+      "name": "Bujuk Agung"
+    },
+    {
+      "code": 1805202002,
+      "name": "Ringin Sari"
+    },
+    {
+      "code": 1805202003,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1805202004,
+      "name": "Catur Karya Buana Jaya"
+    },
+    {
+      "code": 1805202005,
+      "name": "Purwa Jaya"
+    },
+    {
+      "code": 1805202006,
+      "name": "Penawar Jaya"
+    },
+    {
+      "code": 1805202007,
+      "name": "Agung Dalam"
+    },
+    {
+      "code": 1805202008,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 1805202009,
+      "name": "Tri Tunggal Jaya"
+    },
+    {
+      "code": 1805202010,
+      "name": "Agung Jaya"
+    },
+    {
+      "code": 1805202011,
+      "name": "Penawar Rejo"
+    },
+    {
+      "code": 1805202012,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3203262001,
+      "name": "Kalapanunggal"
+    },
+    {
+      "code": 3203262002,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3203262003,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3203262004,
+      "name": "Padaluyu"
+    },
+    {
+      "code": 3203262005,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203262006,
+      "name": "Cisaranten"
+    },
+    {
+      "code": 3203262007,
+      "name": "Mekarlaksana"
+    },
+    {
+      "code": 3203262008,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3203262009,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3203262010,
+      "name": "Sukamanah"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7601082001,
+      "name": "Tikke"
+    },
+    {
+      "code": 7601082002,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 7601082003,
+      "name": "Lariang"
+    },
+    {
+      "code": 7601082004,
+      "name": "Pajalele"
+    },
+    {
+      "code": 7601082005,
+      "name": "Jengeng Raya"
+    }
+  ]
+}

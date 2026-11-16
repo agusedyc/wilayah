@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7204032001,
+      "name": "Luok Manipi"
+    },
+    {
+      "code": 7204032002,
+      "name": "Salumbia"
+    },
+    {
+      "code": 7204032003,
+      "name": "Bambapun"
+    },
+    {
+      "code": 7204032004,
+      "name": "Ogowele"
+    },
+    {
+      "code": 7204032005,
+      "name": "Lais"
+    },
+    {
+      "code": 7204032006,
+      "name": "Ogogasang"
+    },
+    {
+      "code": 7204032007,
+      "name": "Malomba"
+    },
+    {
+      "code": 7204032008,
+      "name": "Ogogili"
+    },
+    {
+      "code": 7204032009,
+      "name": "Tinabogan"
+    },
+    {
+      "code": 7204032010,
+      "name": "Malulu"
+    },
+    {
+      "code": 7204032011,
+      "name": "Malala"
+    },
+    {
+      "code": 7204032012,
+      "name": "Anggasan"
+    },
+    {
+      "code": 7204032013,
+      "name": "Betengon"
+    },
+    {
+      "code": 7204032014,
+      "name": "Pangkung"
+    },
+    {
+      "code": 7204032015,
+      "name": "Ogowele Buga"
+    },
+    {
+      "code": 7204032016,
+      "name": "Lobuo"
+    }
+  ]
+}

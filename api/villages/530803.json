@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Showing 32 villages",
+  "data": [
+    {
+      "code": 5308032001,
+      "name": "Raburia"
+    },
+    {
+      "code": 5308032002,
+      "name": "Riaraja"
+    },
+    {
+      "code": 5308032003,
+      "name": "Mbotutenda"
+    },
+    {
+      "code": 5308032004,
+      "name": "Wologai"
+    },
+    {
+      "code": 5308032007,
+      "name": "Ndetundora I"
+    },
+    {
+      "code": 5308032008,
+      "name": "Ndetundora II"
+    },
+    {
+      "code": 5308032009,
+      "name": "Tomberabu I"
+    },
+    {
+      "code": 5308032010,
+      "name": "Tomberabu II"
+    },
+    {
+      "code": 5308032011,
+      "name": "Nakuramba"
+    },
+    {
+      "code": 5308032012,
+      "name": "Wolokaro"
+    },
+    {
+      "code": 5308032013,
+      "name": "Ja Moke Asa"
+    },
+    {
+      "code": 5308032014,
+      "name": "Emburia"
+    },
+    {
+      "code": 5308032016,
+      "name": "Randotonda"
+    },
+    {
+      "code": 5308032017,
+      "name": "Rukuramba"
+    },
+    {
+      "code": 5308032018,
+      "name": "Tinabani"
+    },
+    {
+      "code": 5308032019,
+      "name": "Ndetundora III"
+    },
+    {
+      "code": 5308032020,
+      "name": "Uzuramba"
+    },
+    {
+      "code": 5308032021,
+      "name": "Tonggopapa"
+    },
+    {
+      "code": 5308032022,
+      "name": "Wologai Dua"
+    },
+    {
+      "code": 5308032023,
+      "name": "Worhopapa"
+    },
+    {
+      "code": 5308032024,
+      "name": "Wawonato"
+    },
+    {
+      "code": 5308032025,
+      "name": "Jejaraja"
+    },
+    {
+      "code": 5308032026,
+      "name": "Tendambonggi"
+    },
+    {
+      "code": 5308032027,
+      "name": "Randorama"
+    },
+    {
+      "code": 5308032028,
+      "name": "Ranoramba"
+    },
+    {
+      "code": 5308032029,
+      "name": "Peozakaramba"
+    },
+    {
+      "code": 5308032030,
+      "name": "Embutheru"
+    },
+    {
+      "code": 5308032031,
+      "name": "Nuaja"
+    },
+    {
+      "code": 5308032032,
+      "name": "Wajakea Jaya"
+    },
+    {
+      "code": 5308032033,
+      "name": "Nemboramba"
+    },
+    {
+      "code": 5308032034,
+      "name": "Embu Ngena"
+    },
+    {
+      "code": 5308032035,
+      "name": "Uzuramba Barat"
+    }
+  ]
+}

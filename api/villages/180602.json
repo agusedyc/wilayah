@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1806022012,
+      "name": "Kalibening"
+    },
+    {
+      "code": 1806022015,
+      "name": "Kejayaan"
+    },
+    {
+      "code": 1806022016,
+      "name": "Suka Bumi"
+    },
+    {
+      "code": 1806022017,
+      "name": "Suka Negeri Jaya"
+    },
+    {
+      "code": 1806022018,
+      "name": "Banjar Sari"
+    },
+    {
+      "code": 1806022019,
+      "name": "Singosari"
+    },
+    {
+      "code": 1806022020,
+      "name": "Sinar Banten"
+    },
+    {
+      "code": 1806022021,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1806022022,
+      "name": "Banding Agung"
+    },
+    {
+      "code": 1806022023,
+      "name": "Talang Padang"
+    },
+    {
+      "code": 1806022024,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1806022025,
+      "name": "Suka Bandung"
+    },
+    {
+      "code": 1806022026,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1806022027,
+      "name": "Sinar Semendo"
+    },
+    {
+      "code": 1806022028,
+      "name": "Negeri Agung"
+    },
+    {
+      "code": 1806022029,
+      "name": "Sinar Petir"
+    },
+    {
+      "code": 1806022030,
+      "name": "Way Halom"
+    },
+    {
+      "code": 1806022031,
+      "name": "Talang Sepuh"
+    },
+    {
+      "code": 1806022032,
+      "name": "Sinar Harapan"
+    },
+    {
+      "code": 1806022033,
+      "name": "Sinar Betung"
+    }
+  ]
+}

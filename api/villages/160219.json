@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1602192001,
+      "name": "Deling"
+    },
+    {
+      "code": 1602192002,
+      "name": "Pangkalan Lampan"
+    },
+    {
+      "code": 1602192003,
+      "name": "Lirik"
+    },
+    {
+      "code": 1602192004,
+      "name": "Lebung Batang"
+    },
+    {
+      "code": 1602192005,
+      "name": "Sungai Bungin"
+    },
+    {
+      "code": 1602192006,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1602192007,
+      "name": "Darat"
+    },
+    {
+      "code": 1602192008,
+      "name": "Pulauan"
+    },
+    {
+      "code": 1602192009,
+      "name": "Riding"
+    },
+    {
+      "code": 1602192010,
+      "name": "Sunggutan"
+    },
+    {
+      "code": 1602192011,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1602192012,
+      "name": "Air Pedara"
+    },
+    {
+      "code": 1602192013,
+      "name": "Rimba Samak"
+    },
+    {
+      "code": 1602192014,
+      "name": "Talang Daya"
+    },
+    {
+      "code": 1602192015,
+      "name": "Air Rumbai"
+    },
+    {
+      "code": 1602192016,
+      "name": "Rambai"
+    },
+    {
+      "code": 1602192017,
+      "name": "Perigi"
+    },
+    {
+      "code": 1602192018,
+      "name": "Bukit Batu"
+    },
+    {
+      "code": 1602192019,
+      "name": "Rawa Tenam"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5108092001,
+      "name": "Sembiran"
+    },
+    {
+      "code": 5108092002,
+      "name": "Pacung"
+    },
+    {
+      "code": 5108092003,
+      "name": "Julah"
+    },
+    {
+      "code": 5108092004,
+      "name": "Madenan"
+    },
+    {
+      "code": 5108092005,
+      "name": "Bondalem"
+    },
+    {
+      "code": 5108092006,
+      "name": "Tejakula"
+    },
+    {
+      "code": 5108092007,
+      "name": "Les"
+    },
+    {
+      "code": 5108092008,
+      "name": "Penuktukan"
+    },
+    {
+      "code": 5108092009,
+      "name": "Sambirenteng"
+    },
+    {
+      "code": 5108092010,
+      "name": "Tembok"
+    }
+  ]
+}

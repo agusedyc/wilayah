@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2105011001,
+      "name": "Terempa"
+    },
+    {
+      "code": 2105012002,
+      "name": "Terempa Barat"
+    },
+    {
+      "code": 2105012003,
+      "name": "Tarempa Selatan"
+    },
+    {
+      "code": 2105012004,
+      "name": "Tarempa Timur"
+    },
+    {
+      "code": 2105012005,
+      "name": "Pesisir Timur"
+    },
+    {
+      "code": 2105012006,
+      "name": "Sri Tanjung"
+    },
+    {
+      "code": 2105012007,
+      "name": "Tarempa Barat Daya"
+    }
+  ]
+}

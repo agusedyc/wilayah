@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6304132001,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 6304132002,
+      "name": "Tamban Raya"
+    },
+    {
+      "code": 6304132003,
+      "name": "Tinggiran Tengah"
+    },
+    {
+      "code": 6304132004,
+      "name": "Tinggiran Darat"
+    },
+    {
+      "code": 6304132005,
+      "name": "Jelapat II"
+    },
+    {
+      "code": 6304132006,
+      "name": "Tamban Raya Baru"
+    },
+    {
+      "code": 6304132007,
+      "name": "Tinggiran Baru"
+    },
+    {
+      "code": 6304132008,
+      "name": "Karang Mekar"
+    },
+    {
+      "code": 6304132009,
+      "name": "Indah Sari"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3323072001,
+      "name": "Kedu"
+    },
+    {
+      "code": 3323072002,
+      "name": "Candimulyo"
+    },
+    {
+      "code": 3323072003,
+      "name": "Salamsari"
+    },
+    {
+      "code": 3323072004,
+      "name": "Danurejo"
+    },
+    {
+      "code": 3323072005,
+      "name": "Mojotengah"
+    },
+    {
+      "code": 3323072006,
+      "name": "Karangtejo"
+    },
+    {
+      "code": 3323072007,
+      "name": "Mergowati"
+    },
+    {
+      "code": 3323072008,
+      "name": "Kutoanyar"
+    },
+    {
+      "code": 3323072009,
+      "name": "Kundisari"
+    },
+    {
+      "code": 3323072010,
+      "name": "Ngadimulyo"
+    },
+    {
+      "code": 3323072011,
+      "name": "Gondangwayang"
+    },
+    {
+      "code": 3323072012,
+      "name": "Bojonegoro"
+    },
+    {
+      "code": 3323072013,
+      "name": "Bandunggede"
+    },
+    {
+      "code": 3323072014,
+      "name": "Tegalsari"
+    }
+  ]
+}

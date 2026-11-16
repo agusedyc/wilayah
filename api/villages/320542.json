@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3205422001,
+      "name": "Sadang"
+    },
+    {
+      "code": 3205422002,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3205422003,
+      "name": "Tenjonagara"
+    },
+    {
+      "code": 3205422004,
+      "name": "Tegalpanjang"
+    },
+    {
+      "code": 3205422005,
+      "name": "Cigadog"
+    },
+    {
+      "code": 3205422006,
+      "name": "Linggamukti"
+    },
+    {
+      "code": 3205422007,
+      "name": "Sukalaksana"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3604322001,
+      "name": "Mancak"
+    },
+    {
+      "code": 3604322002,
+      "name": "Ciwarna"
+    },
+    {
+      "code": 3604322003,
+      "name": "Angsana"
+    },
+    {
+      "code": 3604322004,
+      "name": "Talaga"
+    },
+    {
+      "code": 3604322005,
+      "name": "Cikedung"
+    },
+    {
+      "code": 3604322006,
+      "name": "Sigedong"
+    },
+    {
+      "code": 3604322007,
+      "name": "Sangiang"
+    },
+    {
+      "code": 3604322008,
+      "name": "Pasirwaru"
+    },
+    {
+      "code": 3604322009,
+      "name": "Waringin"
+    },
+    {
+      "code": 3604322010,
+      "name": "Winong"
+    },
+    {
+      "code": 3604322011,
+      "name": "Batukuda"
+    },
+    {
+      "code": 3604322012,
+      "name": "Labuan"
+    },
+    {
+      "code": 3604322013,
+      "name": "Bale Kambang"
+    },
+    {
+      "code": 3604322014,
+      "name": "Bale Kencana"
+    }
+  ]
+}

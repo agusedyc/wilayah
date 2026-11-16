@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3211171001,
+      "name": "Pasanggrahan Baru"
+    },
+    {
+      "code": 3211171002,
+      "name": "Kota Kulon"
+    },
+    {
+      "code": 3211171003,
+      "name": "Regol Wetan"
+    },
+    {
+      "code": 3211171004,
+      "name": "Cipameungpeuk"
+    },
+    {
+      "code": 3211172005,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3211172006,
+      "name": "Baginda"
+    },
+    {
+      "code": 3211172007,
+      "name": "Cipancar"
+    },
+    {
+      "code": 3211172008,
+      "name": "Citengah"
+    },
+    {
+      "code": 3211172009,
+      "name": "Gunasari"
+    },
+    {
+      "code": 3211172010,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3211172011,
+      "name": "Margamekar"
+    },
+    {
+      "code": 3211172012,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3211172013,
+      "name": "Margalaksana"
+    },
+    {
+      "code": 3211172014,
+      "name": "Mekar Rahayu"
+    }
+  ]
+}

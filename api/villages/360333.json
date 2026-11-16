@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3603332001,
+      "name": "Mekar Baru"
+    },
+    {
+      "code": 3603332002,
+      "name": "Kedaung"
+    },
+    {
+      "code": 3603332003,
+      "name": "Cijeruk"
+    },
+    {
+      "code": 3603332004,
+      "name": "Waliwis"
+    },
+    {
+      "code": 3603332005,
+      "name": "Klutuk"
+    },
+    {
+      "code": 3603332006,
+      "name": "Jenggot"
+    },
+    {
+      "code": 3603332007,
+      "name": "Kosambi Dalam"
+    },
+    {
+      "code": 3603332008,
+      "name": "Gandaria"
+    }
+  ]
+}

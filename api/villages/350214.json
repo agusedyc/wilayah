@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3502142001,
+      "name": "Sampung"
+    },
+    {
+      "code": 3502142002,
+      "name": "Pohijo"
+    },
+    {
+      "code": 3502142003,
+      "name": "Jenangan"
+    },
+    {
+      "code": 3502142004,
+      "name": "Nglurup"
+    },
+    {
+      "code": 3502142005,
+      "name": "Tulung"
+    },
+    {
+      "code": 3502142006,
+      "name": "Carangrejo"
+    },
+    {
+      "code": 3502142007,
+      "name": "Pagerukir"
+    },
+    {
+      "code": 3502142008,
+      "name": "Kunti"
+    },
+    {
+      "code": 3502142009,
+      "name": "Glinggang"
+    },
+    {
+      "code": 3502142010,
+      "name": "Gelangkulon"
+    },
+    {
+      "code": 3502142011,
+      "name": "Karangwaluh"
+    },
+    {
+      "code": 3502142012,
+      "name": "Ringinputih"
+    }
+  ]
+}

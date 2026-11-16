@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6309061001,
+      "name": "Belimbing Raya"
+    },
+    {
+      "code": 6309061002,
+      "name": "Belimbing"
+    },
+    {
+      "code": 6309061003,
+      "name": "Sulingan"
+    },
+    {
+      "code": 6309061006,
+      "name": "Mabu'un"
+    },
+    {
+      "code": 6309061009,
+      "name": "Pembataan"
+    },
+    {
+      "code": 6309062004,
+      "name": "Maburai"
+    },
+    {
+      "code": 6309062005,
+      "name": "Kasiau"
+    },
+    {
+      "code": 6309062007,
+      "name": "Kapar"
+    },
+    {
+      "code": 6309062008,
+      "name": "Masukau"
+    },
+    {
+      "code": 6309062010,
+      "name": "Kasiau Raya"
+    }
+  ]
+}

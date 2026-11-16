@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1213232001,
+      "name": "Tambiski"
+    },
+    {
+      "code": 1213232002,
+      "name": "Tarutung Panjang"
+    },
+    {
+      "code": 1213232003,
+      "name": "Humbang I"
+    },
+    {
+      "code": 1213232004,
+      "name": "Banua Rakyat"
+    },
+    {
+      "code": 1213232005,
+      "name": "Sayur Matua"
+    },
+    {
+      "code": 1213232006,
+      "name": "Banua Simanosor"
+    },
+    {
+      "code": 1213232007,
+      "name": "Tambiski Nauli"
+    }
+  ]
+}

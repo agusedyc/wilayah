@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3504172001,
+      "name": "Nglampir"
+    },
+    {
+      "code": 3504172002,
+      "name": "Talun Kulon"
+    },
+    {
+      "code": 3504172003,
+      "name": "Bantengan"
+    },
+    {
+      "code": 3504172004,
+      "name": "Kedungwilut"
+    },
+    {
+      "code": 3504172005,
+      "name": "Suwaru"
+    },
+    {
+      "code": 3504172006,
+      "name": "Ngunggahan"
+    },
+    {
+      "code": 3504172007,
+      "name": "Suruhan Kidul"
+    },
+    {
+      "code": 3504172008,
+      "name": "Bandung"
+    },
+    {
+      "code": 3504172009,
+      "name": "Mergayu"
+    },
+    {
+      "code": 3504172010,
+      "name": "Sebalor"
+    },
+    {
+      "code": 3504172011,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3504172012,
+      "name": "Soko"
+    },
+    {
+      "code": 3504172013,
+      "name": "Singgit"
+    },
+    {
+      "code": 3504172014,
+      "name": "Ngepeh"
+    },
+    {
+      "code": 3504172015,
+      "name": "Suruhan Lor"
+    },
+    {
+      "code": 3504172016,
+      "name": "Bulus"
+    },
+    {
+      "code": 3504172017,
+      "name": "Kesambi"
+    },
+    {
+      "code": 3504172018,
+      "name": "Gandong"
+    }
+  ]
+}

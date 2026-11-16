@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7324092001,
+      "name": "Kertoraharjo"
+    },
+    {
+      "code": 7324092002,
+      "name": "Cendana Hitam"
+    },
+    {
+      "code": 7324092003,
+      "name": "Purwosari"
+    },
+    {
+      "code": 7324092004,
+      "name": "Pattengko"
+    },
+    {
+      "code": 7324092005,
+      "name": "Manunggal"
+    },
+    {
+      "code": 7324092006,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 7324092007,
+      "name": "Alam Buana"
+    },
+    {
+      "code": 7324092008,
+      "name": "Cendana Hitam Timur"
+    }
+  ]
+}

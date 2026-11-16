@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9501112001,
+      "name": "Yalengga"
+    },
+    {
+      "code": 9501112002,
+      "name": "Taganik"
+    },
+    {
+      "code": 9501112003,
+      "name": "Wananuk"
+    },
+    {
+      "code": 9501112004,
+      "name": "Pilimo"
+    },
+    {
+      "code": 9501112005,
+      "name": "Tumun"
+    },
+    {
+      "code": 9501112006,
+      "name": "Akorek"
+    },
+    {
+      "code": 9501112007,
+      "name": "Manili"
+    },
+    {
+      "code": 9501112008,
+      "name": "Aipakma"
+    },
+    {
+      "code": 9501112009,
+      "name": "Wugurima"
+    },
+    {
+      "code": 9501112010,
+      "name": "Bitti"
+    },
+    {
+      "code": 9501112011,
+      "name": "Wamanuk Dua"
+    }
+  ]
+}

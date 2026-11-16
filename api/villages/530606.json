@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5306061001,
+      "name": "Ritaebang"
+    },
+    {
+      "code": 5306062002,
+      "name": "Tanah Lein"
+    },
+    {
+      "code": 5306062003,
+      "name": "Lamaole"
+    },
+    {
+      "code": 5306062004,
+      "name": "Kalelu"
+    },
+    {
+      "code": 5306062005,
+      "name": "Nuhalolon"
+    },
+    {
+      "code": 5306062007,
+      "name": "Balaweling II"
+    },
+    {
+      "code": 5306062008,
+      "name": "Balaweling I"
+    },
+    {
+      "code": 5306062009,
+      "name": "Pamakayo"
+    },
+    {
+      "code": 5306062012,
+      "name": "Ongalereng"
+    },
+    {
+      "code": 5306062013,
+      "name": "Karawatung"
+    },
+    {
+      "code": 5306062014,
+      "name": "Lamawohong"
+    },
+    {
+      "code": 5306062015,
+      "name": "Daniwato"
+    },
+    {
+      "code": 5306062017,
+      "name": "Lewotanah Ole"
+    },
+    {
+      "code": 5306062019,
+      "name": "Titehena"
+    },
+    {
+      "code": 5306062020,
+      "name": "Lewonama"
+    }
+  ]
+}

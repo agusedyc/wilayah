@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7602132001,
+      "name": "Dungkait"
+    },
+    {
+      "code": 7602132002,
+      "name": "Lebani"
+    },
+    {
+      "code": 7602132003,
+      "name": "Labuang Rano"
+    },
+    {
+      "code": 7602132004,
+      "name": "Pasabu"
+    },
+    {
+      "code": 7602132005,
+      "name": "Tanete Pao"
+    },
+    {
+      "code": 7602132006,
+      "name": "Pangasaan"
+    },
+    {
+      "code": 7602132007,
+      "name": "Ahu"
+    }
+  ]
+}

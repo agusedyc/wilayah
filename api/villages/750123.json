@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7501232001,
+      "name": "Totopo"
+    },
+    {
+      "code": 7501232002,
+      "name": "Bilato"
+    },
+    {
+      "code": 7501232003,
+      "name": "Ilomata"
+    },
+    {
+      "code": 7501232004,
+      "name": "Taula'a"
+    },
+    {
+      "code": 7501232005,
+      "name": "Juriya"
+    },
+    {
+      "code": 7501232006,
+      "name": "Pelehu"
+    },
+    {
+      "code": 7501232007,
+      "name": "Bumela"
+    },
+    {
+      "code": 7501232008,
+      "name": "Lamahu"
+    },
+    {
+      "code": 7501232009,
+      "name": "Musyawarah"
+    },
+    {
+      "code": 7501232010,
+      "name": "Suka Damai"
+    }
+  ]
+}

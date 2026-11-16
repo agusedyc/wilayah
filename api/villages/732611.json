@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7326111001,
+      "name": "Tallunglipu Matalo"
+    },
+    {
+      "code": 7326111002,
+      "name": "Tallunglipu"
+    },
+    {
+      "code": 7326111003,
+      "name": "Tampo Tallunglipu"
+    },
+    {
+      "code": 7326111004,
+      "name": "Tagari Tallunglipu"
+    },
+    {
+      "code": 7326111005,
+      "name": "Tantanan Tallunglipu"
+    },
+    {
+      "code": 7326111007,
+      "name": "Rante PakuTallunglipu"
+    },
+    {
+      "code": 7326112006,
+      "name": "Buntu Tallunglipu"
+    }
+  ]
+}

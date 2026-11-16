@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7501102001,
+      "name": "Dulamayo Utara"
+    },
+    {
+      "code": 7501102002,
+      "name": "Ulapato A"
+    },
+    {
+      "code": 7501102003,
+      "name": "Ulapato B"
+    },
+    {
+      "code": 7501102004,
+      "name": "Talumelito"
+    },
+    {
+      "code": 7501102005,
+      "name": "Tuladenggi"
+    },
+    {
+      "code": 7501102006,
+      "name": "Pantungo"
+    },
+    {
+      "code": 7501102007,
+      "name": "Lupoyo"
+    },
+    {
+      "code": 7501102008,
+      "name": "Pentadio Timur"
+    },
+    {
+      "code": 7501102009,
+      "name": "Pentadio Barat"
+    },
+    {
+      "code": 7501102010,
+      "name": "Dumati"
+    },
+    {
+      "code": 7501102011,
+      "name": "Modelidu"
+    },
+    {
+      "code": 7501102012,
+      "name": "Tinelo"
+    },
+    {
+      "code": 7501102013,
+      "name": "Timuato"
+    },
+    {
+      "code": 7501102014,
+      "name": "Tapaluluo"
+    },
+    {
+      "code": 7501102015,
+      "name": "Tonala"
+    }
+  ]
+}

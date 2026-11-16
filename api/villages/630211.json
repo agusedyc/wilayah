@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6302112001,
+      "name": "Sekandis"
+    },
+    {
+      "code": 6302112002,
+      "name": "Gunung Calang"
+    },
+    {
+      "code": 6302112003,
+      "name": "Talusi"
+    },
+    {
+      "code": 6302112004,
+      "name": "Sakalimau"
+    },
+    {
+      "code": 6302112005,
+      "name": "Tanjung Samalantakan"
+    },
+    {
+      "code": 6302112006,
+      "name": "Sakadoyan"
+    },
+    {
+      "code": 6302112007,
+      "name": "Rampa Cengal"
+    },
+    {
+      "code": 6302112008,
+      "name": "Sesulung"
+    },
+    {
+      "code": 6302112009,
+      "name": "Pondok Labu"
+    },
+    {
+      "code": 6302112010,
+      "name": "Mulyodadi"
+    },
+    {
+      "code": 6302112011,
+      "name": "Sukadana"
+    }
+  ]
+}

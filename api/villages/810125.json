@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 8101252001,
+      "name": "Kobi"
+    },
+    {
+      "code": 8101252002,
+      "name": "Sariputih"
+    },
+    {
+      "code": 8101252003,
+      "name": "Maneo Rendah"
+    },
+    {
+      "code": 8101252004,
+      "name": "Kobimukti"
+    },
+    {
+      "code": 8101252005,
+      "name": "Leaway"
+    },
+    {
+      "code": 8101252006,
+      "name": "Samal"
+    },
+    {
+      "code": 8101252007,
+      "name": "Morokai"
+    },
+    {
+      "code": 8101252008,
+      "name": "Waimusi"
+    },
+    {
+      "code": 8101252009,
+      "name": "Way Asih"
+    },
+    {
+      "code": 8101252010,
+      "name": "Waitonipa"
+    },
+    {
+      "code": 8101252011,
+      "name": "Marasahua"
+    },
+    {
+      "code": 8101252012,
+      "name": "Kabauhari"
+    }
+  ]
+}

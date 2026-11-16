@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1505082001,
+      "name": "Kebon IX"
+    },
+    {
+      "code": 1505082002,
+      "name": "Talang Belido"
+    },
+    {
+      "code": 1505082003,
+      "name": "Talang Kerinci"
+    },
+    {
+      "code": 1505082004,
+      "name": "Ladang Panjang"
+    },
+    {
+      "code": 1505082005,
+      "name": "Tangkit"
+    },
+    {
+      "code": 1505082006,
+      "name": "Tangkit Baru"
+    },
+    {
+      "code": 1505082007,
+      "name": "Sungai Gelam"
+    },
+    {
+      "code": 1505082008,
+      "name": "Parit"
+    },
+    {
+      "code": 1505082009,
+      "name": "Petaling Jaya"
+    },
+    {
+      "code": 1505082010,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1505082011,
+      "name": "Mingkung Jaya"
+    },
+    {
+      "code": 1505082012,
+      "name": "Trimulya Jaya"
+    },
+    {
+      "code": 1505082013,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1505082014,
+      "name": "Sido Mukti"
+    },
+    {
+      "code": 1505082015,
+      "name": "Gambut Jaya"
+    }
+  ]
+}

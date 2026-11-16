@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3514232001,
+      "name": "Sadengrejo"
+    },
+    {
+      "code": 3514232002,
+      "name": "Pandanrejo"
+    },
+    {
+      "code": 3514232003,
+      "name": "Ketegan"
+    },
+    {
+      "code": 3514232004,
+      "name": "Toyaning"
+    },
+    {
+      "code": 3514232005,
+      "name": "Arjosari"
+    },
+    {
+      "code": 3514232006,
+      "name": "Kawisrejo"
+    },
+    {
+      "code": 3514232007,
+      "name": "Rejoso Kidul"
+    },
+    {
+      "code": 3514232008,
+      "name": "Manikrejo"
+    },
+    {
+      "code": 3514232009,
+      "name": "Karangpandan"
+    },
+    {
+      "code": 3514232010,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3514232011,
+      "name": "Kedungbako"
+    },
+    {
+      "code": 3514232012,
+      "name": "Rejosolor"
+    },
+    {
+      "code": 3514232013,
+      "name": "Patuguran"
+    },
+    {
+      "code": 3514232014,
+      "name": "Kemantrenrejo"
+    },
+    {
+      "code": 3514232015,
+      "name": "Segoropuro"
+    },
+    {
+      "code": 3514232016,
+      "name": "Jarangan"
+    }
+  ]
+}

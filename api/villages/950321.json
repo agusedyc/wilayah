@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9503212001,
+      "name": "Kosarek"
+    },
+    {
+      "code": 9503212002,
+      "name": "Nahomas"
+    },
+    {
+      "code": 9503212003,
+      "name": "Silkom"
+    },
+    {
+      "code": 9503212004,
+      "name": "Wahe"
+    },
+    {
+      "code": 9503212005,
+      "name": "Hombuka"
+    },
+    {
+      "code": 9503212006,
+      "name": "Mine"
+    },
+    {
+      "code": 9503212007,
+      "name": "Uldam"
+    },
+    {
+      "code": 9503212008,
+      "name": "Tiple"
+    },
+    {
+      "code": 9503212009,
+      "name": "Wesaltek"
+    },
+    {
+      "code": 9503212010,
+      "name": "Konosa"
+    },
+    {
+      "code": 9503212011,
+      "name": "Illion"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 8102132001,
+      "name": "Wain"
+    },
+    {
+      "code": 8102132002,
+      "name": "Rewav"
+    },
+    {
+      "code": 8102132003,
+      "name": "Rumaat"
+    },
+    {
+      "code": 8102132004,
+      "name": "Rat"
+    },
+    {
+      "code": 8102132005,
+      "name": "Abean"
+    },
+    {
+      "code": 8102132006,
+      "name": "Mastur"
+    },
+    {
+      "code": 8102132013,
+      "name": "Ohoinol"
+    },
+    {
+      "code": 8102132014,
+      "name": "Semawi"
+    },
+    {
+      "code": 8102132015,
+      "name": "Iso"
+    },
+    {
+      "code": 8102132016,
+      "name": "Disuk"
+    },
+    {
+      "code": 8102132017,
+      "name": "Wain Baru"
+    },
+    {
+      "code": 8102132018,
+      "name": "Marfun"
+    },
+    {
+      "code": 8102132019,
+      "name": "Watngon"
+    },
+    {
+      "code": 8102132020,
+      "name": "Yafavun"
+    },
+    {
+      "code": 8102132021,
+      "name": "Mastur Baru"
+    },
+    {
+      "code": 8102132022,
+      "name": "Ohoilus"
+    },
+    {
+      "code": 8102132023,
+      "name": "Tenbuk"
+    },
+    {
+      "code": 8102132024,
+      "name": "Denwet"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7503152001,
+      "name": "Ayula Selatan"
+    },
+    {
+      "code": 7503152002,
+      "name": "Huntu Utara"
+    },
+    {
+      "code": 7503152003,
+      "name": "Ayula Utara"
+    },
+    {
+      "code": 7503152004,
+      "name": "Huntu Selatan"
+    },
+    {
+      "code": 7503152006,
+      "name": "Ayula Tilango"
+    },
+    {
+      "code": 7503152007,
+      "name": "Ayula Timur"
+    },
+    {
+      "code": 7503152008,
+      "name": "Lamahu"
+    },
+    {
+      "code": 7503152009,
+      "name": "Tinelo Ayula"
+    },
+    {
+      "code": 7503152010,
+      "name": "Sejahtera"
+    },
+    {
+      "code": 7503152011,
+      "name": "Huntu Barat"
+    }
+  ]
+}

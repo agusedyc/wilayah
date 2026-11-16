@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3301092001,
+      "name": "Grugu"
+    },
+    {
+      "code": 3301092002,
+      "name": "Bringkeng"
+    },
+    {
+      "code": 3301092003,
+      "name": "Ujungmanik"
+    },
+    {
+      "code": 3301092004,
+      "name": "Kubangkangkung"
+    },
+    {
+      "code": 3301092005,
+      "name": "Bojong"
+    },
+    {
+      "code": 3301092006,
+      "name": "Mentasan"
+    },
+    {
+      "code": 3301092007,
+      "name": "Kalijeruk"
+    },
+    {
+      "code": 3301092008,
+      "name": "Kawunganten"
+    },
+    {
+      "code": 3301092009,
+      "name": "Sarwadadi"
+    },
+    {
+      "code": 3301092010,
+      "name": "Kawunganten Lor"
+    },
+    {
+      "code": 3301092014,
+      "name": "Babakan"
+    },
+    {
+      "code": 3301092015,
+      "name": "Sidaurip"
+    }
+  ]
+}

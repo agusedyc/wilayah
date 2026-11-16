@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3372011001,
+      "name": "Pajang"
+    },
+    {
+      "code": 3372011002,
+      "name": "Laweyan"
+    },
+    {
+      "code": 3372011003,
+      "name": "Bumi"
+    },
+    {
+      "code": 3372011004,
+      "name": "Panularan"
+    },
+    {
+      "code": 3372011005,
+      "name": "Penumping"
+    },
+    {
+      "code": 3372011006,
+      "name": "Sriwedari"
+    },
+    {
+      "code": 3372011007,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3372011008,
+      "name": "Sondakan"
+    },
+    {
+      "code": 3372011009,
+      "name": "Kerten"
+    },
+    {
+      "code": 3372011010,
+      "name": "Jajar"
+    },
+    {
+      "code": 3372011011,
+      "name": "Karangasem"
+    }
+  ]
+}

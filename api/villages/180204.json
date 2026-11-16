@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1802041005,
+      "name": "Gunung Sugih"
+    },
+    {
+      "code": 1802041006,
+      "name": "Gunung S. Raya"
+    },
+    {
+      "code": 1802041007,
+      "name": "Komering Agung"
+    },
+    {
+      "code": 1802041008,
+      "name": "Seputih Jaya"
+    },
+    {
+      "code": 1802042001,
+      "name": "Terbanggi Subing"
+    },
+    {
+      "code": 1802042002,
+      "name": "Terbanggi Agung"
+    },
+    {
+      "code": 1802042003,
+      "name": "Fajar Bulan"
+    },
+    {
+      "code": 1802042004,
+      "name": "Komering Putih"
+    },
+    {
+      "code": 1802042009,
+      "name": "Buyut Udik"
+    },
+    {
+      "code": 1802042010,
+      "name": "Buyut Ilir"
+    },
+    {
+      "code": 1802042011,
+      "name": "Bangun Rejo"
+    },
+    {
+      "code": 1802042012,
+      "name": "Wono Sari"
+    },
+    {
+      "code": 1802042013,
+      "name": "Putra Buyut"
+    },
+    {
+      "code": 1802042014,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1802042015,
+      "name": "Buyut Utara"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3505212001,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3505212002,
+      "name": "Pohgajih"
+    },
+    {
+      "code": 3505212003,
+      "name": "Selorejo"
+    },
+    {
+      "code": 3505212004,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3505212005,
+      "name": "Ngrendeng"
+    },
+    {
+      "code": 3505212006,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3505212007,
+      "name": "Ampelgading"
+    },
+    {
+      "code": 3505212008,
+      "name": "Olak Alen"
+    },
+    {
+      "code": 3505212009,
+      "name": "Boro"
+    },
+    {
+      "code": 3505212010,
+      "name": "Ngreco"
+    }
+  ]
+}

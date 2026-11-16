@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871011003,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1871011004,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1871011005,
+      "name": "Sukamenanti"
+    },
+    {
+      "code": 1871011006,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1871011009,
+      "name": "Sukamenanti Baru"
+    },
+    {
+      "code": 1871011010,
+      "name": "Penengahan"
+    },
+    {
+      "code": 1871011012,
+      "name": "Penengahan Raya"
+    }
+  ]
+}

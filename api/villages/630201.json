@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6302012001,
+      "name": "Labuan Barat"
+    },
+    {
+      "code": 6302012002,
+      "name": "Teluk Sungai"
+    },
+    {
+      "code": 6302012003,
+      "name": "Maradapan"
+    },
+    {
+      "code": 6302012004,
+      "name": "Tengah"
+    },
+    {
+      "code": 6302012005,
+      "name": "Tanjung Nyiur"
+    }
+  ]
+}

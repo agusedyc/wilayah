@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1275011001,
+      "name": "Pahlawan"
+    },
+    {
+      "code": 1275011002,
+      "name": "Jati Negara"
+    },
+    {
+      "code": 1275011003,
+      "name": "Nangka"
+    },
+    {
+      "code": 1275011004,
+      "name": "Damai"
+    },
+    {
+      "code": 1275011005,
+      "name": "Kebun Lada"
+    },
+    {
+      "code": 1275011006,
+      "name": "Cengkeh Turi"
+    },
+    {
+      "code": 1275011007,
+      "name": "Jati Utomo"
+    },
+    {
+      "code": 1275011008,
+      "name": "Jati Makmur"
+    },
+    {
+      "code": 1275011009,
+      "name": "Jati Karya"
+    }
+  ]
+}

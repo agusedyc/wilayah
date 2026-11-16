@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7602031001,
+      "name": "Sinyonyoi"
+    },
+    {
+      "code": 7602031002,
+      "name": "Bebanga"
+    },
+    {
+      "code": 7602031003,
+      "name": "Kalukku"
+    },
+    {
+      "code": 7602031014,
+      "name": "Sinyonyoi Selatan"
+    },
+    {
+      "code": 7602032004,
+      "name": "Sondoang"
+    },
+    {
+      "code": 7602032005,
+      "name": "Beru-Beru"
+    },
+    {
+      "code": 7602032006,
+      "name": "Belang Belang"
+    },
+    {
+      "code": 7602032007,
+      "name": "Kabuloang"
+    },
+    {
+      "code": 7602032008,
+      "name": "Keang"
+    },
+    {
+      "code": 7602032009,
+      "name": "Pokkang"
+    },
+    {
+      "code": 7602032010,
+      "name": "Guliling"
+    },
+    {
+      "code": 7602032011,
+      "name": "Uhaimate"
+    },
+    {
+      "code": 7602032012,
+      "name": "Kalukku Barat"
+    },
+    {
+      "code": 7602032013,
+      "name": "Pammulukang"
+    }
+  ]
+}

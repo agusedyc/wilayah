@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1606051016,
+      "name": "Ngulak I"
+    },
+    {
+      "code": 1606051019,
+      "name": "Ngulak"
+    },
+    {
+      "code": 1606052001,
+      "name": "Air Balui"
+    },
+    {
+      "code": 1606052002,
+      "name": "Nganti"
+    },
+    {
+      "code": 1606052003,
+      "name": "Jud I"
+    },
+    {
+      "code": 1606052004,
+      "name": "Jud II"
+    },
+    {
+      "code": 1606052005,
+      "name": "Penggage"
+    },
+    {
+      "code": 1606052006,
+      "name": "Ngunang"
+    },
+    {
+      "code": 1606052007,
+      "name": "Ngulak II"
+    },
+    {
+      "code": 1606052008,
+      "name": "Ngulak III"
+    },
+    {
+      "code": 1606052009,
+      "name": "Ulak Embacang"
+    },
+    {
+      "code": 1606052010,
+      "name": "Terusan"
+    },
+    {
+      "code": 1606052011,
+      "name": "Kemang"
+    },
+    {
+      "code": 1606052012,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1606052013,
+      "name": "Air Itam"
+    },
+    {
+      "code": 1606052014,
+      "name": "Keban I"
+    },
+    {
+      "code": 1606052015,
+      "name": "Keban II"
+    },
+    {
+      "code": 1606052017,
+      "name": "Panai"
+    },
+    {
+      "code": 1606052018,
+      "name": "Macang Sakti"
+    }
+  ]
+}

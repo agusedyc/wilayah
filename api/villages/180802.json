@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1808021004,
+      "name": "Kasui Pasar"
+    },
+    {
+      "code": 1808022001,
+      "name": "Datar Bancong"
+    },
+    {
+      "code": 1808022002,
+      "name": "Kedaton"
+    },
+    {
+      "code": 1808022003,
+      "name": "Karang Lantang"
+    },
+    {
+      "code": 1808022005,
+      "name": "Kasui Lama"
+    },
+    {
+      "code": 1808022006,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1808022007,
+      "name": "Jukuh Kemuning"
+    },
+    {
+      "code": 1808022008,
+      "name": "Kotaway"
+    },
+    {
+      "code": 1808022009,
+      "name": "Tanjung Kurung"
+    },
+    {
+      "code": 1808022010,
+      "name": "Talang Mangga"
+    },
+    {
+      "code": 1808022011,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1808022012,
+      "name": "Sinar Gading"
+    },
+    {
+      "code": 1808022013,
+      "name": "Jaya Tinggi"
+    },
+    {
+      "code": 1808022014,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1808022015,
+      "name": "Gelombang Panjang"
+    },
+    {
+      "code": 1808022016,
+      "name": "Tangkas"
+    },
+    {
+      "code": 1808022017,
+      "name": "Tanjung Bulan"
+    },
+    {
+      "code": 1808022018,
+      "name": "Tanjung Kurung Lama"
+    },
+    {
+      "code": 1808022019,
+      "name": "Bukit Batu"
+    }
+  ]
+}

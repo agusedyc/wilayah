@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1804071001,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1804072002,
+      "name": "Puralaksana"
+    },
+    {
+      "code": 1804072003,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1804072004,
+      "name": "Mutar Alam"
+    },
+    {
+      "code": 1804072005,
+      "name": "Tanjungraya"
+    },
+    {
+      "code": 1804072006,
+      "name": "Sukananti"
+    },
+    {
+      "code": 1804072007,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1804072008,
+      "name": "Padang Tambak"
+    },
+    {
+      "code": 1804072009,
+      "name": "Tambak Jaya"
+    }
+  ]
+}

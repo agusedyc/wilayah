@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9605162001,
+      "name": "Adoh"
+    },
+    {
+      "code": 9605162002,
+      "name": "Temel"
+    },
+    {
+      "code": 9605162003,
+      "name": "Sosian"
+    },
+    {
+      "code": 9605162004,
+      "name": "Segior"
+    },
+    {
+      "code": 9605162005,
+      "name": "Orain"
+    },
+    {
+      "code": 9605162006,
+      "name": "Rawas"
+    },
+    {
+      "code": 9605162007,
+      "name": "Orsu"
+    },
+    {
+      "code": 9605162008,
+      "name": "Soan"
+    },
+    {
+      "code": 9605162009,
+      "name": "Warbo"
+    },
+    {
+      "code": 9605162010,
+      "name": "Woman"
+    }
+  ]
+}

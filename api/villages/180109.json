@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1801092001,
+      "name": "Kekiling"
+    },
+    {
+      "code": 1801092002,
+      "name": "Belambangan"
+    },
+    {
+      "code": 1801092003,
+      "name": "Rawi"
+    },
+    {
+      "code": 1801092004,
+      "name": "Padan"
+    },
+    {
+      "code": 1801092005,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1801092006,
+      "name": "Taman Baru"
+    },
+    {
+      "code": 1801092007,
+      "name": "Kelau"
+    },
+    {
+      "code": 1801092008,
+      "name": "Ruang Tengah"
+    },
+    {
+      "code": 1801092009,
+      "name": "Pasuruan"
+    },
+    {
+      "code": 1801092010,
+      "name": "Klaten"
+    },
+    {
+      "code": 1801092011,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1801092012,
+      "name": "Banjar Masin"
+    },
+    {
+      "code": 1801092013,
+      "name": "Way Kalam"
+    },
+    {
+      "code": 1801092014,
+      "name": "Gedung Harta"
+    },
+    {
+      "code": 1801092015,
+      "name": "Gayam"
+    },
+    {
+      "code": 1801092016,
+      "name": "Penengahan"
+    },
+    {
+      "code": 1801092017,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 1801092018,
+      "name": "Tetaan"
+    },
+    {
+      "code": 1801092019,
+      "name": "Suka Baru"
+    },
+    {
+      "code": 1801092020,
+      "name": "Pisang"
+    },
+    {
+      "code": 1801092021,
+      "name": "Tanjung Heran"
+    },
+    {
+      "code": 1801092026,
+      "name": "Gandri"
+    }
+  ]
+}

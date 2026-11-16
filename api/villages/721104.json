@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7211042001,
+      "name": "Togong Sagu"
+    },
+    {
+      "code": 7211042002,
+      "name": "Taduno"
+    },
+    {
+      "code": 7211042003,
+      "name": "Kanari"
+    },
+    {
+      "code": 7211042004,
+      "name": "Lantibung"
+    },
+    {
+      "code": 7211042005,
+      "name": "Kalupapi"
+    },
+    {
+      "code": 7211042006,
+      "name": "Bone-Bone"
+    },
+    {
+      "code": 7211042007,
+      "name": "Mbeleang"
+    },
+    {
+      "code": 7211042008,
+      "name": "Tabulang"
+    },
+    {
+      "code": 7211042009,
+      "name": "Sasabobok"
+    },
+    {
+      "code": 7211042010,
+      "name": "Bungin Lawean"
+    },
+    {
+      "code": 7211042011,
+      "name": "Lalong"
+    },
+    {
+      "code": 7211042012,
+      "name": "Dungkean"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1302062001,
+      "name": "Batu Banyak"
+    },
+    {
+      "code": 1302062002,
+      "name": "Batu Bajanjang"
+    },
+    {
+      "code": 1302062003,
+      "name": "Koto Laweh"
+    },
+    {
+      "code": 1302062004,
+      "name": "Limau Lunggo"
+    },
+    {
+      "code": 1302062005,
+      "name": "Koto Gadang Koto Anau"
+    },
+    {
+      "code": 1302062006,
+      "name": "Selayo Tanang B. Sileh"
+    }
+  ]
+}

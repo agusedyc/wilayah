@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1278032001,
+      "name": "Afia"
+    },
+    {
+      "code": 1278032002,
+      "name": "Lolo'ana'a Lolomoyo"
+    },
+    {
+      "code": 1278032003,
+      "name": "Lasara Sowu"
+    },
+    {
+      "code": 1278032004,
+      "name": "Telukbelukar"
+    },
+    {
+      "code": 1278032005,
+      "name": "Tetehosi Afia"
+    },
+    {
+      "code": 1278032006,
+      "name": "Hambawa"
+    },
+    {
+      "code": 1278032007,
+      "name": "Gawu-Gawu Bo'uso"
+    },
+    {
+      "code": 1278032008,
+      "name": "Olora"
+    },
+    {
+      "code": 1278032009,
+      "name": "Hilimbowo Olora"
+    },
+    {
+      "code": 1278032010,
+      "name": "Hiligodu Ulu"
+    }
+  ]
+}

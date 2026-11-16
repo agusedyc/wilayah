@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9602102001,
+      "name": "Mugim"
+    },
+    {
+      "code": 9602102002,
+      "name": "Nusa"
+    },
+    {
+      "code": 9602102003,
+      "name": "Saga"
+    },
+    {
+      "code": 9602102004,
+      "name": "Puragi"
+    },
+    {
+      "code": 9602102005,
+      "name": "Tawanggire"
+    },
+    {
+      "code": 9602102006,
+      "name": "Bedare"
+    }
+  ]
+}

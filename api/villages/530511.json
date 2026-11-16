@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5305111001,
+      "name": "Pura"
+    },
+    {
+      "code": 5305112002,
+      "name": "Maru"
+    },
+    {
+      "code": 5305112003,
+      "name": "Pura Utara"
+    },
+    {
+      "code": 5305112004,
+      "name": "Pura Selatan"
+    },
+    {
+      "code": 5305112005,
+      "name": "Pura Timur"
+    },
+    {
+      "code": 5305112006,
+      "name": "Pura Barat"
+    }
+  ]
+}

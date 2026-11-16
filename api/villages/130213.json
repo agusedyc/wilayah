@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 1302132001,
+      "name": "Paninggahan"
+    },
+    {
+      "code": 1302132002,
+      "name": "Muaro Pingai"
+    }
+  ]
+}

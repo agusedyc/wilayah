@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1402041007,
+      "name": "Air Molek I"
+    },
+    {
+      "code": 1402041020,
+      "name": "Kembang Harum"
+    },
+    {
+      "code": 1402041031,
+      "name": "Tanjung Gading"
+    },
+    {
+      "code": 1402041032,
+      "name": "Sekar Mawar"
+    },
+    {
+      "code": 1402041033,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 1402042006,
+      "name": "Petalongan"
+    },
+    {
+      "code": 1402042008,
+      "name": "Air Molek II"
+    },
+    {
+      "code": 1402042009,
+      "name": "Pasir Keranji"
+    },
+    {
+      "code": 1402042016,
+      "name": "Jati Rejo"
+    },
+    {
+      "code": 1402042017,
+      "name": "Batu Gajah"
+    },
+    {
+      "code": 1402042018,
+      "name": "Candi Rejo"
+    },
+    {
+      "code": 1402042019,
+      "name": "Lembah Dusun Gading"
+    },
+    {
+      "code": 1402042030,
+      "name": "Serumpun Jaya"
+    }
+  ]
+}

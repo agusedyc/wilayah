@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1607101002,
+      "name": "Air Batu"
+    },
+    {
+      "code": 1607101003,
+      "name": "Sukomoro"
+    },
+    {
+      "code": 1607101004,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1607101006,
+      "name": "Kenten"
+    },
+    {
+      "code": 1607101022,
+      "name": "Tanah Mas"
+    },
+    {
+      "code": 1607101023,
+      "name": "Talang Keramat"
+    },
+    {
+      "code": 1607101024,
+      "name": "Sukajadi Timur"
+    },
+    {
+      "code": 1607101025,
+      "name": "Tanah Mas Indah"
+    },
+    {
+      "code": 1607101026,
+      "name": "Rawa Maju"
+    },
+    {
+      "code": 1607101027,
+      "name": "Air Batu Jaya"
+    },
+    {
+      "code": 1607101028,
+      "name": "Sei Sedapat"
+    },
+    {
+      "code": 1607101029,
+      "name": "Azhar Permai"
+    },
+    {
+      "code": 1607101030,
+      "name": "Keramat Raya"
+    },
+    {
+      "code": 1607102001,
+      "name": "Sungai Rengit"
+    },
+    {
+      "code": 1607102005,
+      "name": "Pangkalan Benteng"
+    },
+    {
+      "code": 1607102007,
+      "name": "Gasing"
+    },
+    {
+      "code": 1607102019,
+      "name": "Talang Buluh"
+    },
+    {
+      "code": 1607102020,
+      "name": "Sungai Rengit Murni"
+    },
+    {
+      "code": 1607102021,
+      "name": "Kenten Laut"
+    }
+  ]
+}

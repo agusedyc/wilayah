@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7302041001,
+      "name": "Eka Tiro"
+    },
+    {
+      "code": 7302042002,
+      "name": "Dwitiro"
+    },
+    {
+      "code": 7302042003,
+      "name": "Tritiro"
+    },
+    {
+      "code": 7302042004,
+      "name": "Batang"
+    },
+    {
+      "code": 7302042005,
+      "name": "Bontotangnga"
+    },
+    {
+      "code": 7302042006,
+      "name": "Caramming"
+    },
+    {
+      "code": 7302042007,
+      "name": "Tamalanrea"
+    },
+    {
+      "code": 7302042008,
+      "name": "Bontobarua"
+    },
+    {
+      "code": 7302042009,
+      "name": "Pakubalaho"
+    },
+    {
+      "code": 7302042010,
+      "name": "Bontomarannu"
+    },
+    {
+      "code": 7302042011,
+      "name": "Bontobulaeng"
+    },
+    {
+      "code": 7302042012,
+      "name": "Buhung Bundang"
+    },
+    {
+      "code": 7302042013,
+      "name": "Lamanda"
+    }
+  ]
+}

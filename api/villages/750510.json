@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7505102001,
+      "name": "Biau"
+    },
+    {
+      "code": 7505102002,
+      "name": "Omuto"
+    },
+    {
+      "code": 7505102003,
+      "name": "Luhuto"
+    },
+    {
+      "code": 7505102004,
+      "name": "Windu"
+    },
+    {
+      "code": 7505102005,
+      "name": "Topi"
+    },
+    {
+      "code": 7505102006,
+      "name": "Sembihingan"
+    },
+    {
+      "code": 7505102007,
+      "name": "Didingga"
+    },
+    {
+      "code": 7505102008,
+      "name": "Bualo"
+    },
+    {
+      "code": 7505102009,
+      "name": "Potanga"
+    },
+    {
+      "code": 7505102010,
+      "name": "Bohulo"
+    }
+  ]
+}

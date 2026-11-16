@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1571081001,
+      "name": "Talang Jauh"
+    },
+    {
+      "code": 1571081002,
+      "name": "Cempaka Putih"
+    },
+    {
+      "code": 1571081003,
+      "name": "Kebun Handil"
+    },
+    {
+      "code": 1571081004,
+      "name": "Lebak Bandung"
+    },
+    {
+      "code": 1571081005,
+      "name": "Payo Lebar"
+    },
+    {
+      "code": 1571081006,
+      "name": "Jelutung"
+    },
+    {
+      "code": 1571081007,
+      "name": "Handil Jaya"
+    }
+  ]
+}

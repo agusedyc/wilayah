@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8205022001,
+      "name": "Mangon"
+    },
+    {
+      "code": 8205022002,
+      "name": "Fagudu"
+    },
+    {
+      "code": 8205022003,
+      "name": "Waibau"
+    },
+    {
+      "code": 8205022004,
+      "name": "Falahu"
+    },
+    {
+      "code": 8205022005,
+      "name": "Fatcei"
+    },
+    {
+      "code": 8205022006,
+      "name": "Fogi"
+    },
+    {
+      "code": 8205022007,
+      "name": "Waihama"
+    },
+    {
+      "code": 8205022008,
+      "name": "Wai Ipa"
+    },
+    {
+      "code": 8205022009,
+      "name": "Umaloya"
+    },
+    {
+      "code": 8205022010,
+      "name": "Pastina"
+    },
+    {
+      "code": 8205022011,
+      "name": "Wailau"
+    }
+  ]
+}

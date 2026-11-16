@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7305041001,
+      "name": "Panrannuangku"
+    },
+    {
+      "code": 7305041002,
+      "name": "Manongkoki"
+    },
+    {
+      "code": 7305041003,
+      "name": "Malewang"
+    },
+    {
+      "code": 7305041004,
+      "name": "Palleko"
+    },
+    {
+      "code": 7305041005,
+      "name": "Mattompodale"
+    },
+    {
+      "code": 7305041006,
+      "name": "Parang Luara"
+    },
+    {
+      "code": 7305042007,
+      "name": "Lassang"
+    },
+    {
+      "code": 7305042009,
+      "name": "Pa'rappunganta"
+    },
+    {
+      "code": 7305042010,
+      "name": "Towata"
+    },
+    {
+      "code": 7305042016,
+      "name": "Lassang Barat"
+    }
+  ]
+}

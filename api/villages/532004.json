@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5320042001,
+      "name": "Raerobo"
+    },
+    {
+      "code": 5320042002,
+      "name": "Mehona"
+    },
+    {
+      "code": 5320042003,
+      "name": "Waduwalla"
+    },
+    {
+      "code": 5320042004,
+      "name": "Ledeke"
+    },
+    {
+      "code": 5320042005,
+      "name": "Eilogo"
+    },
+    {
+      "code": 5320042006,
+      "name": "Deme"
+    },
+    {
+      "code": 5320042007,
+      "name": "Kotahawu"
+    },
+    {
+      "code": 5320042008,
+      "name": "Dainao"
+    },
+    {
+      "code": 5320042009,
+      "name": "Eikare"
+    },
+    {
+      "code": 5320042010,
+      "name": "Loborui"
+    },
+    {
+      "code": 5320042011,
+      "name": "Halla Paji"
+    },
+    {
+      "code": 5320042012,
+      "name": "Ledetalo"
+    }
+  ]
+}

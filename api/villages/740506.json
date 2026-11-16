@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7405062011,
+      "name": "Lalonggombu"
+    },
+    {
+      "code": 7405062013,
+      "name": "Watumeeto"
+    },
+    {
+      "code": 7405062014,
+      "name": "Pamandati"
+    },
+    {
+      "code": 7405062015,
+      "name": "Pangan Jaya"
+    },
+    {
+      "code": 7405062020,
+      "name": "Aoreo"
+    },
+    {
+      "code": 7405062021,
+      "name": "Kaindi"
+    },
+    {
+      "code": 7405062022,
+      "name": "Matabubu Jaya"
+    },
+    {
+      "code": 7405062024,
+      "name": "Lainea"
+    },
+    {
+      "code": 7405062025,
+      "name": "Molinese"
+    },
+    {
+      "code": 7405062026,
+      "name": "Polewali"
+    },
+    {
+      "code": 7405062027,
+      "name": "Bangun Jaya"
+    },
+    {
+      "code": 7405062028,
+      "name": "Kalo-kalo"
+    }
+  ]
+}

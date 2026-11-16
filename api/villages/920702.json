@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9207022001,
+      "name": "Wamesa Tengah"
+    },
+    {
+      "code": 9207022002,
+      "name": "Yopmeos"
+    },
+    {
+      "code": 9207022004,
+      "name": "Sombokoro"
+    },
+    {
+      "code": 9207022007,
+      "name": "Windesi"
+    },
+    {
+      "code": 9207022010,
+      "name": "Sandey"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507062001,
+      "name": "Malagai"
+    },
+    {
+      "code": 9507062002,
+      "name": "Oka"
+    },
+    {
+      "code": 9507062003,
+      "name": "Bagi"
+    },
+    {
+      "code": 9507062004,
+      "name": "Ganume"
+    },
+    {
+      "code": 9507062005,
+      "name": "Binilani"
+    },
+    {
+      "code": 9507062006,
+      "name": "Gumban"
+    },
+    {
+      "code": 9507062007,
+      "name": "Lowanom"
+    },
+    {
+      "code": 9507062008,
+      "name": "Nambu"
+    }
+  ]
+}

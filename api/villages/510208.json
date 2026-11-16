@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5102082001,
+      "name": "Rejasa"
+    },
+    {
+      "code": 5102082002,
+      "name": "Jegu"
+    },
+    {
+      "code": 5102082003,
+      "name": "Riang Gede"
+    },
+    {
+      "code": 5102082004,
+      "name": "Buruan"
+    },
+    {
+      "code": 5102082005,
+      "name": "Biaung"
+    },
+    {
+      "code": 5102082006,
+      "name": "Pitra"
+    },
+    {
+      "code": 5102082007,
+      "name": "Penatahan"
+    },
+    {
+      "code": 5102082008,
+      "name": "Tengkudak"
+    },
+    {
+      "code": 5102082009,
+      "name": "Mengesta"
+    },
+    {
+      "code": 5102082010,
+      "name": "Penebel"
+    },
+    {
+      "code": 5102082011,
+      "name": "Babahan"
+    },
+    {
+      "code": 5102082012,
+      "name": "Senganan"
+    },
+    {
+      "code": 5102082013,
+      "name": "Jatiluwih"
+    },
+    {
+      "code": 5102082014,
+      "name": "Wongaya Gede"
+    },
+    {
+      "code": 5102082015,
+      "name": "Tajen"
+    },
+    {
+      "code": 5102082016,
+      "name": "Tegallinggah"
+    },
+    {
+      "code": 5102082017,
+      "name": "Pesagi"
+    },
+    {
+      "code": 5102082018,
+      "name": "Sangketan"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6402151001,
+      "name": "Jawa"
+    },
+    {
+      "code": 6402151002,
+      "name": "Pendingin"
+    },
+    {
+      "code": 6402151003,
+      "name": "Sanga-Sanga Dalam"
+    },
+    {
+      "code": 6402151004,
+      "name": "Sari Jaya"
+    },
+    {
+      "code": 6402151005,
+      "name": "Sanga-Sanga Muara"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 regencies",
+  "data": [
+    {
+      "code": 3401,
+      "name": "Kabupaten Kulon Progo"
+    },
+    {
+      "code": 3402,
+      "name": "Kabupaten Bantul"
+    },
+    {
+      "code": 3403,
+      "name": "Kabupaten Gunungkidul"
+    },
+    {
+      "code": 3404,
+      "name": "Kabupaten Sleman"
+    },
+    {
+      "code": 3471,
+      "name": "Kota Yogyakarta"
+    }
+  ]
+}

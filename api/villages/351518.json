@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3515182001,
+      "name": "Pepelegi"
+    },
+    {
+      "code": 3515182002,
+      "name": "Waru"
+    },
+    {
+      "code": 3515182003,
+      "name": "Kureksari"
+    },
+    {
+      "code": 3515182004,
+      "name": "Ngingas"
+    },
+    {
+      "code": 3515182005,
+      "name": "Tropodo"
+    },
+    {
+      "code": 3515182006,
+      "name": "Tambaksawah"
+    },
+    {
+      "code": 3515182007,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3515182008,
+      "name": "Tambakoso"
+    },
+    {
+      "code": 3515182009,
+      "name": "Tambaksumur"
+    },
+    {
+      "code": 3515182010,
+      "name": "Wadungasri"
+    },
+    {
+      "code": 3515182011,
+      "name": "Kepuhkiriman"
+    },
+    {
+      "code": 3515182012,
+      "name": "Berbek"
+    },
+    {
+      "code": 3515182013,
+      "name": "Wedoro"
+    },
+    {
+      "code": 3515182014,
+      "name": "Janti"
+    },
+    {
+      "code": 3515182015,
+      "name": "Kedungrejo"
+    },
+    {
+      "code": 3515182016,
+      "name": "Medaeng"
+    },
+    {
+      "code": 3515182017,
+      "name": "Bungurasih"
+    }
+  ]
+}

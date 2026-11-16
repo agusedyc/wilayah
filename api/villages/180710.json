@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1807102001,
+      "name": "Kibang"
+    },
+    {
+      "code": 1807102002,
+      "name": "Marga Jaya"
+    },
+    {
+      "code": 1807102003,
+      "name": "Margototo"
+    },
+    {
+      "code": 1807102004,
+      "name": "Purbosembodo"
+    },
+    {
+      "code": 1807102005,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1807102006,
+      "name": "Margasari"
+    },
+    {
+      "code": 1807102007,
+      "name": "Jaya Asri"
+    }
+  ]
+}

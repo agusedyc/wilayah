@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9604142001,
+      "name": "Bamusbama"
+    },
+    {
+      "code": 9604142002,
+      "name": "Bamuswaiman"
+    },
+    {
+      "code": 9604142003,
+      "name": "Syarwom"
+    },
+    {
+      "code": 9604142004,
+      "name": "Babak"
+    },
+    {
+      "code": 9604142005,
+      "name": "Bano"
+    },
+    {
+      "code": 9604142006,
+      "name": "Wormon"
+    }
+  ]
+}

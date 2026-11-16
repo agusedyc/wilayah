@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1703202001,
+      "name": "Padang Kala"
+    },
+    {
+      "code": 1703202002,
+      "name": "Kembang Manis"
+    },
+    {
+      "code": 1703202003,
+      "name": "Teluk Ajang"
+    },
+    {
+      "code": 1703202004,
+      "name": "Balam"
+    },
+    {
+      "code": 1703202005,
+      "name": "Suka Rami"
+    },
+    {
+      "code": 1703202006,
+      "name": "Mesigit"
+    },
+    {
+      "code": 1703202007,
+      "name": "Retes"
+    },
+    {
+      "code": 1703202008,
+      "name": "Lubuk Mumpo"
+    },
+    {
+      "code": 1703202009,
+      "name": "Talang Ulu"
+    },
+    {
+      "code": 1703202010,
+      "name": "Tanjung Aur"
+    }
+  ]
+}

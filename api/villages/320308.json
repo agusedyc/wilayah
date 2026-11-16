@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3203082001,
+      "name": "Kademangan"
+    },
+    {
+      "code": 3203082002,
+      "name": "Bobojong"
+    },
+    {
+      "code": 3203082003,
+      "name": "Jamali"
+    },
+    {
+      "code": 3203082004,
+      "name": "Cikidangbayabang"
+    },
+    {
+      "code": 3203082005,
+      "name": "Mande"
+    },
+    {
+      "code": 3203082006,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3203082007,
+      "name": "Ciandam"
+    },
+    {
+      "code": 3203082008,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3203082009,
+      "name": "Leuwikoja"
+    },
+    {
+      "code": 3203082010,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3203082011,
+      "name": "Kutawaringin"
+    },
+    {
+      "code": 3203082012,
+      "name": "Murnisari"
+    }
+  ]
+}

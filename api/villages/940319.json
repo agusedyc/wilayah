@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9403192001,
+      "name": "Nomouwodide"
+    },
+    {
+      "code": 9403192002,
+      "name": "Pikokebo"
+    },
+    {
+      "code": 9403192003,
+      "name": "Baya Biru"
+    },
+    {
+      "code": 9403192004,
+      "name": "Jigitopa Timur"
+    },
+    {
+      "code": 9403192005,
+      "name": "Maatadi"
+    },
+    {
+      "code": 9403192006,
+      "name": "Pupekebo"
+    }
+  ]
+}

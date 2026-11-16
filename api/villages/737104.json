@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7371041001,
+      "name": "Maloku"
+    },
+    {
+      "code": 7371041002,
+      "name": "Mangkura"
+    },
+    {
+      "code": 7371041003,
+      "name": "Pisang Selatan"
+    },
+    {
+      "code": 7371041004,
+      "name": "Pisang Utara"
+    },
+    {
+      "code": 7371041005,
+      "name": "Baru"
+    },
+    {
+      "code": 7371041006,
+      "name": "Bulogading"
+    },
+    {
+      "code": 7371041007,
+      "name": "Lae-Lae"
+    },
+    {
+      "code": 7371041008,
+      "name": "Losari"
+    },
+    {
+      "code": 7371041009,
+      "name": "Sawerigading"
+    },
+    {
+      "code": 7371041010,
+      "name": "Lajangiru"
+    }
+  ]
+}

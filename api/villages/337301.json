@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3373011001,
+      "name": "Blotongan"
+    },
+    {
+      "code": 3373011002,
+      "name": "Sidorejo Lor"
+    },
+    {
+      "code": 3373011003,
+      "name": "Salatiga"
+    },
+    {
+      "code": 3373011004,
+      "name": "Bugel"
+    },
+    {
+      "code": 3373011005,
+      "name": "Kauman Kidul"
+    },
+    {
+      "code": 3373011006,
+      "name": "Pulutan"
+    }
+  ]
+}

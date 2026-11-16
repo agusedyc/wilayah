@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3323162001,
+      "name": "Bansari"
+    },
+    {
+      "code": 3323162002,
+      "name": "Mojosari"
+    },
+    {
+      "code": 3323162003,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3323162004,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3323162005,
+      "name": "Balesari"
+    },
+    {
+      "code": 3323162006,
+      "name": "Purborejo"
+    },
+    {
+      "code": 3323162007,
+      "name": "Tlogowero"
+    },
+    {
+      "code": 3323162008,
+      "name": "Mranggen Kidul"
+    },
+    {
+      "code": 3323162009,
+      "name": "Mranggen Tengah"
+    },
+    {
+      "code": 3323162010,
+      "name": "Candisari"
+    },
+    {
+      "code": 3323162011,
+      "name": "Campuranom"
+    },
+    {
+      "code": 3323162012,
+      "name": "Gentingsari"
+    },
+    {
+      "code": 3323162013,
+      "name": "Tanurejo"
+    }
+  ]
+}

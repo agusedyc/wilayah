@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3201222001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3201222002,
+      "name": "Cigudeg"
+    },
+    {
+      "code": 3201222003,
+      "name": "Bunar"
+    },
+    {
+      "code": 3201222004,
+      "name": "Banyuresmi"
+    },
+    {
+      "code": 3201222005,
+      "name": "Cintamanik"
+    },
+    {
+      "code": 3201222006,
+      "name": "Argapura"
+    },
+    {
+      "code": 3201222007,
+      "name": "Bangunjaya"
+    },
+    {
+      "code": 3201222008,
+      "name": "Rengasjajar"
+    },
+    {
+      "code": 3201222009,
+      "name": "Batujajar"
+    },
+    {
+      "code": 3201222010,
+      "name": "Wargajaya"
+    },
+    {
+      "code": 3201222011,
+      "name": "Sukaraksa"
+    },
+    {
+      "code": 3201222012,
+      "name": "Banyuwangi"
+    },
+    {
+      "code": 3201222013,
+      "name": "Banyuasih"
+    },
+    {
+      "code": 3201222014,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3201222015,
+      "name": "Tegallega"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1671011001,
+      "name": "Tiga-puluh-lima Ilir"
+    },
+    {
+      "code": 1671011002,
+      "name": "Tiga-puluh-dua Ilir"
+    },
+    {
+      "code": 1671011003,
+      "name": "Tiga-puluh Ilir"
+    },
+    {
+      "code": 1671011004,
+      "name": "Dua-puluh-sembilan Ilir"
+    },
+    {
+      "code": 1671011005,
+      "name": "Dua-puluh-delapan Ilir"
+    },
+    {
+      "code": 1671011006,
+      "name": "Dua-puluh-tujuh Ilir"
+    },
+    {
+      "code": 1671011007,
+      "name": "Kemangmanis"
+    }
+  ]
+}

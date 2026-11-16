@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3204312001,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3204312002,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3204312003,
+      "name": "Santosa"
+    },
+    {
+      "code": 3204312004,
+      "name": "Tarumajaya"
+    },
+    {
+      "code": 3204312005,
+      "name": "Neglawangi"
+    },
+    {
+      "code": 3204312006,
+      "name": "Cihawuk"
+    },
+    {
+      "code": 3204312007,
+      "name": "Cikembang"
+    },
+    {
+      "code": 3204312008,
+      "name": "Resmi Tingal"
+    }
+  ]
+}

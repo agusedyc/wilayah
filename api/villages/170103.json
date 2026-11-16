@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1701031018,
+      "name": "Masat"
+    },
+    {
+      "code": 1701032001,
+      "name": "Tanjung Aur I"
+    },
+    {
+      "code": 1701032002,
+      "name": "Anggut"
+    },
+    {
+      "code": 1701032003,
+      "name": "Tanjung Eran"
+    },
+    {
+      "code": 1701032004,
+      "name": "Padang Lebar"
+    },
+    {
+      "code": 1701032005,
+      "name": "Gedung Agung"
+    },
+    {
+      "code": 1701032015,
+      "name": "Batu Bandung"
+    },
+    {
+      "code": 1701032016,
+      "name": "Ulak Lebar"
+    },
+    {
+      "code": 1701032017,
+      "name": "Kota Bumi"
+    },
+    {
+      "code": 1701032019,
+      "name": "Air Umban"
+    },
+    {
+      "code": 1701032020,
+      "name": "Sebilo"
+    },
+    {
+      "code": 1701032021,
+      "name": "Ganjuh"
+    },
+    {
+      "code": 1701032022,
+      "name": "Puding"
+    },
+    {
+      "code": 1701032023,
+      "name": "Padang Tambak"
+    },
+    {
+      "code": 1701032024,
+      "name": "Padang Mumpo"
+    },
+    {
+      "code": 1701032025,
+      "name": "Beringin Datar"
+    }
+  ]
+}

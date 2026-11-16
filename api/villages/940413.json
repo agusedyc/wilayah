@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9404131001,
+      "name": "Harapan"
+    },
+    {
+      "code": 9404132002,
+      "name": "Meekurima"
+    },
+    {
+      "code": 9404132003,
+      "name": "Landun Mekar"
+    },
+    {
+      "code": 9404132004,
+      "name": "Olaroa"
+    },
+    {
+      "code": 9404132005,
+      "name": "Bintang Lima"
+    },
+    {
+      "code": 9404132006,
+      "name": "Damai"
+    },
+    {
+      "code": 9404132007,
+      "name": "Walani"
+    },
+    {
+      "code": 9404132008,
+      "name": "Amole"
+    },
+    {
+      "code": 9404132009,
+      "name": "Lamopi"
+    },
+    {
+      "code": 9404132010,
+      "name": "Tunas Matoa"
+    }
+  ]
+}

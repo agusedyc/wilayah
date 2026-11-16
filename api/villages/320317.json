@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3203172003,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3203172006,
+      "name": "Pasirdalem"
+    },
+    {
+      "code": 3203172008,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3203172009,
+      "name": "Bojongkasih"
+    },
+    {
+      "code": 3203172010,
+      "name": "Wargaasih"
+    },
+    {
+      "code": 3203172011,
+      "name": "Sukaraharja"
+    },
+    {
+      "code": 3203172014,
+      "name": "Sukakerta"
+    },
+    {
+      "code": 3203172016,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3203172017,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3203172019,
+      "name": "Wargasari"
+    },
+    {
+      "code": 3203172020,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3203172021,
+      "name": "Kadupandak"
+    },
+    {
+      "code": 3203172022,
+      "name": "Gandasari"
+    },
+    {
+      "code": 3203172023,
+      "name": "Sindangsari"
+    }
+  ]
+}

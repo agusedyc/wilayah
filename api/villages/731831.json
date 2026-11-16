@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7318312001,
+      "name": "Ratte"
+    },
+    {
+      "code": 7318312002,
+      "name": "Paliorong"
+    },
+    {
+      "code": 7318312003,
+      "name": "Kadundung"
+    },
+    {
+      "code": 7318312004,
+      "name": "Pondingao'"
+    },
+    {
+      "code": 7318312005,
+      "name": "Belau"
+    },
+    {
+      "code": 7318312006,
+      "name": "Belau Utara"
+    },
+    {
+      "code": 7318312007,
+      "name": "Paku"
+    },
+    {
+      "code": 7318312008,
+      "name": "Sesesalu"
+    }
+  ]
+}

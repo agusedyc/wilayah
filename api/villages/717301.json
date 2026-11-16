@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7173011001,
+      "name": "Pinaras"
+    },
+    {
+      "code": 7173011002,
+      "name": "Lahendong"
+    },
+    {
+      "code": 7173011003,
+      "name": "Tondangow"
+    },
+    {
+      "code": 7173011004,
+      "name": "Pangolombian"
+    },
+    {
+      "code": 7173011005,
+      "name": "Tumatangtang"
+    },
+    {
+      "code": 7173011006,
+      "name": "Kampung Jawa"
+    },
+    {
+      "code": 7173011007,
+      "name": "Lansot"
+    },
+    {
+      "code": 7173011008,
+      "name": "Walian"
+    },
+    {
+      "code": 7173011009,
+      "name": "Uluindano"
+    },
+    {
+      "code": 7173011010,
+      "name": "Walian Satu"
+    },
+    {
+      "code": 7173011011,
+      "name": "Walian Dua"
+    },
+    {
+      "code": 7173011012,
+      "name": "Tumatangtang Satu"
+    }
+  ]
+}

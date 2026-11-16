@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1101032001,
+      "name": "Suaq Bakung"
+    },
+    {
+      "code": 1101032002,
+      "name": "Rantau Binuang"
+    },
+    {
+      "code": 1101032003,
+      "name": "Barat Daya"
+    },
+    {
+      "code": 1101032004,
+      "name": "Sialang"
+    },
+    {
+      "code": 1101032005,
+      "name": "Kapeh"
+    },
+    {
+      "code": 1101032006,
+      "name": "Pulo Ie"
+    },
+    {
+      "code": 1101032007,
+      "name": "Kedai Runding"
+    },
+    {
+      "code": 1101032008,
+      "name": "Kedai Kandang"
+    },
+    {
+      "code": 1101032009,
+      "name": "Gampong Luar"
+    },
+    {
+      "code": 1101032010,
+      "name": "Ujung"
+    },
+    {
+      "code": 1101032011,
+      "name": "Jua"
+    },
+    {
+      "code": 1101032012,
+      "name": "Pasi Meurapat"
+    },
+    {
+      "code": 1101032013,
+      "name": "Ujung Pasir"
+    },
+    {
+      "code": 1101032014,
+      "name": "Geulumbuk"
+    },
+    {
+      "code": 1101032015,
+      "name": "Pasie Lembang"
+    },
+    {
+      "code": 1101032016,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1101032017,
+      "name": "Indra Damai"
+    }
+  ]
+}

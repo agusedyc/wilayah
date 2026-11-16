@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1702232001,
+      "name": "Merantau"
+    },
+    {
+      "code": 1702232002,
+      "name": "Periang"
+    },
+    {
+      "code": 1702232003,
+      "name": "Balai Buntar"
+    },
+    {
+      "code": 1702232004,
+      "name": "LubukTunjung"
+    },
+    {
+      "code": 1702232005,
+      "name": "LB. Belimbing I"
+    },
+    {
+      "code": 1702232006,
+      "name": "LB Belimbing II"
+    },
+    {
+      "code": 1702232007,
+      "name": "LB. Bingin Baru"
+    },
+    {
+      "code": 1702232008,
+      "name": "Sari Pulau"
+    },
+    {
+      "code": 1702232009,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1702232010,
+      "name": "Suka karya"
+    }
+  ]
+}

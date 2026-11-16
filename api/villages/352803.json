@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3528032001,
+      "name": "Tobungan"
+    },
+    {
+      "code": 3528032002,
+      "name": "Konang"
+    },
+    {
+      "code": 3528032003,
+      "name": "Pandan"
+    },
+    {
+      "code": 3528032004,
+      "name": "Lembung"
+    },
+    {
+      "code": 3528032005,
+      "name": "Galis"
+    },
+    {
+      "code": 3528032006,
+      "name": "Bulay"
+    },
+    {
+      "code": 3528032007,
+      "name": "Pagendingan"
+    },
+    {
+      "code": 3528032008,
+      "name": "Ponteh"
+    },
+    {
+      "code": 3528032009,
+      "name": "Polagan"
+    },
+    {
+      "code": 3528032010,
+      "name": "Artodung"
+    }
+  ]
+}

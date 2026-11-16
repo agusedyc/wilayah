@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3307031008,
+      "name": "Sapuran"
+    },
+    {
+      "code": 3307032001,
+      "name": "Bogoran"
+    },
+    {
+      "code": 3307032002,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3307032003,
+      "name": "Pecekelan"
+    },
+    {
+      "code": 3307032004,
+      "name": "Glagah"
+    },
+    {
+      "code": 3307032005,
+      "name": "Surojoyo"
+    },
+    {
+      "code": 3307032006,
+      "name": "Talunombo"
+    },
+    {
+      "code": 3307032007,
+      "name": "Tempursari"
+    },
+    {
+      "code": 3307032009,
+      "name": "Jolontoro"
+    },
+    {
+      "code": 3307032010,
+      "name": "Sedayu"
+    },
+    {
+      "code": 3307032011,
+      "name": "Ngadisalam"
+    },
+    {
+      "code": 3307032012,
+      "name": "Tempuranduwur"
+    },
+    {
+      "code": 3307032013,
+      "name": "Marongsari"
+    },
+    {
+      "code": 3307032014,
+      "name": "Batursari"
+    },
+    {
+      "code": 3307032015,
+      "name": "Banyumudal"
+    },
+    {
+      "code": 3307032016,
+      "name": "Ngadikerso"
+    },
+    {
+      "code": 3307032017,
+      "name": "Rimpak"
+    }
+  ]
+}

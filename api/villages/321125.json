@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3211252001,
+      "name": "Ujungjaya"
+    },
+    {
+      "code": 3211252002,
+      "name": "Palabuan"
+    },
+    {
+      "code": 3211252003,
+      "name": "Palasari"
+    },
+    {
+      "code": 3211252004,
+      "name": "Keboncau"
+    },
+    {
+      "code": 3211252005,
+      "name": "Sakurjaya"
+    },
+    {
+      "code": 3211252006,
+      "name": "Kudangwangi"
+    },
+    {
+      "code": 3211252007,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3211252008,
+      "name": "Cipelang"
+    },
+    {
+      "code": 3211252009,
+      "name": "Cibuluh"
+    }
+  ]
+}

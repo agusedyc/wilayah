@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1110162001,
+      "name": "Haloban"
+    },
+    {
+      "code": 1110162002,
+      "name": "Asantola"
+    },
+    {
+      "code": 1110162003,
+      "name": "Ujung Sialit"
+    },
+    {
+      "code": 1110162004,
+      "name": "Suka Makmur"
+    }
+  ]
+}

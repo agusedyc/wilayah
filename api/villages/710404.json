@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7104042006,
+      "name": "Essang"
+    },
+    {
+      "code": 7104042007,
+      "name": "Lalue"
+    },
+    {
+      "code": 7104042008,
+      "name": "Bulude"
+    },
+    {
+      "code": 7104042016,
+      "name": "Maririk"
+    },
+    {
+      "code": 7104042018,
+      "name": "Essang Selatan"
+    },
+    {
+      "code": 7104042019,
+      "name": "Bulude Selatan"
+    },
+    {
+      "code": 7104042020,
+      "name": "Lalue Tengah"
+    },
+    {
+      "code": 7104042021,
+      "name": "Lalue Utara"
+    }
+  ]
+}

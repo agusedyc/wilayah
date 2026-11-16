@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6310122001,
+      "name": "Teluk Kepayang"
+    },
+    {
+      "code": 6310122002,
+      "name": "Guntung"
+    },
+    {
+      "code": 6310122003,
+      "name": "Mangkalapi"
+    },
+    {
+      "code": 6310122004,
+      "name": "Tibarau Panjang"
+    },
+    {
+      "code": 6310122005,
+      "name": "Darasan Binjai"
+    },
+    {
+      "code": 6310122006,
+      "name": "Tapus"
+    },
+    {
+      "code": 6310122007,
+      "name": "Hati'if"
+    },
+    {
+      "code": 6310122008,
+      "name": "Batu Bulan"
+    },
+    {
+      "code": 6310122009,
+      "name": "Tamunih"
+    },
+    {
+      "code": 6310122010,
+      "name": "Dadap Kusan Raya"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1706021009,
+      "name": "Pasar Mukomuko"
+    },
+    {
+      "code": 1706021017,
+      "name": "Koto Jaya"
+    },
+    {
+      "code": 1706021018,
+      "name": "Bandar Ratu"
+    },
+    {
+      "code": 1706022007,
+      "name": "Pasar Sebelah"
+    },
+    {
+      "code": 1706022008,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1706022010,
+      "name": "Pondok Batu"
+    },
+    {
+      "code": 1706022011,
+      "name": "Tanah Rekah"
+    },
+    {
+      "code": 1706022012,
+      "name": "Selagan Jaya"
+    },
+    {
+      "code": 1706022019,
+      "name": "Tanah Harapan"
+    }
+  ]
+}

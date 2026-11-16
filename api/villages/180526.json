@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1805262001,
+      "name": "Bangun Rejo"
+    },
+    {
+      "code": 1805262002,
+      "name": "Paduan Rajawali"
+    },
+    {
+      "code": 1805262003,
+      "name": "Karya Bhakti"
+    },
+    {
+      "code": 1805262004,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1805262005,
+      "name": "Bina Bumi"
+    },
+    {
+      "code": 1805262006,
+      "name": "Mulyo Aji"
+    },
+    {
+      "code": 1805262007,
+      "name": "Kecubung Raya"
+    },
+    {
+      "code": 1805262008,
+      "name": "Marga Jaya"
+    }
+  ]
+}

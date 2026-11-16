@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9601011001,
+      "name": "Makbon"
+    },
+    {
+      "code": 9601012002,
+      "name": "Asbaken"
+    },
+    {
+      "code": 9601012003,
+      "name": "Malaumkarta"
+    },
+    {
+      "code": 9601012004,
+      "name": "Batu Lubang"
+    },
+    {
+      "code": 9601012005,
+      "name": "Batu Lubang Pantai"
+    },
+    {
+      "code": 9601012006,
+      "name": "Kwadas"
+    },
+    {
+      "code": 9601012007,
+      "name": "Bainkete"
+    },
+    {
+      "code": 9601012008,
+      "name": "Teluk Dore"
+    },
+    {
+      "code": 9601012009,
+      "name": "Sawatuk"
+    },
+    {
+      "code": 9601012010,
+      "name": "Malagasih"
+    },
+    {
+      "code": 9601012011,
+      "name": "Klasimigik"
+    },
+    {
+      "code": 9601012012,
+      "name": "Klasigi"
+    },
+    {
+      "code": 9601012013,
+      "name": "Klagulus"
+    },
+    {
+      "code": 9601012014,
+      "name": "Suatolo"
+    },
+    {
+      "code": 9601012015,
+      "name": "Mibi"
+    }
+  ]
+}

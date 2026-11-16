@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5108032001,
+      "name": "Sepang"
+    },
+    {
+      "code": 5108032002,
+      "name": "Dapdap Putih"
+    },
+    {
+      "code": 5108032003,
+      "name": "Bongancina"
+    },
+    {
+      "code": 5108032004,
+      "name": "Pucaksari"
+    },
+    {
+      "code": 5108032005,
+      "name": "Telaga"
+    },
+    {
+      "code": 5108032006,
+      "name": "Titab"
+    },
+    {
+      "code": 5108032007,
+      "name": "Subuk"
+    },
+    {
+      "code": 5108032008,
+      "name": "Tinggarsari"
+    },
+    {
+      "code": 5108032009,
+      "name": "Kedis"
+    },
+    {
+      "code": 5108032010,
+      "name": "Kekeran"
+    },
+    {
+      "code": 5108032011,
+      "name": "Busungbiu"
+    },
+    {
+      "code": 5108032012,
+      "name": "Pelapuan"
+    },
+    {
+      "code": 5108032013,
+      "name": "Bengkel"
+    },
+    {
+      "code": 5108032014,
+      "name": "Umejero"
+    },
+    {
+      "code": 5108032015,
+      "name": "Sepang Kelod"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 8105042001,
+      "name": "Kataloka"
+    },
+    {
+      "code": 8105042003,
+      "name": "Amarsekaru"
+    },
+    {
+      "code": 8105042004,
+      "name": "Ondor"
+    },
+    {
+      "code": 8105042005,
+      "name": "Day"
+    },
+    {
+      "code": 8105042006,
+      "name": "Mida"
+    },
+    {
+      "code": 8105042021,
+      "name": "Loko"
+    },
+    {
+      "code": 8105042022,
+      "name": "Sera"
+    },
+    {
+      "code": 8105042023,
+      "name": "Kulugowa"
+    },
+    {
+      "code": 8105042024,
+      "name": "Rumeon"
+    },
+    {
+      "code": 8105042031,
+      "name": "Kelibingan"
+    },
+    {
+      "code": 8105042032,
+      "name": "Ilili"
+    },
+    {
+      "code": 8105042042,
+      "name": "Namalean"
+    },
+    {
+      "code": 8105042043,
+      "name": "Dulak"
+    },
+    {
+      "code": 8105042044,
+      "name": "Kilalir Kilwouw"
+    },
+    {
+      "code": 8105042045,
+      "name": "Kilotak"
+    },
+    {
+      "code": 8105042046,
+      "name": "Kilean"
+    },
+    {
+      "code": 8105042047,
+      "name": "Kaforing"
+    },
+    {
+      "code": 8105042048,
+      "name": "Arewang"
+    },
+    {
+      "code": 8105042049,
+      "name": "Usun Kataloka"
+    },
+    {
+      "code": 8105042050,
+      "name": "Buan Kataloka"
+    },
+    {
+      "code": 8105042051,
+      "name": "Rumanama Kotawouw Kataloka"
+    },
+    {
+      "code": 8105042052,
+      "name": "Sikaro Kataloka"
+    },
+    {
+      "code": 8105042053,
+      "name": "Aroa Kataloka"
+    },
+    {
+      "code": 8105042054,
+      "name": "Dada Kataloka"
+    }
+  ]
+}

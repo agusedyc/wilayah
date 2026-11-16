@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6103072001,
+      "name": "Balai Karangan"
+    },
+    {
+      "code": 6103072002,
+      "name": "Pengadang"
+    },
+    {
+      "code": 6103072003,
+      "name": "Sotok"
+    },
+    {
+      "code": 6103072004,
+      "name": "Kenaman"
+    },
+    {
+      "code": 6103072005,
+      "name": "Raut Muara"
+    },
+    {
+      "code": 6103072006,
+      "name": "Engkahan"
+    },
+    {
+      "code": 6103072007,
+      "name": "Bungkang"
+    },
+    {
+      "code": 6103072008,
+      "name": "Lubuk Sabuk"
+    },
+    {
+      "code": 6103072009,
+      "name": "Sungai Tekam"
+    },
+    {
+      "code": 6103072010,
+      "name": "Malenggang"
+    }
+  ]
+}

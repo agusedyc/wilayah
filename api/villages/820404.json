@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8204042016,
+      "name": "Doro"
+    },
+    {
+      "code": 8204042017,
+      "name": "Koititi"
+    },
+    {
+      "code": 8204042018,
+      "name": "Cango"
+    },
+    {
+      "code": 8204042019,
+      "name": "Saketa"
+    },
+    {
+      "code": 8204042020,
+      "name": "Balitata"
+    },
+    {
+      "code": 8204042021,
+      "name": "Oha"
+    },
+    {
+      "code": 8204042022,
+      "name": "Papaceda"
+    },
+    {
+      "code": 8204042023,
+      "name": "Lemo Lemo"
+    },
+    {
+      "code": 8204042029,
+      "name": "Bumi Rahmat"
+    },
+    {
+      "code": 8204042036,
+      "name": "Tabamasa"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 2103232001,
+      "name": "Pulau Panjang"
+    },
+    {
+      "code": 2103232002,
+      "name": "Pulau Kerdau"
+    }
+  ]
+}

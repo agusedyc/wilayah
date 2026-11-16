@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273251001,
+      "name": "Palasari"
+    },
+    {
+      "code": 3273251002,
+      "name": "Cipadung"
+    },
+    {
+      "code": 3273251003,
+      "name": "Pasir Biru"
+    },
+    {
+      "code": 3273251004,
+      "name": "Cisurupan"
+    }
+  ]
+}

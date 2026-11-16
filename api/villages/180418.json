@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804182001,
+      "name": "Pura Jaya"
+    },
+    {
+      "code": 1804182002,
+      "name": "Pura Wiwitan"
+    },
+    {
+      "code": 1804182003,
+      "name": "Tribudi Syukur"
+    },
+    {
+      "code": 1804182004,
+      "name": "Muara Jaya I"
+    },
+    {
+      "code": 1804182005,
+      "name": "Muara Jaya II"
+    },
+    {
+      "code": 1804182006,
+      "name": "Tri Budi Makmur"
+    },
+    {
+      "code": 1804182007,
+      "name": "Tugu Mulya"
+    },
+    {
+      "code": 1804182008,
+      "name": "Cipta Mulya"
+    },
+    {
+      "code": 1804182009,
+      "name": "Muara Baru"
+    },
+    {
+      "code": 1804182010,
+      "name": "Sinar Luas"
+    }
+  ]
+}

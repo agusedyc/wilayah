@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1312032003,
+      "name": "Lingkuang Aua"
+    },
+    {
+      "code": 1312032004,
+      "name": "Aua Kuniang"
+    },
+    {
+      "code": 1312032006,
+      "name": "Aia Gadang"
+    },
+    {
+      "code": 1312032007,
+      "name": "Lingkuang Aua Timur"
+    },
+    {
+      "code": 1312032008,
+      "name": "Lingkuang Aua Baru"
+    },
+    {
+      "code": 1312032009,
+      "name": "Lingkuang Aua Bandarajo"
+    },
+    {
+      "code": 1312032010,
+      "name": "Lingkuang Aua Jambak"
+    },
+    {
+      "code": 1312032011,
+      "name": "Lingkuang Aua Koto Dalam"
+    },
+    {
+      "code": 1312032012,
+      "name": "Lingkuang Aua Barat"
+    },
+    {
+      "code": 1312032013,
+      "name": "Lingkuang Aua Hilia"
+    },
+    {
+      "code": 1312032014,
+      "name": "Sukomananti Aua Kuniang"
+    },
+    {
+      "code": 1312032015,
+      "name": "Aia Gadang Timur"
+    },
+    {
+      "code": 1312032016,
+      "name": "Aia Gadang Barat"
+    },
+    {
+      "code": 1312032017,
+      "name": "Pinaga Aua Kuniang"
+    },
+    {
+      "code": 1312032018,
+      "name": "Lubuak Landua Aua Kuniang"
+    },
+    {
+      "code": 1312032019,
+      "name": "Lembah Binuang Aua Kuniang"
+    }
+  ]
+}

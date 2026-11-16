@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7407031001,
+      "name": "Waha"
+    },
+    {
+      "code": 7407031016,
+      "name": "Onemay"
+    },
+    {
+      "code": 7407032002,
+      "name": "Waitii Barat"
+    },
+    {
+      "code": 7407032003,
+      "name": "Lamanggau"
+    },
+    {
+      "code": 7407032004,
+      "name": "Waiti"
+    },
+    {
+      "code": 7407032012,
+      "name": "Runduma"
+    },
+    {
+      "code": 7407032015,
+      "name": "Patua"
+    },
+    {
+      "code": 7407032017,
+      "name": "Teemoane"
+    },
+    {
+      "code": 7407032018,
+      "name": "Kollo Soha"
+    },
+    {
+      "code": 7407032019,
+      "name": "Patua II"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8104112001,
+      "name": "Kubalahin"
+    },
+    {
+      "code": 8104112002,
+      "name": "Waegeren"
+    },
+    {
+      "code": 8104112003,
+      "name": "Grandeng"
+    },
+    {
+      "code": 8104112004,
+      "name": "Lele"
+    },
+    {
+      "code": 8104112005,
+      "name": "Wanakarta"
+    },
+    {
+      "code": 8104112006,
+      "name": "Wabloy"
+    },
+    {
+      "code": 8104112007,
+      "name": "Ohilahin"
+    },
+    {
+      "code": 8104112008,
+      "name": "Tifu"
+    },
+    {
+      "code": 8104112009,
+      "name": "Wapsalit"
+    },
+    {
+      "code": 8104112010,
+      "name": "Nafrua"
+    }
+  ]
+}

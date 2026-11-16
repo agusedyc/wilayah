@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5206052001,
+      "name": "Tarlawi"
+    },
+    {
+      "code": 5206052005,
+      "name": "Ntori"
+    },
+    {
+      "code": 5206052006,
+      "name": "Maria"
+    },
+    {
+      "code": 5206052007,
+      "name": "Pesa"
+    },
+    {
+      "code": 5206052008,
+      "name": "Raba"
+    },
+    {
+      "code": 5206052011,
+      "name": "Kambilo"
+    },
+    {
+      "code": 5206052012,
+      "name": "Maria Utara"
+    },
+    {
+      "code": 5206052013,
+      "name": "Kombo"
+    },
+    {
+      "code": 5206052014,
+      "name": "Riamau"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5303081029,
+      "name": "Bitauni"
+    },
+    {
+      "code": 5303082005,
+      "name": "Nansean"
+    },
+    {
+      "code": 5303082006,
+      "name": "Susulaku"
+    },
+    {
+      "code": 5303082007,
+      "name": "Loeram"
+    },
+    {
+      "code": 5303082008,
+      "name": "Manunain B"
+    },
+    {
+      "code": 5303082010,
+      "name": "Tapenpah"
+    },
+    {
+      "code": 5303082011,
+      "name": "Sekon"
+    },
+    {
+      "code": 5303082015,
+      "name": "Ainiut"
+    },
+    {
+      "code": 5303082016,
+      "name": "Nunmafo"
+    },
+    {
+      "code": 5303082017,
+      "name": "Oenbit"
+    },
+    {
+      "code": 5303082018,
+      "name": "Manunain A"
+    },
+    {
+      "code": 5303082022,
+      "name": "Susulaku B"
+    },
+    {
+      "code": 5303082024,
+      "name": "Fatoin"
+    },
+    {
+      "code": 5303082025,
+      "name": "Keun"
+    },
+    {
+      "code": 5303082026,
+      "name": "Fatu'Ana"
+    },
+    {
+      "code": 5303082027,
+      "name": "Botof"
+    },
+    {
+      "code": 5303082028,
+      "name": "Nansean Timur"
+    }
+  ]
+}

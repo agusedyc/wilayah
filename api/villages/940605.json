@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9406052001,
+      "name": "Unito"
+    },
+    {
+      "code": 9406052002,
+      "name": "Sukikai"
+    },
+    {
+      "code": 9406052003,
+      "name": "Iyaro"
+    },
+    {
+      "code": 9406052004,
+      "name": "Wigoumakida"
+    }
+  ]
+}

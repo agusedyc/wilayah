@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1802262001,
+      "name": "Gaya Baru V"
+    },
+    {
+      "code": 1802262002,
+      "name": "Surabaya Ilir"
+    },
+    {
+      "code": 1802262003,
+      "name": "Rajawali"
+    },
+    {
+      "code": 1802262004,
+      "name": "Cempaka Putih"
+    },
+    {
+      "code": 1802262005,
+      "name": "Subang Jaya"
+    },
+    {
+      "code": 1802262006,
+      "name": "Cabang"
+    },
+    {
+      "code": 1802262007,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 1802262008,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1802262009,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1802262010,
+      "name": "Surabaya Baru"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1606152001,
+      "name": "Jirak"
+    },
+    {
+      "code": 1606152002,
+      "name": "Rukun Rahayu"
+    },
+    {
+      "code": 1606152003,
+      "name": "Talang Simpang"
+    },
+    {
+      "code": 1606152004,
+      "name": "Jembatan Gantung"
+    },
+    {
+      "code": 1606152005,
+      "name": "Talang Mandung"
+    },
+    {
+      "code": 1606152006,
+      "name": "Rejosari"
+    },
+    {
+      "code": 1606152007,
+      "name": "Bangkit Jaya"
+    },
+    {
+      "code": 1606152008,
+      "name": "Baru Jaya"
+    },
+    {
+      "code": 1606152009,
+      "name": "Sinar Jaya"
+    },
+    {
+      "code": 1606152010,
+      "name": "Setia Jaya"
+    },
+    {
+      "code": 1606152011,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1606152012,
+      "name": "Layan"
+    }
+  ]
+}

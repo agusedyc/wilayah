@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7411021001,
+      "name": "Loea"
+    },
+    {
+      "code": 7411021002,
+      "name": "Simbalae"
+    },
+    {
+      "code": 7411022003,
+      "name": "Lamoare"
+    },
+    {
+      "code": 7411022004,
+      "name": "Iwoikondo"
+    },
+    {
+      "code": 7411022005,
+      "name": "Peatoa"
+    },
+    {
+      "code": 7411022006,
+      "name": "Lalowura"
+    },
+    {
+      "code": 7411022007,
+      "name": "Mataiwoi"
+    },
+    {
+      "code": 7411022008,
+      "name": "Teposua"
+    },
+    {
+      "code": 7411022009,
+      "name": "Tinomu"
+    }
+  ]
+}

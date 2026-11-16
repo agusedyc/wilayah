@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3321092001,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3321092002,
+      "name": "Ngaluran"
+    },
+    {
+      "code": 3321092003,
+      "name": "Wonoketingal"
+    },
+    {
+      "code": 3321092004,
+      "name": "Cangkringrembang"
+    },
+    {
+      "code": 3321092005,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3321092006,
+      "name": "Tuwang"
+    },
+    {
+      "code": 3321092007,
+      "name": "Undaan Kidul"
+    },
+    {
+      "code": 3321092008,
+      "name": "Undaan Lor"
+    },
+    {
+      "code": 3321092009,
+      "name": "Ketanjung"
+    },
+    {
+      "code": 3321092010,
+      "name": "Ngemplikwetan"
+    },
+    {
+      "code": 3321092011,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3321092012,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3321092013,
+      "name": "Kedungwaru Kidul"
+    },
+    {
+      "code": 3321092014,
+      "name": "Kedungwaru Lor"
+    },
+    {
+      "code": 3321092015,
+      "name": "Bandungrejo"
+    },
+    {
+      "code": 3321092016,
+      "name": "Tugu Lor"
+    },
+    {
+      "code": 3321092017,
+      "name": "Kotakan"
+    }
+  ]
+}

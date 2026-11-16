@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213122007,
+      "name": "Curugrendeng"
+    },
+    {
+      "code": 3213122008,
+      "name": "Tambakan"
+    },
+    {
+      "code": 3213122009,
+      "name": "Bunihayu"
+    },
+    {
+      "code": 3213122011,
+      "name": "Kumpay"
+    },
+    {
+      "code": 3213122012,
+      "name": "Sarireja"
+    },
+    {
+      "code": 3213122014,
+      "name": "Tambakmekar"
+    },
+    {
+      "code": 3213122017,
+      "name": "Jalancagak"
+    }
+  ]
+}

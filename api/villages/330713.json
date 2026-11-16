@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3307131008,
+      "name": "Kejajar"
+    },
+    {
+      "code": 3307132001,
+      "name": "Campursari"
+    },
+    {
+      "code": 3307132002,
+      "name": "Sikunang"
+    },
+    {
+      "code": 3307132003,
+      "name": "Sembungan"
+    },
+    {
+      "code": 3307132004,
+      "name": "Kreo"
+    },
+    {
+      "code": 3307132005,
+      "name": "Tambi"
+    },
+    {
+      "code": 3307132006,
+      "name": "Buntu"
+    },
+    {
+      "code": 3307132007,
+      "name": "Sigedang"
+    },
+    {
+      "code": 3307132009,
+      "name": "Serang"
+    },
+    {
+      "code": 3307132010,
+      "name": "Tieng"
+    },
+    {
+      "code": 3307132011,
+      "name": "Parikesit"
+    },
+    {
+      "code": 3307132012,
+      "name": "Jojogan"
+    },
+    {
+      "code": 3307132013,
+      "name": "Dieng"
+    },
+    {
+      "code": 3307132014,
+      "name": "Patakbanteng"
+    },
+    {
+      "code": 3307132015,
+      "name": "Surengede"
+    },
+    {
+      "code": 3307132016,
+      "name": "Igirmranak"
+    }
+  ]
+}

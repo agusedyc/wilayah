@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603192001,
+      "name": "Yensawai Timur"
+    },
+    {
+      "code": 9603192002,
+      "name": "Yensawai Barat"
+    },
+    {
+      "code": 9603192003,
+      "name": "Arefi Timur"
+    },
+    {
+      "code": 9603192004,
+      "name": "Arefi Selatan"
+    }
+  ]
+}

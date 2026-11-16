@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6204021003,
+      "name": "Mengkatip"
+    },
+    {
+      "code": 6204022001,
+      "name": "Sungai Jaya"
+    },
+    {
+      "code": 6204022002,
+      "name": "Mahajandau"
+    },
+    {
+      "code": 6204022004,
+      "name": "Kalanis"
+    },
+    {
+      "code": 6204022005,
+      "name": "Lehai"
+    },
+    {
+      "code": 6204022006,
+      "name": "Damparan"
+    },
+    {
+      "code": 6204022007,
+      "name": "Teluk Timbau"
+    },
+    {
+      "code": 6204022008,
+      "name": "Batilap"
+    },
+    {
+      "code": 6204022009,
+      "name": "Batampang"
+    },
+    {
+      "code": 6204022010,
+      "name": "Mangkatir"
+    }
+  ]
+}

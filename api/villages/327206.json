@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3272061001,
+      "name": "Cipanengah"
+    },
+    {
+      "code": 3272061002,
+      "name": "Situmekar"
+    },
+    {
+      "code": 3272061003,
+      "name": "Lembursitu"
+    },
+    {
+      "code": 3272061004,
+      "name": "Cikundul"
+    },
+    {
+      "code": 3272061005,
+      "name": "Sindangsari"
+    }
+  ]
+}

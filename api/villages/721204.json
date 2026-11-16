@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7212042001,
+      "name": "Beteleme"
+    },
+    {
+      "code": 7212042002,
+      "name": "Uluanso"
+    },
+    {
+      "code": 7212042003,
+      "name": "Mora"
+    },
+    {
+      "code": 7212042004,
+      "name": "Waraa"
+    },
+    {
+      "code": 7212042005,
+      "name": "Tingkeao"
+    },
+    {
+      "code": 7212042006,
+      "name": "Wawopada"
+    },
+    {
+      "code": 7212042007,
+      "name": "Korowalelo"
+    },
+    {
+      "code": 7212042008,
+      "name": "Tinompo"
+    },
+    {
+      "code": 7212042009,
+      "name": "Kumpi"
+    },
+    {
+      "code": 7212042010,
+      "name": "Korompeeli"
+    },
+    {
+      "code": 7212042011,
+      "name": "Lemboroma"
+    },
+    {
+      "code": 7212042012,
+      "name": "Korowou"
+    },
+    {
+      "code": 7212042013,
+      "name": "Lembobaru"
+    },
+    {
+      "code": 7212042014,
+      "name": "Korobonde"
+    }
+  ]
+}

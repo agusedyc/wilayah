@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7405121005,
+      "name": "Atari Indah"
+    },
+    {
+      "code": 7405122001,
+      "name": "Lambodi Jaya"
+    },
+    {
+      "code": 7405122002,
+      "name": "Atari Jaya"
+    },
+    {
+      "code": 7405122003,
+      "name": "Mokupa Jaya"
+    },
+    {
+      "code": 7405122004,
+      "name": "Lambandia"
+    },
+    {
+      "code": 7405122006,
+      "name": "Kapuwila"
+    },
+    {
+      "code": 7405122007,
+      "name": "Puunangga"
+    },
+    {
+      "code": 7405122008,
+      "name": "Teteinea"
+    },
+    {
+      "code": 7405122009,
+      "name": "Puurema Subur"
+    },
+    {
+      "code": 7405122010,
+      "name": "Lalembu Jaya"
+    },
+    {
+      "code": 7405122011,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 7405122012,
+      "name": "Potuho Jaya"
+    },
+    {
+      "code": 7405122013,
+      "name": "Mondoke"
+    },
+    {
+      "code": 7405122014,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 7405122015,
+      "name": "Merongga Raya"
+    },
+    {
+      "code": 7405122016,
+      "name": "Tombeleu"
+    },
+    {
+      "code": 7405122017,
+      "name": "Padaleu"
+    },
+    {
+      "code": 7405122018,
+      "name": "Lalouesamba"
+    }
+  ]
+}

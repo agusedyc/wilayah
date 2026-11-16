@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "message": "Showing 30 villages",
+  "data": [
+    {
+      "code": 1118022001,
+      "name": "Dayah Baroh"
+    },
+    {
+      "code": 1118022002,
+      "name": "Reuleut"
+    },
+    {
+      "code": 1118022003,
+      "name": "Sambongan Baro"
+    },
+    {
+      "code": 1118022004,
+      "name": "Tijien Husen"
+    },
+    {
+      "code": 1118022005,
+      "name": "Meunasah Krueng"
+    },
+    {
+      "code": 1118022006,
+      "name": "Geulanggang"
+    },
+    {
+      "code": 1118022007,
+      "name": "Mesjid Ulim Baroh"
+    },
+    {
+      "code": 1118022008,
+      "name": "Pulo Lhok"
+    },
+    {
+      "code": 1118022009,
+      "name": "Dayah Leubue"
+    },
+    {
+      "code": 1118022010,
+      "name": "Tijien Daboh"
+    },
+    {
+      "code": 1118022011,
+      "name": "Keude Ulim"
+    },
+    {
+      "code": 1118022012,
+      "name": "Meunasah Bueng"
+    },
+    {
+      "code": 1118022013,
+      "name": "Balee Ulim"
+    },
+    {
+      "code": 1118022014,
+      "name": "Grong Grong Capa"
+    },
+    {
+      "code": 1118022015,
+      "name": "Meunasah Kumbang"
+    },
+    {
+      "code": 1118022016,
+      "name": "Tanjong Ulim"
+    },
+    {
+      "code": 1118022017,
+      "name": "Mesjid Ulim Tunong"
+    },
+    {
+      "code": 1118022018,
+      "name": "Pulo Ulim"
+    },
+    {
+      "code": 1118022019,
+      "name": "Siblah Coh"
+    },
+    {
+      "code": 1118022020,
+      "name": "Bidok"
+    },
+    {
+      "code": 1118022021,
+      "name": "Pantang Cot Baloi"
+    },
+    {
+      "code": 1118022022,
+      "name": "Meunasah Pupu"
+    },
+    {
+      "code": 1118022023,
+      "name": "Nangrhoe Barat"
+    },
+    {
+      "code": 1118022024,
+      "name": "Nangrhoe Timu"
+    },
+    {
+      "code": 1118022025,
+      "name": "Meunasah Mesjid"
+    },
+    {
+      "code": 1118022026,
+      "name": "Blang Rheue"
+    },
+    {
+      "code": 1118022027,
+      "name": "Cot Seutui"
+    },
+    {
+      "code": 1118022028,
+      "name": "Lhok Gajah"
+    },
+    {
+      "code": 1118022029,
+      "name": "Alue Keumiki"
+    },
+    {
+      "code": 1118022030,
+      "name": "Blang Cari"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 3316081013,
+      "name": "Jepon"
+    },
+    {
+      "code": 3316082001,
+      "name": "Blungun"
+    },
+    {
+      "code": 3316082002,
+      "name": "Semanggi"
+    },
+    {
+      "code": 3316082003,
+      "name": "Ngampon"
+    },
+    {
+      "code": 3316082004,
+      "name": "Jomblang"
+    },
+    {
+      "code": 3316082005,
+      "name": "Palon"
+    },
+    {
+      "code": 3316082006,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3316082007,
+      "name": "Sumurboto"
+    },
+    {
+      "code": 3316082008,
+      "name": "Brumbung"
+    },
+    {
+      "code": 3316082009,
+      "name": "Turirejo"
+    },
+    {
+      "code": 3316082010,
+      "name": "Semampir"
+    },
+    {
+      "code": 3316082011,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3316082012,
+      "name": "Tempellemahbang"
+    },
+    {
+      "code": 3316082014,
+      "name": "Seso"
+    },
+    {
+      "code": 3316082015,
+      "name": "Balong"
+    },
+    {
+      "code": 3316082016,
+      "name": "Geneng"
+    },
+    {
+      "code": 3316082017,
+      "name": "Nglarohgunung"
+    },
+    {
+      "code": 3316082018,
+      "name": "Kawengan"
+    },
+    {
+      "code": 3316082019,
+      "name": "Gersi"
+    },
+    {
+      "code": 3316082020,
+      "name": "Gedangdowo"
+    },
+    {
+      "code": 3316082021,
+      "name": "Puledagel"
+    },
+    {
+      "code": 3316082022,
+      "name": "Bacem"
+    },
+    {
+      "code": 3316082023,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3316082024,
+      "name": "Soko"
+    },
+    {
+      "code": 3316082025,
+      "name": "Waru"
+    }
+  ]
+}

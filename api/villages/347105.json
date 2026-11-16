@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 3471051001,
+      "name": "Sosromenduran"
+    },
+    {
+      "code": 3471051002,
+      "name": "Pringgokusuman"
+    }
+  ]
+}

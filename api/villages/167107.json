@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1671071002,
+      "name": "Talangbetutu"
+    },
+    {
+      "code": 1671071004,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 1671071005,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1671071007,
+      "name": "Kebunbunga"
+    },
+    {
+      "code": 1671071009,
+      "name": "Sukabangun"
+    },
+    {
+      "code": 1671071010,
+      "name": "Talangjambe"
+    },
+    {
+      "code": 1671071011,
+      "name": "Sukodadi"
+    }
+  ]
+}

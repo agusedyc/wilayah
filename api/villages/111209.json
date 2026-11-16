@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1112092001,
+      "name": "Meurandeh"
+    },
+    {
+      "code": 1112092002,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 1112092003,
+      "name": "Cot Bak-U"
+    },
+    {
+      "code": 1112092004,
+      "name": "Meunasah Sukon"
+    },
+    {
+      "code": 1112092005,
+      "name": "Meunasah Tengah"
+    },
+    {
+      "code": 1112092006,
+      "name": "Geulanggang Batee"
+    },
+    {
+      "code": 1112092007,
+      "name": "Kuta Paya"
+    },
+    {
+      "code": 1112092008,
+      "name": "Ujung Tanah"
+    },
+    {
+      "code": 1112092009,
+      "name": "Padang Keulele"
+    },
+    {
+      "code": 1112092010,
+      "name": "Alue Rambot"
+    },
+    {
+      "code": 1112092011,
+      "name": "Ladang Tuha I"
+    },
+    {
+      "code": 1112092012,
+      "name": "Ladang Tuha II"
+    },
+    {
+      "code": 1112092013,
+      "name": "Tokoh II"
+    },
+    {
+      "code": 1112092014,
+      "name": "Kayee Aceh"
+    }
+  ]
+}

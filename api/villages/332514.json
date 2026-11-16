@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3325142001,
+      "name": "Pecalungan"
+    },
+    {
+      "code": 3325142002,
+      "name": "Bandung"
+    },
+    {
+      "code": 3325142003,
+      "name": "Gombong"
+    },
+    {
+      "code": 3325142004,
+      "name": "Randu"
+    },
+    {
+      "code": 3325142005,
+      "name": "Siguci"
+    },
+    {
+      "code": 3325142006,
+      "name": "Pretek"
+    },
+    {
+      "code": 3325142007,
+      "name": "Selokarto"
+    },
+    {
+      "code": 3325142008,
+      "name": "Gemuh"
+    },
+    {
+      "code": 3325142009,
+      "name": "Gumawang"
+    },
+    {
+      "code": 3325142010,
+      "name": "Keniten"
+    }
+  ]
+}

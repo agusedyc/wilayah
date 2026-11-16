@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209232001,
+      "name": "Serang"
+    },
+    {
+      "code": 3209232002,
+      "name": "Klangenan"
+    },
+    {
+      "code": 3209232003,
+      "name": "Danawinangun"
+    },
+    {
+      "code": 3209232007,
+      "name": "Pekantingan"
+    },
+    {
+      "code": 3209232008,
+      "name": "Jemaras Kidul"
+    },
+    {
+      "code": 3209232009,
+      "name": "Jemaras Lor"
+    },
+    {
+      "code": 3209232010,
+      "name": "Slangit"
+    },
+    {
+      "code": 3209232011,
+      "name": "Kreyo"
+    },
+    {
+      "code": 3209232012,
+      "name": "Bangodua"
+    }
+  ]
+}

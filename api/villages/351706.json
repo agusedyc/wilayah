@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3517062001,
+      "name": "Kedunglumpang"
+    },
+    {
+      "code": 3517062002,
+      "name": "Dukuhmojo"
+    },
+    {
+      "code": 3517062003,
+      "name": "Karangwinongan"
+    },
+    {
+      "code": 3517062004,
+      "name": "Kademangan"
+    },
+    {
+      "code": 3517062005,
+      "name": "Janti"
+    },
+    {
+      "code": 3517062006,
+      "name": "Tejo"
+    },
+    {
+      "code": 3517062007,
+      "name": "Gambiran"
+    },
+    {
+      "code": 3517062008,
+      "name": "Kauman"
+    },
+    {
+      "code": 3517062009,
+      "name": "Mojotrisno"
+    },
+    {
+      "code": 3517062010,
+      "name": "Tanggalrejo"
+    },
+    {
+      "code": 3517062011,
+      "name": "Dukuhdimoro"
+    },
+    {
+      "code": 3517062012,
+      "name": "Miagan"
+    },
+    {
+      "code": 3517062013,
+      "name": "Mancilan"
+    },
+    {
+      "code": 3517062014,
+      "name": "Betek"
+    },
+    {
+      "code": 3517062015,
+      "name": "Karobelah"
+    },
+    {
+      "code": 3517062016,
+      "name": "Murukan"
+    },
+    {
+      "code": 3517062017,
+      "name": "Johowinong"
+    },
+    {
+      "code": 3517062018,
+      "name": "Seketi"
+    }
+  ]
+}

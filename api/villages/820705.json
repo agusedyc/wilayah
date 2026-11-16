@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 8207052001,
+      "name": "Buho-Buho"
+    },
+    {
+      "code": 8207052002,
+      "name": "Wewemo"
+    },
+    {
+      "code": 8207052003,
+      "name": "Mira"
+    },
+    {
+      "code": 8207052004,
+      "name": "Lifao"
+    },
+    {
+      "code": 8207052005,
+      "name": "Rahmat"
+    },
+    {
+      "code": 8207052006,
+      "name": "Sambiki Tua"
+    },
+    {
+      "code": 8207052007,
+      "name": "Sangowo"
+    },
+    {
+      "code": 8207052008,
+      "name": "Sambiki Baru"
+    },
+    {
+      "code": 8207052009,
+      "name": "Sangowo Barat"
+    },
+    {
+      "code": 8207052010,
+      "name": "Sangowo Timur"
+    },
+    {
+      "code": 8207052011,
+      "name": "Seseli Jaya"
+    },
+    {
+      "code": 8207052012,
+      "name": "Hino"
+    },
+    {
+      "code": 8207052013,
+      "name": "Gosoma Maluku"
+    },
+    {
+      "code": 8207052014,
+      "name": "Gamlamo"
+    },
+    {
+      "code": 8207052015,
+      "name": "Doku Mira"
+    }
+  ]
+}

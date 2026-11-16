@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1607051017,
+      "name": "Betung"
+    },
+    {
+      "code": 1607051021,
+      "name": "Rimba Asam"
+    },
+    {
+      "code": 1607051022,
+      "name": "Betung Selatan"
+    },
+    {
+      "code": 1607052002,
+      "name": "Pulau Rajak"
+    },
+    {
+      "code": 1607052003,
+      "name": "Bukit"
+    },
+    {
+      "code": 1607052004,
+      "name": "Sri Kembang"
+    },
+    {
+      "code": 1607052005,
+      "name": "Lubuk Karet"
+    },
+    {
+      "code": 1607052014,
+      "name": "Taja Mulya"
+    },
+    {
+      "code": 1607052015,
+      "name": "Taja Raya I"
+    },
+    {
+      "code": 1607052016,
+      "name": "Taja Indah"
+    },
+    {
+      "code": 1607052018,
+      "name": "Taja Raya II"
+    },
+    {
+      "code": 1607052020,
+      "name": "Suka Mulya"
+    }
+  ]
+}

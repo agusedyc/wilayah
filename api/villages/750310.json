@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7503102001,
+      "name": "Inomata"
+    },
+    {
+      "code": 7503102003,
+      "name": "Tumbulilato"
+    },
+    {
+      "code": 7503102004,
+      "name": "Mootayu"
+    },
+    {
+      "code": 7503102006,
+      "name": "Mootinelo"
+    },
+    {
+      "code": 7503102009,
+      "name": "Pelita Jaya"
+    },
+    {
+      "code": 7503102010,
+      "name": "Moopiya"
+    },
+    {
+      "code": 7503102011,
+      "name": "Alo"
+    },
+    {
+      "code": 7503102012,
+      "name": "Laut Biru"
+    },
+    {
+      "code": 7503102014,
+      "name": "Bunga"
+    },
+    {
+      "code": 7503102015,
+      "name": "Mootawa"
+    }
+  ]
+}

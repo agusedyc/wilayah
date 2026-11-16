@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3210201004,
+      "name": "Cigasong"
+    },
+    {
+      "code": 3210201005,
+      "name": "Simpeureum"
+    },
+    {
+      "code": 3210201006,
+      "name": "Cicenang"
+    },
+    {
+      "code": 3210202001,
+      "name": "Kawunghilir"
+    },
+    {
+      "code": 3210202002,
+      "name": "Tajur"
+    },
+    {
+      "code": 3210202003,
+      "name": "Tenjolayar"
+    },
+    {
+      "code": 3210202007,
+      "name": "Baribis"
+    },
+    {
+      "code": 3210202008,
+      "name": "Batujaya"
+    },
+    {
+      "code": 3210202009,
+      "name": "Kutamanggu"
+    },
+    {
+      "code": 3210202010,
+      "name": "Karayunan"
+    }
+  ]
+}

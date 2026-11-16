@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3212052001,
+      "name": "Tunggulpayung"
+    },
+    {
+      "code": 3212052002,
+      "name": "Tugu"
+    },
+    {
+      "code": 3212052003,
+      "name": "Nunuk"
+    },
+    {
+      "code": 3212052004,
+      "name": "Tempel"
+    },
+    {
+      "code": 3212052005,
+      "name": "Pangauban"
+    },
+    {
+      "code": 3212052006,
+      "name": "Telagasari"
+    },
+    {
+      "code": 3212052007,
+      "name": "Langgengsari"
+    },
+    {
+      "code": 3212052008,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3212052009,
+      "name": "Lelea"
+    },
+    {
+      "code": 3212052010,
+      "name": "Cempeh"
+    },
+    {
+      "code": 3212052011,
+      "name": "Tempel Kulon"
+    }
+  ]
+}

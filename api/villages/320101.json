@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3201011001,
+      "name": "Pondok Rajeg"
+    },
+    {
+      "code": 3201011002,
+      "name": "Karadenan"
+    },
+    {
+      "code": 3201011003,
+      "name": "Harapanjaya"
+    },
+    {
+      "code": 3201011004,
+      "name": "Nanggewer"
+    },
+    {
+      "code": 3201011005,
+      "name": "Nanggewer Mekar"
+    },
+    {
+      "code": 3201011006,
+      "name": "Cibinong"
+    },
+    {
+      "code": 3201011007,
+      "name": "Pakansari"
+    },
+    {
+      "code": 3201011008,
+      "name": "Tengah"
+    },
+    {
+      "code": 3201011009,
+      "name": "Sukahati"
+    },
+    {
+      "code": 3201011010,
+      "name": "Ciriung"
+    },
+    {
+      "code": 3201011011,
+      "name": "Cirimekar"
+    },
+    {
+      "code": 3201011012,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3201011013,
+      "name": "Pabuaran Mekar"
+    }
+  ]
+}

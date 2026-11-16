@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9503162001,
+      "name": "Soba"
+    },
+    {
+      "code": 9503162002,
+      "name": "Hepinis"
+    },
+    {
+      "code": 9503162003,
+      "name": "Aguluntipmu"
+    },
+    {
+      "code": 9503162004,
+      "name": "Nilen"
+    },
+    {
+      "code": 9503162005,
+      "name": "Surukmu"
+    },
+    {
+      "code": 9503162006,
+      "name": "Tanda"
+    }
+  ]
+}

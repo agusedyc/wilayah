@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3372051001,
+      "name": "Kadipiro"
+    },
+    {
+      "code": 3372051002,
+      "name": "Nusukan"
+    },
+    {
+      "code": 3372051003,
+      "name": "Gilingan"
+    },
+    {
+      "code": 3372051004,
+      "name": "Setabelan"
+    },
+    {
+      "code": 3372051005,
+      "name": "Kestalan"
+    },
+    {
+      "code": 3372051006,
+      "name": "Keprabon"
+    },
+    {
+      "code": 3372051007,
+      "name": "Timuran"
+    },
+    {
+      "code": 3372051008,
+      "name": "Ketelan"
+    },
+    {
+      "code": 3372051009,
+      "name": "Punggawan"
+    },
+    {
+      "code": 3372051010,
+      "name": "Mangkubumen"
+    },
+    {
+      "code": 3372051011,
+      "name": "Manahan"
+    },
+    {
+      "code": 3372051012,
+      "name": "Sumber"
+    },
+    {
+      "code": 3372051013,
+      "name": "Banyuanyar"
+    },
+    {
+      "code": 3372051014,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3372051015,
+      "name": "Joglo"
+    }
+  ]
+}

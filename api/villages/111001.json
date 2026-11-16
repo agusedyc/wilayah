@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1110012001,
+      "name": "Pulau Balai"
+    },
+    {
+      "code": 1110012002,
+      "name": "Pulau Baguk"
+    },
+    {
+      "code": 1110012004,
+      "name": "Teluk Nibung"
+    }
+  ]
+}

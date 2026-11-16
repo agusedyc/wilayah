@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3402102001,
+      "name": "Selopamioro"
+    },
+    {
+      "code": 3402102002,
+      "name": "Sriharjo"
+    },
+    {
+      "code": 3402102003,
+      "name": "Wukirsari"
+    },
+    {
+      "code": 3402102004,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3402102005,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3402102006,
+      "name": "Girirejo"
+    },
+    {
+      "code": 3402102007,
+      "name": "Karangtalun"
+    },
+    {
+      "code": 3402102008,
+      "name": "Imogiri"
+    }
+  ]
+}

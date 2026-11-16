@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 regencies",
+  "data": [
+    {
+      "code": 6501,
+      "name": "Kabupaten Bulungan"
+    },
+    {
+      "code": 6502,
+      "name": "Kabupaten Malinau"
+    },
+    {
+      "code": 6503,
+      "name": "Kabupaten Nunukan"
+    },
+    {
+      "code": 6504,
+      "name": "Kabupaten Tana Tidung"
+    },
+    {
+      "code": 6571,
+      "name": "Kota Tarakan"
+    }
+  ]
+}

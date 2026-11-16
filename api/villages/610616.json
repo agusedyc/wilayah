@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6106162001,
+      "name": "Nanga Dangkan"
+    },
+    {
+      "code": 6106162002,
+      "name": "Belimbing"
+    },
+    {
+      "code": 6106162003,
+      "name": "Nanga Ngeri"
+    },
+    {
+      "code": 6106162004,
+      "name": "Landau Badai"
+    },
+    {
+      "code": 6106162005,
+      "name": "Nanga Lungu"
+    },
+    {
+      "code": 6106162006,
+      "name": "Nanga Luan"
+    },
+    {
+      "code": 6106162007,
+      "name": "Riam Tapang"
+    },
+    {
+      "code": 6106162008,
+      "name": "Lebak Najah"
+    },
+    {
+      "code": 6106162009,
+      "name": "Dangkan Kota"
+    },
+    {
+      "code": 6106162010,
+      "name": "Perjuk"
+    },
+    {
+      "code": 6106162011,
+      "name": "Landau Rantau"
+    },
+    {
+      "code": 6106162012,
+      "name": "Entebi"
+    },
+    {
+      "code": 6106162013,
+      "name": "Selangkai"
+    },
+    {
+      "code": 6106162014,
+      "name": "Selimu"
+    }
+  ]
+}

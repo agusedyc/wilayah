@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3202052001,
+      "name": "Cisolok"
+    },
+    {
+      "code": 3202052002,
+      "name": "Pasirbaru"
+    },
+    {
+      "code": 3202052003,
+      "name": "Cikahuripan"
+    },
+    {
+      "code": 3202052004,
+      "name": "Cikelat"
+    },
+    {
+      "code": 3202052005,
+      "name": "Caringin"
+    },
+    {
+      "code": 3202052006,
+      "name": "Gunungkaramat"
+    },
+    {
+      "code": 3202052007,
+      "name": "Gunungtanjung"
+    },
+    {
+      "code": 3202052008,
+      "name": "Karangpapak"
+    },
+    {
+      "code": 3202052009,
+      "name": "Sirnaresmi"
+    },
+    {
+      "code": 3202052010,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3202052011,
+      "name": "Wanajaya"
+    },
+    {
+      "code": 3202052012,
+      "name": "Wangunsari"
+    },
+    {
+      "code": 3202052013,
+      "name": "Sukarame"
+    }
+  ]
+}

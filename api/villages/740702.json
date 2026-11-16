@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7407021002,
+      "name": "Laolua"
+    },
+    {
+      "code": 7407021004,
+      "name": "Ambeua"
+    },
+    {
+      "code": 7407021005,
+      "name": "Lagiwae"
+    },
+    {
+      "code": 7407021015,
+      "name": "Buranga"
+    },
+    {
+      "code": 7407022001,
+      "name": "Sombano"
+    },
+    {
+      "code": 7407022003,
+      "name": "Samabahari"
+    },
+    {
+      "code": 7407022006,
+      "name": "Ollo"
+    },
+    {
+      "code": 7407022007,
+      "name": "Haruo"
+    },
+    {
+      "code": 7407022016,
+      "name": "Balasuna"
+    },
+    {
+      "code": 7407022018,
+      "name": "Mantigola Makmur"
+    },
+    {
+      "code": 7407022019,
+      "name": "Balasuna Selatan"
+    },
+    {
+      "code": 7407022020,
+      "name": "Ollo Selatan"
+    },
+    {
+      "code": 7407022021,
+      "name": "Waduri"
+    },
+    {
+      "code": 7407022022,
+      "name": "Lewuto"
+    },
+    {
+      "code": 7407022023,
+      "name": "Ambeua Raya"
+    },
+    {
+      "code": 7407022024,
+      "name": "Kalimas"
+    }
+  ]
+}

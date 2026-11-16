@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8205092001,
+      "name": "Waigai"
+    },
+    {
+      "code": 8205092002,
+      "name": "Fuata"
+    },
+    {
+      "code": 8205092003,
+      "name": "Wainib"
+    },
+    {
+      "code": 8205092004,
+      "name": "Skom"
+    },
+    {
+      "code": 8205092005,
+      "name": "Wai Tamua"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3506072001,
+      "name": "Sempu"
+    },
+    {
+      "code": 3506072002,
+      "name": "Pandantoyo"
+    },
+    {
+      "code": 3506072003,
+      "name": "Margourip"
+    },
+    {
+      "code": 3506072004,
+      "name": "Bedali"
+    },
+    {
+      "code": 3506072005,
+      "name": "Kunjang"
+    },
+    {
+      "code": 3506072006,
+      "name": "Manggis"
+    },
+    {
+      "code": 3506072007,
+      "name": "Ngancar"
+    },
+    {
+      "code": 3506072008,
+      "name": "Sugihwaras"
+    },
+    {
+      "code": 3506072009,
+      "name": "Babadan"
+    },
+    {
+      "code": 3506072010,
+      "name": "Jagul"
+    }
+  ]
+}

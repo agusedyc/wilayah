@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9105151001,
+      "name": "Anatorei"
+    },
+    {
+      "code": 9105152001,
+      "name": "Ketu Api"
+    },
+    {
+      "code": 9105152002,
+      "name": "Mariaderi"
+    },
+    {
+      "code": 9105152003,
+      "name": "Yapan"
+    },
+    {
+      "code": 9105152004,
+      "name": "Mantembu"
+    },
+    {
+      "code": 9105152005,
+      "name": "Famboaman"
+    },
+    {
+      "code": 9105152006,
+      "name": "Kandowarira"
+    },
+    {
+      "code": 9105152007,
+      "name": "Warari"
+    }
+  ]
+}

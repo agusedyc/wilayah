@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9403212001,
+      "name": "Dogomo"
+    },
+    {
+      "code": 9403212002,
+      "name": "Bomong Bugopa"
+    },
+    {
+      "code": 9403212003,
+      "name": "Dangipa"
+    },
+    {
+      "code": 9403212004,
+      "name": "Ondegapa"
+    },
+    {
+      "code": 9403212005,
+      "name": "Sogomo"
+    }
+  ]
+}

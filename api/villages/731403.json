@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7314031001,
+      "name": "Lawawoi"
+    },
+    {
+      "code": 7314031002,
+      "name": "Arawa"
+    },
+    {
+      "code": 7314031003,
+      "name": "Bangkai"
+    },
+    {
+      "code": 7314031004,
+      "name": "Uluale"
+    },
+    {
+      "code": 7314031005,
+      "name": "Batu Lappa"
+    },
+    {
+      "code": 7314032006,
+      "name": "Lainungan"
+    },
+    {
+      "code": 7314032007,
+      "name": "Carawali"
+    },
+    {
+      "code": 7314032008,
+      "name": "Buae"
+    },
+    {
+      "code": 7314032009,
+      "name": "Mattirotasi"
+    },
+    {
+      "code": 7314032010,
+      "name": "Ciro-Ciroe"
+    }
+  ]
+}

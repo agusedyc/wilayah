@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9106142001,
+      "name": "Rumbin"
+    },
+    {
+      "code": 9106142002,
+      "name": "Warbinsi"
+    },
+    {
+      "code": 9106142003,
+      "name": "Rodifu"
+    },
+    {
+      "code": 9106142004,
+      "name": "Wonabraidi"
+    },
+    {
+      "code": 9106142005,
+      "name": "Wouna"
+    },
+    {
+      "code": 9106142007,
+      "name": "Mamorbo"
+    },
+    {
+      "code": 9106142008,
+      "name": "Faknikdi"
+    },
+    {
+      "code": 9106142009,
+      "name": "Armnu"
+    },
+    {
+      "code": 9106142010,
+      "name": "Sup Mbrur"
+    },
+    {
+      "code": 9106142011,
+      "name": "Wodu"
+    },
+    {
+      "code": 9106142012,
+      "name": "Dasdo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3206102001,
+      "name": "Cikuya"
+    },
+    {
+      "code": 3206102002,
+      "name": "Cintabodas"
+    },
+    {
+      "code": 3206102003,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3206102004,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3206102005,
+      "name": "Mekarlaksana"
+    }
+  ]
+}

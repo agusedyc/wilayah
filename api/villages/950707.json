@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507072001,
+      "name": "Tima"
+    },
+    {
+      "code": 9507072002,
+      "name": "Balime"
+    },
+    {
+      "code": 9507072003,
+      "name": "Balingga"
+    },
+    {
+      "code": 9507072004,
+      "name": "Gume"
+    },
+    {
+      "code": 9507072005,
+      "name": "Timonikime"
+    },
+    {
+      "code": 9507072006,
+      "name": "Binolanggen"
+    },
+    {
+      "code": 9507072007,
+      "name": "Dewaka"
+    },
+    {
+      "code": 9507072008,
+      "name": "Yialo"
+    },
+    {
+      "code": 9507072009,
+      "name": "Towewak"
+    },
+    {
+      "code": 9507072010,
+      "name": "Yumaneri"
+    }
+  ]
+}

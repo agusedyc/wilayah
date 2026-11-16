@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 regencies",
+  "data": [
+    {
+      "code": 8101,
+      "name": "Kabupaten Maluku Tengah"
+    },
+    {
+      "code": 8102,
+      "name": "Kabupaten Maluku Tenggara"
+    },
+    {
+      "code": 8103,
+      "name": "Kabupaten Kepulauan Tanimbar"
+    },
+    {
+      "code": 8104,
+      "name": "Kabupaten Buru"
+    },
+    {
+      "code": 8105,
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    {
+      "code": 8106,
+      "name": "Kabupaten Seram Bagian Barat"
+    },
+    {
+      "code": 8107,
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    {
+      "code": 8108,
+      "name": "Kabupaten Maluku Barat Daya"
+    },
+    {
+      "code": 8109,
+      "name": "Kabupaten Buru Selatan"
+    },
+    {
+      "code": 8171,
+      "name": "Kota Ambon"
+    },
+    {
+      "code": 8172,
+      "name": "Kota Tual"
+    }
+  ]
+}

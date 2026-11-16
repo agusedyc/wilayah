@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6106232001,
+      "name": "Sungai Antu"
+    },
+    {
+      "code": 6106232002,
+      "name": "Merakai Panjang"
+    },
+    {
+      "code": 6106232003,
+      "name": "Kantuk Asam"
+    },
+    {
+      "code": 6106232004,
+      "name": "Kantuk Bunut"
+    },
+    {
+      "code": 6106232005,
+      "name": "Sungai Mawang"
+    },
+    {
+      "code": 6106232006,
+      "name": "Langau"
+    }
+  ]
+}

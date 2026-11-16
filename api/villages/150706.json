@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1507061006,
+      "name": "Rantau Indah"
+    },
+    {
+      "code": 1507062003,
+      "name": "Kuala Dendang"
+    },
+    {
+      "code": 1507062004,
+      "name": "Koto Kandis Dendang"
+    },
+    {
+      "code": 1507062005,
+      "name": "Koto Kandis"
+    },
+    {
+      "code": 1507062007,
+      "name": "Sido Mukti"
+    },
+    {
+      "code": 1507062008,
+      "name": "Catur Rahayu"
+    },
+    {
+      "code": 1507062009,
+      "name": "Jati Mulyo"
+    }
+  ]
+}

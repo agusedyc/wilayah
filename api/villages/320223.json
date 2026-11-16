@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202232001,
+      "name": "Kalibunder"
+    },
+    {
+      "code": 3202232002,
+      "name": "Bojong"
+    },
+    {
+      "code": 3202232003,
+      "name": "Cimahpar"
+    },
+    {
+      "code": 3202232004,
+      "name": "Sekarsari"
+    },
+    {
+      "code": 3202232005,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3202232006,
+      "name": "Balekambang"
+    },
+    {
+      "code": 3202232007,
+      "name": "Mekarwangi"
+    }
+  ]
+}

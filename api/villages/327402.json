@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3274021001,
+      "name": "Pegambiran"
+    },
+    {
+      "code": 3274021002,
+      "name": "Lemahwungkuk"
+    },
+    {
+      "code": 3274021003,
+      "name": "Kesepuhan"
+    },
+    {
+      "code": 3274021004,
+      "name": "Panjunan"
+    }
+  ]
+}

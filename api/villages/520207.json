@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5202072001,
+      "name": "Lekor"
+    },
+    {
+      "code": 5202072002,
+      "name": "Langko"
+    },
+    {
+      "code": 5202072003,
+      "name": "Janapria"
+    },
+    {
+      "code": 5202072004,
+      "name": "Loang Maka"
+    },
+    {
+      "code": 5202072005,
+      "name": "Saba"
+    },
+    {
+      "code": 5202072006,
+      "name": "Bakan"
+    },
+    {
+      "code": 5202072007,
+      "name": "Durian"
+    },
+    {
+      "code": 5202072008,
+      "name": "Pendem"
+    },
+    {
+      "code": 5202072009,
+      "name": "Selebung Rembiga"
+    },
+    {
+      "code": 5202072010,
+      "name": "Kerembong"
+    },
+    {
+      "code": 5202072011,
+      "name": "Jango"
+    },
+    {
+      "code": 5202072012,
+      "name": "Setuta"
+    },
+    {
+      "code": 5202072013,
+      "name": "Prako"
+    },
+    {
+      "code": 5202072014,
+      "name": "Tibu Sisok"
+    },
+    {
+      "code": 5202072015,
+      "name": "Janggawana"
+    },
+    {
+      "code": 5202072016,
+      "name": "Lingkok Berenge"
+    }
+  ]
+}

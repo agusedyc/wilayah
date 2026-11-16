@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 8108172001,
+      "name": "Purpura"
+    },
+    {
+      "code": 8108172002,
+      "name": "Nomaha"
+    },
+    {
+      "code": 8108172003,
+      "name": "Labelau"
+    }
+  ]
+}

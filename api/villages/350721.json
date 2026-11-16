@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3507212001,
+      "name": "Sumbersuko"
+    },
+    {
+      "code": 3507212002,
+      "name": "Mendalanwangi"
+    },
+    {
+      "code": 3507212003,
+      "name": "Sitirejo"
+    },
+    {
+      "code": 3507212004,
+      "name": "Parangargo"
+    },
+    {
+      "code": 3507212005,
+      "name": "Gondowangi"
+    },
+    {
+      "code": 3507212006,
+      "name": "Pandanrejo"
+    },
+    {
+      "code": 3507212007,
+      "name": "Petungsewu"
+    },
+    {
+      "code": 3507212008,
+      "name": "Sukodadi"
+    },
+    {
+      "code": 3507212009,
+      "name": "Sidorahayu"
+    },
+    {
+      "code": 3507212010,
+      "name": "Jedong"
+    },
+    {
+      "code": 3507212011,
+      "name": "Dalisodo"
+    },
+    {
+      "code": 3507212012,
+      "name": "Pandanlandung"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1608152001,
+      "name": "Karang Melati"
+    },
+    {
+      "code": 1608152002,
+      "name": "Karang Menjangan"
+    },
+    {
+      "code": 1608152003,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1608152004,
+      "name": "Tulung Harapan"
+    },
+    {
+      "code": 1608152005,
+      "name": "Kota Tanah"
+    },
+    {
+      "code": 1608152006,
+      "name": "Nirwana"
+    },
+    {
+      "code": 1608152007,
+      "name": "Burnai Mulya"
+    },
+    {
+      "code": 1608152008,
+      "name": "Kota Mulya"
+    },
+    {
+      "code": 1608152009,
+      "name": "Bungin Jaya"
+    },
+    {
+      "code": 1608152010,
+      "name": "Burnai Jaya"
+    },
+    {
+      "code": 1608152011,
+      "name": "Mulia Jaya"
+    },
+    {
+      "code": 1608152012,
+      "name": "Melati Jaya"
+    },
+    {
+      "code": 1608152013,
+      "name": "Karang Mulya"
+    },
+    {
+      "code": 1608152014,
+      "name": "Wanasari"
+    },
+    {
+      "code": 1608152015,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 1608152016,
+      "name": "Melati Agung"
+    },
+    {
+      "code": 1608152017,
+      "name": "Wana Makmur"
+    },
+    {
+      "code": 1608152018,
+      "name": "Bawang Tikar"
+    },
+    {
+      "code": 1608152019,
+      "name": "Karya Bakti"
+    }
+  ]
+}

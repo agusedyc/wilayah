@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1813102001,
+      "name": "Negeri Ratu Ngaras"
+    },
+    {
+      "code": 1813102003,
+      "name": "Kota Batu"
+    },
+    {
+      "code": 1813102004,
+      "name": "Mulang Maya"
+    },
+    {
+      "code": 1813102005,
+      "name": "Raja Basa"
+    },
+    {
+      "code": 1813102006,
+      "name": "Parda Suka"
+    },
+    {
+      "code": 1813102017,
+      "name": "Padang Dalam"
+    },
+    {
+      "code": 1813102018,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1813102019,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1813102020,
+      "name": "Bandar Jaya"
+    }
+  ]
+}

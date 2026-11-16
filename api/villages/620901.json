@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6209011012,
+      "name": "Tapin Bini"
+    },
+    {
+      "code": 6209012001,
+      "name": "Sungai Tuat"
+    },
+    {
+      "code": 6209012002,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 6209012003,
+      "name": "Cuhai"
+    },
+    {
+      "code": 6209012004,
+      "name": "Kawa"
+    },
+    {
+      "code": 6209012005,
+      "name": "Karang Taba"
+    },
+    {
+      "code": 6209012006,
+      "name": "Penopa"
+    },
+    {
+      "code": 6209012007,
+      "name": "Suja"
+    },
+    {
+      "code": 6209012008,
+      "name": "Sekoban"
+    },
+    {
+      "code": 6209012009,
+      "name": "Bakonsu"
+    },
+    {
+      "code": 6209012022,
+      "name": "Samu Jaya"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9106022001,
+      "name": "Sarwom"
+    },
+    {
+      "code": 9106022002,
+      "name": "Andei"
+    },
+    {
+      "code": 9106022004,
+      "name": "Waromi"
+    },
+    {
+      "code": 9106022006,
+      "name": "Kobeoser"
+    },
+    {
+      "code": 9106022007,
+      "name": "Mambesak"
+    },
+    {
+      "code": 9106022008,
+      "name": "Saukobye"
+    },
+    {
+      "code": 9106022010,
+      "name": "Yobdi"
+    },
+    {
+      "code": 9106022012,
+      "name": "Dernafi"
+    },
+    {
+      "code": 9106022013,
+      "name": "Rosayendi"
+    },
+    {
+      "code": 9106022016,
+      "name": "Warsansan"
+    },
+    {
+      "code": 9106022017,
+      "name": "Nermnu"
+    },
+    {
+      "code": 9106022018,
+      "name": "Korem"
+    },
+    {
+      "code": 9106022019,
+      "name": "Mnuswor"
+    },
+    {
+      "code": 9106022020,
+      "name": "Dofyo Wafor"
+    },
+    {
+      "code": 9106022021,
+      "name": "Warbon"
+    },
+    {
+      "code": 9106022022,
+      "name": "Wari"
+    }
+  ]
+}

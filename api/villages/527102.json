@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5271021001,
+      "name": "Pagesangan"
+    },
+    {
+      "code": 5271021002,
+      "name": "Mataram Timur"
+    },
+    {
+      "code": 5271021008,
+      "name": "Pagutan"
+    },
+    {
+      "code": 5271021009,
+      "name": "Pagesangan Barat"
+    },
+    {
+      "code": 5271021010,
+      "name": "Pagesangan Timur"
+    },
+    {
+      "code": 5271021011,
+      "name": "Pejanggik"
+    },
+    {
+      "code": 5271021012,
+      "name": "Punia"
+    },
+    {
+      "code": 5271021013,
+      "name": "Pagutan Timur"
+    },
+    {
+      "code": 5271021014,
+      "name": "Pagutan Barat"
+    }
+  ]
+}

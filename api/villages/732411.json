@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7324112001,
+      "name": "Ledu Ledu"
+    },
+    {
+      "code": 7324112002,
+      "name": "Kawata"
+    },
+    {
+      "code": 7324112003,
+      "name": "Tabarano"
+    },
+    {
+      "code": 7324112004,
+      "name": "Wasuponda"
+    },
+    {
+      "code": 7324112005,
+      "name": "Parumpanai"
+    },
+    {
+      "code": 7324112006,
+      "name": "Balambano"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3602141002,
+      "name": "Rangkasbitung Barat"
+    },
+    {
+      "code": 3602141006,
+      "name": "Cijoro Lebak"
+    },
+    {
+      "code": 3602141007,
+      "name": "Muara Ciujung Barat"
+    },
+    {
+      "code": 3602141008,
+      "name": "Cijoro Pasir"
+    },
+    {
+      "code": 3602141012,
+      "name": "Muara Ciujung Timur"
+    },
+    {
+      "code": 3602142001,
+      "name": "Pasirtanjung"
+    },
+    {
+      "code": 3602142009,
+      "name": "Citeras"
+    },
+    {
+      "code": 3602142010,
+      "name": "Nameng"
+    },
+    {
+      "code": 3602142011,
+      "name": "Kolelet Wetan"
+    },
+    {
+      "code": 3602142013,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3602142014,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3602142016,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3602142017,
+      "name": "Rangkasbitung Timur"
+    },
+    {
+      "code": 3602142019,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3602142021,
+      "name": "Cimangeunteung"
+    },
+    {
+      "code": 3602142023,
+      "name": "Narimbang Mulia"
+    }
+  ]
+}

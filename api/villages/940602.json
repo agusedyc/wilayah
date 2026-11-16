@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9406022001,
+      "name": "Bobomani"
+    },
+    {
+      "code": 9406022002,
+      "name": "Abaimaida"
+    },
+    {
+      "code": 9406022003,
+      "name": "Bonakunu"
+    },
+    {
+      "code": 9406022004,
+      "name": "Dawaikunu"
+    },
+    {
+      "code": 9406022005,
+      "name": "Magone"
+    },
+    {
+      "code": 9406022006,
+      "name": "Diyoudimi"
+    },
+    {
+      "code": 9406022007,
+      "name": "Obaikagopa"
+    }
+  ]
+}

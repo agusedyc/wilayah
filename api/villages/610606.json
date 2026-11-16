@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6106062001,
+      "name": "Nanga Suruk"
+    },
+    {
+      "code": 6106062002,
+      "name": "Temuyuk"
+    },
+    {
+      "code": 6106062003,
+      "name": "Nanga Semangut"
+    },
+    {
+      "code": 6106062004,
+      "name": "Nanga Dua"
+    },
+    {
+      "code": 6106062005,
+      "name": "Selaup"
+    },
+    {
+      "code": 6106062006,
+      "name": "Riam Piyang"
+    },
+    {
+      "code": 6106062007,
+      "name": "Nanga Payang"
+    },
+    {
+      "code": 6106062008,
+      "name": "Batu Tiga"
+    },
+    {
+      "code": 6106062009,
+      "name": "Semangut Utara"
+    },
+    {
+      "code": 6106062010,
+      "name": "Segitak"
+    },
+    {
+      "code": 6106062011,
+      "name": "Nanga Kelibang"
+    },
+    {
+      "code": 6106062012,
+      "name": "Sungai Besar"
+    },
+    {
+      "code": 6106062013,
+      "name": "Bakong Permai"
+    },
+    {
+      "code": 6106062014,
+      "name": "Beringin"
+    },
+    {
+      "code": 6106062015,
+      "name": "Pantas Bersatu"
+    }
+  ]
+}

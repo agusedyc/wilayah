@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7409071002,
+      "name": "Sawa"
+    },
+    {
+      "code": 7409072003,
+      "name": "Lalembo"
+    },
+    {
+      "code": 7409072004,
+      "name": "Laimeo"
+    },
+    {
+      "code": 7409072005,
+      "name": "Pudonggala"
+    },
+    {
+      "code": 7409072007,
+      "name": "Matanggonawe"
+    },
+    {
+      "code": 7409072008,
+      "name": "Kokapi"
+    },
+    {
+      "code": 7409072012,
+      "name": "Tongauna"
+    },
+    {
+      "code": 7409072013,
+      "name": "Puupi"
+    },
+    {
+      "code": 7409072016,
+      "name": "Pudonggala Utama"
+    },
+    {
+      "code": 7409072017,
+      "name": "Ulu Sawa"
+    },
+    {
+      "code": 7409072021,
+      "name": "Tudungano"
+    },
+    {
+      "code": 7409072022,
+      "name": "Tanjung Laimeo"
+    },
+    {
+      "code": 7409072023,
+      "name": "Panggulawu"
+    },
+    {
+      "code": 7409072024,
+      "name": "Pekaroa"
+    }
+  ]
+}

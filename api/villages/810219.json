@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8102192001,
+      "name": "Danar Ohoiseb"
+    },
+    {
+      "code": 8102192002,
+      "name": "Danar Ternate"
+    },
+    {
+      "code": 8102192003,
+      "name": "Danar Lumefar"
+    },
+    {
+      "code": 8102192004,
+      "name": "Elaar Ngursoin"
+    },
+    {
+      "code": 8102192005,
+      "name": "Elaar Lamagorang"
+    },
+    {
+      "code": 8102192006,
+      "name": "Elaar Let"
+    },
+    {
+      "code": 8102192007,
+      "name": "Sare"
+    },
+    {
+      "code": 8102192008,
+      "name": "Maar"
+    },
+    {
+      "code": 8102192009,
+      "name": "Uf"
+    },
+    {
+      "code": 8102192010,
+      "name": "Ngurwul"
+    },
+    {
+      "code": 8102192011,
+      "name": "Garara"
+    }
+  ]
+}

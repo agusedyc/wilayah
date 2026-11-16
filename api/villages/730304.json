@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7303041001,
+      "name": "Lembang Gantarang Keke"
+    },
+    {
+      "code": 7303041003,
+      "name": "Banyorang"
+    },
+    {
+      "code": 7303041004,
+      "name": "Campaga"
+    },
+    {
+      "code": 7303041005,
+      "name": "Eren Ereng"
+    },
+    {
+      "code": 7303042006,
+      "name": "Labbo"
+    },
+    {
+      "code": 7303042007,
+      "name": "Pattaneteang"
+    },
+    {
+      "code": 7303042008,
+      "name": "Pattallassang"
+    },
+    {
+      "code": 7303042009,
+      "name": "Bonto-bontoa"
+    },
+    {
+      "code": 7303042010,
+      "name": "Bonto Tappalang"
+    },
+    {
+      "code": 7303042011,
+      "name": "Balumbung"
+    }
+  ]
+}

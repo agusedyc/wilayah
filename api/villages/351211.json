@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3512112001,
+      "name": "Kayumas"
+    },
+    {
+      "code": 3512112002,
+      "name": "Bayeman"
+    },
+    {
+      "code": 3512112003,
+      "name": "Ketowan"
+    },
+    {
+      "code": 3512112004,
+      "name": "Kedungdowo"
+    },
+    {
+      "code": 3512112005,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3512112006,
+      "name": "Curah Tatal"
+    },
+    {
+      "code": 3512112007,
+      "name": "Arjasa"
+    },
+    {
+      "code": 3512112008,
+      "name": "Lamongan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6107022001,
+      "name": "Samalantan"
+    },
+    {
+      "code": 6107022002,
+      "name": "Saba'u"
+    },
+    {
+      "code": 6107022003,
+      "name": "Tumiang"
+    },
+    {
+      "code": 6107022004,
+      "name": "Babane"
+    },
+    {
+      "code": 6107022005,
+      "name": "Pasti Jaya"
+    },
+    {
+      "code": 6107022006,
+      "name": "Bukit Serayan"
+    },
+    {
+      "code": 6107022007,
+      "name": "Marunsu"
+    }
+  ]
+}

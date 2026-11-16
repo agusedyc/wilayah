@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7171061001,
+      "name": "Sario Utara"
+    },
+    {
+      "code": 7171061002,
+      "name": "Sario Kotabaru"
+    },
+    {
+      "code": 7171061003,
+      "name": "Sario Tumpaan"
+    },
+    {
+      "code": 7171061004,
+      "name": "Sario"
+    },
+    {
+      "code": 7171061005,
+      "name": "Titiwungan Utara"
+    },
+    {
+      "code": 7171061006,
+      "name": "Titiwungan Selatan"
+    },
+    {
+      "code": 7171061007,
+      "name": "Ranotana"
+    }
+  ]
+}

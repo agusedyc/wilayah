@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1611082001,
+      "name": "Puntang"
+    },
+    {
+      "code": 1611082002,
+      "name": "Bandar Aji"
+    },
+    {
+      "code": 1611082003,
+      "name": "Paduraksa"
+    },
+    {
+      "code": 1611082004,
+      "name": "Karang Gede"
+    },
+    {
+      "code": 1611082005,
+      "name": "Karang Dapo Baru"
+    },
+    {
+      "code": 1611082006,
+      "name": "Karang Dapo Lama"
+    },
+    {
+      "code": 1611082007,
+      "name": "Tangga Rasa"
+    },
+    {
+      "code": 1611082008,
+      "name": "Tapa Baru"
+    },
+    {
+      "code": 1611082009,
+      "name": "Tapa Lama"
+    },
+    {
+      "code": 1611082010,
+      "name": "Martapura"
+    },
+    {
+      "code": 1611082011,
+      "name": "Karang Anyar"
+    }
+  ]
+}

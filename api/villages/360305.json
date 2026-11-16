@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3603052001,
+      "name": "Cisoka"
+    },
+    {
+      "code": 3603052002,
+      "name": "Caringin"
+    },
+    {
+      "code": 3603052003,
+      "name": "Selapajang"
+    },
+    {
+      "code": 3603052004,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3603052006,
+      "name": "Bojong Loa"
+    },
+    {
+      "code": 3603052007,
+      "name": "Cibugel"
+    },
+    {
+      "code": 3603052008,
+      "name": "Cempaka"
+    },
+    {
+      "code": 3603052009,
+      "name": "Carenang"
+    },
+    {
+      "code": 3603052014,
+      "name": "Karang Harja"
+    },
+    {
+      "code": 3603052017,
+      "name": "Jeungjing"
+    }
+  ]
+}

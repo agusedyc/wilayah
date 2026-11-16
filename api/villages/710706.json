@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7107062003,
+      "name": "Ranoketang Atas"
+    },
+    {
+      "code": 7107062004,
+      "name": "Tondanauw"
+    },
+    {
+      "code": 7107062005,
+      "name": "Lobu Satu"
+    },
+    {
+      "code": 7107062006,
+      "name": "Lobu Dua"
+    },
+    {
+      "code": 7107062017,
+      "name": "Tondanouw Satu"
+    },
+    {
+      "code": 7107062018,
+      "name": "Toundanouw Atas"
+    },
+    {
+      "code": 7107062019,
+      "name": "Ranoketang Atas Satu"
+    },
+    {
+      "code": 7107062020,
+      "name": "Lobu Kota"
+    },
+    {
+      "code": 7107062021,
+      "name": "Lobu Atas"
+    },
+    {
+      "code": 7107062022,
+      "name": "Lobu"
+    }
+  ]
+}

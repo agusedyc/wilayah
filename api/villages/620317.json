@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6203171001,
+      "name": "Pulau Kupang"
+    },
+    {
+      "code": 6203172002,
+      "name": "Pulau Mambulau"
+    },
+    {
+      "code": 6203172003,
+      "name": "Sei Lunuk"
+    },
+    {
+      "code": 6203172004,
+      "name": "Sei Jangkit"
+    },
+    {
+      "code": 6203172005,
+      "name": "Tamban Luar"
+    },
+    {
+      "code": 6203172006,
+      "name": "Terusan Raya"
+    },
+    {
+      "code": 6203172007,
+      "name": "Terusan Karya"
+    },
+    {
+      "code": 6203172008,
+      "name": "Terusan Makmur"
+    },
+    {
+      "code": 6203172009,
+      "name": "Terusan Mulya"
+    },
+    {
+      "code": 6203172010,
+      "name": "Bamban Raya"
+    },
+    {
+      "code": 6203172011,
+      "name": "Bangun Harjo"
+    },
+    {
+      "code": 6203172012,
+      "name": "Terusan Baguntan Raya"
+    },
+    {
+      "code": 6203172013,
+      "name": "Terusan Raya Barat"
+    },
+    {
+      "code": 6203172014,
+      "name": "Terusan Raya Hulu"
+    },
+    {
+      "code": 6203172015,
+      "name": "Budi Mufakat"
+    }
+  ]
+}

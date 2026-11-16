@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5301051001,
+      "name": "Oenesu"
+    },
+    {
+      "code": 5301051002,
+      "name": "Batakte"
+    },
+    {
+      "code": 5301052003,
+      "name": "Manulai I"
+    },
+    {
+      "code": 5301052004,
+      "name": "Sumlili"
+    },
+    {
+      "code": 5301052005,
+      "name": "Lifuleo"
+    },
+    {
+      "code": 5301052006,
+      "name": "Tesabela"
+    },
+    {
+      "code": 5301052007,
+      "name": "Oematnunu"
+    },
+    {
+      "code": 5301052008,
+      "name": "Kuanheun"
+    },
+    {
+      "code": 5301052009,
+      "name": "Nitneo"
+    },
+    {
+      "code": 5301052010,
+      "name": "Bolok"
+    },
+    {
+      "code": 5301052011,
+      "name": "Tablolong"
+    },
+    {
+      "code": 5301052012,
+      "name": "Oenaek"
+    }
+  ]
+}

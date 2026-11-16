@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9605202001,
+      "name": "Fiane"
+    },
+    {
+      "code": 9605202002,
+      "name": "Kartapura"
+    },
+    {
+      "code": 9605202003,
+      "name": "Men"
+    },
+    {
+      "code": 9605202004,
+      "name": "Semu"
+    },
+    {
+      "code": 9605202005,
+      "name": "Isme"
+    },
+    {
+      "code": 9605202006,
+      "name": "Rindu"
+    },
+    {
+      "code": 9605202007,
+      "name": "Tut"
+    },
+    {
+      "code": 9605202008,
+      "name": "Yohwer"
+    },
+    {
+      "code": 9605202009,
+      "name": "Hufioh"
+    },
+    {
+      "code": 9605202010,
+      "name": "Bawy"
+    }
+  ]
+}

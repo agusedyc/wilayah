@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3327012001,
+      "name": "Plakaran"
+    },
+    {
+      "code": 3327012002,
+      "name": "Mandiraja"
+    },
+    {
+      "code": 3327012003,
+      "name": "Walangsanga"
+    },
+    {
+      "code": 3327012004,
+      "name": "Sima"
+    },
+    {
+      "code": 3327012005,
+      "name": "Moga"
+    },
+    {
+      "code": 3327012006,
+      "name": "Banyumudal"
+    },
+    {
+      "code": 3327012007,
+      "name": "Wangkelang"
+    },
+    {
+      "code": 3327012008,
+      "name": "Kebanggan"
+    },
+    {
+      "code": 3327012009,
+      "name": "Pepedan"
+    },
+    {
+      "code": 3327012010,
+      "name": "Gendoang"
+    }
+  ]
+}

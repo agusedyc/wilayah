@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6302212001,
+      "name": "Tanjung Pelayar"
+    },
+    {
+      "code": 6302212002,
+      "name": "Tanjung Sungkai"
+    },
+    {
+      "code": 6302212003,
+      "name": "Tanjung Tengah"
+    },
+    {
+      "code": 6302212004,
+      "name": "Tanjung Kunyit"
+    },
+    {
+      "code": 6302212005,
+      "name": "Teluk Tamiang"
+    },
+    {
+      "code": 6302212006,
+      "name": "Gosong Panjang"
+    },
+    {
+      "code": 6302212007,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6302212008,
+      "name": "Tata Mekar"
+    },
+    {
+      "code": 6302212009,
+      "name": "Bandar Raya"
+    },
+    {
+      "code": 6302212010,
+      "name": "Bangun Rejo"
+    }
+  ]
+}

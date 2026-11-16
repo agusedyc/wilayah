@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503092001,
+      "name": "Gopa"
+    },
+    {
+      "code": 9503092002,
+      "name": "Jinusugu"
+    },
+    {
+      "code": 9503092003,
+      "name": "Woropi"
+    },
+    {
+      "code": 9503092004,
+      "name": "Senipan"
+    },
+    {
+      "code": 9503092005,
+      "name": "Yosua"
+    },
+    {
+      "code": 9503092006,
+      "name": "Rentis"
+    },
+    {
+      "code": 9503092007,
+      "name": "Solok"
+    }
+  ]
+}

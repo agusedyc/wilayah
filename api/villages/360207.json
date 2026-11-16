@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3602072004,
+      "name": "Bojongmanik"
+    },
+    {
+      "code": 3602072007,
+      "name": "Harjawana"
+    },
+    {
+      "code": 3602072008,
+      "name": "Kadurahayu"
+    },
+    {
+      "code": 3602072009,
+      "name": "Cimayang"
+    },
+    {
+      "code": 3602072010,
+      "name": "Parakanbeusi"
+    },
+    {
+      "code": 3602072012,
+      "name": "Keboncau"
+    },
+    {
+      "code": 3602072014,
+      "name": "Mekarmanik"
+    },
+    {
+      "code": 3602072016,
+      "name": "Mekar Rahayu"
+    },
+    {
+      "code": 3602072017,
+      "name": "Pasirbitung"
+    }
+  ]
+}

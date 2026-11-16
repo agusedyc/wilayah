@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507032001,
+      "name": "Kemiri"
+    },
+    {
+      "code": 9507032002,
+      "name": "Mamiri"
+    },
+    {
+      "code": 9507032003,
+      "name": "Kotorambur"
+    },
+    {
+      "code": 9507032004,
+      "name": "Yorenime"
+    },
+    {
+      "code": 9507032005,
+      "name": "Waganenga"
+    },
+    {
+      "code": 9507032006,
+      "name": "Gembilani"
+    },
+    {
+      "code": 9507032007,
+      "name": "Nambume"
+    },
+    {
+      "code": 9507032008,
+      "name": "Tengenawi"
+    }
+  ]
+}

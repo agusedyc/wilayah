@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1508022001,
+      "name": "Rantau Duku"
+    },
+    {
+      "code": 1508022002,
+      "name": "Talang Sungai Bungo"
+    },
+    {
+      "code": 1508022003,
+      "name": "Rantau Pandan"
+    },
+    {
+      "code": 1508022004,
+      "name": "Leban"
+    },
+    {
+      "code": 1508022005,
+      "name": "Lubuk Kayu Aro"
+    },
+    {
+      "code": 1508022015,
+      "name": "Lubuk Mayan"
+    }
+  ]
+}

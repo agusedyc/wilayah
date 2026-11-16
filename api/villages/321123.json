@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3211232001,
+      "name": "Cisarua"
+    },
+    {
+      "code": 3211232002,
+      "name": "Ciuyah"
+    },
+    {
+      "code": 3211232003,
+      "name": "Cimara"
+    },
+    {
+      "code": 3211232004,
+      "name": "Bantarmara"
+    },
+    {
+      "code": 3211232005,
+      "name": "Cipandanwangi"
+    },
+    {
+      "code": 3211232006,
+      "name": "Cisalak"
+    },
+    {
+      "code": 3211232007,
+      "name": "Kebonkalapa"
+    }
+  ]
+}

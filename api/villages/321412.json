@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3214122001,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3214122002,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3214122003,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3214122004,
+      "name": "Babakancikao"
+    },
+    {
+      "code": 3214122005,
+      "name": "Kadumekar"
+    },
+    {
+      "code": 3214122006,
+      "name": "Maracang"
+    },
+    {
+      "code": 3214122007,
+      "name": "Ciwareng"
+    },
+    {
+      "code": 3214122008,
+      "name": "Mulyamekar"
+    },
+    {
+      "code": 3214122009,
+      "name": "Cigelam"
+    }
+  ]
+}

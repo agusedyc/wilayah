@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1309072001,
+      "name": "Saibi Samukop"
+    },
+    {
+      "code": 1309072002,
+      "name": "Cimpungan"
+    },
+    {
+      "code": 1309072003,
+      "name": "Saliguma"
+    }
+  ]
+}

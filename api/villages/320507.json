@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3205072001,
+      "name": "Samarang"
+    },
+    {
+      "code": 3205072002,
+      "name": "Cintarakyat"
+    },
+    {
+      "code": 3205072003,
+      "name": "Sukarasa"
+    },
+    {
+      "code": 3205072004,
+      "name": "Parakan"
+    },
+    {
+      "code": 3205072005,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 3205072006,
+      "name": "Cintakarya"
+    },
+    {
+      "code": 3205072007,
+      "name": "Tanjung Karya"
+    },
+    {
+      "code": 3205072008,
+      "name": "Cisarua"
+    },
+    {
+      "code": 3205072009,
+      "name": "Cintarasa"
+    },
+    {
+      "code": 3205072010,
+      "name": "Cintaasih"
+    },
+    {
+      "code": 3205072011,
+      "name": "Sirnasari"
+    },
+    {
+      "code": 3205072012,
+      "name": "Sukalaksana"
+    },
+    {
+      "code": 3205072013,
+      "name": "Tanjunganom"
+    }
+  ]
+}

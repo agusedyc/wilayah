@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9115072002,
+      "name": "Fafado"
+    },
+    {
+      "code": 9115072003,
+      "name": "Wobari"
+    },
+    {
+      "code": 9115072013,
+      "name": "Aimasi"
+    },
+    {
+      "code": 9115072014,
+      "name": "Mui"
+    },
+    {
+      "code": 9115072015,
+      "name": "Waghare"
+    },
+    {
+      "code": 9115072016,
+      "name": "Ghaiwando"
+    },
+    {
+      "code": 9115072017,
+      "name": "Womorisi"
+    },
+    {
+      "code": 9115072018,
+      "name": "Orambin"
+    },
+    {
+      "code": 9115072019,
+      "name": "Unareu"
+    },
+    {
+      "code": 9115072020,
+      "name": "Ghaiwaru"
+    }
+  ]
+}

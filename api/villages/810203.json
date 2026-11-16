@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "message": "Showing 37 villages",
+  "data": [
+    {
+      "code": 8102032001,
+      "name": "Werka"
+    },
+    {
+      "code": 8102032002,
+      "name": "Waur"
+    },
+    {
+      "code": 8102032003,
+      "name": "Ohoinangan"
+    },
+    {
+      "code": 8102032004,
+      "name": "Ler Ohoilim"
+    },
+    {
+      "code": 8102032005,
+      "name": "Rahareng"
+    },
+    {
+      "code": 8102032006,
+      "name": "Elat"
+    },
+    {
+      "code": 8102032007,
+      "name": "Depur"
+    },
+    {
+      "code": 8102032008,
+      "name": "Ohoilim"
+    },
+    {
+      "code": 8102032009,
+      "name": "El Ralang"
+    },
+    {
+      "code": 8102032015,
+      "name": "Reyamru"
+    },
+    {
+      "code": 8102032016,
+      "name": "Fako"
+    },
+    {
+      "code": 8102032017,
+      "name": "Yamtel"
+    },
+    {
+      "code": 8102032018,
+      "name": "Waur Tahit"
+    },
+    {
+      "code": 8102032019,
+      "name": "Ngefuit"
+    },
+    {
+      "code": 8102032020,
+      "name": "Ohoiel"
+    },
+    {
+      "code": 8102032021,
+      "name": "Ohoiwait"
+    },
+    {
+      "code": 8102032022,
+      "name": "Ohoiwang"
+    },
+    {
+      "code": 8102032023,
+      "name": "Fangamas"
+    },
+    {
+      "code": 8102032024,
+      "name": "Ohoinangan Atas"
+    },
+    {
+      "code": 8102032025,
+      "name": "Harangur"
+    },
+    {
+      "code": 8102032026,
+      "name": "Udar"
+    },
+    {
+      "code": 8102032027,
+      "name": "Daftel"
+    },
+    {
+      "code": 8102032028,
+      "name": "Karkarit"
+    },
+    {
+      "code": 8102032029,
+      "name": "Rahareng Atas"
+    },
+    {
+      "code": 8102032030,
+      "name": "Wulurat"
+    },
+    {
+      "code": 8102032031,
+      "name": "Wakol"
+    },
+    {
+      "code": 8102032032,
+      "name": "Ngurdu"
+    },
+    {
+      "code": 8102032033,
+      "name": "Soinrat"
+    },
+    {
+      "code": 8102032034,
+      "name": "Wermaf"
+    },
+    {
+      "code": 8102032035,
+      "name": "Bombay"
+    },
+    {
+      "code": 8102032036,
+      "name": "Watsin"
+    },
+    {
+      "code": 8102032037,
+      "name": "Sirbante"
+    },
+    {
+      "code": 8102032038,
+      "name": "Ngat"
+    },
+    {
+      "code": 8102032039,
+      "name": "Nabaheng"
+    },
+    {
+      "code": 8102032040,
+      "name": "Ngefuit Atas"
+    },
+    {
+      "code": 8102032041,
+      "name": "Watuar"
+    },
+    {
+      "code": 8102032042,
+      "name": "Mataholat"
+    }
+  ]
+}

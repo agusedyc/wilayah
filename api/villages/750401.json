@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7504012003,
+      "name": "Torosiaje Jaya"
+    },
+    {
+      "code": 7504012004,
+      "name": "Popayato"
+    },
+    {
+      "code": 7504012008,
+      "name": "Telaga"
+    },
+    {
+      "code": 7504012012,
+      "name": "Torosiaje"
+    },
+    {
+      "code": 7504012015,
+      "name": "Bukit Tingki"
+    },
+    {
+      "code": 7504012016,
+      "name": "Tunas Harapan"
+    },
+    {
+      "code": 7504012017,
+      "name": "Trikora"
+    },
+    {
+      "code": 7504012018,
+      "name": "Dambalo"
+    },
+    {
+      "code": 7504012019,
+      "name": "Telaga Biru"
+    },
+    {
+      "code": 7504012020,
+      "name": "Bumi Bahari"
+    }
+  ]
+}

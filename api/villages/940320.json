@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9403202001,
+      "name": "Uwebutu"
+    },
+    {
+      "code": 9403202002,
+      "name": "Epouto"
+    },
+    {
+      "code": 9403202003,
+      "name": "Tugumo"
+    },
+    {
+      "code": 9403202004,
+      "name": "Tugu Kagomoma"
+    },
+    {
+      "code": 9403202005,
+      "name": "Deiyamo"
+    },
+    {
+      "code": 9403202006,
+      "name": "Miyamo"
+    }
+  ]
+}

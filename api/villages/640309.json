@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6403091002,
+      "name": "Teluk Bayur"
+    },
+    {
+      "code": 6403091003,
+      "name": "Rinding"
+    },
+    {
+      "code": 6403092001,
+      "name": "Tumbit Melayu"
+    },
+    {
+      "code": 6403092004,
+      "name": "Labanan Jaya"
+    },
+    {
+      "code": 6403092005,
+      "name": "Labanan Makmur"
+    },
+    {
+      "code": 6403092006,
+      "name": "Labanan Makarti"
+    }
+  ]
+}

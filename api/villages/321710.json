@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3217102001,
+      "name": "Cipatik"
+    },
+    {
+      "code": 3217102002,
+      "name": "Citapen"
+    },
+    {
+      "code": 3217102003,
+      "name": "Cihampelas"
+    },
+    {
+      "code": 3217102004,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3217102005,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3217102006,
+      "name": "Pataruman"
+    },
+    {
+      "code": 3217102007,
+      "name": "Situwangi"
+    },
+    {
+      "code": 3217102008,
+      "name": "Singajaya"
+    },
+    {
+      "code": 3217102009,
+      "name": "Tanjungwangi"
+    },
+    {
+      "code": 3217102010,
+      "name": "Tanjungjaya"
+    }
+  ]
+}

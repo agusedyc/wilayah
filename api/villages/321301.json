@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213012003,
+      "name": "Sukamandi"
+    },
+    {
+      "code": 3213012004,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3213012005,
+      "name": "Sagalaherang Kidul"
+    },
+    {
+      "code": 3213012006,
+      "name": "Dayeuh Kolot"
+    },
+    {
+      "code": 3213012009,
+      "name": "Leles"
+    },
+    {
+      "code": 3213012010,
+      "name": "Curugagung"
+    },
+    {
+      "code": 3213012011,
+      "name": "Sagalaherang Kaler"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202182001,
+      "name": "Kalapanunggal"
+    },
+    {
+      "code": 3202182002,
+      "name": "Palasari Girang"
+    },
+    {
+      "code": 3202182003,
+      "name": "Pulosari"
+    },
+    {
+      "code": 3202182004,
+      "name": "Makasari"
+    },
+    {
+      "code": 3202182005,
+      "name": "Kadununggal"
+    },
+    {
+      "code": 3202182006,
+      "name": "Walangsari"
+    },
+    {
+      "code": 3202182007,
+      "name": "Gunungendut"
+    }
+  ]
+}

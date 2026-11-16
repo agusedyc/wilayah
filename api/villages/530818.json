@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5308181001,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 5308181002,
+      "name": "Kota Ratu"
+    },
+    {
+      "code": 5308181003,
+      "name": "Roworena"
+    },
+    {
+      "code": 5308181007,
+      "name": "Roworena Barat"
+    },
+    {
+      "code": 5308182004,
+      "name": "Gheoghoma"
+    },
+    {
+      "code": 5308182005,
+      "name": "Borokanda"
+    },
+    {
+      "code": 5308182006,
+      "name": "Watusipi"
+    },
+    {
+      "code": 5308182008,
+      "name": "Mbomba"
+    },
+    {
+      "code": 5308182009,
+      "name": "Embundoa"
+    },
+    {
+      "code": 5308182010,
+      "name": "Raterua"
+    }
+  ]
+}

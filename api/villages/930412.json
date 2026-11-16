@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9304122001,
+      "name": "Kapi"
+    },
+    {
+      "code": 9304122002,
+      "name": "As"
+    },
+    {
+      "code": 9304122003,
+      "name": "Atat"
+    },
+    {
+      "code": 9304122004,
+      "name": "Aou"
+    },
+    {
+      "code": 9304122005,
+      "name": "Nakai"
+    },
+    {
+      "code": 9304122006,
+      "name": "Esmapan"
+    },
+    {
+      "code": 9304122007,
+      "name": "Eroko"
+    },
+    {
+      "code": 9304122008,
+      "name": "Yakapis"
+    },
+    {
+      "code": 9304122009,
+      "name": "Weo"
+    },
+    {
+      "code": 9304122010,
+      "name": "Aoap"
+    },
+    {
+      "code": 9304122011,
+      "name": "Fumereipits"
+    }
+  ]
+}

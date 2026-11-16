@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9207082001,
+      "name": "Rasiei"
+    },
+    {
+      "code": 9207082002,
+      "name": "Torey"
+    },
+    {
+      "code": 9207082003,
+      "name": "Isey"
+    },
+    {
+      "code": 9207082004,
+      "name": "Uriemi"
+    },
+    {
+      "code": 9207082005,
+      "name": "Sasirei"
+    },
+    {
+      "code": 9207082006,
+      "name": "Tandia"
+    },
+    {
+      "code": 9207082007,
+      "name": "Webi"
+    },
+    {
+      "code": 9207082008,
+      "name": "Nggatum"
+    },
+    {
+      "code": 9207082009,
+      "name": "Senderawoy"
+    }
+  ]
+}

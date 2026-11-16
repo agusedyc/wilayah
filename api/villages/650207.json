@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6502072001,
+      "name": "Kaliamok"
+    },
+    {
+      "code": 6502072002,
+      "name": "Luso"
+    },
+    {
+      "code": 6502072003,
+      "name": "Malinau Seberang"
+    },
+    {
+      "code": 6502072004,
+      "name": "Putat"
+    },
+    {
+      "code": 6502072005,
+      "name": "Salap"
+    },
+    {
+      "code": 6502072006,
+      "name": "Seruyung"
+    },
+    {
+      "code": 6502072007,
+      "name": "Respen Tubu"
+    },
+    {
+      "code": 6502072008,
+      "name": "Belayan"
+    },
+    {
+      "code": 6502072009,
+      "name": "Sembuak Warod"
+    },
+    {
+      "code": 6502072010,
+      "name": "Lubak Manis"
+    },
+    {
+      "code": 6502072011,
+      "name": "Kelapis"
+    },
+    {
+      "code": 6502072012,
+      "name": "Semengaris"
+    }
+  ]
+}

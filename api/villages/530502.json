@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5305021002,
+      "name": "Adang"
+    },
+    {
+      "code": 5305022003,
+      "name": "Alor Kecil"
+    },
+    {
+      "code": 5305022004,
+      "name": "Alor Besar"
+    },
+    {
+      "code": 5305022005,
+      "name": "Ampera"
+    },
+    {
+      "code": 5305022006,
+      "name": "Dulolong"
+    },
+    {
+      "code": 5305022007,
+      "name": "Aimoli"
+    },
+    {
+      "code": 5305022008,
+      "name": "Alila"
+    },
+    {
+      "code": 5305022009,
+      "name": "Otvai"
+    },
+    {
+      "code": 5305022012,
+      "name": "Ternate"
+    },
+    {
+      "code": 5305022013,
+      "name": "Ternate Selatan"
+    },
+    {
+      "code": 5305022014,
+      "name": "Alila Selatan"
+    },
+    {
+      "code": 5305022019,
+      "name": "Pulau Buaya"
+    },
+    {
+      "code": 5305022020,
+      "name": "Hulnani"
+    },
+    {
+      "code": 5305022022,
+      "name": "O'a Mate"
+    },
+    {
+      "code": 5305022023,
+      "name": "\"Ala\"\"ang\""
+    },
+    {
+      "code": 5305022024,
+      "name": "Lefokisu"
+    },
+    {
+      "code": 5305022025,
+      "name": "Bampalola"
+    },
+    {
+      "code": 5305022026,
+      "name": "Lewalu"
+    },
+    {
+      "code": 5305022027,
+      "name": "Dulolong Barat"
+    }
+  ]
+}

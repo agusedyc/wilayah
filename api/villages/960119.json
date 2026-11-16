@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9601192001,
+      "name": "Disfra"
+    },
+    {
+      "code": 9601192002,
+      "name": "Bagun"
+    },
+    {
+      "code": 9601192003,
+      "name": "Klawom"
+    },
+    {
+      "code": 9601192004,
+      "name": "Klamomis"
+    },
+    {
+      "code": 9601192005,
+      "name": "Klakwonrit"
+    },
+    {
+      "code": 9601192006,
+      "name": "Mode"
+    },
+    {
+      "code": 9601192007,
+      "name": "Bratmawe"
+    },
+    {
+      "code": 9601192008,
+      "name": "Klawon"
+    },
+    {
+      "code": 9601192009,
+      "name": "Mlamli"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6307031001,
+      "name": "Pantai Hambawang Barat"
+    },
+    {
+      "code": 6307032002,
+      "name": "Mahang Baru"
+    },
+    {
+      "code": 6307032003,
+      "name": "Mundar"
+    },
+    {
+      "code": 6307032004,
+      "name": "Tabudarat Hilir"
+    },
+    {
+      "code": 6307032005,
+      "name": "Tabudarat Hulu"
+    },
+    {
+      "code": 6307032006,
+      "name": "Pantai Hambawang Timur"
+    },
+    {
+      "code": 6307032007,
+      "name": "Banua Kepayang"
+    },
+    {
+      "code": 6307032008,
+      "name": "Ta'al"
+    },
+    {
+      "code": 6307032009,
+      "name": "Durian Gantang"
+    },
+    {
+      "code": 6307032010,
+      "name": "Guha"
+    },
+    {
+      "code": 6307032011,
+      "name": "Bangkal"
+    },
+    {
+      "code": 6307032012,
+      "name": "Panggang Marak"
+    },
+    {
+      "code": 6307032013,
+      "name": "Jamil"
+    },
+    {
+      "code": 6307032014,
+      "name": "Taras Padang"
+    },
+    {
+      "code": 6307032015,
+      "name": "Murung Ta'al"
+    },
+    {
+      "code": 6307032016,
+      "name": "Sungai Rangas"
+    },
+    {
+      "code": 6307032017,
+      "name": "Batang Bahalang"
+    },
+    {
+      "code": 6307032018,
+      "name": "Sungai Jaranih"
+    }
+  ]
+}

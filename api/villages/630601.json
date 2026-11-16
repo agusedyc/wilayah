@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6306012001,
+      "name": "Hamalau"
+    },
+    {
+      "code": 6306012002,
+      "name": "Telaga Bidadari"
+    },
+    {
+      "code": 6306012003,
+      "name": "Karasikan"
+    },
+    {
+      "code": 6306012004,
+      "name": "Sungai Raya Utara"
+    },
+    {
+      "code": 6306012005,
+      "name": "Sungai Raya Selatan"
+    },
+    {
+      "code": 6306012006,
+      "name": "Hariti"
+    },
+    {
+      "code": 6306012007,
+      "name": "Ida Manggala"
+    },
+    {
+      "code": 6306012008,
+      "name": "Bumi Berkat"
+    },
+    {
+      "code": 6306012009,
+      "name": "Batang Kulur Kiri"
+    },
+    {
+      "code": 6306012010,
+      "name": "Batang Kulur Tengah"
+    },
+    {
+      "code": 6306012011,
+      "name": "Batang Kulur Kanan"
+    },
+    {
+      "code": 6306012012,
+      "name": "Baru"
+    },
+    {
+      "code": 6306012013,
+      "name": "Tamiyang"
+    },
+    {
+      "code": 6306012014,
+      "name": "Asam"
+    },
+    {
+      "code": 6306012015,
+      "name": "Sungai Kali"
+    },
+    {
+      "code": 6306012016,
+      "name": "Sarang Halang"
+    },
+    {
+      "code": 6306012017,
+      "name": "Paring Agung"
+    },
+    {
+      "code": 6306012018,
+      "name": "Tanah Bangkang"
+    }
+  ]
+}

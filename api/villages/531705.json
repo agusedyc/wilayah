@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5317052001,
+      "name": "Konda Maloba"
+    },
+    {
+      "code": 5317052002,
+      "name": "Tana Modu"
+    },
+    {
+      "code": 5317052003,
+      "name": "Malinjak"
+    },
+    {
+      "code": 5317052004,
+      "name": "Wailawa"
+    },
+    {
+      "code": 5317052005,
+      "name": "Dameka"
+    },
+    {
+      "code": 5317052006,
+      "name": "Waimanu"
+    },
+    {
+      "code": 5317052007,
+      "name": "Manurara"
+    },
+    {
+      "code": 5317052008,
+      "name": "Elu"
+    },
+    {
+      "code": 5317052009,
+      "name": "Oka Wacu"
+    }
+  ]
+}

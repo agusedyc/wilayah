@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202152001,
+      "name": "Parakansalak"
+    },
+    {
+      "code": 3202152002,
+      "name": "Bojonglongok"
+    },
+    {
+      "code": 3202152003,
+      "name": "Sukakersa"
+    },
+    {
+      "code": 3202152004,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3202152005,
+      "name": "Bojongasih"
+    },
+    {
+      "code": 3202152006,
+      "name": "Lebaksari"
+    }
+  ]
+}

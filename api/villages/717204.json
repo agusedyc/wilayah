@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7172041003,
+      "name": "Pateten Satu"
+    },
+    {
+      "code": 7172041004,
+      "name": "Winenet Satu"
+    },
+    {
+      "code": 7172041005,
+      "name": "Aertembaga Satu"
+    },
+    {
+      "code": 7172041006,
+      "name": "Tandurusa"
+    },
+    {
+      "code": 7172041007,
+      "name": "Makawidey"
+    },
+    {
+      "code": 7172041008,
+      "name": "Pinangunian"
+    },
+    {
+      "code": 7172041011,
+      "name": "Pateten Dua"
+    },
+    {
+      "code": 7172041012,
+      "name": "Winenet Dua"
+    },
+    {
+      "code": 7172041013,
+      "name": "Kasawari"
+    },
+    {
+      "code": 7172041014,
+      "name": "Aertembaga Dua"
+    }
+  ]
+}

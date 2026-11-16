@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3506192001,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3506192002,
+      "name": "Klampisan"
+    },
+    {
+      "code": 3506192003,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3506192004,
+      "name": "Kasreman"
+    },
+    {
+      "code": 3506192005,
+      "name": "Jerukwangi"
+    },
+    {
+      "code": 3506192006,
+      "name": "Jerukgulung"
+    },
+    {
+      "code": 3506192007,
+      "name": "Jlumbang"
+    },
+    {
+      "code": 3506192008,
+      "name": "Bukur"
+    },
+    {
+      "code": 3506192009,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3506192010,
+      "name": "Banaran"
+    },
+    {
+      "code": 3506192011,
+      "name": "Mlancu"
+    },
+    {
+      "code": 3506192012,
+      "name": "Medowo"
+    }
+  ]
+}

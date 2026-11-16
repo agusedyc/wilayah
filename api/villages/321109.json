@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3211092001,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3211092002,
+      "name": "Wanajaya"
+    },
+    {
+      "code": 3211092003,
+      "name": "Pamekarsari"
+    },
+    {
+      "code": 3211092004,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3211092005,
+      "name": "Surian"
+    },
+    {
+      "code": 3211092006,
+      "name": "Suriamukti"
+    },
+    {
+      "code": 3211092007,
+      "name": "Suriamedal"
+    },
+    {
+      "code": 3211092008,
+      "name": "Ranggasari"
+    },
+    {
+      "code": 3211092009,
+      "name": "Nanjungwangi"
+    }
+  ]
+}

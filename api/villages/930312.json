@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9303122001,
+      "name": "Amk"
+    },
+    {
+      "code": 9303122002,
+      "name": "Yame"
+    },
+    {
+      "code": 9303122003,
+      "name": "Benggo"
+    },
+    {
+      "code": 9303122004,
+      "name": "Kokoya"
+    },
+    {
+      "code": 9303122005,
+      "name": "Borohaba"
+    },
+    {
+      "code": 9303122006,
+      "name": "Ogorito"
+    },
+    {
+      "code": 9303122007,
+      "name": "Hebeske"
+    }
+  ]
+}

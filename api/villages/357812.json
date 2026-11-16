@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3578121001,
+      "name": "Bongkaran"
+    },
+    {
+      "code": 3578121002,
+      "name": "Nyamplungan"
+    },
+    {
+      "code": 3578121003,
+      "name": "Krembangan Utara"
+    },
+    {
+      "code": 3578121006,
+      "name": "Tanjung Perak"
+    }
+  ]
+}

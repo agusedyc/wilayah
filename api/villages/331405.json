@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3314052001,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3314052002,
+      "name": "Jambeyan"
+    },
+    {
+      "code": 3314052003,
+      "name": "Jetis"
+    },
+    {
+      "code": 3314052004,
+      "name": "Musuk"
+    },
+    {
+      "code": 3314052005,
+      "name": "Kadipiro"
+    },
+    {
+      "code": 3314052006,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3314052007,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3314052008,
+      "name": "Dawung"
+    },
+    {
+      "code": 3314052009,
+      "name": "Sambi"
+    }
+  ]
+}

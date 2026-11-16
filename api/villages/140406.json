@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1404061004,
+      "name": "Sungaiempat"
+    },
+    {
+      "code": 1404061005,
+      "name": "Telukpinang"
+    },
+    {
+      "code": 1404061009,
+      "name": "Tanjungharapan"
+    },
+    {
+      "code": 1404062001,
+      "name": "Kuala Gaung"
+    },
+    {
+      "code": 1404062002,
+      "name": "Telukpantaian"
+    },
+    {
+      "code": 1404062003,
+      "name": "Teluksungka"
+    },
+    {
+      "code": 1404062006,
+      "name": "Sungaiiliran"
+    },
+    {
+      "code": 1404062007,
+      "name": "Teluktuasan"
+    },
+    {
+      "code": 1404062008,
+      "name": "Rambaian"
+    },
+    {
+      "code": 1404062010,
+      "name": "Harapan Makmur"
+    },
+    {
+      "code": 1404062011,
+      "name": "Kelumpang"
+    },
+    {
+      "code": 1404062012,
+      "name": "Idaman"
+    }
+  ]
+}

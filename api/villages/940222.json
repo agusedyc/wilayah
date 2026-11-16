@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9402222001,
+      "name": "Nioga"
+    },
+    {
+      "code": 9402222002,
+      "name": "Yonggi"
+    },
+    {
+      "code": 9402222003,
+      "name": "Wonggi"
+    },
+    {
+      "code": 9402222004,
+      "name": "Wambagalo"
+    },
+    {
+      "code": 9402222005,
+      "name": "Jigonikme"
+    },
+    {
+      "code": 9402222006,
+      "name": "Muruwi"
+    },
+    {
+      "code": 9402222007,
+      "name": "Wutime"
+    },
+    {
+      "code": 9402222008,
+      "name": "Gibaga"
+    },
+    {
+      "code": 9402222009,
+      "name": "Papak"
+    },
+    {
+      "code": 9402222010,
+      "name": "Wanduri"
+    },
+    {
+      "code": 9402222011,
+      "name": "Walom"
+    }
+  ]
+}

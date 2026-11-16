@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7202032001,
+      "name": "Tampemadoro"
+    },
+    {
+      "code": 7202032002,
+      "name": "Pandiri"
+    },
+    {
+      "code": 7202032003,
+      "name": "Watuawu"
+    },
+    {
+      "code": 7202032004,
+      "name": "Tambaro"
+    },
+    {
+      "code": 7202032005,
+      "name": "Tagolu"
+    },
+    {
+      "code": 7202032006,
+      "name": "Maliwuko"
+    },
+    {
+      "code": 7202032007,
+      "name": "Silanca"
+    },
+    {
+      "code": 7202032008,
+      "name": "Sepe"
+    },
+    {
+      "code": 7202032009,
+      "name": "Bategencu"
+    },
+    {
+      "code": 7202032010,
+      "name": "Toyado"
+    },
+    {
+      "code": 7202032011,
+      "name": "Tongko"
+    },
+    {
+      "code": 7202032012,
+      "name": "Malei"
+    },
+    {
+      "code": 7202032013,
+      "name": "Sintuwulemba"
+    },
+    {
+      "code": 7202032014,
+      "name": "Labuan"
+    },
+    {
+      "code": 7202032015,
+      "name": "Labuadago"
+    },
+    {
+      "code": 7202032017,
+      "name": "Rato'ombu"
+    }
+  ]
+}

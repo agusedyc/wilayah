@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7110052001,
+      "name": "Moyongkota"
+    },
+    {
+      "code": 7110052002,
+      "name": "Bangunan Wuwuk"
+    },
+    {
+      "code": 7110052003,
+      "name": "Bongkudai Barat"
+    },
+    {
+      "code": 7110052004,
+      "name": "Bongkudai"
+    },
+    {
+      "code": 7110052005,
+      "name": "Moyongkota Baru"
+    },
+    {
+      "code": 7110052006,
+      "name": "Moonow"
+    },
+    {
+      "code": 7110052007,
+      "name": "Inaton"
+    },
+    {
+      "code": 7110052008,
+      "name": "Bangunan Wuwuk Timur"
+    },
+    {
+      "code": 7110052009,
+      "name": "Pinonobatuan"
+    },
+    {
+      "code": 7110052010,
+      "name": "Tangaton"
+    }
+  ]
+}

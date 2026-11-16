@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6302221009,
+      "name": "Baharu Selatan"
+    },
+    {
+      "code": 6302221010,
+      "name": "Kotabaru Tengah"
+    },
+    {
+      "code": 6302221011,
+      "name": "Kotabaru Hilir"
+    },
+    {
+      "code": 6302222001,
+      "name": "Sebatung"
+    },
+    {
+      "code": 6302222002,
+      "name": "Hilir Muara"
+    },
+    {
+      "code": 6302222003,
+      "name": "Batuah"
+    },
+    {
+      "code": 6302222004,
+      "name": "Baharu Utara"
+    },
+    {
+      "code": 6302222005,
+      "name": "Tirawan"
+    },
+    {
+      "code": 6302222006,
+      "name": "Gedambaan"
+    },
+    {
+      "code": 6302222007,
+      "name": "Sarang Tiung"
+    },
+    {
+      "code": 6302222008,
+      "name": "Sigam"
+    }
+  ]
+}

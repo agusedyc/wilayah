@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9405062001,
+      "name": "Yauria"
+    },
+    {
+      "code": 9405062002,
+      "name": "Gigobak"
+    },
+    {
+      "code": 9405062003,
+      "name": "Kalibuk"
+    },
+    {
+      "code": 9405062004,
+      "name": "Kelemame"
+    },
+    {
+      "code": 9405062005,
+      "name": "Gulabut"
+    },
+    {
+      "code": 9405062006,
+      "name": "Kolaribanak"
+    },
+    {
+      "code": 9405062007,
+      "name": "Mogulu"
+    },
+    {
+      "code": 9405062008,
+      "name": "Gigobak II"
+    },
+    {
+      "code": 9405062009,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 9405062010,
+      "name": "Gingga Baru"
+    },
+    {
+      "code": 9405062011,
+      "name": "Tenonggame"
+    }
+  ]
+}

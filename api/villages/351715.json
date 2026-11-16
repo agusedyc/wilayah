@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3517152001,
+      "name": "Klitih"
+    },
+    {
+      "code": 3517152002,
+      "name": "Plabuhan"
+    },
+    {
+      "code": 3517152003,
+      "name": "Kampungbaru"
+    },
+    {
+      "code": 3517152004,
+      "name": "Gebangbunder"
+    },
+    {
+      "code": 3517152005,
+      "name": "Jatimlerek"
+    },
+    {
+      "code": 3517152006,
+      "name": "Karangmojo"
+    },
+    {
+      "code": 3517152007,
+      "name": "Plandaan"
+    },
+    {
+      "code": 3517152008,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3517152009,
+      "name": "Purisemanding"
+    },
+    {
+      "code": 3517152010,
+      "name": "Tondowulan"
+    },
+    {
+      "code": 3517152011,
+      "name": "Darurejo"
+    },
+    {
+      "code": 3517152012,
+      "name": "Sumberjo"
+    },
+    {
+      "code": 3517152013,
+      "name": "Jiporapah"
+    }
+  ]
+}

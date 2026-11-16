@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6305052001,
+      "name": "Margasari Hulu"
+    },
+    {
+      "code": 6305052002,
+      "name": "Candi Laras"
+    },
+    {
+      "code": 6305052003,
+      "name": "Baringin A"
+    },
+    {
+      "code": 6305052004,
+      "name": "Marampiau"
+    },
+    {
+      "code": 6305052005,
+      "name": "Pabaungan Hilir"
+    },
+    {
+      "code": 6305052006,
+      "name": "Pabaungan Hulu"
+    },
+    {
+      "code": 6305052007,
+      "name": "Sungai Rutas"
+    },
+    {
+      "code": 6305052008,
+      "name": "Baringin B"
+    },
+    {
+      "code": 6305052009,
+      "name": "Marampiau Hilir"
+    },
+    {
+      "code": 6305052010,
+      "name": "Sungai Rutas Hulu"
+    },
+    {
+      "code": 6305052011,
+      "name": "Baulin"
+    },
+    {
+      "code": 6305052012,
+      "name": "Pabaungan Pantai"
+    }
+  ]
+}

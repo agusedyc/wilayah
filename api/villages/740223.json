@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7402231001,
+      "name": "Ruota"
+    },
+    {
+      "code": 7402232002,
+      "name": "Tirawonua"
+    },
+    {
+      "code": 7402232003,
+      "name": "Parudongka"
+    },
+    {
+      "code": 7402232004,
+      "name": "Walandawe"
+    },
+    {
+      "code": 7402232005,
+      "name": "Puuwiwirano"
+    },
+    {
+      "code": 7402232006,
+      "name": "Tanggola"
+    },
+    {
+      "code": 7402232007,
+      "name": "Lalomerui"
+    }
+  ]
+}

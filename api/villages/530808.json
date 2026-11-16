@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5308081001,
+      "name": "Bokasape"
+    },
+    {
+      "code": 5308082002,
+      "name": "Bokasape Timur"
+    },
+    {
+      "code": 5308082010,
+      "name": "Mbuliloo"
+    },
+    {
+      "code": 5308082011,
+      "name": "Rindiwawo"
+    },
+    {
+      "code": 5308082012,
+      "name": "Jopu"
+    },
+    {
+      "code": 5308082013,
+      "name": "Wolokoli"
+    },
+    {
+      "code": 5308082014,
+      "name": "Mbuliwaralau"
+    },
+    {
+      "code": 5308082015,
+      "name": "Mbuliwaralau Utara"
+    },
+    {
+      "code": 5308082016,
+      "name": "Lisedetu"
+    },
+    {
+      "code": 5308082017,
+      "name": "Nualise"
+    },
+    {
+      "code": 5308082018,
+      "name": "Wolosoko"
+    },
+    {
+      "code": 5308082019,
+      "name": "Liselowobora"
+    },
+    {
+      "code": 5308082020,
+      "name": "Likanaka"
+    },
+    {
+      "code": 5308082021,
+      "name": "Nakambara"
+    },
+    {
+      "code": 5308082022,
+      "name": "Niramesi"
+    },
+    {
+      "code": 5308082023,
+      "name": "Tana Lo'o"
+    },
+    {
+      "code": 5308082024,
+      "name": "Lise Pu'u"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9603072001,
+      "name": "Selpele"
+    },
+    {
+      "code": 9603072002,
+      "name": "Mutus"
+    },
+    {
+      "code": 9603072003,
+      "name": "Bianci"
+    },
+    {
+      "code": 9603072004,
+      "name": "Saleo"
+    },
+    {
+      "code": 9603072005,
+      "name": "Waisilip"
+    }
+  ]
+}

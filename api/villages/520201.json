@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5202011001,
+      "name": "Praya"
+    },
+    {
+      "code": 5202011002,
+      "name": "Leneng"
+    },
+    {
+      "code": 5202011003,
+      "name": "Gerunung"
+    },
+    {
+      "code": 5202011004,
+      "name": "Semayan"
+    },
+    {
+      "code": 5202011005,
+      "name": "Perapen"
+    },
+    {
+      "code": 5202011006,
+      "name": "Tiwugalih"
+    },
+    {
+      "code": 5202011007,
+      "name": "Gonjak"
+    },
+    {
+      "code": 5202011008,
+      "name": "Panji Sari"
+    },
+    {
+      "code": 5202011009,
+      "name": "Renteng"
+    },
+    {
+      "code": 5202012010,
+      "name": "Mertak Tombok"
+    },
+    {
+      "code": 5202012011,
+      "name": "Aik Mual"
+    },
+    {
+      "code": 5202012012,
+      "name": "Montong Terep"
+    },
+    {
+      "code": 5202012013,
+      "name": "Jago"
+    },
+    {
+      "code": 5202012014,
+      "name": "Bunut Baok"
+    },
+    {
+      "code": 5202012015,
+      "name": "Mekar Damai"
+    }
+  ]
+}

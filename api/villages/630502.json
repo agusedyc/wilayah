@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6305021004,
+      "name": "Tambarangan"
+    },
+    {
+      "code": 6305022001,
+      "name": "Tatakan"
+    },
+    {
+      "code": 6305022002,
+      "name": "Suato Tatakan"
+    },
+    {
+      "code": 6305022005,
+      "name": "Sawang"
+    },
+    {
+      "code": 6305022006,
+      "name": "Lawahan"
+    },
+    {
+      "code": 6305022007,
+      "name": "Timbaan"
+    },
+    {
+      "code": 6305022009,
+      "name": "Rumintin"
+    },
+    {
+      "code": 6305022011,
+      "name": "Cempaka"
+    },
+    {
+      "code": 6305022012,
+      "name": "Harapan Masa"
+    },
+    {
+      "code": 6305022016,
+      "name": "Tandui"
+    },
+    {
+      "code": 6305022017,
+      "name": "Hatiwin"
+    }
+  ]
+}

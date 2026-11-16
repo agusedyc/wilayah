@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7105212001,
+      "name": "Tondei"
+    },
+    {
+      "code": 7105212002,
+      "name": "Tondei Satu"
+    },
+    {
+      "code": 7105212003,
+      "name": "Tondei Dua"
+    },
+    {
+      "code": 7105212004,
+      "name": "Raanan Baru"
+    },
+    {
+      "code": 7105212005,
+      "name": "Ranaan Baru Satu"
+    },
+    {
+      "code": 7105212006,
+      "name": "Ranaan Baru Dua"
+    },
+    {
+      "code": 7105212007,
+      "name": "Toyopon"
+    },
+    {
+      "code": 7105212008,
+      "name": "Keroit"
+    }
+  ]
+}

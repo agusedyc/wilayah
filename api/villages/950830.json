@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9508302001,
+      "name": "Neggea"
+    },
+    {
+      "code": 9508302002,
+      "name": "Wulagumi"
+    },
+    {
+      "code": 9508302003,
+      "name": "Kombama"
+    },
+    {
+      "code": 9508302004,
+      "name": "Wenggenambut"
+    },
+    {
+      "code": 9508302005,
+      "name": "Nenggeagin"
+    }
+  ]
+}

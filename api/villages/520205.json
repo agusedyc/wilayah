@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5202052001,
+      "name": "Bonder"
+    },
+    {
+      "code": 5202052002,
+      "name": "Banyu Urip"
+    },
+    {
+      "code": 5202052003,
+      "name": "Mangkung"
+    },
+    {
+      "code": 5202052004,
+      "name": "Kateng"
+    },
+    {
+      "code": 5202052005,
+      "name": "Setanggor"
+    },
+    {
+      "code": 5202052006,
+      "name": "Penujak"
+    },
+    {
+      "code": 5202052007,
+      "name": "Selong Belanak"
+    },
+    {
+      "code": 5202052008,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 5202052009,
+      "name": "Batujai"
+    },
+    {
+      "code": 5202052010,
+      "name": "Tanak Rarang"
+    }
+  ]
+}

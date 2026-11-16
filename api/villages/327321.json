@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273211001,
+      "name": "Batununggal"
+    },
+    {
+      "code": 3273211002,
+      "name": "Wates"
+    },
+    {
+      "code": 3273211003,
+      "name": "Mengger"
+    },
+    {
+      "code": 3273211004,
+      "name": "Kujangsari"
+    }
+  ]
+}

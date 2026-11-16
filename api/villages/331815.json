@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3318152001,
+      "name": "Bumiayu"
+    },
+    {
+      "code": 3318152002,
+      "name": "Margorejo"
+    },
+    {
+      "code": 3318152003,
+      "name": "Tawangharjo"
+    },
+    {
+      "code": 3318152004,
+      "name": "Ngurensiti"
+    },
+    {
+      "code": 3318152005,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3318152006,
+      "name": "Panggungroyom"
+    },
+    {
+      "code": 3318152007,
+      "name": "Jontro"
+    },
+    {
+      "code": 3318152008,
+      "name": "Suwaduk"
+    },
+    {
+      "code": 3318152009,
+      "name": "Wedarijaksa"
+    },
+    {
+      "code": 3318152010,
+      "name": "Pagerharjo"
+    },
+    {
+      "code": 3318152011,
+      "name": "Ngurenrejo"
+    },
+    {
+      "code": 3318152012,
+      "name": "Bangsalrejo"
+    },
+    {
+      "code": 3318152013,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3318152014,
+      "name": "Jetak"
+    },
+    {
+      "code": 3318152015,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3318152016,
+      "name": "Tlogoharum"
+    },
+    {
+      "code": 3318152017,
+      "name": "Kepoh"
+    },
+    {
+      "code": 3318152018,
+      "name": "Tluwuk"
+    }
+  ]
+}

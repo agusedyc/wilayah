@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1312112001,
+      "name": "Sasak"
+    },
+    {
+      "code": 1312112002,
+      "name": "Padang Harapan"
+    },
+    {
+      "code": 1312112003,
+      "name": "Ranah Pasisie"
+    },
+    {
+      "code": 1312112004,
+      "name": "Maligi"
+    }
+  ]
+}

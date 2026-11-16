@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1807022001,
+      "name": "Labuhan Maringgai"
+    },
+    {
+      "code": 1807022002,
+      "name": "Muara Gading Mas"
+    },
+    {
+      "code": 1807022003,
+      "name": "Sriminosari"
+    },
+    {
+      "code": 1807022004,
+      "name": "Bandar Negeri"
+    },
+    {
+      "code": 1807022005,
+      "name": "Karya Makmur"
+    },
+    {
+      "code": 1807022006,
+      "name": "Karya Tani"
+    },
+    {
+      "code": 1807022007,
+      "name": "Margasari"
+    },
+    {
+      "code": 1807022008,
+      "name": "Sukorahayu"
+    },
+    {
+      "code": 1807022009,
+      "name": "Srigading"
+    },
+    {
+      "code": 1807022010,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1807022011,
+      "name": "Maringgai"
+    }
+  ]
+}

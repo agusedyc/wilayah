@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1603071001,
+      "name": "Tanjung Enim"
+    },
+    {
+      "code": 1603071002,
+      "name": "Pasar Tanjung Enim"
+    },
+    {
+      "code": 1603071003,
+      "name": "Tanjung Enim Selatan"
+    },
+    {
+      "code": 1603072004,
+      "name": "Tegal Rejo"
+    },
+    {
+      "code": 1603072005,
+      "name": "Lingga"
+    },
+    {
+      "code": 1603072006,
+      "name": "Keban Agung"
+    },
+    {
+      "code": 1603072007,
+      "name": "Darmo"
+    }
+  ]
+}

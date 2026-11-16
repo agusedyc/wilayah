@@ -1,0 +1,158 @@
+{
+  "success": true,
+  "message": "Showing 38 villages",
+  "data": [
+    {
+      "code": 6203092001,
+      "name": "Manusup"
+    },
+    {
+      "code": 6203092002,
+      "name": "Sei Kapar"
+    },
+    {
+      "code": 6203092003,
+      "name": "Tarantang"
+    },
+    {
+      "code": 6203092004,
+      "name": "Lamunti"
+    },
+    {
+      "code": 6203092005,
+      "name": "Pulau Kaladan"
+    },
+    {
+      "code": 6203092006,
+      "name": "Mantangai Hilir"
+    },
+    {
+      "code": 6203092007,
+      "name": "Mantangai Tengah"
+    },
+    {
+      "code": 6203092008,
+      "name": "Mantangai Hulu"
+    },
+    {
+      "code": 6203092009,
+      "name": "Kalumpang"
+    },
+    {
+      "code": 6203092010,
+      "name": "Sei Ahas"
+    },
+    {
+      "code": 6203092011,
+      "name": "Katunjung"
+    },
+    {
+      "code": 6203092012,
+      "name": "Lahei Mangkutup"
+    },
+    {
+      "code": 6203092013,
+      "name": "Tumbang Muroi"
+    },
+    {
+      "code": 6203092014,
+      "name": "Danau Rawah"
+    },
+    {
+      "code": 6203092015,
+      "name": "Muroi Raya"
+    },
+    {
+      "code": 6203092016,
+      "name": "Katimpun"
+    },
+    {
+      "code": 6203092017,
+      "name": "Manusup Hilir"
+    },
+    {
+      "code": 6203092018,
+      "name": "Sei Gita"
+    },
+    {
+      "code": 6203092019,
+      "name": "Bukit Batu"
+    },
+    {
+      "code": 6203092020,
+      "name": "Sei Gawing"
+    },
+    {
+      "code": 6203092021,
+      "name": "Humbang Raya"
+    },
+    {
+      "code": 6203092022,
+      "name": "Tabore"
+    },
+    {
+      "code": 6203092023,
+      "name": "Tumbang Mangkutup"
+    },
+    {
+      "code": 6203092024,
+      "name": "Lapetan"
+    },
+    {
+      "code": 6203092025,
+      "name": "Lamunti Permai"
+    },
+    {
+      "code": 6203092026,
+      "name": "Manyahi"
+    },
+    {
+      "code": 6203092027,
+      "name": "Sekata Makmur"
+    },
+    {
+      "code": 6203092028,
+      "name": "Kaladan Jaya"
+    },
+    {
+      "code": 6203092029,
+      "name": "Rantau Jaya"
+    },
+    {
+      "code": 6203092030,
+      "name": "Warga Mulya"
+    },
+    {
+      "code": 6203092031,
+      "name": "Lamunti Baru"
+    },
+    {
+      "code": 6203092032,
+      "name": "Sriwidadi"
+    },
+    {
+      "code": 6203092033,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 6203092034,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6203092035,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 6203092036,
+      "name": "Sekata Bangun"
+    },
+    {
+      "code": 6203092037,
+      "name": "Sari Makmur"
+    },
+    {
+      "code": 6203092038,
+      "name": "Suka Maju"
+    }
+  ]
+}

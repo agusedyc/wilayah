@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3513152001,
+      "name": "Temenggungan"
+    },
+    {
+      "code": 3513152002,
+      "name": "Patemon"
+    },
+    {
+      "code": 3513152003,
+      "name": "Jatiurip"
+    },
+    {
+      "code": 3513152004,
+      "name": "Opo Opo"
+    },
+    {
+      "code": 3513152005,
+      "name": "Kamalkuning"
+    },
+    {
+      "code": 3513152006,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3513152007,
+      "name": "Krejengan"
+    },
+    {
+      "code": 3513152008,
+      "name": "Sentong"
+    },
+    {
+      "code": 3513152009,
+      "name": "Sumberkatimoho"
+    },
+    {
+      "code": 3513152010,
+      "name": "Karangren"
+    },
+    {
+      "code": 3513152011,
+      "name": "Rawan"
+    },
+    {
+      "code": 3513152012,
+      "name": "Seboro"
+    },
+    {
+      "code": 3513152013,
+      "name": "Kedungcaluk"
+    },
+    {
+      "code": 3513152014,
+      "name": "Widoro"
+    },
+    {
+      "code": 3513152015,
+      "name": "Gebangan"
+    },
+    {
+      "code": 3513152016,
+      "name": "Duwuhan"
+    },
+    {
+      "code": 3513152017,
+      "name": "\"Soka\"\"an\""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7171031001,
+      "name": "Singkil Satu"
+    },
+    {
+      "code": 7171031002,
+      "name": "Singkil Dua"
+    },
+    {
+      "code": 7171031003,
+      "name": "Wawonasa"
+    },
+    {
+      "code": 7171031004,
+      "name": "Karame"
+    },
+    {
+      "code": 7171031005,
+      "name": "Ketang Baru"
+    },
+    {
+      "code": 7171031006,
+      "name": "Ternate Baru"
+    },
+    {
+      "code": 7171031007,
+      "name": "Kombos Barat"
+    },
+    {
+      "code": 7171031008,
+      "name": "Kombos Timur"
+    },
+    {
+      "code": 7171031009,
+      "name": "Ternate Tanjung"
+    }
+  ]
+}

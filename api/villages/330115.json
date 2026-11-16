@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3301152001,
+      "name": "Tarisi"
+    },
+    {
+      "code": 3301152002,
+      "name": "Bantar"
+    },
+    {
+      "code": 3301152003,
+      "name": "Wanareja"
+    },
+    {
+      "code": 3301152004,
+      "name": "Limbangan"
+    },
+    {
+      "code": 3301152005,
+      "name": "Malabar"
+    },
+    {
+      "code": 3301152006,
+      "name": "Majingklak"
+    },
+    {
+      "code": 3301152007,
+      "name": "Madura"
+    },
+    {
+      "code": 3301152008,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3301152009,
+      "name": "Palugon"
+    },
+    {
+      "code": 3301152010,
+      "name": "Cigintung"
+    },
+    {
+      "code": 3301152011,
+      "name": "Jambu"
+    },
+    {
+      "code": 3301152012,
+      "name": "Adimulya"
+    },
+    {
+      "code": 3301152013,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3301152014,
+      "name": "Cilongkrang"
+    },
+    {
+      "code": 3301152015,
+      "name": "Purwasari"
+    },
+    {
+      "code": 3301152016,
+      "name": "Madusari"
+    }
+  ]
+}

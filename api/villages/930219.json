@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9302192001,
+      "name": "Meto"
+    },
+    {
+      "code": 9302192002,
+      "name": "Obinangge"
+    },
+    {
+      "code": 9302192003,
+      "name": "Watemu"
+    },
+    {
+      "code": 9302192004,
+      "name": "Ujung Kia"
+    }
+  ]
+}

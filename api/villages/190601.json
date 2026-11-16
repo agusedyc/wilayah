@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1906012001,
+      "name": "Lalang Jaya"
+    },
+    {
+      "code": 1906012002,
+      "name": "Kurnia Jaya"
+    },
+    {
+      "code": 1906012003,
+      "name": "Padang"
+    },
+    {
+      "code": 1906012004,
+      "name": "Kelubi"
+    },
+    {
+      "code": 1906012006,
+      "name": "Lalang"
+    },
+    {
+      "code": 1906012007,
+      "name": "Baru"
+    },
+    {
+      "code": 1906012010,
+      "name": "Buku Limau"
+    },
+    {
+      "code": 1906012012,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1906012013,
+      "name": "Bentaian Jaya"
+    }
+  ]
+}

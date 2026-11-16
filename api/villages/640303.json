@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6403031013,
+      "name": "Sambaliung"
+    },
+    {
+      "code": 6403032001,
+      "name": "Long Lanuk"
+    },
+    {
+      "code": 6403032002,
+      "name": "Tumbit Dayak"
+    },
+    {
+      "code": 6403032004,
+      "name": "Inaran"
+    },
+    {
+      "code": 6403032005,
+      "name": "Pegat Bukur"
+    },
+    {
+      "code": 6403032006,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 6403032007,
+      "name": "Suaran"
+    },
+    {
+      "code": 6403032008,
+      "name": "Pilanjau"
+    },
+    {
+      "code": 6403032009,
+      "name": "Pesayan"
+    },
+    {
+      "code": 6403032010,
+      "name": "Sei Bebanir Bangun"
+    },
+    {
+      "code": 6403032011,
+      "name": "Gurimbang"
+    },
+    {
+      "code": 6403032012,
+      "name": "Sukan Tengah"
+    },
+    {
+      "code": 6403032014,
+      "name": "Tanjung Perangat"
+    },
+    {
+      "code": 6403032015,
+      "name": "Bena Baru"
+    }
+  ]
+}

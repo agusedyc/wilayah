@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6107112001,
+      "name": "Capkala"
+    },
+    {
+      "code": 6107112002,
+      "name": "Mandor"
+    },
+    {
+      "code": 6107112003,
+      "name": "Setanduk"
+    },
+    {
+      "code": 6107112004,
+      "name": "Aris"
+    },
+    {
+      "code": 6107112005,
+      "name": "Sebandut"
+    },
+    {
+      "code": 6107112006,
+      "name": "Pawangi"
+    }
+  ]
+}

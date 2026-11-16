@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206172001,
+      "name": "Masyeta"
+    },
+    {
+      "code": 9206172002,
+      "name": "Mestofu"
+    },
+    {
+      "code": 9206172003,
+      "name": "Kalibiru"
+    },
+    {
+      "code": 9206172004,
+      "name": "Mesomda"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1305102001,
+      "name": "Tapakih"
+    },
+    {
+      "code": 1305102002,
+      "name": "Ulakan"
+    },
+    {
+      "code": 1305102003,
+      "name": "Padang Toboh Ulakan"
+    },
+    {
+      "code": 1305102004,
+      "name": "Sungai Gimba Ulakan"
+    },
+    {
+      "code": 1305102005,
+      "name": "Seulayat Ulakan"
+    },
+    {
+      "code": 1305102006,
+      "name": "Manggopoh Palak Gadang Ulakan"
+    },
+    {
+      "code": 1305102007,
+      "name": "Sandi Ulakan"
+    },
+    {
+      "code": 1305102008,
+      "name": "Kampuang Gelapuang Ulakan"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3329112001,
+      "name": "Ciampel"
+    },
+    {
+      "code": 3329112002,
+      "name": "Cigedog"
+    },
+    {
+      "code": 3329112003,
+      "name": "Cikandang"
+    },
+    {
+      "code": 3329112004,
+      "name": "Jagapura"
+    },
+    {
+      "code": 3329112005,
+      "name": "Kemukten"
+    },
+    {
+      "code": 3329112006,
+      "name": "Kradenan"
+    },
+    {
+      "code": 3329112007,
+      "name": "Kersana"
+    },
+    {
+      "code": 3329112008,
+      "name": "Kramatsampang"
+    },
+    {
+      "code": 3329112009,
+      "name": "Kubangpari"
+    },
+    {
+      "code": 3329112010,
+      "name": "Limbangan"
+    },
+    {
+      "code": 3329112011,
+      "name": "Pende"
+    },
+    {
+      "code": 3329112012,
+      "name": "Sindangjaya"
+    },
+    {
+      "code": 3329112013,
+      "name": "Sutamaja"
+    }
+  ]
+}

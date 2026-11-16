@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1201191001,
+      "name": "Lumut"
+    },
+    {
+      "code": 1201192002,
+      "name": "Aek Gambir"
+    },
+    {
+      "code": 1201192003,
+      "name": "Masundung"
+    },
+    {
+      "code": 1201192005,
+      "name": "Lumut Nauli"
+    },
+    {
+      "code": 1201192006,
+      "name": "Lumut Maju"
+    },
+    {
+      "code": 1201192007,
+      "name": "Sialogo"
+    }
+  ]
+}

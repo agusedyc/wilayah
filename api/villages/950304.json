@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 9503042001,
+      "name": "Momnoak"
+    },
+    {
+      "code": 9503042002,
+      "name": "Silimo"
+    },
+    {
+      "code": 9503042003,
+      "name": "Eksa"
+    },
+    {
+      "code": 9503042004,
+      "name": "Siloma"
+    },
+    {
+      "code": 9503042005,
+      "name": "Asia"
+    },
+    {
+      "code": 9503042006,
+      "name": "Suet"
+    },
+    {
+      "code": 9503042007,
+      "name": "Walkruk"
+    },
+    {
+      "code": 9503042008,
+      "name": "Sodule"
+    },
+    {
+      "code": 9503042009,
+      "name": "Sagaduk"
+    },
+    {
+      "code": 9503042010,
+      "name": "Sianele"
+    },
+    {
+      "code": 9503042011,
+      "name": "Eremnahom"
+    },
+    {
+      "code": 9503042012,
+      "name": "Silon"
+    },
+    {
+      "code": 9503042013,
+      "name": "Nikilei"
+    },
+    {
+      "code": 9503042014,
+      "name": "Suok"
+    },
+    {
+      "code": 9503042015,
+      "name": "Fabe"
+    },
+    {
+      "code": 9503042016,
+      "name": "Weakma"
+    },
+    {
+      "code": 9503042017,
+      "name": "Pinda"
+    },
+    {
+      "code": 9503042018,
+      "name": "Hwesalemo"
+    },
+    {
+      "code": 9503042019,
+      "name": "Sebin"
+    },
+    {
+      "code": 9503042020,
+      "name": "Wubialo"
+    }
+  ]
+}

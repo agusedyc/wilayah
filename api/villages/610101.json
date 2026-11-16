@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6101012001,
+      "name": "Dalam Kaum"
+    },
+    {
+      "code": 6101012002,
+      "name": "Lubuk Dagang"
+    },
+    {
+      "code": 6101012003,
+      "name": "Tanjung Bugis"
+    },
+    {
+      "code": 6101012004,
+      "name": "Pendawan"
+    },
+    {
+      "code": 6101012005,
+      "name": "Pasar Melayu"
+    },
+    {
+      "code": 6101012006,
+      "name": "Durian"
+    },
+    {
+      "code": 6101012007,
+      "name": "Lorong"
+    },
+    {
+      "code": 6101012008,
+      "name": "Jagur"
+    },
+    {
+      "code": 6101012009,
+      "name": "Tumuk Manggis"
+    },
+    {
+      "code": 6101012010,
+      "name": "Tanjung Mekar"
+    },
+    {
+      "code": 6101012011,
+      "name": "Sebayan"
+    },
+    {
+      "code": 6101012012,
+      "name": "Kartiasa"
+    },
+    {
+      "code": 6101012013,
+      "name": "Saing Rambi"
+    },
+    {
+      "code": 6101012014,
+      "name": "Lumbang"
+    },
+    {
+      "code": 6101012015,
+      "name": "Sungai Rambah"
+    },
+    {
+      "code": 6101012023,
+      "name": "Gapura"
+    },
+    {
+      "code": 6101012024,
+      "name": "Sumber Harapan"
+    },
+    {
+      "code": 6101012029,
+      "name": "Semangau"
+    }
+  ]
+}

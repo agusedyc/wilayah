@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7411061001,
+      "name": "Lalolae"
+    },
+    {
+      "code": 7411062002,
+      "name": "Keisio"
+    },
+    {
+      "code": 7411062003,
+      "name": "Talodo"
+    },
+    {
+      "code": 7411062004,
+      "name": "Lalosingi"
+    },
+    {
+      "code": 7411062005,
+      "name": "Wesalo"
+    }
+  ]
+}

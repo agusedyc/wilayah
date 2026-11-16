@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3324122001,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3324122002,
+      "name": "Penyangkringan"
+    },
+    {
+      "code": 3324122003,
+      "name": "Bumiayu"
+    },
+    {
+      "code": 3324122004,
+      "name": "Manggungsari"
+    },
+    {
+      "code": 3324122005,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3324122006,
+      "name": "Ngasinan"
+    },
+    {
+      "code": 3324122007,
+      "name": "Weleri"
+    },
+    {
+      "code": 3324122008,
+      "name": "Nawangsari"
+    },
+    {
+      "code": 3324122009,
+      "name": "Karangdowo"
+    },
+    {
+      "code": 3324122010,
+      "name": "Penaruban"
+    },
+    {
+      "code": 3324122011,
+      "name": "Sambongsari"
+    },
+    {
+      "code": 3324122012,
+      "name": "Karanganom"
+    },
+    {
+      "code": 3324122013,
+      "name": "Payung"
+    },
+    {
+      "code": 3324122014,
+      "name": "Pucuksari"
+    },
+    {
+      "code": 3324122015,
+      "name": "Tratemulyo"
+    },
+    {
+      "code": 3324122016,
+      "name": "Montongsari"
+    }
+  ]
+}

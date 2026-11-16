@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507142001,
+      "name": "Kumuluk"
+    },
+    {
+      "code": 9507142002,
+      "name": "Giari"
+    },
+    {
+      "code": 9507142003,
+      "name": "Bonanip"
+    },
+    {
+      "code": 9507142004,
+      "name": "Kukepake"
+    },
+    {
+      "code": 9507142005,
+      "name": "Wayuleme"
+    },
+    {
+      "code": 9507142006,
+      "name": "Bogomanum"
+    },
+    {
+      "code": 9507142007,
+      "name": "Pindoak"
+    },
+    {
+      "code": 9507142008,
+      "name": "Kotorambur"
+    },
+    {
+      "code": 9507142009,
+      "name": "Numbo"
+    },
+    {
+      "code": 9507142010,
+      "name": "Lambui"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1702191001,
+      "name": "Kepala Siring"
+    },
+    {
+      "code": 1702191002,
+      "name": "Talang Rimbo Baru"
+    },
+    {
+      "code": 1702191003,
+      "name": "Talang Rimbo Lama"
+    },
+    {
+      "code": 1702191004,
+      "name": "Siderejo"
+    },
+    {
+      "code": 1702191005,
+      "name": "Kampung Jawa"
+    },
+    {
+      "code": 1702191006,
+      "name": "Air Bang"
+    },
+    {
+      "code": 1702191007,
+      "name": "Pelabuhan Baru"
+    },
+    {
+      "code": 1702191008,
+      "name": "Batu Galing"
+    },
+    {
+      "code": 1702191009,
+      "name": "Banyu Mas"
+    },
+    {
+      "code": 1702192010,
+      "name": "Air Merah"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 3306162001,
+      "name": "Benowo"
+    },
+    {
+      "code": 3306162002,
+      "name": "Kalitapas"
+    },
+    {
+      "code": 3306162003,
+      "name": "Kaliwader"
+    },
+    {
+      "code": 3306162004,
+      "name": "Kedungpucang"
+    },
+    {
+      "code": 3306162005,
+      "name": "Sendangsari"
+    },
+    {
+      "code": 3306162006,
+      "name": "Kaliboto"
+    },
+    {
+      "code": 3306162007,
+      "name": "Kaliurip"
+    },
+    {
+      "code": 3306162008,
+      "name": "Kedungloteng"
+    },
+    {
+      "code": 3306162009,
+      "name": "Wadas"
+    },
+    {
+      "code": 3306162010,
+      "name": "Cacaban Kidul"
+    },
+    {
+      "code": 3306162011,
+      "name": "Cacaban Lor"
+    },
+    {
+      "code": 3306162012,
+      "name": "Pekacangan"
+    },
+    {
+      "code": 3306162013,
+      "name": "Medono"
+    },
+    {
+      "code": 3306162014,
+      "name": "Bleber"
+    },
+    {
+      "code": 3306162015,
+      "name": "Bener"
+    },
+    {
+      "code": 3306162016,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3306162017,
+      "name": "Guntur"
+    },
+    {
+      "code": 3306162018,
+      "name": "Legetan"
+    },
+    {
+      "code": 3306162019,
+      "name": "Ketosari"
+    },
+    {
+      "code": 3306162020,
+      "name": "Kamijoro"
+    },
+    {
+      "code": 3306162021,
+      "name": "Jati"
+    },
+    {
+      "code": 3306162022,
+      "name": "Mayungsari"
+    },
+    {
+      "code": 3306162023,
+      "name": "Kalijambe"
+    },
+    {
+      "code": 3306162024,
+      "name": "Sukowuwuh"
+    },
+    {
+      "code": 3306162025,
+      "name": "Limbangan"
+    },
+    {
+      "code": 3306162026,
+      "name": "Nglaris"
+    },
+    {
+      "code": 3306162027,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3306162028,
+      "name": "Ngasinan"
+    }
+  ]
+}

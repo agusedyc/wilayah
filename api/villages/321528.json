@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3215282001,
+      "name": "Cigunungsari"
+    },
+    {
+      "code": 3215282002,
+      "name": "Wargasetra"
+    },
+    {
+      "code": 3215282003,
+      "name": "Mekarbuana"
+    },
+    {
+      "code": 3215282004,
+      "name": "Cintalaksana"
+    },
+    {
+      "code": 3215282005,
+      "name": "Cintawargi"
+    },
+    {
+      "code": 3215282006,
+      "name": "Cintalanggeng"
+    },
+    {
+      "code": 3215282007,
+      "name": "Kutalanggeng"
+    },
+    {
+      "code": 3215282008,
+      "name": "Kutamaneuh"
+    },
+    {
+      "code": 3215282009,
+      "name": "Cipurwasari"
+    }
+  ]
+}

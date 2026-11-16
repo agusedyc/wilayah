@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3578271001,
+      "name": "Sukomanunggal"
+    },
+    {
+      "code": 3578271002,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3578271003,
+      "name": "Sonokwijenan"
+    },
+    {
+      "code": 3578271004,
+      "name": "Putat Gede"
+    },
+    {
+      "code": 3578271005,
+      "name": "Simomulyo"
+    },
+    {
+      "code": 3578271006,
+      "name": "Simomulyo Baru"
+    }
+  ]
+}

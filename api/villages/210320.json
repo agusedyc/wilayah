@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 2103202001,
+      "name": "Batubi Jaya"
+    },
+    {
+      "code": 2103202002,
+      "name": "Gunung Putri"
+    },
+    {
+      "code": 2103202003,
+      "name": "Sedarat Baru"
+    },
+    {
+      "code": 2103202004,
+      "name": "Sedanau Timur"
+    },
+    {
+      "code": 2103202005,
+      "name": "Semedang"
+    }
+  ]
+}

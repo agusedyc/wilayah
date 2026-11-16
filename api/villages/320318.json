@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3203182001,
+      "name": "Pagelaran"
+    },
+    {
+      "code": 3203182002,
+      "name": "Pangadegan"
+    },
+    {
+      "code": 3203182004,
+      "name": "Gelaranyar"
+    },
+    {
+      "code": 3203182005,
+      "name": "Buniwangi"
+    },
+    {
+      "code": 3203182007,
+      "name": "Sindangkerta"
+    },
+    {
+      "code": 3203182008,
+      "name": "Pasirbaru"
+    },
+    {
+      "code": 3203182009,
+      "name": "Bunijaya"
+    },
+    {
+      "code": 3203182010,
+      "name": "Situhiang"
+    },
+    {
+      "code": 3203182011,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3203182012,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3203182013,
+      "name": "Selagedang"
+    },
+    {
+      "code": 3203182014,
+      "name": "Padamaju"
+    },
+    {
+      "code": 3203182015,
+      "name": "Karangharja"
+    },
+    {
+      "code": 3203182018,
+      "name": "Sukamaju"
+    }
+  ]
+}

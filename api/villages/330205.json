@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3302052001,
+      "name": "Adisana"
+    },
+    {
+      "code": 3302052002,
+      "name": "Bangsa"
+    },
+    {
+      "code": 3302052003,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3302052004,
+      "name": "Randegan"
+    },
+    {
+      "code": 3302052005,
+      "name": "Kaliwedi"
+    },
+    {
+      "code": 3302052006,
+      "name": "Sawangan"
+    },
+    {
+      "code": 3302052007,
+      "name": "Kalisalak"
+    },
+    {
+      "code": 3302052008,
+      "name": "Cindaga"
+    },
+    {
+      "code": 3302052009,
+      "name": "Kebasen"
+    },
+    {
+      "code": 3302052010,
+      "name": "Gambarsari"
+    },
+    {
+      "code": 3302052011,
+      "name": "Tumiyang"
+    },
+    {
+      "code": 3302052012,
+      "name": "Mandirancan"
+    }
+  ]
+}

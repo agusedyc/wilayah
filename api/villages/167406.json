@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1674061001,
+      "name": "Majasari"
+    },
+    {
+      "code": 1674061002,
+      "name": "Tanjung Raman"
+    },
+    {
+      "code": 1674061003,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1674062004,
+      "name": "Tanjung Menang"
+    }
+  ]
+}

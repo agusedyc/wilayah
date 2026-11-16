@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3506262001,
+      "name": "Canggu"
+    },
+    {
+      "code": 3506262002,
+      "name": "Lamong"
+    },
+    {
+      "code": 3506262003,
+      "name": "Bringin"
+    },
+    {
+      "code": 3506262004,
+      "name": "Sekoto"
+    },
+    {
+      "code": 3506262005,
+      "name": "Tunglur"
+    },
+    {
+      "code": 3506262006,
+      "name": "Krecek"
+    },
+    {
+      "code": 3506262007,
+      "name": "Blaru"
+    },
+    {
+      "code": 3506262008,
+      "name": "Badas"
+    }
+  ]
+}

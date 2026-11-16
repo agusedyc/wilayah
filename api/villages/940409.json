@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9404091001,
+      "name": "Kuala Kencana"
+    },
+    {
+      "code": 9404091002,
+      "name": "Karang Senang"
+    },
+    {
+      "code": 9404092003,
+      "name": "Utikini Baru"
+    },
+    {
+      "code": 9404092004,
+      "name": "Bhintuka"
+    },
+    {
+      "code": 9404092005,
+      "name": "Tioka Kencana"
+    },
+    {
+      "code": 9404092006,
+      "name": "Mimika Gunung"
+    },
+    {
+      "code": 9404092007,
+      "name": "Karya Kencana"
+    },
+    {
+      "code": 9404092008,
+      "name": "Utikini Dua"
+    },
+    {
+      "code": 9404092009,
+      "name": "Utikini Tiga"
+    },
+    {
+      "code": 9404092010,
+      "name": "Jimbi"
+    }
+  ]
+}

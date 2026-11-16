@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6205071001,
+      "name": "Jingah"
+    },
+    {
+      "code": 6205071002,
+      "name": "Jambu"
+    },
+    {
+      "code": 6205072003,
+      "name": "Liang Naga"
+    },
+    {
+      "code": 6205072004,
+      "name": "Sabuh"
+    },
+    {
+      "code": 6205072005,
+      "name": "Hajak"
+    },
+    {
+      "code": 6205072006,
+      "name": "Malawaken"
+    },
+    {
+      "code": 6205072007,
+      "name": "Sikui"
+    },
+    {
+      "code": 6205072008,
+      "name": "Panaen"
+    },
+    {
+      "code": 6205072009,
+      "name": "Liang Buah"
+    },
+    {
+      "code": 6205072010,
+      "name": "Gandring"
+    }
+  ]
+}

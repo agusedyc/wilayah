@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3303182001,
+      "name": "Krangean"
+    },
+    {
+      "code": 3303182002,
+      "name": "Darma"
+    },
+    {
+      "code": 3303182003,
+      "name": "Langkap"
+    },
+    {
+      "code": 3303182004,
+      "name": "Adiarsa"
+    },
+    {
+      "code": 3303182005,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3303182006,
+      "name": "Karangpucung"
+    },
+    {
+      "code": 3303182007,
+      "name": "Condong"
+    },
+    {
+      "code": 3303182008,
+      "name": "Kasih"
+    },
+    {
+      "code": 3303182009,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3303182010,
+      "name": "Kertanegara"
+    },
+    {
+      "code": 3303182011,
+      "name": "Mergasana"
+    }
+  ]
+}

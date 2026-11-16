@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1109092001,
+      "name": "Matanurung"
+    },
+    {
+      "code": 1109092002,
+      "name": "Lasikin"
+    },
+    {
+      "code": 1109092003,
+      "name": "Lanting"
+    },
+    {
+      "code": 1109092004,
+      "name": "Busung Indah"
+    },
+    {
+      "code": 1109092005,
+      "name": "Kahad"
+    },
+    {
+      "code": 1109092006,
+      "name": "Simpang Abail"
+    },
+    {
+      "code": 1109092007,
+      "name": "Abail"
+    },
+    {
+      "code": 1109092008,
+      "name": "Nancawa"
+    },
+    {
+      "code": 1109092009,
+      "name": "Labuah"
+    },
+    {
+      "code": 1109092010,
+      "name": "Sua-Sua"
+    },
+    {
+      "code": 1109092011,
+      "name": "Batu-Batu"
+    },
+    {
+      "code": 1109092012,
+      "name": "Situbuk"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3303061011,
+      "name": "Mewek"
+    },
+    {
+      "code": 3303061012,
+      "name": "Karangmanyar"
+    },
+    {
+      "code": 3303061013,
+      "name": "Kalikabong"
+    },
+    {
+      "code": 3303062001,
+      "name": "Jompo"
+    },
+    {
+      "code": 3303062002,
+      "name": "Rabak"
+    },
+    {
+      "code": 3303062003,
+      "name": "Blater"
+    },
+    {
+      "code": 3303062004,
+      "name": "Manduraga"
+    },
+    {
+      "code": 3303062005,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3303062006,
+      "name": "Kalimanah Kulon"
+    },
+    {
+      "code": 3303062007,
+      "name": "Sidakangen"
+    },
+    {
+      "code": 3303062008,
+      "name": "Karangpetir"
+    },
+    {
+      "code": 3303062009,
+      "name": "Kalimanah Wetan"
+    },
+    {
+      "code": 3303062010,
+      "name": "Grecol"
+    },
+    {
+      "code": 3303062014,
+      "name": "Selabaya"
+    },
+    {
+      "code": 3303062015,
+      "name": "Klapasawit"
+    },
+    {
+      "code": 3303062016,
+      "name": "Kedungwuluh"
+    },
+    {
+      "code": 3303062017,
+      "name": "Babakan"
+    }
+  ]
+}

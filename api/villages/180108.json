@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1801082001,
+      "name": "Tarahan"
+    },
+    {
+      "code": 1801082002,
+      "name": "Babatan"
+    },
+    {
+      "code": 1801082003,
+      "name": "Pardasuka"
+    },
+    {
+      "code": 1801082004,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 1801082005,
+      "name": "Tanjung Ratu"
+    },
+    {
+      "code": 1801082006,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1801082007,
+      "name": "Tanjungan"
+    },
+    {
+      "code": 1801082008,
+      "name": "Trans Tanjungan"
+    },
+    {
+      "code": 1801082009,
+      "name": "Neglasari"
+    },
+    {
+      "code": 1801082018,
+      "name": "Karya Tunggal"
+    },
+    {
+      "code": 1801082019,
+      "name": "Rangai Tri Tunggal"
+    },
+    {
+      "code": 1801082020,
+      "name": "Sidomekar"
+    }
+  ]
+}

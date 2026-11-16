@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3526112001,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3526112002,
+      "name": "Kwanyar Barat"
+    },
+    {
+      "code": 3526112003,
+      "name": "Ketetang"
+    },
+    {
+      "code": 3526112004,
+      "name": "Dlemer"
+    },
+    {
+      "code": 3526112005,
+      "name": "Morombuh"
+    },
+    {
+      "code": 3526112006,
+      "name": "Tebul"
+    },
+    {
+      "code": 3526112007,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3526112008,
+      "name": "Janteh"
+    },
+    {
+      "code": 3526112009,
+      "name": "Somor Koneng"
+    },
+    {
+      "code": 3526112010,
+      "name": "Paoran"
+    },
+    {
+      "code": 3526112011,
+      "name": "Karang Entang"
+    },
+    {
+      "code": 3526112012,
+      "name": "Batah Barat"
+    },
+    {
+      "code": 3526112013,
+      "name": "Batah Timur"
+    },
+    {
+      "code": 3526112014,
+      "name": "Pandanan"
+    },
+    {
+      "code": 3526112015,
+      "name": "Gunung Sereng"
+    },
+    {
+      "code": 3526112016,
+      "name": "Duwek Buter"
+    }
+  ]
+}

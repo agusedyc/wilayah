@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3328012001,
+      "name": "Prupuk Selatan"
+    },
+    {
+      "code": 3328012002,
+      "name": "Kaligayam"
+    },
+    {
+      "code": 3328012003,
+      "name": "Dukuh Tengah"
+    },
+    {
+      "code": 3328012004,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3328012005,
+      "name": "Danaraja"
+    },
+    {
+      "code": 3328012006,
+      "name": "Jembayat"
+    },
+    {
+      "code": 3328012007,
+      "name": "Margasari"
+    },
+    {
+      "code": 3328012008,
+      "name": "Pakulaut"
+    },
+    {
+      "code": 3328012009,
+      "name": "Karangdawa"
+    },
+    {
+      "code": 3328012010,
+      "name": "Kalisalak"
+    },
+    {
+      "code": 3328012011,
+      "name": "Jatilaba"
+    },
+    {
+      "code": 3328012012,
+      "name": "Prupuk Utara"
+    },
+    {
+      "code": 3328012013,
+      "name": "Marga Ayu"
+    }
+  ]
+}

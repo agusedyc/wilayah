@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3311082001,
+      "name": "Laban"
+    },
+    {
+      "code": 3311082002,
+      "name": "Tegalmade"
+    },
+    {
+      "code": 3311082003,
+      "name": "Wirun"
+    },
+    {
+      "code": 3311082004,
+      "name": "Bekonang"
+    },
+    {
+      "code": 3311082005,
+      "name": "Cangkol"
+    },
+    {
+      "code": 3311082006,
+      "name": "Klumprit"
+    },
+    {
+      "code": 3311082007,
+      "name": "Kragilan"
+    },
+    {
+      "code": 3311082008,
+      "name": "Sapen"
+    },
+    {
+      "code": 3311082009,
+      "name": "Joho"
+    },
+    {
+      "code": 3311082010,
+      "name": "Demakan"
+    },
+    {
+      "code": 3311082011,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3311082012,
+      "name": "Plumbon"
+    },
+    {
+      "code": 3311082013,
+      "name": "Gadingan"
+    },
+    {
+      "code": 3311082014,
+      "name": "Palur"
+    },
+    {
+      "code": 3311082015,
+      "name": "Triyagan"
+    }
+  ]
+}

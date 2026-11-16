@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7324032001,
+      "name": "Loeha"
+    },
+    {
+      "code": 7324032002,
+      "name": "Mahalona"
+    },
+    {
+      "code": 7324032003,
+      "name": "Timampu"
+    },
+    {
+      "code": 7324032004,
+      "name": "Wawondula"
+    },
+    {
+      "code": 7324032005,
+      "name": "Langkea Raya"
+    },
+    {
+      "code": 7324032006,
+      "name": "Tokalimbo"
+    },
+    {
+      "code": 7324032007,
+      "name": "Baruga"
+    },
+    {
+      "code": 7324032008,
+      "name": "Pekaloa"
+    },
+    {
+      "code": 7324032009,
+      "name": "Lioka"
+    },
+    {
+      "code": 7324032010,
+      "name": "Asuli"
+    },
+    {
+      "code": 7324032011,
+      "name": "Bantilang"
+    },
+    {
+      "code": 7324032012,
+      "name": "Masiku"
+    },
+    {
+      "code": 7324032013,
+      "name": "Rante Angin"
+    },
+    {
+      "code": 7324032014,
+      "name": "Matompi"
+    },
+    {
+      "code": 7324032015,
+      "name": "Tole"
+    },
+    {
+      "code": 7324032016,
+      "name": "Libukan Mandiri"
+    },
+    {
+      "code": 7324032017,
+      "name": "Kalosi"
+    },
+    {
+      "code": 7324032018,
+      "name": "Buangin"
+    }
+  ]
+}

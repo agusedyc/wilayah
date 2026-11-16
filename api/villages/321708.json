@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3217082001,
+      "name": "Kertamulya"
+    },
+    {
+      "code": 3217082002,
+      "name": "Padalarang"
+    },
+    {
+      "code": 3217082003,
+      "name": "Cimerang"
+    },
+    {
+      "code": 3217082004,
+      "name": "Campaka Mekar"
+    },
+    {
+      "code": 3217082005,
+      "name": "Tagogapu"
+    },
+    {
+      "code": 3217082006,
+      "name": "Ciburuy"
+    },
+    {
+      "code": 3217082007,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3217082008,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3217082009,
+      "name": "Jayamekar"
+    },
+    {
+      "code": 3217082010,
+      "name": "Laksanamekar"
+    }
+  ]
+}

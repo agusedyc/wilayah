@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8106082001,
+      "name": "Ariate"
+    },
+    {
+      "code": 8106082002,
+      "name": "Lokki"
+    },
+    {
+      "code": 8106082003,
+      "name": "Luhu"
+    },
+    {
+      "code": 8106082004,
+      "name": "Iha"
+    },
+    {
+      "code": 8106082005,
+      "name": "Kulur"
+    }
+  ]
+}

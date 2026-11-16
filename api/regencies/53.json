@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 regencies",
+  "data": [
+    {
+      "code": 5301,
+      "name": "Kabupaten Kupang"
+    },
+    {
+      "code": 5302,
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    {
+      "code": 5303,
+      "name": "Kabupaten Timor Tengah Utara"
+    },
+    {
+      "code": 5304,
+      "name": "Kabupaten Belu"
+    },
+    {
+      "code": 5305,
+      "name": "Kabupaten Alor"
+    },
+    {
+      "code": 5306,
+      "name": "Kabupaten Flores Timur"
+    },
+    {
+      "code": 5307,
+      "name": "Kabupaten Sikka"
+    },
+    {
+      "code": 5308,
+      "name": "Kabupaten Ende"
+    },
+    {
+      "code": 5309,
+      "name": "Kabupaten Ngada"
+    },
+    {
+      "code": 5310,
+      "name": "Kabupaten Manggarai"
+    },
+    {
+      "code": 5311,
+      "name": "Kabupaten Sumba Timur"
+    },
+    {
+      "code": 5312,
+      "name": "Kabupaten Sumba Barat"
+    },
+    {
+      "code": 5313,
+      "name": "Kabupaten Lembata"
+    },
+    {
+      "code": 5314,
+      "name": "Kabupaten Rote Ndao"
+    },
+    {
+      "code": 5315,
+      "name": "Kabupaten Manggarai Barat"
+    },
+    {
+      "code": 5316,
+      "name": "Kabupaten Nagekeo"
+    },
+    {
+      "code": 5317,
+      "name": "Kabupaten Sumba Tengah"
+    },
+    {
+      "code": 5318,
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    {
+      "code": 5319,
+      "name": "Kabupaten Manggarai Timur"
+    },
+    {
+      "code": 5320,
+      "name": "Kabupaten Sabu Raijua"
+    },
+    {
+      "code": 5321,
+      "name": "Kabupaten Malaka"
+    },
+    {
+      "code": 5371,
+      "name": "Kota Kupang"
+    }
+  ]
+}

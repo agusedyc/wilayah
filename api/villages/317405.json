@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3174051001,
+      "name": "Kebayoran Lama Utara"
+    },
+    {
+      "code": 3174051002,
+      "name": "Pondok Pinang"
+    },
+    {
+      "code": 3174051003,
+      "name": "Cipulir"
+    },
+    {
+      "code": 3174051004,
+      "name": "Grogol Utara"
+    },
+    {
+      "code": 3174051005,
+      "name": "Grogol Selatan"
+    },
+    {
+      "code": 3174051006,
+      "name": "Kebayoran Lama Selatan"
+    }
+  ]
+}

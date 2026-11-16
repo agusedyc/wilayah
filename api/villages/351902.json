@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3519021002,
+      "name": "Mlilir"
+    },
+    {
+      "code": 3519021012,
+      "name": "Bangunsari"
+    },
+    {
+      "code": 3519022001,
+      "name": "Lembah"
+    },
+    {
+      "code": 3519022003,
+      "name": "Kradinan"
+    },
+    {
+      "code": 3519022004,
+      "name": "Suluk"
+    },
+    {
+      "code": 3519022005,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3519022006,
+      "name": "Bader"
+    },
+    {
+      "code": 3519022007,
+      "name": "Candimulyo"
+    },
+    {
+      "code": 3519022008,
+      "name": "Glonggong"
+    },
+    {
+      "code": 3519022009,
+      "name": "Dolopo"
+    },
+    {
+      "code": 3519022010,
+      "name": "Doho"
+    },
+    {
+      "code": 3519022011,
+      "name": "Ketawang"
+    }
+  ]
+}

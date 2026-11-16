@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3602172001,
+      "name": "Anggalan"
+    },
+    {
+      "code": 3602172002,
+      "name": "Muncangkopong"
+    },
+    {
+      "code": 3602172003,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3602172004,
+      "name": "Tamanjaya"
+    },
+    {
+      "code": 3602172005,
+      "name": "Cigoong Utara"
+    },
+    {
+      "code": 3602172006,
+      "name": "Muaradua"
+    },
+    {
+      "code": 3602172007,
+      "name": "Cikulur"
+    },
+    {
+      "code": 3602172008,
+      "name": "Curugpanjang"
+    },
+    {
+      "code": 3602172009,
+      "name": "Cigoong Selatan"
+    },
+    {
+      "code": 3602172010,
+      "name": "Sumurbandung"
+    },
+    {
+      "code": 3602172011,
+      "name": "Parage"
+    },
+    {
+      "code": 3602172012,
+      "name": "Sukadaya"
+    },
+    {
+      "code": 3602172013,
+      "name": "Pasirgintung"
+    }
+  ]
+}

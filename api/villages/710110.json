@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7101101003,
+      "name": "Imandi"
+    },
+    {
+      "code": 7101102001,
+      "name": "Tonom"
+    },
+    {
+      "code": 7101102002,
+      "name": "Mogoyunggung"
+    },
+    {
+      "code": 7101102004,
+      "name": "Modomang"
+    },
+    {
+      "code": 7101102005,
+      "name": "Kembang Mertha"
+    },
+    {
+      "code": 7101102006,
+      "name": "Dumoga"
+    },
+    {
+      "code": 7101102013,
+      "name": "Pinonobatuan"
+    },
+    {
+      "code": 7101102017,
+      "name": "Dumoga II"
+    },
+    {
+      "code": 7101102018,
+      "name": "Pinonobatuan Barat"
+    },
+    {
+      "code": 7101102019,
+      "name": "Amertha Sari"
+    },
+    {
+      "code": 7101102020,
+      "name": "Kembang Sari"
+    },
+    {
+      "code": 7101102021,
+      "name": "Amertha Buana"
+    },
+    {
+      "code": 7101102023,
+      "name": "Mogoyunggung Satu"
+    },
+    {
+      "code": 7101102024,
+      "name": "Mogoyunggung Dua"
+    },
+    {
+      "code": 7101102025,
+      "name": "Dumoga Tiga"
+    },
+    {
+      "code": 7101102026,
+      "name": "Dumoga Empat"
+    }
+  ]
+}

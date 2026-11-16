@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1310042001,
+      "name": "Sitiung"
+    },
+    {
+      "code": 1310042002,
+      "name": "Siguntur"
+    },
+    {
+      "code": 1310042004,
+      "name": "Gunung Medan"
+    },
+    {
+      "code": 1310042005,
+      "name": "Sungai Duo"
+    }
+  ]
+}

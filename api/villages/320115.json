@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3201152001,
+      "name": "Ciampea"
+    },
+    {
+      "code": 3201152002,
+      "name": "Cinangka"
+    },
+    {
+      "code": 3201152003,
+      "name": "Cihideung Udik"
+    },
+    {
+      "code": 3201152004,
+      "name": "Bojongjengkol"
+    },
+    {
+      "code": 3201152005,
+      "name": "Tegalwaru"
+    },
+    {
+      "code": 3201152006,
+      "name": "Cibuntu"
+    },
+    {
+      "code": 3201152007,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3201152008,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3201152009,
+      "name": "Bojongrangkas"
+    },
+    {
+      "code": 3201152010,
+      "name": "Cihideung Ilir"
+    },
+    {
+      "code": 3201152011,
+      "name": "Cibanteng"
+    },
+    {
+      "code": 3201152012,
+      "name": "Benteng"
+    },
+    {
+      "code": 3201152013,
+      "name": "Ciampea Udik"
+    }
+  ]
+}

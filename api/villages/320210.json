@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3202102001,
+      "name": "Cikembar"
+    },
+    {
+      "code": 3202102002,
+      "name": "Parakanlima"
+    },
+    {
+      "code": 3202102003,
+      "name": "Bojong"
+    },
+    {
+      "code": 3202102004,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3202102005,
+      "name": "Bojongkembar"
+    },
+    {
+      "code": 3202102006,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3202102007,
+      "name": "Cibatu"
+    },
+    {
+      "code": 3202102008,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3202102009,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3202102010,
+      "name": "Bojongraharja"
+    }
+  ]
+}

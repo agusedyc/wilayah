@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1205091004,
+      "name": "Hinai Kiri"
+    },
+    {
+      "code": 1205092001,
+      "name": "Kepala Sungai"
+    },
+    {
+      "code": 1205092002,
+      "name": "Teluk"
+    },
+    {
+      "code": 1205092003,
+      "name": "Cinta Raja"
+    },
+    {
+      "code": 1205092005,
+      "name": "Kebun Kelapa"
+    },
+    {
+      "code": 1205092006,
+      "name": "Sungai Ular"
+    },
+    {
+      "code": 1205092007,
+      "name": "Tanjung Ibus"
+    },
+    {
+      "code": 1205092008,
+      "name": "Secanggang"
+    },
+    {
+      "code": 1205092009,
+      "name": "Selotong"
+    },
+    {
+      "code": 1205092010,
+      "name": "Karang Gading"
+    },
+    {
+      "code": 1205092011,
+      "name": "Jaring Halus"
+    },
+    {
+      "code": 1205092012,
+      "name": "Telaga Jernih"
+    },
+    {
+      "code": 1205092013,
+      "name": "Perkotaan"
+    },
+    {
+      "code": 1205092014,
+      "name": "Kwala Besar"
+    },
+    {
+      "code": 1205092015,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1205092016,
+      "name": "Pantai Gading"
+    },
+    {
+      "code": 1205092017,
+      "name": "Suka Mulia"
+    }
+  ]
+}

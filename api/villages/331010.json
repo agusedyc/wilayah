@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3310102001,
+      "name": "Gumul"
+    },
+    {
+      "code": 3310102002,
+      "name": "Banyuaeng"
+    },
+    {
+      "code": 3310102003,
+      "name": "Kadilajo"
+    },
+    {
+      "code": 3310102004,
+      "name": "Somokaton"
+    },
+    {
+      "code": 3310102005,
+      "name": "Jetis"
+    },
+    {
+      "code": 3310102006,
+      "name": "Karangnongko"
+    },
+    {
+      "code": 3310102007,
+      "name": "Jagalan"
+    },
+    {
+      "code": 3310102008,
+      "name": "Demakijo"
+    },
+    {
+      "code": 3310102009,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3310102010,
+      "name": "Kanoman"
+    },
+    {
+      "code": 3310102011,
+      "name": "Gemampir"
+    },
+    {
+      "code": 3310102012,
+      "name": "Jiwan"
+    },
+    {
+      "code": 3310102013,
+      "name": "Logede"
+    },
+    {
+      "code": 3310102014,
+      "name": "Ngemplak"
+    }
+  ]
+}

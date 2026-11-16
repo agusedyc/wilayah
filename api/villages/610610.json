@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6106102001,
+      "name": "Semitau Hulu"
+    },
+    {
+      "code": 6106102002,
+      "name": "Kenerak"
+    },
+    {
+      "code": 6106102003,
+      "name": "Nanga Seberuang"
+    },
+    {
+      "code": 6106102004,
+      "name": "Entipan"
+    },
+    {
+      "code": 6106102005,
+      "name": "Kenepai Komplek"
+    },
+    {
+      "code": 6106102006,
+      "name": "Semitau Hilir"
+    },
+    {
+      "code": 6106102007,
+      "name": "Nanga Kenepai"
+    },
+    {
+      "code": 6106102008,
+      "name": "Tua' Abang"
+    },
+    {
+      "code": 6106102009,
+      "name": "Nanga Lemedak"
+    },
+    {
+      "code": 6106102010,
+      "name": "Marsedan Raya"
+    },
+    {
+      "code": 6106102011,
+      "name": "Padung Kumang"
+    },
+    {
+      "code": 6106102012,
+      "name": "Sekedau"
+    }
+  ]
+}

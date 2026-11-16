@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5311142001,
+      "name": "Kamanggih"
+    },
+    {
+      "code": 5311142002,
+      "name": "Kambatabundung"
+    },
+    {
+      "code": 5311142003,
+      "name": "Meurumba"
+    },
+    {
+      "code": 5311142004,
+      "name": "Laimbonga"
+    },
+    {
+      "code": 5311142005,
+      "name": "Kota Kawau"
+    },
+    {
+      "code": 5311142006,
+      "name": "Matawai Katingga"
+    },
+    {
+      "code": 5311142007,
+      "name": "Kataka"
+    },
+    {
+      "code": 5311142008,
+      "name": "Matawai Maringgu"
+    },
+    {
+      "code": 5311142009,
+      "name": "Mauramba"
+    }
+  ]
+}

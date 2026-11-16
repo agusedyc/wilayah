@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7503021008,
+      "name": "Padengo"
+    },
+    {
+      "code": 7503021009,
+      "name": "Olohuta"
+    },
+    {
+      "code": 7503021010,
+      "name": "Tumbihe"
+    },
+    {
+      "code": 7503021011,
+      "name": "Pauwo"
+    },
+    {
+      "code": 7503021028,
+      "name": "Olohuta Utara"
+    },
+    {
+      "code": 7503022006,
+      "name": "Dutohe"
+    },
+    {
+      "code": 7503022007,
+      "name": "Tanggilingo"
+    },
+    {
+      "code": 7503022012,
+      "name": "Toto Selatan"
+    },
+    {
+      "code": 7503022013,
+      "name": "Poowo"
+    },
+    {
+      "code": 7503022024,
+      "name": "Talango"
+    },
+    {
+      "code": 7503022026,
+      "name": "Poowo Barat"
+    },
+    {
+      "code": 7503022029,
+      "name": "Dutohe Barat"
+    }
+  ]
+}

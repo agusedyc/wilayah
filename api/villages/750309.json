@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7503092001,
+      "name": "Taludaa"
+    },
+    {
+      "code": 7503092002,
+      "name": "Sogitia"
+    },
+    {
+      "code": 7503092003,
+      "name": "Moodulio"
+    },
+    {
+      "code": 7503092004,
+      "name": "Bilonlantunga"
+    },
+    {
+      "code": 7503092005,
+      "name": "Inogaluma"
+    },
+    {
+      "code": 7503092006,
+      "name": "Monano"
+    },
+    {
+      "code": 7503092007,
+      "name": "Tumbuh Mekar"
+    },
+    {
+      "code": 7503092008,
+      "name": "Molamahu"
+    },
+    {
+      "code": 7503092009,
+      "name": "Masiaga"
+    },
+    {
+      "code": 7503092010,
+      "name": "Ilohuuwa"
+    },
+    {
+      "code": 7503092011,
+      "name": "Muara Bone"
+    },
+    {
+      "code": 7503092012,
+      "name": "Cendana Putih"
+    },
+    {
+      "code": 7503092013,
+      "name": "Waluhu"
+    },
+    {
+      "code": 7503092014,
+      "name": "Permata"
+    }
+  ]
+}

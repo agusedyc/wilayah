@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3205352001,
+      "name": "Cisewu"
+    },
+    {
+      "code": 3205352002,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3205352003,
+      "name": "Pamalayan"
+    },
+    {
+      "code": 3205352004,
+      "name": "Cikarang"
+    },
+    {
+      "code": 3205352005,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3205352006,
+      "name": "Nyalindung"
+    },
+    {
+      "code": 3205352007,
+      "name": "Karangsewu"
+    },
+    {
+      "code": 3205352008,
+      "name": "Mekarsewu"
+    },
+    {
+      "code": 3205352009,
+      "name": "Panggalih"
+    }
+  ]
+}

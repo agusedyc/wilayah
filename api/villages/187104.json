@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1871041001,
+      "name": "Panjang Selatan"
+    },
+    {
+      "code": 1871041002,
+      "name": "Srengsem"
+    },
+    {
+      "code": 1871041003,
+      "name": "Panjang Utara"
+    },
+    {
+      "code": 1871041004,
+      "name": "Pidada"
+    },
+    {
+      "code": 1871041007,
+      "name": "Karang Maritim"
+    },
+    {
+      "code": 1871041008,
+      "name": "Way Lunik"
+    },
+    {
+      "code": 1871041009,
+      "name": "Ketapang"
+    },
+    {
+      "code": 1871041010,
+      "name": "Ketapang Kuala"
+    }
+  ]
+}

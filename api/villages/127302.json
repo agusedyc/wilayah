@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1273021001,
+      "name": "Kota Baringin"
+    },
+    {
+      "code": 1273021002,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1273021003,
+      "name": "Pasar Belakang"
+    },
+    {
+      "code": 1273021004,
+      "name": "Pancuran Gerobak"
+    }
+  ]
+}

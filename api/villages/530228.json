@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302282001,
+      "name": "Sillu"
+    },
+    {
+      "code": 5302282002,
+      "name": "Nunukhniti"
+    },
+    {
+      "code": 5302282003,
+      "name": "Kaeneno"
+    },
+    {
+      "code": 5302282004,
+      "name": "Oeleon"
+    },
+    {
+      "code": 5302282005,
+      "name": "Tunis"
+    },
+    {
+      "code": 5302282006,
+      "name": "Bileon"
+    },
+    {
+      "code": 5302282007,
+      "name": "Besle'u"
+    }
+  ]
+}

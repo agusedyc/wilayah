@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3304032001,
+      "name": "Jalatunda"
+    },
+    {
+      "code": 3304032002,
+      "name": "Somawangi"
+    },
+    {
+      "code": 3304032003,
+      "name": "Kaliwungu"
+    },
+    {
+      "code": 3304032004,
+      "name": "Kebanaran"
+    },
+    {
+      "code": 3304032005,
+      "name": "Glempang"
+    },
+    {
+      "code": 3304032006,
+      "name": "Salamerta"
+    },
+    {
+      "code": 3304032007,
+      "name": "Purwasaba"
+    },
+    {
+      "code": 3304032008,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3304032009,
+      "name": "Panggisari"
+    },
+    {
+      "code": 3304032010,
+      "name": "Candiwulan"
+    },
+    {
+      "code": 3304032011,
+      "name": "Simbang"
+    },
+    {
+      "code": 3304032012,
+      "name": "Kertayasa"
+    },
+    {
+      "code": 3304032013,
+      "name": "Banjengan"
+    },
+    {
+      "code": 3304032014,
+      "name": "Mandiraja Kulon"
+    },
+    {
+      "code": 3304032015,
+      "name": "Kebakalan"
+    },
+    {
+      "code": 3304032016,
+      "name": "Mandiraja Wetan"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1601131003,
+      "name": "Tanjungagung"
+    },
+    {
+      "code": 1601131004,
+      "name": "Saung Naga"
+    },
+    {
+      "code": 1601131005,
+      "name": "Talang Jawa"
+    },
+    {
+      "code": 1601131007,
+      "name": "Batu Kuning"
+    },
+    {
+      "code": 1601131011,
+      "name": "Air Gading"
+    },
+    {
+      "code": 1601132001,
+      "name": "Batu Putih"
+    },
+    {
+      "code": 1601132002,
+      "name": "Laya"
+    },
+    {
+      "code": 1601132006,
+      "name": "Pusar"
+    },
+    {
+      "code": 1601132008,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1601132009,
+      "name": "Karang Endah"
+    },
+    {
+      "code": 1601132010,
+      "name": "Tanjung Karang"
+    },
+    {
+      "code": 1601132012,
+      "name": "Sukamaju"
+    }
+  ]
+}

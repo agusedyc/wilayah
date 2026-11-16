@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3329072001,
+      "name": "Bojong"
+    },
+    {
+      "code": 3329072002,
+      "name": "Buaran"
+    },
+    {
+      "code": 3329072003,
+      "name": "Janegara"
+    },
+    {
+      "code": 3329072004,
+      "name": "Jatibarang Kidul"
+    },
+    {
+      "code": 3329072005,
+      "name": "Jatibarang Lor"
+    },
+    {
+      "code": 3329072006,
+      "name": "Kalialang"
+    },
+    {
+      "code": 3329072007,
+      "name": "Kalipucang"
+    },
+    {
+      "code": 3329072008,
+      "name": "Karanglo"
+    },
+    {
+      "code": 3329072009,
+      "name": "Kebogadung"
+    },
+    {
+      "code": 3329072010,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3329072011,
+      "name": "Kedungtukang"
+    },
+    {
+      "code": 3329072012,
+      "name": "Kemiriamba"
+    },
+    {
+      "code": 3329072013,
+      "name": "Kendawa"
+    },
+    {
+      "code": 3329072014,
+      "name": "Kertasinduyasa"
+    },
+    {
+      "code": 3329072015,
+      "name": "Klampis"
+    },
+    {
+      "code": 3329072016,
+      "name": "Klikiran"
+    },
+    {
+      "code": 3329072017,
+      "name": "Kramat"
+    },
+    {
+      "code": 3329072018,
+      "name": "Pamengger"
+    },
+    {
+      "code": 3329072019,
+      "name": "Pedeslohor"
+    },
+    {
+      "code": 3329072020,
+      "name": "Rengasbandung"
+    },
+    {
+      "code": 3329072021,
+      "name": "Tegalwulung"
+    },
+    {
+      "code": 3329072022,
+      "name": "Tembelang"
+    }
+  ]
+}

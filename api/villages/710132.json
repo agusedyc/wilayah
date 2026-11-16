@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7101322001,
+      "name": "Bilalang III"
+    },
+    {
+      "code": 7101322002,
+      "name": "Bilalang IV"
+    },
+    {
+      "code": 7101322003,
+      "name": "Tudu Aog"
+    },
+    {
+      "code": 7101322004,
+      "name": "Tudu Aog Baru"
+    },
+    {
+      "code": 7101322005,
+      "name": "Kolinganga'an"
+    },
+    {
+      "code": 7101322006,
+      "name": "Bilalang III Utara"
+    },
+    {
+      "code": 7101322007,
+      "name": "Bilalang Baru"
+    },
+    {
+      "code": 7101322008,
+      "name": "Apado"
+    }
+  ]
+}

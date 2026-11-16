@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3322111002,
+      "name": "Bawen"
+    },
+    {
+      "code": 3322111007,
+      "name": "Harjosari"
+    },
+    {
+      "code": 3322112001,
+      "name": "Doplang"
+    },
+    {
+      "code": 3322112003,
+      "name": "Asinan"
+    },
+    {
+      "code": 3322112004,
+      "name": "Polosiri"
+    },
+    {
+      "code": 3322112005,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3322112006,
+      "name": "Lemahireng"
+    },
+    {
+      "code": 3322112008,
+      "name": "Samban"
+    },
+    {
+      "code": 3322112009,
+      "name": "Poncoruso"
+    }
+  ]
+}

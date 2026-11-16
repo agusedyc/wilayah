@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3604192001,
+      "name": "Petir"
+    },
+    {
+      "code": 3604192002,
+      "name": "Cirangkong"
+    },
+    {
+      "code": 3604192003,
+      "name": "Tambiluk"
+    },
+    {
+      "code": 3604192004,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3604192005,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3604192006,
+      "name": "Seuat"
+    },
+    {
+      "code": 3604192007,
+      "name": "Nagara Padang"
+    },
+    {
+      "code": 3604192008,
+      "name": "Kadugenep"
+    },
+    {
+      "code": 3604192009,
+      "name": "Cireundeu"
+    },
+    {
+      "code": 3604192010,
+      "name": "Sanding"
+    },
+    {
+      "code": 3604192011,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 3604192012,
+      "name": "Mekar Baru"
+    },
+    {
+      "code": 3604192013,
+      "name": "Seuat Jaya"
+    },
+    {
+      "code": 3604192014,
+      "name": "Kubang Jaya"
+    },
+    {
+      "code": 3604192015,
+      "name": "Bojong Nangka"
+    }
+  ]
+}

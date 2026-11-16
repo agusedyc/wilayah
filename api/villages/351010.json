@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3510102001,
+      "name": "Tegalharjo"
+    },
+    {
+      "code": 3510102002,
+      "name": "Sepanjang"
+    },
+    {
+      "code": 3510102003,
+      "name": "Karangharjo"
+    },
+    {
+      "code": 3510102004,
+      "name": "Tulungrejo"
+    },
+    {
+      "code": 3510102005,
+      "name": "Sumbergondo"
+    },
+    {
+      "code": 3510102006,
+      "name": "Bumiharjo"
+    },
+    {
+      "code": 3510102007,
+      "name": "Margomulyo"
+    }
+  ]
+}

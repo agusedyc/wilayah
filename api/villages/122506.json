@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1225062001,
+      "name": "Balodano"
+    },
+    {
+      "code": 1225062002,
+      "name": "Hiambanua"
+    },
+    {
+      "code": 1225062003,
+      "name": "Hilimayo"
+    },
+    {
+      "code": 1225062004,
+      "name": "Sihareo"
+    },
+    {
+      "code": 1225062005,
+      "name": "Lolomboli"
+    },
+    {
+      "code": 1225062006,
+      "name": "Ononamolo I"
+    },
+    {
+      "code": 1225062007,
+      "name": "Hilimbaruzo"
+    },
+    {
+      "code": 1225062008,
+      "name": "Tarahoso"
+    },
+    {
+      "code": 1225062009,
+      "name": "Ononamolo II"
+    },
+    {
+      "code": 1225062010,
+      "name": "Taraha"
+    },
+    {
+      "code": 1225062011,
+      "name": "Lahagu"
+    },
+    {
+      "code": 1225062012,
+      "name": "Hilimbowo"
+    }
+  ]
+}

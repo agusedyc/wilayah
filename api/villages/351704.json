@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3517042001,
+      "name": "Kebondalem"
+    },
+    {
+      "code": 3517042002,
+      "name": "Mundusewu"
+    },
+    {
+      "code": 3517042003,
+      "name": "Pakel"
+    },
+    {
+      "code": 3517042004,
+      "name": "Karangan"
+    },
+    {
+      "code": 3517042005,
+      "name": "Ngampungan"
+    },
+    {
+      "code": 3517042006,
+      "name": "Jenisgelaran"
+    },
+    {
+      "code": 3517042007,
+      "name": "Bareng"
+    },
+    {
+      "code": 3517042008,
+      "name": "Tebel"
+    },
+    {
+      "code": 3517042009,
+      "name": "Mojotengah"
+    },
+    {
+      "code": 3517042010,
+      "name": "Banjaragung"
+    },
+    {
+      "code": 3517042011,
+      "name": "Nglebak"
+    },
+    {
+      "code": 3517042012,
+      "name": "Ngrimbi"
+    },
+    {
+      "code": 3517042013,
+      "name": "Pulosari"
+    }
+  ]
+}

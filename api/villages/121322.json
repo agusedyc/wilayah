@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1213222001,
+      "name": "Sinunukan I"
+    },
+    {
+      "code": 1213222002,
+      "name": "Sinunukan II"
+    },
+    {
+      "code": 1213222003,
+      "name": "Sinunukan III"
+    },
+    {
+      "code": 1213222004,
+      "name": "Sinunukan IV"
+    },
+    {
+      "code": 1213222005,
+      "name": "Bintungan Bejangkar Baru"
+    },
+    {
+      "code": 1213222006,
+      "name": "Banjar Aur Utara"
+    },
+    {
+      "code": 1213222007,
+      "name": "Kampung Kapas II"
+    },
+    {
+      "code": 1213222008,
+      "name": "Airapa"
+    },
+    {
+      "code": 1213222009,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 1213222010,
+      "name": "Wido Daren"
+    },
+    {
+      "code": 1213222011,
+      "name": "Wono Sari"
+    },
+    {
+      "code": 1213222012,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1213222013,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 1213222014,
+      "name": "Sinunukan I Central"
+    }
+  ]
+}

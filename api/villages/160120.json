@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1601202001,
+      "name": "Kelumpang"
+    },
+    {
+      "code": 1601202002,
+      "name": "Gunung Tiga"
+    },
+    {
+      "code": 1601202003,
+      "name": "Mendingin"
+    },
+    {
+      "code": 1601202004,
+      "name": "Ulak Lebar"
+    },
+    {
+      "code": 1601202005,
+      "name": "Pedataran"
+    },
+    {
+      "code": 1601202006,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1601202007,
+      "name": "Belandang"
+    }
+  ]
+}

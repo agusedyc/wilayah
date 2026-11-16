@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3529232001,
+      "name": "Sukajeruk"
+    },
+    {
+      "code": 3529232002,
+      "name": "Masalima"
+    },
+    {
+      "code": 3529232003,
+      "name": "Masakambing"
+    },
+    {
+      "code": 3529232004,
+      "name": "Kramian"
+    }
+  ]
+}

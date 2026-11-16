@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3301172001,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3301172002,
+      "name": "Brani"
+    },
+    {
+      "code": 3301172003,
+      "name": "Sampang"
+    },
+    {
+      "code": 3301172004,
+      "name": "Sidasari"
+    },
+    {
+      "code": 3301172005,
+      "name": "Paketingan"
+    },
+    {
+      "code": 3301172006,
+      "name": "Ketanggung"
+    },
+    {
+      "code": 3301172007,
+      "name": "Nusajati"
+    },
+    {
+      "code": 3301172008,
+      "name": "Karangjati"
+    },
+    {
+      "code": 3301172009,
+      "name": "Paberasan"
+    },
+    {
+      "code": 3301172010,
+      "name": "Karangasem"
+    }
+  ]
+}

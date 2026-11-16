@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 6306082001,
+      "name": "Pakapuran Kecil"
+    },
+    {
+      "code": 6306082002,
+      "name": "Panggandingan"
+    },
+    {
+      "code": 6306082003,
+      "name": "Tambak Bitin"
+    },
+    {
+      "code": 6306082004,
+      "name": "Pakan Dalam"
+    },
+    {
+      "code": 6306082005,
+      "name": "Paramaian"
+    },
+    {
+      "code": 6306082006,
+      "name": "Pandak Daun"
+    },
+    {
+      "code": 6306082007,
+      "name": "Murung Raya"
+    },
+    {
+      "code": 6306082008,
+      "name": "Balah Paikat"
+    },
+    {
+      "code": 6306082009,
+      "name": "Sungai Garuda"
+    },
+    {
+      "code": 6306082010,
+      "name": "Sungai Mandala"
+    },
+    {
+      "code": 6306082011,
+      "name": "Mdl. Murung Mesjid"
+    },
+    {
+      "code": 6306082012,
+      "name": "Baruh Kembang"
+    },
+    {
+      "code": 6306082013,
+      "name": "Teluk Haur"
+    },
+    {
+      "code": 6306082014,
+      "name": "Pasungkan"
+    },
+    {
+      "code": 6306082015,
+      "name": "Teluk Labak"
+    },
+    {
+      "code": 6306082016,
+      "name": "Hamayung"
+    },
+    {
+      "code": 6306082017,
+      "name": "Hamayung Utara"
+    },
+    {
+      "code": 6306082018,
+      "name": "Paharangan"
+    },
+    {
+      "code": 6306082019,
+      "name": "Hakurung"
+    }
+  ]
+}

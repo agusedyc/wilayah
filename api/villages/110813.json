@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1108132001,
+      "name": "Alue"
+    },
+    {
+      "code": 1108132002,
+      "name": "Mee Matang Panyang"
+    },
+    {
+      "code": 1108132003,
+      "name": "Blang"
+    },
+    {
+      "code": 1108132004,
+      "name": "Paloh"
+    },
+    {
+      "code": 1108132005,
+      "name": "Keude Matang Payang"
+    },
+    {
+      "code": 1108132006,
+      "name": "Gampong Pande"
+    },
+    {
+      "code": 1108132007,
+      "name": "Matang Ranup Laseh"
+    },
+    {
+      "code": 1108132008,
+      "name": "Cangguek"
+    },
+    {
+      "code": 1108132009,
+      "name": "Kumbang"
+    },
+    {
+      "code": 1108132010,
+      "name": "Prie"
+    },
+    {
+      "code": 1108132011,
+      "name": "Keutapang"
+    },
+    {
+      "code": 1108132012,
+      "name": "Keude Jrat Manyang"
+    },
+    {
+      "code": 1108132013,
+      "name": "Teupin Gapeuh"
+    },
+    {
+      "code": 1108132014,
+      "name": "Cibrek"
+    },
+    {
+      "code": 1108132015,
+      "name": "Me Merbo"
+    },
+    {
+      "code": 1108132016,
+      "name": "Ulee Tanoh"
+    },
+    {
+      "code": 1108132017,
+      "name": "Matang Janeng"
+    },
+    {
+      "code": 1108132018,
+      "name": "Kuala Keureutou Barat"
+    }
+  ]
+}

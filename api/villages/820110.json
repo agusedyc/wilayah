@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8201102001,
+      "name": "Jano"
+    },
+    {
+      "code": 8201102002,
+      "name": "Jangailulu"
+    },
+    {
+      "code": 8201102003,
+      "name": "Baja"
+    },
+    {
+      "code": 8201102004,
+      "name": "Gam Kahe"
+    },
+    {
+      "code": 8201102005,
+      "name": "Barataku"
+    },
+    {
+      "code": 8201102006,
+      "name": "Pumadada"
+    },
+    {
+      "code": 8201102007,
+      "name": "Tosomolo"
+    },
+    {
+      "code": 8201102008,
+      "name": "Bilote"
+    },
+    {
+      "code": 8201102009,
+      "name": "Bakun Pantai"
+    },
+    {
+      "code": 8201102010,
+      "name": "Aruku"
+    }
+  ]
+}

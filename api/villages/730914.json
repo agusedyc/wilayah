@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7309141001,
+      "name": "Pettuadae"
+    },
+    {
+      "code": 7309141002,
+      "name": "Boribellayya"
+    },
+    {
+      "code": 7309141003,
+      "name": "Alliritengae"
+    },
+    {
+      "code": 7309141004,
+      "name": "Turikale"
+    },
+    {
+      "code": 7309141005,
+      "name": "Taroada"
+    },
+    {
+      "code": 7309141006,
+      "name": "Raya"
+    },
+    {
+      "code": 7309141007,
+      "name": "Adatongeng"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9502022001,
+      "name": "Oknanggul"
+    },
+    {
+      "code": 9502022002,
+      "name": "Kukihil"
+    },
+    {
+      "code": 9502022003,
+      "name": "Kiwi"
+    },
+    {
+      "code": 9502022004,
+      "name": "Berusaha"
+    },
+    {
+      "code": 9502022005,
+      "name": "Pelebib"
+    },
+    {
+      "code": 9502022006,
+      "name": "Sopamikma"
+    },
+    {
+      "code": 9502022007,
+      "name": "Asua"
+    },
+    {
+      "code": 9502022008,
+      "name": "Lolim"
+    },
+    {
+      "code": 9502022009,
+      "name": "Pomding"
+    },
+    {
+      "code": 9502022010,
+      "name": "Diip"
+    },
+    {
+      "code": 9502022011,
+      "name": "Delpem"
+    },
+    {
+      "code": 9502022012,
+      "name": "Mangoldoki"
+    }
+  ]
+}

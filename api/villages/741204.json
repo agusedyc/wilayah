@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7412041001,
+      "name": "Munse"
+    },
+    {
+      "code": 7412042002,
+      "name": "Lebo"
+    },
+    {
+      "code": 7412042003,
+      "name": "Tekonea"
+    },
+    {
+      "code": 7412042004,
+      "name": "Wakadawu"
+    },
+    {
+      "code": 7412042005,
+      "name": "Munse Indah"
+    },
+    {
+      "code": 7412042006,
+      "name": "Lapulu"
+    },
+    {
+      "code": 7412042007,
+      "name": "Laywo Jaya"
+    },
+    {
+      "code": 7412042008,
+      "name": "Nanga"
+    },
+    {
+      "code": 7412042009,
+      "name": "Butuea"
+    },
+    {
+      "code": 7412042010,
+      "name": "Lembono"
+    },
+    {
+      "code": 7412042011,
+      "name": "Saburano"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8108052001,
+      "name": "Letwurung"
+    },
+    {
+      "code": 8108052002,
+      "name": "Yatoke"
+    },
+    {
+      "code": 8108052003,
+      "name": "Kroing"
+    },
+    {
+      "code": 8108052004,
+      "name": "Nakarhamto"
+    },
+    {
+      "code": 8108052005,
+      "name": "Emplawas"
+    },
+    {
+      "code": 8108052006,
+      "name": "Kokwari"
+    },
+    {
+      "code": 8108052007,
+      "name": "Ahanari"
+    },
+    {
+      "code": 8108052008,
+      "name": "Wakpapapi"
+    },
+    {
+      "code": 8108052009,
+      "name": "Analutur"
+    },
+    {
+      "code": 8108052010,
+      "name": "Manuweri"
+    },
+    {
+      "code": 8108052011,
+      "name": "Tutuwawang"
+    }
+  ]
+}

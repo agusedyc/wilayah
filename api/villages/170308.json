@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1703082001,
+      "name": "Tanjung Anom"
+    },
+    {
+      "code": 1703082002,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1703082003,
+      "name": "Wono Harjo"
+    },
+    {
+      "code": 1703082004,
+      "name": "Giri Mulya"
+    },
+    {
+      "code": 1703082005,
+      "name": "Rena Jaya"
+    },
+    {
+      "code": 1703082006,
+      "name": "Suka Mulya"
+    }
+  ]
+}

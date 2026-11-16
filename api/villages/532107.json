@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5321072001,
+      "name": "As Manulea"
+    },
+    {
+      "code": 5321072002,
+      "name": "Manulea"
+    },
+    {
+      "code": 5321072003,
+      "name": "Naibone"
+    },
+    {
+      "code": 5321072004,
+      "name": "Fatuaruin"
+    },
+    {
+      "code": 5321072005,
+      "name": "Builaran"
+    },
+    {
+      "code": 5321072006,
+      "name": "Manumutin Silole"
+    },
+    {
+      "code": 5321072007,
+      "name": "Umutnana"
+    },
+    {
+      "code": 5321072008,
+      "name": "Beaneno"
+    },
+    {
+      "code": 5321072009,
+      "name": "Naisau"
+    }
+  ]
+}

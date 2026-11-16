@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8203072001,
+      "name": "Kao"
+    },
+    {
+      "code": 8203072002,
+      "name": "Jati"
+    },
+    {
+      "code": 8203072003,
+      "name": "Kusu"
+    },
+    {
+      "code": 8203072009,
+      "name": "Waringin Lelewi"
+    },
+    {
+      "code": 8203072010,
+      "name": "Soa Sangaji Dim-Dim"
+    },
+    {
+      "code": 8203072011,
+      "name": "Sasur"
+    },
+    {
+      "code": 8203072012,
+      "name": "Popon"
+    },
+    {
+      "code": 8203072036,
+      "name": "Biang"
+    },
+    {
+      "code": 8203072037,
+      "name": "Patang"
+    },
+    {
+      "code": 8203072038,
+      "name": "Kukumutuk"
+    },
+    {
+      "code": 8203072039,
+      "name": "Waringin Lamo"
+    },
+    {
+      "code": 8203072050,
+      "name": "Goruang"
+    },
+    {
+      "code": 8203072051,
+      "name": "Kusu Lofra"
+    },
+    {
+      "code": 8203072052,
+      "name": "Sumber Agung"
+    }
+  ]
+}

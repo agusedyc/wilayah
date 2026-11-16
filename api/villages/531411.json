@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5314112001,
+      "name": "Oelua"
+    },
+    {
+      "code": 5314112002,
+      "name": "Holulai"
+    },
+    {
+      "code": 5314112003,
+      "name": "Tolama"
+    },
+    {
+      "code": 5314112004,
+      "name": "Oebole"
+    },
+    {
+      "code": 5314112005,
+      "name": "Tasilo"
+    },
+    {
+      "code": 5314112006,
+      "name": "Boni"
+    },
+    {
+      "code": 5314112007,
+      "name": "Balaoli"
+    },
+    {
+      "code": 5314112008,
+      "name": "Oebela"
+    },
+    {
+      "code": 5314112009,
+      "name": "Lidor"
+    },
+    {
+      "code": 5314112010,
+      "name": "Mundek"
+    }
+  ]
+}

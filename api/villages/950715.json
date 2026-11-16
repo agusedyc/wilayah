@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9507152001,
+      "name": "Konikme"
+    },
+    {
+      "code": 9507152002,
+      "name": "Giwan"
+    },
+    {
+      "code": 9507152003,
+      "name": "Lugom"
+    },
+    {
+      "code": 9507152004,
+      "name": "Mabume"
+    },
+    {
+      "code": 9507152005,
+      "name": "Wandoak"
+    },
+    {
+      "code": 9507152006,
+      "name": "Bogun Kunik"
+    },
+    {
+      "code": 9507152007,
+      "name": "Urgelo"
+    },
+    {
+      "code": 9507152008,
+      "name": "Omapaga"
+    },
+    {
+      "code": 9507152009,
+      "name": "Gimili Alome"
+    }
+  ]
+}

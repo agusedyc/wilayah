@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1225082001,
+      "name": "Bukit Tinggi"
+    },
+    {
+      "code": 1225082002,
+      "name": "Lawelu"
+    },
+    {
+      "code": 1225082003,
+      "name": "Saloo"
+    },
+    {
+      "code": 1225082004,
+      "name": "Hilisangawola"
+    },
+    {
+      "code": 1225082005,
+      "name": "Hilibadalu"
+    }
+  ]
+}

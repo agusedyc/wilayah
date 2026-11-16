@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3573041001,
+      "name": "Ciptomulyo"
+    },
+    {
+      "code": 3573041002,
+      "name": "Gadang"
+    },
+    {
+      "code": 3573041003,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3573041004,
+      "name": "Bandungrejosari"
+    },
+    {
+      "code": 3573041005,
+      "name": "Sukun"
+    },
+    {
+      "code": 3573041006,
+      "name": "Tanjungrejo"
+    },
+    {
+      "code": 3573041007,
+      "name": "Pisangcandi"
+    },
+    {
+      "code": 3573041008,
+      "name": "Bandulan"
+    },
+    {
+      "code": 3573041009,
+      "name": "Karangbesuki"
+    },
+    {
+      "code": 3573041010,
+      "name": "Mulyorejo"
+    },
+    {
+      "code": 3573041011,
+      "name": "Bakalankrajan"
+    }
+  ]
+}

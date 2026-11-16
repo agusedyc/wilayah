@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3273121001,
+      "name": "Gumuruh"
+    },
+    {
+      "code": 3273121002,
+      "name": "Maleer"
+    },
+    {
+      "code": 3273121003,
+      "name": "Cibangkong"
+    },
+    {
+      "code": 3273121004,
+      "name": "Kacapiring"
+    },
+    {
+      "code": 3273121005,
+      "name": "Kebon Waru"
+    },
+    {
+      "code": 3273121006,
+      "name": "Kebon Gedang"
+    },
+    {
+      "code": 3273121007,
+      "name": "Samoja"
+    },
+    {
+      "code": 3273121008,
+      "name": "Binong"
+    }
+  ]
+}

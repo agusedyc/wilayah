@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1905052001,
+      "name": "Tempilang"
+    },
+    {
+      "code": 1905052002,
+      "name": "Tanjung Niur"
+    },
+    {
+      "code": 1905052003,
+      "name": "Sangku"
+    },
+    {
+      "code": 1905052004,
+      "name": "Buyan Kelumbi"
+    },
+    {
+      "code": 1905052005,
+      "name": "Penyampak"
+    },
+    {
+      "code": 1905052006,
+      "name": "Benteng Kota"
+    },
+    {
+      "code": 1905052007,
+      "name": "Air Lintang"
+    },
+    {
+      "code": 1905052008,
+      "name": "Sinar Surya"
+    },
+    {
+      "code": 1905052009,
+      "name": "Simpang Yul"
+    }
+  ]
+}

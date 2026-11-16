@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1606061038,
+      "name": "Babat"
+    },
+    {
+      "code": 1606061039,
+      "name": "Mangun Jaya"
+    },
+    {
+      "code": 1606062001,
+      "name": "Sereka"
+    },
+    {
+      "code": 1606062002,
+      "name": "Sugi Raya"
+    },
+    {
+      "code": 1606062003,
+      "name": "Sugi Waras"
+    },
+    {
+      "code": 1606062004,
+      "name": "Beruge"
+    },
+    {
+      "code": 1606062005,
+      "name": "Muara Punjung"
+    },
+    {
+      "code": 1606062007,
+      "name": "Bangun Sari"
+    },
+    {
+      "code": 1606062008,
+      "name": "Toman"
+    },
+    {
+      "code": 1606062009,
+      "name": "Kasmaran"
+    },
+    {
+      "code": 1606062022,
+      "name": "Sungai Angit"
+    },
+    {
+      "code": 1606062023,
+      "name": "Srimulyo"
+    },
+    {
+      "code": 1606062042,
+      "name": "Pangkalan Jaya"
+    },
+    {
+      "code": 1606062043,
+      "name": "Toman Baru"
+    }
+  ]
+}

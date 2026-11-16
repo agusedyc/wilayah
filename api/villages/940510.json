@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9405102001,
+      "name": "Babe"
+    },
+    {
+      "code": 9405102002,
+      "name": "Jambul"
+    },
+    {
+      "code": 9405102003,
+      "name": "Nungai"
+    },
+    {
+      "code": 9405102004,
+      "name": "Mugulip"
+    },
+    {
+      "code": 9405102005,
+      "name": "Kelmabet"
+    },
+    {
+      "code": 9405102006,
+      "name": "Jenggeren"
+    }
+  ]
+}

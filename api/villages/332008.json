@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3320082001,
+      "name": "Guyangan"
+    },
+    {
+      "code": 3320082002,
+      "name": "Kepuk"
+    },
+    {
+      "code": 3320082003,
+      "name": "Papasan"
+    },
+    {
+      "code": 3320082004,
+      "name": "Srikandang"
+    },
+    {
+      "code": 3320082005,
+      "name": "Tengguli"
+    },
+    {
+      "code": 3320082006,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3320082007,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3320082008,
+      "name": "Wedelan"
+    },
+    {
+      "code": 3320082009,
+      "name": "Kedungleper"
+    },
+    {
+      "code": 3320082010,
+      "name": "Jerukwangi"
+    },
+    {
+      "code": 3320082011,
+      "name": "Bondo"
+    },
+    {
+      "code": 3320082012,
+      "name": "Banjaragung"
+    }
+  ]
+}

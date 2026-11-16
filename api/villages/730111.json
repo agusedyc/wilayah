@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7301112001,
+      "name": "Buki"
+    },
+    {
+      "code": 7301112002,
+      "name": "Lalang Bata"
+    },
+    {
+      "code": 7301112003,
+      "name": "Balang Butung"
+    },
+    {
+      "code": 7301112004,
+      "name": "Kohala"
+    },
+    {
+      "code": 7301112005,
+      "name": "Bontolempangan"
+    },
+    {
+      "code": 7301112006,
+      "name": "Mekar Indah"
+    },
+    {
+      "code": 7301112007,
+      "name": "Buki Timur"
+    }
+  ]
+}

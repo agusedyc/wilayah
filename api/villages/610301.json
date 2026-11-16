@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 6103011001,
+      "name": "Tanjung Kapuas"
+    },
+    {
+      "code": 6103011002,
+      "name": "Tanjung Sekayam"
+    },
+    {
+      "code": 6103011003,
+      "name": "Sungai Sengkuang"
+    },
+    {
+      "code": 6103011004,
+      "name": "Ilir Kota"
+    },
+    {
+      "code": 6103011005,
+      "name": "Beringin"
+    },
+    {
+      "code": 6103011006,
+      "name": "Bunut"
+    },
+    {
+      "code": 6103012007,
+      "name": "Penyeladi"
+    },
+    {
+      "code": 6103012008,
+      "name": "Nanga Biang"
+    },
+    {
+      "code": 6103012009,
+      "name": "Rambin"
+    },
+    {
+      "code": 6103012010,
+      "name": "Entakai"
+    },
+    {
+      "code": 6103012011,
+      "name": "Pana"
+    },
+    {
+      "code": 6103012012,
+      "name": "Mengkiang"
+    },
+    {
+      "code": 6103012013,
+      "name": "Kambong"
+    },
+    {
+      "code": 6103012014,
+      "name": "Sungai Mawang"
+    },
+    {
+      "code": 6103012015,
+      "name": "Lape"
+    },
+    {
+      "code": 6103012016,
+      "name": "Penyalimau"
+    },
+    {
+      "code": 6103012017,
+      "name": "Sungai Alai"
+    },
+    {
+      "code": 6103012018,
+      "name": "Semerangkai"
+    },
+    {
+      "code": 6103012019,
+      "name": "Sungai Batu"
+    },
+    {
+      "code": 6103012020,
+      "name": "Sungai Muntik"
+    },
+    {
+      "code": 6103012021,
+      "name": "Lintang Kapuas"
+    },
+    {
+      "code": 6103012022,
+      "name": "Lintang Pelaman"
+    },
+    {
+      "code": 6103012023,
+      "name": "Belangin"
+    },
+    {
+      "code": 6103012024,
+      "name": "Penyalimau Jaya"
+    },
+    {
+      "code": 6103012025,
+      "name": "Tapang Dulang"
+    },
+    {
+      "code": 6103012026,
+      "name": "Botuh Lintang"
+    }
+  ]
+}

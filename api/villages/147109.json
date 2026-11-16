@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471091001,
+      "name": "Tangkerang Barat"
+    },
+    {
+      "code": 1471091002,
+      "name": "Tangkerang Tengah"
+    },
+    {
+      "code": 1471091003,
+      "name": "Sidomulyo Timur"
+    },
+    {
+      "code": 1471091004,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 1471091005,
+      "name": "Maharatu"
+    },
+    {
+      "code": 1471091006,
+      "name": "Perhentianmarpoyan"
+    }
+  ]
+}

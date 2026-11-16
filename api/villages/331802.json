@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3318022001,
+      "name": "Jimbaran"
+    },
+    {
+      "code": 3318022002,
+      "name": "Durensawit"
+    },
+    {
+      "code": 3318022003,
+      "name": "Slungkep"
+    },
+    {
+      "code": 3318022004,
+      "name": "Beketel"
+    },
+    {
+      "code": 3318022005,
+      "name": "Purwokerto"
+    },
+    {
+      "code": 3318022006,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3318022007,
+      "name": "Brati"
+    },
+    {
+      "code": 3318022008,
+      "name": "Jatiroto"
+    },
+    {
+      "code": 3318022009,
+      "name": "Kayen"
+    },
+    {
+      "code": 3318022010,
+      "name": "Rogomulyo"
+    },
+    {
+      "code": 3318022011,
+      "name": "Srikaton"
+    },
+    {
+      "code": 3318022012,
+      "name": "Pasuruhan"
+    },
+    {
+      "code": 3318022013,
+      "name": "Pesagi"
+    },
+    {
+      "code": 3318022014,
+      "name": "Trimulyo"
+    },
+    {
+      "code": 3318022015,
+      "name": "Talun"
+    },
+    {
+      "code": 3318022016,
+      "name": "Boloagung"
+    },
+    {
+      "code": 3318022017,
+      "name": "Sundoluhur"
+    }
+  ]
+}

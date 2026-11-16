@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1802282001,
+      "name": "Bina Karya Jaya"
+    },
+    {
+      "code": 1802282002,
+      "name": "Bina Karya Utama"
+    },
+    {
+      "code": 1802282003,
+      "name": "Bina Karya Sakti"
+    },
+    {
+      "code": 1802282004,
+      "name": "Joharan"
+    },
+    {
+      "code": 1802282005,
+      "name": "Rantau Jaya Baru"
+    },
+    {
+      "code": 1802282006,
+      "name": "Rantau Jaya Ilir"
+    },
+    {
+      "code": 1802282007,
+      "name": "Bina Karya Baru"
+    },
+    {
+      "code": 1802282008,
+      "name": "Meranggi Jaya"
+    },
+    {
+      "code": 1802282009,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1802282010,
+      "name": "Rantau Jaya makmur"
+    }
+  ]
+}

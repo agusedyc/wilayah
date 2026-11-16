@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1802172001,
+      "name": "Tanjung Ratu Ilir"
+    },
+    {
+      "code": 1802172002,
+      "name": "Candi Rejo"
+    },
+    {
+      "code": 1802172003,
+      "name": "Banjar Ratu"
+    },
+    {
+      "code": 1802172004,
+      "name": "Banjar Kerta Rahayu"
+    },
+    {
+      "code": 1802172005,
+      "name": "Lempuyang Bandar"
+    },
+    {
+      "code": 1802172006,
+      "name": "Purnama Tunggal"
+    },
+    {
+      "code": 1802172007,
+      "name": "Banjar Rejo"
+    },
+    {
+      "code": 1802172008,
+      "name": "Putra Lempuyang"
+    }
+  ]
+}

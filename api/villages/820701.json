@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 8207012001,
+      "name": "Gotalamo"
+    },
+    {
+      "code": 8207012002,
+      "name": "Daruba"
+    },
+    {
+      "code": 8207012003,
+      "name": "Darame"
+    },
+    {
+      "code": 8207012004,
+      "name": "Wawama"
+    },
+    {
+      "code": 8207012005,
+      "name": "Pandanga"
+    },
+    {
+      "code": 8207012006,
+      "name": "Juanga"
+    },
+    {
+      "code": 8207012007,
+      "name": "Totodoku"
+    },
+    {
+      "code": 8207012008,
+      "name": "Momojiu"
+    },
+    {
+      "code": 8207012009,
+      "name": "Sabatai Baru"
+    },
+    {
+      "code": 8207012010,
+      "name": "Sabatai Tua"
+    },
+    {
+      "code": 8207012011,
+      "name": "Daeo"
+    },
+    {
+      "code": 8207012012,
+      "name": "Dehegila"
+    },
+    {
+      "code": 8207012013,
+      "name": "Pilowo"
+    },
+    {
+      "code": 8207012014,
+      "name": "Galo-Galo"
+    },
+    {
+      "code": 8207012015,
+      "name": "Koloray"
+    },
+    {
+      "code": 8207012016,
+      "name": "Yayasan"
+    },
+    {
+      "code": 8207012017,
+      "name": "Joubela"
+    },
+    {
+      "code": 8207012018,
+      "name": "Aha"
+    },
+    {
+      "code": 8207012019,
+      "name": "Muhajirin"
+    },
+    {
+      "code": 8207012020,
+      "name": "Mandiri"
+    },
+    {
+      "code": 8207012021,
+      "name": "Falila"
+    },
+    {
+      "code": 8207012022,
+      "name": "Sabala"
+    },
+    {
+      "code": 8207012023,
+      "name": "Daeo Majiko"
+    },
+    {
+      "code": 8207012024,
+      "name": "Morodadi"
+    },
+    {
+      "code": 8207012025,
+      "name": "Nakamura"
+    }
+  ]
+}

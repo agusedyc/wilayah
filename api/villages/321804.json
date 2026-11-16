@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3218042001,
+      "name": "Cigugur"
+    },
+    {
+      "code": 3218042002,
+      "name": "Cimindi"
+    },
+    {
+      "code": 3218042003,
+      "name": "Pagerbumi"
+    },
+    {
+      "code": 3218042004,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3218042005,
+      "name": "Bunisari"
+    },
+    {
+      "code": 3218042006,
+      "name": "Campaka"
+    },
+    {
+      "code": 3218042007,
+      "name": "Harumandala"
+    }
+  ]
+}

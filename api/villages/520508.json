@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5205082001,
+      "name": "Ranggo"
+    },
+    {
+      "code": 5205082002,
+      "name": "Jambu"
+    },
+    {
+      "code": 5205082003,
+      "name": "Lepadi"
+    },
+    {
+      "code": 5205082004,
+      "name": "Lune"
+    },
+    {
+      "code": 5205082005,
+      "name": "Woko"
+    },
+    {
+      "code": 5205082006,
+      "name": "Tembal Lae"
+    }
+  ]
+}

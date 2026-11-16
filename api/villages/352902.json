@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3529022001,
+      "name": "Pinggirpapas"
+    },
+    {
+      "code": 3529022002,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3529022003,
+      "name": "Marengan Laok"
+    },
+    {
+      "code": 3529022004,
+      "name": "Kertasada"
+    },
+    {
+      "code": 3529022005,
+      "name": "Kalimook"
+    },
+    {
+      "code": 3529022006,
+      "name": "Kalianget Barat"
+    },
+    {
+      "code": 3529022007,
+      "name": "Kalianget Timur"
+    }
+  ]
+}

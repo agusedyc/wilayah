@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1572072001,
+      "name": "Koto Baru"
+    },
+    {
+      "code": 1572072002,
+      "name": "Koto Limau Manis"
+    },
+    {
+      "code": 1572072003,
+      "name": "Kampung Tengah"
+    },
+    {
+      "code": 1572072004,
+      "name": "Dujung Sakti"
+    },
+    {
+      "code": 1572072005,
+      "name": "Permai Indah"
+    },
+    {
+      "code": 1572072006,
+      "name": "Srimenanti"
+    }
+  ]
+}

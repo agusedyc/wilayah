@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271151001,
+      "name": "Aur"
+    },
+    {
+      "code": 1271151002,
+      "name": "Hamdan"
+    },
+    {
+      "code": 1271151003,
+      "name": "Jati"
+    },
+    {
+      "code": 1271151004,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1271151005,
+      "name": "Sei Mati"
+    },
+    {
+      "code": 1271151006,
+      "name": "Kampung Baru"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9203112001,
+      "name": "Werpigan"
+    },
+    {
+      "code": 9203112002,
+      "name": "Werabuan"
+    },
+    {
+      "code": 9203112003,
+      "name": "Wartutin"
+    },
+    {
+      "code": 9203112004,
+      "name": "Siboru"
+    },
+    {
+      "code": 9203112005,
+      "name": "Sipatnanam"
+    },
+    {
+      "code": 9203112006,
+      "name": "Kamandur Tetar"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3201162001,
+      "name": "Situ Udik"
+    },
+    {
+      "code": 3201162002,
+      "name": "Situ Ilir"
+    },
+    {
+      "code": 3201162003,
+      "name": "Cemplang"
+    },
+    {
+      "code": 3201162004,
+      "name": "Cibatok I"
+    },
+    {
+      "code": 3201162005,
+      "name": "Ciaruteun Udik"
+    },
+    {
+      "code": 3201162006,
+      "name": "Leuweungkolot"
+    },
+    {
+      "code": 3201162007,
+      "name": "Cimanggu I"
+    },
+    {
+      "code": 3201162008,
+      "name": "Cimanggu II"
+    },
+    {
+      "code": 3201162009,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3201162010,
+      "name": "Cijujung"
+    },
+    {
+      "code": 3201162011,
+      "name": "Ciaruteun Ilir"
+    },
+    {
+      "code": 3201162012,
+      "name": "Cibatok II"
+    },
+    {
+      "code": 3201162013,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3201162014,
+      "name": "Galuga"
+    },
+    {
+      "code": 3201162015,
+      "name": "Girimulya"
+    }
+  ]
+}

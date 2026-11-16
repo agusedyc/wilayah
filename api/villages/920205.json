@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9202052001,
+      "name": "Masni"
+    },
+    {
+      "code": 9202052002,
+      "name": "Sumber Boga"
+    },
+    {
+      "code": 9202052008,
+      "name": "Wariori"
+    },
+    {
+      "code": 9202052009,
+      "name": "Bowi Subur"
+    },
+    {
+      "code": 9202052014,
+      "name": "Yensum"
+    },
+    {
+      "code": 9202052015,
+      "name": "Mansaburi"
+    },
+    {
+      "code": 9202052016,
+      "name": "Igor"
+    },
+    {
+      "code": 9202052020,
+      "name": "Sembab"
+    },
+    {
+      "code": 9202052027,
+      "name": "Yonsoribo"
+    },
+    {
+      "code": 9202052034,
+      "name": "Koyani"
+    },
+    {
+      "code": 9202052037,
+      "name": "Undi"
+    },
+    {
+      "code": 9202052038,
+      "name": "Jowen"
+    }
+  ]
+}

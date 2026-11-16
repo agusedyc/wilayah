@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3302102001,
+      "name": "Srowot"
+    },
+    {
+      "code": 3302102002,
+      "name": "Suro"
+    },
+    {
+      "code": 3302102003,
+      "name": "Kaliori"
+    },
+    {
+      "code": 3302102004,
+      "name": "Wlahar Wetan"
+    },
+    {
+      "code": 3302102005,
+      "name": "Pekaja"
+    },
+    {
+      "code": 3302102006,
+      "name": "Karangdadap"
+    },
+    {
+      "code": 3302102007,
+      "name": "Kalibagor"
+    },
+    {
+      "code": 3302102008,
+      "name": "Pajerukan"
+    },
+    {
+      "code": 3302102009,
+      "name": "Petir"
+    },
+    {
+      "code": 3302102010,
+      "name": "Kalicupak Kidul"
+    },
+    {
+      "code": 3302102011,
+      "name": "Kalicupak Lor"
+    },
+    {
+      "code": 3302102012,
+      "name": "Kalisogra Wetan"
+    }
+  ]
+}

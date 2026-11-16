@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7415032001,
+      "name": "Lapandewa Makmur"
+    },
+    {
+      "code": 7415032002,
+      "name": "Gaya Baru"
+    },
+    {
+      "code": 7415032003,
+      "name": "Burangasi Rumbia"
+    },
+    {
+      "code": 7415032004,
+      "name": "Burangasi"
+    },
+    {
+      "code": 7415032005,
+      "name": "Lapandewa Kaindea"
+    },
+    {
+      "code": 7415032006,
+      "name": "Lapandewa"
+    },
+    {
+      "code": 7415032007,
+      "name": "Lapandewa Jaya"
+    }
+  ]
+}

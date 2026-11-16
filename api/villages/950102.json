@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9501022001,
+      "name": "Jiwika"
+    },
+    {
+      "code": 9501022002,
+      "name": "Mulima"
+    },
+    {
+      "code": 9501022003,
+      "name": "Waga-Waga"
+    },
+    {
+      "code": 9501022004,
+      "name": "Abusa"
+    },
+    {
+      "code": 9501022005,
+      "name": "Eragama"
+    },
+    {
+      "code": 9501022006,
+      "name": "Kumima"
+    },
+    {
+      "code": 9501022007,
+      "name": "Menagaima"
+    },
+    {
+      "code": 9501022008,
+      "name": "Iyantik"
+    },
+    {
+      "code": 9501022009,
+      "name": "Umpagalo"
+    },
+    {
+      "code": 9501022010,
+      "name": "Hopama"
+    },
+    {
+      "code": 9501022011,
+      "name": "Obya"
+    },
+    {
+      "code": 9501022012,
+      "name": "Utkolo Satu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9407082001,
+      "name": "Tomosiga"
+    },
+    {
+      "code": 9407082002,
+      "name": "Bigasiga"
+    },
+    {
+      "code": 9407082003,
+      "name": "Dapiaga"
+    },
+    {
+      "code": 9407082004,
+      "name": "Pewesiga"
+    },
+    {
+      "code": 9407082005,
+      "name": "Hegenagai"
+    },
+    {
+      "code": 9407082006,
+      "name": "Gaimigi"
+    },
+    {
+      "code": 9407082007,
+      "name": "Jawasiga"
+    },
+    {
+      "code": 9407082008,
+      "name": "Duginggobo"
+    },
+    {
+      "code": 9407082009,
+      "name": "Sugulubagala"
+    }
+  ]
+}

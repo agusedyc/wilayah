@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7212032001,
+      "name": "Dolupo Karya"
+    },
+    {
+      "code": 7212032002,
+      "name": "Po'ona"
+    },
+    {
+      "code": 7212032003,
+      "name": "Petumbea"
+    },
+    {
+      "code": 7212032004,
+      "name": "Ronta"
+    },
+    {
+      "code": 7212032005,
+      "name": "Pontangoa"
+    },
+    {
+      "code": 7212032006,
+      "name": "Jamor Jaya"
+    },
+    {
+      "code": 7212032007,
+      "name": "Pa'awaru"
+    },
+    {
+      "code": 7212032008,
+      "name": "Lembobelala"
+    },
+    {
+      "code": 7212032009,
+      "name": "Bintangor Mukti"
+    },
+    {
+      "code": 7212032010,
+      "name": "Mandula"
+    }
+  ]
+}

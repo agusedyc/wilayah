@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6372041001,
+      "name": "Loktabat Utara"
+    },
+    {
+      "code": 6372041002,
+      "name": "Mentaos"
+    },
+    {
+      "code": 6372041003,
+      "name": "Komet"
+    },
+    {
+      "code": 6372041004,
+      "name": "Sungai Ulin"
+    }
+  ]
+}

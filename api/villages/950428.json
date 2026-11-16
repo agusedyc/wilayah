@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9504282001,
+      "name": "Onggokme"
+    },
+    {
+      "code": 9504282002,
+      "name": "Kubur"
+    },
+    {
+      "code": 9504282003,
+      "name": "Weu"
+    },
+    {
+      "code": 9504282004,
+      "name": "Liwese"
+    },
+    {
+      "code": 9504282005,
+      "name": "Wenduri"
+    },
+    {
+      "code": 9504282006,
+      "name": "Tabo Wanimbo"
+    },
+    {
+      "code": 9504282007,
+      "name": "Lenggup"
+    },
+    {
+      "code": 9504282008,
+      "name": "Tinger"
+    }
+  ]
+}

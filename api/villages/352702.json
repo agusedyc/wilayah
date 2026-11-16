@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3527022007,
+      "name": "Dulang"
+    },
+    {
+      "code": 3527022008,
+      "name": "Patarongan"
+    },
+    {
+      "code": 3527022009,
+      "name": "Pangongsean"
+    },
+    {
+      "code": 3527022010,
+      "name": "Krampon"
+    },
+    {
+      "code": 3527022011,
+      "name": "Bringinnonggal"
+    },
+    {
+      "code": 3527022012,
+      "name": "Torjun"
+    },
+    {
+      "code": 3527022013,
+      "name": "Patapan"
+    },
+    {
+      "code": 3527022014,
+      "name": "Jeruk Porot"
+    },
+    {
+      "code": 3527022015,
+      "name": "Kodak"
+    },
+    {
+      "code": 3527022016,
+      "name": "Kanjar"
+    },
+    {
+      "code": 3527022017,
+      "name": "Kara"
+    },
+    {
+      "code": 3527022018,
+      "name": "Tanah Merah"
+    }
+  ]
+}

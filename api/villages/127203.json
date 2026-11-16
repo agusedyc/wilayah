@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1272031001,
+      "name": "Melayu"
+    },
+    {
+      "code": 1272031002,
+      "name": "Martoba"
+    },
+    {
+      "code": 1272031003,
+      "name": "Baru"
+    },
+    {
+      "code": 1272031004,
+      "name": "Sukadame"
+    },
+    {
+      "code": 1272031005,
+      "name": "Kahean"
+    },
+    {
+      "code": 1272031006,
+      "name": "Sigulanggulang"
+    },
+    {
+      "code": 1272031007,
+      "name": "Bane"
+    }
+  ]
+}

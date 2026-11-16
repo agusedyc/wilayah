@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1607072001,
+      "name": "Muara Padang"
+    },
+    {
+      "code": 1607072002,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1607072003,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1607072006,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1607072007,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 1607072008,
+      "name": "Air Gading"
+    },
+    {
+      "code": 1607072009,
+      "name": "Tirto Raharjo"
+    },
+    {
+      "code": 1607072010,
+      "name": "Daya Utama"
+    },
+    {
+      "code": 1607072011,
+      "name": "Daya Makmur"
+    },
+    {
+      "code": 1607072012,
+      "name": "Sido Mulyo 18"
+    },
+    {
+      "code": 1607072013,
+      "name": "Sido Rejo"
+    },
+    {
+      "code": 1607072018,
+      "name": "Sido Mulyo 20"
+    },
+    {
+      "code": 1607072037,
+      "name": "Margo Mulyo 20"
+    },
+    {
+      "code": 1607072038,
+      "name": "Margo Sugihan"
+    },
+    {
+      "code": 1607072042,
+      "name": "Tirta Jaya"
+    }
+  ]
+}

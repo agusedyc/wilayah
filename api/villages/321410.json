@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3214102001,
+      "name": "Pasawahananyar"
+    },
+    {
+      "code": 3214102002,
+      "name": "Pasawahan"
+    },
+    {
+      "code": 3214102003,
+      "name": "Sawahkulon"
+    },
+    {
+      "code": 3214102004,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3214102005,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3214102006,
+      "name": "Pasawahankidul"
+    },
+    {
+      "code": 3214102007,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3214102008,
+      "name": "Lebakanyar"
+    },
+    {
+      "code": 3214102009,
+      "name": "Selaawi"
+    },
+    {
+      "code": 3214102010,
+      "name": "Margasari"
+    },
+    {
+      "code": 3214102011,
+      "name": "Warungkadu"
+    },
+    {
+      "code": 3214102012,
+      "name": "Cihuni"
+    }
+  ]
+}

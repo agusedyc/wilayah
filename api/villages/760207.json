@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7602072001,
+      "name": "Toabo"
+    },
+    {
+      "code": 7602072002,
+      "name": "Papalang"
+    },
+    {
+      "code": 7602072003,
+      "name": "Bonda"
+    },
+    {
+      "code": 7602072004,
+      "name": "Topore"
+    },
+    {
+      "code": 7602072005,
+      "name": "Salukayu"
+    },
+    {
+      "code": 7602072006,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 7602072007,
+      "name": "Boda-Boda"
+    },
+    {
+      "code": 7602072008,
+      "name": "Sisango"
+    },
+    {
+      "code": 7602072009,
+      "name": "Batu Ampa"
+    }
+  ]
+}

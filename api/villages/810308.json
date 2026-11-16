@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8103082001,
+      "name": "Lumasebu"
+    },
+    {
+      "code": 8103082002,
+      "name": "Kilmasa"
+    },
+    {
+      "code": 8103082003,
+      "name": "Meyano Bab"
+    },
+    {
+      "code": 8103082004,
+      "name": "Alusi Krawain"
+    },
+    {
+      "code": 8103082005,
+      "name": "Alusi Kelaan"
+    },
+    {
+      "code": 8103082006,
+      "name": "Alusi Bukjalim"
+    },
+    {
+      "code": 8103082007,
+      "name": "Alusi Tamrian"
+    },
+    {
+      "code": 8103082008,
+      "name": "Alusi Batjas"
+    },
+    {
+      "code": 8103082009,
+      "name": "Lorwembun"
+    },
+    {
+      "code": 8103082010,
+      "name": "Meyano Das"
+    }
+  ]
+}

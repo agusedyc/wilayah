@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1906032001,
+      "name": "Dendang"
+    },
+    {
+      "code": 1906032002,
+      "name": "Jangkang"
+    },
+    {
+      "code": 1906032005,
+      "name": "Nyuruk"
+    },
+    {
+      "code": 1906032008,
+      "name": "Balok"
+    }
+  ]
+}

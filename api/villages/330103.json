@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3301032001,
+      "name": "Welahan Wetan"
+    },
+    {
+      "code": 3301032002,
+      "name": "Glempangpasir"
+    },
+    {
+      "code": 3301032003,
+      "name": "Pedasong"
+    },
+    {
+      "code": 3301032004,
+      "name": "Karangbenda"
+    },
+    {
+      "code": 3301032005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3301032006,
+      "name": "Bunton"
+    },
+    {
+      "code": 3301032007,
+      "name": "Wlahar"
+    },
+    {
+      "code": 3301032008,
+      "name": "Penggalang"
+    },
+    {
+      "code": 3301032009,
+      "name": "Adipala"
+    },
+    {
+      "code": 3301032010,
+      "name": "Adireja Kulon"
+    },
+    {
+      "code": 3301032011,
+      "name": "Adireja Wetan"
+    },
+    {
+      "code": 3301032012,
+      "name": "Adiraja"
+    },
+    {
+      "code": 3301032013,
+      "name": "Doplang"
+    },
+    {
+      "code": 3301032014,
+      "name": "Kalikudi"
+    },
+    {
+      "code": 3301032015,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3301032016,
+      "name": "Gombolharjo"
+    }
+  ]
+}

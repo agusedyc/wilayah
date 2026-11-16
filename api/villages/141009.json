@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1410092001,
+      "name": "Tanjung Kedabu"
+    },
+    {
+      "code": 1410092002,
+      "name": "Beting"
+    },
+    {
+      "code": 1410092003,
+      "name": "Sokop"
+    },
+    {
+      "code": 1410092004,
+      "name": "Telesung"
+    },
+    {
+      "code": 1410092005,
+      "name": "Bungur"
+    },
+    {
+      "code": 1410092006,
+      "name": "Tenggayun Raya"
+    },
+    {
+      "code": 1410092007,
+      "name": "Sendaur"
+    },
+    {
+      "code": 1410092008,
+      "name": "Kayu Ara"
+    },
+    {
+      "code": 1410092009,
+      "name": "Sonde"
+    },
+    {
+      "code": 1410092010,
+      "name": "Kedabu Rapat"
+    },
+    {
+      "code": 1410092011,
+      "name": "Tanah Merah"
+    }
+  ]
+}

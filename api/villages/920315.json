@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9203152001,
+      "name": "Kaburbur"
+    },
+    {
+      "code": 9203152002,
+      "name": "Ubadari"
+    },
+    {
+      "code": 9203152004,
+      "name": "Homorkokma"
+    },
+    {
+      "code": 9203152005,
+      "name": "Pattukar"
+    },
+    {
+      "code": 9203152006,
+      "name": "Kayuni"
+    },
+    {
+      "code": 9203152007,
+      "name": "Kuagas"
+    },
+    {
+      "code": 9203152008,
+      "name": "Rangkendak"
+    },
+    {
+      "code": 9203152009,
+      "name": "Mananmur"
+    },
+    {
+      "code": 9203152010,
+      "name": "Warpa"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1706102001,
+      "name": "Penarik"
+    },
+    {
+      "code": 1706102002,
+      "name": "Lubuk Mukti"
+    },
+    {
+      "code": 1706102003,
+      "name": "Bumi Mulya"
+    },
+    {
+      "code": 1706102004,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1706102005,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 1706102006,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 1706102007,
+      "name": "Sido Dadi"
+    },
+    {
+      "code": 1706102008,
+      "name": "Maju Makmur"
+    },
+    {
+      "code": 1706102009,
+      "name": "Sendang Mulyo"
+    },
+    {
+      "code": 1706102010,
+      "name": "Marga Mulya Sakti"
+    },
+    {
+      "code": 1706102011,
+      "name": "Wonosobo"
+    },
+    {
+      "code": 1706102012,
+      "name": "Mekar Mulya"
+    },
+    {
+      "code": 1706102013,
+      "name": "Sido Mulyo"
+    },
+    {
+      "code": 1706102014,
+      "name": "Marga Mukti"
+    }
+  ]
+}

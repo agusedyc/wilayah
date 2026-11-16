@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3205362001,
+      "name": "Caringin"
+    },
+    {
+      "code": 3205362002,
+      "name": "Indralayang"
+    },
+    {
+      "code": 3205362003,
+      "name": "Cimahi"
+    },
+    {
+      "code": 3205362004,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3205362005,
+      "name": "Purbayani"
+    },
+    {
+      "code": 3205362006,
+      "name": "Samuderajaya"
+    }
+  ]
+}

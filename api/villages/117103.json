@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1171032001,
+      "name": "Punge Jurong"
+    },
+    {
+      "code": 1171032002,
+      "name": "Ulee Lheue"
+    },
+    {
+      "code": 1171032003,
+      "name": "Lambung"
+    },
+    {
+      "code": 1171032004,
+      "name": "Deah Glumpang"
+    },
+    {
+      "code": 1171032005,
+      "name": "Deah Baro"
+    },
+    {
+      "code": 1171032006,
+      "name": "Alue Deah Teungoh"
+    },
+    {
+      "code": 1171032007,
+      "name": "Lampaseh Aceh"
+    },
+    {
+      "code": 1171032008,
+      "name": "Blang Oi"
+    },
+    {
+      "code": 1171032009,
+      "name": "Asoe Nanggroe"
+    },
+    {
+      "code": 1171032010,
+      "name": "Gampong Blang"
+    },
+    {
+      "code": 1171032011,
+      "name": "Gampong Pie"
+    },
+    {
+      "code": 1171032012,
+      "name": "Lamjabat"
+    },
+    {
+      "code": 1171032013,
+      "name": "Cot Lamkuweuh"
+    },
+    {
+      "code": 1171032014,
+      "name": "Surien"
+    },
+    {
+      "code": 1171032015,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1171032016,
+      "name": "Punge Ujong"
+    }
+  ]
+}

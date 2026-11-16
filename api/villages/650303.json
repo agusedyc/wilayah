@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6503032001,
+      "name": "Tagul"
+    },
+    {
+      "code": 6503032002,
+      "name": "Lubakan"
+    },
+    {
+      "code": 6503032003,
+      "name": "Atap"
+    },
+    {
+      "code": 6503032004,
+      "name": "Manuk Bungkul"
+    },
+    {
+      "code": 6503032005,
+      "name": "Tujung"
+    },
+    {
+      "code": 6503032006,
+      "name": "Pagar"
+    },
+    {
+      "code": 6503032007,
+      "name": "Labuk"
+    },
+    {
+      "code": 6503032008,
+      "name": "Butas Bagu"
+    },
+    {
+      "code": 6503032009,
+      "name": "Pelaju"
+    },
+    {
+      "code": 6503032010,
+      "name": "Tepian"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3206332001,
+      "name": "Banyurasa"
+    },
+    {
+      "code": 3206332002,
+      "name": "Calingcing"
+    },
+    {
+      "code": 3206332003,
+      "name": "Sukahening"
+    },
+    {
+      "code": 3206332004,
+      "name": "Kiarajangkung"
+    },
+    {
+      "code": 3206332005,
+      "name": "Kudadepa"
+    },
+    {
+      "code": 3206332006,
+      "name": "Banyuresmi"
+    },
+    {
+      "code": 3206332007,
+      "name": "Sundakerta"
+    }
+  ]
+}

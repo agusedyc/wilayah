@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6302102001,
+      "name": "Sungai Hanyar"
+    },
+    {
+      "code": 6302102002,
+      "name": "Sungai Seluang"
+    },
+    {
+      "code": 6302102003,
+      "name": "Pudi"
+    },
+    {
+      "code": 6302102004,
+      "name": "Mangga"
+    },
+    {
+      "code": 6302102005,
+      "name": "Wilas"
+    },
+    {
+      "code": 6302102006,
+      "name": "Pudi Seberang"
+    },
+    {
+      "code": 6302102007,
+      "name": "Sulangkit"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3602242001,
+      "name": "Kalanganyar"
+    },
+    {
+      "code": 3602242002,
+      "name": "Pasirkupa"
+    },
+    {
+      "code": 3602242003,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3602242004,
+      "name": "Aweh"
+    },
+    {
+      "code": 3602242005,
+      "name": "Sangiangtanjung"
+    },
+    {
+      "code": 3602242006,
+      "name": "Sukamekarsari"
+    },
+    {
+      "code": 3602242007,
+      "name": "Cikatapis"
+    }
+  ]
+}

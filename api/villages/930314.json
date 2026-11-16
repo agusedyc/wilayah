@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9303142001,
+      "name": "Wonggi"
+    },
+    {
+      "code": 9303142002,
+      "name": "Busiri"
+    },
+    {
+      "code": 9303142003,
+      "name": "Keta"
+    },
+    {
+      "code": 9303142004,
+      "name": "Veta"
+    },
+    {
+      "code": 9303142005,
+      "name": "Honya"
+    },
+    {
+      "code": 9303142006,
+      "name": "Haku"
+    },
+    {
+      "code": 9303142007,
+      "name": "Bifo"
+    },
+    {
+      "code": 9303142008,
+      "name": "Samurukie"
+    }
+  ]
+}

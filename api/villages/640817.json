@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408172001,
+      "name": "Batu Timbau"
+    },
+    {
+      "code": 6408172002,
+      "name": "Beno Harapan"
+    },
+    {
+      "code": 6408172003,
+      "name": "Mugi Rahayu"
+    },
+    {
+      "code": 6408172004,
+      "name": "Mawai Indah"
+    },
+    {
+      "code": 6408172005,
+      "name": "Himba Lestari"
+    },
+    {
+      "code": 6408172006,
+      "name": "Telaga"
+    },
+    {
+      "code": 6408172007,
+      "name": "Batu Timbau Ulu"
+    }
+  ]
+}

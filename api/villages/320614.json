@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3206142001,
+      "name": "Jahiang"
+    },
+    {
+      "code": 3206142002,
+      "name": "Serang"
+    },
+    {
+      "code": 3206142003,
+      "name": "Salawu"
+    },
+    {
+      "code": 3206142004,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3206142005,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3206142006,
+      "name": "Tenjowaringin"
+    },
+    {
+      "code": 3206142007,
+      "name": "Sundawenang"
+    },
+    {
+      "code": 3206142008,
+      "name": "Kawungsari"
+    },
+    {
+      "code": 3206142009,
+      "name": "Sukarasa"
+    },
+    {
+      "code": 3206142010,
+      "name": "Kutawaringin"
+    },
+    {
+      "code": 3206142011,
+      "name": "Karangmukti"
+    },
+    {
+      "code": 3206142012,
+      "name": "Margalaksana"
+    }
+  ]
+}

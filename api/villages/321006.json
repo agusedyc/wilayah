@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3210062001,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3210062002,
+      "name": "Wanahayu"
+    },
+    {
+      "code": 3210062003,
+      "name": "Cengal"
+    },
+    {
+      "code": 3210062004,
+      "name": "Anggrawati"
+    },
+    {
+      "code": 3210062005,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3210062006,
+      "name": "Malongpong"
+    },
+    {
+      "code": 3210062007,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3210062008,
+      "name": "Maja Utara"
+    },
+    {
+      "code": 3210062009,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3210062010,
+      "name": "Cieurih"
+    },
+    {
+      "code": 3210062011,
+      "name": "Kertabasuki"
+    },
+    {
+      "code": 3210062012,
+      "name": "Sindangkerta"
+    },
+    {
+      "code": 3210062013,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3210062014,
+      "name": "Paniis"
+    },
+    {
+      "code": 3210062015,
+      "name": "Cicalung"
+    },
+    {
+      "code": 3210062016,
+      "name": "Pageraji"
+    },
+    {
+      "code": 3210062017,
+      "name": "Maja Selatan"
+    },
+    {
+      "code": 3210062018,
+      "name": "Nunuk Baru"
+    }
+  ]
+}

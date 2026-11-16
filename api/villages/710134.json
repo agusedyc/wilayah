@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7101342001,
+      "name": "Bonawang"
+    },
+    {
+      "code": 7101342002,
+      "name": "Tapadaka Satu"
+    },
+    {
+      "code": 7101342003,
+      "name": "Tapadaka Utara"
+    },
+    {
+      "code": 7101342004,
+      "name": "Tapadaka Timur"
+    },
+    {
+      "code": 7101342005,
+      "name": "Konarom"
+    },
+    {
+      "code": 7101342006,
+      "name": "Konarom Barat"
+    },
+    {
+      "code": 7101342007,
+      "name": "Konarom Utara"
+    },
+    {
+      "code": 7101342008,
+      "name": "Osion"
+    },
+    {
+      "code": 7101342009,
+      "name": "Ikuna"
+    },
+    {
+      "code": 7101342010,
+      "name": "Dumara"
+    }
+  ]
+}

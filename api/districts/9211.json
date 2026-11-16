@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 districts",
+  "data": [
+    {
+      "code": 921101,
+      "name": "Ransiki"
+    },
+    {
+      "code": 921102,
+      "name": "Oransbari"
+    },
+    {
+      "code": 921103,
+      "name": "Neney"
+    },
+    {
+      "code": 921104,
+      "name": "Dataran Isim"
+    },
+    {
+      "code": 921105,
+      "name": "Momi Waren"
+    },
+    {
+      "code": 921106,
+      "name": "Tahota"
+    }
+  ]
+}

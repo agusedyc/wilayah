@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209112001,
+      "name": "Getrakmoyan"
+    },
+    {
+      "code": 3209112002,
+      "name": "Ender"
+    },
+    {
+      "code": 3209112003,
+      "name": "Pangenan"
+    },
+    {
+      "code": 3209112004,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3209112005,
+      "name": "Rawaurip"
+    },
+    {
+      "code": 3209112006,
+      "name": "Beringin"
+    },
+    {
+      "code": 3209112007,
+      "name": "Japura Lor"
+    },
+    {
+      "code": 3209112008,
+      "name": "Pengarengan"
+    },
+    {
+      "code": 3209112009,
+      "name": "Astanamukti"
+    }
+  ]
+}

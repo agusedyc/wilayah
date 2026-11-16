@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3313162001,
+      "name": "Kuto"
+    },
+    {
+      "code": 3313162002,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3313162003,
+      "name": "Ganten"
+    },
+    {
+      "code": 3313162004,
+      "name": "Gempolan"
+    },
+    {
+      "code": 3313162005,
+      "name": "Plosorejo"
+    },
+    {
+      "code": 3313162006,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3313162007,
+      "name": "Kwadungan"
+    },
+    {
+      "code": 3313162008,
+      "name": "Botok"
+    },
+    {
+      "code": 3313162009,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3313162010,
+      "name": "Tawangsari"
+    }
+  ]
+}

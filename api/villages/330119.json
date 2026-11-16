@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3301192001,
+      "name": "Patimuan"
+    },
+    {
+      "code": 3301192002,
+      "name": "Rawaapu"
+    },
+    {
+      "code": 3301192003,
+      "name": "Sidamukti"
+    },
+    {
+      "code": 3301192004,
+      "name": "Purwadadi"
+    },
+    {
+      "code": 3301192005,
+      "name": "Cinyawang"
+    },
+    {
+      "code": 3301192006,
+      "name": "Bulupayung"
+    },
+    {
+      "code": 3301192007,
+      "name": "Cimrutu"
+    }
+  ]
+}

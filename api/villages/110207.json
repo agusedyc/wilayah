@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1102072001,
+      "name": "Gulo"
+    },
+    {
+      "code": 1102072002,
+      "name": "Pulo Piku"
+    },
+    {
+      "code": 1102072003,
+      "name": "Terutung Kute"
+    },
+    {
+      "code": 1102072004,
+      "name": "Kute Ujung"
+    },
+    {
+      "code": 1102072005,
+      "name": "Lawe Stul"
+    },
+    {
+      "code": 1102072006,
+      "name": "Kite Merangun"
+    },
+    {
+      "code": 1102072007,
+      "name": "Mamas"
+    },
+    {
+      "code": 1102072008,
+      "name": "Tanjung Lama"
+    },
+    {
+      "code": 1102072009,
+      "name": "Tanjung Muda"
+    },
+    {
+      "code": 1102072010,
+      "name": "Rambung Teldak"
+    },
+    {
+      "code": 1102072011,
+      "name": "Tanjung Aman"
+    },
+    {
+      "code": 1102072012,
+      "name": "Sri Muda"
+    },
+    {
+      "code": 1102072013,
+      "name": "Ujung Baru"
+    },
+    {
+      "code": 1102072014,
+      "name": "Kute Rambe"
+    },
+    {
+      "code": 1102072015,
+      "name": "Mamas Baru"
+    },
+    {
+      "code": 1102072016,
+      "name": "Rambung Jaya"
+    },
+    {
+      "code": 1102072017,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 1102072018,
+      "name": "Darul Makmur"
+    },
+    {
+      "code": 1102072019,
+      "name": "Tanjung Bakhu"
+    },
+    {
+      "code": 1102072020,
+      "name": "Pulo Gabung"
+    },
+    {
+      "code": 1102072021,
+      "name": "Kokhtan Jaya"
+    },
+    {
+      "code": 1102072022,
+      "name": "Istiqamah"
+    },
+    {
+      "code": 1102072023,
+      "name": "Lawe Mamas Indah"
+    },
+    {
+      "code": 1102072024,
+      "name": "Tanjung Leuser"
+    },
+    {
+      "code": 1102072025,
+      "name": "Simpang IV Tanjung"
+    },
+    {
+      "code": 1102072026,
+      "name": "Lawe Pinis"
+    },
+    {
+      "code": 1102072027,
+      "name": "Buntul Kendawi"
+    },
+    {
+      "code": 1102072028,
+      "name": "Kuning Abadi"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5321102001,
+      "name": "Alas Utara"
+    },
+    {
+      "code": 5321102002,
+      "name": "Kotabiru"
+    },
+    {
+      "code": 5321102003,
+      "name": "Alas"
+    },
+    {
+      "code": 5321102004,
+      "name": "Alas Selatan"
+    }
+  ]
+}

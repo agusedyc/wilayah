@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507022001,
+      "name": "Umbanume"
+    },
+    {
+      "code": 9507022002,
+      "name": "Wenam"
+    },
+    {
+      "code": 9507022003,
+      "name": "Yalipak"
+    },
+    {
+      "code": 9507022004,
+      "name": "Ekanom"
+    },
+    {
+      "code": 9507022005,
+      "name": "Yugumbinik"
+    },
+    {
+      "code": 9507022006,
+      "name": "Amberingime"
+    },
+    {
+      "code": 9507022007,
+      "name": "Aniwo"
+    },
+    {
+      "code": 9507022008,
+      "name": "Bugumbak"
+    }
+  ]
+}

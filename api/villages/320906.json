@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3209062006,
+      "name": "Tambelang"
+    },
+    {
+      "code": 3209062011,
+      "name": "Karangsuwung"
+    },
+    {
+      "code": 3209062012,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3209062013,
+      "name": "Kalimeang"
+    },
+    {
+      "code": 3209062014,
+      "name": "Karangmalang"
+    },
+    {
+      "code": 3209062015,
+      "name": "Karangmekar"
+    },
+    {
+      "code": 3209062016,
+      "name": "Kubangkarang"
+    },
+    {
+      "code": 3209062017,
+      "name": "Karangsembung"
+    }
+  ]
+}

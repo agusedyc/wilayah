@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9604192001,
+      "name": "Tabamsere"
+    },
+    {
+      "code": 9604192002,
+      "name": "Sayam"
+    },
+    {
+      "code": 9604192003,
+      "name": "Araf Mafat"
+    },
+    {
+      "code": 9604192004,
+      "name": "Esyuom"
+    }
+  ]
+}

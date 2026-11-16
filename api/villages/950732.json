@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507322001,
+      "name": "Ayafofa"
+    },
+    {
+      "code": 9507322002,
+      "name": "Salemo"
+    },
+    {
+      "code": 9507322003,
+      "name": "Yudani"
+    },
+    {
+      "code": 9507322004,
+      "name": "Towoluk"
+    },
+    {
+      "code": 9507322005,
+      "name": "Tunume"
+    },
+    {
+      "code": 9507322006,
+      "name": "Delegari"
+    },
+    {
+      "code": 9507322007,
+      "name": "Igimbua"
+    },
+    {
+      "code": 9507322008,
+      "name": "Yilokdu"
+    }
+  ]
+}

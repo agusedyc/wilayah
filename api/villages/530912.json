@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5309122001,
+      "name": "Watumanu"
+    },
+    {
+      "code": 5309122002,
+      "name": "Tiworiwu"
+    },
+    {
+      "code": 5309122003,
+      "name": "Dariwali"
+    },
+    {
+      "code": 5309122004,
+      "name": "Naruwolo"
+    },
+    {
+      "code": 5309122005,
+      "name": "Nenowea"
+    },
+    {
+      "code": 5309122007,
+      "name": "Naruwolo I"
+    },
+    {
+      "code": 5309122008,
+      "name": "Naruwolo II"
+    },
+    {
+      "code": 5309122009,
+      "name": "Dariwali I"
+    },
+    {
+      "code": 5309122010,
+      "name": "Nio Lewa"
+    },
+    {
+      "code": 5309122011,
+      "name": "Tiworiwu I"
+    },
+    {
+      "code": 5309122012,
+      "name": "Tiworiwu II"
+    },
+    {
+      "code": 5309122015,
+      "name": "Batajawa"
+    },
+    {
+      "code": 5309122016,
+      "name": "Wongawea"
+    },
+    {
+      "code": 5309122017,
+      "name": "Bowaru"
+    }
+  ]
+}

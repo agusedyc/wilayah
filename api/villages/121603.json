@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1216032001,
+      "name": "Marbun Toruan"
+    },
+    {
+      "code": 1216032002,
+      "name": "Simamora"
+    },
+    {
+      "code": 1216032003,
+      "name": "Tipang"
+    },
+    {
+      "code": 1216032004,
+      "name": "Sinambela"
+    },
+    {
+      "code": 1216032005,
+      "name": "Simangulampe"
+    },
+    {
+      "code": 1216032006,
+      "name": "Siunong Unong Julu"
+    },
+    {
+      "code": 1216032007,
+      "name": "Marbun Tonga Marbun Dolok"
+    }
+  ]
+}

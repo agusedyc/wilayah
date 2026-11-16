@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1802162001,
+      "name": "Harapan Rejo"
+    },
+    {
+      "code": 1802162002,
+      "name": "Endang Rejo"
+    },
+    {
+      "code": 1802162003,
+      "name": "Dono Arum"
+    },
+    {
+      "code": 1802162004,
+      "name": "Simpang Agung"
+    },
+    {
+      "code": 1802162005,
+      "name": "Bumi Kencana"
+    },
+    {
+      "code": 1802162006,
+      "name": "Gayau Sakti"
+    },
+    {
+      "code": 1802162007,
+      "name": "Fajar Asri"
+    },
+    {
+      "code": 1802162008,
+      "name": "Muji Rahayu"
+    },
+    {
+      "code": 1802162009,
+      "name": "Sulusuban"
+    },
+    {
+      "code": 1802162010,
+      "name": "Bumi Mas"
+    }
+  ]
+}

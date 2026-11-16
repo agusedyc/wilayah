@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1905032001,
+      "name": "Jebus"
+    },
+    {
+      "code": 1905032002,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 1905032003,
+      "name": "Tumbak Petar"
+    },
+    {
+      "code": 1905032004,
+      "name": "Limbung"
+    },
+    {
+      "code": 1905032005,
+      "name": "Rukam"
+    },
+    {
+      "code": 1905032008,
+      "name": "Ranggi Asam"
+    },
+    {
+      "code": 1905032009,
+      "name": "Ketap"
+    },
+    {
+      "code": 1905032018,
+      "name": "Mislak"
+    },
+    {
+      "code": 1905032019,
+      "name": "Pebuar"
+    },
+    {
+      "code": 1905032020,
+      "name": "Sinar Manik"
+    },
+    {
+      "code": 1905032021,
+      "name": "Air Kuang"
+    }
+  ]
+}

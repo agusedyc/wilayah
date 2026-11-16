@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3205092001,
+      "name": "Leles"
+    },
+    {
+      "code": 3205092002,
+      "name": "Ciburial"
+    },
+    {
+      "code": 3205092003,
+      "name": "Jangkurang"
+    },
+    {
+      "code": 3205092004,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3205092005,
+      "name": "Lembang"
+    },
+    {
+      "code": 3205092006,
+      "name": "Cangkuang"
+    },
+    {
+      "code": 3205092007,
+      "name": "Salamnunggal"
+    },
+    {
+      "code": 3205092008,
+      "name": "Kandangmukti"
+    },
+    {
+      "code": 3205092009,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3205092010,
+      "name": "Cipancar"
+    },
+    {
+      "code": 3205092011,
+      "name": "Haruman"
+    },
+    {
+      "code": 3205092012,
+      "name": "Dano"
+    }
+  ]
+}

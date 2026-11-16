@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2103222001,
+      "name": "Air Kumpai"
+    },
+    {
+      "code": 2103222002,
+      "name": "Batu Belanak"
+    },
+    {
+      "code": 2103222003,
+      "name": "Gunung Jambat"
+    }
+  ]
+}

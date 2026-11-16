@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504462001,
+      "name": "Pekaleme"
+    },
+    {
+      "code": 9504462002,
+      "name": "Teleme"
+    },
+    {
+      "code": 9504462003,
+      "name": "Giko"
+    },
+    {
+      "code": 9504462004,
+      "name": "Kungge"
+    },
+    {
+      "code": 9504462005,
+      "name": "Kotorambur"
+    },
+    {
+      "code": 9504462006,
+      "name": "Miyanagame"
+    },
+    {
+      "code": 9504462007,
+      "name": "Karu"
+    },
+    {
+      "code": 9504462008,
+      "name": "Tabuh"
+    },
+    {
+      "code": 9504462009,
+      "name": "Gwak Dugunik"
+    },
+    {
+      "code": 9504462010,
+      "name": "Minegimen"
+    },
+    {
+      "code": 9504462011,
+      "name": "Ambirik"
+    }
+  ]
+}

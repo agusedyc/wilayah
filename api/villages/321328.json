@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3213282001,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3213282002,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3213282003,
+      "name": "Munjul"
+    },
+    {
+      "code": 3213282004,
+      "name": "Margahayu"
+    },
+    {
+      "code": 3213282005,
+      "name": "Pangsor"
+    },
+    {
+      "code": 3213282006,
+      "name": "Sumurgintung"
+    },
+    {
+      "code": 3213282007,
+      "name": "Balingbing"
+    },
+    {
+      "code": 3213282008,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3213282009,
+      "name": "Cidadap"
+    }
+  ]
+}

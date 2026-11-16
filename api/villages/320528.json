@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3205282001,
+      "name": "Cisompet"
+    },
+    {
+      "code": 3205282002,
+      "name": "Cihaurkuning"
+    },
+    {
+      "code": 3205282003,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3205282004,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3205282005,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3205282006,
+      "name": "Cikondang"
+    },
+    {
+      "code": 3205282007,
+      "name": "Depok"
+    },
+    {
+      "code": 3205282008,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3205282009,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3205282010,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3205282011,
+      "name": "Sindangsari"
+    }
+  ]
+}

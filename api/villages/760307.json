@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7603071001,
+      "name": "Messawa"
+    },
+    {
+      "code": 7603072002,
+      "name": "Rippung"
+    },
+    {
+      "code": 7603072003,
+      "name": "Makuang"
+    },
+    {
+      "code": 7603072004,
+      "name": "Sepang"
+    },
+    {
+      "code": 7603072005,
+      "name": "Malimbong"
+    },
+    {
+      "code": 7603072006,
+      "name": "Matande"
+    },
+    {
+      "code": 7603072007,
+      "name": "Sipai"
+    },
+    {
+      "code": 7603072008,
+      "name": "Pasma Mambu"
+    },
+    {
+      "code": 7603072009,
+      "name": "Tanete Batu"
+    }
+  ]
+}

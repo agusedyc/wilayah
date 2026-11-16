@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1276031001,
+      "name": "Bagelen"
+    },
+    {
+      "code": 1276031002,
+      "name": "Tambangan"
+    },
+    {
+      "code": 1276031004,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 1276031006,
+      "name": "Satria"
+    },
+    {
+      "code": 1276031007,
+      "name": "Damar Sari"
+    },
+    {
+      "code": 1276031008,
+      "name": "Tambangan Hulu"
+    },
+    {
+      "code": 1276031009,
+      "name": "Deblod Sundoro"
+    }
+  ]
+}

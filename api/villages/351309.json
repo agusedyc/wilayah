@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3513092001,
+      "name": "Batur"
+    },
+    {
+      "code": 3513092002,
+      "name": "Betek Taman"
+    },
+    {
+      "code": 3513092003,
+      "name": "Sentul"
+    },
+    {
+      "code": 3513092004,
+      "name": "Dandang"
+    },
+    {
+      "code": 3513092005,
+      "name": "Kertosono"
+    },
+    {
+      "code": 3513092006,
+      "name": "Prasi"
+    },
+    {
+      "code": 3513092007,
+      "name": "Duren"
+    },
+    {
+      "code": 3513092008,
+      "name": "Renteng"
+    },
+    {
+      "code": 3513092009,
+      "name": "Bulupadak"
+    },
+    {
+      "code": 3513092010,
+      "name": "Keben"
+    },
+    {
+      "code": 3513092011,
+      "name": "Gadingwetan"
+    },
+    {
+      "code": 3513092012,
+      "name": "Wangkal"
+    },
+    {
+      "code": 3513092013,
+      "name": "Nogosaren"
+    },
+    {
+      "code": 3513092014,
+      "name": "Mojolegi"
+    },
+    {
+      "code": 3513092015,
+      "name": "Sumbersecang"
+    },
+    {
+      "code": 3513092016,
+      "name": "Condong"
+    },
+    {
+      "code": 3513092017,
+      "name": "Jurangjero"
+    },
+    {
+      "code": 3513092018,
+      "name": "Kaliancar"
+    },
+    {
+      "code": 3513092019,
+      "name": "Ranuwurung"
+    }
+  ]
+}

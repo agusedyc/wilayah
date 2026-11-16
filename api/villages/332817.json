@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3328172001,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3328172002,
+      "name": "Kedungjati"
+    },
+    {
+      "code": 3328172003,
+      "name": "Kendayakan"
+    },
+    {
+      "code": 3328172004,
+      "name": "Warureja"
+    },
+    {
+      "code": 3328172005,
+      "name": "Demangharjo"
+    },
+    {
+      "code": 3328172006,
+      "name": "Banjarturi"
+    },
+    {
+      "code": 3328172007,
+      "name": "Kedungkelor"
+    },
+    {
+      "code": 3328172008,
+      "name": "Sukareja"
+    },
+    {
+      "code": 3328172009,
+      "name": "Banjaragung"
+    },
+    {
+      "code": 3328172010,
+      "name": "Sigentong"
+    },
+    {
+      "code": 3328172011,
+      "name": "Kreman"
+    },
+    {
+      "code": 3328172012,
+      "name": "Rangi Mulya"
+    }
+  ]
+}

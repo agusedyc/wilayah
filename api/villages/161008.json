@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1610082001,
+      "name": "Mandi Angin"
+    },
+    {
+      "code": 1610082002,
+      "name": "Tanjung Lubuk"
+    },
+    {
+      "code": 1610082003,
+      "name": "Tebing Gerinting Selatan"
+    },
+    {
+      "code": 1610082004,
+      "name": "Arisan Gading"
+    },
+    {
+      "code": 1610082005,
+      "name": "Tanjung Dayang Selatan"
+    },
+    {
+      "code": 1610082006,
+      "name": "Beti"
+    },
+    {
+      "code": 1610082007,
+      "name": "Meranjat I"
+    },
+    {
+      "code": 1610082008,
+      "name": "Meranjat Ilir"
+    },
+    {
+      "code": 1610082009,
+      "name": "Meranjat II"
+    },
+    {
+      "code": 1610082010,
+      "name": "Sukaraja Lama"
+    },
+    {
+      "code": 1610082011,
+      "name": "Sukaraja Baru"
+    },
+    {
+      "code": 1610082012,
+      "name": "Tebing Gerinting Utara"
+    },
+    {
+      "code": 1610082013,
+      "name": "Tanjung Dayang Utara"
+    },
+    {
+      "code": 1610082014,
+      "name": "Meranjat III"
+    }
+  ]
+}

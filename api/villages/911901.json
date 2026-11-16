@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9119012003,
+      "name": "Fanindi"
+    },
+    {
+      "code": 9119012004,
+      "name": "Odori"
+    },
+    {
+      "code": 9119012010,
+      "name": "Biniki"
+    },
+    {
+      "code": 9119012011,
+      "name": "Didiabolo"
+    },
+    {
+      "code": 9119012015,
+      "name": "Warbefondi"
+    },
+    {
+      "code": 9119012016,
+      "name": "Awaki"
+    },
+    {
+      "code": 9119012019,
+      "name": "Maryaidori"
+    }
+  ]
+}

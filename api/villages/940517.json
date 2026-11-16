@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9405172001,
+      "name": "Pamebut"
+    },
+    {
+      "code": 9405172002,
+      "name": "Agenggen"
+    },
+    {
+      "code": 9405172003,
+      "name": "Yugumuak"
+    },
+    {
+      "code": 9405172004,
+      "name": "Wilewak"
+    },
+    {
+      "code": 9405172005,
+      "name": "Lambera"
+    },
+    {
+      "code": 9405172006,
+      "name": "Wobulo"
+    },
+    {
+      "code": 9405172007,
+      "name": "Mugalolo"
+    },
+    {
+      "code": 9405172008,
+      "name": "Manggame"
+    },
+    {
+      "code": 9405172009,
+      "name": "Jerusalem"
+    },
+    {
+      "code": 9405172010,
+      "name": "Wiyabubu"
+    }
+  ]
+}

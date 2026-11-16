@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1101112001,
+      "name": "Tengah Peulumat"
+    },
+    {
+      "code": 1101112002,
+      "name": "Paya Peulumat"
+    },
+    {
+      "code": 1101112003,
+      "name": "Padang Peulumat"
+    },
+    {
+      "code": 1101112004,
+      "name": "Aur Peulumat"
+    },
+    {
+      "code": 1101112005,
+      "name": "Limau Saring"
+    },
+    {
+      "code": 1101112006,
+      "name": "Beutong"
+    },
+    {
+      "code": 1101112007,
+      "name": "Peuneulop"
+    },
+    {
+      "code": 1101112008,
+      "name": "Gunung Rotan"
+    },
+    {
+      "code": 1101112009,
+      "name": "Keumumu Hilir"
+    },
+    {
+      "code": 1101112010,
+      "name": "Keumumu Hulu"
+    },
+    {
+      "code": 1101112011,
+      "name": "Keumumu Seberang"
+    },
+    {
+      "code": 1101112012,
+      "name": "Sawang Indah"
+    }
+  ]
+}

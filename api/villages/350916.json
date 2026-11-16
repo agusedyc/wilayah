@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3509162001,
+      "name": "Kemuningsarikidul"
+    },
+    {
+      "code": 3509162002,
+      "name": "Wonojati"
+    },
+    {
+      "code": 3509162003,
+      "name": "Jenggawah"
+    },
+    {
+      "code": 3509162004,
+      "name": "Kertonegoro"
+    },
+    {
+      "code": 3509162005,
+      "name": "Sruni"
+    },
+    {
+      "code": 3509162006,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3509162007,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3509162008,
+      "name": "Cangkring"
+    }
+  ]
+}

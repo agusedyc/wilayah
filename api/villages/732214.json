@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7322142001,
+      "name": "Lara"
+    },
+    {
+      "code": 7322142002,
+      "name": "Marannu"
+    },
+    {
+      "code": 7322142003,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 7322142004,
+      "name": "Mukti Jaya"
+    },
+    {
+      "code": 7322142005,
+      "name": "Mekarsari Jaya"
+    },
+    {
+      "code": 7322142006,
+      "name": "Mukti Tama"
+    },
+    {
+      "code": 7322142007,
+      "name": "Lembang-lembang"
+    },
+    {
+      "code": 7322142008,
+      "name": "Lawewe"
+    },
+    {
+      "code": 7322142009,
+      "name": "Polewali"
+    },
+    {
+      "code": 7322142010,
+      "name": "Sumpira"
+    }
+  ]
+}

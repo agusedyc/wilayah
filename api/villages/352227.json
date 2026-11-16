@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3522272001,
+      "name": "Bobol"
+    },
+    {
+      "code": 3522272002,
+      "name": "Miyono"
+    },
+    {
+      "code": 3522272003,
+      "name": "Sekar"
+    },
+    {
+      "code": 3522272004,
+      "name": "Klino"
+    },
+    {
+      "code": 3522272005,
+      "name": "Deling"
+    },
+    {
+      "code": 3522272006,
+      "name": "Bareng"
+    }
+  ]
+}

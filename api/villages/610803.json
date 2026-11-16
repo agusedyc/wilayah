@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6108032001,
+      "name": "Sepahat"
+    },
+    {
+      "code": 6108032002,
+      "name": "Lamoanak"
+    },
+    {
+      "code": 6108032003,
+      "name": "Bengkawe"
+    },
+    {
+      "code": 6108032004,
+      "name": "Tempoak"
+    },
+    {
+      "code": 6108032005,
+      "name": "Re'es"
+    },
+    {
+      "code": 6108032006,
+      "name": "Raba"
+    },
+    {
+      "code": 6108032007,
+      "name": "Nangka"
+    },
+    {
+      "code": 6108032008,
+      "name": "Menjalin"
+    }
+  ]
+}

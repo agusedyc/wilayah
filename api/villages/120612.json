@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1206122005,
+      "name": "Kutatengah"
+    },
+    {
+      "code": 1206122006,
+      "name": "Tigapancur"
+    },
+    {
+      "code": 1206122007,
+      "name": "Pintu Besi"
+    },
+    {
+      "code": 1206122009,
+      "name": "Gamber"
+    },
+    {
+      "code": 1206122012,
+      "name": "Sirumbia"
+    },
+    {
+      "code": 1206122014,
+      "name": "Ndokumsiroga"
+    },
+    {
+      "code": 1206122016,
+      "name": "Linggajulu"
+    },
+    {
+      "code": 1206122017,
+      "name": "Gajah"
+    },
+    {
+      "code": 1206122018,
+      "name": "Lingga"
+    },
+    {
+      "code": 1206122019,
+      "name": "Nangbelawan"
+    },
+    {
+      "code": 1206122022,
+      "name": "Beganding"
+    },
+    {
+      "code": 1206122024,
+      "name": "Torong"
+    },
+    {
+      "code": 1206122025,
+      "name": "Berastepu"
+    },
+    {
+      "code": 1206122026,
+      "name": "Surbakti"
+    },
+    {
+      "code": 1206122028,
+      "name": "Jeraya"
+    },
+    {
+      "code": 1206122030,
+      "name": "Perteguhen"
+    },
+    {
+      "code": 1206122035,
+      "name": "Bulanbaru"
+    }
+  ]
+}

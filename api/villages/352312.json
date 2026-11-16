@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3523122001,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3523122002,
+      "name": "Socorejo"
+    },
+    {
+      "code": 3523122003,
+      "name": "Temaji"
+    },
+    {
+      "code": 3523122004,
+      "name": "Purworejo"
+    },
+    {
+      "code": 3523122005,
+      "name": "Tasikharjo"
+    },
+    {
+      "code": 3523122006,
+      "name": "Sumurgeneng"
+    },
+    {
+      "code": 3523122007,
+      "name": "Suwalan"
+    },
+    {
+      "code": 3523122008,
+      "name": "Remen"
+    },
+    {
+      "code": 3523122009,
+      "name": "Beji"
+    },
+    {
+      "code": 3523122010,
+      "name": "Wadung"
+    },
+    {
+      "code": 3523122011,
+      "name": "Rawasan"
+    },
+    {
+      "code": 3523122012,
+      "name": "Mentoso"
+    },
+    {
+      "code": 3523122013,
+      "name": "Jenggolo"
+    },
+    {
+      "code": 3523122014,
+      "name": "Kaliuntu"
+    },
+    {
+      "code": 3523122015,
+      "name": "Sekardadi"
+    },
+    {
+      "code": 3523122016,
+      "name": "Jenu"
+    },
+    {
+      "code": 3523122017,
+      "name": "Sugihwaras"
+    }
+  ]
+}

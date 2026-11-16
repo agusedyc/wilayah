@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "message": "Showing 36 villages",
+  "data": [
+    {
+      "code": 1116012001,
+      "name": "Simpang Lhee"
+    },
+    {
+      "code": 1116012002,
+      "name": "Buket Panyang Sa"
+    },
+    {
+      "code": 1116012003,
+      "name": "Buket Panyang Dua"
+    },
+    {
+      "code": 1116012004,
+      "name": "Seuneubok Baru"
+    },
+    {
+      "code": 1116012005,
+      "name": "Sampaimah"
+    },
+    {
+      "code": 1116012006,
+      "name": "Krueng Sikajang"
+    },
+    {
+      "code": 1116012007,
+      "name": "Seuneubok Punti"
+    },
+    {
+      "code": 1116012008,
+      "name": "Mesjid"
+    },
+    {
+      "code": 1116012009,
+      "name": "Paya Ketenggar"
+    },
+    {
+      "code": 1116012010,
+      "name": "Pahlawan"
+    },
+    {
+      "code": 1116012011,
+      "name": "Matang Ara Aceh"
+    },
+    {
+      "code": 1116012012,
+      "name": "Ie Bintah"
+    },
+    {
+      "code": 1116012013,
+      "name": "Geudham"
+    },
+    {
+      "code": 1116012014,
+      "name": "Geulanggang Merak"
+    },
+    {
+      "code": 1116012015,
+      "name": "Bukit Paya"
+    },
+    {
+      "code": 1116012016,
+      "name": "Dagang Setia"
+    },
+    {
+      "code": 1116012017,
+      "name": "Meunasah Paya"
+    },
+    {
+      "code": 1116012018,
+      "name": "Benteng Anyer"
+    },
+    {
+      "code": 1116012019,
+      "name": "Tanjung Neraca"
+    },
+    {
+      "code": 1116012020,
+      "name": "Lueng Manyo"
+    },
+    {
+      "code": 1116012021,
+      "name": "Tualang Baro"
+    },
+    {
+      "code": 1116012022,
+      "name": "Lhok Medang Ara"
+    },
+    {
+      "code": 1116012023,
+      "name": "Kaseh Sayang"
+    },
+    {
+      "code": 1116012024,
+      "name": "Seuneubok Pidie"
+    },
+    {
+      "code": 1116012025,
+      "name": "Matang Cincin"
+    },
+    {
+      "code": 1116012026,
+      "name": "Matang Ara Jawa"
+    },
+    {
+      "code": 1116012027,
+      "name": "Meurandeh"
+    },
+    {
+      "code": 1116012028,
+      "name": "Raja Tuha"
+    },
+    {
+      "code": 1116012029,
+      "name": "Ujung Tanjung"
+    },
+    {
+      "code": 1116012030,
+      "name": "Alue Ie Puteh"
+    },
+    {
+      "code": 1116012031,
+      "name": "Alue Sentang"
+    },
+    {
+      "code": 1116012032,
+      "name": "Seuneubok Cantek"
+    },
+    {
+      "code": 1116012033,
+      "name": "Sapta Marga"
+    },
+    {
+      "code": 1116012034,
+      "name": "Paya Baru"
+    },
+    {
+      "code": 1116012035,
+      "name": "Bandung Jaya"
+    },
+    {
+      "code": 1116012036,
+      "name": "Pandan Sari"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6212062001,
+      "name": "Bumban Tuhup"
+    },
+    {
+      "code": 6212062002,
+      "name": "Makunjung"
+    },
+    {
+      "code": 6212062003,
+      "name": "Dirung Sararong"
+    },
+    {
+      "code": 6212062004,
+      "name": "Kohong"
+    },
+    {
+      "code": 6212062005,
+      "name": "Hingan Tokung"
+    },
+    {
+      "code": 6212062006,
+      "name": "Liang Nyaling"
+    },
+    {
+      "code": 6212062007,
+      "name": "Tumbang Bauh"
+    },
+    {
+      "code": 6212062008,
+      "name": "Tumbang Masalo"
+    },
+    {
+      "code": 6212062009,
+      "name": "Batu Tojah"
+    },
+    {
+      "code": 6212062010,
+      "name": "Tumbang Baloi"
+    },
+    {
+      "code": 6212062011,
+      "name": "Cinta Budiman"
+    }
+  ]
+}

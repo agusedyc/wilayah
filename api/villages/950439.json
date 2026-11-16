@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504392001,
+      "name": "Wania"
+    },
+    {
+      "code": 9504392002,
+      "name": "Milipaa"
+    },
+    {
+      "code": 9504392003,
+      "name": "Tarawi"
+    },
+    {
+      "code": 9504392004,
+      "name": "Niagale"
+    },
+    {
+      "code": 9504392005,
+      "name": "Bumbu"
+    },
+    {
+      "code": 9504392006,
+      "name": "Ambena"
+    },
+    {
+      "code": 9504392007,
+      "name": "Gunombo"
+    },
+    {
+      "code": 9504392008,
+      "name": "Mawi"
+    },
+    {
+      "code": 9504392009,
+      "name": "Ripa"
+    },
+    {
+      "code": 9504392010,
+      "name": "Delegari"
+    }
+  ]
+}

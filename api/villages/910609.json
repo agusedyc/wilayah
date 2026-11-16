@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 9106092003,
+      "name": "Marur"
+    },
+    {
+      "code": 9106092004,
+      "name": "Diano"
+    },
+    {
+      "code": 9106092005,
+      "name": "Sawai"
+    },
+    {
+      "code": 9106092006,
+      "name": "Aman"
+    },
+    {
+      "code": 9106092007,
+      "name": "Yeruboi"
+    },
+    {
+      "code": 9106092008,
+      "name": "Amoi"
+    },
+    {
+      "code": 9106092009,
+      "name": "Inswambesi"
+    },
+    {
+      "code": 9106092010,
+      "name": "Koyomi"
+    },
+    {
+      "code": 9106092011,
+      "name": "Wasani"
+    },
+    {
+      "code": 9106092017,
+      "name": "Karuiberik"
+    },
+    {
+      "code": 9106092018,
+      "name": "Komboi"
+    },
+    {
+      "code": 9106092020,
+      "name": "Inswambesi Sup"
+    },
+    {
+      "code": 9106092021,
+      "name": "Inyobi"
+    },
+    {
+      "code": 9106092023,
+      "name": "Maniri"
+    },
+    {
+      "code": 9106092024,
+      "name": "Imbari"
+    },
+    {
+      "code": 9106092025,
+      "name": "Manbeori"
+    },
+    {
+      "code": 9106092026,
+      "name": "Warawaf"
+    },
+    {
+      "code": 9106092027,
+      "name": "Wir Insos"
+    },
+    {
+      "code": 9106092028,
+      "name": "Biawer"
+    },
+    {
+      "code": 9106092029,
+      "name": "Mamfias"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1571071001,
+      "name": "Suka Karya"
+    },
+    {
+      "code": 1571071002,
+      "name": "Simpang III Sipin"
+    },
+    {
+      "code": 1571071004,
+      "name": "Paal Lima"
+    },
+    {
+      "code": 1571071005,
+      "name": "Kenali Asam Bawah"
+    },
+    {
+      "code": 1571071006,
+      "name": "Kenali Asam Atas"
+    },
+    {
+      "code": 1571071011,
+      "name": "Talang Gulo"
+    },
+    {
+      "code": 1571071012,
+      "name": "Kenali Asam"
+    }
+  ]
+}

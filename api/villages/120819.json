@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1208192001,
+      "name": "Jawa Maraja"
+    },
+    {
+      "code": 1208192002,
+      "name": "Moho"
+    },
+    {
+      "code": 1208192003,
+      "name": "Bahalat Bayu"
+    },
+    {
+      "code": 1208192004,
+      "name": "Mekar Bahalat"
+    },
+    {
+      "code": 1208192005,
+      "name": "Tanjung Maraja"
+    },
+    {
+      "code": 1208192006,
+      "name": "Mariah Jambi"
+    },
+    {
+      "code": 1208192007,
+      "name": "Bah Joga"
+    },
+    {
+      "code": 1208192008,
+      "name": "Bah Jambi"
+    }
+  ]
+}

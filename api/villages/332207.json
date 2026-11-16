@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3322072001,
+      "name": "Gedong"
+    },
+    {
+      "code": 3322072002,
+      "name": "Kebumen"
+    },
+    {
+      "code": 3322072003,
+      "name": "Sepakung"
+    },
+    {
+      "code": 3322072004,
+      "name": "Wirogomo"
+    },
+    {
+      "code": 3322072005,
+      "name": "Kemambang"
+    },
+    {
+      "code": 3322072006,
+      "name": "Tegaron"
+    },
+    {
+      "code": 3322072007,
+      "name": "Rowoboni"
+    },
+    {
+      "code": 3322072008,
+      "name": "Kebondowo"
+    },
+    {
+      "code": 3322072009,
+      "name": "Banyubiru"
+    },
+    {
+      "code": 3322072010,
+      "name": "Ngrapah"
+    }
+  ]
+}

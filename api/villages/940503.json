@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9405032001,
+      "name": "Yulukoma"
+    },
+    {
+      "code": 9405032002,
+      "name": "Milawak"
+    },
+    {
+      "code": 9405032003,
+      "name": "Tinggilbet"
+    },
+    {
+      "code": 9405032004,
+      "name": "Ogamki"
+    },
+    {
+      "code": 9405032005,
+      "name": "Dengkibuma"
+    },
+    {
+      "code": 9405032006,
+      "name": "Dambet"
+    },
+    {
+      "code": 9405032007,
+      "name": "Ondugi"
+    },
+    {
+      "code": 9405032008,
+      "name": "Ambobera"
+    }
+  ]
+}

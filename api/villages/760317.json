@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7603172001,
+      "name": "Mehalaan"
+    },
+    {
+      "code": 7603172002,
+      "name": "Botteng"
+    },
+    {
+      "code": 7603172003,
+      "name": "Salukonta"
+    },
+    {
+      "code": 7603172004,
+      "name": "Mesakada"
+    },
+    {
+      "code": 7603172005,
+      "name": "Mehalaan Barat"
+    },
+    {
+      "code": 7603172006,
+      "name": "Saluahok"
+    },
+    {
+      "code": 7603172007,
+      "name": "Salubalo"
+    },
+    {
+      "code": 7603172008,
+      "name": "Passembuk"
+    },
+    {
+      "code": 7603172009,
+      "name": "Kondo"
+    },
+    {
+      "code": 7603172010,
+      "name": "Leko Sukamaju"
+    },
+    {
+      "code": 7603172011,
+      "name": "Ulumea"
+    }
+  ]
+}

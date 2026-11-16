@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1471041001,
+      "name": "Rintis"
+    },
+    {
+      "code": 1471041002,
+      "name": "Tanjung RHU"
+    },
+    {
+      "code": 1471041003,
+      "name": "Pesisir"
+    },
+    {
+      "code": 1471041004,
+      "name": "Sekip"
+    }
+  ]
+}

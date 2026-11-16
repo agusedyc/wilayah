@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1101012001,
+      "name": "Keude Bakongan"
+    },
+    {
+      "code": 1101012002,
+      "name": "Ujong Mangki"
+    },
+    {
+      "code": 1101012003,
+      "name": "Ujong Padang"
+    },
+    {
+      "code": 1101012004,
+      "name": "Gampong Drien"
+    },
+    {
+      "code": 1101012015,
+      "name": "Darul Ikhsan"
+    },
+    {
+      "code": 1101012016,
+      "name": "Padang Beurahan"
+    },
+    {
+      "code": 1101012017,
+      "name": "Gampong Baro"
+    }
+  ]
+}

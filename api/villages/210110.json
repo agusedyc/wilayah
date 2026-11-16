@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2101101007,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 2101102001,
+      "name": "Berakit"
+    },
+    {
+      "code": 2101102002,
+      "name": "Ekang Anculai"
+    },
+    {
+      "code": 2101102003,
+      "name": "Pengudang"
+    },
+    {
+      "code": 2101102004,
+      "name": "Sebong Lagoi"
+    },
+    {
+      "code": 2101102005,
+      "name": "Sebong Pereh"
+    },
+    {
+      "code": 2101102006,
+      "name": "Sri Bintan"
+    }
+  ]
+}

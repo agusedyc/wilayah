@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5305182001,
+      "name": "Tribur"
+    },
+    {
+      "code": 5305182002,
+      "name": "Wakapsir"
+    },
+    {
+      "code": 5305182003,
+      "name": "Manatang"
+    },
+    {
+      "code": 5305182004,
+      "name": "Orgen"
+    },
+    {
+      "code": 5305182005,
+      "name": "Wakapsir Timur"
+    },
+    {
+      "code": 5305182006,
+      "name": "Kuifana"
+    },
+    {
+      "code": 5305182007,
+      "name": "Margeta"
+    }
+  ]
+}

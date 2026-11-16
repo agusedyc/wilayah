@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3279021001,
+      "name": "Hegarsari"
+    },
+    {
+      "code": 3279021002,
+      "name": "Pataruman"
+    },
+    {
+      "code": 3279022003,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3279022004,
+      "name": "Batulawang"
+    },
+    {
+      "code": 3279022005,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3279022006,
+      "name": "Binangun"
+    },
+    {
+      "code": 3279022007,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3279022008,
+      "name": "Sinartanjung"
+    }
+  ]
+}

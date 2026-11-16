@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 8103011001,
+      "name": "Saumlaki"
+    },
+    {
+      "code": 8103011002,
+      "name": "Saumlaki Utara"
+    },
+    {
+      "code": 8103012002,
+      "name": "Wowonda"
+    },
+    {
+      "code": 8103012003,
+      "name": "Ilngei"
+    },
+    {
+      "code": 8103012004,
+      "name": "Kabiarat"
+    },
+    {
+      "code": 8103012005,
+      "name": "Lauran"
+    },
+    {
+      "code": 8103012006,
+      "name": "Sifnana"
+    },
+    {
+      "code": 8103012007,
+      "name": "Olilit Raya"
+    },
+    {
+      "code": 8103012008,
+      "name": "Lermatang"
+    },
+    {
+      "code": 8103012009,
+      "name": "Latdalam"
+    },
+    {
+      "code": 8103012010,
+      "name": "Bomaki"
+    },
+    {
+      "code": 8103012011,
+      "name": "Matakus"
+    }
+  ]
+}

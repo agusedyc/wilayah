@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3203052001,
+      "name": "Ciranjang"
+    },
+    {
+      "code": 3203052002,
+      "name": "Sindangjaya"
+    },
+    {
+      "code": 3203052004,
+      "name": "Cibiuk"
+    },
+    {
+      "code": 3203052005,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3203052006,
+      "name": "Karangwangi"
+    },
+    {
+      "code": 3203052007,
+      "name": "Nanggalamekar"
+    },
+    {
+      "code": 3203052008,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3203052009,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3203052012,
+      "name": "Mekargalih"
+    }
+  ]
+}

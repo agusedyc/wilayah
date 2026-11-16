@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1671181001,
+      "name": "Delapan Ilir"
+    },
+    {
+      "code": 1671181002,
+      "name": "Sembilan Ilir"
+    },
+    {
+      "code": 1671181003,
+      "name": "Sepuluh Ilir"
+    },
+    {
+      "code": 1671181004,
+      "name": "Sebelas Ilir"
+    },
+    {
+      "code": 1671181005,
+      "name": "Kutobatu"
+    },
+    {
+      "code": 1671181006,
+      "name": "Duku"
+    }
+  ]
+}

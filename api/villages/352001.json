@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3520011005,
+      "name": "Alastuwo"
+    },
+    {
+      "code": 3520012001,
+      "name": "Poncol"
+    },
+    {
+      "code": 3520012002,
+      "name": "Gonggang"
+    },
+    {
+      "code": 3520012003,
+      "name": "Janggan"
+    },
+    {
+      "code": 3520012004,
+      "name": "Genilangit"
+    },
+    {
+      "code": 3520012006,
+      "name": "Plangkrongan"
+    },
+    {
+      "code": 3520012007,
+      "name": "Cileng"
+    },
+    {
+      "code": 3520012008,
+      "name": "Sombo"
+    }
+  ]
+}

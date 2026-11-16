@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7503052001,
+      "name": "Boidu"
+    },
+    {
+      "code": 7503052002,
+      "name": "Bandungan"
+    },
+    {
+      "code": 7503052003,
+      "name": "Tupa"
+    },
+    {
+      "code": 7503052004,
+      "name": "Longalo"
+    },
+    {
+      "code": 7503052009,
+      "name": "Tuloa"
+    },
+    {
+      "code": 7503052010,
+      "name": "Kopi"
+    },
+    {
+      "code": 7503052011,
+      "name": "Lomaya"
+    },
+    {
+      "code": 7503052012,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 7503052015,
+      "name": "Bunuo"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9105092001,
+      "name": "Randawaya"
+    },
+    {
+      "code": 9105092002,
+      "name": "Warironi"
+    },
+    {
+      "code": 9105092003,
+      "name": "Ampimoi"
+    },
+    {
+      "code": 9105092004,
+      "name": "Waita"
+    },
+    {
+      "code": 9105092005,
+      "name": "Ayari"
+    },
+    {
+      "code": 9105092006,
+      "name": "Koroapi"
+    },
+    {
+      "code": 9105092007,
+      "name": "Wabuayar"
+    },
+    {
+      "code": 9105092008,
+      "name": "Tarei"
+    },
+    {
+      "code": 9105092009,
+      "name": "Bareraif"
+    },
+    {
+      "code": 9105092010,
+      "name": "Arareni"
+    },
+    {
+      "code": 9105092011,
+      "name": "Siromi"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306051001,
+      "name": "Lanna"
+    },
+    {
+      "code": 7306051002,
+      "name": "Bontoparang"
+    },
+    {
+      "code": 7306052006,
+      "name": "Lonjoboko"
+    },
+    {
+      "code": 7306052008,
+      "name": "Borisallo"
+    },
+    {
+      "code": 7306052009,
+      "name": "Belapunranga"
+    },
+    {
+      "code": 7306052010,
+      "name": "Bontokassi"
+    },
+    {
+      "code": 7306052011,
+      "name": "Belabori"
+    }
+  ]
+}

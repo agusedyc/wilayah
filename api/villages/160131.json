@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1601312001,
+      "name": "Kemala Jaya"
+    },
+    {
+      "code": 1601312002,
+      "name": "Lontar"
+    },
+    {
+      "code": 1601312003,
+      "name": "Muara Saeh"
+    },
+    {
+      "code": 1601312004,
+      "name": "Lubuk Tupak"
+    },
+    {
+      "code": 1601312005,
+      "name": "Beringin"
+    },
+    {
+      "code": 1601312006,
+      "name": "Surau"
+    },
+    {
+      "code": 1601312007,
+      "name": "Karang Lantang"
+    }
+  ]
+}

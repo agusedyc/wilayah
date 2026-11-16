@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5301162001,
+      "name": "Oelomin"
+    },
+    {
+      "code": 5301162002,
+      "name": "Tasikona"
+    },
+    {
+      "code": 5301162003,
+      "name": "Oemasi"
+    },
+    {
+      "code": 5301162004,
+      "name": "Usapi Sonbai"
+    },
+    {
+      "code": 5301162005,
+      "name": "Oenif"
+    },
+    {
+      "code": 5301162006,
+      "name": "Tunfeu"
+    },
+    {
+      "code": 5301162007,
+      "name": "Oepaha"
+    },
+    {
+      "code": 5301162008,
+      "name": "Bone"
+    },
+    {
+      "code": 5301162009,
+      "name": "Taloetan"
+    },
+    {
+      "code": 5301162010,
+      "name": "Oben"
+    },
+    {
+      "code": 5301162011,
+      "name": "Bismarak"
+    }
+  ]
+}

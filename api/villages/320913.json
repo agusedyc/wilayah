@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3209132001,
+      "name": "Wanayasa"
+    },
+    {
+      "code": 3209132002,
+      "name": "Sindangkasih"
+    },
+    {
+      "code": 3209132003,
+      "name": "Sindanghayu"
+    },
+    {
+      "code": 3209132004,
+      "name": "Ciawigajah"
+    },
+    {
+      "code": 3209132008,
+      "name": "Cikancas"
+    },
+    {
+      "code": 3209132009,
+      "name": "Halimpu"
+    },
+    {
+      "code": 3209132010,
+      "name": "Cipinang"
+    },
+    {
+      "code": 3209132011,
+      "name": "Beber"
+    },
+    {
+      "code": 3209132012,
+      "name": "Patapan"
+    },
+    {
+      "code": 3209132013,
+      "name": "Kondangsari"
+    }
+  ]
+}

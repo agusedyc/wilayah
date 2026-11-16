@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3206032001,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3206032002,
+      "name": "Kalapagenep"
+    },
+    {
+      "code": 3206032003,
+      "name": "Cikancra"
+    },
+    {
+      "code": 3206032004,
+      "name": "Singkir"
+    },
+    {
+      "code": 3206032005,
+      "name": "Panyiaran"
+    },
+    {
+      "code": 3206032006,
+      "name": "Cibeber"
+    },
+    {
+      "code": 3206032007,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3206032008,
+      "name": "Mandalajaya"
+    },
+    {
+      "code": 3206032009,
+      "name": "Cidadali"
+    },
+    {
+      "code": 3206032010,
+      "name": "Cimanuk"
+    },
+    {
+      "code": 3206032011,
+      "name": "Sindangjaya"
+    },
+    {
+      "code": 3206032012,
+      "name": "Kubangsari"
+    },
+    {
+      "code": 3206032013,
+      "name": "Tonjongsari"
+    }
+  ]
+}

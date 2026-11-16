@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1603112001,
+      "name": "Pinang Belarik"
+    },
+    {
+      "code": 1603112002,
+      "name": "Ujan Mas Lama"
+    },
+    {
+      "code": 1603112003,
+      "name": "Ujan Mas Baru"
+    },
+    {
+      "code": 1603112004,
+      "name": "Tanjung Raman"
+    },
+    {
+      "code": 1603112005,
+      "name": "Muara Gula Baru"
+    },
+    {
+      "code": 1603112006,
+      "name": "Muara Gula Lama"
+    },
+    {
+      "code": 1603112007,
+      "name": "Guci"
+    },
+    {
+      "code": 1603112008,
+      "name": "Ulak Bandung"
+    },
+    {
+      "code": 1603112009,
+      "name": "Ujan Mas Ulu"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3528062001,
+      "name": "Banyupelle"
+    },
+    {
+      "code": 3528062002,
+      "name": "Rek Kerrek"
+    },
+    {
+      "code": 3528062003,
+      "name": "Angsanah"
+    },
+    {
+      "code": 3528062004,
+      "name": "Akkor"
+    },
+    {
+      "code": 3528062005,
+      "name": "Larangan Badung"
+    },
+    {
+      "code": 3528062006,
+      "name": "Panaan"
+    },
+    {
+      "code": 3528062007,
+      "name": "Potoan Laok"
+    },
+    {
+      "code": 3528062008,
+      "name": "Patoan Daja"
+    },
+    {
+      "code": 3528062009,
+      "name": "Kacok"
+    },
+    {
+      "code": 3528062010,
+      "name": "Rombuh"
+    },
+    {
+      "code": 3528062011,
+      "name": "Palengaan Laok"
+    },
+    {
+      "code": 3528062012,
+      "name": "Palengaan Dajah"
+    }
+  ]
+}

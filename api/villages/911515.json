@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9115152001,
+      "name": "Mambai"
+    },
+    {
+      "code": 9115152002,
+      "name": "Soyoi"
+    },
+    {
+      "code": 9115152003,
+      "name": "Daimboa"
+    },
+    {
+      "code": 9115152004,
+      "name": "Napani"
+    },
+    {
+      "code": 9115152005,
+      "name": "Segha"
+    },
+    {
+      "code": 9115152006,
+      "name": "Wainarisi"
+    },
+    {
+      "code": 9115152007,
+      "name": "Fafarui"
+    },
+    {
+      "code": 9115152008,
+      "name": "Dawoa"
+    },
+    {
+      "code": 9115152009,
+      "name": "Sinabo"
+    },
+    {
+      "code": 9115152010,
+      "name": "Woinui"
+    }
+  ]
+}

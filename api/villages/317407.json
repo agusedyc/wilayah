@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3174071001,
+      "name": "Melawai"
+    },
+    {
+      "code": 3174071002,
+      "name": "Gunung"
+    },
+    {
+      "code": 3174071003,
+      "name": "Kramat Pela"
+    },
+    {
+      "code": 3174071004,
+      "name": "Selong"
+    },
+    {
+      "code": 3174071005,
+      "name": "Rawa Barat"
+    },
+    {
+      "code": 3174071006,
+      "name": "Senayan"
+    },
+    {
+      "code": 3174071007,
+      "name": "Pulo"
+    },
+    {
+      "code": 3174071008,
+      "name": "Petogogan"
+    },
+    {
+      "code": 3174071009,
+      "name": "Gandaria Utara"
+    },
+    {
+      "code": 3174071010,
+      "name": "Cipete Utara"
+    }
+  ]
+}

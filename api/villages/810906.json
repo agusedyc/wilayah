@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8109062001,
+      "name": "Nusarua"
+    },
+    {
+      "code": 8109062002,
+      "name": "Mangeswaen"
+    },
+    {
+      "code": 8109062003,
+      "name": "Waekatin"
+    },
+    {
+      "code": 8109062004,
+      "name": "Fakal"
+    },
+    {
+      "code": 8109062005,
+      "name": "Uneth"
+    },
+    {
+      "code": 8109062006,
+      "name": "Waeraman"
+    },
+    {
+      "code": 8109062007,
+      "name": "Waelo"
+    },
+    {
+      "code": 8109062008,
+      "name": "Siwatlahin"
+    },
+    {
+      "code": 8109062009,
+      "name": "Trukat"
+    },
+    {
+      "code": 8109062010,
+      "name": "Waeken"
+    },
+    {
+      "code": 8109062011,
+      "name": "Batu Karang"
+    }
+  ]
+}

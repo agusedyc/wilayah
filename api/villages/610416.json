@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6104161001,
+      "name": "Kantor"
+    },
+    {
+      "code": 6104161002,
+      "name": "Tengah"
+    },
+    {
+      "code": 6104161003,
+      "name": "Mulia Baru"
+    },
+    {
+      "code": 6104161004,
+      "name": "Sampit"
+    },
+    {
+      "code": 6104161005,
+      "name": "Suka Harja"
+    },
+    {
+      "code": 6104162006,
+      "name": "Suka Bangun"
+    },
+    {
+      "code": 6104162007,
+      "name": "Kali Nilam"
+    },
+    {
+      "code": 6104162008,
+      "name": "Paya Kumang"
+    },
+    {
+      "code": 6104162009,
+      "name": "Suka Bangun Dalam"
+    }
+  ]
+}

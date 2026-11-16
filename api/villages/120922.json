@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1209222001,
+      "name": "Rahuning"
+    },
+    {
+      "code": 1209222002,
+      "name": "Perkebunan Gunung Melayu"
+    },
+    {
+      "code": 1209222003,
+      "name": "Gunung Melayu"
+    },
+    {
+      "code": 1209222004,
+      "name": "Batu Anam"
+    },
+    {
+      "code": 1209222005,
+      "name": "Perkebunan Aek Nagaga"
+    },
+    {
+      "code": 1209222006,
+      "name": "Rahuning I"
+    },
+    {
+      "code": 1209222007,
+      "name": "Rahuning II"
+    }
+  ]
+}

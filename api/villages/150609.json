@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1506091001,
+      "name": "Rantau Badak"
+    },
+    {
+      "code": 1506092002,
+      "name": "Dusun Mudo"
+    },
+    {
+      "code": 1506092003,
+      "name": "Intan Jaya"
+    },
+    {
+      "code": 1506092004,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 1506092005,
+      "name": "Kemang Manis"
+    },
+    {
+      "code": 1506092006,
+      "name": "Rantau Badak Lamo"
+    },
+    {
+      "code": 1506092007,
+      "name": "Lubuk Sebontan"
+    },
+    {
+      "code": 1506092008,
+      "name": "Sungai Papauh"
+    },
+    {
+      "code": 1506092009,
+      "name": "Sungai Muluk"
+    },
+    {
+      "code": 1506092010,
+      "name": "Pematang Balam"
+    }
+  ]
+}

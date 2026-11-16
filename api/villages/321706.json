@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3217062001,
+      "name": "Ngamprah"
+    },
+    {
+      "code": 3217062002,
+      "name": "Cimareme"
+    },
+    {
+      "code": 3217062003,
+      "name": "Cilame"
+    },
+    {
+      "code": 3217062004,
+      "name": "Tanimulya"
+    },
+    {
+      "code": 3217062005,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3217062006,
+      "name": "Bojongkoneng"
+    },
+    {
+      "code": 3217062007,
+      "name": "Margajaya"
+    },
+    {
+      "code": 3217062008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3217062009,
+      "name": "Gadobangkong"
+    },
+    {
+      "code": 3217062010,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3217062011,
+      "name": "Pakuhaji"
+    }
+  ]
+}

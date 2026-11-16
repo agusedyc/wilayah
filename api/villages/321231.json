@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3212312001,
+      "name": "Limpas"
+    },
+    {
+      "code": 3212312002,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3212312003,
+      "name": "Patrol Baru"
+    },
+    {
+      "code": 3212312004,
+      "name": "Patrol Lor"
+    },
+    {
+      "code": 3212312005,
+      "name": "Patrol"
+    },
+    {
+      "code": 3212312006,
+      "name": "Bugel"
+    },
+    {
+      "code": 3212312007,
+      "name": "Arjasari"
+    },
+    {
+      "code": 3212312008,
+      "name": "Sukahaji"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9503292001,
+      "name": "Talambo"
+    },
+    {
+      "code": 9503292002,
+      "name": "Tibul"
+    },
+    {
+      "code": 9503292003,
+      "name": "Kikila"
+    },
+    {
+      "code": 9503292004,
+      "name": "Palukae"
+    },
+    {
+      "code": 9503292005,
+      "name": "Wubri"
+    },
+    {
+      "code": 9503292006,
+      "name": "Bari"
+    },
+    {
+      "code": 9503292007,
+      "name": "Lulum"
+    },
+    {
+      "code": 9503292008,
+      "name": "Paleromon"
+    },
+    {
+      "code": 9503292009,
+      "name": "Lelambo 2"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9115132001,
+      "name": "Urato"
+    },
+    {
+      "code": 9115132002,
+      "name": "Mayaghaido"
+    },
+    {
+      "code": 9115132003,
+      "name": "Aniboi"
+    },
+    {
+      "code": 9115132007,
+      "name": "Tetui"
+    },
+    {
+      "code": 9115132008,
+      "name": "Demba"
+    },
+    {
+      "code": 9115132009,
+      "name": "Fafai"
+    },
+    {
+      "code": 9115132017,
+      "name": "Wudokuri"
+    },
+    {
+      "code": 9115132018,
+      "name": "Aiwa"
+    },
+    {
+      "code": 9115132019,
+      "name": "Biati"
+    },
+    {
+      "code": 9115132020,
+      "name": "Ronarai"
+    }
+  ]
+}

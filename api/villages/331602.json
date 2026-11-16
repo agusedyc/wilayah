@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3316021005,
+      "name": "Randublatung"
+    },
+    {
+      "code": 3316021011,
+      "name": "Wulung"
+    },
+    {
+      "code": 3316022001,
+      "name": "Tlogotuwung"
+    },
+    {
+      "code": 3316022002,
+      "name": "Bodeh"
+    },
+    {
+      "code": 3316022003,
+      "name": "Gembyungan"
+    },
+    {
+      "code": 3316022004,
+      "name": "Sambongwangan"
+    },
+    {
+      "code": 3316022006,
+      "name": "Pilang"
+    },
+    {
+      "code": 3316022007,
+      "name": "Temulus"
+    },
+    {
+      "code": 3316022008,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3316022009,
+      "name": "Kutukan"
+    },
+    {
+      "code": 3316022010,
+      "name": "Kediren"
+    },
+    {
+      "code": 3316022012,
+      "name": "Kadengan"
+    },
+    {
+      "code": 3316022013,
+      "name": "Bekutuk"
+    },
+    {
+      "code": 3316022014,
+      "name": "Plosorejo"
+    },
+    {
+      "code": 3316022015,
+      "name": "Jeruk"
+    },
+    {
+      "code": 3316022016,
+      "name": "Tanggel"
+    },
+    {
+      "code": 3316022017,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3316022018,
+      "name": "Ngliron"
+    }
+  ]
+}

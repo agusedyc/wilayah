@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3303132001,
+      "name": "Wlahar"
+    },
+    {
+      "code": 3303132002,
+      "name": "Bantarbarang"
+    },
+    {
+      "code": 3303132003,
+      "name": "Karangbawang"
+    },
+    {
+      "code": 3303132004,
+      "name": "Gunungwuled"
+    },
+    {
+      "code": 3303132005,
+      "name": "Losari"
+    },
+    {
+      "code": 3303132006,
+      "name": "Bodaskarangjati"
+    },
+    {
+      "code": 3303132007,
+      "name": "Wanogara Wetan"
+    },
+    {
+      "code": 3303132008,
+      "name": "Wanogara Kulon"
+    },
+    {
+      "code": 3303132009,
+      "name": "Makam"
+    },
+    {
+      "code": 3303132010,
+      "name": "Sumampir"
+    },
+    {
+      "code": 3303132011,
+      "name": "Tanalum"
+    },
+    {
+      "code": 3303132012,
+      "name": "Panusupan"
+    }
+  ]
+}

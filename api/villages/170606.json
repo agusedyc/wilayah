@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1706062001,
+      "name": "Talang Arah"
+    },
+    {
+      "code": 1706062002,
+      "name": "Serami Baru"
+    },
+    {
+      "code": 1706062003,
+      "name": "Lubuk Talang"
+    },
+    {
+      "code": 1706062004,
+      "name": "Gajah Makmur"
+    },
+    {
+      "code": 1706062005,
+      "name": "Semambang Makmur"
+    },
+    {
+      "code": 1706062006,
+      "name": "Talang Baru"
+    },
+    {
+      "code": 1706062007,
+      "name": "Air Merah"
+    }
+  ]
+}

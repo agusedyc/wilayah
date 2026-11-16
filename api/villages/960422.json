@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9604222001,
+      "name": "Wausin"
+    },
+    {
+      "code": 9604222002,
+      "name": "Asiti"
+    },
+    {
+      "code": 9604222003,
+      "name": "Bisaud"
+    },
+    {
+      "code": 9604222004,
+      "name": "Nisandauw"
+    },
+    {
+      "code": 9604222005,
+      "name": "Afrawi"
+    },
+    {
+      "code": 9604222006,
+      "name": "Ajokwapi"
+    }
+  ]
+}

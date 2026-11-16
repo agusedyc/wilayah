@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3320022001,
+      "name": "Kaliombo"
+    },
+    {
+      "code": 3320022002,
+      "name": "Karangrandu"
+    },
+    {
+      "code": 3320022003,
+      "name": "Gerdu"
+    },
+    {
+      "code": 3320022004,
+      "name": "Pecangaan Kulon"
+    },
+    {
+      "code": 3320022005,
+      "name": "Rengging"
+    },
+    {
+      "code": 3320022006,
+      "name": "Troso"
+    },
+    {
+      "code": 3320022007,
+      "name": "Ngeling"
+    },
+    {
+      "code": 3320022008,
+      "name": "Pulodarat"
+    },
+    {
+      "code": 3320022009,
+      "name": "Lebuawu"
+    },
+    {
+      "code": 3320022010,
+      "name": "Gemulung"
+    },
+    {
+      "code": 3320022011,
+      "name": "Pecangaan Wetan"
+    },
+    {
+      "code": 3320022012,
+      "name": "Krasak"
+    }
+  ]
+}

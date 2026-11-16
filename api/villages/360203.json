@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3602032001,
+      "name": "Bayah Barat"
+    },
+    {
+      "code": 3602032002,
+      "name": "Sawarna"
+    },
+    {
+      "code": 3602032006,
+      "name": "Cidikit"
+    },
+    {
+      "code": 3602032007,
+      "name": "Suwakan"
+    },
+    {
+      "code": 3602032008,
+      "name": "Cimancak"
+    },
+    {
+      "code": 3602032011,
+      "name": "Darmasari"
+    },
+    {
+      "code": 3602032013,
+      "name": "Bayah Timur"
+    },
+    {
+      "code": 3602032014,
+      "name": "Cisuren"
+    },
+    {
+      "code": 3602032016,
+      "name": "Pasirgombong"
+    },
+    {
+      "code": 3602032017,
+      "name": "Sawarna Timur"
+    },
+    {
+      "code": 3602032018,
+      "name": "Pamubulan"
+    }
+  ]
+}

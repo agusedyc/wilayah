@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3302012001,
+      "name": "Cirahab"
+    },
+    {
+      "code": 3302012002,
+      "name": "Canduk"
+    },
+    {
+      "code": 3302012003,
+      "name": "Parungkamal"
+    },
+    {
+      "code": 3302012004,
+      "name": "Besuki"
+    },
+    {
+      "code": 3302012005,
+      "name": "Karanggayam"
+    },
+    {
+      "code": 3302012006,
+      "name": "Cidora"
+    },
+    {
+      "code": 3302012007,
+      "name": "Lumbir"
+    },
+    {
+      "code": 3302012008,
+      "name": "Dermaji"
+    },
+    {
+      "code": 3302012009,
+      "name": "Kedunggede"
+    },
+    {
+      "code": 3302012010,
+      "name": "Cingebul"
+    }
+  ]
+}

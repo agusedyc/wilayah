@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3501072001,
+      "name": "Gondang"
+    },
+    {
+      "code": 3501072002,
+      "name": "Mujing"
+    },
+    {
+      "code": 3501072003,
+      "name": "Sempu"
+    },
+    {
+      "code": 3501072004,
+      "name": "Nawangan"
+    },
+    {
+      "code": 3501072005,
+      "name": "Tokawi"
+    },
+    {
+      "code": 3501072006,
+      "name": "Jetis Lor"
+    },
+    {
+      "code": 3501072007,
+      "name": "Penggung"
+    },
+    {
+      "code": 3501072008,
+      "name": "Pakis Baru"
+    },
+    {
+      "code": 3501072009,
+      "name": "Ngromo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7313071001,
+      "name": "Macero"
+    },
+    {
+      "code": 7313071002,
+      "name": "Malangke"
+    },
+    {
+      "code": 7313071003,
+      "name": "Belawa"
+    },
+    {
+      "code": 7313072004,
+      "name": "Ongkoe"
+    },
+    {
+      "code": 7313072005,
+      "name": "Leppangeng"
+    },
+    {
+      "code": 7313072006,
+      "name": "Wele"
+    },
+    {
+      "code": 7313072007,
+      "name": "Limporilau"
+    },
+    {
+      "code": 7313072008,
+      "name": "Sappa"
+    },
+    {
+      "code": 7313072009,
+      "name": "Lautang"
+    }
+  ]
+}

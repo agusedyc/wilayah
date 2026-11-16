@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3305132001,
+      "name": "Logede"
+    },
+    {
+      "code": 3305132002,
+      "name": "Kuwayuhan"
+    },
+    {
+      "code": 3305132003,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3305132004,
+      "name": "Pejagoan"
+    },
+    {
+      "code": 3305132005,
+      "name": "Kebulusan"
+    },
+    {
+      "code": 3305132006,
+      "name": "Aditirto"
+    },
+    {
+      "code": 3305132007,
+      "name": "Karangpoh"
+    },
+    {
+      "code": 3305132008,
+      "name": "Jemur"
+    },
+    {
+      "code": 3305132009,
+      "name": "Prigi"
+    },
+    {
+      "code": 3305132010,
+      "name": "Kebagoran"
+    },
+    {
+      "code": 3305132011,
+      "name": "Pengaringan"
+    },
+    {
+      "code": 3305132012,
+      "name": "Peniron"
+    },
+    {
+      "code": 3305132013,
+      "name": "Watulawang"
+    }
+  ]
+}

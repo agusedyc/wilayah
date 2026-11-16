@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1104202001,
+      "name": "Bies Penentanan"
+    },
+    {
+      "code": 1104202002,
+      "name": "Bies Baru"
+    },
+    {
+      "code": 1104202003,
+      "name": "Bies Mulie"
+    },
+    {
+      "code": 1104202004,
+      "name": "Arul Latong"
+    },
+    {
+      "code": 1104202005,
+      "name": "Simpang Lukup Badak"
+    },
+    {
+      "code": 1104202006,
+      "name": "Atang Jungket"
+    },
+    {
+      "code": 1104202007,
+      "name": "Tebes Lues"
+    },
+    {
+      "code": 1104202008,
+      "name": "Pucuk Deku"
+    },
+    {
+      "code": 1104202009,
+      "name": "Lenga"
+    },
+    {
+      "code": 1104202010,
+      "name": "Uning Pegantungen"
+    },
+    {
+      "code": 1104202011,
+      "name": "Simpang Uning Niken"
+    },
+    {
+      "code": 1104202012,
+      "name": "Karang Bayur"
+    }
+  ]
+}

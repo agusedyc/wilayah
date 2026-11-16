@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504422001,
+      "name": "Wuluk"
+    },
+    {
+      "code": 9504422002,
+      "name": "Wenggun"
+    },
+    {
+      "code": 9504422003,
+      "name": "Posman"
+    },
+    {
+      "code": 9504422004,
+      "name": "Tiyonggi"
+    },
+    {
+      "code": 9504422005,
+      "name": "Yelly"
+    },
+    {
+      "code": 9504422006,
+      "name": "Agin"
+    },
+    {
+      "code": 9504422007,
+      "name": "Kogagi"
+    },
+    {
+      "code": 9504422008,
+      "name": "Yebena"
+    },
+    {
+      "code": 9504422009,
+      "name": "Wamigi"
+    },
+    {
+      "code": 9504422010,
+      "name": "Kolanggun"
+    }
+  ]
+}

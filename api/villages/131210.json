@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1312102001,
+      "name": "Koto Baru"
+    },
+    {
+      "code": 1312102002,
+      "name": "Kapa"
+    },
+    {
+      "code": 1312102003,
+      "name": "Giri Maju"
+    },
+    {
+      "code": 1312102004,
+      "name": "Ophir"
+    },
+    {
+      "code": 1312102005,
+      "name": "Mahakarya"
+    },
+    {
+      "code": 1312102006,
+      "name": "Sariak"
+    },
+    {
+      "code": 1312102007,
+      "name": "Sungai Talang"
+    },
+    {
+      "code": 1312102008,
+      "name": "Jambak Selatan"
+    },
+    {
+      "code": 1312102009,
+      "name": "Pujorahayu"
+    }
+  ]
+}

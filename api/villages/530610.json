@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5306101001,
+      "name": "Waiwerang Kota"
+    },
+    {
+      "code": 5306101002,
+      "name": "Lamatwelu"
+    },
+    {
+      "code": 5306102003,
+      "name": "Dawataa"
+    },
+    {
+      "code": 5306102004,
+      "name": "Terong"
+    },
+    {
+      "code": 5306102005,
+      "name": "Bilal"
+    },
+    {
+      "code": 5306102006,
+      "name": "Lamahala Jaya"
+    },
+    {
+      "code": 5306102007,
+      "name": "Waiburak"
+    },
+    {
+      "code": 5306102008,
+      "name": "Narasaosina"
+    },
+    {
+      "code": 5306102009,
+      "name": "Karinglamalouk"
+    },
+    {
+      "code": 5306102010,
+      "name": "Tuawolo"
+    },
+    {
+      "code": 5306102011,
+      "name": "Kiwangona"
+    },
+    {
+      "code": 5306102012,
+      "name": "Tapobali"
+    },
+    {
+      "code": 5306102013,
+      "name": "Lewobunga"
+    },
+    {
+      "code": 5306102014,
+      "name": "Bloto"
+    },
+    {
+      "code": 5306102015,
+      "name": "Ipiebang"
+    },
+    {
+      "code": 5306102016,
+      "name": "Lamalota"
+    },
+    {
+      "code": 5306102017,
+      "name": "Puhu"
+    },
+    {
+      "code": 5306102018,
+      "name": "Kwaelaga Lamawato"
+    },
+    {
+      "code": 5306102019,
+      "name": "Gelong"
+    },
+    {
+      "code": 5306102020,
+      "name": "Lelen Bala"
+    },
+    {
+      "code": 5306102021,
+      "name": "Saosina"
+    }
+  ]
+}

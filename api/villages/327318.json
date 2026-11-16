@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273181001,
+      "name": "Cihaur Geulis"
+    },
+    {
+      "code": 3273181002,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3273181003,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3273181004,
+      "name": "Cigadung"
+    }
+  ]
+}

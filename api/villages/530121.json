@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5301212001,
+      "name": "Manubelon"
+    },
+    {
+      "code": 5301212002,
+      "name": "Letkole"
+    },
+    {
+      "code": 5301212003,
+      "name": "Nefoneut"
+    },
+    {
+      "code": 5301212004,
+      "name": "Bioba Baru"
+    }
+  ]
+}

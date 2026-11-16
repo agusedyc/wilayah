@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6213021001,
+      "name": "Pasar Panas/Taniran"
+    },
+    {
+      "code": 6213022002,
+      "name": "Kandris"
+    },
+    {
+      "code": 6213022003,
+      "name": "Banyu Landas"
+    },
+    {
+      "code": 6213022004,
+      "name": "Bagok"
+    },
+    {
+      "code": 6213022005,
+      "name": "Bamban"
+    },
+    {
+      "code": 6213022006,
+      "name": "Tewah Pupuh"
+    },
+    {
+      "code": 6213022007,
+      "name": "Gudang Seng"
+    }
+  ]
+}

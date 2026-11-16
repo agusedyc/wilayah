@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5301202001,
+      "name": "Seki"
+    },
+    {
+      "code": 5301202002,
+      "name": "Oemofa"
+    },
+    {
+      "code": 5301202003,
+      "name": "Nunmafo"
+    },
+    {
+      "code": 5301202004,
+      "name": "Muke"
+    },
+    {
+      "code": 5301202005,
+      "name": "Pathau"
+    },
+    {
+      "code": 5301202006,
+      "name": "Oeniko"
+    },
+    {
+      "code": 5301202007,
+      "name": "Oenuntono"
+    },
+    {
+      "code": 5301202008,
+      "name": "Oemolo"
+    },
+    {
+      "code": 5301202009,
+      "name": "Enolanan"
+    },
+    {
+      "code": 5301202010,
+      "name": "Oenaunu"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1608132001,
+      "name": "Banding Agung"
+    },
+    {
+      "code": 1608132002,
+      "name": "Nikan"
+    },
+    {
+      "code": 1608132003,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1608132004,
+      "name": "Wana Bakti"
+    },
+    {
+      "code": 1608132005,
+      "name": "Batu Marta VI"
+    },
+    {
+      "code": 1608132006,
+      "name": "Karya Makmur"
+    },
+    {
+      "code": 1608132007,
+      "name": "Bina Amarta"
+    },
+    {
+      "code": 1608132008,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1608132009,
+      "name": "Batu Marta X"
+    },
+    {
+      "code": 1608132010,
+      "name": "Marta V Jaya"
+    }
+  ]
+}

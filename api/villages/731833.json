@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7318331005,
+      "name": "Rante Alang"
+    },
+    {
+      "code": 7318332001,
+      "name": "Batualu"
+    },
+    {
+      "code": 7318332002,
+      "name": "Tokesan"
+    },
+    {
+      "code": 7318332003,
+      "name": "Batualu Selatan"
+    },
+    {
+      "code": 7318332004,
+      "name": "Raru Sibunuan"
+    }
+  ]
+}

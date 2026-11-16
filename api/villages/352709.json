@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3527092001,
+      "name": "Olor"
+    },
+    {
+      "code": 3527092002,
+      "name": "Planggaran Barat"
+    },
+    {
+      "code": 3527092003,
+      "name": "Planggaran Timur"
+    },
+    {
+      "code": 3527092004,
+      "name": "Tolang"
+    },
+    {
+      "code": 3527092005,
+      "name": "Lar Lar"
+    },
+    {
+      "code": 3527092006,
+      "name": "Tlagah"
+    },
+    {
+      "code": 3527092007,
+      "name": "Nagasareh"
+    },
+    {
+      "code": 3527092008,
+      "name": "Trapang"
+    },
+    {
+      "code": 3527092009,
+      "name": "Terosan"
+    },
+    {
+      "code": 3527092010,
+      "name": "Asem Jaran"
+    },
+    {
+      "code": 3527092011,
+      "name": "Kembang Jeruk"
+    },
+    {
+      "code": 3527092012,
+      "name": "Morbatoh"
+    },
+    {
+      "code": 3527092013,
+      "name": "Montor"
+    },
+    {
+      "code": 3527092014,
+      "name": "Tebanah"
+    },
+    {
+      "code": 3527092015,
+      "name": "Nepa"
+    },
+    {
+      "code": 3527092016,
+      "name": "Batioh"
+    },
+    {
+      "code": 3527092017,
+      "name": "Masaran"
+    },
+    {
+      "code": 3527092018,
+      "name": "Banyuates"
+    },
+    {
+      "code": 3527092019,
+      "name": "Jatra Timur"
+    },
+    {
+      "code": 3527092020,
+      "name": "\"Tapa\"\"an\""
+    }
+  ]
+}

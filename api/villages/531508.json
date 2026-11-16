@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5315082001,
+      "name": "Golo Poleng"
+    },
+    {
+      "code": 5315082002,
+      "name": "Tentang"
+    },
+    {
+      "code": 5315082003,
+      "name": "Raka"
+    },
+    {
+      "code": 5315082004,
+      "name": "Kasong"
+    },
+    {
+      "code": 5315082005,
+      "name": "Ndoso"
+    },
+    {
+      "code": 5315082006,
+      "name": "Waning"
+    },
+    {
+      "code": 5315082007,
+      "name": "Wae Buka"
+    },
+    {
+      "code": 5315082008,
+      "name": "Momol"
+    },
+    {
+      "code": 5315082009,
+      "name": "Lumut"
+    },
+    {
+      "code": 5315082010,
+      "name": "Pong Narang"
+    },
+    {
+      "code": 5315082011,
+      "name": "Golo Bore"
+    },
+    {
+      "code": 5315082012,
+      "name": "Pateng Lesuh"
+    },
+    {
+      "code": 5315082013,
+      "name": "Tehong"
+    },
+    {
+      "code": 5315082014,
+      "name": "Golo Ru'a"
+    },
+    {
+      "code": 5315082015,
+      "name": "Golo Keli"
+    }
+  ]
+}

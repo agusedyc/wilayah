@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6302132002,
+      "name": "Bepara"
+    },
+    {
+      "code": 6302132004,
+      "name": "Betung"
+    },
+    {
+      "code": 6302132005,
+      "name": "Sekayu Baru"
+    },
+    {
+      "code": 6302132006,
+      "name": "Bakau"
+    },
+    {
+      "code": 6302132007,
+      "name": "Binturung"
+    },
+    {
+      "code": 6302132008,
+      "name": "Harapan Baru"
+    },
+    {
+      "code": 6302132009,
+      "name": "Balaimea"
+    },
+    {
+      "code": 6302132010,
+      "name": "Tamiang"
+    },
+    {
+      "code": 6302132011,
+      "name": "Kalian"
+    },
+    {
+      "code": 6302132012,
+      "name": "Mulyoharjo"
+    },
+    {
+      "code": 6302132013,
+      "name": "Pamukan Indah"
+    },
+    {
+      "code": 6302132014,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 6302132015,
+      "name": "Lintang Jaya"
+    }
+  ]
+}

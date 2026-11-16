@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 3518162001,
+      "name": "Gempol"
+    },
+    {
+      "code": 3518162002,
+      "name": "Mungkung"
+    },
+    {
+      "code": 3518162003,
+      "name": "Setren"
+    },
+    {
+      "code": 3518162004,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3518162005,
+      "name": "Sidokare"
+    },
+    {
+      "code": 3518162006,
+      "name": "Mojorembun"
+    },
+    {
+      "code": 3518162007,
+      "name": "Ngadiboyo"
+    },
+    {
+      "code": 3518162008,
+      "name": "Rejoso"
+    },
+    {
+      "code": 3518162009,
+      "name": "Klagen"
+    },
+    {
+      "code": 3518162010,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3518162011,
+      "name": "Mlorah"
+    },
+    {
+      "code": 3518162012,
+      "name": "Puhkerep"
+    },
+    {
+      "code": 3518162013,
+      "name": "Talun"
+    },
+    {
+      "code": 3518162014,
+      "name": "Ngangkatan"
+    },
+    {
+      "code": 3518162015,
+      "name": "Talang"
+    },
+    {
+      "code": 3518162016,
+      "name": "Banjarejo"
+    },
+    {
+      "code": 3518162017,
+      "name": "Sambikerep"
+    },
+    {
+      "code": 3518162018,
+      "name": "Musir Lor"
+    },
+    {
+      "code": 3518162019,
+      "name": "Musir Kidul"
+    },
+    {
+      "code": 3518162020,
+      "name": "Wengkal"
+    },
+    {
+      "code": 3518162021,
+      "name": "Jintel"
+    },
+    {
+      "code": 3518162022,
+      "name": "Kedungpadang"
+    },
+    {
+      "code": 3518162023,
+      "name": "Tritik"
+    },
+    {
+      "code": 3518162024,
+      "name": "Bendoasri"
+    }
+  ]
+}

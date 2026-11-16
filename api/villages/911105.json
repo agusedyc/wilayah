@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9111052001,
+      "name": "Skanto"
+    },
+    {
+      "code": 9111052002,
+      "name": "Jaifuri"
+    },
+    {
+      "code": 9111052003,
+      "name": "Arsopura"
+    },
+    {
+      "code": 9111052004,
+      "name": "Wiantre"
+    },
+    {
+      "code": 9111052005,
+      "name": "Naramben"
+    },
+    {
+      "code": 9111052006,
+      "name": "Intaimelyan"
+    },
+    {
+      "code": 9111052007,
+      "name": "Traimelyan"
+    },
+    {
+      "code": 9111052008,
+      "name": "Wulukubun"
+    },
+    {
+      "code": 9111052009,
+      "name": "Gudang Garam"
+    },
+    {
+      "code": 9111052010,
+      "name": "Saefen Empat Dua"
+    },
+    {
+      "code": 9111052011,
+      "name": "Walma"
+    },
+    {
+      "code": 9111052012,
+      "name": "Alang-alang Raya"
+    }
+  ]
+}

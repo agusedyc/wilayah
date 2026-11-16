@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3513102001,
+      "name": "Ranon"
+    },
+    {
+      "code": 3513102002,
+      "name": "Kedungsumur"
+    },
+    {
+      "code": 3513102003,
+      "name": "Gunggungan Kidul"
+    },
+    {
+      "code": 3513102004,
+      "name": "Gunggungan Lor"
+    },
+    {
+      "code": 3513102005,
+      "name": "Petemon Kulon"
+    },
+    {
+      "code": 3513102006,
+      "name": "Pakuniran"
+    },
+    {
+      "code": 3513102007,
+      "name": "Alaspandan"
+    },
+    {
+      "code": 3513102008,
+      "name": "Sumberkembar"
+    },
+    {
+      "code": 3513102009,
+      "name": "Sogaan"
+    },
+    {
+      "code": 3513102010,
+      "name": "Glagah"
+    },
+    {
+      "code": 3513102011,
+      "name": "Bucor Kulon"
+    },
+    {
+      "code": 3513102012,
+      "name": "Bucor Wetan"
+    },
+    {
+      "code": 3513102013,
+      "name": "Bimo"
+    },
+    {
+      "code": 3513102014,
+      "name": "Kertonegoro"
+    },
+    {
+      "code": 3513102015,
+      "name": "Gondosuli"
+    },
+    {
+      "code": 3513102016,
+      "name": "Kalidandan"
+    },
+    {
+      "code": 3513102017,
+      "name": "Blimbing"
+    }
+  ]
+}

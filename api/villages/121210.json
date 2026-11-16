@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1212102001,
+      "name": "Dolok Saribu Janji Matogu"
+    },
+    {
+      "code": 1212102002,
+      "name": "Dolok Nagodang"
+    },
+    {
+      "code": 1212102003,
+      "name": "Lumban Binanga"
+    },
+    {
+      "code": 1212102004,
+      "name": "Partor Janji Matogu"
+    },
+    {
+      "code": 1212102005,
+      "name": "Parhabinsaran Janji Matogu"
+    },
+    {
+      "code": 1212102006,
+      "name": "Parik"
+    },
+    {
+      "code": 1212102007,
+      "name": "Sibuntuon"
+    },
+    {
+      "code": 1212102008,
+      "name": "Sigaol Barat"
+    },
+    {
+      "code": 1212102009,
+      "name": "Marom"
+    },
+    {
+      "code": 1212102010,
+      "name": "Sigaol Timur"
+    },
+    {
+      "code": 1212102012,
+      "name": "Siregar Aek Nalas"
+    },
+    {
+      "code": 1212102014,
+      "name": "Lumban Holbung"
+    },
+    {
+      "code": 1212102015,
+      "name": "Parbagasan Janji Matogu"
+    },
+    {
+      "code": 1212102016,
+      "name": "Partoruan Janji Matogu"
+    },
+    {
+      "code": 1212102017,
+      "name": "Lumban Nabolon"
+    },
+    {
+      "code": 1212102018,
+      "name": "Sampuara"
+    },
+    {
+      "code": 1212102019,
+      "name": "Dolok Saribu Lumban Nabolon"
+    }
+  ]
+}

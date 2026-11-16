@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1808132001,
+      "name": "Bumiharjo"
+    },
+    {
+      "code": 1808132002,
+      "name": "Punjul Agung"
+    },
+    {
+      "code": 1808132003,
+      "name": "Sritunggal"
+    },
+    {
+      "code": 1808132004,
+      "name": "Suka Bumi"
+    },
+    {
+      "code": 1808132005,
+      "name": "Suka Agung"
+    },
+    {
+      "code": 1808132006,
+      "name": "Sukadana"
+    },
+    {
+      "code": 1808132007,
+      "name": "Nuar Maju"
+    },
+    {
+      "code": 1808132008,
+      "name": "Lebung Lawe"
+    },
+    {
+      "code": 1808132009,
+      "name": "Way Agung"
+    }
+  ]
+}

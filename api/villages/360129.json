@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601292001,
+      "name": "Seuseupan"
+    },
+    {
+      "code": 3601292002,
+      "name": "Karyasari"
+    },
+    {
+      "code": 3601292003,
+      "name": "Perdana"
+    },
+    {
+      "code": 3601292004,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3601292005,
+      "name": "Pasirkadu"
+    },
+    {
+      "code": 3601292006,
+      "name": "Kubangkampil"
+    },
+    {
+      "code": 3601292007,
+      "name": "Sidamukti"
+    },
+    {
+      "code": 3601292008,
+      "name": "Cibungur"
+    },
+    {
+      "code": 3601292009,
+      "name": "Weru"
+    },
+    {
+      "code": 3601292010,
+      "name": "Cikuya"
+    }
+  ]
+}

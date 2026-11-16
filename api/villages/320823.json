@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208232001,
+      "name": "Garatengah"
+    },
+    {
+      "code": 3208232002,
+      "name": "Rajadanu"
+    },
+    {
+      "code": 3208232003,
+      "name": "Singkup"
+    },
+    {
+      "code": 3208232004,
+      "name": "Japara"
+    },
+    {
+      "code": 3208232005,
+      "name": "Wano"
+    },
+    {
+      "code": 3208232006,
+      "name": "Citapen"
+    },
+    {
+      "code": 3208232007,
+      "name": "Cengal"
+    },
+    {
+      "code": 3208232008,
+      "name": "Cikeleng"
+    },
+    {
+      "code": 3208232009,
+      "name": "Kalimati"
+    },
+    {
+      "code": 3208232010,
+      "name": "Dukuhdalem"
+    }
+  ]
+}

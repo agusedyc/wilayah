@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3318182001,
+      "name": "Medani"
+    },
+    {
+      "code": 3318182002,
+      "name": "Sentul"
+    },
+    {
+      "code": 3318182003,
+      "name": "Plaosan"
+    },
+    {
+      "code": 3318182004,
+      "name": "Payak"
+    },
+    {
+      "code": 3318182005,
+      "name": "Sirahan"
+    },
+    {
+      "code": 3318182006,
+      "name": "Mojo"
+    },
+    {
+      "code": 3318182007,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3318182008,
+      "name": "Bleber"
+    },
+    {
+      "code": 3318182009,
+      "name": "Ngawen"
+    },
+    {
+      "code": 3318182010,
+      "name": "Ngablak"
+    },
+    {
+      "code": 3318182011,
+      "name": "Gesengan"
+    },
+    {
+      "code": 3318182012,
+      "name": "Gerit"
+    },
+    {
+      "code": 3318182013,
+      "name": "Sumur"
+    }
+  ]
+}

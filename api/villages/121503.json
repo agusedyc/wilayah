@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1215032001,
+      "name": "Salak I"
+    },
+    {
+      "code": 1215032002,
+      "name": "Salak II"
+    },
+    {
+      "code": 1215032003,
+      "name": "Boangmanalu"
+    },
+    {
+      "code": 1215032009,
+      "name": "Sibongkaras"
+    },
+    {
+      "code": 1215032013,
+      "name": "Kuta Tinggi"
+    },
+    {
+      "code": 1215032014,
+      "name": "Penanggalan Binanga Boang"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3603231001,
+      "name": "Cisauk"
+    },
+    {
+      "code": 3603232003,
+      "name": "Mekar Wangi"
+    },
+    {
+      "code": 3603232005,
+      "name": "Suradita"
+    },
+    {
+      "code": 3603232006,
+      "name": "Sampora"
+    },
+    {
+      "code": 3603232009,
+      "name": "Dangdang"
+    },
+    {
+      "code": 3603232011,
+      "name": "Cibogo"
+    }
+  ]
+}

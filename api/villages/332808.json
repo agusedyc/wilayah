@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3328082001,
+      "name": "Penujah"
+    },
+    {
+      "code": 3328082002,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3328082003,
+      "name": "Tonggara"
+    },
+    {
+      "code": 3328082004,
+      "name": "Kedungbanteng"
+    },
+    {
+      "code": 3328082005,
+      "name": "Dukuhjati Wetan"
+    },
+    {
+      "code": 3328082006,
+      "name": "Sumingkir"
+    },
+    {
+      "code": 3328082007,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3328082008,
+      "name": "Kebandingan"
+    },
+    {
+      "code": 3328082009,
+      "name": "Karangmalang"
+    },
+    {
+      "code": 3328082010,
+      "name": "Semedo"
+    }
+  ]
+}

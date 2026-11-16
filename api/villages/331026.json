@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3310261009,
+      "name": "Gayamprit"
+    },
+    {
+      "code": 3310262001,
+      "name": "Kajoran"
+    },
+    {
+      "code": 3310262002,
+      "name": "Glodogan"
+    },
+    {
+      "code": 3310262003,
+      "name": "Ngalas"
+    },
+    {
+      "code": 3310262004,
+      "name": "Danguran"
+    },
+    {
+      "code": 3310262005,
+      "name": "Trunuh"
+    },
+    {
+      "code": 3310262006,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3310262007,
+      "name": "Merbung"
+    },
+    {
+      "code": 3310262008,
+      "name": "Tegalyoso"
+    },
+    {
+      "code": 3310262010,
+      "name": "Karanglo"
+    },
+    {
+      "code": 3310262011,
+      "name": "Nglinggi"
+    },
+    {
+      "code": 3310262012,
+      "name": "Jetis"
+    }
+  ]
+}

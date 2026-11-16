@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471021001,
+      "name": "Simpang Empat"
+    },
+    {
+      "code": 1471021002,
+      "name": "Sumahilang"
+    },
+    {
+      "code": 1471021003,
+      "name": "Tanah Datar"
+    },
+    {
+      "code": 1471021004,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1471021005,
+      "name": "Sukaramai"
+    },
+    {
+      "code": 1471021006,
+      "name": "Kota Tinggi"
+    }
+  ]
+}

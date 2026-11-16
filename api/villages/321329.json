@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213292001,
+      "name": "Cisaat"
+    },
+    {
+      "code": 3213292002,
+      "name": "Ciater"
+    },
+    {
+      "code": 3213292003,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3213292004,
+      "name": "Cibeusi"
+    },
+    {
+      "code": 3213292005,
+      "name": "Cibitung"
+    },
+    {
+      "code": 3213292006,
+      "name": "Palasari"
+    },
+    {
+      "code": 3213292007,
+      "name": "Sanca"
+    }
+  ]
+}

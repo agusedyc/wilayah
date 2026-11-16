@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1303042001,
+      "name": "Muaro"
+    },
+    {
+      "code": 1303042002,
+      "name": "Kandang Baru"
+    },
+    {
+      "code": 1303042003,
+      "name": "Silokek"
+    },
+    {
+      "code": 1303042004,
+      "name": "Pematang Panjang"
+    },
+    {
+      "code": 1303042005,
+      "name": "Solok Ambah"
+    },
+    {
+      "code": 1303042006,
+      "name": "Paru"
+    },
+    {
+      "code": 1303042007,
+      "name": "Durian Gadang"
+    },
+    {
+      "code": 1303042008,
+      "name": "Aie Angek"
+    },
+    {
+      "code": 1303042009,
+      "name": "Sijunjung"
+    }
+  ]
+}

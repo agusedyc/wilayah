@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3511071009,
+      "name": "Curahdami"
+    },
+    {
+      "code": 3511072001,
+      "name": "Jetis"
+    },
+    {
+      "code": 3511072002,
+      "name": "Pakuwesi"
+    },
+    {
+      "code": 3511072003,
+      "name": "Kupang"
+    },
+    {
+      "code": 3511072004,
+      "name": "Petung"
+    },
+    {
+      "code": 3511072005,
+      "name": "Panambangan"
+    },
+    {
+      "code": 3511072006,
+      "name": "Curahpoh"
+    },
+    {
+      "code": 3511072007,
+      "name": "Poncogati"
+    },
+    {
+      "code": 3511072008,
+      "name": "Sumber Suko"
+    },
+    {
+      "code": 3511072010,
+      "name": "Selolembu"
+    },
+    {
+      "code": 3511072011,
+      "name": "Locare"
+    },
+    {
+      "code": 3511072012,
+      "name": "Sumber Salak"
+    }
+  ]
+}

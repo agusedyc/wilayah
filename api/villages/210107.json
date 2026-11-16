@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 2101071001,
+      "name": "Tanjung Uban Kota"
+    },
+    {
+      "code": 2101071002,
+      "name": "Tanjung Uban Utara"
+    },
+    {
+      "code": 2101071003,
+      "name": "Tanjung Uban Selatan"
+    },
+    {
+      "code": 2101071011,
+      "name": "Tanjung Uban Timur"
+    },
+    {
+      "code": 2101072005,
+      "name": "Lancang Kuning"
+    }
+  ]
+}

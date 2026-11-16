@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3310162001,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3310162002,
+      "name": "Jetis"
+    },
+    {
+      "code": 3310162003,
+      "name": "Butuhan"
+    },
+    {
+      "code": 3310162004,
+      "name": "Banaran"
+    },
+    {
+      "code": 3310162005,
+      "name": "Bowan"
+    },
+    {
+      "code": 3310162006,
+      "name": "Sribit"
+    },
+    {
+      "code": 3310162007,
+      "name": "Mendak"
+    },
+    {
+      "code": 3310162008,
+      "name": "Krecek"
+    },
+    {
+      "code": 3310162009,
+      "name": "Karang"
+    },
+    {
+      "code": 3310162010,
+      "name": "Sabrang"
+    },
+    {
+      "code": 3310162011,
+      "name": "Tlobong"
+    },
+    {
+      "code": 3310162012,
+      "name": "Gatak"
+    },
+    {
+      "code": 3310162013,
+      "name": "Delanggu"
+    },
+    {
+      "code": 3310162014,
+      "name": "Kepanjen"
+    },
+    {
+      "code": 3310162015,
+      "name": "Segaran"
+    },
+    {
+      "code": 3310162016,
+      "name": "Sidomulyo"
+    }
+  ]
+}

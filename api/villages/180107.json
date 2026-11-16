@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1801072001,
+      "name": "Bandar Dalam"
+    },
+    {
+      "code": 1801072002,
+      "name": "Campang Tiga"
+    },
+    {
+      "code": 1801072003,
+      "name": "Talang Baru"
+    },
+    {
+      "code": 1801072004,
+      "name": "Suka Banjar"
+    },
+    {
+      "code": 1801072005,
+      "name": "Kota Dalam"
+    },
+    {
+      "code": 1801072006,
+      "name": "Budidaya"
+    },
+    {
+      "code": 1801072007,
+      "name": "Siring Jaha"
+    },
+    {
+      "code": 1801072008,
+      "name": "Suak"
+    },
+    {
+      "code": 1801072009,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1801072010,
+      "name": "Sukamarga"
+    },
+    {
+      "code": 1801072011,
+      "name": "Seloretno"
+    },
+    {
+      "code": 1801072012,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1801072013,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1801072014,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1801072015,
+      "name": "Sidowaluyo"
+    },
+    {
+      "code": 1801072020,
+      "name": "Banjar Suri"
+    }
+  ]
+}

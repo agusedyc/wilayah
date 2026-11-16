@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3322092001,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3322092002,
+      "name": "Candigaron"
+    },
+    {
+      "code": 3322092003,
+      "name": "Ngadikerso"
+    },
+    {
+      "code": 3322092004,
+      "name": "Lanjan"
+    },
+    {
+      "code": 3322092005,
+      "name": "Jubelan"
+    },
+    {
+      "code": 3322092006,
+      "name": "Sumowono"
+    },
+    {
+      "code": 3322092007,
+      "name": "Trayu"
+    },
+    {
+      "code": 3322092008,
+      "name": "Kemitir"
+    },
+    {
+      "code": 3322092009,
+      "name": "Duren"
+    },
+    {
+      "code": 3322092010,
+      "name": "Pledokan"
+    },
+    {
+      "code": 3322092011,
+      "name": "Mendongan"
+    },
+    {
+      "code": 3322092012,
+      "name": "Bumen"
+    },
+    {
+      "code": 3322092013,
+      "name": "Losari"
+    },
+    {
+      "code": 3322092014,
+      "name": "Kemawi"
+    },
+    {
+      "code": 3322092015,
+      "name": "Piyanggang"
+    },
+    {
+      "code": 3322092016,
+      "name": "Keseneng"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509262001,
+      "name": "Mrawan"
+    },
+    {
+      "code": 3509262002,
+      "name": "Mayang"
+    },
+    {
+      "code": 3509262003,
+      "name": "Seputih"
+    },
+    {
+      "code": 3509262004,
+      "name": "Tegalwaru"
+    },
+    {
+      "code": 3509262005,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3509262006,
+      "name": "Sumberkejayan"
+    },
+    {
+      "code": 3509262007,
+      "name": "Sidomukti"
+    }
+  ]
+}

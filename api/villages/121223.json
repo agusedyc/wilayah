@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1212232001,
+      "name": "Sihiong"
+    },
+    {
+      "code": 1212232002,
+      "name": "Sinar Sabungan"
+    },
+    {
+      "code": 1212232003,
+      "name": "Lumban Lobu"
+    },
+    {
+      "code": 1212232004,
+      "name": "Harungguan"
+    },
+    {
+      "code": 1212232005,
+      "name": "Naga Timbul"
+    },
+    {
+      "code": 1212232006,
+      "name": "Sibadihon"
+    },
+    {
+      "code": 1212232007,
+      "name": "Silamosik II"
+    },
+    {
+      "code": 1212232011,
+      "name": "Partoruan Lumban Lobu"
+    },
+    {
+      "code": 1212232012,
+      "name": "Pardolok Lumban Lobu"
+    },
+    {
+      "code": 1212232013,
+      "name": "Silombu"
+    },
+    {
+      "code": 1212232014,
+      "name": "Lumban Sangkalan"
+    },
+    {
+      "code": 1212232015,
+      "name": "Nagatimbul Timur"
+    }
+  ]
+}

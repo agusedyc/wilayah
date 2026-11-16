@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5304132001,
+      "name": "Mandeu Raimanus"
+    },
+    {
+      "code": 5304132002,
+      "name": "Renrua"
+    },
+    {
+      "code": 5304132003,
+      "name": "Dua Koran"
+    },
+    {
+      "code": 5304132004,
+      "name": "Mandeu"
+    },
+    {
+      "code": 5304132005,
+      "name": "Rafae"
+    },
+    {
+      "code": 5304132006,
+      "name": "Faturika"
+    },
+    {
+      "code": 5304132007,
+      "name": "Leuntolu"
+    },
+    {
+      "code": 5304132008,
+      "name": "Teun"
+    },
+    {
+      "code": 5304132009,
+      "name": "Tasain"
+    }
+  ]
+}

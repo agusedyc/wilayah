@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8105082001,
+      "name": "Selor"
+    },
+    {
+      "code": 8105082002,
+      "name": "Nekan"
+    },
+    {
+      "code": 8105082003,
+      "name": "Afang Kota"
+    },
+    {
+      "code": 8105082004,
+      "name": "Afang Defol"
+    },
+    {
+      "code": 8105082005,
+      "name": "Kumelang"
+    },
+    {
+      "code": 8105082006,
+      "name": "Undur"
+    },
+    {
+      "code": 8105082007,
+      "name": "Kamar"
+    },
+    {
+      "code": 8105082008,
+      "name": "Gunak"
+    },
+    {
+      "code": 8105082009,
+      "name": "Sumbawa"
+    },
+    {
+      "code": 8105082010,
+      "name": "Kilmury"
+    },
+    {
+      "code": 8105082011,
+      "name": "Kilbon Kway"
+    },
+    {
+      "code": 8105082012,
+      "name": "Mising"
+    },
+    {
+      "code": 8105082013,
+      "name": "Bitorik"
+    },
+    {
+      "code": 8105082014,
+      "name": "Taa"
+    }
+  ]
+}

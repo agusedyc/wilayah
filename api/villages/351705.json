@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3517052001,
+      "name": "Galengdowo"
+    },
+    {
+      "code": 3517052002,
+      "name": "Wonomerto"
+    },
+    {
+      "code": 3517052003,
+      "name": "Jarak"
+    },
+    {
+      "code": 3517052004,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3517052005,
+      "name": "Wonosalam"
+    },
+    {
+      "code": 3517052006,
+      "name": "Carangwulung"
+    },
+    {
+      "code": 3517052007,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3517052008,
+      "name": "Sumberjo"
+    },
+    {
+      "code": 3517052009,
+      "name": "Panglungan"
+    }
+  ]
+}

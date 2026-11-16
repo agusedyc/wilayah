@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3214162001,
+      "name": "Parakansalam"
+    },
+    {
+      "code": 3214162002,
+      "name": "Pondokbungur"
+    },
+    {
+      "code": 3214162003,
+      "name": "Salem"
+    },
+    {
+      "code": 3214162004,
+      "name": "Galudra"
+    },
+    {
+      "code": 3214162005,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3214162006,
+      "name": "Salammulya"
+    },
+    {
+      "code": 3214162007,
+      "name": "Salamjaya"
+    },
+    {
+      "code": 3214162008,
+      "name": "Bungurjaya"
+    },
+    {
+      "code": 3214162009,
+      "name": "Gurudug"
+    },
+    {
+      "code": 3214162010,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3214162011,
+      "name": "Situ"
+    }
+  ]
+}

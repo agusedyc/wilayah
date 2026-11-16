@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1201091001,
+      "name": "Sosor Gadong"
+    },
+    {
+      "code": 1201092002,
+      "name": "Unte Boang"
+    },
+    {
+      "code": 1201092003,
+      "name": "Sibintang"
+    },
+    {
+      "code": 1201092004,
+      "name": "Barambang"
+    },
+    {
+      "code": 1201092005,
+      "name": "Siantar Ca."
+    },
+    {
+      "code": 1201092006,
+      "name": "Muara Bolak"
+    },
+    {
+      "code": 1201092007,
+      "name": "Huta Tombak"
+    },
+    {
+      "code": 1201092008,
+      "name": "Siantar Dolok"
+    },
+    {
+      "code": 1201092009,
+      "name": "Baringin"
+    }
+  ]
+}

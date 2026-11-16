@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7306152001,
+      "name": "Julumate'ne"
+    },
+    {
+      "code": 7306152002,
+      "name": "Bontolempangang"
+    },
+    {
+      "code": 7306152003,
+      "name": "Lassa-Lassa"
+    },
+    {
+      "code": 7306152004,
+      "name": "Bontoloe"
+    },
+    {
+      "code": 7306152005,
+      "name": "Pa'ladingang"
+    },
+    {
+      "code": 7306152006,
+      "name": "Paranglompoa"
+    },
+    {
+      "code": 7306152007,
+      "name": "Bontotangnga"
+    },
+    {
+      "code": 7306152008,
+      "name": "Ulujangang"
+    }
+  ]
+}

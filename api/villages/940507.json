@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405072001,
+      "name": "Agandugume"
+    },
+    {
+      "code": 9405072002,
+      "name": "Gut'yenggenak"
+    },
+    {
+      "code": 9405072003,
+      "name": "Dugunale"
+    },
+    {
+      "code": 9405072004,
+      "name": "Ogobak'pelenak"
+    },
+    {
+      "code": 9405072005,
+      "name": "Dolinggu"
+    },
+    {
+      "code": 9405072006,
+      "name": "Ayume"
+    },
+    {
+      "code": 9405072007,
+      "name": "Terowi"
+    }
+  ]
+}

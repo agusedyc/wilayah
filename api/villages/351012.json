@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3510122001,
+      "name": "Gambor"
+    },
+    {
+      "code": 3510122002,
+      "name": "Alasmalang"
+    },
+    {
+      "code": 3510122003,
+      "name": "Benelan Kidul"
+    },
+    {
+      "code": 3510122004,
+      "name": "Lemahbangkulon"
+    },
+    {
+      "code": 3510122005,
+      "name": "Singojuruh"
+    },
+    {
+      "code": 3510122006,
+      "name": "Gumirih"
+    },
+    {
+      "code": 3510122007,
+      "name": "Cantuk"
+    },
+    {
+      "code": 3510122008,
+      "name": "Padang"
+    },
+    {
+      "code": 3510122009,
+      "name": "Singolatren"
+    },
+    {
+      "code": 3510122010,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3510122011,
+      "name": "Sumberbaru"
+    }
+  ]
+}

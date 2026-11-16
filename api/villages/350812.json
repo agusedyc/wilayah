@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3508122001,
+      "name": "Purworejo"
+    },
+    {
+      "code": 3508122002,
+      "name": "Sarikemuning"
+    },
+    {
+      "code": 3508122003,
+      "name": "Pandansari"
+    },
+    {
+      "code": 3508122004,
+      "name": "Senduro"
+    },
+    {
+      "code": 3508122005,
+      "name": "Burno"
+    },
+    {
+      "code": 3508122006,
+      "name": "Kandangtepus"
+    },
+    {
+      "code": 3508122007,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3508122008,
+      "name": "Bedayu"
+    },
+    {
+      "code": 3508122009,
+      "name": "Bedayutalang"
+    },
+    {
+      "code": 3508122010,
+      "name": "Wonocepokoayu"
+    },
+    {
+      "code": 3508122011,
+      "name": "Argosari"
+    },
+    {
+      "code": 3508122012,
+      "name": "Ranupani"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8204152001,
+      "name": "Sidanga"
+    },
+    {
+      "code": 8204152002,
+      "name": "Lata Lata"
+    },
+    {
+      "code": 8204152003,
+      "name": "Sengga Baru"
+    },
+    {
+      "code": 8204152004,
+      "name": "Arumamang"
+    },
+    {
+      "code": 8204152005,
+      "name": "Palamea"
+    },
+    {
+      "code": 8204152006,
+      "name": "Doko"
+    },
+    {
+      "code": 8204152007,
+      "name": "Bisori"
+    },
+    {
+      "code": 8204152008,
+      "name": "Marikapal"
+    },
+    {
+      "code": 8204152009,
+      "name": "Kukupang"
+    },
+    {
+      "code": 8204152010,
+      "name": "Imbu Imbu"
+    }
+  ]
+}

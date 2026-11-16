@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6203011006,
+      "name": "Murung Keramat"
+    },
+    {
+      "code": 6203011007,
+      "name": "Selat Hilir"
+    },
+    {
+      "code": 6203011008,
+      "name": "Selat Tengah"
+    },
+    {
+      "code": 6203011009,
+      "name": "Selat Hulu"
+    },
+    {
+      "code": 6203011010,
+      "name": "Selat Dalam"
+    },
+    {
+      "code": 6203011021,
+      "name": "Selat Utara"
+    },
+    {
+      "code": 6203011022,
+      "name": "Selat Barat"
+    },
+    {
+      "code": 6203011023,
+      "name": "Panamas"
+    },
+    {
+      "code": 6203012011,
+      "name": "Pulau Telo"
+    },
+    {
+      "code": 6203012020,
+      "name": "Pulau Telo Baru"
+    }
+  ]
+}

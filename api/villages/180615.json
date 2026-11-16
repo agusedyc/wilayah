@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1806152001,
+      "name": "Datarajan"
+    },
+    {
+      "code": 1806152002,
+      "name": "Gunung Tiga"
+    },
+    {
+      "code": 1806152003,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 1806152004,
+      "name": "Pagar Alam Ulu Belu"
+    },
+    {
+      "code": 1806152005,
+      "name": "Muara Dua Ulu Belu"
+    },
+    {
+      "code": 1806152006,
+      "name": "Ngarip"
+    },
+    {
+      "code": 1806152007,
+      "name": "Penantian Ulu Belu"
+    },
+    {
+      "code": 1806152008,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1806152009,
+      "name": "Ulu Semong"
+    },
+    {
+      "code": 1806152010,
+      "name": "Sirna Galih"
+    },
+    {
+      "code": 1806152011,
+      "name": "Rejo Sari"
+    },
+    {
+      "code": 1806152012,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1806152013,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1806152014,
+      "name": "Sinar Banten"
+    },
+    {
+      "code": 1806152015,
+      "name": "Air Abang"
+    },
+    {
+      "code": 1806152016,
+      "name": "Petay Kayu"
+    }
+  ]
+}

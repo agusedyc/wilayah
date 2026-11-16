@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1310012002,
+      "name": "Koto Baru"
+    },
+    {
+      "code": 1310012003,
+      "name": "Sialang Gaung"
+    },
+    {
+      "code": 1310012005,
+      "name": "Ampang Kuranji"
+    },
+    {
+      "code": 1310012008,
+      "name": "Koto Padang"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9601091001,
+      "name": "Makbusun"
+    },
+    {
+      "code": 9601091002,
+      "name": "Makbalim"
+    },
+    {
+      "code": 9601091003,
+      "name": "Makotyamsa"
+    },
+    {
+      "code": 9601092004,
+      "name": "Jeflio"
+    },
+    {
+      "code": 9601092005,
+      "name": "Arar"
+    },
+    {
+      "code": 9601092006,
+      "name": "Klain"
+    },
+    {
+      "code": 9601092007,
+      "name": "Klasmelek"
+    },
+    {
+      "code": 9601092008,
+      "name": "Wen"
+    },
+    {
+      "code": 9601092009,
+      "name": "Warmon Kokoda"
+    },
+    {
+      "code": 9601092010,
+      "name": "Asjidba"
+    },
+    {
+      "code": 9601092011,
+      "name": "Malamay"
+    }
+  ]
+}

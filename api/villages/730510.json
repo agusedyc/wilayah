@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7305102001,
+      "name": "Tompotana"
+    },
+    {
+      "code": 7305102002,
+      "name": "Mattiro Baji"
+    },
+    {
+      "code": 7305102003,
+      "name": "Rewataya"
+    },
+    {
+      "code": 7305102004,
+      "name": "Balangdatu"
+    },
+    {
+      "code": 7305102005,
+      "name": "Maccini Baji"
+    },
+    {
+      "code": 7305102006,
+      "name": "Minasa Baji"
+    }
+  ]
+}

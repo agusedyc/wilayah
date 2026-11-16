@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3509282001,
+      "name": "Lembengan"
+    },
+    {
+      "code": 3509282002,
+      "name": "Suren"
+    },
+    {
+      "code": 3509282003,
+      "name": "Karangpaiton"
+    },
+    {
+      "code": 3509282004,
+      "name": "Sumberanget"
+    },
+    {
+      "code": 3509282005,
+      "name": "Sukogidri"
+    },
+    {
+      "code": 3509282006,
+      "name": "Ledokombo"
+    },
+    {
+      "code": 3509282007,
+      "name": "Sumberlesung"
+    },
+    {
+      "code": 3509282008,
+      "name": "Sumbersalak"
+    },
+    {
+      "code": 3509282009,
+      "name": "Slateng"
+    },
+    {
+      "code": 3509282010,
+      "name": "Sumberbulus"
+    }
+  ]
+}

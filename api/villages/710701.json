@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7107011004,
+      "name": "Tosuraya"
+    },
+    {
+      "code": 7107011005,
+      "name": "Wawali"
+    },
+    {
+      "code": 7107011008,
+      "name": "Lowu Dua"
+    },
+    {
+      "code": 7107011009,
+      "name": "Lowu Satu"
+    },
+    {
+      "code": 7107011016,
+      "name": "Lowu Utara"
+    },
+    {
+      "code": 7107011017,
+      "name": "Nataan"
+    },
+    {
+      "code": 7107011018,
+      "name": "Tosuraya Barat"
+    },
+    {
+      "code": 7107011019,
+      "name": "Tosuraya Selatan"
+    },
+    {
+      "code": 7107011020,
+      "name": "Wawali Pasan"
+    },
+    {
+      "code": 7107012003,
+      "name": "Rasi"
+    },
+    {
+      "code": 7107012021,
+      "name": "Rasi Satu"
+    }
+  ]
+}

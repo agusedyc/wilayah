@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7105181002,
+      "name": "Pondang"
+    },
+    {
+      "code": 7105181003,
+      "name": "Ranomea"
+    },
+    {
+      "code": 7105182001,
+      "name": "Lopana"
+    },
+    {
+      "code": 7105182004,
+      "name": "Pinaling"
+    },
+    {
+      "code": 7105182005,
+      "name": "Kota Menara"
+    },
+    {
+      "code": 7105182006,
+      "name": "Maliku"
+    },
+    {
+      "code": 7105182007,
+      "name": "Ritey"
+    },
+    {
+      "code": 7105182008,
+      "name": "Malenos Baru"
+    },
+    {
+      "code": 7105182009,
+      "name": "Maliku Satu"
+    },
+    {
+      "code": 7105182010,
+      "name": "Lopana Satu"
+    }
+  ]
+}

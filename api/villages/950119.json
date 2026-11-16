@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9501192001,
+      "name": "Lukaken"
+    },
+    {
+      "code": 9501192002,
+      "name": "Miami"
+    },
+    {
+      "code": 9501192003,
+      "name": "Waroba"
+    },
+    {
+      "code": 9501192004,
+      "name": "Yogonima"
+    },
+    {
+      "code": 9501192005,
+      "name": "Tomisa"
+    },
+    {
+      "code": 9501192006,
+      "name": "Helepalegem"
+    },
+    {
+      "code": 9501192007,
+      "name": "Siliwa"
+    },
+    {
+      "code": 9501192008,
+      "name": "Sumunikama"
+    },
+    {
+      "code": 9501192009,
+      "name": "Kemisake"
+    }
+  ]
+}

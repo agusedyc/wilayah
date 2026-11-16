@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9120032001,
+      "name": "Fona"
+    },
+    {
+      "code": 9120032002,
+      "name": "Tayai"
+    },
+    {
+      "code": 9120032003,
+      "name": "Bareri"
+    },
+    {
+      "code": 9120032004,
+      "name": "Sikari"
+    },
+    {
+      "code": 9120032006,
+      "name": "Kai"
+    },
+    {
+      "code": 9120032007,
+      "name": "Haya"
+    }
+  ]
+}

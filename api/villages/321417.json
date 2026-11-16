@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3214172001,
+      "name": "Kiarapedes"
+    },
+    {
+      "code": 3214172002,
+      "name": "Ciracas"
+    },
+    {
+      "code": 3214172003,
+      "name": "Parakangarokgek"
+    },
+    {
+      "code": 3214172004,
+      "name": "Taringgul Landeuh"
+    },
+    {
+      "code": 3214172005,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3214172006,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3214172007,
+      "name": "Gardu"
+    },
+    {
+      "code": 3214172008,
+      "name": "Cibeber"
+    },
+    {
+      "code": 3214172009,
+      "name": "Pusakamulya"
+    },
+    {
+      "code": 3214172010,
+      "name": "Sumbersari"
+    }
+  ]
+}

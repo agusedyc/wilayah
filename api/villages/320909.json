@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3209092001,
+      "name": "Karangwuni"
+    },
+    {
+      "code": 3209092002,
+      "name": "Sedong Kidul"
+    },
+    {
+      "code": 3209092003,
+      "name": "Sedong Lor"
+    },
+    {
+      "code": 3209092004,
+      "name": "Windujaya"
+    },
+    {
+      "code": 3209092005,
+      "name": "Winduhaji"
+    },
+    {
+      "code": 3209092006,
+      "name": "Kertawangun"
+    },
+    {
+      "code": 3209092007,
+      "name": "Panambangan"
+    },
+    {
+      "code": 3209092008,
+      "name": "Putat"
+    },
+    {
+      "code": 3209092009,
+      "name": "Panongan"
+    },
+    {
+      "code": 3209092010,
+      "name": "Panongan Lor"
+    }
+  ]
+}

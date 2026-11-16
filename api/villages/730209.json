@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7302091001,
+      "name": "Dannuang"
+    },
+    {
+      "code": 7302092002,
+      "name": "Garanta"
+    },
+    {
+      "code": 7302092003,
+      "name": "Balleanging"
+    },
+    {
+      "code": 7302092004,
+      "name": "Balong"
+    },
+    {
+      "code": 7302092005,
+      "name": "Seppang"
+    },
+    {
+      "code": 7302092006,
+      "name": "Manyampa"
+    },
+    {
+      "code": 7302092007,
+      "name": "Tammatto"
+    },
+    {
+      "code": 7302092008,
+      "name": "Padangloang"
+    },
+    {
+      "code": 7302092009,
+      "name": "Manjalling"
+    },
+    {
+      "code": 7302092010,
+      "name": "Lonrong"
+    },
+    {
+      "code": 7302092011,
+      "name": "Salemba"
+    },
+    {
+      "code": 7302092012,
+      "name": "Bijawang"
+    },
+    {
+      "code": 7302092013,
+      "name": "Paccaramengang"
+    }
+  ]
+}

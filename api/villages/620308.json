@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6203082001,
+      "name": "Pangkalan Rekan"
+    },
+    {
+      "code": 6203082002,
+      "name": "Batuah"
+    },
+    {
+      "code": 6203082003,
+      "name": "Basarang"
+    },
+    {
+      "code": 6203082004,
+      "name": "Basungkai"
+    },
+    {
+      "code": 6203082005,
+      "name": "Maluen"
+    },
+    {
+      "code": 6203082006,
+      "name": "Pangkalan Sari"
+    },
+    {
+      "code": 6203082007,
+      "name": "Lunuk Ramba"
+    },
+    {
+      "code": 6203082008,
+      "name": "Batu Nindan"
+    },
+    {
+      "code": 6203082009,
+      "name": "Basarang Jaya"
+    },
+    {
+      "code": 6203082010,
+      "name": "Bungai Jaya"
+    },
+    {
+      "code": 6203082011,
+      "name": "Panarung"
+    },
+    {
+      "code": 6203082012,
+      "name": "Tarung Manuah"
+    },
+    {
+      "code": 6203082013,
+      "name": "Tambun Raya"
+    },
+    {
+      "code": 6203082014,
+      "name": "Naning"
+    }
+  ]
+}

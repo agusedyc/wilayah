@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 6311052001,
+      "name": "Tanah Habang Kiri"
+    },
+    {
+      "code": 6311052002,
+      "name": "Panaitan"
+    },
+    {
+      "code": 6311052003,
+      "name": "Tanah Habang Kanan"
+    },
+    {
+      "code": 6311052004,
+      "name": "Batu Merah"
+    },
+    {
+      "code": 6311052005,
+      "name": "Lampihong Kanan"
+    },
+    {
+      "code": 6311052006,
+      "name": "Lampihong Selatan"
+    },
+    {
+      "code": 6311052007,
+      "name": "Lampihong Kiri"
+    },
+    {
+      "code": 6311052008,
+      "name": "Lajar"
+    },
+    {
+      "code": 6311052009,
+      "name": "Kusambi Hulu"
+    },
+    {
+      "code": 6311052010,
+      "name": "Kusambi Hilir"
+    },
+    {
+      "code": 6311052011,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 6311052012,
+      "name": "Matang Lurus"
+    },
+    {
+      "code": 6311052013,
+      "name": "Lok Hamawang"
+    },
+    {
+      "code": 6311052014,
+      "name": "Kupang"
+    },
+    {
+      "code": 6311052015,
+      "name": "Tampang"
+    },
+    {
+      "code": 6311052016,
+      "name": "Matang Hanau"
+    },
+    {
+      "code": 6311052017,
+      "name": "Lok Panginangan"
+    },
+    {
+      "code": 6311052018,
+      "name": "Jungkal"
+    },
+    {
+      "code": 6311052019,
+      "name": "Sungai Tabuk"
+    },
+    {
+      "code": 6311052020,
+      "name": "Jimamun"
+    },
+    {
+      "code": 6311052021,
+      "name": "Pimping"
+    },
+    {
+      "code": 6311052022,
+      "name": "Hilir Pasar"
+    },
+    {
+      "code": 6311052023,
+      "name": "Teluk Karya"
+    },
+    {
+      "code": 6311052024,
+      "name": "Pupuyuan"
+    },
+    {
+      "code": 6311052025,
+      "name": "Sungai Awang"
+    },
+    {
+      "code": 6311052026,
+      "name": "Kandang Jaya"
+    },
+    {
+      "code": 6311052027,
+      "name": "Mundar"
+    }
+  ]
+}

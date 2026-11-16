@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7316122001,
+      "name": "Baroko"
+    },
+    {
+      "code": 7316122002,
+      "name": "Benteng Alla"
+    },
+    {
+      "code": 7316122003,
+      "name": "Benteng Alla Utara"
+    },
+    {
+      "code": 7316122004,
+      "name": "Tongko"
+    },
+    {
+      "code": 7316122005,
+      "name": "Patongloan"
+    }
+  ]
+}

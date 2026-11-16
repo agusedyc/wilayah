@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6407162001,
+      "name": "Dempar"
+    },
+    {
+      "code": 6407162002,
+      "name": "Temula"
+    },
+    {
+      "code": 6407162003,
+      "name": "Jontai"
+    },
+    {
+      "code": 6407162004,
+      "name": "Sembuan"
+    },
+    {
+      "code": 6407162005,
+      "name": "Intu Lingau"
+    },
+    {
+      "code": 6407162006,
+      "name": "Mu'ut"
+    },
+    {
+      "code": 6407162007,
+      "name": "Terajuk"
+    },
+    {
+      "code": 6407162008,
+      "name": "Lakan Bilem"
+    },
+    {
+      "code": 6407162009,
+      "name": "Sentalar"
+    },
+    {
+      "code": 6407162010,
+      "name": "Awai"
+    }
+  ]
+}

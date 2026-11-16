@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3673041001,
+      "name": "Curug"
+    },
+    {
+      "code": 3673041002,
+      "name": "Tinggar"
+    },
+    {
+      "code": 3673041003,
+      "name": "Kemanisan"
+    },
+    {
+      "code": 3673041004,
+      "name": "Cipete"
+    },
+    {
+      "code": 3673041005,
+      "name": "Cilaku"
+    },
+    {
+      "code": 3673041006,
+      "name": "Pancalaksana"
+    },
+    {
+      "code": 3673041007,
+      "name": "Sukawana"
+    },
+    {
+      "code": 3673041008,
+      "name": "Sukalaksana"
+    },
+    {
+      "code": 3673041009,
+      "name": "Curug Manis"
+    },
+    {
+      "code": 3673041010,
+      "name": "Sukajaya"
+    }
+  ]
+}

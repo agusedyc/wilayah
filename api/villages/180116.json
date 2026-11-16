@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1801162001,
+      "name": "Banding"
+    },
+    {
+      "code": 1801162002,
+      "name": "Betung"
+    },
+    {
+      "code": 1801162003,
+      "name": "Batu Balak"
+    },
+    {
+      "code": 1801162004,
+      "name": "Canti"
+    },
+    {
+      "code": 1801162005,
+      "name": "Canggung"
+    },
+    {
+      "code": 1801162006,
+      "name": "Cugung"
+    },
+    {
+      "code": 1801162007,
+      "name": "Hargo Pancuran"
+    },
+    {
+      "code": 1801162008,
+      "name": "Kerinjing"
+    },
+    {
+      "code": 1801162009,
+      "name": "Kunjir"
+    },
+    {
+      "code": 1801162010,
+      "name": "Kota Guring"
+    },
+    {
+      "code": 1801162011,
+      "name": "Rajabasa"
+    },
+    {
+      "code": 1801162012,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1801162013,
+      "name": "Tanjung Gading"
+    },
+    {
+      "code": 1801162014,
+      "name": "Tejang Pulau Sebesi"
+    },
+    {
+      "code": 1801162015,
+      "name": "Way Muli"
+    },
+    {
+      "code": 1801162016,
+      "name": "Wai Muli Timur"
+    }
+  ]
+}

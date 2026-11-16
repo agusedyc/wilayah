@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7501222001,
+      "name": "Hutadaa"
+    },
+    {
+      "code": 7501222002,
+      "name": "Buhu"
+    },
+    {
+      "code": 7501222003,
+      "name": "Luwoo"
+    },
+    {
+      "code": 7501222004,
+      "name": "Bunggalo"
+    },
+    {
+      "code": 7501222005,
+      "name": "Bulota"
+    }
+  ]
+}

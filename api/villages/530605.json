@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5306052006,
+      "name": "Lewobunga"
+    },
+    {
+      "code": 5306052007,
+      "name": "Sina Malaka"
+    },
+    {
+      "code": 5306052008,
+      "name": "Ratulodong"
+    },
+    {
+      "code": 5306052009,
+      "name": "Sinar Hadigala"
+    },
+    {
+      "code": 5306052010,
+      "name": "Bahinga"
+    },
+    {
+      "code": 5306052011,
+      "name": "Waibao"
+    },
+    {
+      "code": 5306052012,
+      "name": "Lamatutu"
+    },
+    {
+      "code": 5306052013,
+      "name": "Laton Liwo"
+    },
+    {
+      "code": 5306052015,
+      "name": "Kolaka"
+    },
+    {
+      "code": 5306052016,
+      "name": "Bandona"
+    },
+    {
+      "code": 5306052017,
+      "name": "Nusa Nipa"
+    },
+    {
+      "code": 5306052018,
+      "name": "Patisirawalang"
+    },
+    {
+      "code": 5306052020,
+      "name": "Gekeng Deran"
+    },
+    {
+      "code": 5306052021,
+      "name": "Aransina"
+    },
+    {
+      "code": 5306052022,
+      "name": "Laton Liwo II"
+    },
+    {
+      "code": 5306052023,
+      "name": "Lamanabi"
+    }
+  ]
+}

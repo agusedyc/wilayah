@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7201102001,
+      "name": "Tangeban"
+    },
+    {
+      "code": 7201102002,
+      "name": "Taugi"
+    },
+    {
+      "code": 7201102003,
+      "name": "Eteng"
+    },
+    {
+      "code": 7201102004,
+      "name": "Minang Andala"
+    },
+    {
+      "code": 7201102005,
+      "name": "Kospa Duatakarya"
+    },
+    {
+      "code": 7201102006,
+      "name": "Purwo Agung"
+    },
+    {
+      "code": 7201102007,
+      "name": "Kembang Merta"
+    },
+    {
+      "code": 7201102008,
+      "name": "Simpangan"
+    },
+    {
+      "code": 7201102009,
+      "name": "Tompotika Makmur"
+    },
+    {
+      "code": 7201102010,
+      "name": "Duata Karya"
+    },
+    {
+      "code": 7201102011,
+      "name": "Serese"
+    },
+    {
+      "code": 7201102012,
+      "name": "Cemerlang"
+    },
+    {
+      "code": 7201102013,
+      "name": "Padangon"
+    },
+    {
+      "code": 7201102014,
+      "name": "Ranga-Ranga"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6309021001,
+      "name": "Pulau"
+    },
+    {
+      "code": 6309022002,
+      "name": "Ampukung"
+    },
+    {
+      "code": 6309022003,
+      "name": "Telaga Itar"
+    },
+    {
+      "code": 6309022004,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 6309022005,
+      "name": "Binturu"
+    },
+    {
+      "code": 6309022006,
+      "name": "Pudak Setegal"
+    },
+    {
+      "code": 6309022007,
+      "name": "Pasar Panas"
+    },
+    {
+      "code": 6309022008,
+      "name": "Masintan"
+    },
+    {
+      "code": 6309022009,
+      "name": "Takulat"
+    },
+    {
+      "code": 6309022010,
+      "name": "Paliat"
+    },
+    {
+      "code": 6309022011,
+      "name": "Karangan Putih"
+    },
+    {
+      "code": 6309022012,
+      "name": "Bahungin"
+    }
+  ]
+}

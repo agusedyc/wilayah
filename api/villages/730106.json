@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7301062001,
+      "name": "Kembang Ragi"
+    },
+    {
+      "code": 7301062003,
+      "name": "Ma'minasa"
+    },
+    {
+      "code": 7301062005,
+      "name": "Tanamalala"
+    },
+    {
+      "code": 7301062006,
+      "name": "Labuang Pamajang"
+    },
+    {
+      "code": 7301062007,
+      "name": "Massungke"
+    },
+    {
+      "code": 7301062009,
+      "name": "Bontosaile"
+    },
+    {
+      "code": 7301062011,
+      "name": "Teluk Kampe"
+    }
+  ]
+}

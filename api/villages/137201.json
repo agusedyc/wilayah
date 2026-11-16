@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1372011001,
+      "name": "Tanah Garam"
+    },
+    {
+      "code": 1372011002,
+      "name": "VI Suku"
+    },
+    {
+      "code": 1372011003,
+      "name": "Sinapa Piliang"
+    },
+    {
+      "code": 1372011004,
+      "name": "IX Korong"
+    },
+    {
+      "code": 1372011005,
+      "name": "Kampai Tabu Karambia"
+    },
+    {
+      "code": 1372011006,
+      "name": "Aro IV Korong"
+    },
+    {
+      "code": 1372011007,
+      "name": "Simpang Rumbio"
+    }
+  ]
+}

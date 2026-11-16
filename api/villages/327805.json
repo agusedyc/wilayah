@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3278051001,
+      "name": "Kersamenak"
+    },
+    {
+      "code": 3278051002,
+      "name": "Cilamajang"
+    },
+    {
+      "code": 3278051003,
+      "name": "Gunung Tandala"
+    },
+    {
+      "code": 3278051004,
+      "name": "Urug"
+    },
+    {
+      "code": 3278051005,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3278051006,
+      "name": "Cibeuti"
+    },
+    {
+      "code": 3278051007,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3278051008,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3278051009,
+      "name": "Leuwiliang"
+    },
+    {
+      "code": 3278051010,
+      "name": "Gunung Gede"
+    }
+  ]
+}

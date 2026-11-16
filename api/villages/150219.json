@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1502192001,
+      "name": "Meranti"
+    },
+    {
+      "code": 1502192002,
+      "name": "Bukit Bungkul"
+    },
+    {
+      "code": 1502192003,
+      "name": "Rasau"
+    },
+    {
+      "code": 1502192004,
+      "name": "Lantak Seribu"
+    }
+  ]
+}

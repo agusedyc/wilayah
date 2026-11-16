@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1220102001,
+      "name": "Siunggam Julu"
+    },
+    {
+      "code": 1220102002,
+      "name": "Siunggam Tonga"
+    },
+    {
+      "code": 1220102003,
+      "name": "Siunggam Jae"
+    },
+    {
+      "code": 1220102004,
+      "name": "Aek Bayur"
+    },
+    {
+      "code": 1220102005,
+      "name": "Aek Tolong"
+    },
+    {
+      "code": 1220102006,
+      "name": "Tangga-Tangga Hambeng"
+    },
+    {
+      "code": 1220102007,
+      "name": "Simaninggir"
+    },
+    {
+      "code": 1220102008,
+      "name": "Bangun Purba"
+    },
+    {
+      "code": 1220102009,
+      "name": "Naga Saribu"
+    },
+    {
+      "code": 1220102010,
+      "name": "Sihoda-Hoda"
+    },
+    {
+      "code": 1220102011,
+      "name": "Mompang II"
+    },
+    {
+      "code": 1220102012,
+      "name": "Gulangan"
+    },
+    {
+      "code": 1220102013,
+      "name": "Pijor Koling"
+    },
+    {
+      "code": 1220102014,
+      "name": "Purba Tua Dolok"
+    }
+  ]
+}

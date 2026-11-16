@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3205051001,
+      "name": "Pataruman"
+    },
+    {
+      "code": 3205051002,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3205051006,
+      "name": "Jayawaras"
+    },
+    {
+      "code": 3205051009,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 3205051012,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3205052003,
+      "name": "Jayaraga"
+    },
+    {
+      "code": 3205052004,
+      "name": "Haurpanggung"
+    },
+    {
+      "code": 3205052005,
+      "name": "Cibunar"
+    },
+    {
+      "code": 3205052007,
+      "name": "Sukabakti"
+    },
+    {
+      "code": 3205052008,
+      "name": "Tarogong"
+    },
+    {
+      "code": 3205052010,
+      "name": "Mekargalih"
+    },
+    {
+      "code": 3205052011,
+      "name": "Kersamenak"
+    }
+  ]
+}

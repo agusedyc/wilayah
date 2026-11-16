@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5311042001,
+      "name": "Makamenggit"
+    },
+    {
+      "code": 5311042002,
+      "name": "Tandula Jangga"
+    },
+    {
+      "code": 5311042003,
+      "name": "Praipaha"
+    },
+    {
+      "code": 5311042004,
+      "name": "Praihambuli"
+    },
+    {
+      "code": 5311042005,
+      "name": "Pulu Panjang"
+    },
+    {
+      "code": 5311042010,
+      "name": "Praikarang"
+    },
+    {
+      "code": 5311042011,
+      "name": "Tanatuku"
+    },
+    {
+      "code": 5311042012,
+      "name": "Ngadulanggi"
+    }
+  ]
+}

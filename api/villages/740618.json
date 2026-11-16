@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7406181001,
+      "name": "Lauru"
+    },
+    {
+      "code": 7406181002,
+      "name": "Poea"
+    },
+    {
+      "code": 7406181003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 7406182004,
+      "name": "Tapuhahi"
+    },
+    {
+      "code": 7406182005,
+      "name": "Lampata"
+    }
+  ]
+}

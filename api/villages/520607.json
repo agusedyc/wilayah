@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5206072001,
+      "name": "Ntoke"
+    },
+    {
+      "code": 5206072002,
+      "name": "Pai"
+    },
+    {
+      "code": 5206072003,
+      "name": "Nunggi"
+    },
+    {
+      "code": 5206072004,
+      "name": "Tawali"
+    },
+    {
+      "code": 5206072005,
+      "name": "Hidirasa"
+    },
+    {
+      "code": 5206072006,
+      "name": "Wora"
+    },
+    {
+      "code": 5206072007,
+      "name": "Sangiang"
+    },
+    {
+      "code": 5206072008,
+      "name": "Bala"
+    },
+    {
+      "code": 5206072009,
+      "name": "Oi Tui"
+    },
+    {
+      "code": 5206072010,
+      "name": "Tadewa"
+    },
+    {
+      "code": 5206072011,
+      "name": "Nanga Wera"
+    },
+    {
+      "code": 5206072012,
+      "name": "Ranggasolo"
+    },
+    {
+      "code": 5206072013,
+      "name": "Kalajena"
+    },
+    {
+      "code": 5206072014,
+      "name": "Mandala"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1108252001,
+      "name": "Lhok Asan"
+    },
+    {
+      "code": 1108252002,
+      "name": "Darul Aman"
+    },
+    {
+      "code": 1108252003,
+      "name": "Alue Awe"
+    },
+    {
+      "code": 1108252004,
+      "name": "Darussalam"
+    },
+    {
+      "code": 1108252005,
+      "name": "Rayeuk Jawa"
+    },
+    {
+      "code": 1108252006,
+      "name": "Dayah Seupeng"
+    },
+    {
+      "code": 1108252007,
+      "name": "Uram Jalan"
+    },
+    {
+      "code": 1108252008,
+      "name": "Peudari"
+    },
+    {
+      "code": 1108252009,
+      "name": "Krueng Mbang"
+    },
+    {
+      "code": 1108252010,
+      "name": "Pulo Meuria"
+    },
+    {
+      "code": 1108252011,
+      "name": "Suka Damai"
+    }
+  ]
+}

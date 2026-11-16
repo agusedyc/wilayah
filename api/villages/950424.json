@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9504242001,
+      "name": "Geya"
+    },
+    {
+      "code": 9504242002,
+      "name": "Alobaga"
+    },
+    {
+      "code": 9504242003,
+      "name": "Timori"
+    },
+    {
+      "code": 9504242004,
+      "name": "Nawu"
+    },
+    {
+      "code": 9504242005,
+      "name": "Tinagoga"
+    },
+    {
+      "code": 9504242006,
+      "name": "Witipur"
+    },
+    {
+      "code": 9504242007,
+      "name": "Jelepele"
+    },
+    {
+      "code": 9504242008,
+      "name": "Winalo"
+    },
+    {
+      "code": 9504242009,
+      "name": "Kibu"
+    },
+    {
+      "code": 9504242010,
+      "name": "Wunggilipur"
+    },
+    {
+      "code": 9504242011,
+      "name": "Weyambi"
+    },
+    {
+      "code": 9504242012,
+      "name": "Dimbara"
+    }
+  ]
+}

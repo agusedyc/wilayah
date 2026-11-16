@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3524112001,
+      "name": "Sidokumpul"
+    },
+    {
+      "code": 3524112002,
+      "name": "Pasarlegi"
+    },
+    {
+      "code": 3524112003,
+      "name": "Semampirejo"
+    },
+    {
+      "code": 3524112004,
+      "name": "Wateswinangun"
+    },
+    {
+      "code": 3524112005,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3524112006,
+      "name": "Pataan"
+    },
+    {
+      "code": 3524112007,
+      "name": "Tenggiring"
+    },
+    {
+      "code": 3524112008,
+      "name": "Garung"
+    },
+    {
+      "code": 3524112009,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3524112010,
+      "name": "Ardirejo"
+    },
+    {
+      "code": 3524112011,
+      "name": "Sekidang"
+    },
+    {
+      "code": 3524112012,
+      "name": "Kedungwangi"
+    },
+    {
+      "code": 3524112013,
+      "name": "Jatipandak"
+    },
+    {
+      "code": 3524112014,
+      "name": "Candisari"
+    },
+    {
+      "code": 3524112015,
+      "name": "Nogojatisari"
+    },
+    {
+      "code": 3524112016,
+      "name": "Pamotan"
+    },
+    {
+      "code": 3524112017,
+      "name": "Wudi"
+    },
+    {
+      "code": 3524112018,
+      "name": "Barurejo"
+    },
+    {
+      "code": 3524112019,
+      "name": "Kedungbanjar"
+    },
+    {
+      "code": 3524112020,
+      "name": "Gempolmanis"
+    },
+    {
+      "code": 3524112021,
+      "name": "Selorejo"
+    },
+    {
+      "code": 3524112022,
+      "name": "Kreteranggon"
+    }
+  ]
+}

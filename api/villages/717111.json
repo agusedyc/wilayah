@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7171111001,
+      "name": "Ranomuut"
+    },
+    {
+      "code": 7171111002,
+      "name": "Kairagi Weru"
+    },
+    {
+      "code": 7171111003,
+      "name": "Paal Dua"
+    },
+    {
+      "code": 7171111004,
+      "name": "Perkamil"
+    },
+    {
+      "code": 7171111005,
+      "name": "Malendeng"
+    },
+    {
+      "code": 7171111006,
+      "name": "Dendengan Dalam"
+    },
+    {
+      "code": 7171111007,
+      "name": "Dendengan Luar"
+    }
+  ]
+}

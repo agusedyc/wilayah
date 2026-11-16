@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8208022001,
+      "name": "Nggele"
+    },
+    {
+      "code": 8208022002,
+      "name": "Salati"
+    },
+    {
+      "code": 8208022003,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 8208022004,
+      "name": "Kasango"
+    },
+    {
+      "code": 8208022005,
+      "name": "Onemay"
+    }
+  ]
+}

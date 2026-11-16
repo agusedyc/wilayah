@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1703222001,
+      "name": "Sengkuang"
+    },
+    {
+      "code": 1703222002,
+      "name": "Lubuk Pendam"
+    },
+    {
+      "code": 1703222003,
+      "name": "Alun Dua"
+    },
+    {
+      "code": 1703222004,
+      "name": "Ketapi"
+    },
+    {
+      "code": 1703222005,
+      "name": "Lubuk Semantung"
+    },
+    {
+      "code": 1703222006,
+      "name": "Sawang Lebar"
+    },
+    {
+      "code": 1703222007,
+      "name": "Sawang Lebar Ilir"
+    },
+    {
+      "code": 1703222008,
+      "name": "Lubuk Gading"
+    },
+    {
+      "code": 1703222009,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1703222010,
+      "name": "Padang Sepan"
+    }
+  ]
+}

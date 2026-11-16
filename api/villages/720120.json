@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201201002,
+      "name": "Simpong"
+    },
+    {
+      "code": 7201201003,
+      "name": "Hanga Hanga"
+    },
+    {
+      "code": 7201201004,
+      "name": "Jole"
+    },
+    {
+      "code": 7201201005,
+      "name": "Hanga-Hanga Permai"
+    },
+    {
+      "code": 7201201006,
+      "name": "Kompo"
+    },
+    {
+      "code": 7201201007,
+      "name": "Bukit Mambual"
+    },
+    {
+      "code": 7201201008,
+      "name": "Tombang Permai"
+    },
+    {
+      "code": 7201201009,
+      "name": "Maahas"
+    },
+    {
+      "code": 7201201010,
+      "name": "Tanjung Tuwis"
+    },
+    {
+      "code": 7201202001,
+      "name": "Bubung"
+    }
+  ]
+}

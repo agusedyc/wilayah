@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9304212001,
+      "name": "Piramat"
+    },
+    {
+      "code": 9304212002,
+      "name": "Bawos"
+    },
+    {
+      "code": 9304212003,
+      "name": "Akan Tapak"
+    },
+    {
+      "code": 9304212004,
+      "name": "Tauro"
+    },
+    {
+      "code": 9304212005,
+      "name": "Bagair"
+    },
+    {
+      "code": 9304212006,
+      "name": "Wiyar"
+    },
+    {
+      "code": 9304212007,
+      "name": "Kagas"
+    },
+    {
+      "code": 9304212008,
+      "name": "Mapane"
+    },
+    {
+      "code": 9304212009,
+      "name": "Ainamsato"
+    },
+    {
+      "code": 9304212010,
+      "name": "Amaita"
+    }
+  ]
+}

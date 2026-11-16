@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7412071003,
+      "name": "Lampeapi"
+    },
+    {
+      "code": 7412072001,
+      "name": "Batumea"
+    },
+    {
+      "code": 7412072002,
+      "name": "Wawo Indah"
+    },
+    {
+      "code": 7412072004,
+      "name": "Lamongupa"
+    },
+    {
+      "code": 7412072005,
+      "name": "Tumbu Tumbu Jaya"
+    },
+    {
+      "code": 7412072006,
+      "name": "Morobea"
+    },
+    {
+      "code": 7412072007,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 7412072008,
+      "name": "Rawa Indah"
+    },
+    {
+      "code": 7412072009,
+      "name": "Lampeapi Baru"
+    },
+    {
+      "code": 7412072010,
+      "name": "Pesue"
+    },
+    {
+      "code": 7412072011,
+      "name": "Puurau"
+    },
+    {
+      "code": 7412072012,
+      "name": "Baho Puu Wulu"
+    }
+  ]
+}

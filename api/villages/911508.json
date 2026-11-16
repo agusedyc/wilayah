@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9115082001,
+      "name": "Ureifaisei I/Sanggae"
+    },
+    {
+      "code": 9115082002,
+      "name": "Urfas II"
+    },
+    {
+      "code": 9115082003,
+      "name": "Nubuai"
+    },
+    {
+      "code": 9115082004,
+      "name": "Ureifaisei III/ Paradoi"
+    },
+    {
+      "code": 9115082005,
+      "name": "Apainabo"
+    },
+    {
+      "code": 9115082006,
+      "name": "Mambui"
+    },
+    {
+      "code": 9115082007,
+      "name": "Khemoon Jaya"
+    },
+    {
+      "code": 9115082008,
+      "name": "Usaiwa"
+    },
+    {
+      "code": 9115082009,
+      "name": "Paradoi"
+    },
+    {
+      "code": 9115082010,
+      "name": "Ghoyui"
+    },
+    {
+      "code": 9115082011,
+      "name": "Rorisi"
+    },
+    {
+      "code": 9115082012,
+      "name": "Ronggaiwa"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3505202001,
+      "name": "Purworejo"
+    },
+    {
+      "code": 3505202002,
+      "name": "Tulungrejo"
+    },
+    {
+      "code": 3505202003,
+      "name": "Sumberarum"
+    },
+    {
+      "code": 3505202004,
+      "name": "Ringinrejo"
+    },
+    {
+      "code": 3505202005,
+      "name": "Mojorejo"
+    },
+    {
+      "code": 3505202006,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3505202007,
+      "name": "Wates"
+    },
+    {
+      "code": 3505202008,
+      "name": "Tugurejo"
+    }
+  ]
+}

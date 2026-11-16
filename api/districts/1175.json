@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 117501,
+      "name": "Simpang Kiri"
+    },
+    {
+      "code": 117502,
+      "name": "Penanggalan"
+    },
+    {
+      "code": 117503,
+      "name": "Rundeng"
+    },
+    {
+      "code": 117504,
+      "name": "Sultan Daulat"
+    },
+    {
+      "code": 117505,
+      "name": "Longkib"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9304202001,
+      "name": "Bor"
+    },
+    {
+      "code": 9304202002,
+      "name": "Daikot"
+    },
+    {
+      "code": 9304202003,
+      "name": "Somnak"
+    },
+    {
+      "code": 9304202004,
+      "name": "Wabak"
+    },
+    {
+      "code": 9304202005,
+      "name": "Vakam"
+    },
+    {
+      "code": 9304202006,
+      "name": "Vakam Dua"
+    },
+    {
+      "code": 9304202007,
+      "name": "Dekamer"
+    }
+  ]
+}

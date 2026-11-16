@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6203102001,
+      "name": "Petak Puti"
+    },
+    {
+      "code": 6203102002,
+      "name": "Aruk"
+    },
+    {
+      "code": 6203102003,
+      "name": "Lawang Kajang"
+    },
+    {
+      "code": 6203102004,
+      "name": "Timpah"
+    },
+    {
+      "code": 6203102005,
+      "name": "Lungkuh Layang"
+    },
+    {
+      "code": 6203102006,
+      "name": "Lawang Kamah"
+    },
+    {
+      "code": 6203102007,
+      "name": "Tumbang Randang"
+    },
+    {
+      "code": 6203102008,
+      "name": "Batapah"
+    },
+    {
+      "code": 6203102009,
+      "name": "Danau Pantau"
+    }
+  ]
+}

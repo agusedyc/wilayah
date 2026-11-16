@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8205062001,
+      "name": "Dofa"
+    },
+    {
+      "code": 8205062002,
+      "name": "Lekokadai"
+    },
+    {
+      "code": 8205062003,
+      "name": "Lekosula"
+    },
+    {
+      "code": 8205062009,
+      "name": "Pas Ipa"
+    },
+    {
+      "code": 8205062014,
+      "name": "Pelita"
+    },
+    {
+      "code": 8205062017,
+      "name": "Johor"
+    },
+    {
+      "code": 8205062018,
+      "name": "Lelyaba"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9603212001,
+      "name": "Kalobo"
+    },
+    {
+      "code": 9603212002,
+      "name": "Sakabu"
+    },
+    {
+      "code": 9603212003,
+      "name": "Waibu"
+    },
+    {
+      "code": 9603212004,
+      "name": "Waijan"
+    },
+    {
+      "code": 9603212005,
+      "name": "Waimeci"
+    },
+    {
+      "code": 9603212006,
+      "name": "Wailabu"
+    },
+    {
+      "code": 9603212007,
+      "name": "Wailen"
+    }
+  ]
+}

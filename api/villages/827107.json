@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8271071001,
+      "name": "Faudu"
+    },
+    {
+      "code": 8271071002,
+      "name": "Tomajiko"
+    },
+    {
+      "code": 8271071003,
+      "name": "Dorari Isa"
+    },
+    {
+      "code": 8271071004,
+      "name": "Togolobe"
+    },
+    {
+      "code": 8271071005,
+      "name": "Mado"
+    },
+    {
+      "code": 8271071006,
+      "name": "Tafraka"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102152001,
+      "name": "Kumu"
+    },
+    {
+      "code": 7102152002,
+      "name": "Teling"
+    },
+    {
+      "code": 7102152003,
+      "name": "Poopoh"
+    },
+    {
+      "code": 7102152004,
+      "name": "Ranowangko"
+    },
+    {
+      "code": 7102152005,
+      "name": "Senduk"
+    },
+    {
+      "code": 7102152007,
+      "name": "Pinasungkulan"
+    },
+    {
+      "code": 7102152009,
+      "name": "Mokupa"
+    },
+    {
+      "code": 7102152010,
+      "name": "Sarani Matani"
+    },
+    {
+      "code": 7102152011,
+      "name": "Borgo"
+    },
+    {
+      "code": 7102152012,
+      "name": "Tambala"
+    }
+  ]
+}

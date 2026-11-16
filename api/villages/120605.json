@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1206052001,
+      "name": "Partibi Tembe"
+    },
+    {
+      "code": 1206052002,
+      "name": "Negeri Tongging"
+    },
+    {
+      "code": 1206052003,
+      "name": "Kodon-Kodon"
+    },
+    {
+      "code": 1206052004,
+      "name": "Dokan"
+    },
+    {
+      "code": 1206052005,
+      "name": "Nagara"
+    },
+    {
+      "code": 1206052006,
+      "name": "Sibolangit"
+    },
+    {
+      "code": 1206052007,
+      "name": "Sukamandi"
+    },
+    {
+      "code": 1206052008,
+      "name": "Nagalingga"
+    },
+    {
+      "code": 1206052009,
+      "name": "Pangambatan"
+    },
+    {
+      "code": 1206052010,
+      "name": "Tongging"
+    },
+    {
+      "code": 1206052011,
+      "name": "Partibi Lama"
+    },
+    {
+      "code": 1206052012,
+      "name": "Regaji"
+    },
+    {
+      "code": 1206052013,
+      "name": "Ajinembah"
+    },
+    {
+      "code": 1206052014,
+      "name": "Situnggaling"
+    },
+    {
+      "code": 1206052015,
+      "name": "Garingging"
+    },
+    {
+      "code": 1206052016,
+      "name": "Mulia Rayat"
+    },
+    {
+      "code": 1206052017,
+      "name": "Bandar Tongging"
+    },
+    {
+      "code": 1206052018,
+      "name": "Pancur Batu"
+    },
+    {
+      "code": 1206052019,
+      "name": "Merek"
+    }
+  ]
+}

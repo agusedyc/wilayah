@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5303132001,
+      "name": "Tasinifu"
+    },
+    {
+      "code": 5303132002,
+      "name": "Naekake A"
+    },
+    {
+      "code": 5303132003,
+      "name": "Naekake B"
+    },
+    {
+      "code": 5303132004,
+      "name": "Noelelo"
+    }
+  ]
+}

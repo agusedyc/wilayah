@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7318111003,
+      "name": "Tapparan"
+    },
+    {
+      "code": 7318111012,
+      "name": "Rantetayo"
+    },
+    {
+      "code": 7318111013,
+      "name": "Padangiring"
+    },
+    {
+      "code": 7318112007,
+      "name": "Madandan"
+    },
+    {
+      "code": 7318112011,
+      "name": "Tapparan Utara"
+    },
+    {
+      "code": 7318112014,
+      "name": "Tonglo"
+    }
+  ]
+}

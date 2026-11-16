@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3401052001,
+      "name": "Wahyuharjo"
+    },
+    {
+      "code": 3401052002,
+      "name": "Bumirejo"
+    },
+    {
+      "code": 3401052003,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3401052004,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3401052005,
+      "name": "Gulurejo"
+    },
+    {
+      "code": 3401052006,
+      "name": "Ngentakrejo"
+    }
+  ]
+}

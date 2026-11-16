@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206222001,
+      "name": "Meyerga"
+    },
+    {
+      "code": 9206222002,
+      "name": "Macok"
+    },
+    {
+      "code": 9206222003,
+      "name": "Istiwkem"
+    },
+    {
+      "code": 9206222004,
+      "name": "Majnic"
+    }
+  ]
+}

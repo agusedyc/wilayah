@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7102042001,
+      "name": "Tulap"
+    },
+    {
+      "code": 7102042002,
+      "name": "Lalumpe"
+    },
+    {
+      "code": 7102042003,
+      "name": "Kayubesi"
+    },
+    {
+      "code": 7102042004,
+      "name": "Ranowangko II"
+    },
+    {
+      "code": 7102042005,
+      "name": "Kombi"
+    },
+    {
+      "code": 7102042006,
+      "name": "Sawangan"
+    },
+    {
+      "code": 7102042007,
+      "name": "Kolongan"
+    },
+    {
+      "code": 7102042008,
+      "name": "Rerer"
+    },
+    {
+      "code": 7102042009,
+      "name": "Kinaleosan"
+    },
+    {
+      "code": 7102042010,
+      "name": "Makalisung"
+    },
+    {
+      "code": 7102042011,
+      "name": "Kalawiran"
+    },
+    {
+      "code": 7102042012,
+      "name": "Kolongan Satu"
+    },
+    {
+      "code": 7102042013,
+      "name": "Rerer Satu"
+    }
+  ]
+}

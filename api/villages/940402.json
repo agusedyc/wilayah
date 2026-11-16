@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9404022001,
+      "name": "Kiliarma"
+    },
+    {
+      "code": 9404022002,
+      "name": "Amungun"
+    },
+    {
+      "code": 9404022003,
+      "name": "Aramsolki"
+    },
+    {
+      "code": 9404022004,
+      "name": "Fakafuku"
+    },
+    {
+      "code": 9404022005,
+      "name": "Masasimamo"
+    },
+    {
+      "code": 9404022006,
+      "name": "Emogoma"
+    },
+    {
+      "code": 9404022007,
+      "name": "Emkoma Halama"
+    },
+    {
+      "code": 9404022008,
+      "name": "Hinat Untung"
+    }
+  ]
+}

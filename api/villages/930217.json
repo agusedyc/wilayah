@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9302172001,
+      "name": "Ninati"
+    },
+    {
+      "code": 9302172003,
+      "name": "Kawaktembut"
+    },
+    {
+      "code": 9302172004,
+      "name": "Tembutka"
+    },
+    {
+      "code": 9302172005,
+      "name": "Timka"
+    },
+    {
+      "code": 9302172006,
+      "name": "Yetetko"
+    }
+  ]
+}

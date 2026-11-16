@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3401042001,
+      "name": "Banaran"
+    },
+    {
+      "code": 3401042002,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3401042003,
+      "name": "Nomporejo"
+    },
+    {
+      "code": 3401042004,
+      "name": "Karangsewu"
+    },
+    {
+      "code": 3401042005,
+      "name": "Tirtorahayu"
+    },
+    {
+      "code": 3401042006,
+      "name": "Pandowan"
+    },
+    {
+      "code": 3401042007,
+      "name": "Brosot"
+    }
+  ]
+}

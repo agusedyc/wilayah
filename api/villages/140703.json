@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1407031007,
+      "name": "Sedinginan"
+    },
+    {
+      "code": 1407031010,
+      "name": "Banjar XII"
+    },
+    {
+      "code": 1407031019,
+      "name": "Cempedak Rahuk"
+    },
+    {
+      "code": 1407032001,
+      "name": "Ujung Tanjung"
+    },
+    {
+      "code": 1407032002,
+      "name": "Rantau Bais"
+    },
+    {
+      "code": 1407032005,
+      "name": "Sekeladi"
+    },
+    {
+      "code": 1407032006,
+      "name": "Teluk Mega"
+    },
+    {
+      "code": 1407032008,
+      "name": "Putat"
+    },
+    {
+      "code": 1407032009,
+      "name": "Sintong"
+    },
+    {
+      "code": 1407032011,
+      "name": "Mumugo"
+    },
+    {
+      "code": 1407032012,
+      "name": "Teluk Berembun"
+    },
+    {
+      "code": 1407032013,
+      "name": "Menggala Sakti"
+    },
+    {
+      "code": 1407032014,
+      "name": "Sekeladi Hilir"
+    },
+    {
+      "code": 1407032015,
+      "name": "Menggala Sempurna"
+    },
+    {
+      "code": 1407032016,
+      "name": "Sintong Pusaka"
+    },
+    {
+      "code": 1407032017,
+      "name": "Sintong Bakti"
+    },
+    {
+      "code": 1407032018,
+      "name": "Sintong Makmur"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6206031006,
+      "name": "Pendahara"
+    },
+    {
+      "code": 6206032001,
+      "name": "Tewang Baringin"
+    },
+    {
+      "code": 6206032002,
+      "name": "Hapalam"
+    },
+    {
+      "code": 6206032003,
+      "name": "Tewang Rangas"
+    },
+    {
+      "code": 6206032004,
+      "name": "Bangkuang"
+    },
+    {
+      "code": 6206032005,
+      "name": "Tarusan Danum"
+    },
+    {
+      "code": 6206032007,
+      "name": "Tumbang Tarusan"
+    },
+    {
+      "code": 6206032008,
+      "name": "Tewang Rangkang"
+    },
+    {
+      "code": 6206032009,
+      "name": "Tewang Manyangen"
+    },
+    {
+      "code": 6206032010,
+      "name": "Karya Unggang"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1103162001,
+      "name": "Gampong Keude"
+    },
+    {
+      "code": 1103162002,
+      "name": "Meunasah Krueng"
+    },
+    {
+      "code": 1103162003,
+      "name": "Kuta Baro"
+    },
+    {
+      "code": 1103162004,
+      "name": "Alue Batee"
+    },
+    {
+      "code": 1103162005,
+      "name": "Matang Rayeuk"
+    },
+    {
+      "code": 1103162006,
+      "name": "Paya Bili Dua"
+    },
+    {
+      "code": 1103162007,
+      "name": "Alue Ie Itam"
+    },
+    {
+      "code": 1103162008,
+      "name": "Asan Rampak"
+    },
+    {
+      "code": 1103162009,
+      "name": "Gampong Kuala"
+    },
+    {
+      "code": 1103162010,
+      "name": "Paya Dua"
+    },
+    {
+      "code": 1103162011,
+      "name": "Seuneubok Teungoh"
+    },
+    {
+      "code": 1103162012,
+      "name": "Buket Kuta"
+    },
+    {
+      "code": 1103162013,
+      "name": "Sama Dua"
+    },
+    {
+      "code": 1103162014,
+      "name": "Blang Kuta"
+    },
+    {
+      "code": 1103162015,
+      "name": "Blang Buket"
+    },
+    {
+      "code": 1103162016,
+      "name": "Seuneubok Peunteut"
+    },
+    {
+      "code": 1103162017,
+      "name": "Paya Bili Sa"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5307162001,
+      "name": "Koting A"
+    },
+    {
+      "code": 5307162002,
+      "name": "Koting B"
+    },
+    {
+      "code": 5307162003,
+      "name": "Koting C"
+    },
+    {
+      "code": 5307162004,
+      "name": "Koting D"
+    },
+    {
+      "code": 5307162005,
+      "name": "Paubekor"
+    },
+    {
+      "code": 5307162006,
+      "name": "Ribang"
+    },
+    {
+      "code": 5307162007,
+      "name": "Watu Repa"
+    }
+  ]
+}

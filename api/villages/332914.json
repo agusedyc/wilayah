@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3329142001,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3329142002,
+      "name": "Banjaratma"
+    },
+    {
+      "code": 3329142003,
+      "name": "Bulakamba"
+    },
+    {
+      "code": 3329142004,
+      "name": "Bulakparen"
+    },
+    {
+      "code": 3329142005,
+      "name": "Bulusari"
+    },
+    {
+      "code": 3329142006,
+      "name": "Cimohong"
+    },
+    {
+      "code": 3329142007,
+      "name": "Cipelem"
+    },
+    {
+      "code": 3329142008,
+      "name": "Dukuhlo"
+    },
+    {
+      "code": 3329142009,
+      "name": "Grinting"
+    },
+    {
+      "code": 3329142010,
+      "name": "Jubang"
+    },
+    {
+      "code": 3329142011,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3329142012,
+      "name": "Kluwut"
+    },
+    {
+      "code": 3329142013,
+      "name": "Luwungragi"
+    },
+    {
+      "code": 3329142014,
+      "name": "Pakijangan"
+    },
+    {
+      "code": 3329142015,
+      "name": "Petunjungan"
+    },
+    {
+      "code": 3329142016,
+      "name": "Pulogading"
+    },
+    {
+      "code": 3329142017,
+      "name": "Rancawuluh"
+    },
+    {
+      "code": 3329142018,
+      "name": "Siwuluh"
+    },
+    {
+      "code": 3329142019,
+      "name": "Tegalglagah"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3525172001,
+      "name": "Dekatagung"
+    },
+    {
+      "code": 3525172002,
+      "name": "Kumalasa"
+    },
+    {
+      "code": 3525172003,
+      "name": "Suwari"
+    },
+    {
+      "code": 3525172004,
+      "name": "Pudakitbarat"
+    },
+    {
+      "code": 3525172005,
+      "name": "Pudakittimur"
+    },
+    {
+      "code": 3525172006,
+      "name": "Lebak"
+    },
+    {
+      "code": 3525172007,
+      "name": "Bululanjang"
+    },
+    {
+      "code": 3525172008,
+      "name": "Patarselamat"
+    },
+    {
+      "code": 3525172009,
+      "name": "Kotakusuma"
+    },
+    {
+      "code": 3525172010,
+      "name": "Sungaiteluk"
+    },
+    {
+      "code": 3525172011,
+      "name": "Gunungteguh"
+    },
+    {
+      "code": 3525172012,
+      "name": "Sawahmulya"
+    },
+    {
+      "code": 3525172013,
+      "name": "Sungairujing"
+    },
+    {
+      "code": 3525172014,
+      "name": "Balikterus"
+    },
+    {
+      "code": 3525172015,
+      "name": "Kebontelukdalam"
+    },
+    {
+      "code": 3525172016,
+      "name": "Sidogedungbatu"
+    },
+    {
+      "code": 3525172017,
+      "name": "Daun"
+    }
+  ]
+}

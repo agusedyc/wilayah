@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7205052001,
+      "name": "Umu"
+    },
+    {
+      "code": 7205052002,
+      "name": "Mulangato"
+    },
+    {
+      "code": 7205052003,
+      "name": "Lilito"
+    },
+    {
+      "code": 7205052004,
+      "name": "Talaki"
+    },
+    {
+      "code": 7205052005,
+      "name": "Baturata"
+    },
+    {
+      "code": 7205052006,
+      "name": "Kwalabesar"
+    },
+    {
+      "code": 7205052007,
+      "name": "Tolau"
+    },
+    {
+      "code": 7205052008,
+      "name": "Paleleh"
+    },
+    {
+      "code": 7205052009,
+      "name": "Lintidu"
+    },
+    {
+      "code": 7205052014,
+      "name": "Pionoto"
+    },
+    {
+      "code": 7205052017,
+      "name": "Dopalak"
+    },
+    {
+      "code": 7205052018,
+      "name": "Dotuno"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3308172001,
+      "name": "Ngablak"
+    },
+    {
+      "code": 3308172002,
+      "name": "Jogonayan"
+    },
+    {
+      "code": 3308172003,
+      "name": "Tejosari"
+    },
+    {
+      "code": 3308172004,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3308172005,
+      "name": "Girirejo"
+    },
+    {
+      "code": 3308172006,
+      "name": "Pandean"
+    },
+    {
+      "code": 3308172007,
+      "name": "Genikan"
+    },
+    {
+      "code": 3308172008,
+      "name": "Bandungrejo"
+    },
+    {
+      "code": 3308172009,
+      "name": "Madyogondo"
+    },
+    {
+      "code": 3308172010,
+      "name": "Jogoyasan"
+    },
+    {
+      "code": 3308172011,
+      "name": "Keditan"
+    },
+    {
+      "code": 3308172012,
+      "name": "Magersari"
+    },
+    {
+      "code": 3308172013,
+      "name": "Kanigoro"
+    },
+    {
+      "code": 3308172014,
+      "name": "Selomirah"
+    },
+    {
+      "code": 3308172015,
+      "name": "Pagergunung"
+    },
+    {
+      "code": 3308172016,
+      "name": "Seloprojo"
+    }
+  ]
+}

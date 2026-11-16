@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3375031002,
+      "name": "Krapyak"
+    },
+    {
+      "code": 3375031003,
+      "name": "Kandang Panjang"
+    },
+    {
+      "code": 3375031004,
+      "name": "Panjang Wetan"
+    },
+    {
+      "code": 3375031006,
+      "name": "Padukuhan Kraton"
+    },
+    {
+      "code": 3375031007,
+      "name": "Degayu"
+    },
+    {
+      "code": 3375031009,
+      "name": "Bandengan"
+    },
+    {
+      "code": 3375031010,
+      "name": "Panjang Baru"
+    }
+  ]
+}

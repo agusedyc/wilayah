@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 5319021027,
+      "name": "Mandosawu"
+    },
+    {
+      "code": 5319021028,
+      "name": "Nggalak Leleng"
+    },
+    {
+      "code": 5319021042,
+      "name": "Bangka Leleng"
+    },
+    {
+      "code": 5319022001,
+      "name": "Poco Lia"
+    },
+    {
+      "code": 5319022002,
+      "name": "Pocong"
+    },
+    {
+      "code": 5319022003,
+      "name": "Lenang"
+    },
+    {
+      "code": 5319022004,
+      "name": "Melo"
+    },
+    {
+      "code": 5319022005,
+      "name": "Leong"
+    },
+    {
+      "code": 5319022011,
+      "name": "Bea Waek"
+    },
+    {
+      "code": 5319022013,
+      "name": "Golo Lobos"
+    },
+    {
+      "code": 5319022014,
+      "name": "Bangka Kuleng"
+    },
+    {
+      "code": 5319022015,
+      "name": "Bangka Pau"
+    },
+    {
+      "code": 5319022016,
+      "name": "Golo Nderu"
+    },
+    {
+      "code": 5319022017,
+      "name": "Satar Tesem"
+    },
+    {
+      "code": 5319022018,
+      "name": "Gurung Turi"
+    },
+    {
+      "code": 5319022019,
+      "name": "Compang Laho"
+    },
+    {
+      "code": 5319022020,
+      "name": "Watu Lanur"
+    },
+    {
+      "code": 5319022026,
+      "name": "Golo Ndari"
+    },
+    {
+      "code": 5319022029,
+      "name": "Compang Wesang"
+    },
+    {
+      "code": 5319022030,
+      "name": "Golo Wune"
+    },
+    {
+      "code": 5319022031,
+      "name": "Lento"
+    },
+    {
+      "code": 5319022032,
+      "name": "Compang Weluk"
+    },
+    {
+      "code": 5319022033,
+      "name": "Golo Rengket"
+    },
+    {
+      "code": 5319022037,
+      "name": "Deno"
+    }
+  ]
+}

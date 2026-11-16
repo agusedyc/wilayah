@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3511182001,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3511182002,
+      "name": "Sumber Gading"
+    },
+    {
+      "code": 3511182003,
+      "name": "Sukosari Kidul"
+    },
+    {
+      "code": 3511182004,
+      "name": "Tegaljati"
+    },
+    {
+      "code": 3511182005,
+      "name": "Rejo Agung"
+    },
+    {
+      "code": 3511182006,
+      "name": "Sumberwringin"
+    }
+  ]
+}

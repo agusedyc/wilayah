@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2104102001,
+      "name": "Busung Panjang"
+    },
+    {
+      "code": 2104102002,
+      "name": "Posek"
+    },
+    {
+      "code": 2104102003,
+      "name": "Suak Buaya"
+    }
+  ]
+}

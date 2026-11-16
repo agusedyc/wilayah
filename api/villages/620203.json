@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6202031012,
+      "name": "Kuala Kuayan"
+    },
+    {
+      "code": 6202032001,
+      "name": "Tangar"
+    },
+    {
+      "code": 6202032002,
+      "name": "Baampah"
+    },
+    {
+      "code": 6202032003,
+      "name": "Kawan Batu"
+    },
+    {
+      "code": 6202032004,
+      "name": "Tanjung Bantur"
+    },
+    {
+      "code": 6202032005,
+      "name": "Penda Durian"
+    },
+    {
+      "code": 6202032006,
+      "name": "Pahirangan"
+    },
+    {
+      "code": 6202032007,
+      "name": "Satiung"
+    },
+    {
+      "code": 6202032008,
+      "name": "Santilik"
+    },
+    {
+      "code": 6202032009,
+      "name": "Tangka Robah"
+    },
+    {
+      "code": 6202032010,
+      "name": "Pemantang"
+    },
+    {
+      "code": 6202032011,
+      "name": "Tumbang Sapiri"
+    },
+    {
+      "code": 6202032014,
+      "name": "Bawan"
+    },
+    {
+      "code": 6202032015,
+      "name": "Tanjung Jariangau"
+    },
+    {
+      "code": 6202032031,
+      "name": "Kapuk"
+    },
+    {
+      "code": 6202032032,
+      "name": "Pantap"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3204321001,
+      "name": "Baleendah"
+    },
+    {
+      "code": 3204321002,
+      "name": "Andir"
+    },
+    {
+      "code": 3204321003,
+      "name": "Manggahang"
+    },
+    {
+      "code": 3204321004,
+      "name": "Jelekong"
+    },
+    {
+      "code": 3204321008,
+      "name": "Wargamekar"
+    },
+    {
+      "code": 3204322005,
+      "name": "Bojongmalaka"
+    },
+    {
+      "code": 3204322006,
+      "name": "Rancamanyar"
+    },
+    {
+      "code": 3204322007,
+      "name": "Malakasari"
+    }
+  ]
+}

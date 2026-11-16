@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2102031001,
+      "name": "Tanjung Balai"
+    },
+    {
+      "code": 2102031002,
+      "name": "Teluk Air"
+    },
+    {
+      "code": 2102031003,
+      "name": "Sungai Lakam Timur"
+    },
+    {
+      "code": 2102031006,
+      "name": "Lubuk Semut"
+    },
+    {
+      "code": 2102031007,
+      "name": "Tanjung Balai Kota"
+    },
+    {
+      "code": 2102031008,
+      "name": "Sungai Lakam Barat"
+    }
+  ]
+}

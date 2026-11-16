@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9602092001,
+      "name": "Konda"
+    },
+    {
+      "code": 9602092002,
+      "name": "Wamargege"
+    },
+    {
+      "code": 9602092003,
+      "name": "Bariat"
+    },
+    {
+      "code": 9602092004,
+      "name": "Manelek"
+    },
+    {
+      "code": 9602092005,
+      "name": "Nagna"
+    }
+  ]
+}

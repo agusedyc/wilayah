@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3510222001,
+      "name": "Buluagung"
+    },
+    {
+      "code": 3510222002,
+      "name": "Siliragung"
+    },
+    {
+      "code": 3510222003,
+      "name": "Kesilir"
+    },
+    {
+      "code": 3510222004,
+      "name": "Seneporejo"
+    },
+    {
+      "code": 3510222005,
+      "name": "Barurejo"
+    }
+  ]
+}

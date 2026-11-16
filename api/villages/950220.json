@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9502202001,
+      "name": "Okelwel"
+    },
+    {
+      "code": 9502202002,
+      "name": "Kotyobakon"
+    },
+    {
+      "code": 9502202003,
+      "name": "Okteneng"
+    },
+    {
+      "code": 9502202004,
+      "name": "Tengnong"
+    }
+  ]
+}

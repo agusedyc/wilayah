@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9105132001,
+      "name": "Kaipuri"
+    },
+    {
+      "code": 9105132002,
+      "name": "Doreianmini"
+    },
+    {
+      "code": 9105132003,
+      "name": "Andersaria"
+    },
+    {
+      "code": 9105132004,
+      "name": "Kurudu"
+    },
+    {
+      "code": 9105132005,
+      "name": "Kirimbri"
+    },
+    {
+      "code": 9105132006,
+      "name": "Manusundu"
+    },
+    {
+      "code": 9105132007,
+      "name": "Mnukwar"
+    },
+    {
+      "code": 9105132008,
+      "name": "Mansesi"
+    }
+  ]
+}

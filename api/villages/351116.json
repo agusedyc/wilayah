@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3511162001,
+      "name": "Bandilan"
+    },
+    {
+      "code": 3511162002,
+      "name": "Sempol"
+    },
+    {
+      "code": 3511162003,
+      "name": "Tarum"
+    },
+    {
+      "code": 3511162005,
+      "name": "Prajekan Lor"
+    },
+    {
+      "code": 3511162006,
+      "name": "Prajekan Kidul"
+    },
+    {
+      "code": 3511162007,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3511162008,
+      "name": "Walidono"
+    }
+  ]
+}

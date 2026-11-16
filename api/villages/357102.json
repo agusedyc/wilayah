@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3571021001,
+      "name": "Semampir"
+    },
+    {
+      "code": 3571021002,
+      "name": "Balowerti"
+    },
+    {
+      "code": 3571021003,
+      "name": "Dandangan"
+    },
+    {
+      "code": 3571021004,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3571021005,
+      "name": "Kampung Dalem"
+    },
+    {
+      "code": 3571021006,
+      "name": "Setonopande"
+    },
+    {
+      "code": 3571021007,
+      "name": "Ringinanom"
+    },
+    {
+      "code": 3571021008,
+      "name": "Pakelan"
+    },
+    {
+      "code": 3571021009,
+      "name": "Setonogedong"
+    },
+    {
+      "code": 3571021010,
+      "name": "Kemasan"
+    },
+    {
+      "code": 3571021011,
+      "name": "Jagalan"
+    },
+    {
+      "code": 3571021012,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3571021013,
+      "name": "Kaliombo"
+    },
+    {
+      "code": 3571021014,
+      "name": "Ngronggo"
+    },
+    {
+      "code": 3571021015,
+      "name": "Manisrenggo"
+    },
+    {
+      "code": 3571021016,
+      "name": "Pocanan"
+    },
+    {
+      "code": 3571021017,
+      "name": "Rejomulyo"
+    }
+  ]
+}

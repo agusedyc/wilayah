@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7103202001,
+      "name": "Pintareng"
+    },
+    {
+      "code": 7103202002,
+      "name": "Basauh"
+    },
+    {
+      "code": 7103202003,
+      "name": "Tumalede"
+    },
+    {
+      "code": 7103202004,
+      "name": "Sampakang"
+    },
+    {
+      "code": 7103202005,
+      "name": "Dalokaweng"
+    },
+    {
+      "code": 7103202006,
+      "name": "Malisade"
+    }
+  ]
+}

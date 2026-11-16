@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3210052001,
+      "name": "Sagara"
+    },
+    {
+      "code": 3210052002,
+      "name": "Cibunut"
+    },
+    {
+      "code": 3210052003,
+      "name": "Tejamulya"
+    },
+    {
+      "code": 3210052004,
+      "name": "Sukasari Kaler"
+    },
+    {
+      "code": 3210052005,
+      "name": "Argamukti"
+    },
+    {
+      "code": 3210052006,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3210052007,
+      "name": "Sadasari"
+    },
+    {
+      "code": 3210052008,
+      "name": "Haurseah"
+    },
+    {
+      "code": 3210052009,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3210052010,
+      "name": "Cikaracak"
+    },
+    {
+      "code": 3210052011,
+      "name": "Heubeulisuk"
+    },
+    {
+      "code": 3210052012,
+      "name": "Sukasari Kidul"
+    },
+    {
+      "code": 3210052013,
+      "name": "Gunungwangi"
+    },
+    {
+      "code": 3210052014,
+      "name": "Argalingga"
+    }
+  ]
+}

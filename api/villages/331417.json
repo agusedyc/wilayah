@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3314172001,
+      "name": "Newung"
+    },
+    {
+      "code": 3314172002,
+      "name": "Jatitengah"
+    },
+    {
+      "code": 3314172003,
+      "name": "Bendo"
+    },
+    {
+      "code": 3314172004,
+      "name": "Juwok"
+    },
+    {
+      "code": 3314172005,
+      "name": "Pantirejo"
+    },
+    {
+      "code": 3314172006,
+      "name": "Majenang"
+    },
+    {
+      "code": 3314172007,
+      "name": "Karanganom"
+    },
+    {
+      "code": 3314172008,
+      "name": "Gebang"
+    },
+    {
+      "code": 3314172009,
+      "name": "Baleharjo"
+    }
+  ]
+}

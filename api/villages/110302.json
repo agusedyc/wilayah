@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "message": "Showing 37 villages",
+  "data": [
+    {
+      "code": 1103022001,
+      "name": "Blang Keumahang"
+    },
+    {
+      "code": 1103022002,
+      "name": "Blang Jambee"
+    },
+    {
+      "code": 1103022003,
+      "name": "Keumuneng"
+    },
+    {
+      "code": 1103022004,
+      "name": "Ladang Baro"
+    },
+    {
+      "code": 1103022005,
+      "name": "Buket Panyang"
+    },
+    {
+      "code": 1103022006,
+      "name": "Seuneubok Rambong"
+    },
+    {
+      "code": 1103022007,
+      "name": "Seuneubok Baro"
+    },
+    {
+      "code": 1103022008,
+      "name": "Blang Mideun"
+    },
+    {
+      "code": 1103022009,
+      "name": "Paya Bakong"
+    },
+    {
+      "code": 1103022010,
+      "name": "Teupin Raya"
+    },
+    {
+      "code": 1103022011,
+      "name": "Lhok Rambong"
+    },
+    {
+      "code": 1103022012,
+      "name": "Julok Tunong"
+    },
+    {
+      "code": 1103022013,
+      "name": "Ulee Ateung"
+    },
+    {
+      "code": 1103022014,
+      "name": "Ulee Blang"
+    },
+    {
+      "code": 1103022015,
+      "name": "Labuhan"
+    },
+    {
+      "code": 1103022016,
+      "name": "Naleung"
+    },
+    {
+      "code": 1103022017,
+      "name": "Mane Rampak"
+    },
+    {
+      "code": 1103022018,
+      "name": "Matang"
+    },
+    {
+      "code": 1103022019,
+      "name": "Blang Uyok"
+    },
+    {
+      "code": 1103022020,
+      "name": "Blang Pauh Sa"
+    },
+    {
+      "code": 1103022021,
+      "name": "Blang Pauh Dua"
+    },
+    {
+      "code": 1103022022,
+      "name": "Ulee Tanoh"
+    },
+    {
+      "code": 1103022023,
+      "name": "Keude Kuta Binjei"
+    },
+    {
+      "code": 1103022024,
+      "name": "Bukit Seroja"
+    },
+    {
+      "code": 1103022025,
+      "name": "Kuala Geulumpang"
+    },
+    {
+      "code": 1103022026,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1103022027,
+      "name": "Tumpok Teungoh"
+    },
+    {
+      "code": 1103022028,
+      "name": "Seumatang"
+    },
+    {
+      "code": 1103022029,
+      "name": "Ujong Tunong"
+    },
+    {
+      "code": 1103022030,
+      "name": "Bukit Dindeng"
+    },
+    {
+      "code": 1103022031,
+      "name": "Paya Pasi"
+    },
+    {
+      "code": 1103022032,
+      "name": "Alue Cek Doi"
+    },
+    {
+      "code": 1103022033,
+      "name": "Blang Gleum"
+    },
+    {
+      "code": 1103022034,
+      "name": "Tanjong Tok Blang"
+    },
+    {
+      "code": 1103022035,
+      "name": "Buket Makmu"
+    },
+    {
+      "code": 1103022036,
+      "name": "Lhok Seuntang"
+    },
+    {
+      "code": 1103022037,
+      "name": "Simpang Lhee"
+    }
+  ]
+}

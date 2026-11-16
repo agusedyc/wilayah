@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9602152001,
+      "name": "Mukamat"
+    },
+    {
+      "code": 9602152002,
+      "name": "Ikana"
+    },
+    {
+      "code": 9602152003,
+      "name": "Haemaran"
+    },
+    {
+      "code": 9602152004,
+      "name": "Siranggo"
+    },
+    {
+      "code": 9602152005,
+      "name": "Mogatemin"
+    },
+    {
+      "code": 9602152006,
+      "name": "Onimsefa"
+    },
+    {
+      "code": 9602152007,
+      "name": "Makaroro"
+    }
+  ]
+}

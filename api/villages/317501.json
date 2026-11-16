@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3175011001,
+      "name": "Pisangan Baru"
+    },
+    {
+      "code": 3175011002,
+      "name": "Utan Kayu Utara"
+    },
+    {
+      "code": 3175011003,
+      "name": "Kayu Manis"
+    },
+    {
+      "code": 3175011004,
+      "name": "Palmeriam"
+    },
+    {
+      "code": 3175011005,
+      "name": "Kebon Manggis"
+    },
+    {
+      "code": 3175011006,
+      "name": "Utan Kayu Selatan"
+    }
+  ]
+}

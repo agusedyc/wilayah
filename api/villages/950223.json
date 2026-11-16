@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9502232001,
+      "name": "Oktau"
+    },
+    {
+      "code": 9502232002,
+      "name": "Oktaru"
+    },
+    {
+      "code": 9502232003,
+      "name": "Okbem"
+    },
+    {
+      "code": 9502232004,
+      "name": "Okngam"
+    },
+    {
+      "code": 9502232005,
+      "name": "Bemhimiku"
+    },
+    {
+      "code": 9502232006,
+      "name": "Bilip Bayo"
+    },
+    {
+      "code": 9502232007,
+      "name": "Atang Doki"
+    },
+    {
+      "code": 9502232008,
+      "name": "Okalut Kumal"
+    },
+    {
+      "code": 9502232009,
+      "name": "Kaep"
+    }
+  ]
+}

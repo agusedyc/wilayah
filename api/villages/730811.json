@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7308112001,
+      "name": "Mappesangka"
+    },
+    {
+      "code": 7308112002,
+      "name": "Salebba"
+    },
+    {
+      "code": 7308112003,
+      "name": "Mattampae"
+    },
+    {
+      "code": 7308112004,
+      "name": "Pattimpa"
+    },
+    {
+      "code": 7308112005,
+      "name": "Tellu Boccoe"
+    },
+    {
+      "code": 7308112006,
+      "name": "Turu Adae"
+    },
+    {
+      "code": 7308112007,
+      "name": "Salampe"
+    },
+    {
+      "code": 7308112008,
+      "name": "Poleonro"
+    },
+    {
+      "code": 7308112009,
+      "name": "Bolli"
+    }
+  ]
+}

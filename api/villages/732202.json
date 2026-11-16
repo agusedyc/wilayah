@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7322021001,
+      "name": "Bone Bone"
+    },
+    {
+      "code": 7322022002,
+      "name": "Tamuku"
+    },
+    {
+      "code": 7322022007,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 7322022008,
+      "name": "Sukaraya"
+    },
+    {
+      "code": 7322022011,
+      "name": "Batang Tongka"
+    },
+    {
+      "code": 7322022012,
+      "name": "Patoloan"
+    },
+    {
+      "code": 7322022015,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 7322022017,
+      "name": "Pongko"
+    },
+    {
+      "code": 7322022018,
+      "name": "Bantimurung"
+    },
+    {
+      "code": 7322022020,
+      "name": "Muktisari"
+    },
+    {
+      "code": 7322022021,
+      "name": "Sadar"
+    }
+  ]
+}

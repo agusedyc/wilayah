@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1502042007,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 1502042008,
+      "name": "Tiangko"
+    },
+    {
+      "code": 1502042009,
+      "name": "Palipan"
+    },
+    {
+      "code": 1502042010,
+      "name": "Seringat"
+    },
+    {
+      "code": 1502042011,
+      "name": "Durian Lecah"
+    },
+    {
+      "code": 1502042015,
+      "name": "Bukit Batu"
+    },
+    {
+      "code": 1502042016,
+      "name": "Sungai Nilau"
+    },
+    {
+      "code": 1502042017,
+      "name": "Sungai Manau"
+    },
+    {
+      "code": 1502042025,
+      "name": "Benteng"
+    },
+    {
+      "code": 1502042026,
+      "name": "Gelanggang"
+    }
+  ]
+}

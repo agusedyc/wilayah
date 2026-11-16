@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3278021001,
+      "name": "Panglayungan"
+    },
+    {
+      "code": 3278021002,
+      "name": "Cipedes"
+    },
+    {
+      "code": 3278021003,
+      "name": "Nagarasari"
+    },
+    {
+      "code": 3278021004,
+      "name": "Sukamanah"
+    }
+  ]
+}

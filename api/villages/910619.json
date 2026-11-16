@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9106192001,
+      "name": "Mios Mangguandi"
+    },
+    {
+      "code": 9106192002,
+      "name": "Supraima"
+    },
+    {
+      "code": 9106192003,
+      "name": "Samber Pasi"
+    },
+    {
+      "code": 9106192004,
+      "name": "Pasi"
+    },
+    {
+      "code": 9106192005,
+      "name": "Mbromsi"
+    },
+    {
+      "code": 9106192006,
+      "name": "Karabai"
+    },
+    {
+      "code": 9106192007,
+      "name": "Saribra"
+    },
+    {
+      "code": 9106192008,
+      "name": "Nyansoren"
+    },
+    {
+      "code": 9106192009,
+      "name": "Sasari"
+    },
+    {
+      "code": 9106192010,
+      "name": "Padaido"
+    },
+    {
+      "code": 9106192011,
+      "name": "Yeri"
+    },
+    {
+      "code": 9106192012,
+      "name": "Anobo"
+    },
+    {
+      "code": 9106192013,
+      "name": "Yen Manaina"
+    }
+  ]
+}

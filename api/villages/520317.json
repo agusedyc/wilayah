@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5203171004,
+      "name": "Tanjung"
+    },
+    {
+      "code": 5203171005,
+      "name": "Suryawangi"
+    },
+    {
+      "code": 5203171007,
+      "name": "Ijobalit"
+    },
+    {
+      "code": 5203171012,
+      "name": "Geres"
+    },
+    {
+      "code": 5203172001,
+      "name": "Labuhan Haji"
+    },
+    {
+      "code": 5203172002,
+      "name": "Peneda Gandor"
+    },
+    {
+      "code": 5203172003,
+      "name": "Teros"
+    },
+    {
+      "code": 5203172006,
+      "name": "Korleko"
+    },
+    {
+      "code": 5203172008,
+      "name": "Kertasari"
+    },
+    {
+      "code": 5203172009,
+      "name": "Tirtanadi"
+    },
+    {
+      "code": 5203172010,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 5203172011,
+      "name": "Korleko Selatan"
+    }
+  ]
+}

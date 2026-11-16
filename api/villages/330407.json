@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3304071015,
+      "name": "Kalibenda"
+    },
+    {
+      "code": 3304072001,
+      "name": "Pringamba"
+    },
+    {
+      "code": 3304072002,
+      "name": "Sawal"
+    },
+    {
+      "code": 3304072003,
+      "name": "Panawaren"
+    },
+    {
+      "code": 3304072004,
+      "name": "Tunggara"
+    },
+    {
+      "code": 3304072005,
+      "name": "Randegan"
+    },
+    {
+      "code": 3304072006,
+      "name": "Bojanegara"
+    },
+    {
+      "code": 3304072007,
+      "name": "Bandingan"
+    },
+    {
+      "code": 3304072008,
+      "name": "Prigi"
+    },
+    {
+      "code": 3304072009,
+      "name": "Gembongan"
+    },
+    {
+      "code": 3304072010,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3304072011,
+      "name": "Karangmangu"
+    },
+    {
+      "code": 3304072012,
+      "name": "Wanacipta"
+    },
+    {
+      "code": 3304072013,
+      "name": "Sigaluh"
+    },
+    {
+      "code": 3304072014,
+      "name": "Singamerta"
+    }
+  ]
+}

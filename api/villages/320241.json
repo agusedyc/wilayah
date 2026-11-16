@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3202412001,
+      "name": "Sagaranten"
+    },
+    {
+      "code": 3202412002,
+      "name": "Curugluhur"
+    },
+    {
+      "code": 3202412003,
+      "name": "Cibaregbeg"
+    },
+    {
+      "code": 3202412004,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3202412005,
+      "name": "Datarnangka"
+    },
+    {
+      "code": 3202412006,
+      "name": "Puncakmanggis"
+    },
+    {
+      "code": 3202412007,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3202412008,
+      "name": "Gunungbentang"
+    },
+    {
+      "code": 3202412009,
+      "name": "Sinarbentang"
+    },
+    {
+      "code": 3202412010,
+      "name": "Cibitung"
+    },
+    {
+      "code": 3202412011,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3202412012,
+      "name": "Mekarsari"
+    }
+  ]
+}

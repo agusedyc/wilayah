@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7409091001,
+      "name": "Andowia"
+    },
+    {
+      "code": 7409092002,
+      "name": "Lahimbua"
+    },
+    {
+      "code": 7409092003,
+      "name": "Laronanga"
+    },
+    {
+      "code": 7409092004,
+      "name": "Lambudoni"
+    },
+    {
+      "code": 7409092005,
+      "name": "Lamondowo"
+    },
+    {
+      "code": 7409092006,
+      "name": "Labungga"
+    },
+    {
+      "code": 7409092007,
+      "name": "Mataiwoi"
+    },
+    {
+      "code": 7409092008,
+      "name": "Larobende"
+    },
+    {
+      "code": 7409092009,
+      "name": "Puusuli"
+    },
+    {
+      "code": 7409092010,
+      "name": "Banggarema"
+    },
+    {
+      "code": 7409092011,
+      "name": "Amolame"
+    },
+    {
+      "code": 7409092012,
+      "name": "Anggolohipo"
+    },
+    {
+      "code": 7409092013,
+      "name": "Puuwonua"
+    },
+    {
+      "code": 7409092014,
+      "name": "Ambake"
+    },
+    {
+      "code": 7409092015,
+      "name": "Waworate"
+    }
+  ]
+}

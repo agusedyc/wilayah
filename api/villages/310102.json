@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3101021001,
+      "name": "Pulau Untung Jawa"
+    },
+    {
+      "code": 3101021002,
+      "name": "Pulau Tidung"
+    },
+    {
+      "code": 3101021003,
+      "name": "Pulau Pari"
+    }
+  ]
+}

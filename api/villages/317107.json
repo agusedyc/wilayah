@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3171071001,
+      "name": "Gelora"
+    },
+    {
+      "code": 3171071002,
+      "name": "Bendungan Hilir"
+    },
+    {
+      "code": 3171071003,
+      "name": "Karet Tengsin"
+    },
+    {
+      "code": 3171071004,
+      "name": "Petamburan"
+    },
+    {
+      "code": 3171071005,
+      "name": "Kebon Melati"
+    },
+    {
+      "code": 3171071006,
+      "name": "Kebon Kacang"
+    },
+    {
+      "code": 3171071007,
+      "name": "Kampung Bali"
+    }
+  ]
+}

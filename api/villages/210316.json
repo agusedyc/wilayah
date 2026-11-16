@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2103162001,
+      "name": "Tapau"
+    },
+    {
+      "code": 2103162002,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 2103162003,
+      "name": "Air Lengit"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9207132001,
+      "name": "Kaprus"
+    },
+    {
+      "code": 9207132002,
+      "name": "Yarmatum"
+    },
+    {
+      "code": 9207132003,
+      "name": "Reyob"
+    },
+    {
+      "code": 9207132004,
+      "name": "Siresi"
+    },
+    {
+      "code": 9207132005,
+      "name": "Nuspairo"
+    }
+  ]
+}

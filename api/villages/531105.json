@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5311052001,
+      "name": "Billa"
+    },
+    {
+      "code": 5311052002,
+      "name": "Karita"
+    },
+    {
+      "code": 5311052003,
+      "name": "Kuki Talu"
+    },
+    {
+      "code": 5311052004,
+      "name": "Tapil"
+    },
+    {
+      "code": 5311052005,
+      "name": "Tarimbang"
+    },
+    {
+      "code": 5311052006,
+      "name": "Waikanabu"
+    },
+    {
+      "code": 5311052007,
+      "name": "Pindu Hurani"
+    },
+    {
+      "code": 5311052008,
+      "name": "Praing Kareha"
+    },
+    {
+      "code": 5311052009,
+      "name": "Wudi Pandak"
+    },
+    {
+      "code": 5311052011,
+      "name": "Bangga Watu"
+    }
+  ]
+}

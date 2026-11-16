@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3305182001,
+      "name": "Sidoharum"
+    },
+    {
+      "code": 3305182002,
+      "name": "Selokerto"
+    },
+    {
+      "code": 3305182003,
+      "name": "Kalibeji"
+    },
+    {
+      "code": 3305182004,
+      "name": "Jatinegara"
+    },
+    {
+      "code": 3305182005,
+      "name": "Bejiruyung"
+    },
+    {
+      "code": 3305182006,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3305182007,
+      "name": "Kedungjati"
+    },
+    {
+      "code": 3305182008,
+      "name": "Semali"
+    },
+    {
+      "code": 3305182009,
+      "name": "Bonosari"
+    },
+    {
+      "code": 3305182010,
+      "name": "Sempor"
+    },
+    {
+      "code": 3305182011,
+      "name": "Tunjungseto"
+    },
+    {
+      "code": 3305182012,
+      "name": "Sampang"
+    },
+    {
+      "code": 3305182013,
+      "name": "Donorojo"
+    },
+    {
+      "code": 3305182014,
+      "name": "Kedungwringin"
+    },
+    {
+      "code": 3305182015,
+      "name": "Kenteng"
+    },
+    {
+      "code": 3305182016,
+      "name": "Somagede"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9303072001,
+      "name": "Amazu"
+    },
+    {
+      "code": 9303072002,
+      "name": "Imembi"
+    },
+    {
+      "code": 9303072003,
+      "name": "Yemu"
+    },
+    {
+      "code": 9303072004,
+      "name": "Fomu"
+    },
+    {
+      "code": 9303072005,
+      "name": "Tiau"
+    },
+    {
+      "code": 9303072006,
+      "name": "Binerbis"
+    },
+    {
+      "code": 9303072007,
+      "name": "Tayau"
+    }
+  ]
+}

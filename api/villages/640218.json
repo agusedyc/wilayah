@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6402182001,
+      "name": "Muara Wis"
+    },
+    {
+      "code": 6402182002,
+      "name": "Sebemban"
+    },
+    {
+      "code": 6402182003,
+      "name": "Melintang"
+    },
+    {
+      "code": 6402182004,
+      "name": "Enggelam"
+    },
+    {
+      "code": 6402182005,
+      "name": "Lebak Mantan"
+    },
+    {
+      "code": 6402182006,
+      "name": "Lebak Cilong"
+    },
+    {
+      "code": 6402182007,
+      "name": "Muara Enggelam"
+    }
+  ]
+}

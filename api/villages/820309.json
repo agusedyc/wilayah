@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 8203092001,
+      "name": "Dorume"
+    },
+    {
+      "code": 8203092002,
+      "name": "Apule"
+    },
+    {
+      "code": 8203092003,
+      "name": "Asimiro"
+    },
+    {
+      "code": 8203092004,
+      "name": "Doitia"
+    },
+    {
+      "code": 8203092005,
+      "name": "Ngajam"
+    },
+    {
+      "code": 8203092006,
+      "name": "Kailupa"
+    },
+    {
+      "code": 8203092007,
+      "name": "Gisik"
+    },
+    {
+      "code": 8203092008,
+      "name": "Kapa Kapa"
+    },
+    {
+      "code": 8203092009,
+      "name": "Pacao"
+    },
+    {
+      "code": 8203092010,
+      "name": "Tate"
+    },
+    {
+      "code": 8203092011,
+      "name": "Posi- Posi"
+    },
+    {
+      "code": 8203092012,
+      "name": "Supu"
+    },
+    {
+      "code": 8203092022,
+      "name": "Igo"
+    },
+    {
+      "code": 8203092023,
+      "name": "Galao"
+    },
+    {
+      "code": 8203092024,
+      "name": "Teru-Teru"
+    },
+    {
+      "code": 8203092026,
+      "name": "Wori Moi"
+    },
+    {
+      "code": 8203092027,
+      "name": "Podol"
+    },
+    {
+      "code": 8203092028,
+      "name": "Momojiu"
+    }
+  ]
+}

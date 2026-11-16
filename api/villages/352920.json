@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3529202001,
+      "name": "Pancor"
+    },
+    {
+      "code": 3529202002,
+      "name": "Prambanan"
+    },
+    {
+      "code": 3529202003,
+      "name": "Gendang Timur"
+    },
+    {
+      "code": 3529202004,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 3529202005,
+      "name": "Jambuir"
+    },
+    {
+      "code": 3529202006,
+      "name": "Gayam"
+    },
+    {
+      "code": 3529202007,
+      "name": "Kalowang"
+    },
+    {
+      "code": 3529202008,
+      "name": "Nyamplong"
+    },
+    {
+      "code": 3529202009,
+      "name": "Gendang Barat"
+    },
+    {
+      "code": 3529202010,
+      "name": "Tarebung"
+    }
+  ]
+}

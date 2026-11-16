@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3174021001,
+      "name": "Setia Budi"
+    },
+    {
+      "code": 3174021002,
+      "name": "Karet Semanggi"
+    },
+    {
+      "code": 3174021003,
+      "name": "Karet Kuningan"
+    },
+    {
+      "code": 3174021004,
+      "name": "Karet"
+    },
+    {
+      "code": 3174021005,
+      "name": "Menteng Atas"
+    },
+    {
+      "code": 3174021006,
+      "name": "Pasar Manggis"
+    },
+    {
+      "code": 3174021007,
+      "name": "Guntur"
+    },
+    {
+      "code": 3174021008,
+      "name": "Kuningan Timur"
+    }
+  ]
+}

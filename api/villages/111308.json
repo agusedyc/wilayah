@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1113082001,
+      "name": "Pangur"
+    },
+    {
+      "code": 1113082002,
+      "name": "Badak"
+    },
+    {
+      "code": 1113082003,
+      "name": "Kendawi"
+    },
+    {
+      "code": 1113082004,
+      "name": "Sangir"
+    },
+    {
+      "code": 1113082005,
+      "name": "Panglima Linting"
+    },
+    {
+      "code": 1113082006,
+      "name": "Blangtemung"
+    },
+    {
+      "code": 1113082007,
+      "name": "Rerebe"
+    },
+    {
+      "code": 1113082008,
+      "name": "Uning Gelung"
+    },
+    {
+      "code": 1113082009,
+      "name": "Uning Sepakat"
+    }
+  ]
+}

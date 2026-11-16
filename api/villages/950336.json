@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503362001,
+      "name": "Weawen"
+    },
+    {
+      "code": 9503362002,
+      "name": "Kwelena"
+    },
+    {
+      "code": 9503362003,
+      "name": "Singokla"
+    },
+    {
+      "code": 9503362004,
+      "name": "Banga"
+    },
+    {
+      "code": 9503362005,
+      "name": "Soline"
+    },
+    {
+      "code": 9503362006,
+      "name": "Musan"
+    },
+    {
+      "code": 9503362007,
+      "name": "Salbi"
+    },
+    {
+      "code": 9503362008,
+      "name": "Erim"
+    }
+  ]
+}

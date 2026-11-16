@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6403132001,
+      "name": "Biatan Ulu"
+    },
+    {
+      "code": 6403132002,
+      "name": "Biatan Ilir"
+    },
+    {
+      "code": 6403132003,
+      "name": "Karangan"
+    },
+    {
+      "code": 6403132004,
+      "name": "Biatan Lempake"
+    },
+    {
+      "code": 6403132005,
+      "name": "Manunggal Jaya"
+    },
+    {
+      "code": 6403132006,
+      "name": "Biatan Bapinang"
+    },
+    {
+      "code": 6403132007,
+      "name": "Biatan Baru"
+    },
+    {
+      "code": 6403132008,
+      "name": "Bukit Makmur Jaya"
+    }
+  ]
+}

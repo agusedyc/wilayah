@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8206072001,
+      "name": "Dodaga"
+    },
+    {
+      "code": 8206072002,
+      "name": "Dakaino"
+    },
+    {
+      "code": 8206072003,
+      "name": "Akedaga"
+    },
+    {
+      "code": 8206072004,
+      "name": "Toboino"
+    },
+    {
+      "code": 8206072005,
+      "name": "Tutuling Jaya"
+    },
+    {
+      "code": 8206072006,
+      "name": "Woka Jaya"
+    },
+    {
+      "code": 8206072007,
+      "name": "Rawamangun"
+    },
+    {
+      "code": 8206072008,
+      "name": "Sidomulyo"
+    }
+  ]
+}

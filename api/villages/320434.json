@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3204342001,
+      "name": "Rancakasumba"
+    },
+    {
+      "code": 3204342002,
+      "name": "Solokanjeruk"
+    },
+    {
+      "code": 3204342003,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3204342004,
+      "name": "Panyadap"
+    },
+    {
+      "code": 3204342005,
+      "name": "Bojongemas"
+    },
+    {
+      "code": 3204342006,
+      "name": "Padamukti"
+    },
+    {
+      "code": 3204342007,
+      "name": "Langensari"
+    }
+  ]
+}

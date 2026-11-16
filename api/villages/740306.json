@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7403061004,
+      "name": "Napabalano"
+    },
+    {
+      "code": 7403061005,
+      "name": "Tampo"
+    },
+    {
+      "code": 7403062003,
+      "name": "Napalakura"
+    },
+    {
+      "code": 7403062006,
+      "name": "Pentiro"
+    },
+    {
+      "code": 7403062007,
+      "name": "Langkumapo"
+    },
+    {
+      "code": 7403062009,
+      "name": "Lambiku"
+    }
+  ]
+}

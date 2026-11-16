@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3512071002,
+      "name": "Patokan"
+    },
+    {
+      "code": 3512071003,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3512072001,
+      "name": "Kalibagor"
+    },
+    {
+      "code": 3512072004,
+      "name": "Kotakan"
+    },
+    {
+      "code": 3512072005,
+      "name": "Talkandang"
+    },
+    {
+      "code": 3512072006,
+      "name": "Olean"
+    }
+  ]
+}

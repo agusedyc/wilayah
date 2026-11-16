@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311011001,
+      "name": "Kambajawa"
+    },
+    {
+      "code": 5311011002,
+      "name": "Hambala"
+    },
+    {
+      "code": 5311011003,
+      "name": "Matawai"
+    },
+    {
+      "code": 5311011004,
+      "name": "Kamalaputi"
+    },
+    {
+      "code": 5311012012,
+      "name": "Lukukamaru"
+    },
+    {
+      "code": 5311012013,
+      "name": "Mbatakapidu"
+    },
+    {
+      "code": 5311012014,
+      "name": "Pambotandjara"
+    }
+  ]
+}

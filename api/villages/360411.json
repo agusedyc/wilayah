@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3604112001,
+      "name": "Kragilan"
+    },
+    {
+      "code": 3604112002,
+      "name": "Silebu"
+    },
+    {
+      "code": 3604112003,
+      "name": "Pematang"
+    },
+    {
+      "code": 3604112004,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3604112005,
+      "name": "Undar Andir"
+    },
+    {
+      "code": 3604112006,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3604112007,
+      "name": "Sentul"
+    },
+    {
+      "code": 3604112008,
+      "name": "Jeruk Tipis"
+    },
+    {
+      "code": 3604112011,
+      "name": "Kendayakan"
+    },
+    {
+      "code": 3604112012,
+      "name": "Tegalmaja"
+    },
+    {
+      "code": 3604112013,
+      "name": "Cisait"
+    },
+    {
+      "code": 3604112014,
+      "name": "Kramatjati"
+    }
+  ]
+}

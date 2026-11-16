@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7605011001,
+      "name": "Banggae"
+    },
+    {
+      "code": 7605011003,
+      "name": "Baru"
+    },
+    {
+      "code": 7605011007,
+      "name": "Pangali Ali"
+    },
+    {
+      "code": 7605011009,
+      "name": "Totoli"
+    },
+    {
+      "code": 7605011010,
+      "name": "Rangas"
+    },
+    {
+      "code": 7605011013,
+      "name": "Galung"
+    },
+    {
+      "code": 7605012011,
+      "name": "Palipi Soreang"
+    },
+    {
+      "code": 7605012012,
+      "name": "Pamboborang"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1502072009,
+      "name": "Muara Jernih"
+    },
+    {
+      "code": 1502072010,
+      "name": "Kapuk"
+    },
+    {
+      "code": 1502072011,
+      "name": "Pulau Aro"
+    },
+    {
+      "code": 1502072012,
+      "name": "Rantau Ngarau"
+    },
+    {
+      "code": 1502072013,
+      "name": "Medan Baru"
+    },
+    {
+      "code": 1502072014,
+      "name": "Muaro Seketuk"
+    }
+  ]
+}

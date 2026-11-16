@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9302202001,
+      "name": "Wanggom"
+    },
+    {
+      "code": 9302202002,
+      "name": "Kawagit"
+    },
+    {
+      "code": 9302202003,
+      "name": "Kombay"
+    },
+    {
+      "code": 9302202004,
+      "name": "Biwage 1"
+    },
+    {
+      "code": 9302202005,
+      "name": "Biwage 2"
+    },
+    {
+      "code": 9302202006,
+      "name": "Niop"
+    }
+  ]
+}

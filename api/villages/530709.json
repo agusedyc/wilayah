@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5307092001,
+      "name": "Runut"
+    },
+    {
+      "code": 5307092002,
+      "name": "Egon"
+    },
+    {
+      "code": 5307092003,
+      "name": "Pogon"
+    },
+    {
+      "code": 5307092004,
+      "name": "Aibura"
+    },
+    {
+      "code": 5307092005,
+      "name": "Wairbleler"
+    },
+    {
+      "code": 5307092006,
+      "name": "Hoder"
+    },
+    {
+      "code": 5307092007,
+      "name": "Wairterang"
+    },
+    {
+      "code": 5307092008,
+      "name": "Nangatobong"
+    },
+    {
+      "code": 5307092009,
+      "name": "Watudiran"
+    },
+    {
+      "code": 5307092010,
+      "name": "Mahe Kelan"
+    },
+    {
+      "code": 5307092011,
+      "name": "Egon Buluk"
+    }
+  ]
+}

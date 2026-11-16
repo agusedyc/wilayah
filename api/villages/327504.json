@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3275041001,
+      "name": "Pekayonjaya"
+    },
+    {
+      "code": 3275041002,
+      "name": "Margajaya"
+    },
+    {
+      "code": 3275041003,
+      "name": "Jakamulya"
+    },
+    {
+      "code": 3275041004,
+      "name": "Jakasetia"
+    },
+    {
+      "code": 3275041005,
+      "name": "Kayuringinjaya"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9304142001,
+      "name": "Yamkap"
+    },
+    {
+      "code": 9304142002,
+      "name": "Amkum"
+    },
+    {
+      "code": 9304142003,
+      "name": "Amaru"
+    },
+    {
+      "code": 9304142004,
+      "name": "Amkai"
+    },
+    {
+      "code": 9304142005,
+      "name": "Amagais"
+    },
+    {
+      "code": 9304142006,
+      "name": "Erosaman"
+    }
+  ]
+}

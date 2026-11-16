@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9105072001,
+      "name": "Tindaret"
+    },
+    {
+      "code": 9105072002,
+      "name": "Yobi"
+    },
+    {
+      "code": 9105072003,
+      "name": "Sambrawai"
+    },
+    {
+      "code": 9105072006,
+      "name": "Kiriyou"
+    },
+    {
+      "code": 9105072007,
+      "name": "Soromasen"
+    },
+    {
+      "code": 9105072009,
+      "name": "Roswari"
+    },
+    {
+      "code": 9105072010,
+      "name": "Doreimanona"
+    }
+  ]
+}

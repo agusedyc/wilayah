@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5314082001,
+      "name": "Lenguselu"
+    },
+    {
+      "code": 5314082002,
+      "name": "Daleholu"
+    },
+    {
+      "code": 5314082003,
+      "name": "Dodaek"
+    },
+    {
+      "code": 5314082004,
+      "name": "Tebole"
+    },
+    {
+      "code": 5314082005,
+      "name": "Inaoe"
+    },
+    {
+      "code": 5314082006,
+      "name": "Nggelodae"
+    },
+    {
+      "code": 5314082007,
+      "name": "Pilasue"
+    }
+  ]
+}

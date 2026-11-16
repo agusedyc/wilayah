@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1502202001,
+      "name": "Tambang Emas"
+    },
+    {
+      "code": 1502202002,
+      "name": "Tanjung Benuang"
+    },
+    {
+      "code": 1502202003,
+      "name": "Pulau Bayur"
+    },
+    {
+      "code": 1502202004,
+      "name": "Selango"
+    }
+  ]
+}

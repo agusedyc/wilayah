@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7308052001,
+      "name": "Bulu Bulu"
+    },
+    {
+      "code": 7308052002,
+      "name": "Gareccing"
+    },
+    {
+      "code": 7308052003,
+      "name": "Biccoing"
+    },
+    {
+      "code": 7308052004,
+      "name": "Ujunge"
+    },
+    {
+      "code": 7308052005,
+      "name": "Libureng"
+    },
+    {
+      "code": 7308052006,
+      "name": "Rappa"
+    },
+    {
+      "code": 7308052007,
+      "name": "Bacu"
+    },
+    {
+      "code": 7308052008,
+      "name": "Muara"
+    },
+    {
+      "code": 7308052009,
+      "name": "Bone Pute"
+    },
+    {
+      "code": 7308052010,
+      "name": "Padatuo"
+    },
+    {
+      "code": 7308052011,
+      "name": "Samaenre"
+    }
+  ]
+}

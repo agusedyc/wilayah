@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1608082002,
+      "name": "Jaya Mulya"
+    },
+    {
+      "code": 1608082003,
+      "name": "Gunung Sugih"
+    },
+    {
+      "code": 1608082007,
+      "name": "Margo Rejo"
+    },
+    {
+      "code": 1608082009,
+      "name": "Trimoharjo"
+    },
+    {
+      "code": 1608082010,
+      "name": "Taman Agung"
+    },
+    {
+      "code": 1608082011,
+      "name": "Krujon"
+    },
+    {
+      "code": 1608082013,
+      "name": "Karang Endah"
+    },
+    {
+      "code": 1608082014,
+      "name": "Sriwangi"
+    },
+    {
+      "code": 1608082015,
+      "name": "Cahaya Negeri"
+    },
+    {
+      "code": 1608082016,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 1608082017,
+      "name": "Taraman"
+    },
+    {
+      "code": 1608082025,
+      "name": "Mujo Rahayu"
+    },
+    {
+      "code": 1608082026,
+      "name": "Taman Harjo"
+    },
+    {
+      "code": 1608082027,
+      "name": "Margodadi"
+    },
+    {
+      "code": 1608082028,
+      "name": "Taraman Jaya"
+    },
+    {
+      "code": 1608082029,
+      "name": "Karang Marga"
+    },
+    {
+      "code": 1608082030,
+      "name": "Trimo Rejo"
+    },
+    {
+      "code": 1608082031,
+      "name": "Sriwangi Ulu"
+    },
+    {
+      "code": 1608082032,
+      "name": "Taman Mulyo"
+    }
+  ]
+}

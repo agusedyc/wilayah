@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7405212001,
+      "name": "Iwoimendoro"
+    },
+    {
+      "code": 7405212002,
+      "name": "Epeesi"
+    },
+    {
+      "code": 7405212003,
+      "name": "Lere"
+    },
+    {
+      "code": 7405212004,
+      "name": "Lipumasagena"
+    },
+    {
+      "code": 7405212005,
+      "name": "Lambandia"
+    },
+    {
+      "code": 7405212006,
+      "name": "Polo Pololi"
+    },
+    {
+      "code": 7405212007,
+      "name": "Basala"
+    },
+    {
+      "code": 7405212008,
+      "name": "Tombekuku"
+    },
+    {
+      "code": 7405212009,
+      "name": "Teporombua"
+    }
+  ]
+}

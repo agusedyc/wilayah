@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7203242001,
+      "name": "Tibo"
+    },
+    {
+      "code": 7203242002,
+      "name": "Kaliburu"
+    },
+    {
+      "code": 7203242003,
+      "name": "Batusuya"
+    },
+    {
+      "code": 7203242004,
+      "name": "Saloya"
+    },
+    {
+      "code": 7203242005,
+      "name": "Batusuya Go'o"
+    },
+    {
+      "code": 7203242006,
+      "name": "Kaliburu Kata"
+    }
+  ]
+}

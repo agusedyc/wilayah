@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1607202001,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1607202002,
+      "name": "Maju Ria"
+    },
+    {
+      "code": 1607202003,
+      "name": "Sri Agung"
+    },
+    {
+      "code": 1607202004,
+      "name": "Sumber Rejeki"
+    },
+    {
+      "code": 1607202005,
+      "name": "Tabala Jaya"
+    },
+    {
+      "code": 1607202006,
+      "name": "Jati Sari"
+    },
+    {
+      "code": 1607202007,
+      "name": "Mekar Sari"
+    }
+  ]
+}

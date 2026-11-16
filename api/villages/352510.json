@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 3525102001,
+      "name": "Tanggulrejo"
+    },
+    {
+      "code": 3525102002,
+      "name": "Morobakung"
+    },
+    {
+      "code": 3525102003,
+      "name": "Pejangganan"
+    },
+    {
+      "code": 3525102004,
+      "name": "Gumeno"
+    },
+    {
+      "code": 3525102005,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3525102006,
+      "name": "Ngampel"
+    },
+    {
+      "code": 3525102007,
+      "name": "Betoyokauman"
+    },
+    {
+      "code": 3525102008,
+      "name": "Sembayat"
+    },
+    {
+      "code": 3525102009,
+      "name": "Betoyoguci"
+    },
+    {
+      "code": 3525102010,
+      "name": "Leran"
+    },
+    {
+      "code": 3525102011,
+      "name": "Tebalo"
+    },
+    {
+      "code": 3525102012,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3525102013,
+      "name": "Banyuwangi"
+    },
+    {
+      "code": 3525102014,
+      "name": "Manyarejo"
+    },
+    {
+      "code": 3525102015,
+      "name": "Manyar Sidomukti"
+    },
+    {
+      "code": 3525102016,
+      "name": "Manyar Sidorukun"
+    },
+    {
+      "code": 3525102017,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3525102018,
+      "name": "Suci"
+    },
+    {
+      "code": 3525102019,
+      "name": "Paganden"
+    },
+    {
+      "code": 3525102020,
+      "name": "Pongangan"
+    },
+    {
+      "code": 3525102021,
+      "name": "Sukomulyo"
+    },
+    {
+      "code": 3525102022,
+      "name": "Yosowilangun"
+    },
+    {
+      "code": 3525102023,
+      "name": "Roomo"
+    }
+  ]
+}

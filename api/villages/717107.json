@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7171071001,
+      "name": "Wanea"
+    },
+    {
+      "code": 7171071002,
+      "name": "Tanjung Batu"
+    },
+    {
+      "code": 7171071003,
+      "name": "Pakowa"
+    },
+    {
+      "code": 7171071004,
+      "name": "Bumi Nyiur"
+    },
+    {
+      "code": 7171071005,
+      "name": "Ranotana Weru"
+    },
+    {
+      "code": 7171071006,
+      "name": "Teling Atas"
+    },
+    {
+      "code": 7171071007,
+      "name": "Tingkulu"
+    },
+    {
+      "code": 7171071008,
+      "name": "Karombasan Utara"
+    },
+    {
+      "code": 7171071009,
+      "name": "Karombasan Selatan"
+    }
+  ]
+}

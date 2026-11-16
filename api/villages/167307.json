@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1673071001,
+      "name": "Tanah Periuk"
+    },
+    {
+      "code": 1673071002,
+      "name": "Simpang Periuk"
+    },
+    {
+      "code": 1673071003,
+      "name": "Karang Ketuan"
+    },
+    {
+      "code": 1673071004,
+      "name": "Siring Agung"
+    },
+    {
+      "code": 1673071005,
+      "name": "Eka Marga"
+    },
+    {
+      "code": 1673071006,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1673071007,
+      "name": "Marga Rahayu"
+    },
+    {
+      "code": 1673071008,
+      "name": "Taba Pingin"
+    },
+    {
+      "code": 1673071009,
+      "name": "Moneng Sepati"
+    }
+  ]
+}

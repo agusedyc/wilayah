@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3508072001,
+      "name": "Darungan"
+    },
+    {
+      "code": 3508072002,
+      "name": "Kraton"
+    },
+    {
+      "code": 3508072003,
+      "name": "Wotgalih"
+    },
+    {
+      "code": 3508072004,
+      "name": "Tunjungrejo"
+    },
+    {
+      "code": 3508072005,
+      "name": "Yosowilangun Kidul"
+    },
+    {
+      "code": 3508072006,
+      "name": "Yosowilangun Lor"
+    },
+    {
+      "code": 3508072007,
+      "name": "Krai"
+    },
+    {
+      "code": 3508072008,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3508072009,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3508072010,
+      "name": "Munder"
+    },
+    {
+      "code": 3508072011,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3508072012,
+      "name": "Kalipepe"
+    }
+  ]
+}

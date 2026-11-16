@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9208072001,
+      "name": "Ure"
+    },
+    {
+      "code": 9208072002,
+      "name": "Wosokuno"
+    },
+    {
+      "code": 9208072003,
+      "name": "Urubika"
+    },
+    {
+      "code": 9208072004,
+      "name": "Wagoha"
+    },
+    {
+      "code": 9208072005,
+      "name": "Hairapara"
+    },
+    {
+      "code": 9208072006,
+      "name": "Omba Pamuku"
+    }
+  ]
+}

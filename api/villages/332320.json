@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3323202001,
+      "name": "Gemawang"
+    },
+    {
+      "code": 3323202002,
+      "name": "Muncar"
+    },
+    {
+      "code": 3323202003,
+      "name": "Kemiriombo"
+    },
+    {
+      "code": 3323202004,
+      "name": "Ngadisepi"
+    },
+    {
+      "code": 3323202005,
+      "name": "Krempong"
+    },
+    {
+      "code": 3323202006,
+      "name": "Sucen"
+    },
+    {
+      "code": 3323202007,
+      "name": "Karangseneng"
+    },
+    {
+      "code": 3323202008,
+      "name": "Banaran"
+    },
+    {
+      "code": 3323202009,
+      "name": "Kalibanger"
+    },
+    {
+      "code": 3323202010,
+      "name": "Jambon"
+    }
+  ]
+}

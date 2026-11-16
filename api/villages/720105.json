@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7201052009,
+      "name": "Nipa"
+    },
+    {
+      "code": 7201052010,
+      "name": "Kagitakan"
+    },
+    {
+      "code": 7201052011,
+      "name": "Sirom"
+    },
+    {
+      "code": 7201052012,
+      "name": "Poroan"
+    },
+    {
+      "code": 7201052013,
+      "name": "Lomba"
+    },
+    {
+      "code": 7201052014,
+      "name": "Bonebobakal"
+    },
+    {
+      "code": 7201052015,
+      "name": "Baruga"
+    },
+    {
+      "code": 7201052016,
+      "name": "Kotabaru"
+    },
+    {
+      "code": 7201052017,
+      "name": "Labotan"
+    },
+    {
+      "code": 7201052023,
+      "name": "Tinonda"
+    },
+    {
+      "code": 7201052027,
+      "name": "Bahari Makmur"
+    },
+    {
+      "code": 7201052028,
+      "name": "Kota Raya"
+    }
+  ]
+}

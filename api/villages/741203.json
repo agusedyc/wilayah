@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7412031004,
+      "name": "Ladianta"
+    },
+    {
+      "code": 7412032001,
+      "name": "Bangun Mekar"
+    },
+    {
+      "code": 7412032002,
+      "name": "Noko"
+    },
+    {
+      "code": 7412032003,
+      "name": "Tangkombuno"
+    },
+    {
+      "code": 7412032005,
+      "name": "Dimba"
+    },
+    {
+      "code": 7412032006,
+      "name": "Mata Dimba"
+    },
+    {
+      "code": 7412032007,
+      "name": "Puurau"
+    },
+    {
+      "code": 7412032008,
+      "name": "Watuondo"
+    },
+    {
+      "code": 7412032009,
+      "name": "Patande"
+    },
+    {
+      "code": 7412032010,
+      "name": "Baho Bubu"
+    }
+  ]
+}

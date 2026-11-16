@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6205092001,
+      "name": "Nihan Hilir"
+    },
+    {
+      "code": 6205092002,
+      "name": "Nihan Hulu"
+    },
+    {
+      "code": 6205092003,
+      "name": "Luwe Hilir"
+    },
+    {
+      "code": 6205092004,
+      "name": "Luwe Hulu"
+    },
+    {
+      "code": 6205092005,
+      "name": "Jangkang Baru"
+    },
+    {
+      "code": 6205092006,
+      "name": "Jangkang Lama"
+    },
+    {
+      "code": 6205092007,
+      "name": "Papar Pujung"
+    },
+    {
+      "code": 6205092008,
+      "name": "Teluk Malewai"
+    },
+    {
+      "code": 6205092009,
+      "name": "Benao Hilir"
+    },
+    {
+      "code": 6205092010,
+      "name": "Benao Hulu"
+    },
+    {
+      "code": 6205092011,
+      "name": "Karamuan"
+    }
+  ]
+}

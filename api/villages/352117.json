@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3521172001,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3521172002,
+      "name": "Mengger"
+    },
+    {
+      "code": 3521172003,
+      "name": "Gembol"
+    },
+    {
+      "code": 3521172004,
+      "name": "Sriwedari"
+    },
+    {
+      "code": 3521172005,
+      "name": "Bangunrejo"
+    },
+    {
+      "code": 3521172006,
+      "name": "Pandean"
+    },
+    {
+      "code": 3521172007,
+      "name": "Sekarjati"
+    }
+  ]
+}

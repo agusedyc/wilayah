@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 527201,
+      "name": "Rasanae Barat"
+    },
+    {
+      "code": 527202,
+      "name": "Rasanae Timur"
+    },
+    {
+      "code": 527203,
+      "name": "Asakota"
+    },
+    {
+      "code": 527204,
+      "name": "Raba"
+    },
+    {
+      "code": 527205,
+      "name": "Mpunda"
+    }
+  ]
+}

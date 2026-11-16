@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3512092001,
+      "name": "Tanjung Glugur"
+    },
+    {
+      "code": 3512092002,
+      "name": "Mangaran"
+    },
+    {
+      "code": 3512092003,
+      "name": "Tanjung Kamal"
+    },
+    {
+      "code": 3512092004,
+      "name": "Semiring"
+    },
+    {
+      "code": 3512092005,
+      "name": "Tanjung Pecinan"
+    },
+    {
+      "code": 3512092006,
+      "name": "Trebungan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9501152001,
+      "name": "Wouma"
+    },
+    {
+      "code": 9501152002,
+      "name": "Ketimavit"
+    },
+    {
+      "code": 9501152003,
+      "name": "Wesakma"
+    },
+    {
+      "code": 9501152004,
+      "name": "Logonoba"
+    },
+    {
+      "code": 9501152005,
+      "name": "Wesakin"
+    },
+    {
+      "code": 9501152006,
+      "name": "Pipitmo"
+    },
+    {
+      "code": 9501152007,
+      "name": "Sinarekowa"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6402042001,
+      "name": "Sepatin"
+    },
+    {
+      "code": 6402042002,
+      "name": "Muara Pantuan"
+    },
+    {
+      "code": 6402042003,
+      "name": "Tani Baru"
+    },
+    {
+      "code": 6402042004,
+      "name": "Kutai Lama"
+    },
+    {
+      "code": 6402042005,
+      "name": "Anggana"
+    },
+    {
+      "code": 6402042006,
+      "name": "Sungai Meriam"
+    },
+    {
+      "code": 6402042007,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6402042008,
+      "name": "Handil Terusan"
+    }
+  ]
+}

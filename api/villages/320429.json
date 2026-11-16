@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3204292001,
+      "name": "Ciparay"
+    },
+    {
+      "code": 3204292002,
+      "name": "Gunungleutik"
+    },
+    {
+      "code": 3204292003,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3204292004,
+      "name": "Cikoneng"
+    },
+    {
+      "code": 3204292005,
+      "name": "Ciheulang"
+    },
+    {
+      "code": 3204292006,
+      "name": "Pakutandang"
+    },
+    {
+      "code": 3204292007,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3204292008,
+      "name": "Manggungharja"
+    },
+    {
+      "code": 3204292009,
+      "name": "Sagaracipta"
+    },
+    {
+      "code": 3204292010,
+      "name": "Sarimahi"
+    },
+    {
+      "code": 3204292011,
+      "name": "Serangmekar"
+    },
+    {
+      "code": 3204292012,
+      "name": "Babakan"
+    },
+    {
+      "code": 3204292013,
+      "name": "Bumiwangi"
+    },
+    {
+      "code": 3204292014,
+      "name": "Mekarlaksana"
+    }
+  ]
+}

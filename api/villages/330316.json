@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3303162001,
+      "name": "Panunggalan"
+    },
+    {
+      "code": 3303162002,
+      "name": "Larangan"
+    },
+    {
+      "code": 3303162003,
+      "name": "Pasunggingan"
+    },
+    {
+      "code": 3303162004,
+      "name": "Pengadegan"
+    },
+    {
+      "code": 3303162005,
+      "name": "Karangjoho"
+    },
+    {
+      "code": 3303162006,
+      "name": "Bedagas"
+    },
+    {
+      "code": 3303162007,
+      "name": "Tumanggal"
+    },
+    {
+      "code": 3303162008,
+      "name": "Tegalpingen"
+    },
+    {
+      "code": 3303162009,
+      "name": "Tetel"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7504042003,
+      "name": "Marisa Selatan"
+    },
+    {
+      "code": 7504042004,
+      "name": "Marisa Utara"
+    },
+    {
+      "code": 7504042007,
+      "name": "Teratai"
+    },
+    {
+      "code": 7504042008,
+      "name": "Pohuwato"
+    },
+    {
+      "code": 7504042015,
+      "name": "Botubilotahu"
+    },
+    {
+      "code": 7504042016,
+      "name": "Palopo"
+    },
+    {
+      "code": 7504042017,
+      "name": "Pohuwato Timur"
+    },
+    {
+      "code": 7504042018,
+      "name": "Bulangita"
+    }
+  ]
+}

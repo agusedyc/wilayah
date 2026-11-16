@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8271011001,
+      "name": "Jambula"
+    },
+    {
+      "code": 8271011002,
+      "name": "Foramadiahi"
+    },
+    {
+      "code": 8271011003,
+      "name": "Kastela"
+    },
+    {
+      "code": 8271011004,
+      "name": "Rua"
+    },
+    {
+      "code": 8271011005,
+      "name": "Afe Taduma"
+    },
+    {
+      "code": 8271011019,
+      "name": "Dorpedu"
+    }
+  ]
+}

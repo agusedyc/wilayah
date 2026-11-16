@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3211052001,
+      "name": "Cisitu"
+    },
+    {
+      "code": 3211052002,
+      "name": "Situmekar"
+    },
+    {
+      "code": 3211052003,
+      "name": "Pajagan"
+    },
+    {
+      "code": 3211052004,
+      "name": "Cigintung"
+    },
+    {
+      "code": 3211052005,
+      "name": "Sundamekar"
+    },
+    {
+      "code": 3211052006,
+      "name": "Linggajaya"
+    },
+    {
+      "code": 3211052007,
+      "name": "Ranjeng"
+    },
+    {
+      "code": 3211052008,
+      "name": "Cilopang"
+    },
+    {
+      "code": 3211052009,
+      "name": "Cimarga"
+    },
+    {
+      "code": 3211052010,
+      "name": "Cinangsi"
+    }
+  ]
+}

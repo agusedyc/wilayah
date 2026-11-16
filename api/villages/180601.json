@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1806011001,
+      "name": "Baros"
+    },
+    {
+      "code": 1806011002,
+      "name": "Pasar Madang"
+    },
+    {
+      "code": 1806011003,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1806012016,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1806012019,
+      "name": "Penanggungan"
+    },
+    {
+      "code": 1806012020,
+      "name": "Terdana"
+    },
+    {
+      "code": 1806012021,
+      "name": "Kelungu"
+    },
+    {
+      "code": 1806012022,
+      "name": "Pardasuka"
+    },
+    {
+      "code": 1806012023,
+      "name": "Teratas"
+    },
+    {
+      "code": 1806012024,
+      "name": "Kusa"
+    },
+    {
+      "code": 1806012025,
+      "name": "Terbaya"
+    },
+    {
+      "code": 1806012026,
+      "name": "Kedamaian"
+    },
+    {
+      "code": 1806012027,
+      "name": "Kota Agung"
+    },
+    {
+      "code": 1806012039,
+      "name": "Kota Batu"
+    },
+    {
+      "code": 1806012040,
+      "name": "Campang Tiga"
+    },
+    {
+      "code": 1806012041,
+      "name": "Benteng Jaya"
+    }
+  ]
+}

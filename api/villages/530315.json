@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5303152001,
+      "name": "Buk"
+    },
+    {
+      "code": 5303152002,
+      "name": "Oenenu"
+    },
+    {
+      "code": 5303152003,
+      "name": "Nimasi"
+    },
+    {
+      "code": 5303152004,
+      "name": "Oelbonak"
+    },
+    {
+      "code": 5303152005,
+      "name": "Kuenak"
+    },
+    {
+      "code": 5303152006,
+      "name": "Oenino"
+    },
+    {
+      "code": 5303152007,
+      "name": "Oenenu Utara"
+    },
+    {
+      "code": 5303152008,
+      "name": "Oenenu Selatan"
+    },
+    {
+      "code": 5303152009,
+      "name": "Sono"
+    }
+  ]
+}

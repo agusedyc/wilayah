@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7322122001,
+      "name": "Bungapati"
+    },
+    {
+      "code": 7322122002,
+      "name": "Bungadidi"
+    },
+    {
+      "code": 7322122003,
+      "name": "Poreang"
+    },
+    {
+      "code": 7322122004,
+      "name": "Sumberdadi"
+    },
+    {
+      "code": 7322122005,
+      "name": "Patila"
+    },
+    {
+      "code": 7322122006,
+      "name": "Sidobinangun"
+    },
+    {
+      "code": 7322122007,
+      "name": "Rampoang"
+    },
+    {
+      "code": 7322122008,
+      "name": "Karondang"
+    },
+    {
+      "code": 7322122009,
+      "name": "Munte"
+    },
+    {
+      "code": 7322122010,
+      "name": "Sidomakmur"
+    }
+  ]
+}

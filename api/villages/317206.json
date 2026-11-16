@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3172061001,
+      "name": "Kelapa Gading Timur"
+    },
+    {
+      "code": 3172061002,
+      "name": "Pegangsaan Dua"
+    },
+    {
+      "code": 3172061003,
+      "name": "Kelapa Gading Barat"
+    }
+  ]
+}

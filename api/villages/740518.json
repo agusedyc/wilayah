@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7405182001,
+      "name": "Wolasi"
+    },
+    {
+      "code": 7405182002,
+      "name": "Aoma"
+    },
+    {
+      "code": 7405182003,
+      "name": "Amoito Jaya"
+    },
+    {
+      "code": 7405182004,
+      "name": "Leleka"
+    },
+    {
+      "code": 7405182005,
+      "name": "Mata Wolasi"
+    },
+    {
+      "code": 7405182006,
+      "name": "Ranowila"
+    },
+    {
+      "code": 7405182007,
+      "name": "Aunupe"
+    }
+  ]
+}

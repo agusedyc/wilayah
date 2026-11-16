@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1604262001,
+      "name": "Padang"
+    },
+    {
+      "code": 1604262002,
+      "name": "Tanjung Menang"
+    },
+    {
+      "code": 1604262003,
+      "name": "Lubuk Pedaro"
+    },
+    {
+      "code": 1604262004,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1604262005,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1604262006,
+      "name": "Talang Akar"
+    },
+    {
+      "code": 1604262007,
+      "name": "Lubuk Betung"
+    },
+    {
+      "code": 1604262008,
+      "name": "Perangai"
+    },
+    {
+      "code": 1604262009,
+      "name": "Geramat"
+    }
+  ]
+}

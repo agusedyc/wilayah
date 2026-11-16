@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7403241009,
+      "name": "Laimpi"
+    },
+    {
+      "code": 7403242001,
+      "name": "Lamanu"
+    },
+    {
+      "code": 7403242002,
+      "name": "Kawite Wite"
+    },
+    {
+      "code": 7403242003,
+      "name": "Bente"
+    },
+    {
+      "code": 7403242004,
+      "name": "Bea"
+    },
+    {
+      "code": 7403242006,
+      "name": "Rangka"
+    },
+    {
+      "code": 7403242010,
+      "name": "Kambawuna"
+    },
+    {
+      "code": 7403242011,
+      "name": "Kontumere"
+    },
+    {
+      "code": 7403242012,
+      "name": "Lamaeo"
+    },
+    {
+      "code": 7403242013,
+      "name": "Wantiworo"
+    },
+    {
+      "code": 7403242014,
+      "name": "Kasaka"
+    }
+  ]
+}

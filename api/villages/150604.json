@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1506041007,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1506042001,
+      "name": "Pematang Lumut"
+    },
+    {
+      "code": 1506042008,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 1506042009,
+      "name": "Serdang Jaya"
+    },
+    {
+      "code": 1506042010,
+      "name": "Terjun Gajah"
+    },
+    {
+      "code": 1506042011,
+      "name": "Lubuk Terentang"
+    },
+    {
+      "code": 1506042012,
+      "name": "Pematang Buluh"
+    },
+    {
+      "code": 1506042013,
+      "name": "Muntialo"
+    },
+    {
+      "code": 1506042014,
+      "name": "Teluk Kulbi"
+    },
+    {
+      "code": 1506042015,
+      "name": "Bunga Tanjung"
+    },
+    {
+      "code": 1506042016,
+      "name": "Sungai Terap"
+    },
+    {
+      "code": 1506042017,
+      "name": "Mandala Jaya"
+    }
+  ]
+}

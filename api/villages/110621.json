@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1106212001,
+      "name": "Meunasah Papeun"
+    },
+    {
+      "code": 1106212002,
+      "name": "Meunasah Baktrieng"
+    },
+    {
+      "code": 1106212003,
+      "name": "Leung Ie"
+    },
+    {
+      "code": 1106212004,
+      "name": "Lampermai"
+    },
+    {
+      "code": 1106212005,
+      "name": "Gle Deyah"
+    },
+    {
+      "code": 1106212006,
+      "name": "Miruk"
+    },
+    {
+      "code": 1106212007,
+      "name": "Lam Gapang"
+    },
+    {
+      "code": 1106212008,
+      "name": "Meunasah Manyang"
+    },
+    {
+      "code": 1106212009,
+      "name": "Meunasah Baet"
+    },
+    {
+      "code": 1106212010,
+      "name": "Meunasah Intan"
+    },
+    {
+      "code": 1106212011,
+      "name": "Rumpet"
+    },
+    {
+      "code": 1106212012,
+      "name": "Gla Meunasah Baro"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 3205142001,
+      "name": "Malangbong"
+    },
+    {
+      "code": 3205142002,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3205142003,
+      "name": "Cibunar"
+    },
+    {
+      "code": 3205142004,
+      "name": "Cikarag"
+    },
+    {
+      "code": 3205142005,
+      "name": "Sakawayana"
+    },
+    {
+      "code": 3205142006,
+      "name": "Mekarasih"
+    },
+    {
+      "code": 3205142007,
+      "name": "Cisitu"
+    },
+    {
+      "code": 3205142008,
+      "name": "Campaka"
+    },
+    {
+      "code": 3205142009,
+      "name": "Lewobaru"
+    },
+    {
+      "code": 3205142010,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3205142011,
+      "name": "Cilampuyang"
+    },
+    {
+      "code": 3205142012,
+      "name": "Cinagara"
+    },
+    {
+      "code": 3205142013,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3205142014,
+      "name": "Citeras"
+    },
+    {
+      "code": 3205142015,
+      "name": "Sukarasa"
+    },
+    {
+      "code": 3205142016,
+      "name": "Sekarwangi"
+    },
+    {
+      "code": 3205142017,
+      "name": "Kutanagara"
+    },
+    {
+      "code": 3205142018,
+      "name": "Sanding"
+    },
+    {
+      "code": 3205142019,
+      "name": "Cihaurkuning"
+    },
+    {
+      "code": 3205142020,
+      "name": "Baru Dua"
+    },
+    {
+      "code": 3205142021,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3205142022,
+      "name": "Bunisari"
+    },
+    {
+      "code": 3205142023,
+      "name": "Mekarmulya"
+    },
+    {
+      "code": 3205142024,
+      "name": "Girimakmur"
+    }
+  ]
+}

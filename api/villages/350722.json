@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3507222001,
+      "name": "Kucur"
+    },
+    {
+      "code": 3507222002,
+      "name": "Kalisongo"
+    },
+    {
+      "code": 3507222003,
+      "name": "Karangwidoro"
+    },
+    {
+      "code": 3507222004,
+      "name": "Petungsewu"
+    },
+    {
+      "code": 3507222005,
+      "name": "Selorejo"
+    },
+    {
+      "code": 3507222006,
+      "name": "Tegalweru"
+    },
+    {
+      "code": 3507222007,
+      "name": "Landungsari"
+    },
+    {
+      "code": 3507222008,
+      "name": "Mulyoagung"
+    },
+    {
+      "code": 3507222009,
+      "name": "Gadingkulon"
+    },
+    {
+      "code": 3507222010,
+      "name": "Sumbersekar"
+    }
+  ]
+}

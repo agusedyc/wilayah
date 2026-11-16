@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7403171002,
+      "name": "Palangga"
+    },
+    {
+      "code": 7403171005,
+      "name": "Wapunto"
+    },
+    {
+      "code": 7403172001,
+      "name": "Ghonsume"
+    },
+    {
+      "code": 7403172003,
+      "name": "Lagasa"
+    },
+    {
+      "code": 7403172004,
+      "name": "Ghone Bhalano"
+    },
+    {
+      "code": 7403172006,
+      "name": "Lasunapa"
+    },
+    {
+      "code": 7403172007,
+      "name": "Banggai"
+    }
+  ]
+}

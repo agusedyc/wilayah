@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9105042003,
+      "name": "Menawi"
+    },
+    {
+      "code": 9105042004,
+      "name": "Wadapi"
+    },
+    {
+      "code": 9105042009,
+      "name": "Kainui I"
+    },
+    {
+      "code": 9105042010,
+      "name": "Aitiri"
+    },
+    {
+      "code": 9105042011,
+      "name": "Wawuti"
+    },
+    {
+      "code": 9105042015,
+      "name": "Roipi"
+    },
+    {
+      "code": 9105042016,
+      "name": "Ransarnoni"
+    },
+    {
+      "code": 9105042021,
+      "name": "Kainui II"
+    },
+    {
+      "code": 9105042024,
+      "name": "Wanampompi"
+    },
+    {
+      "code": 9105042028,
+      "name": "Mananayam"
+    },
+    {
+      "code": 9105042030,
+      "name": "Roipi Dua"
+    }
+  ]
+}

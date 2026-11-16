@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3510232001,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3510232002,
+      "name": "Karangdoro"
+    },
+    {
+      "code": 3510232003,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3510232004,
+      "name": "Dasri"
+    },
+    {
+      "code": 3510232005,
+      "name": "Karangmulyo"
+    },
+    {
+      "code": 3510232006,
+      "name": "Tegalrejo"
+    }
+  ]
+}

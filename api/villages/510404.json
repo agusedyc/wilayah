@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5104042001,
+      "name": "Pejeng"
+    },
+    {
+      "code": 5104042002,
+      "name": "Sanding"
+    },
+    {
+      "code": 5104042003,
+      "name": "Tampaksiring"
+    },
+    {
+      "code": 5104042004,
+      "name": "Manukaya"
+    },
+    {
+      "code": 5104042005,
+      "name": "Pejeng Kawan"
+    },
+    {
+      "code": 5104042006,
+      "name": "Pejeng Kaja"
+    },
+    {
+      "code": 5104042007,
+      "name": "Pejeng Kangin"
+    },
+    {
+      "code": 5104042008,
+      "name": "Pejeng Kelod"
+    }
+  ]
+}

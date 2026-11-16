@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1604212001,
+      "name": "Sugi Waras"
+    },
+    {
+      "code": 1604212002,
+      "name": "Tanjung Periuk"
+    },
+    {
+      "code": 1604212003,
+      "name": "Tanjung Karangan"
+    },
+    {
+      "code": 1604212004,
+      "name": "Muara Tandi"
+    },
+    {
+      "code": 1604212005,
+      "name": "Darmo"
+    },
+    {
+      "code": 1604212006,
+      "name": "Indikat Ilir"
+    },
+    {
+      "code": 1604212007,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1604212008,
+      "name": "Mandi Angin"
+    },
+    {
+      "code": 1604212009,
+      "name": "Ngalam Baru"
+    },
+    {
+      "code": 1604212010,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1604212011,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1604212012,
+      "name": "Tanah Pilih"
+    },
+    {
+      "code": 1604212013,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1604212014,
+      "name": "Batay"
+    },
+    {
+      "code": 1604212015,
+      "name": "Suka Makmur"
+    }
+  ]
+}

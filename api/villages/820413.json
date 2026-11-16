@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8204132001,
+      "name": "Modayama"
+    },
+    {
+      "code": 8204132002,
+      "name": "Laromabati"
+    },
+    {
+      "code": 8204132003,
+      "name": "Gayap"
+    },
+    {
+      "code": 8204132004,
+      "name": "Ake Jailolo"
+    },
+    {
+      "code": 8204132005,
+      "name": "Wayasipang"
+    },
+    {
+      "code": 8204132006,
+      "name": "Ngokomalako"
+    }
+  ]
+}

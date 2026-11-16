@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7312051001,
+      "name": "Batu Batu"
+    },
+    {
+      "code": 7312051002,
+      "name": "Kaca"
+    },
+    {
+      "code": 7312051003,
+      "name": "Attang Salo"
+    },
+    {
+      "code": 7312051004,
+      "name": "Manorang Salo"
+    },
+    {
+      "code": 7312051005,
+      "name": "Limpomajang"
+    },
+    {
+      "code": 7312052006,
+      "name": "Bulue"
+    },
+    {
+      "code": 7312052007,
+      "name": "Panincong"
+    },
+    {
+      "code": 7312052008,
+      "name": "Patampanua"
+    },
+    {
+      "code": 7312052009,
+      "name": "Tellulimpoe"
+    },
+    {
+      "code": 7312052010,
+      "name": "Laringgi"
+    }
+  ]
+}

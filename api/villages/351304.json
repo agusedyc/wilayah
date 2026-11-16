@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3513042001,
+      "name": "Gunungtugel"
+    },
+    {
+      "code": 3513042002,
+      "name": "Kedungrejo"
+    },
+    {
+      "code": 3513042003,
+      "name": "Patokan"
+    },
+    {
+      "code": 3513042004,
+      "name": "Bantaran"
+    },
+    {
+      "code": 3513042005,
+      "name": "Legundi"
+    },
+    {
+      "code": 3513042006,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3513042007,
+      "name": "Kropak"
+    },
+    {
+      "code": 3513042008,
+      "name": "Besuk"
+    },
+    {
+      "code": 3513042009,
+      "name": "Kramatagung"
+    },
+    {
+      "code": 3513042010,
+      "name": "Karanganyar"
+    }
+  ]
+}

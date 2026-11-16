@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6107012001,
+      "name": "Sungai Duri"
+    },
+    {
+      "code": 6107012004,
+      "name": "Sungai Jaga A"
+    },
+    {
+      "code": 6107012005,
+      "name": "Sungai Jaga B"
+    },
+    {
+      "code": 6107012006,
+      "name": "Sungai Pangkalan I"
+    },
+    {
+      "code": 6107012007,
+      "name": "Sungai Pangkalan II"
+    }
+  ]
+}

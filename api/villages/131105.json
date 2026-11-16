@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1311052001,
+      "name": "Abai"
+    },
+    {
+      "code": 1311052002,
+      "name": "Dusun Tangah"
+    },
+    {
+      "code": 1311052003,
+      "name": "Lubuk Ulang Aling"
+    },
+    {
+      "code": 1311052004,
+      "name": "Ranah Pantai Cermin"
+    },
+    {
+      "code": 1311052005,
+      "name": "Sitapus"
+    },
+    {
+      "code": 1311052006,
+      "name": "Lubuk Ulang Aling Selatan"
+    },
+    {
+      "code": 1311052007,
+      "name": "Lubuk Ulang Aling Tengah"
+    }
+  ]
+}

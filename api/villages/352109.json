@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3521091013,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 3521091014,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3521091015,
+      "name": "Ketanggi"
+    },
+    {
+      "code": 3521091016,
+      "name": "Pelem"
+    },
+    {
+      "code": 3521092001,
+      "name": "Mangunharjo"
+    },
+    {
+      "code": 3521092002,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3521092003,
+      "name": "Kartoharjo"
+    },
+    {
+      "code": 3521092004,
+      "name": "Karangasri"
+    },
+    {
+      "code": 3521092005,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3521092006,
+      "name": "Beran"
+    },
+    {
+      "code": 3521092007,
+      "name": "Jururejo"
+    },
+    {
+      "code": 3521092008,
+      "name": "Grudo"
+    },
+    {
+      "code": 3521092009,
+      "name": "Watualang"
+    },
+    {
+      "code": 3521092010,
+      "name": "Ngawi"
+    },
+    {
+      "code": 3521092011,
+      "name": "Karangtengah Prandon"
+    },
+    {
+      "code": 3521092012,
+      "name": "Kerek"
+    }
+  ]
+}

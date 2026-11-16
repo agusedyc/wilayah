@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1702222001,
+      "name": "IV Suko Menanti"
+    },
+    {
+      "code": 1702222002,
+      "name": "Air Rusa"
+    },
+    {
+      "code": 1702222003,
+      "name": "Bengko"
+    },
+    {
+      "code": 1702222004,
+      "name": "Sinar Gunung"
+    },
+    {
+      "code": 1702222005,
+      "name": "Warung Pojok"
+    },
+    {
+      "code": 1702222006,
+      "name": "Talang Belitar"
+    }
+  ]
+}

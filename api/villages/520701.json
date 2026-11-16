@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5207012001,
+      "name": "Goa"
+    },
+    {
+      "code": 5207012002,
+      "name": "Belo"
+    },
+    {
+      "code": 5207012003,
+      "name": "Beru"
+    },
+    {
+      "code": 5207012009,
+      "name": "Dasan Anyar"
+    }
+  ]
+}

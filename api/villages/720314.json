@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7203142001,
+      "name": "Balukang"
+    },
+    {
+      "code": 7203142002,
+      "name": "Siwalempu"
+    },
+    {
+      "code": 7203142003,
+      "name": "Siboang"
+    },
+    {
+      "code": 7203142004,
+      "name": "Tonggolobibi"
+    },
+    {
+      "code": 7203142005,
+      "name": "Bou"
+    },
+    {
+      "code": 7203142011,
+      "name": "Samalili"
+    },
+    {
+      "code": 7203142012,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 7203142013,
+      "name": "Pangalasiang"
+    },
+    {
+      "code": 7203142014,
+      "name": "Balukang II"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 7371151001,
+      "name": "Barrang Caddi"
+    },
+    {
+      "code": 7371151002,
+      "name": "Barrang Lompo"
+    },
+    {
+      "code": 7371151003,
+      "name": "Kodingareng"
+    }
+  ]
+}

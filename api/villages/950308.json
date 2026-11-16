@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9503082001,
+      "name": "Munu"
+    },
+    {
+      "code": 9503082002,
+      "name": "Obio"
+    },
+    {
+      "code": 9503082003,
+      "name": "Pugun"
+    },
+    {
+      "code": 9503082004,
+      "name": "Ujin"
+    },
+    {
+      "code": 9503082005,
+      "name": "Yahufa"
+    },
+    {
+      "code": 9503082006,
+      "name": "Jibak"
+    },
+    {
+      "code": 9503082007,
+      "name": "Patin"
+    },
+    {
+      "code": 9503082008,
+      "name": "Hom hom"
+    },
+    {
+      "code": 9503082009,
+      "name": "Wendame"
+    },
+    {
+      "code": 9503082010,
+      "name": "Kwakenoro"
+    },
+    {
+      "code": 9503082011,
+      "name": "Busupa"
+    },
+    {
+      "code": 9503082012,
+      "name": "Yagebo"
+    },
+    {
+      "code": 9503082013,
+      "name": "Penigik"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9508202001,
+      "name": "Biripem"
+    },
+    {
+      "code": 9508202002,
+      "name": "Dakbri"
+    },
+    {
+      "code": 9508202003,
+      "name": "Abualak"
+    },
+    {
+      "code": 9508202004,
+      "name": "Urugom"
+    },
+    {
+      "code": 9508202005,
+      "name": "Area"
+    },
+    {
+      "code": 9508202006,
+      "name": "Wumaga"
+    },
+    {
+      "code": 9508202007,
+      "name": "Gulama"
+    },
+    {
+      "code": 9508202008,
+      "name": "Kigam"
+    }
+  ]
+}

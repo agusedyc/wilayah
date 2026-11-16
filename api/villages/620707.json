@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6207072001,
+      "name": "Terawan"
+    },
+    {
+      "code": 6207072002,
+      "name": "Selunuk"
+    },
+    {
+      "code": 6207072003,
+      "name": "Lanpasa"
+    },
+    {
+      "code": 6207072005,
+      "name": "Bangkal"
+    },
+    {
+      "code": 6207072006,
+      "name": "Tabiku"
+    }
+  ]
+}

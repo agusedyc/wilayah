@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6206122001,
+      "name": "Tumbang Baraoi"
+    },
+    {
+      "code": 6206122002,
+      "name": "Tumbang Jala"
+    },
+    {
+      "code": 6206122003,
+      "name": "Batu Badak"
+    },
+    {
+      "code": 6206122004,
+      "name": "Batu Tukan"
+    },
+    {
+      "code": 6206122005,
+      "name": "Tumbang Tangoi"
+    },
+    {
+      "code": 6206122006,
+      "name": "Nusa Kutau"
+    },
+    {
+      "code": 6206122007,
+      "name": "Tumbang Habangoi"
+    }
+  ]
+}

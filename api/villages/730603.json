@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7306031001,
+      "name": "Malakaji"
+    },
+    {
+      "code": 7306031002,
+      "name": "Cikoro"
+    },
+    {
+      "code": 7306032003,
+      "name": "Garing"
+    },
+    {
+      "code": 7306032004,
+      "name": "Datara"
+    },
+    {
+      "code": 7306032005,
+      "name": "Rappolemba"
+    },
+    {
+      "code": 7306032006,
+      "name": "Rappoala"
+    },
+    {
+      "code": 7306032007,
+      "name": "Tanete"
+    },
+    {
+      "code": 7306032008,
+      "name": "Bontobuddung"
+    }
+  ]
+}

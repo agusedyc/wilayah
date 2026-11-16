@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6301092001,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6301092002,
+      "name": "Gunung Mas"
+    },
+    {
+      "code": 6301092003,
+      "name": "Tajau Mulya"
+    },
+    {
+      "code": 6301092004,
+      "name": "Jilatan"
+    },
+    {
+      "code": 6301092005,
+      "name": "Durian Bungkuk"
+    },
+    {
+      "code": 6301092006,
+      "name": "Ambawang"
+    },
+    {
+      "code": 6301092007,
+      "name": "Damit"
+    },
+    {
+      "code": 6301092008,
+      "name": "Gunung Melati"
+    },
+    {
+      "code": 6301092009,
+      "name": "Bluru"
+    },
+    {
+      "code": 6301092010,
+      "name": "Pantai Linuh"
+    },
+    {
+      "code": 6301092011,
+      "name": "Damit Hulu"
+    },
+    {
+      "code": 6301092012,
+      "name": "Jilatan Alur"
+    },
+    {
+      "code": 6301092013,
+      "name": "Damar Lima"
+    },
+    {
+      "code": 6301092014,
+      "name": "Tajau Pecah"
+    }
+  ]
+}

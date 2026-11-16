@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1205141001,
+      "name": "Pelawi Utara"
+    },
+    {
+      "code": 1205141006,
+      "name": "Berandan Barat"
+    },
+    {
+      "code": 1205141007,
+      "name": "Berandan Timur Baru"
+    },
+    {
+      "code": 1205141008,
+      "name": "Berandan Timur"
+    },
+    {
+      "code": 1205142002,
+      "name": "Securai Utara"
+    },
+    {
+      "code": 1205142003,
+      "name": "Teluk Meku"
+    },
+    {
+      "code": 1205142004,
+      "name": "Pelawi Selatan"
+    },
+    {
+      "code": 1205142005,
+      "name": "Securai Selatan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1671031001,
+      "name": "Sebelas Ulu"
+    },
+    {
+      "code": 1671031002,
+      "name": "Dua-belas Ulu"
+    },
+    {
+      "code": 1671031003,
+      "name": "Tiga-belas Ulu"
+    },
+    {
+      "code": 1671031004,
+      "name": "Empat-belas Ulu"
+    },
+    {
+      "code": 1671031005,
+      "name": "Enam-belas Ulu"
+    },
+    {
+      "code": 1671031006,
+      "name": "Tanggatakat"
+    },
+    {
+      "code": 1671031007,
+      "name": "Sentosa"
+    }
+  ]
+}

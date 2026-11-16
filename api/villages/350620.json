@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3506202001,
+      "name": "Kalirong"
+    },
+    {
+      "code": 3506202002,
+      "name": "Kaliboto"
+    },
+    {
+      "code": 3506202003,
+      "name": "Bulusari"
+    },
+    {
+      "code": 3506202004,
+      "name": "Tarokan"
+    },
+    {
+      "code": 3506202005,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3506202006,
+      "name": "Sumberduren"
+    },
+    {
+      "code": 3506202007,
+      "name": "Kerep"
+    },
+    {
+      "code": 3506202008,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3506202009,
+      "name": "Jati"
+    },
+    {
+      "code": 3506202010,
+      "name": "Cengkok"
+    }
+  ]
+}

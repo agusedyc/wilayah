@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3604052001,
+      "name": "Kramatwatu"
+    },
+    {
+      "code": 3604052002,
+      "name": "Margasana"
+    },
+    {
+      "code": 3604052003,
+      "name": "Pejaten"
+    },
+    {
+      "code": 3604052004,
+      "name": "Toyomerto"
+    },
+    {
+      "code": 3604052005,
+      "name": "Harjatani"
+    },
+    {
+      "code": 3604052006,
+      "name": "Serdang"
+    },
+    {
+      "code": 3604052007,
+      "name": "Terate"
+    },
+    {
+      "code": 3604052008,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3604052009,
+      "name": "Pamengkang"
+    },
+    {
+      "code": 3604052010,
+      "name": "Pegadingan"
+    },
+    {
+      "code": 3604052011,
+      "name": "Lebakwana"
+    },
+    {
+      "code": 3604052012,
+      "name": "Wanayasa"
+    },
+    {
+      "code": 3604052013,
+      "name": "Pelamunan"
+    },
+    {
+      "code": 3604052014,
+      "name": "Teluk Terate"
+    },
+    {
+      "code": 3604052015,
+      "name": "Margatani"
+    }
+  ]
+}

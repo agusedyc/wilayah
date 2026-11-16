@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9507212001,
+      "name": "Nambume"
+    },
+    {
+      "code": 9507212002,
+      "name": "Indawa"
+    },
+    {
+      "code": 9507212003,
+      "name": "Eyuni"
+    },
+    {
+      "code": 9507212004,
+      "name": "Yugumia"
+    },
+    {
+      "code": 9507212005,
+      "name": "Dolinggame"
+    },
+    {
+      "code": 9507212006,
+      "name": "Tinggira"
+    },
+    {
+      "code": 9507212007,
+      "name": "Wumuak"
+    },
+    {
+      "code": 9507212008,
+      "name": "Andiaput"
+    },
+    {
+      "code": 9507212009,
+      "name": "Wuragabur"
+    }
+  ]
+}

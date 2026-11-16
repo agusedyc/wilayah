@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3212042003,
+      "name": "Loyang"
+    },
+    {
+      "code": 3212042004,
+      "name": "Amis"
+    },
+    {
+      "code": 3212042005,
+      "name": "Jatisura"
+    },
+    {
+      "code": 3212042006,
+      "name": "Jambak"
+    },
+    {
+      "code": 3212042007,
+      "name": "Cikedung"
+    },
+    {
+      "code": 3212042012,
+      "name": "Cikedung Lor"
+    },
+    {
+      "code": 3212042013,
+      "name": "Mundakjaya"
+    }
+  ]
+}

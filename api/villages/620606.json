@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6206062001,
+      "name": "Dehes"
+    },
+    {
+      "code": 6206062002,
+      "name": "Tumbang Labehu"
+    },
+    {
+      "code": 6206062003,
+      "name": "Tumbang Kaman"
+    },
+    {
+      "code": 6206062004,
+      "name": "Tumbang Manggo"
+    },
+    {
+      "code": 6206062005,
+      "name": "Kamanto"
+    },
+    {
+      "code": 6206062006,
+      "name": "Kuluk Habuhus"
+    },
+    {
+      "code": 6206062007,
+      "name": "Tumbang Kanei"
+    },
+    {
+      "code": 6206062008,
+      "name": "Tumbang Taranei"
+    },
+    {
+      "code": 6206062009,
+      "name": "Tumbang Kawei"
+    },
+    {
+      "code": 6206062010,
+      "name": "Tumbang Mangara"
+    },
+    {
+      "code": 6206062011,
+      "name": "Tumbang Pangka"
+    },
+    {
+      "code": 6206062012,
+      "name": "Tumbang Atei"
+    },
+    {
+      "code": 6206062020,
+      "name": "Daya Manunggal"
+    },
+    {
+      "code": 6206062021,
+      "name": "Rantau Bangkiang"
+    }
+  ]
+}

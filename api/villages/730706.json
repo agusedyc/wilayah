@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7307062001,
+      "name": "Lamatti Riattang"
+    },
+    {
+      "code": 7307062002,
+      "name": "Lamatti Riaja"
+    },
+    {
+      "code": 7307062003,
+      "name": "Bulu Tellue"
+    },
+    {
+      "code": 7307062004,
+      "name": "Duampanuae"
+    },
+    {
+      "code": 7307062005,
+      "name": "Tompobulu"
+    },
+    {
+      "code": 7307062006,
+      "name": "Lamatti Riawang"
+    },
+    {
+      "code": 7307062007,
+      "name": "Lappacinrana"
+    }
+  ]
+}

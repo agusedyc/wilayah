@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7604091001,
+      "name": "Matangnga"
+    },
+    {
+      "code": 7604092002,
+      "name": "Lilli"
+    },
+    {
+      "code": 7604092003,
+      "name": "Rangoan"
+    },
+    {
+      "code": 7604092004,
+      "name": "Tapua"
+    },
+    {
+      "code": 7604092005,
+      "name": "Mambu Tapua"
+    },
+    {
+      "code": 7604092006,
+      "name": "Ba'ba Tapua"
+    },
+    {
+      "code": 7604092007,
+      "name": "Katimbang"
+    }
+  ]
+}

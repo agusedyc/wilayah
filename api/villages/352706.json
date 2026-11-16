@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3527062001,
+      "name": "Banyukapah"
+    },
+    {
+      "code": 3527062002,
+      "name": "Rabasan"
+    },
+    {
+      "code": 3527062003,
+      "name": "Rohayu"
+    },
+    {
+      "code": 3527062004,
+      "name": "Kedungdung"
+    },
+    {
+      "code": 3527062005,
+      "name": "Komis"
+    },
+    {
+      "code": 3527062006,
+      "name": "Bajrasoka"
+    },
+    {
+      "code": 3527062007,
+      "name": "Kramat"
+    },
+    {
+      "code": 3527062008,
+      "name": "Nyeloh"
+    },
+    {
+      "code": 3527062009,
+      "name": "Banjar"
+    },
+    {
+      "code": 3527062010,
+      "name": "Ombul"
+    },
+    {
+      "code": 3527062011,
+      "name": "Pajeruan"
+    },
+    {
+      "code": 3527062012,
+      "name": "Moktesareh"
+    },
+    {
+      "code": 3527062013,
+      "name": "Batoporo Barat"
+    },
+    {
+      "code": 3527062014,
+      "name": "Batoporo Timur"
+    },
+    {
+      "code": 3527062015,
+      "name": "Gunungeleh"
+    },
+    {
+      "code": 3527062016,
+      "name": "Daleman"
+    },
+    {
+      "code": 3527062017,
+      "name": "Pasarenan"
+    },
+    {
+      "code": 3527062018,
+      "name": "Palenggian"
+    }
+  ]
+}

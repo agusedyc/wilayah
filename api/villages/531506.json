@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5315062001,
+      "name": "Mbuit"
+    },
+    {
+      "code": 5315062002,
+      "name": "Golo Ketak"
+    },
+    {
+      "code": 5315062003,
+      "name": "Pota Wangka"
+    },
+    {
+      "code": 5315062004,
+      "name": "Tanjung Boleng"
+    },
+    {
+      "code": 5315062005,
+      "name": "Golo Sepang"
+    },
+    {
+      "code": 5315062006,
+      "name": "Pontianak"
+    },
+    {
+      "code": 5315062007,
+      "name": "Sepang"
+    },
+    {
+      "code": 5315062008,
+      "name": "Golo Lujang"
+    },
+    {
+      "code": 5315062009,
+      "name": "Batu Tiga"
+    },
+    {
+      "code": 5315062020,
+      "name": "Golo Nobo"
+    },
+    {
+      "code": 5315062021,
+      "name": "Beo Sepang"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3404102001,
+      "name": "Purwomartani"
+    },
+    {
+      "code": 3404102002,
+      "name": "Tirtomartani"
+    },
+    {
+      "code": 3404102003,
+      "name": "Tamanmartani"
+    },
+    {
+      "code": 3404102004,
+      "name": "Selomartani"
+    }
+  ]
+}

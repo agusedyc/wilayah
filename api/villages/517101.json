@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5171011001,
+      "name": "Serangan"
+    },
+    {
+      "code": 5171011002,
+      "name": "Pedungan"
+    },
+    {
+      "code": 5171011003,
+      "name": "Sesetan"
+    },
+    {
+      "code": 5171011004,
+      "name": "Panjer"
+    },
+    {
+      "code": 5171011005,
+      "name": "Renon"
+    },
+    {
+      "code": 5171011006,
+      "name": "Sanur"
+    },
+    {
+      "code": 5171012007,
+      "name": "Sidakarya"
+    },
+    {
+      "code": 5171012008,
+      "name": "Pemogan"
+    },
+    {
+      "code": 5171012009,
+      "name": "Sanur Kaja"
+    },
+    {
+      "code": 5171012010,
+      "name": "Sanur Kauh"
+    }
+  ]
+}

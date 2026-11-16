@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9501382001,
+      "name": "Pupugoba"
+    },
+    {
+      "code": 9501382002,
+      "name": "Waima"
+    },
+    {
+      "code": 9501382003,
+      "name": "Yomote"
+    },
+    {
+      "code": 9501382004,
+      "name": "Yelelo"
+    }
+  ]
+}

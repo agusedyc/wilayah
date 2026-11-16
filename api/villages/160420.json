@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1604202001,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1604202002,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1604202003,
+      "name": "Penandingan"
+    },
+    {
+      "code": 1604202004,
+      "name": "Talang Tinggi"
+    },
+    {
+      "code": 1604202005,
+      "name": "Batu Niding"
+    },
+    {
+      "code": 1604202006,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1604202007,
+      "name": "Lubuk Mabar"
+    },
+    {
+      "code": 1604202008,
+      "name": "Pagar Agung"
+    },
+    {
+      "code": 1604202009,
+      "name": "Lubuk Tuba"
+    },
+    {
+      "code": 1604202010,
+      "name": "Lubuk Atung"
+    },
+    {
+      "code": 1604202011,
+      "name": "Muara Cawang"
+    }
+  ]
+}

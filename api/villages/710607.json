@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7106072008,
+      "name": "Likupang I"
+    },
+    {
+      "code": 7106072009,
+      "name": "Likupang II"
+    },
+    {
+      "code": 7106072010,
+      "name": "Serawet"
+    },
+    {
+      "code": 7106072011,
+      "name": "Wineru"
+    },
+    {
+      "code": 7106072012,
+      "name": "Maen"
+    },
+    {
+      "code": 7106072013,
+      "name": "Winuri"
+    },
+    {
+      "code": 7106072014,
+      "name": "Marinsow"
+    },
+    {
+      "code": 7106072015,
+      "name": "Pulisan"
+    },
+    {
+      "code": 7106072016,
+      "name": "Kalinaun"
+    },
+    {
+      "code": 7106072017,
+      "name": "Rinondoran"
+    },
+    {
+      "code": 7106072018,
+      "name": "Pinenek"
+    },
+    {
+      "code": 7106072019,
+      "name": "Lihunu"
+    },
+    {
+      "code": 7106072020,
+      "name": "Kahuhu"
+    },
+    {
+      "code": 7106072021,
+      "name": "Libas"
+    },
+    {
+      "code": 7106072022,
+      "name": "Likupang Kampung Ambong"
+    },
+    {
+      "code": 7106072023,
+      "name": "Kinunang"
+    },
+    {
+      "code": 7106072024,
+      "name": "Resetlemen"
+    },
+    {
+      "code": 7106072025,
+      "name": "Ehe"
+    }
+  ]
+}

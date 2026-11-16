@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1802222001,
+      "name": "Sendang Mulyo"
+    },
+    {
+      "code": 1802222002,
+      "name": "Sendang Rejo"
+    },
+    {
+      "code": 1802222003,
+      "name": "Sendang Baru"
+    },
+    {
+      "code": 1802222004,
+      "name": "Sendang Retno"
+    },
+    {
+      "code": 1802222005,
+      "name": "Sendang Asih"
+    },
+    {
+      "code": 1802222006,
+      "name": "Sendang Agung"
+    },
+    {
+      "code": 1802222007,
+      "name": "Sendang Asri"
+    },
+    {
+      "code": 1802222008,
+      "name": "Sendang Mukti"
+    },
+    {
+      "code": 1802222009,
+      "name": "Kutowinangun"
+    }
+  ]
+}

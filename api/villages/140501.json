@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1405011010,
+      "name": "Ukui I"
+    },
+    {
+      "code": 1405012001,
+      "name": "Air Hitam"
+    },
+    {
+      "code": 1405012002,
+      "name": "Air Emas"
+    },
+    {
+      "code": 1405012003,
+      "name": "Bukit Gajah"
+    },
+    {
+      "code": 1405012004,
+      "name": "Bukit Jaya"
+    },
+    {
+      "code": 1405012005,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1405012006,
+      "name": "Lubuk Kembang Bunga"
+    },
+    {
+      "code": 1405012007,
+      "name": "Lubuk Kembang Sari"
+    },
+    {
+      "code": 1405012008,
+      "name": "Silikuan Hulu"
+    },
+    {
+      "code": 1405012009,
+      "name": "Tri Mulya Jaya"
+    },
+    {
+      "code": 1405012011,
+      "name": "Ukui Dua"
+    },
+    {
+      "code": 1405012012,
+      "name": "Bagan Limau"
+    }
+  ]
+}

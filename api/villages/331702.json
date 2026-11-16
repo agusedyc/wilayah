@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3317022001,
+      "name": "Mlatirejo"
+    },
+    {
+      "code": 3317022002,
+      "name": "Sendangmulyo"
+    },
+    {
+      "code": 3317022003,
+      "name": "Pondokrejo"
+    },
+    {
+      "code": 3317022004,
+      "name": "Warugunung"
+    },
+    {
+      "code": 3317022005,
+      "name": "Pinggan"
+    },
+    {
+      "code": 3317022006,
+      "name": "Cabean Kidul"
+    },
+    {
+      "code": 3317022007,
+      "name": "Lambangan Kulon"
+    },
+    {
+      "code": 3317022008,
+      "name": "Lambangan Wetan"
+    },
+    {
+      "code": 3317022009,
+      "name": "Sumbermulyo"
+    },
+    {
+      "code": 3317022010,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3317022011,
+      "name": "Pasedan"
+    },
+    {
+      "code": 3317022012,
+      "name": "Ngulaan"
+    },
+    {
+      "code": 3317022013,
+      "name": "Jukung"
+    },
+    {
+      "code": 3317022014,
+      "name": "Bulu"
+    },
+    {
+      "code": 3317022015,
+      "name": "Mantingan"
+    },
+    {
+      "code": 3317022016,
+      "name": "Kadiwono"
+    }
+  ]
+}

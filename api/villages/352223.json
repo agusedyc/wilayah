@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3522232001,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3522232002,
+      "name": "Tulungrejo"
+    },
+    {
+      "code": 3522232003,
+      "name": "Trucuk"
+    },
+    {
+      "code": 3522232004,
+      "name": "Mori"
+    },
+    {
+      "code": 3522232005,
+      "name": "Padang"
+    },
+    {
+      "code": 3522232006,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3522232007,
+      "name": "Guyangan"
+    },
+    {
+      "code": 3522232008,
+      "name": "Sranak"
+    },
+    {
+      "code": 3522232009,
+      "name": "Sumbangtimun"
+    },
+    {
+      "code": 3522232010,
+      "name": "Kanten"
+    },
+    {
+      "code": 3522232011,
+      "name": "Kandangan"
+    },
+    {
+      "code": 3522232012,
+      "name": "Pagerwesi"
+    }
+  ]
+}

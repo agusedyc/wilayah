@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3213272001,
+      "name": "Manyeti"
+    },
+    {
+      "code": 3213272002,
+      "name": "Rawalele"
+    },
+    {
+      "code": 3213272003,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3213272004,
+      "name": "Situsari"
+    },
+    {
+      "code": 3213272005,
+      "name": "Dawuan Kaler"
+    },
+    {
+      "code": 3213272006,
+      "name": "Dawuan Kidul"
+    },
+    {
+      "code": 3213272007,
+      "name": "Cisampih"
+    },
+    {
+      "code": 3213272008,
+      "name": "Margasari"
+    },
+    {
+      "code": 3213272009,
+      "name": "Batusari"
+    },
+    {
+      "code": 3213272010,
+      "name": "Jambelaer"
+    }
+  ]
+}

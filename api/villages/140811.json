@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1408112001,
+      "name": "Lubuk Dalam"
+    },
+    {
+      "code": 1408112002,
+      "name": "Rawang Kao"
+    },
+    {
+      "code": 1408112003,
+      "name": "Sri Gading"
+    },
+    {
+      "code": 1408112004,
+      "name": "Sialang Baru"
+    },
+    {
+      "code": 1408112005,
+      "name": "Sialang Palas"
+    },
+    {
+      "code": 1408112006,
+      "name": "Empang Baru"
+    },
+    {
+      "code": 1408112007,
+      "name": "Rawang Kao Barat"
+    }
+  ]
+}

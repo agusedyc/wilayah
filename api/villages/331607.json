@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3316072001,
+      "name": "Nglobo"
+    },
+    {
+      "code": 3316072002,
+      "name": "Cabak"
+    },
+    {
+      "code": 3316072003,
+      "name": "Nglebur"
+    },
+    {
+      "code": 3316072004,
+      "name": "Janjang"
+    },
+    {
+      "code": 3316072005,
+      "name": "Bleboh"
+    },
+    {
+      "code": 3316072006,
+      "name": "Ketringan"
+    },
+    {
+      "code": 3316072007,
+      "name": "Singonegoro"
+    },
+    {
+      "code": 3316072008,
+      "name": "Jiken"
+    },
+    {
+      "code": 3316072009,
+      "name": "Genjahan"
+    },
+    {
+      "code": 3316072010,
+      "name": "Jiworejo"
+    },
+    {
+      "code": 3316072011,
+      "name": "Bangowan"
+    }
+  ]
+}

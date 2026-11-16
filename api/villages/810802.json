@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8108022001,
+      "name": "Wulur"
+    },
+    {
+      "code": 8108022002,
+      "name": "Batu Merah"
+    },
+    {
+      "code": 8108022003,
+      "name": "Kuaimelu"
+    },
+    {
+      "code": 8108022004,
+      "name": "Kumur"
+    },
+    {
+      "code": 8108022005,
+      "name": "Bebar Timur"
+    },
+    {
+      "code": 8108022006,
+      "name": "Ilih"
+    },
+    {
+      "code": 8108022007,
+      "name": "Kehli"
+    }
+  ]
+}

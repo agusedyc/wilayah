@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1203301001,
+      "name": "Panabari Hutatonga"
+    },
+    {
+      "code": 1203302002,
+      "name": "Aek Uncim"
+    },
+    {
+      "code": 1203302003,
+      "name": "Panindoan"
+    },
+    {
+      "code": 1203302004,
+      "name": "Aek Kahombu"
+    },
+    {
+      "code": 1203302005,
+      "name": "Batu Horpak"
+    },
+    {
+      "code": 1203302006,
+      "name": "Situmba"
+    },
+    {
+      "code": 1203302007,
+      "name": "Purba Tua"
+    },
+    {
+      "code": 1203302008,
+      "name": "Lumban Jabi-jabi"
+    },
+    {
+      "code": 1203302009,
+      "name": "Ingul Jae"
+    },
+    {
+      "code": 1203302010,
+      "name": "Sisoma"
+    },
+    {
+      "code": 1203302011,
+      "name": "Lumban Ratus"
+    },
+    {
+      "code": 1203302012,
+      "name": "Kota Tua"
+    },
+    {
+      "code": 1203302013,
+      "name": "Simaninggir Tano Tombangan"
+    },
+    {
+      "code": 1203302014,
+      "name": "Huta Raja"
+    },
+    {
+      "code": 1203302015,
+      "name": "Harean"
+    },
+    {
+      "code": 1203302016,
+      "name": "Aek Parupuk"
+    },
+    {
+      "code": 1203302017,
+      "name": "Tanjung Medan"
+    }
+  ]
+}

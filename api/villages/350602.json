@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3506022001,
+      "name": "Jugo"
+    },
+    {
+      "code": 3506022002,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3506022003,
+      "name": "Pamongan"
+    },
+    {
+      "code": 3506022004,
+      "name": "Petungroto"
+    },
+    {
+      "code": 3506022005,
+      "name": "Ngetrep"
+    },
+    {
+      "code": 3506022006,
+      "name": "Ponggok"
+    },
+    {
+      "code": 3506022007,
+      "name": "Ngadi"
+    },
+    {
+      "code": 3506022008,
+      "name": "Kranding"
+    },
+    {
+      "code": 3506022009,
+      "name": "Maesan"
+    },
+    {
+      "code": 3506022010,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3506022011,
+      "name": "Ploso"
+    },
+    {
+      "code": 3506022012,
+      "name": "Kraton"
+    },
+    {
+      "code": 3506022013,
+      "name": "Tambibendo"
+    },
+    {
+      "code": 3506022014,
+      "name": "Mojo"
+    },
+    {
+      "code": 3506022015,
+      "name": "Mlati"
+    },
+    {
+      "code": 3506022016,
+      "name": "Surat"
+    },
+    {
+      "code": 3506022017,
+      "name": "Sukoanyar"
+    },
+    {
+      "code": 3506022018,
+      "name": "Keniten"
+    },
+    {
+      "code": 3506022019,
+      "name": "Mondo"
+    },
+    {
+      "code": 3506022020,
+      "name": "Petok"
+    }
+  ]
+}

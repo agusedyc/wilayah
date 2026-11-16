@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 6402122001,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 6402122002,
+      "name": "Long Lalang"
+    },
+    {
+      "code": 6402122003,
+      "name": "Muara Ritan"
+    },
+    {
+      "code": 6402122004,
+      "name": "Buluk Sen"
+    },
+    {
+      "code": 6402122005,
+      "name": "Umaq Dian"
+    },
+    {
+      "code": 6402122006,
+      "name": "Muara Pedohon"
+    },
+    {
+      "code": 6402122007,
+      "name": "Bila Talang"
+    },
+    {
+      "code": 6402122008,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6402122009,
+      "name": "Umaq Tukung"
+    },
+    {
+      "code": 6402122010,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6402122011,
+      "name": "Umaq Bekuay"
+    },
+    {
+      "code": 6402122012,
+      "name": "Tabang Lama"
+    },
+    {
+      "code": 6402122013,
+      "name": "Muara Tiq"
+    },
+    {
+      "code": 6402122014,
+      "name": "Muara Salung"
+    },
+    {
+      "code": 6402122015,
+      "name": "Muara Kebaq"
+    },
+    {
+      "code": 6402122016,
+      "name": "Muara Belinau"
+    },
+    {
+      "code": 6402122017,
+      "name": "Muara Tubo"
+    },
+    {
+      "code": 6402122018,
+      "name": "Ritan Baru"
+    },
+    {
+      "code": 6402122019,
+      "name": "Tukung Ritan"
+    }
+  ]
+}

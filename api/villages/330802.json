@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3308022001,
+      "name": "Giripurno"
+    },
+    {
+      "code": 3308022002,
+      "name": "Giritengah"
+    },
+    {
+      "code": 3308022003,
+      "name": "Tuksongo"
+    },
+    {
+      "code": 3308022004,
+      "name": "Majaksingi"
+    },
+    {
+      "code": 3308022005,
+      "name": "Kenalan"
+    },
+    {
+      "code": 3308022006,
+      "name": "Bigaran"
+    },
+    {
+      "code": 3308022007,
+      "name": "Sambeng"
+    },
+    {
+      "code": 3308022008,
+      "name": "Candirejo"
+    },
+    {
+      "code": 3308022009,
+      "name": "Ngargogondo"
+    },
+    {
+      "code": 3308022010,
+      "name": "Wanurejo"
+    },
+    {
+      "code": 3308022011,
+      "name": "Borobudur"
+    },
+    {
+      "code": 3308022012,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3308022013,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3308022014,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3308022015,
+      "name": "Ngadiharjo"
+    },
+    {
+      "code": 3308022016,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3308022017,
+      "name": "Tegalarum"
+    },
+    {
+      "code": 3308022018,
+      "name": "Kembanglimus"
+    },
+    {
+      "code": 3308022019,
+      "name": "Wringinputih"
+    },
+    {
+      "code": 3308022020,
+      "name": "Bumiharjo"
+    }
+  ]
+}

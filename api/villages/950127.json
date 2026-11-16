@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9501272001,
+      "name": "Tagime"
+    },
+    {
+      "code": 9501272002,
+      "name": "Porome"
+    },
+    {
+      "code": 9501272003,
+      "name": "Onggobalo"
+    },
+    {
+      "code": 9501272004,
+      "name": "Lakwame"
+    },
+    {
+      "code": 9501272005,
+      "name": "Yordania Tulak"
+    },
+    {
+      "code": 9501272006,
+      "name": "Gume Kupari"
+    },
+    {
+      "code": 9501272007,
+      "name": "Wandinggunie"
+    },
+    {
+      "code": 9501272008,
+      "name": "Mulugame"
+    },
+    {
+      "code": 9501272009,
+      "name": "Lapeyo"
+    },
+    {
+      "code": 9501272010,
+      "name": "Yanggapura"
+    },
+    {
+      "code": 9501272011,
+      "name": "Yogobur"
+    }
+  ]
+}

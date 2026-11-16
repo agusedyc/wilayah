@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9501262001,
+      "name": "Koragi"
+    },
+    {
+      "code": 9501262002,
+      "name": "Telegai"
+    },
+    {
+      "code": 9501262003,
+      "name": "Kumudiluk"
+    },
+    {
+      "code": 9501262004,
+      "name": "Tagibaga"
+    },
+    {
+      "code": 9501262005,
+      "name": "Tenondek"
+    }
+  ]
+}

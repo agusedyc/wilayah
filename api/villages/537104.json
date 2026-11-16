@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5371041001,
+      "name": "Oebobo"
+    },
+    {
+      "code": 5371041008,
+      "name": "Oetete"
+    },
+    {
+      "code": 5371041009,
+      "name": "Oebufu"
+    },
+    {
+      "code": 5371041010,
+      "name": "Liliba"
+    },
+    {
+      "code": 5371041011,
+      "name": "Fatululi"
+    },
+    {
+      "code": 5371041013,
+      "name": "Kayu Putih"
+    },
+    {
+      "code": 5371041014,
+      "name": "Tuak Daun Merah"
+    }
+  ]
+}

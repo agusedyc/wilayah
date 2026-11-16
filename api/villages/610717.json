@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6107172001,
+      "name": "Sinar Tebudak"
+    },
+    {
+      "code": 6107172002,
+      "name": "Kamuh"
+    },
+    {
+      "code": 6107172003,
+      "name": "Bengkilu"
+    },
+    {
+      "code": 6107172004,
+      "name": "Pisak"
+    }
+  ]
+}

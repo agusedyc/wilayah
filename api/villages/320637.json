@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3206372001,
+      "name": "Kadipaten"
+    },
+    {
+      "code": 3206372002,
+      "name": "Dirgahayu"
+    },
+    {
+      "code": 3206372003,
+      "name": "Cibahayu"
+    },
+    {
+      "code": 3206372004,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3206372005,
+      "name": "Buniasih"
+    },
+    {
+      "code": 3206372006,
+      "name": "Pamoyanan"
+    }
+  ]
+}

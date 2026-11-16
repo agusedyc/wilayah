@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3303032001,
+      "name": "Bandingan"
+    },
+    {
+      "code": 3303032002,
+      "name": "Lamuk"
+    },
+    {
+      "code": 3303032003,
+      "name": "Sokanegara"
+    },
+    {
+      "code": 3303032004,
+      "name": "Gumiwang"
+    },
+    {
+      "code": 3303032005,
+      "name": "Krenceng"
+    },
+    {
+      "code": 3303032006,
+      "name": "Nangkasawit"
+    },
+    {
+      "code": 3303032007,
+      "name": "Pandansari"
+    },
+    {
+      "code": 3303032008,
+      "name": "Kejobong"
+    },
+    {
+      "code": 3303032009,
+      "name": "Langgar"
+    },
+    {
+      "code": 3303032010,
+      "name": "Timbang"
+    },
+    {
+      "code": 3303032011,
+      "name": "Nangkod"
+    },
+    {
+      "code": 3303032012,
+      "name": "Kedarpan"
+    },
+    {
+      "code": 3303032013,
+      "name": "Pangempon"
+    }
+  ]
+}

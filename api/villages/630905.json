@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6309052001,
+      "name": "Marindi"
+    },
+    {
+      "code": 6309052002,
+      "name": "Wirang"
+    },
+    {
+      "code": 6309052003,
+      "name": "Bongkang"
+    },
+    {
+      "code": 6309052004,
+      "name": "Nawin"
+    },
+    {
+      "code": 6309052005,
+      "name": "Halong"
+    },
+    {
+      "code": 6309052007,
+      "name": "Hayup"
+    },
+    {
+      "code": 6309052011,
+      "name": "Kembang Kuning"
+    },
+    {
+      "code": 6309052012,
+      "name": "Seradang"
+    },
+    {
+      "code": 6309052013,
+      "name": "Mahe Pasar"
+    },
+    {
+      "code": 6309052014,
+      "name": "Lok Batu"
+    },
+    {
+      "code": 6309052015,
+      "name": "Suput"
+    },
+    {
+      "code": 6309052018,
+      "name": "Surian"
+    },
+    {
+      "code": 6309052021,
+      "name": "Catur Karya"
+    }
+  ]
+}

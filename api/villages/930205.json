@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9302052001,
+      "name": "Getentiri"
+    },
+    {
+      "code": 9302052002,
+      "name": "Anggai"
+    },
+    {
+      "code": 9302052003,
+      "name": "Butiptiri"
+    },
+    {
+      "code": 9302052004,
+      "name": "Asiki"
+    },
+    {
+      "code": 9302052005,
+      "name": "Kapogu"
+    },
+    {
+      "code": 9302052006,
+      "name": "Miri"
+    }
+  ]
+}

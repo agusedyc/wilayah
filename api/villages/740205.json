@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7402051001,
+      "name": "Sampara"
+    },
+    {
+      "code": 7402051007,
+      "name": "Rawua"
+    },
+    {
+      "code": 7402052006,
+      "name": "Andepali"
+    },
+    {
+      "code": 7402052008,
+      "name": "Andaroa"
+    },
+    {
+      "code": 7402052009,
+      "name": "Puuloro"
+    },
+    {
+      "code": 7402052012,
+      "name": "Andadowi"
+    },
+    {
+      "code": 7402052027,
+      "name": "Totombe Jaya"
+    },
+    {
+      "code": 7402052028,
+      "name": "Bao-Bao"
+    },
+    {
+      "code": 7402052030,
+      "name": "Wawolimbue"
+    },
+    {
+      "code": 7402052036,
+      "name": "Baini"
+    },
+    {
+      "code": 7402052038,
+      "name": "Polua"
+    },
+    {
+      "code": 7402052041,
+      "name": "Pohara"
+    },
+    {
+      "code": 7402052048,
+      "name": "Bondoala"
+    },
+    {
+      "code": 7402052052,
+      "name": "Konggamea"
+    },
+    {
+      "code": 7402052057,
+      "name": "Wowa Andaroa"
+    }
+  ]
+}

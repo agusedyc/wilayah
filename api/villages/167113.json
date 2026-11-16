@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1671131001,
+      "name": "Kemasrindo"
+    },
+    {
+      "code": 1671131002,
+      "name": "Kemangagung"
+    },
+    {
+      "code": 1671131003,
+      "name": "Keramasan"
+    },
+    {
+      "code": 1671131004,
+      "name": "Kertapati"
+    },
+    {
+      "code": 1671131005,
+      "name": "Karyajaya"
+    },
+    {
+      "code": 1671131006,
+      "name": "Oganbaru"
+    }
+  ]
+}

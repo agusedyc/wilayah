@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3502171001,
+      "name": "Paju"
+    },
+    {
+      "code": 3502171002,
+      "name": "Brotonegaran"
+    },
+    {
+      "code": 3502171003,
+      "name": "Pakunden"
+    },
+    {
+      "code": 3502171004,
+      "name": "Kepatihan"
+    },
+    {
+      "code": 3502171005,
+      "name": "Surodikraman"
+    },
+    {
+      "code": 3502171006,
+      "name": "Purbosuman"
+    },
+    {
+      "code": 3502171007,
+      "name": "Tonatan"
+    },
+    {
+      "code": 3502171008,
+      "name": "Bangunsari"
+    },
+    {
+      "code": 3502171009,
+      "name": "Tamanarum"
+    },
+    {
+      "code": 3502171010,
+      "name": "Kauman"
+    },
+    {
+      "code": 3502171011,
+      "name": "Tambakbayan"
+    },
+    {
+      "code": 3502171012,
+      "name": "Pinggirsari"
+    },
+    {
+      "code": 3502171013,
+      "name": "Mangkujayan"
+    },
+    {
+      "code": 3502171014,
+      "name": "Banyudono"
+    },
+    {
+      "code": 3502171015,
+      "name": "Nologaten"
+    },
+    {
+      "code": 3502171016,
+      "name": "Cokromenggalan"
+    },
+    {
+      "code": 3502171017,
+      "name": "Keniten"
+    },
+    {
+      "code": 3502171018,
+      "name": "Jingglong"
+    },
+    {
+      "code": 3502171019,
+      "name": "Beduri"
+    }
+  ]
+}

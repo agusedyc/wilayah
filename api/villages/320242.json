@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202422001,
+      "name": "Curugkembar"
+    },
+    {
+      "code": 3202422002,
+      "name": "Cimenteng"
+    },
+    {
+      "code": 3202422003,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3202422004,
+      "name": "Sindangraja"
+    },
+    {
+      "code": 3202422005,
+      "name": "Mekartanjung"
+    },
+    {
+      "code": 3202422006,
+      "name": "Nagrakjaya"
+    },
+    {
+      "code": 3202422007,
+      "name": "Bojongtugu"
+    }
+  ]
+}

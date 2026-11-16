@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1703092001,
+      "name": "Lubuk Banyau"
+    },
+    {
+      "code": 1703092002,
+      "name": "Talang Tua"
+    },
+    {
+      "code": 1703092003,
+      "name": "Marga Sakti"
+    },
+    {
+      "code": 1703092004,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1703092005,
+      "name": "Padang Jaya"
+    },
+    {
+      "code": 1703092006,
+      "name": "Arga Mulya"
+    },
+    {
+      "code": 1703092007,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 1703092008,
+      "name": "Marga Jaya"
+    },
+    {
+      "code": 1703092009,
+      "name": "Tanah Hitam"
+    },
+    {
+      "code": 1703092010,
+      "name": "Tambak Rejo"
+    },
+    {
+      "code": 1703092011,
+      "name": "Sido Luhur"
+    },
+    {
+      "code": 1703092012,
+      "name": "Tanah Tinggi"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1278022001,
+      "name": "Ononamolo I Lot"
+    },
+    {
+      "code": 1278022002,
+      "name": "Fodo"
+    },
+    {
+      "code": 1278022003,
+      "name": "Faekhu"
+    },
+    {
+      "code": 1278022004,
+      "name": "Lolofaoso Tabaloho"
+    },
+    {
+      "code": 1278022005,
+      "name": "Lolomboli"
+    },
+    {
+      "code": 1278022006,
+      "name": "Mazingo Tabaloho"
+    },
+    {
+      "code": 1278022007,
+      "name": "Onozitoli Tabaloho"
+    },
+    {
+      "code": 1278022008,
+      "name": "Lololakha"
+    },
+    {
+      "code": 1278022009,
+      "name": "Sihare'o I Tabaloho"
+    },
+    {
+      "code": 1278022010,
+      "name": "Ombolata Simenari"
+    },
+    {
+      "code": 1278022011,
+      "name": "Hiligara"
+    },
+    {
+      "code": 1278022012,
+      "name": "Luahalaraga"
+    },
+    {
+      "code": 1278022013,
+      "name": "Sisobahili II Tanose'o"
+    },
+    {
+      "code": 1278022014,
+      "name": "Hiligodu Ombolata"
+    },
+    {
+      "code": 1278022015,
+      "name": "Tetehosi Ombolata"
+    }
+  ]
+}

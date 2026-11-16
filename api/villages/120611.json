@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1206112001,
+      "name": "Payung"
+    },
+    {
+      "code": 1206112004,
+      "name": "Rimo Kayu"
+    },
+    {
+      "code": 1206112007,
+      "name": "Selandi"
+    },
+    {
+      "code": 1206112012,
+      "name": "Batukarang"
+    },
+    {
+      "code": 1206112015,
+      "name": "Gurukinayan"
+    },
+    {
+      "code": 1206112017,
+      "name": "Cimbang"
+    },
+    {
+      "code": 1206112025,
+      "name": "Ujung Payung"
+    }
+  ]
+}

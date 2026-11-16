@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9202042001,
+      "name": "Prafi Mulya"
+    },
+    {
+      "code": 9202042002,
+      "name": "Umbuy"
+    },
+    {
+      "code": 9202042003,
+      "name": "Desay"
+    },
+    {
+      "code": 9202042008,
+      "name": "Ingkwoisi"
+    },
+    {
+      "code": 9202042010,
+      "name": "Somi"
+    },
+    {
+      "code": 9202042016,
+      "name": "Mebji"
+    }
+  ]
+}

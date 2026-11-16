@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 5309061013,
+      "name": "Bajawa"
+    },
+    {
+      "code": 5309061014,
+      "name": "Tanalodu"
+    },
+    {
+      "code": 5309061015,
+      "name": "Kisanata"
+    },
+    {
+      "code": 5309061016,
+      "name": "Jawameze"
+    },
+    {
+      "code": 5309061017,
+      "name": "Trikora"
+    },
+    {
+      "code": 5309061018,
+      "name": "Ngedukelu"
+    },
+    {
+      "code": 5309061019,
+      "name": "Lebijaga"
+    },
+    {
+      "code": 5309061020,
+      "name": "Faobata"
+    },
+    {
+      "code": 5309061021,
+      "name": "Susu"
+    },
+    {
+      "code": 5309062001,
+      "name": "Beja"
+    },
+    {
+      "code": 5309062002,
+      "name": "Bomari"
+    },
+    {
+      "code": 5309062003,
+      "name": "Wawowae"
+    },
+    {
+      "code": 5309062004,
+      "name": "Ubedolumolo"
+    },
+    {
+      "code": 5309062005,
+      "name": "Naru"
+    },
+    {
+      "code": 5309062009,
+      "name": "Beiwali"
+    },
+    {
+      "code": 5309062022,
+      "name": "Borani"
+    },
+    {
+      "code": 5309062023,
+      "name": "Langagedha"
+    },
+    {
+      "code": 5309062024,
+      "name": "Pape"
+    },
+    {
+      "code": 5309062025,
+      "name": "Bowali"
+    },
+    {
+      "code": 5309062026,
+      "name": "Ngoranale"
+    },
+    {
+      "code": 5309062027,
+      "name": "Ubedolumolo I"
+    },
+    {
+      "code": 5309062028,
+      "name": "Bela"
+    },
+    {
+      "code": 5309062029,
+      "name": "Ngadhamana"
+    },
+    {
+      "code": 5309062030,
+      "name": "Bolonga"
+    },
+    {
+      "code": 5309062031,
+      "name": "Boradho"
+    },
+    {
+      "code": 5309062032,
+      "name": "Mukuvoka"
+    },
+    {
+      "code": 5309062033,
+      "name": "Ubedolumolo II"
+    },
+    {
+      "code": 5309062034,
+      "name": "Langagedha I"
+    }
+  ]
+}

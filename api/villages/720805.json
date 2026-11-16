@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7208052005,
+      "name": "Tingkulang"
+    },
+    {
+      "code": 7208052006,
+      "name": "Tomini"
+    },
+    {
+      "code": 7208052007,
+      "name": "Ogotumubu"
+    },
+    {
+      "code": 7208052008,
+      "name": "Ambesia"
+    },
+    {
+      "code": 7208052009,
+      "name": "Tilung"
+    },
+    {
+      "code": 7208052022,
+      "name": "Ambesia Selatan"
+    },
+    {
+      "code": 7208052023,
+      "name": "Biga"
+    },
+    {
+      "code": 7208052024,
+      "name": "Tomini Utara"
+    },
+    {
+      "code": 7208052025,
+      "name": "Tomini Barat"
+    },
+    {
+      "code": 7208052026,
+      "name": "Supilopong"
+    },
+    {
+      "code": 7208052027,
+      "name": "Ambesia Barat"
+    },
+    {
+      "code": 7208052028,
+      "name": "Sipontan"
+    },
+    {
+      "code": 7208052029,
+      "name": "Ta'aniuge"
+    },
+    {
+      "code": 7208052030,
+      "name": "Ogotumubu Barat"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3505182001,
+      "name": "Slorok"
+    },
+    {
+      "code": 3505182002,
+      "name": "Suru"
+    },
+    {
+      "code": 3505182003,
+      "name": "Plumbangan"
+    },
+    {
+      "code": 3505182004,
+      "name": "Sumberurip"
+    },
+    {
+      "code": 3505182005,
+      "name": "Genengan"
+    },
+    {
+      "code": 3505182006,
+      "name": "Doko"
+    },
+    {
+      "code": 3505182007,
+      "name": "Jambepawon"
+    },
+    {
+      "code": 3505182008,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3505182009,
+      "name": "Resapombo"
+    },
+    {
+      "code": 3505182010,
+      "name": "Kalimanis"
+    }
+  ]
+}

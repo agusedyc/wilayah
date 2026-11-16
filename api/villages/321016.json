@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3210162001,
+      "name": "Cibogor"
+    },
+    {
+      "code": 3210162002,
+      "name": "Beber"
+    },
+    {
+      "code": 3210162003,
+      "name": "Beusi"
+    },
+    {
+      "code": 3210162004,
+      "name": "Tegalaren"
+    },
+    {
+      "code": 3210162005,
+      "name": "Buntu"
+    },
+    {
+      "code": 3210162006,
+      "name": "Ligung"
+    },
+    {
+      "code": 3210162007,
+      "name": "Wanasalam"
+    },
+    {
+      "code": 3210162008,
+      "name": "Ampel"
+    },
+    {
+      "code": 3210162009,
+      "name": "Bantarwaru"
+    },
+    {
+      "code": 3210162010,
+      "name": "Majasari"
+    },
+    {
+      "code": 3210162011,
+      "name": "Kedungkencana"
+    },
+    {
+      "code": 3210162012,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3210162013,
+      "name": "Leuweunghapit"
+    },
+    {
+      "code": 3210162014,
+      "name": "Ligung Lor"
+    },
+    {
+      "code": 3210162015,
+      "name": "Sukawera"
+    },
+    {
+      "code": 3210162016,
+      "name": "Gandawesi"
+    },
+    {
+      "code": 3210162017,
+      "name": "Kodasari"
+    },
+    {
+      "code": 3210162018,
+      "name": "Leuwiliang Baru"
+    },
+    {
+      "code": 3210162019,
+      "name": "Kedungsari"
+    }
+  ]
+}

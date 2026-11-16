@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3518192001,
+      "name": "Banjardowo"
+    },
+    {
+      "code": 3518192002,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3518192003,
+      "name": "Jegreg"
+    },
+    {
+      "code": 3518192004,
+      "name": "Kedungmlaten"
+    },
+    {
+      "code": 3518192005,
+      "name": "Prayungan"
+    },
+    {
+      "code": 3518192006,
+      "name": "Sumbersono"
+    },
+    {
+      "code": 3518192007,
+      "name": "Balongasem"
+    },
+    {
+      "code": 3518192008,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3518192009,
+      "name": "Ngringin"
+    },
+    {
+      "code": 3518192010,
+      "name": "Jatipunggur"
+    },
+    {
+      "code": 3518192011,
+      "name": "Ketandan"
+    },
+    {
+      "code": 3518192012,
+      "name": "Sumberkepuh"
+    },
+    {
+      "code": 3518192013,
+      "name": "Ngepung"
+    },
+    {
+      "code": 3518192014,
+      "name": "Pinggir"
+    },
+    {
+      "code": 3518192015,
+      "name": "Bangle"
+    },
+    {
+      "code": 3518192016,
+      "name": "Sumbermiri"
+    }
+  ]
+}

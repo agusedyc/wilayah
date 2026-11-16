@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 8101062001,
+      "name": "Wahai"
+    },
+    {
+      "code": 8101062002,
+      "name": "Air Besar"
+    },
+    {
+      "code": 8101062003,
+      "name": "Pasahari"
+    },
+    {
+      "code": 8101062007,
+      "name": "Manusela"
+    },
+    {
+      "code": 8101062009,
+      "name": "Kaloa"
+    },
+    {
+      "code": 8101062010,
+      "name": "Kanikeh"
+    },
+    {
+      "code": 8101062011,
+      "name": "Roho"
+    },
+    {
+      "code": 8101062012,
+      "name": "Huaulu"
+    },
+    {
+      "code": 8101062021,
+      "name": "Rumahsokat"
+    },
+    {
+      "code": 8101062022,
+      "name": "Sawai"
+    },
+    {
+      "code": 8101062044,
+      "name": "Besi"
+    },
+    {
+      "code": 8101062045,
+      "name": "Malaku"
+    },
+    {
+      "code": 8101062046,
+      "name": "Maraina"
+    },
+    {
+      "code": 8101062047,
+      "name": "Solea"
+    },
+    {
+      "code": 8101062048,
+      "name": "Elemata"
+    },
+    {
+      "code": 8101062049,
+      "name": "Hatuolo"
+    },
+    {
+      "code": 8101062050,
+      "name": "Siatele"
+    },
+    {
+      "code": 8101062051,
+      "name": "Masihulan"
+    },
+    {
+      "code": 8101062052,
+      "name": "Oping"
+    },
+    {
+      "code": 8101062053,
+      "name": "Olong"
+    }
+  ]
+}

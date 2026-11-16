@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1214222001,
+      "name": "Fadoro Ewo"
+    },
+    {
+      "code": 1214222002,
+      "name": "Soroma'asi"
+    },
+    {
+      "code": 1214222003,
+      "name": "Lauso"
+    },
+    {
+      "code": 1214222004,
+      "name": "Sisarahili Oyo"
+    },
+    {
+      "code": 1214222005,
+      "name": "Sisobahili Huruna"
+    },
+    {
+      "code": 1214222006,
+      "name": "Onohazumba"
+    },
+    {
+      "code": 1214222007,
+      "name": "Hiliweto"
+    },
+    {
+      "code": 1214222008,
+      "name": "Orahili Huruna"
+    },
+    {
+      "code": 1214222009,
+      "name": "Tetehosi"
+    },
+    {
+      "code": 1214222010,
+      "name": "Helefanikha"
+    }
+  ]
+}

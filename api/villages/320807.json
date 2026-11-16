@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3208072010,
+      "name": "Langseb"
+    },
+    {
+      "code": 3208072011,
+      "name": "Cinagara"
+    },
+    {
+      "code": 3208072012,
+      "name": "Cineumbeuy"
+    },
+    {
+      "code": 3208072013,
+      "name": "Cipetir"
+    },
+    {
+      "code": 3208072014,
+      "name": "Lebakwangi"
+    },
+    {
+      "code": 3208072015,
+      "name": "Mancagar"
+    },
+    {
+      "code": 3208072016,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3208072017,
+      "name": "Sindang"
+    },
+    {
+      "code": 3208072018,
+      "name": "Pasayangan"
+    },
+    {
+      "code": 3208072019,
+      "name": "Pajawankidul"
+    },
+    {
+      "code": 3208072020,
+      "name": "Pagundan"
+    },
+    {
+      "code": 3208072021,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3208072025,
+      "name": "Manggari"
+    }
+  ]
+}

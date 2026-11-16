@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1109042009,
+      "name": "Suak Buluh"
+    },
+    {
+      "code": 1109042012,
+      "name": "Air Dingin"
+    },
+    {
+      "code": 1109042013,
+      "name": "Ameria Bahagia"
+    },
+    {
+      "code": 1109042014,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1109042015,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1109042016,
+      "name": "Suka Karya"
+    },
+    {
+      "code": 1109042017,
+      "name": "Sinabang"
+    },
+    {
+      "code": 1109042018,
+      "name": "Amaiteng Mulia"
+    },
+    {
+      "code": 1109042019,
+      "name": "Lugu"
+    },
+    {
+      "code": 1109042020,
+      "name": "Sefoyan"
+    },
+    {
+      "code": 1109042021,
+      "name": "Ganting"
+    },
+    {
+      "code": 1109042022,
+      "name": "Kuala Makmur"
+    },
+    {
+      "code": 1109042023,
+      "name": "Ujung Tinggi"
+    },
+    {
+      "code": 1109042024,
+      "name": "Air Pinang"
+    },
+    {
+      "code": 1109042025,
+      "name": "Pulau Siumat"
+    },
+    {
+      "code": 1109042026,
+      "name": "Kota Batu"
+    },
+    {
+      "code": 1109042028,
+      "name": "Linggi"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6210071005,
+      "name": "Kampuri"
+    },
+    {
+      "code": 6210072001,
+      "name": "Tuyun"
+    },
+    {
+      "code": 6210072002,
+      "name": "Tumbang Empas"
+    },
+    {
+      "code": 6210072003,
+      "name": "Rangan Tate"
+    },
+    {
+      "code": 6210072004,
+      "name": "Dahian Tambuk"
+    },
+    {
+      "code": 6210072006,
+      "name": "Tumbang Danau"
+    }
+  ]
+}

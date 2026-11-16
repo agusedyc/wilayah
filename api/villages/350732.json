@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3507322001,
+      "name": "Kluwut"
+    },
+    {
+      "code": 3507322002,
+      "name": "Plandi"
+    },
+    {
+      "code": 3507322003,
+      "name": "Plaosan"
+    },
+    {
+      "code": 3507322004,
+      "name": "Kebobang"
+    },
+    {
+      "code": 3507322005,
+      "name": "Sumbertempur"
+    },
+    {
+      "code": 3507322006,
+      "name": "Sumberdem"
+    },
+    {
+      "code": 3507322007,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3507322008,
+      "name": "Bangelan"
+    }
+  ]
+}

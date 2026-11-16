@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7303052002,
+      "name": "Biangkeke"
+    },
+    {
+      "code": 7303052003,
+      "name": "Pa'jukukang"
+    },
+    {
+      "code": 7303052004,
+      "name": "Biangloe"
+    },
+    {
+      "code": 7303052005,
+      "name": "Borong Loe"
+    },
+    {
+      "code": 7303052006,
+      "name": "Baruga"
+    },
+    {
+      "code": 7303052010,
+      "name": "Nipa-nipa"
+    },
+    {
+      "code": 7303052012,
+      "name": "Papan Loe"
+    },
+    {
+      "code": 7303052013,
+      "name": "Rappoa"
+    },
+    {
+      "code": 7303052014,
+      "name": "Lumpangan"
+    },
+    {
+      "code": 7303052015,
+      "name": "Batu Karaeng"
+    }
+  ]
+}

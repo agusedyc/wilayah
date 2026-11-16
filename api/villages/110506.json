@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1105062001,
+      "name": "Alue Lhok"
+    },
+    {
+      "code": 1105062002,
+      "name": "Alue Bakong"
+    },
+    {
+      "code": 1105062003,
+      "name": "Beurawang"
+    },
+    {
+      "code": 1105062004,
+      "name": "Blang Sibeutong"
+    },
+    {
+      "code": 1105062005,
+      "name": "Cot Keumuneng"
+    },
+    {
+      "code": 1105062006,
+      "name": "Cot Lada"
+    },
+    {
+      "code": 1105062007,
+      "name": "Gunong Panah"
+    },
+    {
+      "code": 1105062008,
+      "name": "Kuta Padang"
+    },
+    {
+      "code": 1105062009,
+      "name": "Kuala Pling"
+    },
+    {
+      "code": 1105062010,
+      "name": "Layung"
+    },
+    {
+      "code": 1105062011,
+      "name": "Liceh"
+    },
+    {
+      "code": 1105062012,
+      "name": "Peulanteu SP"
+    },
+    {
+      "code": 1105062013,
+      "name": "Rambong"
+    },
+    {
+      "code": 1105062014,
+      "name": "Seumuleng"
+    },
+    {
+      "code": 1105062015,
+      "name": "Suak Pangkat"
+    },
+    {
+      "code": 1105062016,
+      "name": "Seuneubok Trap"
+    },
+    {
+      "code": 1105062017,
+      "name": "Ulee Blang"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3506042001,
+      "name": "Tales"
+    },
+    {
+      "code": 3506042002,
+      "name": "Seketi"
+    },
+    {
+      "code": 3506042003,
+      "name": "Banggle"
+    },
+    {
+      "code": 3506042004,
+      "name": "Branggahan"
+    },
+    {
+      "code": 3506042005,
+      "name": "Slumbung"
+    },
+    {
+      "code": 3506042006,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3506042007,
+      "name": "Purwokerto"
+    },
+    {
+      "code": 3506042008,
+      "name": "Ngadiluwih"
+    },
+    {
+      "code": 3506042009,
+      "name": "Badal"
+    },
+    {
+      "code": 3506042010,
+      "name": "Badal Pandean"
+    },
+    {
+      "code": 3506042011,
+      "name": "Rembang"
+    },
+    {
+      "code": 3506042012,
+      "name": "Rembangkepuh"
+    },
+    {
+      "code": 3506042013,
+      "name": "Bedug"
+    },
+    {
+      "code": 3506042014,
+      "name": "Mangunrejo"
+    },
+    {
+      "code": 3506042015,
+      "name": "Banjarejo"
+    },
+    {
+      "code": 3506042016,
+      "name": "Wonorejo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6304072001,
+      "name": "Sungai Pantai"
+    },
+    {
+      "code": 6304072002,
+      "name": "Pindahan Baru"
+    },
+    {
+      "code": 6304072003,
+      "name": "Sungai Gampa Asahi"
+    },
+    {
+      "code": 6304072004,
+      "name": "Sungai Gampa"
+    },
+    {
+      "code": 6304072005,
+      "name": "Sungai Sahurai"
+    },
+    {
+      "code": 6304072006,
+      "name": "Simpang Arja"
+    },
+    {
+      "code": 6304072007,
+      "name": "Sinar Baru"
+    },
+    {
+      "code": 6304072008,
+      "name": "Sungai Bamban"
+    },
+    {
+      "code": 6304072009,
+      "name": "Danda Jaya"
+    }
+  ]
+}

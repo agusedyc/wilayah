@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1906042001,
+      "name": "Mentawak"
+    },
+    {
+      "code": 1906042002,
+      "name": "Senyubuk"
+    },
+    {
+      "code": 1906042003,
+      "name": "Cendil"
+    },
+    {
+      "code": 1906042005,
+      "name": "Buding"
+    },
+    {
+      "code": 1906042006,
+      "name": "Mayang"
+    },
+    {
+      "code": 1906042007,
+      "name": "Pembaharuan"
+    }
+  ]
+}

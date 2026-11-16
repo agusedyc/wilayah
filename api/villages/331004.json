@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3310042001,
+      "name": "Ngerangan"
+    },
+    {
+      "code": 3310042002,
+      "name": "Jambakan"
+    },
+    {
+      "code": 3310042003,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3310042004,
+      "name": "Jarum"
+    },
+    {
+      "code": 3310042005,
+      "name": "Nengahan"
+    },
+    {
+      "code": 3310042006,
+      "name": "Bogem"
+    },
+    {
+      "code": 3310042007,
+      "name": "Paseban"
+    },
+    {
+      "code": 3310042008,
+      "name": "Krikilan"
+    },
+    {
+      "code": 3310042009,
+      "name": "Beluk"
+    },
+    {
+      "code": 3310042010,
+      "name": "Banyuripan"
+    },
+    {
+      "code": 3310042011,
+      "name": "Gununggajah"
+    },
+    {
+      "code": 3310042012,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3310042013,
+      "name": "Talang"
+    },
+    {
+      "code": 3310042014,
+      "name": "Tawangrejo"
+    },
+    {
+      "code": 3310042015,
+      "name": "Kebon"
+    },
+    {
+      "code": 3310042016,
+      "name": "Jotangan"
+    },
+    {
+      "code": 3310042017,
+      "name": "Krakitan"
+    },
+    {
+      "code": 3310042018,
+      "name": "Wiro"
+    }
+  ]
+}

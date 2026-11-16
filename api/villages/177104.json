@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1771041001,
+      "name": "Kandang Limun"
+    },
+    {
+      "code": 1771041002,
+      "name": "Bentiring"
+    },
+    {
+      "code": 1771041003,
+      "name": "Pematang Gubernur"
+    },
+    {
+      "code": 1771041004,
+      "name": "Rawa Makmur"
+    },
+    {
+      "code": 1771041005,
+      "name": "Beringin Raya"
+    },
+    {
+      "code": 1771041006,
+      "name": "Bentiring Permai"
+    },
+    {
+      "code": 1771041007,
+      "name": "Rawa Makmur Permai"
+    }
+  ]
+}

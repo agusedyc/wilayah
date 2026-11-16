@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9502152001,
+      "name": "Yapimakot"
+    },
+    {
+      "code": 9502152002,
+      "name": "Seramkatop"
+    },
+    {
+      "code": 9502152003,
+      "name": "Parim"
+    },
+    {
+      "code": 9502152004,
+      "name": "Siminbuk"
+    },
+    {
+      "code": 9502152005,
+      "name": "Modusit"
+    },
+    {
+      "code": 9502152006,
+      "name": "Wanbakon"
+    },
+    {
+      "code": 9502152007,
+      "name": "Yakmor"
+    },
+    {
+      "code": 9502152008,
+      "name": "Okatem"
+    }
+  ]
+}

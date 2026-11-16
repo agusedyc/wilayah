@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7373041002,
+      "name": "Maroangin"
+    },
+    {
+      "code": 7373041003,
+      "name": "Mancani"
+    },
+    {
+      "code": 7373041004,
+      "name": "Sumarambu"
+    },
+    {
+      "code": 7373041005,
+      "name": "Salubattang"
+    },
+    {
+      "code": 7373041006,
+      "name": "Jaya"
+    },
+    {
+      "code": 7373041007,
+      "name": "Batu Walenrang"
+    },
+    {
+      "code": 7373041008,
+      "name": "Pentojangan"
+    }
+  ]
+}

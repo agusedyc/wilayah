@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2103082001,
+      "name": "Kelarik Utara"
+    },
+    {
+      "code": 2103082002,
+      "name": "Kelarik"
+    },
+    {
+      "code": 2103082004,
+      "name": "Kelarik Air Mali"
+    },
+    {
+      "code": 2103082005,
+      "name": "Teluk Buton"
+    },
+    {
+      "code": 2103082006,
+      "name": "Belakang Gunung"
+    },
+    {
+      "code": 2103082008,
+      "name": "Gunung Durian"
+    }
+  ]
+}

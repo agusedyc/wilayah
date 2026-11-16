@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1213172001,
+      "name": "Batu Mundom"
+    },
+    {
+      "code": 1213172002,
+      "name": "Hutaimbaru"
+    },
+    {
+      "code": 1213172003,
+      "name": "Lubuk Kapundung"
+    },
+    {
+      "code": 1213172004,
+      "name": "Manuncang"
+    },
+    {
+      "code": 1213172005,
+      "name": "Panunggulan"
+    },
+    {
+      "code": 1213172006,
+      "name": "Pasar Singkuang I"
+    },
+    {
+      "code": 1213172007,
+      "name": "Pasar Singkuang II"
+    },
+    {
+      "code": 1213172008,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1213172009,
+      "name": "Sikapas"
+    },
+    {
+      "code": 1213172010,
+      "name": "Tabuyung"
+    },
+    {
+      "code": 1213172011,
+      "name": "Tagilang Julu"
+    },
+    {
+      "code": 1213172012,
+      "name": "Sali Baru"
+    },
+    {
+      "code": 1213172013,
+      "name": "Lubuk Kapundung II"
+    },
+    {
+      "code": 1213172014,
+      "name": "Suka Makmur"
+    }
+  ]
+}

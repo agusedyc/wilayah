@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9605032001,
+      "name": "Aisa"
+    },
+    {
+      "code": 9605032002,
+      "name": "Aikrer"
+    },
+    {
+      "code": 9605032003,
+      "name": "Aitrem"
+    },
+    {
+      "code": 9605032004,
+      "name": "Sawin"
+    },
+    {
+      "code": 9605032005,
+      "name": "Sahbuku"
+    },
+    {
+      "code": 9605032006,
+      "name": "Sasior Frabuku"
+    },
+    {
+      "code": 9605032007,
+      "name": "Wakom"
+    },
+    {
+      "code": 9605032008,
+      "name": "Sanem"
+    },
+    {
+      "code": 9605032009,
+      "name": "Buoh Sa"
+    }
+  ]
+}

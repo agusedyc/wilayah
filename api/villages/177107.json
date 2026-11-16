@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1771071001,
+      "name": "Padang Jati"
+    },
+    {
+      "code": 1771071002,
+      "name": "Kebun Dahri"
+    },
+    {
+      "code": 1771071003,
+      "name": "Belakang Pondok"
+    },
+    {
+      "code": 1771071004,
+      "name": "Penurunan"
+    },
+    {
+      "code": 1771071005,
+      "name": "Anggut Bawah"
+    },
+    {
+      "code": 1771071006,
+      "name": "Anggut Atas"
+    },
+    {
+      "code": 1771071007,
+      "name": "Anggut Dalam"
+    },
+    {
+      "code": 1771071008,
+      "name": "Kebun Geran"
+    },
+    {
+      "code": 1771071009,
+      "name": "Pengantungan"
+    }
+  ]
+}

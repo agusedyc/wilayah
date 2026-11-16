@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7414051004,
+      "name": "Talaga Satu"
+    },
+    {
+      "code": 7414052001,
+      "name": "Kokoe"
+    },
+    {
+      "code": 7414052002,
+      "name": "Talaga Besar"
+    },
+    {
+      "code": 7414052003,
+      "name": "Talaga II"
+    },
+    {
+      "code": 7414052005,
+      "name": "Wulu"
+    },
+    {
+      "code": 7414052006,
+      "name": "Liwulompona"
+    },
+    {
+      "code": 7414052007,
+      "name": "Pangilia"
+    }
+  ]
+}

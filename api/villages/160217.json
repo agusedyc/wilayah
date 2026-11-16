@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1602172001,
+      "name": "Tanjung Aur"
+    },
+    {
+      "code": 1602172002,
+      "name": "Lubuk Ketepeng"
+    },
+    {
+      "code": 1602172003,
+      "name": "Talang Cempedak"
+    },
+    {
+      "code": 1602172004,
+      "name": "Bubusan"
+    },
+    {
+      "code": 1602172005,
+      "name": "Air Itam"
+    },
+    {
+      "code": 1602172006,
+      "name": "Jejawi"
+    },
+    {
+      "code": 1602172007,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1602172008,
+      "name": "Muara Batun"
+    },
+    {
+      "code": 1602172009,
+      "name": "Lingkis"
+    },
+    {
+      "code": 1602172010,
+      "name": "Terusan Jawa"
+    },
+    {
+      "code": 1602172011,
+      "name": "Tanjung Ali"
+    },
+    {
+      "code": 1602172012,
+      "name": "Sukadarma"
+    },
+    {
+      "code": 1602172013,
+      "name": "Ulak Tembaga"
+    },
+    {
+      "code": 1602172014,
+      "name": "Pedu"
+    },
+    {
+      "code": 1602172015,
+      "name": "Pematang Kijang"
+    },
+    {
+      "code": 1602172016,
+      "name": "Simpang Empat"
+    },
+    {
+      "code": 1602172017,
+      "name": "Padang Bulan"
+    },
+    {
+      "code": 1602172018,
+      "name": "Batun Baru"
+    },
+    {
+      "code": 1602172019,
+      "name": "Danau Ceper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1209312001,
+      "name": "Air Teluk Kiri"
+    },
+    {
+      "code": 1209312002,
+      "name": "Teluk Dalam"
+    },
+    {
+      "code": 1209312003,
+      "name": "Perkebunan Teluk Dalam"
+    },
+    {
+      "code": 1209312004,
+      "name": "Pulau Maria"
+    },
+    {
+      "code": 1209312005,
+      "name": "Pulau Tanjung"
+    },
+    {
+      "code": 1209312006,
+      "name": "Mekar Tanjung"
+    }
+  ]
+}

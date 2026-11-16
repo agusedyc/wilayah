@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7503082001,
+      "name": "Huangobotu"
+    },
+    {
+      "code": 7503082002,
+      "name": "Molutabu"
+    },
+    {
+      "code": 7503082003,
+      "name": "Oluhuta"
+    },
+    {
+      "code": 7503082004,
+      "name": "Olele"
+    },
+    {
+      "code": 7503082005,
+      "name": "Botutonuo"
+    },
+    {
+      "code": 7503082006,
+      "name": "Modelomo"
+    },
+    {
+      "code": 7503082007,
+      "name": "Biluango"
+    },
+    {
+      "code": 7503082008,
+      "name": "Botubarani"
+    },
+    {
+      "code": 7503082009,
+      "name": "Bintalahe"
+    }
+  ]
+}

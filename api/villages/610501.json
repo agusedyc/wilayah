@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 6105011001,
+      "name": "Ladang"
+    },
+    {
+      "code": 6105011002,
+      "name": "Kapuas Kanan Hulu"
+    },
+    {
+      "code": 6105011003,
+      "name": "Tanjung Puri"
+    },
+    {
+      "code": 6105011004,
+      "name": "Kapuas Kanan Hilir"
+    },
+    {
+      "code": 6105011005,
+      "name": "Kapuas Kiri Hilir"
+    },
+    {
+      "code": 6105011006,
+      "name": "Kapuas Kiri Hulu"
+    },
+    {
+      "code": 6105011016,
+      "name": "Akcaya"
+    },
+    {
+      "code": 6105011017,
+      "name": "Alai"
+    },
+    {
+      "code": 6105011018,
+      "name": "Rawa Mambok"
+    },
+    {
+      "code": 6105011019,
+      "name": "Sengkuang"
+    },
+    {
+      "code": 6105011020,
+      "name": "Mengkurai"
+    },
+    {
+      "code": 6105011021,
+      "name": "Kedabang"
+    },
+    {
+      "code": 6105011022,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6105011023,
+      "name": "Batu Lalau"
+    },
+    {
+      "code": 6105011024,
+      "name": "Menyumbung Tengah"
+    },
+    {
+      "code": 6105011025,
+      "name": "Ulak Jaya"
+    },
+    {
+      "code": 6105012007,
+      "name": "Baning Kota"
+    },
+    {
+      "code": 6105012008,
+      "name": "Tertung"
+    },
+    {
+      "code": 6105012009,
+      "name": "Mungguk Bantok"
+    },
+    {
+      "code": 6105012010,
+      "name": "Teluk Kelansam"
+    },
+    {
+      "code": 6105012011,
+      "name": "Sungai Ana"
+    },
+    {
+      "code": 6105012012,
+      "name": "Merti Guna"
+    },
+    {
+      "code": 6105012013,
+      "name": "Tanjung Kelansam"
+    },
+    {
+      "code": 6105012014,
+      "name": "Anggah Jaya"
+    },
+    {
+      "code": 6105012015,
+      "name": "Lalang Baru"
+    },
+    {
+      "code": 6105012026,
+      "name": "Tebing Raya"
+    },
+    {
+      "code": 6105012027,
+      "name": "Mail Jampong"
+    },
+    {
+      "code": 6105012028,
+      "name": "Jerora Satu"
+    },
+    {
+      "code": 6105012029,
+      "name": "Kebiau Baru"
+    }
+  ]
+}

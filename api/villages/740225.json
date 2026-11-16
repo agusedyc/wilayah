@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7402251003,
+      "name": "Meluhu"
+    },
+    {
+      "code": 7402252001,
+      "name": "Woerahi"
+    },
+    {
+      "code": 7402252002,
+      "name": "Lamelai"
+    },
+    {
+      "code": 7402252004,
+      "name": "Ahuhu"
+    },
+    {
+      "code": 7402252005,
+      "name": "Tudameaso"
+    },
+    {
+      "code": 7402252006,
+      "name": "Larowiu"
+    },
+    {
+      "code": 7402252007,
+      "name": "Ahuloa"
+    },
+    {
+      "code": 7402252008,
+      "name": "Sambasule"
+    },
+    {
+      "code": 7402252009,
+      "name": "Lalopisi"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3603221004,
+      "name": "Medang"
+    },
+    {
+      "code": 3603222002,
+      "name": "Cicalengka"
+    },
+    {
+      "code": 3603222003,
+      "name": "Pagedangan"
+    },
+    {
+      "code": 3603222005,
+      "name": "Cijantra"
+    },
+    {
+      "code": 3603222006,
+      "name": "Lengkong Kulon"
+    },
+    {
+      "code": 3603222007,
+      "name": "Situ Gadung"
+    },
+    {
+      "code": 3603222008,
+      "name": "Jatake"
+    },
+    {
+      "code": 3603222009,
+      "name": "Cihuni"
+    },
+    {
+      "code": 3603222010,
+      "name": "Kadu Sirung"
+    },
+    {
+      "code": 3603222011,
+      "name": "Malang Nengah"
+    },
+    {
+      "code": 3603222012,
+      "name": "Karang Tengah"
+    }
+  ]
+}

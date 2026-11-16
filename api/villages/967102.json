@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671021001,
+      "name": "Klawalu"
+    },
+    {
+      "code": 9671021002,
+      "name": "Klamana"
+    },
+    {
+      "code": 9671021003,
+      "name": "Klawuyuk"
+    },
+    {
+      "code": 9671021004,
+      "name": "Kladufu"
+    }
+  ]
+}

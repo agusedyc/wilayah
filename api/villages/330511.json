@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3305112001,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3305112002,
+      "name": "Surotrunan"
+    },
+    {
+      "code": 3305112003,
+      "name": "Kambangsari"
+    },
+    {
+      "code": 3305112004,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3305112005,
+      "name": "Tanuharjo"
+    },
+    {
+      "code": 3305112006,
+      "name": "Karangtanjung"
+    },
+    {
+      "code": 3305112007,
+      "name": "Kemangguan"
+    },
+    {
+      "code": 3305112008,
+      "name": "Kalijaya"
+    },
+    {
+      "code": 3305112009,
+      "name": "Karangkembang"
+    },
+    {
+      "code": 3305112010,
+      "name": "Seliling"
+    },
+    {
+      "code": 3305112011,
+      "name": "Tlogowulung"
+    },
+    {
+      "code": 3305112012,
+      "name": "Kaliputih"
+    },
+    {
+      "code": 3305112013,
+      "name": "Wonokromo"
+    },
+    {
+      "code": 3305112014,
+      "name": "Sawangan"
+    },
+    {
+      "code": 3305112015,
+      "name": "Kalirancang"
+    },
+    {
+      "code": 3305112016,
+      "name": "Krakal"
+    }
+  ]
+}

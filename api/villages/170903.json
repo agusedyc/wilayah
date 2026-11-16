@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1709032009,
+      "name": "Talang Pauh"
+    },
+    {
+      "code": 1709032010,
+      "name": "Srikaton"
+    },
+    {
+      "code": 1709032011,
+      "name": "Pekik Nyaring"
+    },
+    {
+      "code": 1709032012,
+      "name": "Pasar Pedati"
+    },
+    {
+      "code": 1709032013,
+      "name": "Sunda Kelapa"
+    },
+    {
+      "code": 1709032014,
+      "name": "Pondok Kelapa"
+    },
+    {
+      "code": 1709032015,
+      "name": "Padang Betuah"
+    },
+    {
+      "code": 1709032016,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1709032017,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1709032018,
+      "name": "Talang Boseng"
+    },
+    {
+      "code": 1709032019,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1709032020,
+      "name": "Kembang Ayun"
+    },
+    {
+      "code": 1709032021,
+      "name": "Panca Mukti"
+    },
+    {
+      "code": 1709032022,
+      "name": "Sri Kuncoro"
+    },
+    {
+      "code": 1709032023,
+      "name": "Bintang Selatan"
+    },
+    {
+      "code": 1709032024,
+      "name": "Abu Sakim"
+    },
+    {
+      "code": 1709032025,
+      "name": "Harapan"
+    }
+  ]
+}

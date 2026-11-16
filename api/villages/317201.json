@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3172011001,
+      "name": "Penjaringan"
+    },
+    {
+      "code": 3172011002,
+      "name": "Kamal Muara"
+    },
+    {
+      "code": 3172011003,
+      "name": "Kapuk Muara"
+    },
+    {
+      "code": 3172011004,
+      "name": "Pejagalan"
+    },
+    {
+      "code": 3172011005,
+      "name": "Pluit"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3202211001,
+      "name": "Jampangkulon"
+    },
+    {
+      "code": 3202212002,
+      "name": "Bojonggenteng"
+    },
+    {
+      "code": 3202212003,
+      "name": "Cikarang"
+    },
+    {
+      "code": 3202212005,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3202212007,
+      "name": "Nagraksari"
+    },
+    {
+      "code": 3202212008,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3202212009,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3202212011,
+      "name": "Ciparay"
+    },
+    {
+      "code": 3202212013,
+      "name": "Padajaya"
+    },
+    {
+      "code": 3202212014,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3202212016,
+      "name": "Cikaranggeusan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3403052001,
+      "name": "Sodo"
+    },
+    {
+      "code": 3403052002,
+      "name": "Pampang"
+    },
+    {
+      "code": 3403052003,
+      "name": "Grogol"
+    },
+    {
+      "code": 3403052004,
+      "name": "Karangduwet"
+    },
+    {
+      "code": 3403052005,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3403052006,
+      "name": "Mulusan"
+    },
+    {
+      "code": 3403052007,
+      "name": "Giring"
+    }
+  ]
+}

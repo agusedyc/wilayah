@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3576031001,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3576031002,
+      "name": "Miji"
+    },
+    {
+      "code": 3576031003,
+      "name": "Meri"
+    },
+    {
+      "code": 3576031004,
+      "name": "Jagalan"
+    },
+    {
+      "code": 3576031005,
+      "name": "Sentanan"
+    },
+    {
+      "code": 3576031006,
+      "name": "Purwotengah"
+    }
+  ]
+}

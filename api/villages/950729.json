@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9507292001,
+      "name": "Pirambor"
+    },
+    {
+      "code": 9507292002,
+      "name": "Gondura"
+    },
+    {
+      "code": 9507292003,
+      "name": "Juta"
+    },
+    {
+      "code": 9507292004,
+      "name": "Tigima"
+    },
+    {
+      "code": 9507292005,
+      "name": "Gelok"
+    },
+    {
+      "code": 9507292006,
+      "name": "Murtani"
+    },
+    {
+      "code": 9507292007,
+      "name": "Beam"
+    },
+    {
+      "code": 9507292008,
+      "name": "Wanggu"
+    },
+    {
+      "code": 9507292009,
+      "name": "Kulip"
+    }
+  ]
+}

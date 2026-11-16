@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5104051005,
+      "name": "Ubud"
+    },
+    {
+      "code": 5104052001,
+      "name": "Lodtunduh"
+    },
+    {
+      "code": 5104052002,
+      "name": "Mas"
+    },
+    {
+      "code": 5104052003,
+      "name": "Singakerta"
+    },
+    {
+      "code": 5104052004,
+      "name": "Kedewatan"
+    },
+    {
+      "code": 5104052006,
+      "name": "Peliatan"
+    },
+    {
+      "code": 5104052007,
+      "name": "Petulu"
+    },
+    {
+      "code": 5104052008,
+      "name": "Sayan"
+    }
+  ]
+}

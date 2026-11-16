@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204072001,
+      "name": "Jatiendah"
+    },
+    {
+      "code": 3204072002,
+      "name": "Cilengkrang"
+    },
+    {
+      "code": 3204072003,
+      "name": "Cipanjalu"
+    },
+    {
+      "code": 3204072004,
+      "name": "Melatiwangi"
+    },
+    {
+      "code": 3204072005,
+      "name": "Ciporeat"
+    },
+    {
+      "code": 3204072006,
+      "name": "Girimekar"
+    }
+  ]
+}

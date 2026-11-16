@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1803122001,
+      "name": "Ulak Rengas"
+    },
+    {
+      "code": 1803122002,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1803122003,
+      "name": "Pulau Panggung"
+    },
+    {
+      "code": 1803122004,
+      "name": "Sekipi"
+    },
+    {
+      "code": 1803122005,
+      "name": "Sido Kayo"
+    },
+    {
+      "code": 1803122006,
+      "name": "Suka Marga"
+    },
+    {
+      "code": 1803122007,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1803122008,
+      "name": "Kebun Dalam"
+    }
+  ]
+}

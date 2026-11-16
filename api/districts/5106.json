@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 districts",
+  "data": [
+    {
+      "code": 510601,
+      "name": "Susut"
+    },
+    {
+      "code": 510602,
+      "name": "Bangli"
+    },
+    {
+      "code": 510603,
+      "name": "Tembuku"
+    },
+    {
+      "code": 510604,
+      "name": "Kintamani"
+    }
+  ]
+}

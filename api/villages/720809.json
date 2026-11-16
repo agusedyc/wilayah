@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7208092001,
+      "name": "Tanalanto"
+    },
+    {
+      "code": 7208092002,
+      "name": "Torue"
+    },
+    {
+      "code": 7208092003,
+      "name": "Astina"
+    },
+    {
+      "code": 7208092004,
+      "name": "Purwosari"
+    },
+    {
+      "code": 7208092005,
+      "name": "Tolai"
+    },
+    {
+      "code": 7208092006,
+      "name": "Tolai Barat"
+    },
+    {
+      "code": 7208092007,
+      "name": "Tolai Timur"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3210172001,
+      "name": "Bongas Wetan"
+    },
+    {
+      "code": 3210172002,
+      "name": "Bongas Kulon"
+    },
+    {
+      "code": 3210172003,
+      "name": "Garawangi"
+    },
+    {
+      "code": 3210172004,
+      "name": "Rancaputat"
+    },
+    {
+      "code": 3210172005,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3210172006,
+      "name": "Sepat"
+    },
+    {
+      "code": 3210172007,
+      "name": "Paningkiran"
+    },
+    {
+      "code": 3210172008,
+      "name": "Parapatan"
+    },
+    {
+      "code": 3210172009,
+      "name": "Panjalin Kidul"
+    },
+    {
+      "code": 3210172010,
+      "name": "Cidenok"
+    },
+    {
+      "code": 3210172011,
+      "name": "Lojikobong"
+    },
+    {
+      "code": 3210172012,
+      "name": "Panjalin Lor"
+    },
+    {
+      "code": 3210172013,
+      "name": "Sumberjaya"
+    },
+    {
+      "code": 3210172014,
+      "name": "Pancaksuji"
+    },
+    {
+      "code": 3210172015,
+      "name": "Gelok Mulya"
+    }
+  ]
+}

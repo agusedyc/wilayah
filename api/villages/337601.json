@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3376011001,
+      "name": "Pesurungan Kidul"
+    },
+    {
+      "code": 3376011002,
+      "name": "Debong Lor"
+    },
+    {
+      "code": 3376011003,
+      "name": "Kemandungan"
+    },
+    {
+      "code": 3376011004,
+      "name": "Pekauman"
+    },
+    {
+      "code": 3376011005,
+      "name": "Kraton"
+    },
+    {
+      "code": 3376011006,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3376011007,
+      "name": "Muarareja"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1271091001,
+      "name": "Amplas"
+    },
+    {
+      "code": 1271091002,
+      "name": "Sitirejo II"
+    },
+    {
+      "code": 1271091003,
+      "name": "Sitirejo III"
+    },
+    {
+      "code": 1271091004,
+      "name": "Harjosari I"
+    },
+    {
+      "code": 1271091005,
+      "name": "Harjosari II"
+    },
+    {
+      "code": 1271091006,
+      "name": "Timbang Deli"
+    },
+    {
+      "code": 1271091007,
+      "name": "Bangun Mulia"
+    }
+  ]
+}

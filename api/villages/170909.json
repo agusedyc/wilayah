@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1709092001,
+      "name": "Pondok Kubang"
+    },
+    {
+      "code": 1709092002,
+      "name": "Batu Raja"
+    },
+    {
+      "code": 1709092003,
+      "name": "Dusun Anyar"
+    },
+    {
+      "code": 1709092004,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1709092005,
+      "name": "Talang Tengah I"
+    },
+    {
+      "code": 1709092006,
+      "name": "Paku Haji"
+    },
+    {
+      "code": 1709092007,
+      "name": "Tanjung Terdana"
+    },
+    {
+      "code": 1709092008,
+      "name": "Linggar Galing"
+    },
+    {
+      "code": 1709092009,
+      "name": "Dusun Baru I"
+    },
+    {
+      "code": 1709092010,
+      "name": "Harapan Makmur"
+    },
+    {
+      "code": 1709092011,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1709092012,
+      "name": "Taba Jambu"
+    }
+  ]
+}

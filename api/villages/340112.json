@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3401122001,
+      "name": "Banjararum"
+    },
+    {
+      "code": 3401122002,
+      "name": "Banjarasri"
+    },
+    {
+      "code": 3401122003,
+      "name": "Banjarharjo"
+    },
+    {
+      "code": 3401122004,
+      "name": "Banjaroyo"
+    }
+  ]
+}

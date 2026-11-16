@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7109102001,
+      "name": "Humbia"
+    },
+    {
+      "code": 7109102002,
+      "name": "Kisihang"
+    },
+    {
+      "code": 7109102003,
+      "name": "Bira Kiama"
+    },
+    {
+      "code": 7109102004,
+      "name": "Buha"
+    },
+    {
+      "code": 7109102005,
+      "name": "Batumawira"
+    },
+    {
+      "code": 7109102006,
+      "name": "Birarikei"
+    }
+  ]
+}

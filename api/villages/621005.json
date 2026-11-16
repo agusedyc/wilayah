@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6210051021,
+      "name": "Jakatan Raya"
+    },
+    {
+      "code": 6210052001,
+      "name": "Tumbang Jutuh"
+    },
+    {
+      "code": 6210052002,
+      "name": "Tumbang Baringei"
+    },
+    {
+      "code": 6210052009,
+      "name": "Tumbang Malahoi"
+    },
+    {
+      "code": 6210052014,
+      "name": "Tumbang Bunut"
+    },
+    {
+      "code": 6210052015,
+      "name": "Tumbang Kajuei"
+    },
+    {
+      "code": 6210052016,
+      "name": "Luwuk Kantor"
+    },
+    {
+      "code": 6210052017,
+      "name": "Luwuk Langkuas"
+    },
+    {
+      "code": 6210052018,
+      "name": "Talangkah"
+    },
+    {
+      "code": 6210052019,
+      "name": "Parempei"
+    },
+    {
+      "code": 6210052020,
+      "name": "Linau"
+    },
+    {
+      "code": 6210052022,
+      "name": "Bereng Baru"
+    },
+    {
+      "code": 6210052023,
+      "name": "Bereng Malaka"
+    },
+    {
+      "code": 6210052027,
+      "name": "Karya Bhakti"
+    }
+  ]
+}

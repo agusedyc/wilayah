@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3323042001,
+      "name": "Pringsurat"
+    },
+    {
+      "code": 3323042002,
+      "name": "Kebumen"
+    },
+    {
+      "code": 3323042003,
+      "name": "Soropadan"
+    },
+    {
+      "code": 3323042004,
+      "name": "Kupen"
+    },
+    {
+      "code": 3323042005,
+      "name": "Karangwuni"
+    },
+    {
+      "code": 3323042006,
+      "name": "Gowak"
+    },
+    {
+      "code": 3323042007,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3323042008,
+      "name": "Ngipik"
+    },
+    {
+      "code": 3323042009,
+      "name": "Pingit"
+    },
+    {
+      "code": 3323042010,
+      "name": "Klepu"
+    },
+    {
+      "code": 3323042011,
+      "name": "Soborejo"
+    },
+    {
+      "code": 3323042012,
+      "name": "Nglorog"
+    },
+    {
+      "code": 3323042013,
+      "name": "Pagergunung"
+    },
+    {
+      "code": 3323042014,
+      "name": "Wonokerso"
+    }
+  ]
+}

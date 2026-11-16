@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9304172001,
+      "name": "Yausakor"
+    },
+    {
+      "code": 9304172002,
+      "name": "Damen"
+    },
+    {
+      "code": 9304172003,
+      "name": "Biwar Darat"
+    },
+    {
+      "code": 9304172004,
+      "name": "Kaimo"
+    },
+    {
+      "code": 9304172005,
+      "name": "Awok"
+    },
+    {
+      "code": 9304172006,
+      "name": "Fos"
+    },
+    {
+      "code": 9304172007,
+      "name": "Waganu"
+    },
+    {
+      "code": 9304172008,
+      "name": "Sakor"
+    }
+  ]
+}

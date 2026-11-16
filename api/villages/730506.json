@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7305061004,
+      "name": "Bontolebang"
+    },
+    {
+      "code": 7305062001,
+      "name": "Pakkabba"
+    },
+    {
+      "code": 7305062002,
+      "name": "Bontolanra"
+    },
+    {
+      "code": 7305062003,
+      "name": "Aeng Batu Batu"
+    },
+    {
+      "code": 7305062005,
+      "name": "Tamalate"
+    },
+    {
+      "code": 7305062006,
+      "name": "Tamasaju"
+    },
+    {
+      "code": 7305062007,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7305062010,
+      "name": "Aeng Towa"
+    },
+    {
+      "code": 7305062011,
+      "name": "Bontokaddopepe"
+    },
+    {
+      "code": 7305062012,
+      "name": "Sampulungan"
+    },
+    {
+      "code": 7305062013,
+      "name": "Maccini Sombala"
+    },
+    {
+      "code": 7305062014,
+      "name": "Sawakung Beba"
+    },
+    {
+      "code": 7305062015,
+      "name": "Biring Kassi"
+    },
+    {
+      "code": 7305062016,
+      "name": "Kaballokang Pakkabba"
+    }
+  ]
+}

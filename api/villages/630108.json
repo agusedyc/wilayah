@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6301082001,
+      "name": "Tambang Ulang"
+    },
+    {
+      "code": 6301082002,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 6301082003,
+      "name": "Martadah"
+    },
+    {
+      "code": 6301082004,
+      "name": "Sungai Jelai"
+    },
+    {
+      "code": 6301082005,
+      "name": "Bingkulu"
+    },
+    {
+      "code": 6301082006,
+      "name": "Gunung Raja"
+    },
+    {
+      "code": 6301082007,
+      "name": "Pulau Sari"
+    },
+    {
+      "code": 6301082008,
+      "name": "Kayu Abang"
+    },
+    {
+      "code": 6301082009,
+      "name": "Martadah Baru"
+    }
+  ]
+}

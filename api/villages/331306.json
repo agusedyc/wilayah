@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3313061002,
+      "name": "Blumbang"
+    },
+    {
+      "code": 3313061003,
+      "name": "Kalisoro"
+    },
+    {
+      "code": 3313061004,
+      "name": "Tawangmangu"
+    },
+    {
+      "code": 3313062001,
+      "name": "Gondosuli"
+    },
+    {
+      "code": 3313062005,
+      "name": "Sepanjang"
+    },
+    {
+      "code": 3313062006,
+      "name": "Bandardawung"
+    },
+    {
+      "code": 3313062007,
+      "name": "Karanglo"
+    },
+    {
+      "code": 3313062008,
+      "name": "Nglebak"
+    },
+    {
+      "code": 3313062009,
+      "name": "Plumbon"
+    },
+    {
+      "code": 3313062010,
+      "name": "Tengklik"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804232001,
+      "name": "Suoh"
+    },
+    {
+      "code": 1804232002,
+      "name": "Srimulyo"
+    },
+    {
+      "code": 1804232003,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1804232004,
+      "name": "Ringin Jaya"
+    },
+    {
+      "code": 1804232005,
+      "name": "Bumi Hantatai"
+    },
+    {
+      "code": 1804232006,
+      "name": "Gunung Ratu"
+    },
+    {
+      "code": 1804232007,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1804232008,
+      "name": "Negeri Jaya"
+    },
+    {
+      "code": 1804232009,
+      "name": "Tembelang"
+    },
+    {
+      "code": 1804232010,
+      "name": "Tri Mekar Jaya"
+    }
+  ]
+}

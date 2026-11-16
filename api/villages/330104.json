@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3301042001,
+      "name": "Jati"
+    },
+    {
+      "code": 3301042002,
+      "name": "Kepudang"
+    },
+    {
+      "code": 3301042003,
+      "name": "Jepara Kulon"
+    },
+    {
+      "code": 3301042004,
+      "name": "Widarapayung Kulon"
+    },
+    {
+      "code": 3301042005,
+      "name": "Jepara Wetan"
+    },
+    {
+      "code": 3301042006,
+      "name": "Bangkal"
+    },
+    {
+      "code": 3301042007,
+      "name": "Binangun"
+    },
+    {
+      "code": 3301042008,
+      "name": "Widarapayung Wetan"
+    },
+    {
+      "code": 3301042009,
+      "name": "Alangamba"
+    },
+    {
+      "code": 3301042010,
+      "name": "Pasuruhan"
+    },
+    {
+      "code": 3301042011,
+      "name": "Sidaurip"
+    },
+    {
+      "code": 3301042012,
+      "name": "Pagubugan"
+    },
+    {
+      "code": 3301042013,
+      "name": "Pesawahan"
+    },
+    {
+      "code": 3301042014,
+      "name": "Kemojing"
+    },
+    {
+      "code": 3301042015,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3301042016,
+      "name": "Sidayu"
+    },
+    {
+      "code": 3301042017,
+      "name": "Pagubugan Kulon"
+    }
+  ]
+}

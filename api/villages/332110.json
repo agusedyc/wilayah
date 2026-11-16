@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3321102001,
+      "name": "Geneng"
+    },
+    {
+      "code": 3321102002,
+      "name": "Ngelowetan"
+    },
+    {
+      "code": 3321102003,
+      "name": "Mlaten"
+    },
+    {
+      "code": 3321102004,
+      "name": "Bantengmati"
+    },
+    {
+      "code": 3321102005,
+      "name": "Ngelokulon"
+    },
+    {
+      "code": 3321102006,
+      "name": "Pasir"
+    },
+    {
+      "code": 3321102007,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3321102008,
+      "name": "Ngegot"
+    },
+    {
+      "code": 3321102009,
+      "name": "Jleper"
+    },
+    {
+      "code": 3321102010,
+      "name": "Pecuk"
+    },
+    {
+      "code": 3321102011,
+      "name": "Tanggul"
+    },
+    {
+      "code": 3321102012,
+      "name": "Bakung"
+    },
+    {
+      "code": 3321102013,
+      "name": "Bermi"
+    },
+    {
+      "code": 3321102014,
+      "name": "Mijen"
+    },
+    {
+      "code": 3321102015,
+      "name": "Gempolsongo"
+    }
+  ]
+}

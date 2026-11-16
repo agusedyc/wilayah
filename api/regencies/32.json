@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 regencies",
+  "data": [
+    {
+      "code": 3201,
+      "name": "Kabupaten Bogor"
+    },
+    {
+      "code": 3202,
+      "name": "Kabupaten Sukabumi"
+    },
+    {
+      "code": 3203,
+      "name": "Kabupaten Cianjur"
+    },
+    {
+      "code": 3204,
+      "name": "Kabupaten Bandung"
+    },
+    {
+      "code": 3205,
+      "name": "Kabupaten Garut"
+    },
+    {
+      "code": 3206,
+      "name": "Kabupaten Tasikmalaya"
+    },
+    {
+      "code": 3207,
+      "name": "Kabupaten Ciamis"
+    },
+    {
+      "code": 3208,
+      "name": "Kabupaten Kuningan"
+    },
+    {
+      "code": 3209,
+      "name": "Kabupaten Cirebon"
+    },
+    {
+      "code": 3210,
+      "name": "Kabupaten Majalengka"
+    },
+    {
+      "code": 3211,
+      "name": "Kabupaten Sumedang"
+    },
+    {
+      "code": 3212,
+      "name": "Kabupaten Indramayu"
+    },
+    {
+      "code": 3213,
+      "name": "Kabupaten Subang"
+    },
+    {
+      "code": 3214,
+      "name": "Kabupaten Purwakarta"
+    },
+    {
+      "code": 3215,
+      "name": "Kabupaten Karawang"
+    },
+    {
+      "code": 3216,
+      "name": "Kabupaten Bekasi"
+    },
+    {
+      "code": 3217,
+      "name": "Kabupaten Bandung Barat"
+    },
+    {
+      "code": 3218,
+      "name": "Kabupaten Pangandaran"
+    },
+    {
+      "code": 3271,
+      "name": "Kota Bogor"
+    },
+    {
+      "code": 3272,
+      "name": "Kota Sukabumi"
+    },
+    {
+      "code": 3273,
+      "name": "Kota Bandung"
+    },
+    {
+      "code": 3274,
+      "name": "Kota Cirebon"
+    },
+    {
+      "code": 3275,
+      "name": "Kota Bekasi"
+    },
+    {
+      "code": 3276,
+      "name": "Kota Depok"
+    },
+    {
+      "code": 3277,
+      "name": "Kota Cimahi"
+    },
+    {
+      "code": 3278,
+      "name": "Kota Tasikmalaya"
+    },
+    {
+      "code": 3279,
+      "name": "Kota Banjar"
+    }
+  ]
+}

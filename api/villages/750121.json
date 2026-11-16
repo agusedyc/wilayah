@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7501212001,
+      "name": "Bululi"
+    },
+    {
+      "code": 7501212002,
+      "name": "Mohiyolo"
+    },
+    {
+      "code": 7501212003,
+      "name": "Pangahu"
+    },
+    {
+      "code": 7501212004,
+      "name": "Karya Indah"
+    },
+    {
+      "code": 7501212005,
+      "name": "Prima"
+    },
+    {
+      "code": 7501212006,
+      "name": "Tiohu"
+    },
+    {
+      "code": 7501212007,
+      "name": "Olimohulo"
+    },
+    {
+      "code": 7501212008,
+      "name": "Karya Baru"
+    },
+    {
+      "code": 7501212009,
+      "name": "Bontula"
+    },
+    {
+      "code": 7501212010,
+      "name": "Bihe"
+    }
+  ]
+}

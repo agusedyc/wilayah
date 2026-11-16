@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6103132001,
+      "name": "Teraju"
+    },
+    {
+      "code": 6103132002,
+      "name": "Belungai Dalam"
+    },
+    {
+      "code": 6103132003,
+      "name": "Sansat"
+    },
+    {
+      "code": 6103132004,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6103132005,
+      "name": "Bagan Asam"
+    },
+    {
+      "code": 6103132006,
+      "name": "Lumut"
+    },
+    {
+      "code": 6103132007,
+      "name": "Balai Belungai"
+    }
+  ]
+}

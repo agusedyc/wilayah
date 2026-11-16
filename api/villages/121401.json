@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1214012002,
+      "name": "Hilisangowola"
+    },
+    {
+      "code": 1214012005,
+      "name": "Hiliotalua"
+    },
+    {
+      "code": 1214012006,
+      "name": "Koendrafo"
+    },
+    {
+      "code": 1214012008,
+      "name": "Lawa-lawa Luo"
+    },
+    {
+      "code": 1214012016,
+      "name": "Tuhemberua"
+    },
+    {
+      "code": 1214012017,
+      "name": "Tesikhori"
+    },
+    {
+      "code": 1214012021,
+      "name": "Tumari"
+    },
+    {
+      "code": 1214012023,
+      "name": "Ewo"
+    },
+    {
+      "code": 1214012024,
+      "name": "Ko'olotano"
+    },
+    {
+      "code": 1214012026,
+      "name": "Botohilindruria"
+    },
+    {
+      "code": 1214012027,
+      "name": "Caritas Sogawunasi"
+    },
+    {
+      "code": 1214012028,
+      "name": "Orudua Lawa-lawa Luo"
+    },
+    {
+      "code": 1214012029,
+      "name": "Hilifaondrato"
+    }
+  ]
+}

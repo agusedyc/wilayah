@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3208302001,
+      "name": "Garahaji"
+    },
+    {
+      "code": 3208302002,
+      "name": "Galaherang"
+    },
+    {
+      "code": 3208302003,
+      "name": "Cipakem"
+    },
+    {
+      "code": 3208302004,
+      "name": "Maleber"
+    },
+    {
+      "code": 3208302005,
+      "name": "Parakan"
+    },
+    {
+      "code": 3208302006,
+      "name": "Kutaraja"
+    },
+    {
+      "code": 3208302007,
+      "name": "Ciporang"
+    },
+    {
+      "code": 3208302008,
+      "name": "Dukuhtengah"
+    },
+    {
+      "code": 3208302009,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3208302010,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3208302011,
+      "name": "Padamulya"
+    },
+    {
+      "code": 3208302012,
+      "name": "Cikahuripan"
+    },
+    {
+      "code": 3208302013,
+      "name": "Kutamandarakan"
+    },
+    {
+      "code": 3208302014,
+      "name": "Mandalajaya"
+    },
+    {
+      "code": 3208302015,
+      "name": "Giriwaringin"
+    },
+    {
+      "code": 3208302016,
+      "name": "Buniasih"
+    }
+  ]
+}

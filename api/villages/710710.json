@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7107102001,
+      "name": "Tombatu Dua"
+    },
+    {
+      "code": 7107102002,
+      "name": "Tombatu Dua Utara"
+    },
+    {
+      "code": 7107102003,
+      "name": "Tombatu Dua Barat"
+    },
+    {
+      "code": 7107102004,
+      "name": "Tombatu Dua Tengah"
+    },
+    {
+      "code": 7107102005,
+      "name": "Tombatu Tiga"
+    },
+    {
+      "code": 7107102006,
+      "name": "Tombatu Tiga Tengah"
+    },
+    {
+      "code": 7107102007,
+      "name": "Kuyanga"
+    },
+    {
+      "code": 7107102008,
+      "name": "Kuyanga Satu"
+    },
+    {
+      "code": 7107102009,
+      "name": "Winorangian"
+    },
+    {
+      "code": 7107102010,
+      "name": "Winorangian Satu"
+    }
+  ]
+}

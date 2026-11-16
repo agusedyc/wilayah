@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3204302001,
+      "name": "Cipeujeuh"
+    },
+    {
+      "code": 3204302002,
+      "name": "Cikitu"
+    },
+    {
+      "code": 3204302003,
+      "name": "Cinanggela"
+    },
+    {
+      "code": 3204302004,
+      "name": "Maruyung"
+    },
+    {
+      "code": 3204302005,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3204302006,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3204302007,
+      "name": "Cikawao"
+    },
+    {
+      "code": 3204302008,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3204302009,
+      "name": "Pangauban"
+    },
+    {
+      "code": 3204302010,
+      "name": "Mandalahaji"
+    },
+    {
+      "code": 3204302011,
+      "name": "Girimulya"
+    },
+    {
+      "code": 3204302012,
+      "name": "Tanjungwangi"
+    },
+    {
+      "code": 3204302013,
+      "name": "Mekarsari"
+    }
+  ]
+}

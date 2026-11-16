@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3505022001,
+      "name": "Jati"
+    },
+    {
+      "code": 3505022002,
+      "name": "Temenggungan"
+    },
+    {
+      "code": 3505022003,
+      "name": "Besuki"
+    },
+    {
+      "code": 3505022004,
+      "name": "Tunjung"
+    },
+    {
+      "code": 3505022005,
+      "name": "Bakung"
+    },
+    {
+      "code": 3505022006,
+      "name": "Mangunan"
+    },
+    {
+      "code": 3505022007,
+      "name": "Karanggondang"
+    },
+    {
+      "code": 3505022008,
+      "name": "Ringinanom"
+    },
+    {
+      "code": 3505022009,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3505022010,
+      "name": "Slemanan"
+    },
+    {
+      "code": 3505022011,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3505022012,
+      "name": "Bendorejo"
+    }
+  ]
+}

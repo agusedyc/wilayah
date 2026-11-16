@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7322092001,
+      "name": "Rampi"
+    },
+    {
+      "code": 7322092002,
+      "name": "Onondowa"
+    },
+    {
+      "code": 7322092003,
+      "name": "Leboni"
+    },
+    {
+      "code": 7322092004,
+      "name": "Dodolo"
+    },
+    {
+      "code": 7322092005,
+      "name": "Sulaku"
+    },
+    {
+      "code": 7322092006,
+      "name": "Tedeboe"
+    }
+  ]
+}

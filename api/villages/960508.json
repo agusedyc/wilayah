@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9605081001,
+      "name": "Ayamaru"
+    },
+    {
+      "code": 9605082002,
+      "name": "Framu"
+    },
+    {
+      "code": 9605082003,
+      "name": "Mefkajim II"
+    },
+    {
+      "code": 9605082004,
+      "name": "Fraharo"
+    },
+    {
+      "code": 9605082005,
+      "name": "Smusswioh"
+    },
+    {
+      "code": 9605082006,
+      "name": "Twer"
+    },
+    {
+      "code": 9605082007,
+      "name": "Afes"
+    },
+    {
+      "code": 9605082008,
+      "name": "Tuso"
+    }
+  ]
+}

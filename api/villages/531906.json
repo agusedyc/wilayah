@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5319061001,
+      "name": "Watu Nggene"
+    },
+    {
+      "code": 5319061002,
+      "name": "Rongga Koe"
+    },
+    {
+      "code": 5319061017,
+      "name": "Tanah Rata"
+    },
+    {
+      "code": 5319062003,
+      "name": "Lembur"
+    },
+    {
+      "code": 5319062004,
+      "name": "Ruan"
+    },
+    {
+      "code": 5319062006,
+      "name": "Mbengan"
+    },
+    {
+      "code": 5319062007,
+      "name": "Rana Kolong"
+    },
+    {
+      "code": 5319062008,
+      "name": "Gunung"
+    },
+    {
+      "code": 5319062013,
+      "name": "Komba"
+    },
+    {
+      "code": 5319062014,
+      "name": "Bamo"
+    },
+    {
+      "code": 5319062015,
+      "name": "Pong Ruan"
+    }
+  ]
+}

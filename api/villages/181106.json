@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1811062001,
+      "name": "Adi Luhur"
+    },
+    {
+      "code": 1811062002,
+      "name": "Mukti Karya"
+    },
+    {
+      "code": 1811062003,
+      "name": "Fajar Baru"
+    },
+    {
+      "code": 1811062004,
+      "name": "Adi Mulyo"
+    },
+    {
+      "code": 1811062005,
+      "name": "Fajar Asri"
+    },
+    {
+      "code": 1811062006,
+      "name": "Fajar Indah"
+    },
+    {
+      "code": 1811062007,
+      "name": "Adi Karya Mulya"
+    }
+  ]
+}

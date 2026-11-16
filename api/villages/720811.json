@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7208112001,
+      "name": "Lemusa"
+    },
+    {
+      "code": 7208112002,
+      "name": "Olobaru"
+    },
+    {
+      "code": 7208112003,
+      "name": "Boyantongo"
+    },
+    {
+      "code": 7208112004,
+      "name": "Dolago"
+    },
+    {
+      "code": 7208112005,
+      "name": "Masari"
+    },
+    {
+      "code": 7208112006,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 7208112007,
+      "name": "Nambaru"
+    },
+    {
+      "code": 7208112008,
+      "name": "Tindaki"
+    },
+    {
+      "code": 7208112009,
+      "name": "Gangga"
+    },
+    {
+      "code": 7208112010,
+      "name": "Dolago Padang"
+    }
+  ]
+}

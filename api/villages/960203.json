@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9602032001,
+      "name": "Sawiat"
+    },
+    {
+      "code": 9602032002,
+      "name": "Sasnek"
+    },
+    {
+      "code": 9602032003,
+      "name": "Elles"
+    },
+    {
+      "code": 9602032004,
+      "name": "Sodrofoyo"
+    },
+    {
+      "code": 9602032005,
+      "name": "Sfakyo"
+    },
+    {
+      "code": 9602032006,
+      "name": "Wensough"
+    },
+    {
+      "code": 9602032007,
+      "name": "Ween"
+    },
+    {
+      "code": 9602032008,
+      "name": "Wendi"
+    }
+  ]
+}

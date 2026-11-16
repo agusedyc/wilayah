@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7171101001,
+      "name": "Bunaken"
+    },
+    {
+      "code": 7171101002,
+      "name": "Manado Tua Satu"
+    },
+    {
+      "code": 7171101003,
+      "name": "Manado Tua Dua"
+    },
+    {
+      "code": 7171101004,
+      "name": "Alung Banua"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7317172001,
+      "name": "Lamasi Pantai"
+    },
+    {
+      "code": 7317172002,
+      "name": "Tanete"
+    },
+    {
+      "code": 7317172003,
+      "name": "Rantai Damai"
+    },
+    {
+      "code": 7317172004,
+      "name": "Tabah"
+    },
+    {
+      "code": 7317172005,
+      "name": "Kendekan"
+    },
+    {
+      "code": 7317172006,
+      "name": "Pangalli"
+    },
+    {
+      "code": 7317172007,
+      "name": "Seba-Seba"
+    },
+    {
+      "code": 7317172008,
+      "name": "Suka Damai"
+    }
+  ]
+}

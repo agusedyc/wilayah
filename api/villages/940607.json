@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9406072001,
+      "name": "Puweta I"
+    },
+    {
+      "code": 9406072002,
+      "name": "Pouwouda"
+    },
+    {
+      "code": 9406072003,
+      "name": "Puweta II"
+    },
+    {
+      "code": 9406072004,
+      "name": "Botumoma"
+    },
+    {
+      "code": 9406072005,
+      "name": "Obaibega"
+    },
+    {
+      "code": 9406072006,
+      "name": "Digikebo"
+    },
+    {
+      "code": 9406072007,
+      "name": "Bogiyateugi"
+    },
+    {
+      "code": 9406072008,
+      "name": "Matadi"
+    },
+    {
+      "code": 9406072009,
+      "name": "Tuwaida"
+    },
+    {
+      "code": 9406072010,
+      "name": "Yepo"
+    },
+    {
+      "code": 9406072011,
+      "name": "Ugikagouda"
+    },
+    {
+      "code": 9406072012,
+      "name": "Ugikebo"
+    }
+  ]
+}

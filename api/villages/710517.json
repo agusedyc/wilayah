@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7105171002,
+      "name": "Kawangkoan Bawah"
+    },
+    {
+      "code": 7105171003,
+      "name": "Rumoong Bawah"
+    },
+    {
+      "code": 7105172001,
+      "name": "Kapitu"
+    },
+    {
+      "code": 7105172004,
+      "name": "Rumoong Bawah"
+    },
+    {
+      "code": 7105172005,
+      "name": "Tewasen"
+    },
+    {
+      "code": 7105172006,
+      "name": "Pondos"
+    },
+    {
+      "code": 7105172007,
+      "name": "Elusan"
+    },
+    {
+      "code": 7105172008,
+      "name": "Teep"
+    },
+    {
+      "code": 7105172009,
+      "name": "Wakan"
+    },
+    {
+      "code": 7105172010,
+      "name": "Teep Trans"
+    }
+  ]
+}

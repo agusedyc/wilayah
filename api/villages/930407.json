@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9304072001,
+      "name": "Binam"
+    },
+    {
+      "code": 9304072002,
+      "name": "Wagabus"
+    },
+    {
+      "code": 9304072003,
+      "name": "Burbis"
+    },
+    {
+      "code": 9304072004,
+      "name": "Bubis"
+    },
+    {
+      "code": 9304072005,
+      "name": "Karbis"
+    },
+    {
+      "code": 9304072006,
+      "name": "Jinak"
+    },
+    {
+      "code": 9304072007,
+      "name": "Wowi"
+    },
+    {
+      "code": 9304072008,
+      "name": "Soray"
+    },
+    {
+      "code": 9304072009,
+      "name": "Waganu Dua"
+    },
+    {
+      "code": 9304072014,
+      "name": "Emnam"
+    }
+  ]
+}

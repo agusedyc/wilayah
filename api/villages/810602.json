@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106022002,
+      "name": "Kawa"
+    },
+    {
+      "code": 8106022003,
+      "name": "Piru"
+    },
+    {
+      "code": 8106022004,
+      "name": "Neniari"
+    },
+    {
+      "code": 8106022005,
+      "name": "Morekau"
+    },
+    {
+      "code": 8106022006,
+      "name": "Lumoli"
+    },
+    {
+      "code": 8106022007,
+      "name": "Eti"
+    },
+    {
+      "code": 8106022008,
+      "name": "Kaibobo"
+    }
+  ]
+}

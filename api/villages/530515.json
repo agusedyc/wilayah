@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5305152001,
+      "name": "Lembur Timur"
+    },
+    {
+      "code": 5305152002,
+      "name": "Luba"
+    },
+    {
+      "code": 5305152003,
+      "name": "Talwai"
+    },
+    {
+      "code": 5305152004,
+      "name": "Tulleng"
+    },
+    {
+      "code": 5305152005,
+      "name": "Waimi"
+    },
+    {
+      "code": 5305152006,
+      "name": "Tasi"
+    }
+  ]
+}

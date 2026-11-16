@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3212072006,
+      "name": "Bangkaloa Ilir"
+    },
+    {
+      "code": 3212072007,
+      "name": "Widasari"
+    },
+    {
+      "code": 3212072008,
+      "name": "Kalensari"
+    },
+    {
+      "code": 3212072010,
+      "name": "Bunder"
+    },
+    {
+      "code": 3212072011,
+      "name": "Ujungaris"
+    },
+    {
+      "code": 3212072012,
+      "name": "Kongsijaya"
+    },
+    {
+      "code": 3212072013,
+      "name": "Ujungjaya"
+    },
+    {
+      "code": 3212072014,
+      "name": "Ujungpondok Jaya"
+    },
+    {
+      "code": 3212072015,
+      "name": "Leuwigede"
+    },
+    {
+      "code": 3212072016,
+      "name": "Kasmaran"
+    }
+  ]
+}

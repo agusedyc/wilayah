@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 8101212001,
+      "name": "Waraka"
+    },
+    {
+      "code": 8101212002,
+      "name": "Tananahu"
+    },
+    {
+      "code": 8101212003,
+      "name": "Liang"
+    },
+    {
+      "code": 8101212004,
+      "name": "Sahulauw"
+    }
+  ]
+}

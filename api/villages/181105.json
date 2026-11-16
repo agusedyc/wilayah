@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1811052001,
+      "name": "Simpang Pematang"
+    },
+    {
+      "code": 1811052002,
+      "name": "Budi Aji"
+    },
+    {
+      "code": 1811052003,
+      "name": "Margo Rahayu"
+    },
+    {
+      "code": 1811052004,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 1811052005,
+      "name": "Wira Bangun"
+    },
+    {
+      "code": 1811052006,
+      "name": "Agung Batin"
+    },
+    {
+      "code": 1811052007,
+      "name": "Bangun Mulyo"
+    },
+    {
+      "code": 1811052008,
+      "name": "Jaya Sakti"
+    },
+    {
+      "code": 1811052009,
+      "name": "Rejo Binangun"
+    },
+    {
+      "code": 1811052010,
+      "name": "Simpang Mesuji"
+    },
+    {
+      "code": 1811052011,
+      "name": "Margo Makmur"
+    },
+    {
+      "code": 1811052012,
+      "name": "Aji Jaya"
+    },
+    {
+      "code": 1811052013,
+      "name": "Mulya Agung"
+    }
+  ]
+}

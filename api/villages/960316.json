@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603162001,
+      "name": "Weijim Barat"
+    },
+    {
+      "code": 9603162002,
+      "name": "Weijim Timur"
+    },
+    {
+      "code": 9603162003,
+      "name": "Satokurano"
+    },
+    {
+      "code": 9603162004,
+      "name": "Pulau Tikus"
+    }
+  ]
+}

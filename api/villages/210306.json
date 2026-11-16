@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2103061003,
+      "name": "Serasan"
+    },
+    {
+      "code": 2103062002,
+      "name": "Kampung Hilir"
+    },
+    {
+      "code": 2103062005,
+      "name": "Batu Berlian"
+    },
+    {
+      "code": 2103062006,
+      "name": "Tanjung Setelung"
+    },
+    {
+      "code": 2103062007,
+      "name": "Tanjung Balau"
+    },
+    {
+      "code": 2103062010,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 2103062011,
+      "name": "Jermalik"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1507041006,
+      "name": "Bandar Jaya"
+    },
+    {
+      "code": 1507042004,
+      "name": "Rantau Rasau I"
+    },
+    {
+      "code": 1507042005,
+      "name": "Rantau Rasau II"
+    },
+    {
+      "code": 1507042007,
+      "name": "Harapan Makmur"
+    },
+    {
+      "code": 1507042008,
+      "name": "Bangun Karya"
+    },
+    {
+      "code": 1507042009,
+      "name": "Rantau Jaya"
+    },
+    {
+      "code": 1507042011,
+      "name": "Sungai Dusun"
+    },
+    {
+      "code": 1507042013,
+      "name": "Karya Bakti"
+    },
+    {
+      "code": 1507042014,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1507042015,
+      "name": "Pematang Mayan"
+    },
+    {
+      "code": 1507042016,
+      "name": "Tri Mulyo"
+    }
+  ]
+}

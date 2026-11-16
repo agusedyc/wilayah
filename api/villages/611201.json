@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 6112012001,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 6112012002,
+      "name": "Sungai Ambangah"
+    },
+    {
+      "code": 6112012003,
+      "name": "Arang Limbung"
+    },
+    {
+      "code": 6112012004,
+      "name": "Kuala Dua"
+    },
+    {
+      "code": 6112012005,
+      "name": "Tebang Kacang"
+    },
+    {
+      "code": 6112012006,
+      "name": "Sungai Asam"
+    },
+    {
+      "code": 6112012007,
+      "name": "Pulau Limbung"
+    },
+    {
+      "code": 6112012008,
+      "name": "Kapur"
+    },
+    {
+      "code": 6112012009,
+      "name": "Gunung Tamang"
+    },
+    {
+      "code": 6112012010,
+      "name": "Sungai Bulan"
+    },
+    {
+      "code": 6112012011,
+      "name": "Limbung"
+    },
+    {
+      "code": 6112012012,
+      "name": "Teluk Kapuas"
+    },
+    {
+      "code": 6112012013,
+      "name": "Madu Sari"
+    },
+    {
+      "code": 6112012014,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 6112012015,
+      "name": "Mekar Baru"
+    },
+    {
+      "code": 6112012016,
+      "name": "Sungai Raya Dalam"
+    },
+    {
+      "code": 6112012017,
+      "name": "Parit Baru"
+    },
+    {
+      "code": 6112012018,
+      "name": "Pulau Jambu"
+    },
+    {
+      "code": 6112012019,
+      "name": "Kalibandung"
+    },
+    {
+      "code": 6112012020,
+      "name": "Muara Baru"
+    },
+    {
+      "code": 6112012021,
+      "name": "Sukulanting"
+    },
+    {
+      "code": 6112012022,
+      "name": "Permata Jaya"
+    }
+  ]
+}

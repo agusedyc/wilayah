@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201162001,
+      "name": "Lobu"
+    },
+    {
+      "code": 7201162002,
+      "name": "Bolobungkang"
+    },
+    {
+      "code": 7201162003,
+      "name": "Niubulan"
+    },
+    {
+      "code": 7201162004,
+      "name": "Kadodi"
+    },
+    {
+      "code": 7201162005,
+      "name": "Uha Uhangon"
+    },
+    {
+      "code": 7201162006,
+      "name": "Bahingin"
+    },
+    {
+      "code": 7201162007,
+      "name": "Uwe Daka-Daka"
+    },
+    {
+      "code": 7201162008,
+      "name": "Balean"
+    },
+    {
+      "code": 7201162009,
+      "name": "Dolom"
+    },
+    {
+      "code": 7201162010,
+      "name": "Lambuli"
+    }
+  ]
+}

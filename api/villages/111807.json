@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1118072001,
+      "name": "Keude Panteraja"
+    },
+    {
+      "code": 1118072002,
+      "name": "Tu"
+    },
+    {
+      "code": 1118072003,
+      "name": "Hagu"
+    },
+    {
+      "code": 1118072004,
+      "name": "Muka Blang"
+    },
+    {
+      "code": 1118072005,
+      "name": "Lhok Puuk"
+    },
+    {
+      "code": 1118072006,
+      "name": "Mesjid"
+    },
+    {
+      "code": 1118072007,
+      "name": "Teungoh"
+    },
+    {
+      "code": 1118072008,
+      "name": "Tunong"
+    },
+    {
+      "code": 1118072009,
+      "name": "Peurade"
+    },
+    {
+      "code": 1118072010,
+      "name": "Reudeup"
+    }
+  ]
+}

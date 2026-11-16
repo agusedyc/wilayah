@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1813011005,
+      "name": "Pasar Krui"
+    },
+    {
+      "code": 1813011008,
+      "name": "Pasar Kota Krui"
+    },
+    {
+      "code": 1813012001,
+      "name": "Way Redak"
+    },
+    {
+      "code": 1813012002,
+      "name": "Seray"
+    },
+    {
+      "code": 1813012003,
+      "name": "Kampung Jawa"
+    },
+    {
+      "code": 1813012004,
+      "name": "Rawas"
+    },
+    {
+      "code": 1813012006,
+      "name": "Suka Negara"
+    },
+    {
+      "code": 1813012007,
+      "name": "Pahmungan"
+    }
+  ]
+}

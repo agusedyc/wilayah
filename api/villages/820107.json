@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 8201072001,
+      "name": "Podol"
+    },
+    {
+      "code": 8201072002,
+      "name": "Tengowango"
+    },
+    {
+      "code": 8201072003,
+      "name": "Togowo"
+    },
+    {
+      "code": 8201072004,
+      "name": "Duono"
+    },
+    {
+      "code": 8201072005,
+      "name": "Goin"
+    },
+    {
+      "code": 8201072006,
+      "name": "Sangaji Nyeku"
+    },
+    {
+      "code": 8201072007,
+      "name": "Tuguis"
+    },
+    {
+      "code": 8201072008,
+      "name": "Togoreba Sungi"
+    },
+    {
+      "code": 8201072009,
+      "name": "Barona"
+    },
+    {
+      "code": 8201072010,
+      "name": "Todoke"
+    },
+    {
+      "code": 8201072011,
+      "name": "Tolisaor"
+    },
+    {
+      "code": 8201072012,
+      "name": "Pasalulu"
+    },
+    {
+      "code": 8201072013,
+      "name": "Togoreba Tua"
+    },
+    {
+      "code": 8201072014,
+      "name": "Tukuoku"
+    },
+    {
+      "code": 8201072015,
+      "name": "Soasangaji"
+    },
+    {
+      "code": 8201072016,
+      "name": "Aru Jaya"
+    }
+  ]
+}

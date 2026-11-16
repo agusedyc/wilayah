@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5208042001,
+      "name": "Bayan"
+    },
+    {
+      "code": 5208042002,
+      "name": "Loloan"
+    },
+    {
+      "code": 5208042003,
+      "name": "Anyar"
+    },
+    {
+      "code": 5208042004,
+      "name": "Sukadana"
+    },
+    {
+      "code": 5208042005,
+      "name": "Akar Akar"
+    },
+    {
+      "code": 5208042006,
+      "name": "Senaru"
+    },
+    {
+      "code": 5208042007,
+      "name": "Mumbul Sari"
+    },
+    {
+      "code": 5208042008,
+      "name": "Sambik Elen"
+    },
+    {
+      "code": 5208042009,
+      "name": "Karang Bajo"
+    },
+    {
+      "code": 5208042010,
+      "name": "Gunjan Asri"
+    },
+    {
+      "code": 5208042011,
+      "name": "Andalan"
+    },
+    {
+      "code": 5208042012,
+      "name": "Batu Rakit"
+    }
+  ]
+}

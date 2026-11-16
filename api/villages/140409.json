@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1404091003,
+      "name": "Kota Baru Reteh"
+    },
+    {
+      "code": 1404092001,
+      "name": "Pebenaan"
+    },
+    {
+      "code": 1404092002,
+      "name": "Seberang Pebenaan"
+    },
+    {
+      "code": 1404092004,
+      "name": "Nusantara Jaya"
+    },
+    {
+      "code": 1404092005,
+      "name": "Kota Baru Seberida"
+    },
+    {
+      "code": 1404092006,
+      "name": "Kembang Mekarsari"
+    },
+    {
+      "code": 1404092007,
+      "name": "Pasar Kembang"
+    },
+    {
+      "code": 1404092008,
+      "name": "Kuala Keritang"
+    },
+    {
+      "code": 1404092009,
+      "name": "Kuala Lemang"
+    },
+    {
+      "code": 1404092010,
+      "name": "Telukkelasa"
+    },
+    {
+      "code": 1404092011,
+      "name": "Pengalihan"
+    },
+    {
+      "code": 1404092012,
+      "name": "Pancur"
+    },
+    {
+      "code": 1404092013,
+      "name": "Sencalang"
+    },
+    {
+      "code": 1404092014,
+      "name": "Petalongan"
+    },
+    {
+      "code": 1404092015,
+      "name": "Nyiur Permai"
+    },
+    {
+      "code": 1404092016,
+      "name": "Lintas Utara"
+    },
+    {
+      "code": 1404092017,
+      "name": "Kayu Raja"
+    }
+  ]
+}

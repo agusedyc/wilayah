@@ -1,0 +1,142 @@
+{
+  "success": true,
+  "message": "Showing 34 villages",
+  "data": [
+    {
+      "code": 8201012001,
+      "name": "Gufasa"
+    },
+    {
+      "code": 8201012002,
+      "name": "Guaimaadu"
+    },
+    {
+      "code": 8201012003,
+      "name": "Jalan Baru"
+    },
+    {
+      "code": 8201012004,
+      "name": "Gam Lamo"
+    },
+    {
+      "code": 8201012005,
+      "name": "Soakonora"
+    },
+    {
+      "code": 8201012006,
+      "name": "Galala"
+    },
+    {
+      "code": 8201012007,
+      "name": "Bobanehena"
+    },
+    {
+      "code": 8201012008,
+      "name": "Payo"
+    },
+    {
+      "code": 8201012009,
+      "name": "Bobo"
+    },
+    {
+      "code": 8201012010,
+      "name": "Saria"
+    },
+    {
+      "code": 8201012011,
+      "name": "Idam Dehe"
+    },
+    {
+      "code": 8201012012,
+      "name": "Idamdehe Gamsungi"
+    },
+    {
+      "code": 8201012013,
+      "name": "Marmabati"
+    },
+    {
+      "code": 8201012014,
+      "name": "Gamtala"
+    },
+    {
+      "code": 8201012015,
+      "name": "Lolory"
+    },
+    {
+      "code": 8201012016,
+      "name": "Toboso"
+    },
+    {
+      "code": 8201012017,
+      "name": "Huku-Huku Kie"
+    },
+    {
+      "code": 8201012018,
+      "name": "Acango"
+    },
+    {
+      "code": 8201012019,
+      "name": "Tedeng"
+    },
+    {
+      "code": 8201012020,
+      "name": "Akediri"
+    },
+    {
+      "code": 8201012021,
+      "name": "Pornity"
+    },
+    {
+      "code": 8201012022,
+      "name": "Buku Matiti"
+    },
+    {
+      "code": 8201012023,
+      "name": "Todowongi"
+    },
+    {
+      "code": 8201012024,
+      "name": "Tuada"
+    },
+    {
+      "code": 8201012025,
+      "name": "Matui"
+    },
+    {
+      "code": 8201012026,
+      "name": "Buku Bualawa"
+    },
+    {
+      "code": 8201012027,
+      "name": "Tauro"
+    },
+    {
+      "code": 8201012034,
+      "name": "Hate Bicara"
+    },
+    {
+      "code": 8201012035,
+      "name": "Guaria"
+    },
+    {
+      "code": 8201012036,
+      "name": "Pateng"
+    },
+    {
+      "code": 8201012037,
+      "name": "Bobo Jiko"
+    },
+    {
+      "code": 8201012038,
+      "name": "Ulo"
+    },
+    {
+      "code": 8201012039,
+      "name": "Kuripasai"
+    },
+    {
+      "code": 8201012040,
+      "name": "Buku Maadu"
+    }
+  ]
+}

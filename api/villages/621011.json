@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6210111005,
+      "name": "Tehang"
+    },
+    {
+      "code": 6210112002,
+      "name": "Tumbang Samui"
+    },
+    {
+      "code": 6210112003,
+      "name": "Tumbang Oroi"
+    },
+    {
+      "code": 6210112004,
+      "name": "Luwuk Tukau"
+    },
+    {
+      "code": 6210112006,
+      "name": "Putat Durei"
+    },
+    {
+      "code": 6210112007,
+      "name": "Tumbang Mantuhe"
+    }
+  ]
+}

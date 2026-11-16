@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3529052001,
+      "name": "Guluk Manjung"
+    },
+    {
+      "code": 3529052002,
+      "name": "Kapedi"
+    },
+    {
+      "code": 3529052003,
+      "name": "Pakandangan Barat"
+    },
+    {
+      "code": 3529052004,
+      "name": "Pakandangan Tengah"
+    },
+    {
+      "code": 3529052005,
+      "name": "Pakandangan Sangra"
+    },
+    {
+      "code": 3529052006,
+      "name": "Aeng Dake"
+    },
+    {
+      "code": 3529052007,
+      "name": "Aeng Baja Kenek"
+    },
+    {
+      "code": 3529052008,
+      "name": "Bluto"
+    },
+    {
+      "code": 3529052009,
+      "name": "Lobuk"
+    },
+    {
+      "code": 3529052010,
+      "name": "Bumbungan"
+    },
+    {
+      "code": 3529052011,
+      "name": "Masaran"
+    },
+    {
+      "code": 3529052012,
+      "name": "Palongan"
+    },
+    {
+      "code": 3529052013,
+      "name": "Aeng Baja Raja"
+    },
+    {
+      "code": 3529052014,
+      "name": "Karang Campaka"
+    },
+    {
+      "code": 3529052015,
+      "name": "Sera Barat"
+    },
+    {
+      "code": 3529052016,
+      "name": "Sera Tengah"
+    },
+    {
+      "code": 3529052017,
+      "name": "Sera Timur"
+    },
+    {
+      "code": 3529052018,
+      "name": "Gingging"
+    },
+    {
+      "code": 3529052019,
+      "name": "Errabu"
+    },
+    {
+      "code": 3529052020,
+      "name": "Gilang"
+    }
+  ]
+}

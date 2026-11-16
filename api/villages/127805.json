@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1278052001,
+      "name": "Nazalou Alo'oa"
+    },
+    {
+      "code": 1278052002,
+      "name": "Niko'otano Dao"
+    },
+    {
+      "code": 1278052003,
+      "name": "Iraonolase"
+    },
+    {
+      "code": 1278052004,
+      "name": "Orahili Tanose'o"
+    },
+    {
+      "code": 1278052005,
+      "name": "Tarakhaini"
+    },
+    {
+      "code": 1278052006,
+      "name": "Fadoro Hilimbowo"
+    },
+    {
+      "code": 1278052007,
+      "name": "Fadoro You"
+    },
+    {
+      "code": 1278052008,
+      "name": "Lololawa"
+    },
+    {
+      "code": 1278052009,
+      "name": "Nazalou Lolowua"
+    }
+  ]
+}

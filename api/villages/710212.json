@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102121005,
+      "name": "Sendangan"
+    },
+    {
+      "code": 7102121011,
+      "name": "Kinali"
+    },
+    {
+      "code": 7102121019,
+      "name": "Sendangan Selatan"
+    },
+    {
+      "code": 7102121020,
+      "name": "Sendangan Tengah"
+    },
+    {
+      "code": 7102121028,
+      "name": "Uner Satu"
+    },
+    {
+      "code": 7102121029,
+      "name": "Kinali Satu"
+    },
+    {
+      "code": 7102122012,
+      "name": "Tondegesan"
+    },
+    {
+      "code": 7102122016,
+      "name": "Kanonang Tiga"
+    },
+    {
+      "code": 7102122030,
+      "name": "Tondegesan Satu"
+    },
+    {
+      "code": 7102122031,
+      "name": "Tondegesan Dua"
+    }
+  ]
+}

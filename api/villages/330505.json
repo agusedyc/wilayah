@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 3305052001,
+      "name": "Jogosimo"
+    },
+    {
+      "code": 3305052002,
+      "name": "Tanggulangin"
+    },
+    {
+      "code": 3305052003,
+      "name": "Pandanlor"
+    },
+    {
+      "code": 3305052004,
+      "name": "Tambakprogaten"
+    },
+    {
+      "code": 3305052005,
+      "name": "Gebangsari"
+    },
+    {
+      "code": 3305052006,
+      "name": "Klegenrejo"
+    },
+    {
+      "code": 3305052007,
+      "name": "Bendogarap"
+    },
+    {
+      "code": 3305052008,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3305052009,
+      "name": "Jerukagung"
+    },
+    {
+      "code": 3305052010,
+      "name": "Klegenwonosari"
+    },
+    {
+      "code": 3305052011,
+      "name": "Klirong"
+    },
+    {
+      "code": 3305052012,
+      "name": "Kaliwungu"
+    },
+    {
+      "code": 3305052013,
+      "name": "Jatimalang"
+    },
+    {
+      "code": 3305052014,
+      "name": "Karangglonggong"
+    },
+    {
+      "code": 3305052015,
+      "name": "Ranterejo"
+    },
+    {
+      "code": 3305052016,
+      "name": "Wotbuwono"
+    },
+    {
+      "code": 3305052017,
+      "name": "Tambakagung"
+    },
+    {
+      "code": 3305052018,
+      "name": "Sitirejo"
+    },
+    {
+      "code": 3305052019,
+      "name": "Gadungrejo"
+    },
+    {
+      "code": 3305052020,
+      "name": "Dorowati"
+    },
+    {
+      "code": 3305052021,
+      "name": "Bumiharjo"
+    },
+    {
+      "code": 3305052022,
+      "name": "Kebadongan"
+    },
+    {
+      "code": 3305052023,
+      "name": "Podoluhur"
+    },
+    {
+      "code": 3305052024,
+      "name": "Kedungwinangun"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9105082001,
+      "name": "Waindu"
+    },
+    {
+      "code": 9105082008,
+      "name": "Barawai"
+    },
+    {
+      "code": 9105082009,
+      "name": "Woda"
+    },
+    {
+      "code": 9105082010,
+      "name": "Kororompui"
+    },
+    {
+      "code": 9105082011,
+      "name": "Aisau"
+    },
+    {
+      "code": 9105082012,
+      "name": "Sewenui"
+    },
+    {
+      "code": 9105082013,
+      "name": "Sawendui"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8101112011,
+      "name": "Telutih Baru"
+    },
+    {
+      "code": 8101112012,
+      "name": "Mosso"
+    },
+    {
+      "code": 8101112013,
+      "name": "Hatumete"
+    },
+    {
+      "code": 8101112014,
+      "name": "Hatu"
+    },
+    {
+      "code": 8101112015,
+      "name": "Piliana"
+    },
+    {
+      "code": 8101112016,
+      "name": "Yaputih"
+    },
+    {
+      "code": 8101112017,
+      "name": "Saunulu"
+    },
+    {
+      "code": 8101112018,
+      "name": "Tehoru"
+    },
+    {
+      "code": 8101112019,
+      "name": "Haya"
+    },
+    {
+      "code": 8101112020,
+      "name": "Salamahu"
+    }
+  ]
+}

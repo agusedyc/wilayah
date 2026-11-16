@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7105092001,
+      "name": "Boyong Atas"
+    },
+    {
+      "code": 7105092002,
+      "name": "Paku Ure II"
+    },
+    {
+      "code": 7105092003,
+      "name": "Tenga"
+    },
+    {
+      "code": 7105092004,
+      "name": "Radey"
+    },
+    {
+      "code": 7105092005,
+      "name": "Tawaang"
+    },
+    {
+      "code": 7105092009,
+      "name": "Pakuweru"
+    },
+    {
+      "code": 7105092010,
+      "name": "Sapa"
+    },
+    {
+      "code": 7105092011,
+      "name": "Pakuure Satu"
+    },
+    {
+      "code": 7105092012,
+      "name": "Pakuure Tiga"
+    },
+    {
+      "code": 7105092014,
+      "name": "Molinow"
+    },
+    {
+      "code": 7105092015,
+      "name": "Paku Ure"
+    },
+    {
+      "code": 7105092016,
+      "name": "Paku Ure Tinanian"
+    },
+    {
+      "code": 7105092017,
+      "name": "Paku Ure Kinamang"
+    },
+    {
+      "code": 7105092018,
+      "name": "Pakuweru Utara"
+    },
+    {
+      "code": 7105092019,
+      "name": "Sapa Barat"
+    },
+    {
+      "code": 7105092020,
+      "name": "Sapa Timur"
+    },
+    {
+      "code": 7105092021,
+      "name": "Tawaang Timur"
+    },
+    {
+      "code": 7105092022,
+      "name": "Tawaang Barat"
+    }
+  ]
+}

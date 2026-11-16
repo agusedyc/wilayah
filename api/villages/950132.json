@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9501322001,
+      "name": "Miliama"
+    },
+    {
+      "code": 9501322002,
+      "name": "Asologaima"
+    },
+    {
+      "code": 9501322003,
+      "name": "Kewin"
+    },
+    {
+      "code": 9501322004,
+      "name": "Holkima"
+    },
+    {
+      "code": 9501322005,
+      "name": "Helefa"
+    },
+    {
+      "code": 9501322006,
+      "name": "Sekom"
+    },
+    {
+      "code": 9501322007,
+      "name": "Delekama"
+    },
+    {
+      "code": 9501322008,
+      "name": "Molebaga"
+    },
+    {
+      "code": 9501322009,
+      "name": "Silamik"
+    },
+    {
+      "code": 9501322010,
+      "name": "Konan"
+    },
+    {
+      "code": 9501322011,
+      "name": "Pilibaga"
+    },
+    {
+      "code": 9501322012,
+      "name": "Hukuragi"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3212012007,
+      "name": "Haurkolot"
+    },
+    {
+      "code": 3212012008,
+      "name": "Haurgeulis"
+    },
+    {
+      "code": 3212012009,
+      "name": "Sukajati"
+    },
+    {
+      "code": 3212012010,
+      "name": "Wanakaya"
+    },
+    {
+      "code": 3212012011,
+      "name": "Karangtumaritis"
+    },
+    {
+      "code": 3212012012,
+      "name": "Kertanegara"
+    },
+    {
+      "code": 3212012013,
+      "name": "Cipancuh"
+    },
+    {
+      "code": 3212012014,
+      "name": "Mekarjati"
+    },
+    {
+      "code": 3212012015,
+      "name": "Sidadadi"
+    },
+    {
+      "code": 3212012016,
+      "name": "Sumbermulya"
+    }
+  ]
+}

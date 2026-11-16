@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9106112001,
+      "name": "Yendidori"
+    },
+    {
+      "code": 9106112002,
+      "name": "Adoki"
+    },
+    {
+      "code": 9106112003,
+      "name": "Urfu"
+    },
+    {
+      "code": 9106112004,
+      "name": "Samber"
+    },
+    {
+      "code": 9106112005,
+      "name": "Kabidon"
+    },
+    {
+      "code": 9106112006,
+      "name": "Sunyar"
+    },
+    {
+      "code": 9106112007,
+      "name": "Moibaken"
+    },
+    {
+      "code": 9106112008,
+      "name": "Wirmaker"
+    },
+    {
+      "code": 9106112009,
+      "name": "Syabes"
+    },
+    {
+      "code": 9106112010,
+      "name": "Samber Sup"
+    },
+    {
+      "code": 9106112011,
+      "name": "Suneri"
+    },
+    {
+      "code": 9106112012,
+      "name": "Rarnpimbo"
+    },
+    {
+      "code": 9106112013,
+      "name": "Padwa"
+    },
+    {
+      "code": 9106112014,
+      "name": "Waroi"
+    },
+    {
+      "code": 9106112015,
+      "name": "Inpendi"
+    },
+    {
+      "code": 9106112016,
+      "name": "Amyambenram"
+    },
+    {
+      "code": 9106112017,
+      "name": "Birubi"
+    },
+    {
+      "code": 9106112018,
+      "name": "Binyeri"
+    },
+    {
+      "code": 9106112019,
+      "name": "Padwa Pantai"
+    }
+  ]
+}

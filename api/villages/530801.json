@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 5308011001,
+      "name": "Ndorurea"
+    },
+    {
+      "code": 5308012002,
+      "name": "Ondorea"
+    },
+    {
+      "code": 5308012003,
+      "name": "Watumite"
+    },
+    {
+      "code": 5308012004,
+      "name": "Tendarea"
+    },
+    {
+      "code": 5308012005,
+      "name": "Kerirea"
+    },
+    {
+      "code": 5308012006,
+      "name": "Tendambepa"
+    },
+    {
+      "code": 5308012007,
+      "name": "Zozozea"
+    },
+    {
+      "code": 5308012008,
+      "name": "Rapowawo"
+    },
+    {
+      "code": 5308012009,
+      "name": "Nggorea"
+    },
+    {
+      "code": 5308012010,
+      "name": "Raporendu"
+    },
+    {
+      "code": 5308012011,
+      "name": "Bheramari"
+    },
+    {
+      "code": 5308012012,
+      "name": "Tiwerea"
+    },
+    {
+      "code": 5308012013,
+      "name": "Sanggarhorho"
+    },
+    {
+      "code": 5308012014,
+      "name": "Ndeturea"
+    },
+    {
+      "code": 5308012015,
+      "name": "Ndorurea I"
+    },
+    {
+      "code": 5308012016,
+      "name": "Penggajawa"
+    },
+    {
+      "code": 5308012017,
+      "name": "Jegharangga"
+    },
+    {
+      "code": 5308012018,
+      "name": "Ondorea Barat"
+    },
+    {
+      "code": 5308012019,
+      "name": "Romarea"
+    },
+    {
+      "code": 5308012020,
+      "name": "Timbaria"
+    },
+    {
+      "code": 5308012021,
+      "name": "Mbobhenga"
+    },
+    {
+      "code": 5308012022,
+      "name": "Malawaru"
+    },
+    {
+      "code": 5308012023,
+      "name": "Anaraja"
+    },
+    {
+      "code": 5308012024,
+      "name": "Kekandere"
+    },
+    {
+      "code": 5308012025,
+      "name": "Tanazozo"
+    },
+    {
+      "code": 5308012026,
+      "name": "Tenda Ondo"
+    },
+    {
+      "code": 5308012027,
+      "name": "Jemburea"
+    },
+    {
+      "code": 5308012028,
+      "name": "Embuzozo"
+    },
+    {
+      "code": 5308012029,
+      "name": "Uzuzozo"
+    }
+  ]
+}

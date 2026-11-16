@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1214312001,
+      "name": "Baluta"
+    },
+    {
+      "code": 1214312002,
+      "name": "Eho Baluta"
+    },
+    {
+      "code": 1214312003,
+      "name": "Bawo Ofuloa"
+    },
+    {
+      "code": 1214312004,
+      "name": "Hale Baluta"
+    },
+    {
+      "code": 1214312005,
+      "name": "Bawo Orudua"
+    },
+    {
+      "code": 1214312006,
+      "name": "Jeke"
+    },
+    {
+      "code": 1214312007,
+      "name": "Makole"
+    },
+    {
+      "code": 1214312008,
+      "name": "Sifauruasi"
+    },
+    {
+      "code": 1214312009,
+      "name": "Bawo Analita Saeru"
+    },
+    {
+      "code": 1214312010,
+      "name": "Saeru Melayu"
+    },
+    {
+      "code": 1214312011,
+      "name": "Hiligeho Sogawu"
+    },
+    {
+      "code": 1214312012,
+      "name": "Hiliomasio"
+    }
+  ]
+}

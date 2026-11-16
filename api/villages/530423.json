@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5304232001,
+      "name": "Dubesi"
+    },
+    {
+      "code": 5304232002,
+      "name": "Nanaet"
+    },
+    {
+      "code": 5304232003,
+      "name": "Fohoeka"
+    },
+    {
+      "code": 5304232004,
+      "name": "Nanaenoe"
+    }
+  ]
+}

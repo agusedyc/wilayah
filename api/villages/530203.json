@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5302032001,
+      "name": "O'besi"
+    },
+    {
+      "code": 5302032002,
+      "name": "Eonbesi"
+    },
+    {
+      "code": 5302032003,
+      "name": "Bosen"
+    },
+    {
+      "code": 5302032004,
+      "name": "Sebot"
+    },
+    {
+      "code": 5302032007,
+      "name": "Ajaobaki"
+    },
+    {
+      "code": 5302032008,
+      "name": "Netpala"
+    },
+    {
+      "code": 5302032009,
+      "name": "Tunua"
+    },
+    {
+      "code": 5302032010,
+      "name": "Bijaepunu"
+    },
+    {
+      "code": 5302032011,
+      "name": "Nefokoko"
+    },
+    {
+      "code": 5302032012,
+      "name": "Leloboko"
+    },
+    {
+      "code": 5302032013,
+      "name": "Lelobatan"
+    },
+    {
+      "code": 5302032014,
+      "name": "Halmei"
+    },
+    {
+      "code": 5302032015,
+      "name": "Fatukoto"
+    },
+    {
+      "code": 5302032016,
+      "name": "Kokfe'u"
+    },
+    {
+      "code": 5302032017,
+      "name": "To'fen"
+    },
+    {
+      "code": 5302032018,
+      "name": "Taiftob"
+    },
+    {
+      "code": 5302032019,
+      "name": "Iusmolo"
+    },
+    {
+      "code": 5302032020,
+      "name": "To'manat"
+    }
+  ]
+}

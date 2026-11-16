@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7203042001,
+      "name": "Pantolobete"
+    },
+    {
+      "code": 7203042002,
+      "name": "Bonemarawa"
+    },
+    {
+      "code": 7203042003,
+      "name": "Tinauka"
+    },
+    {
+      "code": 7203042004,
+      "name": "Lalundu"
+    },
+    {
+      "code": 7203042005,
+      "name": "Towiora"
+    },
+    {
+      "code": 7203042006,
+      "name": "Minti Makmur"
+    },
+    {
+      "code": 7203042007,
+      "name": "Polanto Jaya"
+    },
+    {
+      "code": 7203042008,
+      "name": "Polando Jaya"
+    },
+    {
+      "code": 7203042009,
+      "name": "Rio Mukti"
+    },
+    {
+      "code": 7203042010,
+      "name": "Panca Mukti"
+    },
+    {
+      "code": 7203042012,
+      "name": "Ngovi"
+    },
+    {
+      "code": 7203042013,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 7203042014,
+      "name": "Mbulawa"
+    },
+    {
+      "code": 7203042015,
+      "name": "Pakava"
+    }
+  ]
+}

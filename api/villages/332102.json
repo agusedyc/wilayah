@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3321022001,
+      "name": "Jragung"
+    },
+    {
+      "code": 3321022002,
+      "name": "Wonosekar"
+    },
+    {
+      "code": 3321022003,
+      "name": "Margohayu"
+    },
+    {
+      "code": 3321022004,
+      "name": "Teluk"
+    },
+    {
+      "code": 3321022005,
+      "name": "Tlogorejo"
+    },
+    {
+      "code": 3321022006,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3321022007,
+      "name": "Karangawen"
+    },
+    {
+      "code": 3321022008,
+      "name": "Kuripan"
+    },
+    {
+      "code": 3321022009,
+      "name": "Bumirejo"
+    },
+    {
+      "code": 3321022010,
+      "name": "Brambang"
+    },
+    {
+      "code": 3321022011,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3321022012,
+      "name": "Pundenarum"
+    }
+  ]
+}

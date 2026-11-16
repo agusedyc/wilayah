@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1871071001,
+      "name": "Pesawahan"
+    },
+    {
+      "code": 1871071002,
+      "name": "Telukbetung"
+    },
+    {
+      "code": 1871071008,
+      "name": "Talang"
+    },
+    {
+      "code": 1871071009,
+      "name": "Gedong Pakuon"
+    },
+    {
+      "code": 1871071012,
+      "name": "Sumur Putri"
+    },
+    {
+      "code": 1871071013,
+      "name": "Gunungmas"
+    }
+  ]
+}

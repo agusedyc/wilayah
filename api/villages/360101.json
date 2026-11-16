@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3601012001,
+      "name": "Sumberjaya"
+    },
+    {
+      "code": 3601012002,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3601012003,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3601012004,
+      "name": "Tunggaljaya"
+    },
+    {
+      "code": 3601012005,
+      "name": "Cigorondong"
+    },
+    {
+      "code": 3601012006,
+      "name": "Tamanjaya"
+    },
+    {
+      "code": 3601012007,
+      "name": "Ujungjaya"
+    }
+  ]
+}

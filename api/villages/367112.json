@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3671121001,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 3671121002,
+      "name": "Karang Mulya"
+    },
+    {
+      "code": 3671121003,
+      "name": "Pondok Bahar"
+    },
+    {
+      "code": 3671121004,
+      "name": "Pondok Pucung"
+    },
+    {
+      "code": 3671121005,
+      "name": "Karang Timur"
+    },
+    {
+      "code": 3671121006,
+      "name": "Padurenan"
+    },
+    {
+      "code": 3671121007,
+      "name": "Parung Jaya"
+    }
+  ]
+}

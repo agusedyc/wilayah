@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9402182001,
+      "name": "Kalome"
+    },
+    {
+      "code": 9402182002,
+      "name": "Agape"
+    },
+    {
+      "code": 9402182003,
+      "name": "Cilome"
+    },
+    {
+      "code": 9402182004,
+      "name": "Longgawi"
+    },
+    {
+      "code": 9402182005,
+      "name": "Wundini"
+    },
+    {
+      "code": 9402182006,
+      "name": "Berem"
+    },
+    {
+      "code": 9402182007,
+      "name": "Diraluk"
+    },
+    {
+      "code": 9402182008,
+      "name": "Yanenggawi"
+    },
+    {
+      "code": 9402182009,
+      "name": "Kayogebur"
+    },
+    {
+      "code": 9402182010,
+      "name": "Wurabume"
+    },
+    {
+      "code": 9402182011,
+      "name": "Binggelakme"
+    },
+    {
+      "code": 9402182012,
+      "name": "Torage"
+    },
+    {
+      "code": 9402182013,
+      "name": "Palumagi"
+    },
+    {
+      "code": 9402182014,
+      "name": "Jiramok"
+    },
+    {
+      "code": 9402182015,
+      "name": "Jinggwi"
+    },
+    {
+      "code": 9402182016,
+      "name": "Pilibur"
+    }
+  ]
+}

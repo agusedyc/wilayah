@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503222001,
+      "name": "Nipsan"
+    },
+    {
+      "code": 9503222002,
+      "name": "Tapla"
+    },
+    {
+      "code": 9503222003,
+      "name": "Walmak"
+    },
+    {
+      "code": 9503222004,
+      "name": "Serengon"
+    },
+    {
+      "code": 9503222005,
+      "name": "Ikmu"
+    },
+    {
+      "code": 9503222006,
+      "name": "Biu"
+    },
+    {
+      "code": 9503222007,
+      "name": "Ilukdamon"
+    },
+    {
+      "code": 9503222008,
+      "name": "Yalmun"
+    }
+  ]
+}

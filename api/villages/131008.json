@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1310082001,
+      "name": "Tiumang"
+    },
+    {
+      "code": 1310082002,
+      "name": "Sungai Langkok"
+    },
+    {
+      "code": 1310082003,
+      "name": "Koto Beringin"
+    },
+    {
+      "code": 1310082004,
+      "name": "Sipangkur"
+    }
+  ]
+}

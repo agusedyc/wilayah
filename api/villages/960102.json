@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9601022001,
+      "name": "Klabra"
+    },
+    {
+      "code": 9601022002,
+      "name": "Wanurian"
+    },
+    {
+      "code": 9601022003,
+      "name": "Klarion"
+    },
+    {
+      "code": 9601022004,
+      "name": "Kaas"
+    },
+    {
+      "code": 9601022005,
+      "name": "Wensi"
+    },
+    {
+      "code": 9601022006,
+      "name": "Mumpi"
+    },
+    {
+      "code": 9601022007,
+      "name": "Klamak"
+    },
+    {
+      "code": 9601022008,
+      "name": "Serselion"
+    },
+    {
+      "code": 9601022009,
+      "name": "Kmafo"
+    },
+    {
+      "code": 9601022010,
+      "name": "Midlal"
+    },
+    {
+      "code": 9601022011,
+      "name": "Sorain"
+    },
+    {
+      "code": 9601022012,
+      "name": "Armoin"
+    },
+    {
+      "code": 9601022013,
+      "name": "Serselion Baru"
+    }
+  ]
+}

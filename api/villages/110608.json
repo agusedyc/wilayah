@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1106082001,
+      "name": "Lambadeuk"
+    },
+    {
+      "code": 1106082002,
+      "name": "Lamguron"
+    },
+    {
+      "code": 1106082003,
+      "name": "Lambaro Nejid"
+    },
+    {
+      "code": 1106082004,
+      "name": "Lampageu"
+    },
+    {
+      "code": 1106082005,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1106082006,
+      "name": "Lam Manyang"
+    },
+    {
+      "code": 1106082007,
+      "name": "Lamteh"
+    },
+    {
+      "code": 1106082008,
+      "name": "Lam Lumpu"
+    },
+    {
+      "code": 1106082009,
+      "name": "Lamteungoh"
+    },
+    {
+      "code": 1106082010,
+      "name": "Lamtutui"
+    },
+    {
+      "code": 1106082011,
+      "name": "Meunasah Tuha"
+    },
+    {
+      "code": 1106082012,
+      "name": "Lam Awe"
+    },
+    {
+      "code": 1106082013,
+      "name": "Pulo Bunta"
+    },
+    {
+      "code": 1106082014,
+      "name": "Beuradeun"
+    },
+    {
+      "code": 1106082015,
+      "name": "Lampisang"
+    },
+    {
+      "code": 1106082016,
+      "name": "Keuneu Eu"
+    },
+    {
+      "code": 1106082017,
+      "name": "Lam Isek"
+    },
+    {
+      "code": 1106082018,
+      "name": "Lamkeumok"
+    },
+    {
+      "code": 1106082019,
+      "name": "Lam Rukam"
+    },
+    {
+      "code": 1106082020,
+      "name": "Gurah"
+    },
+    {
+      "code": 1106082021,
+      "name": "Rima Jeuneu"
+    },
+    {
+      "code": 1106082022,
+      "name": "Lam Geu Eu"
+    },
+    {
+      "code": 1106082023,
+      "name": "Lam Hasan"
+    },
+    {
+      "code": 1106082024,
+      "name": "Paya Tieng"
+    },
+    {
+      "code": 1106082025,
+      "name": "Ajuen"
+    },
+    {
+      "code": 1106082026,
+      "name": "Rima Keuneurom"
+    }
+  ]
+}

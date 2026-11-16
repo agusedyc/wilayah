@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7210092001,
+      "name": "Bangga"
+    },
+    {
+      "code": 7210092002,
+      "name": "Walatana"
+    },
+    {
+      "code": 7210092003,
+      "name": "Bulubete"
+    },
+    {
+      "code": 7210092004,
+      "name": "Baluase"
+    },
+    {
+      "code": 7210092005,
+      "name": "Rogo"
+    },
+    {
+      "code": 7210092006,
+      "name": "Pulu"
+    },
+    {
+      "code": 7210092007,
+      "name": "Balongga"
+    },
+    {
+      "code": 7210092008,
+      "name": "Sambo"
+    },
+    {
+      "code": 7210092009,
+      "name": "Wisolo"
+    },
+    {
+      "code": 7210092010,
+      "name": "Jono"
+    },
+    {
+      "code": 7210092011,
+      "name": "Poi"
+    },
+    {
+      "code": 7210092012,
+      "name": "Ramba"
+    }
+  ]
+}

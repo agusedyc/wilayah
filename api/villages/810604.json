@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106042001,
+      "name": "Waesala"
+    },
+    {
+      "code": 8106042002,
+      "name": "Allang Asaude"
+    },
+    {
+      "code": 8106042003,
+      "name": "Sole"
+    },
+    {
+      "code": 8106042004,
+      "name": "Tonu Jaya"
+    },
+    {
+      "code": 8106042005,
+      "name": "Tahalupu"
+    },
+    {
+      "code": 8106042006,
+      "name": "Buano Utara"
+    },
+    {
+      "code": 8106042007,
+      "name": "Buano Selatan"
+    }
+  ]
+}

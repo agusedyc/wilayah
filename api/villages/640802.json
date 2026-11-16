@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6408022001,
+      "name": "Jak Luay"
+    },
+    {
+      "code": 6408022002,
+      "name": "Nehes Liah Bing"
+    },
+    {
+      "code": 6408022003,
+      "name": "Muara Wahau"
+    },
+    {
+      "code": 6408022004,
+      "name": "Dabeq"
+    },
+    {
+      "code": 6408022005,
+      "name": "Diaq Lay"
+    },
+    {
+      "code": 6408022006,
+      "name": "Benhes"
+    },
+    {
+      "code": 6408022007,
+      "name": "Wanasari"
+    },
+    {
+      "code": 6408022008,
+      "name": "Wahau Baru"
+    },
+    {
+      "code": 6408022009,
+      "name": "Karya Bhakti"
+    },
+    {
+      "code": 6408022010,
+      "name": "Long Wehea"
+    }
+  ]
+}

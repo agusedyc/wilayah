@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507092001,
+      "name": "Kuyawage"
+    },
+    {
+      "code": 9507092002,
+      "name": "Wupaga"
+    },
+    {
+      "code": 9507092003,
+      "name": "Luarem"
+    },
+    {
+      "code": 9507092004,
+      "name": "Tumbupur"
+    },
+    {
+      "code": 9507092005,
+      "name": "Uwome"
+    },
+    {
+      "code": 9507092006,
+      "name": "Tunikele"
+    },
+    {
+      "code": 9507092007,
+      "name": "Peko"
+    },
+    {
+      "code": 9507092008,
+      "name": "Yugunomba"
+    }
+  ]
+}

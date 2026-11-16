@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5203062001,
+      "name": "Setanggor"
+    },
+    {
+      "code": 5203062002,
+      "name": "Jantuk"
+    },
+    {
+      "code": 5203062003,
+      "name": "Padamara"
+    },
+    {
+      "code": 5203062004,
+      "name": "Dasan Lekong"
+    },
+    {
+      "code": 5203062005,
+      "name": "Sukamulia"
+    },
+    {
+      "code": 5203062006,
+      "name": "Paok Pampang"
+    },
+    {
+      "code": 5203062007,
+      "name": "Sukamulia Timur"
+    },
+    {
+      "code": 5203062008,
+      "name": "Nyiur Tebel"
+    },
+    {
+      "code": 5203062009,
+      "name": "Setanggor Selatan"
+    }
+  ]
+}

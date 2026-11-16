@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3301182001,
+      "name": "Caruy"
+    },
+    {
+      "code": 3301182002,
+      "name": "Segaralangu"
+    },
+    {
+      "code": 3301182003,
+      "name": "Pegadingan"
+    },
+    {
+      "code": 3301182004,
+      "name": "Cisuru"
+    },
+    {
+      "code": 3301182005,
+      "name": "Cipari"
+    },
+    {
+      "code": 3301182006,
+      "name": "Serang"
+    },
+    {
+      "code": 3301182007,
+      "name": "Mulyadadi"
+    },
+    {
+      "code": 3301182008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3301182009,
+      "name": "Kutasari"
+    },
+    {
+      "code": 3301182010,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3301182011,
+      "name": "Sidasari"
+    }
+  ]
+}

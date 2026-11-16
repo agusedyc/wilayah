@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3209272001,
+      "name": "Tangkil"
+    },
+    {
+      "code": 3209272002,
+      "name": "Wiyong"
+    },
+    {
+      "code": 3209272003,
+      "name": "Kedongdong"
+    },
+    {
+      "code": 3209272004,
+      "name": "Gintung Lor"
+    },
+    {
+      "code": 3209272005,
+      "name": "Bojong Kulon"
+    },
+    {
+      "code": 3209272006,
+      "name": "Kejiwan"
+    },
+    {
+      "code": 3209272007,
+      "name": "Susukan"
+    },
+    {
+      "code": 3209272008,
+      "name": "Luwung Kencana"
+    },
+    {
+      "code": 3209272009,
+      "name": "Bunder"
+    },
+    {
+      "code": 3209272010,
+      "name": "Jatipura"
+    },
+    {
+      "code": 3209272011,
+      "name": "Ujunggebang"
+    },
+    {
+      "code": 3209272012,
+      "name": "Jatianom"
+    }
+  ]
+}

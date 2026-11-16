@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7104112001,
+      "name": "Bitunuris"
+    },
+    {
+      "code": 7104112002,
+      "name": "Bitunuris Selatan"
+    },
+    {
+      "code": 7104112003,
+      "name": "Salibabu"
+    },
+    {
+      "code": 7104112004,
+      "name": "Salibabu Utara"
+    },
+    {
+      "code": 7104112005,
+      "name": "Dalum"
+    },
+    {
+      "code": 7104112006,
+      "name": "Balang"
+    }
+  ]
+}

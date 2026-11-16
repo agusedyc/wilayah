@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3578091001,
+      "name": "Keputih"
+    },
+    {
+      "code": 3578091002,
+      "name": "Gebang Putih"
+    },
+    {
+      "code": 3578091003,
+      "name": "Klampis Ngasem"
+    },
+    {
+      "code": 3578091004,
+      "name": "Menur Pumpungan"
+    },
+    {
+      "code": 3578091005,
+      "name": "Nginden Jangkungan"
+    },
+    {
+      "code": 3578091006,
+      "name": "Semolowaru"
+    },
+    {
+      "code": 3578091007,
+      "name": "Medokan Semampir"
+    }
+  ]
+}

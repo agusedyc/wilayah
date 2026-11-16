@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206342001,
+      "name": "Dawagung"
+    },
+    {
+      "code": 3206342002,
+      "name": "Rajapolah"
+    },
+    {
+      "code": 3206342003,
+      "name": "Manggungjaya"
+    },
+    {
+      "code": 3206342004,
+      "name": "Manggungsari"
+    },
+    {
+      "code": 3206342005,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3206342006,
+      "name": "Rajamandala"
+    },
+    {
+      "code": 3206342007,
+      "name": "Sukanagalih"
+    },
+    {
+      "code": 3206342008,
+      "name": "Tanjungpura"
+    }
+  ]
+}

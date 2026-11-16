@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7310071001,
+      "name": "Labakkang"
+    },
+    {
+      "code": 7310071002,
+      "name": "Mangallekana"
+    },
+    {
+      "code": 7310071003,
+      "name": "Pundata Baji"
+    },
+    {
+      "code": 7310071004,
+      "name": "Borimasunggu"
+    },
+    {
+      "code": 7310072005,
+      "name": "Patallassang"
+    },
+    {
+      "code": 7310072006,
+      "name": "Manakku"
+    },
+    {
+      "code": 7310072007,
+      "name": "Gentung"
+    },
+    {
+      "code": 7310072008,
+      "name": "Batara"
+    },
+    {
+      "code": 7310072009,
+      "name": "Taraweang"
+    },
+    {
+      "code": 7310072010,
+      "name": "Kanaungan"
+    },
+    {
+      "code": 7310072011,
+      "name": "Bonto Manai"
+    },
+    {
+      "code": 7310072012,
+      "name": "Kassiloe"
+    },
+    {
+      "code": 7310072013,
+      "name": "Bara Batu"
+    }
+  ]
+}

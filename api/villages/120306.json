@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1203061001,
+      "name": "Simarpinggan"
+    },
+    {
+      "code": 1203061007,
+      "name": "Napa"
+    },
+    {
+      "code": 1203061014,
+      "name": "Tapian Nauli"
+    },
+    {
+      "code": 1203061019,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1203062004,
+      "name": "Situmbaga"
+    },
+    {
+      "code": 1203062005,
+      "name": "Sinyior"
+    },
+    {
+      "code": 1203062006,
+      "name": "Pintu Padang"
+    },
+    {
+      "code": 1203062008,
+      "name": "Sibong-bong"
+    },
+    {
+      "code": 1203062009,
+      "name": "Siamporik Dolok"
+    },
+    {
+      "code": 1203062010,
+      "name": "Siamporik Lombang"
+    },
+    {
+      "code": 1203062011,
+      "name": "Sihopur"
+    },
+    {
+      "code": 1203062012,
+      "name": "Tandihat"
+    },
+    {
+      "code": 1203062013,
+      "name": "Perkebunan Marpinggan"
+    },
+    {
+      "code": 1203062015,
+      "name": "Aek Natas"
+    },
+    {
+      "code": 1203062016,
+      "name": "Dolok Godang"
+    },
+    {
+      "code": 1203062017,
+      "name": "Sihuik-huik"
+    },
+    {
+      "code": 1203062018,
+      "name": "Gunung Baringin"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3204382001,
+      "name": "Pasirjambu"
+    },
+    {
+      "code": 3204382002,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3204382003,
+      "name": "Cikoneng"
+    },
+    {
+      "code": 3204382004,
+      "name": "Cukanggenteng"
+    },
+    {
+      "code": 3204382005,
+      "name": "Cisondari"
+    },
+    {
+      "code": 3204382006,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3204382007,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3204382008,
+      "name": "Mekarmaju"
+    },
+    {
+      "code": 3204382009,
+      "name": "Sugihmukti"
+    },
+    {
+      "code": 3204382010,
+      "name": "Tenjolaya"
+    }
+  ]
+}

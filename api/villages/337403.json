@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3374031001,
+      "name": "Kemijen"
+    },
+    {
+      "code": 3374031002,
+      "name": "Rejomulyo"
+    },
+    {
+      "code": 3374031003,
+      "name": "Mlatibaru"
+    },
+    {
+      "code": 3374031004,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3374031005,
+      "name": "Mlatiharjo"
+    },
+    {
+      "code": 3374031006,
+      "name": "Bugangan"
+    },
+    {
+      "code": 3374031007,
+      "name": "Sarirejo"
+    },
+    {
+      "code": 3374031008,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3374031009,
+      "name": "Karangturi"
+    },
+    {
+      "code": 3374031010,
+      "name": "Karangtempel"
+    }
+  ]
+}

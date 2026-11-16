@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9502062001,
+      "name": "Borme"
+    },
+    {
+      "code": 9502062002,
+      "name": "Omban"
+    },
+    {
+      "code": 9502062003,
+      "name": "Sikibur"
+    },
+    {
+      "code": 9502062004,
+      "name": "Onya"
+    },
+    {
+      "code": 9502062005,
+      "name": "Arina"
+    },
+    {
+      "code": 9502062006,
+      "name": "Bordamban"
+    },
+    {
+      "code": 9502062007,
+      "name": "Aringgon"
+    },
+    {
+      "code": 9502062008,
+      "name": "Bukam"
+    },
+    {
+      "code": 9502062009,
+      "name": "Kwime"
+    },
+    {
+      "code": 9502062010,
+      "name": "Kolgir"
+    },
+    {
+      "code": 9502062011,
+      "name": "Cangdamban"
+    },
+    {
+      "code": 9502062012,
+      "name": "Laydamban"
+    },
+    {
+      "code": 9502062013,
+      "name": "Seban"
+    }
+  ]
+}

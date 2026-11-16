@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7604121002,
+      "name": "Balanipa"
+    },
+    {
+      "code": 7604122001,
+      "name": "Tammajarra"
+    },
+    {
+      "code": 7604122003,
+      "name": "Tammangalle"
+    },
+    {
+      "code": 7604122004,
+      "name": "Mosso"
+    },
+    {
+      "code": 7604122005,
+      "name": "Galung Tuluk"
+    },
+    {
+      "code": 7604122006,
+      "name": "Sabang Subik"
+    },
+    {
+      "code": 7604122007,
+      "name": "Pambusuang"
+    },
+    {
+      "code": 7604122008,
+      "name": "Bala"
+    },
+    {
+      "code": 7604122009,
+      "name": "Lambanan"
+    },
+    {
+      "code": 7604122010,
+      "name": "Lego"
+    },
+    {
+      "code": 7604122011,
+      "name": "Pallis"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3303072001,
+      "name": "Karanglewas"
+    },
+    {
+      "code": 3303072002,
+      "name": "Munjul"
+    },
+    {
+      "code": 3303072003,
+      "name": "Sumingkir"
+    },
+    {
+      "code": 3303072004,
+      "name": "Meri"
+    },
+    {
+      "code": 3303072005,
+      "name": "Kutasari"
+    },
+    {
+      "code": 3303072006,
+      "name": "Karangklesem"
+    },
+    {
+      "code": 3303072007,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3303072008,
+      "name": "Karangaren"
+    },
+    {
+      "code": 3303072009,
+      "name": "Limbangan"
+    },
+    {
+      "code": 3303072010,
+      "name": "Cendana"
+    },
+    {
+      "code": 3303072011,
+      "name": "Candiwulan"
+    },
+    {
+      "code": 3303072012,
+      "name": "Karangcegak"
+    },
+    {
+      "code": 3303072013,
+      "name": "Candinata"
+    },
+    {
+      "code": 3303072014,
+      "name": "Karangjengkol"
+    }
+  ]
+}

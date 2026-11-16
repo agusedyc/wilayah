@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6501011001,
+      "name": "Tanjung Palas Hulu"
+    },
+    {
+      "code": 6501011002,
+      "name": "Tanjung Palas Tengah"
+    },
+    {
+      "code": 6501011003,
+      "name": "Tanjung Palas Hilir"
+    },
+    {
+      "code": 6501011004,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 6501012005,
+      "name": "Gunung Putih"
+    },
+    {
+      "code": 6501012006,
+      "name": "Pejalin"
+    },
+    {
+      "code": 6501012007,
+      "name": "Antutan"
+    },
+    {
+      "code": 6501012008,
+      "name": "Teras Baru"
+    },
+    {
+      "code": 6501012009,
+      "name": "Teras Nawang"
+    }
+  ]
+}

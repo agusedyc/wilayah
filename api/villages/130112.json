@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1301122001,
+      "name": "Puluik-Puluik"
+    },
+    {
+      "code": 1301122002,
+      "name": "Koto Ranah"
+    },
+    {
+      "code": 1301122003,
+      "name": "Muaro Aie"
+    },
+    {
+      "code": 1301122004,
+      "name": "Pancuang Taba"
+    },
+    {
+      "code": 1301122005,
+      "name": "Puluik-Puluik Selatan"
+    },
+    {
+      "code": 1301122006,
+      "name": "Limau Gadang Pancung Taba"
+    }
+  ]
+}

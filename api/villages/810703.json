@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 8107032001,
+      "name": "Benjina"
+    },
+    {
+      "code": 8107032003,
+      "name": "Gardakau"
+    },
+    {
+      "code": 8107032004,
+      "name": "Irloy"
+    },
+    {
+      "code": 8107032005,
+      "name": "Algadang"
+    },
+    {
+      "code": 8107032006,
+      "name": "Lorang"
+    },
+    {
+      "code": 8107032007,
+      "name": "Murai"
+    },
+    {
+      "code": 8107032008,
+      "name": "Manjau"
+    },
+    {
+      "code": 8107032009,
+      "name": "Kwarbola"
+    },
+    {
+      "code": 8107032028,
+      "name": "Kobadangar"
+    },
+    {
+      "code": 8107032029,
+      "name": "Kobasel Fara"
+    },
+    {
+      "code": 8107032030,
+      "name": "Kobasel Timur"
+    },
+    {
+      "code": 8107032031,
+      "name": "Fatlabata"
+    },
+    {
+      "code": 8107032033,
+      "name": "Wakua"
+    },
+    {
+      "code": 8107032034,
+      "name": "Jirlay"
+    },
+    {
+      "code": 8107032035,
+      "name": "Maririmar"
+    },
+    {
+      "code": 8107032036,
+      "name": "Papakula"
+    },
+    {
+      "code": 8107032037,
+      "name": "Tanah Miring"
+    },
+    {
+      "code": 8107032038,
+      "name": "Gulili"
+    },
+    {
+      "code": 8107032039,
+      "name": "Namara"
+    },
+    {
+      "code": 8107032040,
+      "name": "Selilau"
+    },
+    {
+      "code": 8107032043,
+      "name": "Maijuring"
+    },
+    {
+      "code": 8107032045,
+      "name": "Selibata-bata"
+    }
+  ]
+}

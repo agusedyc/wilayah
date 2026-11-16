@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5309182001,
+      "name": "Bawarani"
+    },
+    {
+      "code": 5309182002,
+      "name": "Wogowela"
+    },
+    {
+      "code": 5309182003,
+      "name": "Watu Sipi"
+    },
+    {
+      "code": 5309182004,
+      "name": "Boba"
+    },
+    {
+      "code": 5309182005,
+      "name": "Boba I"
+    },
+    {
+      "code": 5309182006,
+      "name": "Were III"
+    },
+    {
+      "code": 5309182007,
+      "name": "Kezewea"
+    },
+    {
+      "code": 5309182008,
+      "name": "Nirmala"
+    },
+    {
+      "code": 5309182009,
+      "name": "Sadha"
+    },
+    {
+      "code": 5309182010,
+      "name": "Takatunga"
+    },
+    {
+      "code": 5309182011,
+      "name": "Radamasa"
+    },
+    {
+      "code": 5309182012,
+      "name": "Were II"
+    },
+    {
+      "code": 5309182013,
+      "name": "Bobawa"
+    },
+    {
+      "code": 5309182014,
+      "name": "Were V"
+    },
+    {
+      "code": 5309182015,
+      "name": "Were VI"
+    },
+    {
+      "code": 5309182016,
+      "name": "Kezewea I"
+    },
+    {
+      "code": 5309182017,
+      "name": "Sadha I"
+    },
+    {
+      "code": 5309182018,
+      "name": "Takatunga I"
+    }
+  ]
+}

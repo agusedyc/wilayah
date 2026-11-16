@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6301102001,
+      "name": "Bajuin"
+    },
+    {
+      "code": 6301102002,
+      "name": "Sungai Bakar"
+    },
+    {
+      "code": 6301102003,
+      "name": "Ketapang"
+    },
+    {
+      "code": 6301102004,
+      "name": "Tirta Jaya"
+    },
+    {
+      "code": 6301102005,
+      "name": "Galam"
+    },
+    {
+      "code": 6301102006,
+      "name": "Pemalongan"
+    },
+    {
+      "code": 6301102007,
+      "name": "Kunyit"
+    },
+    {
+      "code": 6301102008,
+      "name": "Tebing Siring"
+    },
+    {
+      "code": 6301102009,
+      "name": "Tanjung"
+    }
+  ]
+}

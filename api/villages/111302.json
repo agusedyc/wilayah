@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1113022002,
+      "name": "Tampeng"
+    },
+    {
+      "code": 1113022004,
+      "name": "Bener"
+    },
+    {
+      "code": 1113022005,
+      "name": "Ulun Tanoh"
+    },
+    {
+      "code": 1113022006,
+      "name": "Kuta Ujung"
+    },
+    {
+      "code": 1113022008,
+      "name": "Beranang"
+    },
+    {
+      "code": 1113022010,
+      "name": "Rikit Dekat"
+    },
+    {
+      "code": 1113022011,
+      "name": "Rema"
+    },
+    {
+      "code": 1113022014,
+      "name": "Rema Baru"
+    },
+    {
+      "code": 1113022015,
+      "name": "Cike"
+    },
+    {
+      "code": 1113022016,
+      "name": "Kerukunan Kuta Panjang"
+    },
+    {
+      "code": 1113022020,
+      "name": "Tampeng Musara"
+    },
+    {
+      "code": 1113022021,
+      "name": "Kong Paluh"
+    }
+  ]
+}

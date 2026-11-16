@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7318351001,
+      "name": "Malimbong"
+    },
+    {
+      "code": 7318352002,
+      "name": "Leppan"
+    },
+    {
+      "code": 7318352003,
+      "name": "Kole Sawangan"
+    },
+    {
+      "code": 7318352004,
+      "name": "Kole Barebatu"
+    },
+    {
+      "code": 7318352005,
+      "name": "Lemo Menduruk"
+    },
+    {
+      "code": 7318352006,
+      "name": "Balepe'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8103042001,
+      "name": "Kamatubun"
+    },
+    {
+      "code": 8103042002,
+      "name": "Rumah Salut"
+    },
+    {
+      "code": 8103042003,
+      "name": "Welutu"
+    },
+    {
+      "code": 8103042004,
+      "name": "Themin"
+    },
+    {
+      "code": 8103042005,
+      "name": "Weratan"
+    },
+    {
+      "code": 8103042006,
+      "name": "Wermatang"
+    },
+    {
+      "code": 8103042007,
+      "name": "Otemer"
+    },
+    {
+      "code": 8103042008,
+      "name": "Makatian"
+    },
+    {
+      "code": 8103042009,
+      "name": "Marantutul"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1302182001,
+      "name": "Rangkiang Luluih"
+    },
+    {
+      "code": 1302182002,
+      "name": "Batu Bajanjang"
+    },
+    {
+      "code": 1302182003,
+      "name": "Garabak Data"
+    },
+    {
+      "code": 1302182004,
+      "name": "Tanjung Balik Sumiso"
+    },
+    {
+      "code": 1302182005,
+      "name": "Simanau"
+    }
+  ]
+}

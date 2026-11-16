@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3508042001,
+      "name": "Gondoruso"
+    },
+    {
+      "code": 3508042002,
+      "name": "Kalibendo"
+    },
+    {
+      "code": 3508042003,
+      "name": "Bades"
+    },
+    {
+      "code": 3508042004,
+      "name": "Bago"
+    },
+    {
+      "code": 3508042005,
+      "name": "Selok Awar - Awar"
+    },
+    {
+      "code": 3508042006,
+      "name": "Condro"
+    },
+    {
+      "code": 3508042007,
+      "name": "Madurejo"
+    },
+    {
+      "code": 3508042008,
+      "name": "Pasirian"
+    },
+    {
+      "code": 3508042009,
+      "name": "Sememu"
+    },
+    {
+      "code": 3508042010,
+      "name": "Nguter"
+    },
+    {
+      "code": 3508042011,
+      "name": "Selokanyar"
+    }
+  ]
+}

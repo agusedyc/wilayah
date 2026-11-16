@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1215012001,
+      "name": "Tanjung Meriah"
+    },
+    {
+      "code": 1215012002,
+      "name": "Tanjung Mulia"
+    },
+    {
+      "code": 1215012003,
+      "name": "Kaban Tengah"
+    },
+    {
+      "code": 1215012004,
+      "name": "Bandar Baru"
+    },
+    {
+      "code": 1215012005,
+      "name": "Simberruna"
+    },
+    {
+      "code": 1215012006,
+      "name": "Perolihen"
+    },
+    {
+      "code": 1215012007,
+      "name": "Maholida"
+    },
+    {
+      "code": 1215012008,
+      "name": "Perjaga"
+    },
+    {
+      "code": 1215012009,
+      "name": "Malum"
+    },
+    {
+      "code": 1215012010,
+      "name": "Mbinalun"
+    }
+  ]
+}

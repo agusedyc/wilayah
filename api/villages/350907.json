@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3509072001,
+      "name": "Pondokjoyo"
+    },
+    {
+      "code": 3509072002,
+      "name": "Pondokdalem"
+    },
+    {
+      "code": 3509072003,
+      "name": "Rejoagung"
+    },
+    {
+      "code": 3509072004,
+      "name": "Semboro"
+    },
+    {
+      "code": 3509072005,
+      "name": "Sidomekar"
+    },
+    {
+      "code": 3509072006,
+      "name": "Sidomulyo"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3209322001,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3209322002,
+      "name": "Tanjunganom"
+    },
+    {
+      "code": 3209322003,
+      "name": "Cilengkrang Girang"
+    },
+    {
+      "code": 3209322004,
+      "name": "Cilengkrang"
+    },
+    {
+      "code": 3209322005,
+      "name": "Pasaleman"
+    },
+    {
+      "code": 3209322006,
+      "name": "Cigobangwangi"
+    },
+    {
+      "code": 3209322007,
+      "name": "Cigobang"
+    }
+  ]
+}

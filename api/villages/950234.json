@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502342001,
+      "name": "Nongme"
+    },
+    {
+      "code": 9502342002,
+      "name": "Rubol"
+    },
+    {
+      "code": 9502342003,
+      "name": "Yokom"
+    },
+    {
+      "code": 9502342004,
+      "name": "Yarigon"
+    },
+    {
+      "code": 9502342005,
+      "name": "Omtamur"
+    },
+    {
+      "code": 9502342006,
+      "name": "Cangpally"
+    },
+    {
+      "code": 9502342007,
+      "name": "Kwarban"
+    }
+  ]
+}

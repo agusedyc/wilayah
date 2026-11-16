@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3603092001,
+      "name": "Patramanggala"
+    },
+    {
+      "code": 3603092002,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3603092003,
+      "name": "Lontar"
+    },
+    {
+      "code": 3603092004,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3603092005,
+      "name": "Ranca Labuh"
+    },
+    {
+      "code": 3603092006,
+      "name": "Klebet"
+    },
+    {
+      "code": 3603092007,
+      "name": "Legok Suka Maju"
+    }
+  ]
+}

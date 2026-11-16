@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3504102001,
+      "name": "Sambidoplang"
+    },
+    {
+      "code": 3504102002,
+      "name": "Wates"
+    },
+    {
+      "code": 3504102003,
+      "name": "Mirigambar"
+    },
+    {
+      "code": 3504102004,
+      "name": "Trenceng"
+    },
+    {
+      "code": 3504102005,
+      "name": "Bendilwungu"
+    },
+    {
+      "code": 3504102006,
+      "name": "Sambijajar"
+    },
+    {
+      "code": 3504102007,
+      "name": "Podorejo"
+    },
+    {
+      "code": 3504102008,
+      "name": "Doroampel"
+    },
+    {
+      "code": 3504102009,
+      "name": "Junjung"
+    },
+    {
+      "code": 3504102010,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3504102011,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3504102012,
+      "name": "Bendiljati Kulon"
+    },
+    {
+      "code": 3504102013,
+      "name": "Bendiljati Wetan"
+    },
+    {
+      "code": 3504102014,
+      "name": "Sumberdadi"
+    },
+    {
+      "code": 3504102015,
+      "name": "Jabalsari"
+    },
+    {
+      "code": 3504102016,
+      "name": "Sambirobyong"
+    },
+    {
+      "code": 3504102017,
+      "name": "Bukur"
+    }
+  ]
+}

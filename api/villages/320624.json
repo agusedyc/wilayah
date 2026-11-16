@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3206242001,
+      "name": "Cikunten"
+    },
+    {
+      "code": 3206242002,
+      "name": "Singaparna"
+    },
+    {
+      "code": 3206242003,
+      "name": "Cipakat"
+    },
+    {
+      "code": 3206242004,
+      "name": "Cintaraja"
+    },
+    {
+      "code": 3206242005,
+      "name": "Cikunir"
+    },
+    {
+      "code": 3206242006,
+      "name": "Cikadongdong"
+    },
+    {
+      "code": 3206242007,
+      "name": "Sukaasih"
+    },
+    {
+      "code": 3206242008,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3206242009,
+      "name": "Singasari"
+    },
+    {
+      "code": 3206242010,
+      "name": "Sukaherang"
+    }
+  ]
+}

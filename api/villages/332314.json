@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3323142001,
+      "name": "Tlogomulyo"
+    },
+    {
+      "code": 3323142002,
+      "name": "Candisari"
+    },
+    {
+      "code": 3323142003,
+      "name": "Sriwungu"
+    },
+    {
+      "code": 3323142004,
+      "name": "Langgeng"
+    },
+    {
+      "code": 3323142005,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3323142006,
+      "name": "Losari"
+    },
+    {
+      "code": 3323142007,
+      "name": "Balerejo"
+    },
+    {
+      "code": 3323142008,
+      "name": "Kerokan"
+    },
+    {
+      "code": 3323142009,
+      "name": "Legoksari"
+    },
+    {
+      "code": 3323142010,
+      "name": "Tlilir"
+    },
+    {
+      "code": 3323142011,
+      "name": "Gedegan"
+    },
+    {
+      "code": 3323142012,
+      "name": "Pagersari"
+    }
+  ]
+}

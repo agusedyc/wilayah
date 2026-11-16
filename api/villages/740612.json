@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7406122001,
+      "name": "Larete"
+    },
+    {
+      "code": 7406122002,
+      "name": "Lemo"
+    },
+    {
+      "code": 7406122003,
+      "name": "Terapung"
+    },
+    {
+      "code": 7406122004,
+      "name": "Lamoare"
+    },
+    {
+      "code": 7406122005,
+      "name": "Rambaha"
+    }
+  ]
+}

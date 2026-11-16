@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1806132001,
+      "name": "Kebumen"
+    },
+    {
+      "code": 1806132002,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1806132003,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1806132004,
+      "name": "Tegal Binangun"
+    },
+    {
+      "code": 1806132005,
+      "name": "Argopeni"
+    },
+    {
+      "code": 1806132006,
+      "name": "Margodadi"
+    },
+    {
+      "code": 1806132007,
+      "name": "Margoyoso"
+    },
+    {
+      "code": 1806132008,
+      "name": "Dadapan"
+    },
+    {
+      "code": 1806132009,
+      "name": "Simpang Kanan"
+    },
+    {
+      "code": 1806132010,
+      "name": "Wonoharjo"
+    },
+    {
+      "code": 1806132011,
+      "name": "Sumber Mulyo"
+    },
+    {
+      "code": 1806132012,
+      "name": "Argomulyo"
+    },
+    {
+      "code": 1806132013,
+      "name": "Sidorejo"
+    }
+  ]
+}

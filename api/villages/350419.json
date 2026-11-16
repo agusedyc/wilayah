@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3504192001,
+      "name": "Kresikan"
+    },
+    {
+      "code": 3504192002,
+      "name": "Jengglungharjo"
+    },
+    {
+      "code": 3504192003,
+      "name": "Ngrejo"
+    },
+    {
+      "code": 3504192004,
+      "name": "Tanggunggunung"
+    },
+    {
+      "code": 3504192005,
+      "name": "Ngepoh"
+    },
+    {
+      "code": 3504192006,
+      "name": "Tenggarejo"
+    },
+    {
+      "code": 3504192007,
+      "name": "Pakisrejo"
+    }
+  ]
+}

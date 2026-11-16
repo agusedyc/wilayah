@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6171061001,
+      "name": "Bansir Laut"
+    },
+    {
+      "code": 6171061002,
+      "name": "Bansir Darat"
+    },
+    {
+      "code": 6171061003,
+      "name": "Bangkabelitung Laut"
+    },
+    {
+      "code": 6171061004,
+      "name": "Bangkabelitung Darat"
+    }
+  ]
+}

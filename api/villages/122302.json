@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1223021001,
+      "name": "Tanjung Leidong"
+    },
+    {
+      "code": 1223022002,
+      "name": "Teluk Pulai Dalam"
+    },
+    {
+      "code": 1223022003,
+      "name": "Teluk Pulai Luar"
+    },
+    {
+      "code": 1223022004,
+      "name": "Kelapa Sebatang"
+    },
+    {
+      "code": 1223022005,
+      "name": "Simandulang"
+    },
+    {
+      "code": 1223022006,
+      "name": "Air Hitam"
+    },
+    {
+      "code": 1223022007,
+      "name": "Pangkalan Lunang"
+    }
+  ]
+}

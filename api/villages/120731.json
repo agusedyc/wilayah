@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1207312001,
+      "name": "Tanjung Mulia"
+    },
+    {
+      "code": 1207312002,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1207312003,
+      "name": "Sidodadi Batu 8"
+    },
+    {
+      "code": 1207312004,
+      "name": "Suka Mulia"
+    },
+    {
+      "code": 1207312005,
+      "name": "Jati Rejo"
+    },
+    {
+      "code": 1207312006,
+      "name": "Pagar Merbau I"
+    },
+    {
+      "code": 1207312007,
+      "name": "Pagar Merbau II"
+    },
+    {
+      "code": 1207312008,
+      "name": "Sidoharjo-I Pasar Miring"
+    },
+    {
+      "code": 1207312009,
+      "name": "Sidoharjo-I Jati Baru"
+    },
+    {
+      "code": 1207312010,
+      "name": "Bandar Dolok"
+    },
+    {
+      "code": 1207312011,
+      "name": "Tanjung Garbus II"
+    },
+    {
+      "code": 1207312012,
+      "name": "Tanjung Garbus Kampung"
+    },
+    {
+      "code": 1207312013,
+      "name": "Perbarakan"
+    },
+    {
+      "code": 1207312014,
+      "name": "Sukamandi Hilir"
+    },
+    {
+      "code": 1207312015,
+      "name": "Sukamandi Hulu"
+    },
+    {
+      "code": 1207312016,
+      "name": "Sumberejo"
+    }
+  ]
+}

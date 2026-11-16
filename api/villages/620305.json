@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6203051004,
+      "name": "Mandomai"
+    },
+    {
+      "code": 6203052001,
+      "name": "Sei Kayu"
+    },
+    {
+      "code": 6203052002,
+      "name": "Saka Mangkahai"
+    },
+    {
+      "code": 6203052003,
+      "name": "Anjir Kalampan"
+    },
+    {
+      "code": 6203052005,
+      "name": "Pantai"
+    },
+    {
+      "code": 6203052006,
+      "name": "Saka Tamiang"
+    },
+    {
+      "code": 6203052007,
+      "name": "Penda Katapi"
+    },
+    {
+      "code": 6203052008,
+      "name": "Teluk Hiri"
+    },
+    {
+      "code": 6203052009,
+      "name": "Sei Dusun"
+    },
+    {
+      "code": 6203052010,
+      "name": "Sei Pitung"
+    },
+    {
+      "code": 6203052011,
+      "name": "Maju Bersama"
+    },
+    {
+      "code": 6203052012,
+      "name": "Basuta Raya"
+    }
+  ]
+}

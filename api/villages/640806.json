@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6408062001,
+      "name": "Long Bentuq"
+    },
+    {
+      "code": 6408062002,
+      "name": "Long Pejeng"
+    },
+    {
+      "code": 6408062003,
+      "name": "Long Lees"
+    },
+    {
+      "code": 6408062004,
+      "name": "Mekar Baru"
+    },
+    {
+      "code": 6408062005,
+      "name": "Rantau Sentosa"
+    },
+    {
+      "code": 6408062006,
+      "name": "Long Nyelong"
+    }
+  ]
+}

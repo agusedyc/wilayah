@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5203142001,
+      "name": "Mamben Daya"
+    },
+    {
+      "code": 5203142002,
+      "name": "Mamben Lauk"
+    },
+    {
+      "code": 5203142003,
+      "name": "Wanasaba"
+    },
+    {
+      "code": 5203142004,
+      "name": "Karang Baru"
+    },
+    {
+      "code": 5203142005,
+      "name": "Bebidas"
+    },
+    {
+      "code": 5203142006,
+      "name": "Tembeng Putik"
+    },
+    {
+      "code": 5203142007,
+      "name": "Wanasaba Lauk"
+    },
+    {
+      "code": 5203142008,
+      "name": "Beriri Jarak"
+    },
+    {
+      "code": 5203142009,
+      "name": "Bandok"
+    },
+    {
+      "code": 5203142010,
+      "name": "Mamben Baru"
+    },
+    {
+      "code": 5203142011,
+      "name": "Otak Rarangan"
+    },
+    {
+      "code": 5203142012,
+      "name": "Jineng"
+    },
+    {
+      "code": 5203142013,
+      "name": "Wanasaba Daya"
+    },
+    {
+      "code": 5203142014,
+      "name": "Karang Baru Timur"
+    }
+  ]
+}

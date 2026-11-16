@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6305101007,
+      "name": "Bitahan"
+    },
+    {
+      "code": 6305102001,
+      "name": "Binderang"
+    },
+    {
+      "code": 6305102002,
+      "name": "Parandakan"
+    },
+    {
+      "code": 6305102003,
+      "name": "Lokpaikat"
+    },
+    {
+      "code": 6305102004,
+      "name": "Bataratat"
+    },
+    {
+      "code": 6305102005,
+      "name": "Bitahan Baru"
+    },
+    {
+      "code": 6305102006,
+      "name": "Puncak Harapan"
+    },
+    {
+      "code": 6305102008,
+      "name": "Budi Mulya"
+    },
+    {
+      "code": 6305102009,
+      "name": "Ayunan Papan"
+    }
+  ]
+}

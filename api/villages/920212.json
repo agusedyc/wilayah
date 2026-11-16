@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9202121001,
+      "name": "Manokwari Barat"
+    },
+    {
+      "code": 9202121002,
+      "name": "Sanggeng"
+    },
+    {
+      "code": 9202121003,
+      "name": "Wosi"
+    },
+    {
+      "code": 9202121004,
+      "name": "Amban"
+    },
+    {
+      "code": 9202121005,
+      "name": "Padarni"
+    },
+    {
+      "code": 9202121006,
+      "name": "Manokwari Timur"
+    },
+    {
+      "code": 9202122007,
+      "name": "Udopi"
+    },
+    {
+      "code": 9202122008,
+      "name": "Ingramui"
+    },
+    {
+      "code": 9202122009,
+      "name": "Soribo"
+    },
+    {
+      "code": 9202122010,
+      "name": "Tanah Merah Indah"
+    }
+  ]
+}

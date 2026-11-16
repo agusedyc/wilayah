@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3519062001,
+      "name": "Batok"
+    },
+    {
+      "code": 3519062002,
+      "name": "Durenan"
+    },
+    {
+      "code": 3519062003,
+      "name": "Winong"
+    },
+    {
+      "code": 3519062004,
+      "name": "Tawangrejo"
+    },
+    {
+      "code": 3519062005,
+      "name": "Gemarang"
+    },
+    {
+      "code": 3519062006,
+      "name": "Sebayi"
+    },
+    {
+      "code": 3519062007,
+      "name": "Nampu"
+    }
+  ]
+}

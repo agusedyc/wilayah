@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9208042001,
+      "name": "Rurumo"
+    },
+    {
+      "code": 9208042002,
+      "name": "Boiya"
+    },
+    {
+      "code": 9208042003,
+      "name": "Nariki"
+    },
+    {
+      "code": 9208042004,
+      "name": "Bamana"
+    },
+    {
+      "code": 9208042005,
+      "name": "Siawatan"
+    }
+  ]
+}

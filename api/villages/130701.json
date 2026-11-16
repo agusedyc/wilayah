@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1307012001,
+      "name": "Kurai"
+    },
+    {
+      "code": 1307012002,
+      "name": "Sungai Rimbang"
+    },
+    {
+      "code": 1307012003,
+      "name": "Tanjuang Bungo"
+    },
+    {
+      "code": 1307012004,
+      "name": "Suliki"
+    },
+    {
+      "code": 1307012005,
+      "name": "Limbanang"
+    },
+    {
+      "code": 1307012006,
+      "name": "Andiang"
+    }
+  ]
+}

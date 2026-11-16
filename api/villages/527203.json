@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5272031001,
+      "name": "Melayu"
+    },
+    {
+      "code": 5272031002,
+      "name": "Jatiwangi"
+    },
+    {
+      "code": 5272031003,
+      "name": "Jatibaru"
+    },
+    {
+      "code": 5272031004,
+      "name": "Kolo"
+    },
+    {
+      "code": 5272031005,
+      "name": "Jatibaru Timur"
+    },
+    {
+      "code": 5272031006,
+      "name": "Ule"
+    }
+  ]
+}

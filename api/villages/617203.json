@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6172031001,
+      "name": "Pajintan"
+    },
+    {
+      "code": 6172031002,
+      "name": "Nyarumkop"
+    },
+    {
+      "code": 6172031003,
+      "name": "Maya Sopa"
+    },
+    {
+      "code": 6172031004,
+      "name": "Bagak Sahwa"
+    },
+    {
+      "code": 6172031005,
+      "name": "Sanggau Kulor"
+    }
+  ]
+}

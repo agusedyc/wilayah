@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5318091003,
+      "name": "Langga Lero"
+    },
+    {
+      "code": 5318091004,
+      "name": "Waitabula"
+    },
+    {
+      "code": 5318092001,
+      "name": "Rada Mata"
+    },
+    {
+      "code": 5318092002,
+      "name": "Kalena Wano"
+    },
+    {
+      "code": 5318092005,
+      "name": "Wee Londa"
+    },
+    {
+      "code": 5318092006,
+      "name": "Wee Pangali"
+    },
+    {
+      "code": 5318092007,
+      "name": "Kadi Pada"
+    },
+    {
+      "code": 5318092008,
+      "name": "Watu Kawula"
+    },
+    {
+      "code": 5318092009,
+      "name": "Wee Rena"
+    },
+    {
+      "code": 5318092010,
+      "name": "Kalembu Kaha"
+    }
+  ]
+}

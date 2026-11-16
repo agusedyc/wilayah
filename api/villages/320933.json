@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3209332001,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3209332002,
+      "name": "Pabuaran Kidul"
+    },
+    {
+      "code": 3209332003,
+      "name": "Pabuaran Wetan"
+    },
+    {
+      "code": 3209332004,
+      "name": "Pabuaran Lor"
+    },
+    {
+      "code": 3209332005,
+      "name": "Jatirenggang"
+    },
+    {
+      "code": 3209332006,
+      "name": "Hulubanteng"
+    },
+    {
+      "code": 3209332007,
+      "name": "Hulubanteng Lor"
+    }
+  ]
+}

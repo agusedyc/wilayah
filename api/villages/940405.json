@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9404052001,
+      "name": "Sempan Timur"
+    },
+    {
+      "code": 9404052002,
+      "name": "Wenin"
+    },
+    {
+      "code": 9404052003,
+      "name": "Noema"
+    },
+    {
+      "code": 9404052004,
+      "name": "Wapu"
+    },
+    {
+      "code": 9404052005,
+      "name": "Sumapro"
+    },
+    {
+      "code": 9404052006,
+      "name": "Wacakam"
+    },
+    {
+      "code": 9404052007,
+      "name": "Waituku"
+    },
+    {
+      "code": 9404052008,
+      "name": "Bulumen"
+    },
+    {
+      "code": 9404052009,
+      "name": "Kanmapiri"
+    },
+    {
+      "code": 9404052010,
+      "name": "Jaitak"
+    }
+  ]
+}

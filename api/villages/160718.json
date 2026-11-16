@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1607182001,
+      "name": "Terusan Dalam"
+    },
+    {
+      "code": 1607182002,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1607182003,
+      "name": "Muara Telang"
+    },
+    {
+      "code": 1607182004,
+      "name": "Terusan Tengah"
+    },
+    {
+      "code": 1607182005,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1607182006,
+      "name": "Karang Baru"
+    },
+    {
+      "code": 1607182007,
+      "name": "Muara Telang Marga"
+    },
+    {
+      "code": 1607182008,
+      "name": "Terusan Muara"
+    },
+    {
+      "code": 1607182009,
+      "name": "Talang Lubuk"
+    },
+    {
+      "code": 1607182010,
+      "name": "Sri Tiga"
+    }
+  ]
+}

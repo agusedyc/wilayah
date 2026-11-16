@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8202052001,
+      "name": "Tilope"
+    },
+    {
+      "code": 8202052002,
+      "name": "Sosowomo"
+    },
+    {
+      "code": 8202052003,
+      "name": "Loleo"
+    },
+    {
+      "code": 8202052004,
+      "name": "Wairoro Indah"
+    },
+    {
+      "code": 8202052005,
+      "name": "Kluting Jaya"
+    },
+    {
+      "code": 8202052006,
+      "name": "Lembah Asri"
+    },
+    {
+      "code": 8202052007,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 8202052008,
+      "name": "Air Salobar"
+    }
+  ]
+}

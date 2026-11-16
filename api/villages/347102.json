@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3471021001,
+      "name": "Bumijo"
+    },
+    {
+      "code": 3471021002,
+      "name": "Cokrodiningratan"
+    },
+    {
+      "code": 3471021003,
+      "name": "Gowongan"
+    }
+  ]
+}

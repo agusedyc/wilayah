@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7409031003,
+      "name": "Langgikima"
+    },
+    {
+      "code": 7409032001,
+      "name": "Molore"
+    },
+    {
+      "code": 7409032002,
+      "name": "Lameruru"
+    },
+    {
+      "code": 7409032004,
+      "name": "Sarimukti"
+    },
+    {
+      "code": 7409032005,
+      "name": "Morombo Pantai"
+    },
+    {
+      "code": 7409032006,
+      "name": "Polora Indah"
+    },
+    {
+      "code": 7409032007,
+      "name": "Pariama"
+    },
+    {
+      "code": 7409032008,
+      "name": "Tobimeita"
+    },
+    {
+      "code": 7409032009,
+      "name": "Alenggo"
+    },
+    {
+      "code": 7409032010,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7409032011,
+      "name": "Molore Pantai"
+    },
+    {
+      "code": 7409032012,
+      "name": "Ngapa Inia"
+    }
+  ]
+}

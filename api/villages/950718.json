@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507182001,
+      "name": "Milimbo"
+    },
+    {
+      "code": 9507182002,
+      "name": "Takobak"
+    },
+    {
+      "code": 9507182003,
+      "name": "Kugame"
+    },
+    {
+      "code": 9507182004,
+      "name": "Wamindik"
+    },
+    {
+      "code": 9507182005,
+      "name": "Kidoni"
+    },
+    {
+      "code": 9507182006,
+      "name": "Jinok"
+    },
+    {
+      "code": 9507182007,
+      "name": "Wewolome"
+    },
+    {
+      "code": 9507182008,
+      "name": "Umbename"
+    }
+  ]
+}

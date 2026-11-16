@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5307141001,
+      "name": "Hewuli"
+    },
+    {
+      "code": 5307141002,
+      "name": "Wailiti"
+    },
+    {
+      "code": 5307141003,
+      "name": "Wolomarang"
+    },
+    {
+      "code": 5307141004,
+      "name": "Wuring"
+    }
+  ]
+}

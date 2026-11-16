@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8108062001,
+      "name": "Ilwaki"
+    },
+    {
+      "code": 8108062002,
+      "name": "Ilputih"
+    },
+    {
+      "code": 8108062003,
+      "name": "Mahuan"
+    },
+    {
+      "code": 8108062004,
+      "name": "Masapun"
+    },
+    {
+      "code": 8108062021,
+      "name": "Arnau"
+    },
+    {
+      "code": 8108062023,
+      "name": "Hiay"
+    }
+  ]
+}

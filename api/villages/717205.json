@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7172051001,
+      "name": "Tanjung Merah"
+    },
+    {
+      "code": 7172051002,
+      "name": "Sagerat"
+    },
+    {
+      "code": 7172051003,
+      "name": "Manembo-nembo Atas"
+    },
+    {
+      "code": 7172051007,
+      "name": "Manembo-nembo"
+    },
+    {
+      "code": 7172051011,
+      "name": "Sagerat Weru Satu"
+    },
+    {
+      "code": 7172051012,
+      "name": "Sagerat Weru Dua"
+    },
+    {
+      "code": 7172051013,
+      "name": "Manembo-nembo Tengah"
+    },
+    {
+      "code": 7172051014,
+      "name": "Tendeki"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3313082001,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3313082002,
+      "name": "Ngemplak"
+    },
+    {
+      "code": 3313082003,
+      "name": "Doplang"
+    },
+    {
+      "code": 3313082004,
+      "name": "Gerdu"
+    },
+    {
+      "code": 3313082005,
+      "name": "Karang"
+    },
+    {
+      "code": 3313082006,
+      "name": "Salam"
+    },
+    {
+      "code": 3313082007,
+      "name": "Karangpandan"
+    },
+    {
+      "code": 3313082008,
+      "name": "Tohkuning"
+    },
+    {
+      "code": 3313082009,
+      "name": "Gondangmanis"
+    },
+    {
+      "code": 3313082010,
+      "name": "Dayu"
+    },
+    {
+      "code": 3313082011,
+      "name": "Harjosari"
+    }
+  ]
+}

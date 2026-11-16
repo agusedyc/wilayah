@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 6571041001,
+      "name": "Juata Laut"
+    },
+    {
+      "code": 6571041002,
+      "name": "Juata Permai"
+    },
+    {
+      "code": 6571041003,
+      "name": "Juata Kerikil"
+    }
+  ]
+}

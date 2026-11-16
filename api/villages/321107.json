@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3211072001,
+      "name": "Conggeang Kulon"
+    },
+    {
+      "code": 3211072002,
+      "name": "Conggeang Wetan"
+    },
+    {
+      "code": 3211072003,
+      "name": "Cipamekar"
+    },
+    {
+      "code": 3211072004,
+      "name": "Cibeureuyeuh"
+    },
+    {
+      "code": 3211072005,
+      "name": "Jambu"
+    },
+    {
+      "code": 3211072006,
+      "name": "Babakan Asem"
+    },
+    {
+      "code": 3211072007,
+      "name": "Padaasih"
+    },
+    {
+      "code": 3211072008,
+      "name": "Ungkal"
+    },
+    {
+      "code": 3211072009,
+      "name": "Karanglayung"
+    },
+    {
+      "code": 3211072010,
+      "name": "Cacaban"
+    },
+    {
+      "code": 3211072011,
+      "name": "Narimbang"
+    },
+    {
+      "code": 3211072012,
+      "name": "Cibubuan"
+    }
+  ]
+}

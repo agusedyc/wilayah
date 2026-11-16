@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604212001,
+      "name": "Jokbujoker"
+    },
+    {
+      "code": 9604212002,
+      "name": "Kranfotsu"
+    },
+    {
+      "code": 9604212003,
+      "name": "Syuau"
+    },
+    {
+      "code": 9604212004,
+      "name": "Kwesefo"
+    },
+    {
+      "code": 9604212005,
+      "name": "Batdey"
+    },
+    {
+      "code": 9604212006,
+      "name": "Syumbi"
+    },
+    {
+      "code": 9604212007,
+      "name": "Bao"
+    },
+    {
+      "code": 9604212008,
+      "name": "Donan"
+    },
+    {
+      "code": 9604212009,
+      "name": "Dombron"
+    }
+  ]
+}

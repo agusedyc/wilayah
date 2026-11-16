@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503132001,
+      "name": "Pasema"
+    },
+    {
+      "code": 9503132002,
+      "name": "Leinoko"
+    },
+    {
+      "code": 9503132003,
+      "name": "Lowet"
+    },
+    {
+      "code": 9503132004,
+      "name": "Wea"
+    },
+    {
+      "code": 9503132005,
+      "name": "Sengangge"
+    },
+    {
+      "code": 9503132006,
+      "name": "Wulin"
+    },
+    {
+      "code": 9503132007,
+      "name": "Pupi"
+    }
+  ]
+}

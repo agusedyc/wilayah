@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7471071001,
+      "name": "Wua Wua"
+    },
+    {
+      "code": 7471071002,
+      "name": "Bonggoeya"
+    },
+    {
+      "code": 7471071003,
+      "name": "Mataiwoi"
+    },
+    {
+      "code": 7471071004,
+      "name": "Anawai"
+    }
+  ]
+}

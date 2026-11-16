@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1872021001,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 1872021002,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1872021003,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 1872021004,
+      "name": "Purwoasri"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3323131001,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3323132002,
+      "name": "Badran"
+    },
+    {
+      "code": 3323132003,
+      "name": "Bengkal"
+    },
+    {
+      "code": 3323132004,
+      "name": "Pare"
+    },
+    {
+      "code": 3323132005,
+      "name": "Nguwet"
+    },
+    {
+      "code": 3323132006,
+      "name": "Ngropoh"
+    },
+    {
+      "code": 3323132007,
+      "name": "Pendowo"
+    },
+    {
+      "code": 3323132008,
+      "name": "Sanggrahan"
+    },
+    {
+      "code": 3323132009,
+      "name": "Klepu"
+    },
+    {
+      "code": 3323132010,
+      "name": "Kemloko"
+    },
+    {
+      "code": 3323132011,
+      "name": "Gentan"
+    },
+    {
+      "code": 3323132012,
+      "name": "Kramat"
+    },
+    {
+      "code": 3323132013,
+      "name": "Purwosari"
+    }
+  ]
+}

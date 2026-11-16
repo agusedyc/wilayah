@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 districts",
+  "data": [
+    {
+      "code": 520501,
+      "name": "Dompu"
+    },
+    {
+      "code": 520502,
+      "name": "Kempo"
+    },
+    {
+      "code": 520503,
+      "name": "Hu'u"
+    },
+    {
+      "code": 520504,
+      "name": "Kilo"
+    },
+    {
+      "code": 520505,
+      "name": "Woja"
+    },
+    {
+      "code": 520506,
+      "name": "Pekat"
+    },
+    {
+      "code": 520507,
+      "name": "Manggalewa"
+    },
+    {
+      "code": 520508,
+      "name": "Pajo"
+    }
+  ]
+}

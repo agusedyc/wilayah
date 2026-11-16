@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5204102001,
+      "name": "Sempe"
+    },
+    {
+      "code": 5204102002,
+      "name": "Semamung"
+    },
+    {
+      "code": 5204102003,
+      "name": "Sebasang"
+    },
+    {
+      "code": 5204102004,
+      "name": "Batu Tering"
+    },
+    {
+      "code": 5204102005,
+      "name": "Batu Bulan"
+    },
+    {
+      "code": 5204102006,
+      "name": "Mokong"
+    },
+    {
+      "code": 5204102007,
+      "name": "Pernek"
+    },
+    {
+      "code": 5204102008,
+      "name": "Leseng"
+    },
+    {
+      "code": 5204102009,
+      "name": "Lito"
+    },
+    {
+      "code": 5204102010,
+      "name": "Marga Karya"
+    },
+    {
+      "code": 5204102011,
+      "name": "Maman"
+    },
+    {
+      "code": 5204102012,
+      "name": "Brang Rea"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1801142001,
+      "name": "Bangunrejo"
+    },
+    {
+      "code": 1801142002,
+      "name": "Sripendowo"
+    },
+    {
+      "code": 1801142003,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1801142004,
+      "name": "Ketapang"
+    },
+    {
+      "code": 1801142005,
+      "name": "Legundi"
+    },
+    {
+      "code": 1801142006,
+      "name": "Tri Dharma Yoga"
+    },
+    {
+      "code": 1801142007,
+      "name": "Ruguk"
+    },
+    {
+      "code": 1801142008,
+      "name": "Sumur"
+    },
+    {
+      "code": 1801142009,
+      "name": "Sumber Nadi"
+    },
+    {
+      "code": 1801142010,
+      "name": "Sidoasih"
+    },
+    {
+      "code": 1801142011,
+      "name": "Pematang Pasir"
+    },
+    {
+      "code": 1801142012,
+      "name": "Berundung"
+    },
+    {
+      "code": 1801142013,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 1801142014,
+      "name": "Kemukus"
+    },
+    {
+      "code": 1801142015,
+      "name": "Lebung Nala"
+    },
+    {
+      "code": 1801142016,
+      "name": "Sidoluhur"
+    },
+    {
+      "code": 1801142017,
+      "name": "Wai Sidomukti"
+    }
+  ]
+}

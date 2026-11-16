@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3211042001,
+      "name": "Jayamekar"
+    },
+    {
+      "code": 3211042002,
+      "name": "Buanamekar"
+    },
+    {
+      "code": 3211042003,
+      "name": "Cibugel"
+    },
+    {
+      "code": 3211042004,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3211042005,
+      "name": "Cipasang"
+    },
+    {
+      "code": 3211042006,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3211042007,
+      "name": "Jayamandiri"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509211001,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3509211002,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3509211003,
+      "name": "Kranjingan"
+    },
+    {
+      "code": 3509211004,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3509211005,
+      "name": "Tegalgede"
+    },
+    {
+      "code": 3509211006,
+      "name": "Wirolegi"
+    },
+    {
+      "code": 3509211007,
+      "name": "Antirogo"
+    }
+  ]
+}

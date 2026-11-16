@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7322102001,
+      "name": "Mappedeceng"
+    },
+    {
+      "code": 7322102002,
+      "name": "Cendana Putih"
+    },
+    {
+      "code": 7322102003,
+      "name": "Hasana"
+    },
+    {
+      "code": 7322102004,
+      "name": "Kapidi"
+    },
+    {
+      "code": 7322102005,
+      "name": "Uraso"
+    },
+    {
+      "code": 7322102006,
+      "name": "Benteng"
+    },
+    {
+      "code": 7322102007,
+      "name": "Ujung Mattajang"
+    },
+    {
+      "code": 7322102009,
+      "name": "Cendana Putih I"
+    },
+    {
+      "code": 7322102010,
+      "name": "Sumber Wangi"
+    },
+    {
+      "code": 7322102011,
+      "name": "Mangalle"
+    },
+    {
+      "code": 7322102012,
+      "name": "Mekar Jaya Tondok"
+    },
+    {
+      "code": 7322102013,
+      "name": "Cendana Putih II"
+    },
+    {
+      "code": 7322102014,
+      "name": "Sumber Harum"
+    },
+    {
+      "code": 7322102015,
+      "name": "Tarrak Tallu"
+    },
+    {
+      "code": 7322102016,
+      "name": "Harapan"
+    }
+  ]
+}

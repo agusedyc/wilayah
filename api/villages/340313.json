@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3403132001,
+      "name": "Tancep"
+    },
+    {
+      "code": 3403132002,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3403132003,
+      "name": "Jurangjero"
+    },
+    {
+      "code": 3403132004,
+      "name": "Kampung"
+    },
+    {
+      "code": 3403132005,
+      "name": "Beji"
+    },
+    {
+      "code": 3403132006,
+      "name": "Watusigar"
+    }
+  ]
+}

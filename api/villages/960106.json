@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9601062001,
+      "name": "Klawana"
+    },
+    {
+      "code": 9601062002,
+      "name": "Klamono"
+    },
+    {
+      "code": 9601062003,
+      "name": "Wariyau"
+    },
+    {
+      "code": 9601062004,
+      "name": "Klalomon"
+    },
+    {
+      "code": 9601062005,
+      "name": "Wonosari"
+    },
+    {
+      "code": 9601062006,
+      "name": "Gisim Darat"
+    },
+    {
+      "code": 9601062007,
+      "name": "Mlais"
+    },
+    {
+      "code": 9601062008,
+      "name": "Malasmiliy"
+    },
+    {
+      "code": 9601062009,
+      "name": "Klasafet"
+    },
+    {
+      "code": 9601062010,
+      "name": "Posa"
+    }
+  ]
+}

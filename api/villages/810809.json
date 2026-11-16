@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8108092001,
+      "name": "Latalola Besar"
+    },
+    {
+      "code": 8108092002,
+      "name": "Serili"
+    },
+    {
+      "code": 8108092003,
+      "name": "Latalola Kecil"
+    },
+    {
+      "code": 8108092004,
+      "name": "Telalora"
+    },
+    {
+      "code": 8108092005,
+      "name": "Marsela"
+    },
+    {
+      "code": 8108092006,
+      "name": "Babiotang"
+    },
+    {
+      "code": 8108092007,
+      "name": "Iblatmuntah"
+    },
+    {
+      "code": 8108092008,
+      "name": "Ilbutung"
+    },
+    {
+      "code": 8108092009,
+      "name": "Lawawang"
+    },
+    {
+      "code": 8108092010,
+      "name": "Nura"
+    },
+    {
+      "code": 8108092011,
+      "name": "Bululora"
+    }
+  ]
+}

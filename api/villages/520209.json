@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5202092001,
+      "name": "Lendang Are"
+    },
+    {
+      "code": 5202092002,
+      "name": "Monggas"
+    },
+    {
+      "code": 5202092003,
+      "name": "Muncan"
+    },
+    {
+      "code": 5202092004,
+      "name": "Bebuak"
+    },
+    {
+      "code": 5202092005,
+      "name": "Kopang Rembiga"
+    },
+    {
+      "code": 5202092006,
+      "name": "Dasan Baru"
+    },
+    {
+      "code": 5202092007,
+      "name": "Montong Gamang"
+    },
+    {
+      "code": 5202092008,
+      "name": "Darmaji"
+    },
+    {
+      "code": 5202092009,
+      "name": "Wajageseng"
+    },
+    {
+      "code": 5202092010,
+      "name": "Aik Bual"
+    },
+    {
+      "code": 5202092011,
+      "name": "Semparu"
+    },
+    {
+      "code": 5202092012,
+      "name": "Berinding"
+    },
+    {
+      "code": 5202092013,
+      "name": "Pajangan"
+    }
+  ]
+}

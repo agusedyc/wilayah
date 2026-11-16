@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7172031001,
+      "name": "Karondoran"
+    },
+    {
+      "code": 7172031002,
+      "name": "Kumeresot"
+    },
+    {
+      "code": 7172031004,
+      "name": "Pinokalan"
+    },
+    {
+      "code": 7172031005,
+      "name": "Tewaan"
+    },
+    {
+      "code": 7172031006,
+      "name": "Danowudu"
+    },
+    {
+      "code": 7172031007,
+      "name": "Duasadara"
+    },
+    {
+      "code": 7172031008,
+      "name": "Apela Dua"
+    },
+    {
+      "code": 7172031009,
+      "name": "Apela Satu"
+    },
+    {
+      "code": 7172031010,
+      "name": "Pinasungkulan"
+    },
+    {
+      "code": 7172031011,
+      "name": "Batuputih Atas"
+    },
+    {
+      "code": 7172031012,
+      "name": "Batuputih Bawah"
+    }
+  ]
+}

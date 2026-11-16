@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9405082001,
+      "name": "Gome"
+    },
+    {
+      "code": 9405082002,
+      "name": "Misimaga"
+    },
+    {
+      "code": 9405082003,
+      "name": "Upaga"
+    },
+    {
+      "code": 9405082004,
+      "name": "Agiyome"
+    },
+    {
+      "code": 9405082005,
+      "name": "Yenggernok"
+    },
+    {
+      "code": 9405082006,
+      "name": "Wako"
+    },
+    {
+      "code": 9405082007,
+      "name": "Tegelobak"
+    },
+    {
+      "code": 9405082008,
+      "name": "Ninggabuma"
+    },
+    {
+      "code": 9405082009,
+      "name": "Kelanungin"
+    },
+    {
+      "code": 9405082010,
+      "name": "Yonggolawi"
+    }
+  ]
+}

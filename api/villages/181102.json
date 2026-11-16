@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1811022001,
+      "name": "Talang Batu"
+    },
+    {
+      "code": 1811022002,
+      "name": "Sungai Cambai"
+    },
+    {
+      "code": 1811022003,
+      "name": "Tanjung Mas Makmur"
+    },
+    {
+      "code": 1811022004,
+      "name": "Margo Jadi"
+    },
+    {
+      "code": 1811022005,
+      "name": "Tanjung Menang"
+    },
+    {
+      "code": 1811022006,
+      "name": "Eka Mulya"
+    },
+    {
+      "code": 1811022007,
+      "name": "Wono Sari"
+    },
+    {
+      "code": 1811022008,
+      "name": "Dwi Karya Mustika"
+    },
+    {
+      "code": 1811022009,
+      "name": "Pangkal Mas Jaya"
+    },
+    {
+      "code": 1811022010,
+      "name": "Pangkal Mas Mulya"
+    },
+    {
+      "code": 1811022011,
+      "name": "Tanjung Mas Mulya"
+    },
+    {
+      "code": 1811022012,
+      "name": "Muara Mas"
+    },
+    {
+      "code": 1811022013,
+      "name": "Tanjung Mas Jaya"
+    },
+    {
+      "code": 1811022014,
+      "name": "Margo Jaya"
+    },
+    {
+      "code": 1811022015,
+      "name": "Pangkal Mas"
+    },
+    {
+      "code": 1811022016,
+      "name": "Tanjung Menang Raya"
+    },
+    {
+      "code": 1811022017,
+      "name": "Tebing Karya Mandiri"
+    },
+    {
+      "code": 1811022018,
+      "name": "Tanjung Mas Rejo"
+    },
+    {
+      "code": 1811022019,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1811022020,
+      "name": "Muara Asri"
+    }
+  ]
+}

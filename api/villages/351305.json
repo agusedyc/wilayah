@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3513052001,
+      "name": "Malasankulon"
+    },
+    {
+      "code": 3513052002,
+      "name": "Tigasan Wetan"
+    },
+    {
+      "code": 3513052003,
+      "name": "Tigasan Kulon"
+    },
+    {
+      "code": 3513052004,
+      "name": "Pondok Wuluh"
+    },
+    {
+      "code": 3513052005,
+      "name": "Leces"
+    },
+    {
+      "code": 3513052006,
+      "name": "Sumberkedawung"
+    },
+    {
+      "code": 3513052007,
+      "name": "Kerpangan"
+    },
+    {
+      "code": 3513052008,
+      "name": "Clarak"
+    },
+    {
+      "code": 3513052009,
+      "name": "Jorongan"
+    },
+    {
+      "code": 3513052010,
+      "name": "Warujinggo"
+    }
+  ]
+}

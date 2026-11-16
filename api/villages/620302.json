@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6203021001,
+      "name": "Mambulau"
+    },
+    {
+      "code": 6203021002,
+      "name": "Hampatung"
+    },
+    {
+      "code": 6203021003,
+      "name": "Dahirang"
+    },
+    {
+      "code": 6203021004,
+      "name": "Barimba"
+    },
+    {
+      "code": 6203021005,
+      "name": "Sei Pasah"
+    },
+    {
+      "code": 6203022006,
+      "name": "Bakungin"
+    },
+    {
+      "code": 6203022007,
+      "name": "Sei Asam"
+    },
+    {
+      "code": 6203022008,
+      "name": "Saka Batur"
+    }
+  ]
+}

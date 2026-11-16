@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9304092001,
+      "name": "Binamsain"
+    },
+    {
+      "code": 9304092002,
+      "name": "Pirabanak"
+    },
+    {
+      "code": 9304092003,
+      "name": "Woutu Braza"
+    },
+    {
+      "code": 9304092004,
+      "name": "Patipi"
+    },
+    {
+      "code": 9304092005,
+      "name": "Ulakin"
+    },
+    {
+      "code": 9304092006,
+      "name": "Woutu Kolof"
+    },
+    {
+      "code": 9304092007,
+      "name": "Butukatnau"
+    },
+    {
+      "code": 9304092008,
+      "name": "Auban"
+    },
+    {
+      "code": 9304092009,
+      "name": "Pepera"
+    },
+    {
+      "code": 9304092010,
+      "name": "Waijens"
+    },
+    {
+      "code": 9304092011,
+      "name": "Bumu"
+    },
+    {
+      "code": 9304092012,
+      "name": "Kapayap Satu"
+    },
+    {
+      "code": 9304092013,
+      "name": "Kapayap Dua"
+    },
+    {
+      "code": 9304092014,
+      "name": "Sipanap"
+    }
+  ]
+}

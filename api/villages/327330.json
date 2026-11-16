@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273301001,
+      "name": "Jatihandap"
+    },
+    {
+      "code": 3273301002,
+      "name": "Karang Pamulang"
+    },
+    {
+      "code": 3273301003,
+      "name": "Pasir Impun"
+    },
+    {
+      "code": 3273301004,
+      "name": "Sindang Jaya"
+    }
+  ]
+}

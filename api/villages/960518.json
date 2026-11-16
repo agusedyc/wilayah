@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9605182001,
+      "name": "Kambuskato"
+    },
+    {
+      "code": 9605182002,
+      "name": "Kambuskato Utara"
+    },
+    {
+      "code": 9605182003,
+      "name": "Kambuifa"
+    },
+    {
+      "code": 9605182004,
+      "name": "Isusu"
+    },
+    {
+      "code": 9605182005,
+      "name": "Mano"
+    },
+    {
+      "code": 9605182006,
+      "name": "Sipat"
+    },
+    {
+      "code": 9605182007,
+      "name": "Faitwosur/Angkasa Pura"
+    }
+  ]
+}

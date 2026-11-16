@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 5103021004,
+      "name": "Kapal"
+    },
+    {
+      "code": 5103021005,
+      "name": "Sempidi"
+    },
+    {
+      "code": 5103021014,
+      "name": "Abianbase"
+    },
+    {
+      "code": 5103021015,
+      "name": "Sading"
+    },
+    {
+      "code": 5103021016,
+      "name": "Lukluk"
+    },
+    {
+      "code": 5103022001,
+      "name": "Munggu"
+    },
+    {
+      "code": 5103022002,
+      "name": "Buduk"
+    },
+    {
+      "code": 5103022003,
+      "name": "Mengwitani"
+    },
+    {
+      "code": 5103022006,
+      "name": "Penarungan"
+    },
+    {
+      "code": 5103022007,
+      "name": "Sembung"
+    },
+    {
+      "code": 5103022008,
+      "name": "Baha"
+    },
+    {
+      "code": 5103022009,
+      "name": "Mengwi"
+    },
+    {
+      "code": 5103022010,
+      "name": "Kekeran"
+    },
+    {
+      "code": 5103022011,
+      "name": "Sobangan"
+    },
+    {
+      "code": 5103022012,
+      "name": "Gulingan"
+    },
+    {
+      "code": 5103022013,
+      "name": "Werdi Bhuwana"
+    },
+    {
+      "code": 5103022017,
+      "name": "Cemagi"
+    },
+    {
+      "code": 5103022018,
+      "name": "Pererenan"
+    },
+    {
+      "code": 5103022019,
+      "name": "Tumbakbayuh"
+    },
+    {
+      "code": 5103022020,
+      "name": "Kuwum"
+    }
+  ]
+}

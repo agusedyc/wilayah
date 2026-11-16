@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6504052001,
+      "name": "Seputuk"
+    },
+    {
+      "code": 6504052002,
+      "name": "Rian"
+    },
+    {
+      "code": 6504052003,
+      "name": "Balayan Ari"
+    },
+    {
+      "code": 6504052004,
+      "name": "Rian Rayo"
+    },
+    {
+      "code": 6504052005,
+      "name": "Kapuak"
+    },
+    {
+      "code": 6504052006,
+      "name": "Sapari"
+    }
+  ]
+}

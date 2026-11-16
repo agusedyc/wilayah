@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1871191001,
+      "name": "Kota Karang"
+    },
+    {
+      "code": 1871191002,
+      "name": "Kota Karang Raya"
+    },
+    {
+      "code": 1871191003,
+      "name": "Parwata"
+    },
+    {
+      "code": 1871191004,
+      "name": "Keteguhan"
+    },
+    {
+      "code": 1871191005,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1871191006,
+      "name": "Way Tataan"
+    }
+  ]
+}

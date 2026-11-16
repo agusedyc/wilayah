@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 districts",
+  "data": [
+    {
+      "code": 337601,
+      "name": "Tegal Barat"
+    },
+    {
+      "code": 337602,
+      "name": "Tegal Timur"
+    },
+    {
+      "code": 337603,
+      "name": "Tegal Selatan"
+    },
+    {
+      "code": 337604,
+      "name": "Margadana"
+    }
+  ]
+}

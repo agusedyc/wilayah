@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 3528052001,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3528052002,
+      "name": "Toket"
+    },
+    {
+      "code": 3528052003,
+      "name": "Candi Burung"
+    },
+    {
+      "code": 3528052004,
+      "name": "Batu Kalangan"
+    },
+    {
+      "code": 3528052005,
+      "name": "Gro'om"
+    },
+    {
+      "code": 3528052006,
+      "name": "Srambah"
+    },
+    {
+      "code": 3528052007,
+      "name": "Pangtonggal"
+    },
+    {
+      "code": 3528052008,
+      "name": "Samiran"
+    },
+    {
+      "code": 3528052009,
+      "name": "Kodik"
+    },
+    {
+      "code": 3528052010,
+      "name": "Klampar"
+    },
+    {
+      "code": 3528052011,
+      "name": "Samatan"
+    },
+    {
+      "code": 3528052012,
+      "name": "Lenteng"
+    },
+    {
+      "code": 3528052013,
+      "name": "Talangoh"
+    },
+    {
+      "code": 3528052014,
+      "name": "Billa'an"
+    },
+    {
+      "code": 3528052015,
+      "name": "Rangperang Laok"
+    },
+    {
+      "code": 3528052016,
+      "name": "Rangperang Daja"
+    },
+    {
+      "code": 3528052017,
+      "name": "Banyubulu"
+    },
+    {
+      "code": 3528052018,
+      "name": "Pangorayan"
+    },
+    {
+      "code": 3528052019,
+      "name": "Panglemah"
+    },
+    {
+      "code": 3528052020,
+      "name": "Mapper"
+    },
+    {
+      "code": 3528052021,
+      "name": "Proppo"
+    },
+    {
+      "code": 3528052022,
+      "name": "Jambringin"
+    },
+    {
+      "code": 3528052023,
+      "name": "Campor"
+    },
+    {
+      "code": 3528052024,
+      "name": "Panaguan"
+    },
+    {
+      "code": 3528052025,
+      "name": "Pangbatok"
+    },
+    {
+      "code": 3528052026,
+      "name": "Tattangoh"
+    },
+    {
+      "code": 3528052027,
+      "name": "Badung"
+    }
+  ]
+}

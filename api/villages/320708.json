@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3207082001,
+      "name": "Panjalu"
+    },
+    {
+      "code": 3207082002,
+      "name": "Kertamandala"
+    },
+    {
+      "code": 3207082003,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3207082004,
+      "name": "Sandingtaman"
+    },
+    {
+      "code": 3207082005,
+      "name": "Maparah"
+    },
+    {
+      "code": 3207082009,
+      "name": "Bahara"
+    },
+    {
+      "code": 3207082012,
+      "name": "Hujungtiwu"
+    },
+    {
+      "code": 3207082013,
+      "name": "Mandalare"
+    }
+  ]
+}

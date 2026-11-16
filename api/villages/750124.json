@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7501242001,
+      "name": "Pilolalenga"
+    },
+    {
+      "code": 7501242002,
+      "name": "Kaliyoso"
+    },
+    {
+      "code": 7501242003,
+      "name": "Dungaliyo"
+    },
+    {
+      "code": 7501242004,
+      "name": "Ambara"
+    },
+    {
+      "code": 7501242005,
+      "name": "Bongomeme"
+    },
+    {
+      "code": 7501242006,
+      "name": "Duwanga"
+    },
+    {
+      "code": 7501242007,
+      "name": "Ayuhula"
+    },
+    {
+      "code": 7501242008,
+      "name": "Pangadaa"
+    },
+    {
+      "code": 7501242009,
+      "name": "Botubulowe"
+    },
+    {
+      "code": 7501242010,
+      "name": "Momala"
+    }
+  ]
+}

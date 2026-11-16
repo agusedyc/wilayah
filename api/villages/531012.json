@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 5310121001,
+      "name": "Golo Dukal"
+    },
+    {
+      "code": 5310121002,
+      "name": "Wali"
+    },
+    {
+      "code": 5310121003,
+      "name": "Karot"
+    },
+    {
+      "code": 5310121004,
+      "name": "Pitak"
+    },
+    {
+      "code": 5310121005,
+      "name": "Lawir"
+    },
+    {
+      "code": 5310121006,
+      "name": "Pau"
+    },
+    {
+      "code": 5310121007,
+      "name": "Waso"
+    },
+    {
+      "code": 5310121008,
+      "name": "Watu"
+    },
+    {
+      "code": 5310121009,
+      "name": "Mbaumuku"
+    },
+    {
+      "code": 5310121010,
+      "name": "Tenda"
+    },
+    {
+      "code": 5310121011,
+      "name": "Carep"
+    },
+    {
+      "code": 5310121012,
+      "name": "Bangka Nekang"
+    },
+    {
+      "code": 5310121013,
+      "name": "Satar Tacik"
+    },
+    {
+      "code": 5310121014,
+      "name": "Poco Mal"
+    },
+    {
+      "code": 5310121015,
+      "name": "Compang Carep"
+    },
+    {
+      "code": 5310121016,
+      "name": "Laci Carep"
+    },
+    {
+      "code": 5310121017,
+      "name": "Tadong"
+    },
+    {
+      "code": 5310121018,
+      "name": "Rowang"
+    },
+    {
+      "code": 5310121019,
+      "name": "Bangka Leda"
+    },
+    {
+      "code": 5310121020,
+      "name": "Compang Tuke"
+    }
+  ]
+}

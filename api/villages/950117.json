@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501172001,
+      "name": "Yagarobak"
+    },
+    {
+      "code": 9501172002,
+      "name": "Zapma"
+    },
+    {
+      "code": 9501172003,
+      "name": "Ayobaibur"
+    },
+    {
+      "code": 9501172004,
+      "name": "Ibele"
+    },
+    {
+      "code": 9501172005,
+      "name": "Tipalok"
+    },
+    {
+      "code": 9501172006,
+      "name": "Habema"
+    },
+    {
+      "code": 9501172007,
+      "name": "Zinai"
+    },
+    {
+      "code": 9501172008,
+      "name": "Holaliba"
+    },
+    {
+      "code": 9501172009,
+      "name": "Yelebarek"
+    },
+    {
+      "code": 9501172010,
+      "name": "Yokalpalek"
+    }
+  ]
+}

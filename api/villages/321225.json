@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3212252001,
+      "name": "Bantarwaru"
+    },
+    {
+      "code": 3212252002,
+      "name": "Sanca"
+    },
+    {
+      "code": 3212252003,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3212252004,
+      "name": "Gantar"
+    },
+    {
+      "code": 3212252005,
+      "name": "Situraja"
+    },
+    {
+      "code": 3212252006,
+      "name": "Balareja"
+    },
+    {
+      "code": 3212252007,
+      "name": "Mekarwaru"
+    }
+  ]
+}

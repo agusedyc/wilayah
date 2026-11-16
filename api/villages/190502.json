@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1905022001,
+      "name": "Pelangas"
+    },
+    {
+      "code": 1905022002,
+      "name": "Kundi"
+    },
+    {
+      "code": 1905022003,
+      "name": "Mayang"
+    },
+    {
+      "code": 1905022004,
+      "name": "Peradong"
+    },
+    {
+      "code": 1905022005,
+      "name": "Air Nyatoh"
+    },
+    {
+      "code": 1905022006,
+      "name": "Berang"
+    },
+    {
+      "code": 1905022007,
+      "name": "Rambat"
+    },
+    {
+      "code": 1905022008,
+      "name": "Simpang Gong"
+    },
+    {
+      "code": 1905022009,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1905022010,
+      "name": "Ibul"
+    },
+    {
+      "code": 1905022011,
+      "name": "Pangek"
+    },
+    {
+      "code": 1905022012,
+      "name": "Bukit Terak"
+    },
+    {
+      "code": 1905022013,
+      "name": "Air Menduyung"
+    }
+  ]
+}

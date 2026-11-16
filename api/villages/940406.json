@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9404062001,
+      "name": "Jila"
+    },
+    {
+      "code": 9404062002,
+      "name": "Diloa"
+    },
+    {
+      "code": 9404062003,
+      "name": "Noemun"
+    },
+    {
+      "code": 9404062004,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 9404062005,
+      "name": "Jengkon"
+    },
+    {
+      "code": 9404062006,
+      "name": "Pilik Ogom"
+    },
+    {
+      "code": 9404062007,
+      "name": "Bunaraugin"
+    },
+    {
+      "code": 9404062008,
+      "name": "Umpliga"
+    },
+    {
+      "code": 9404062009,
+      "name": "Amua Ogom"
+    },
+    {
+      "code": 9404062010,
+      "name": "Pusuwe"
+    },
+    {
+      "code": 9404062011,
+      "name": "Wandud"
+    },
+    {
+      "code": 9404062012,
+      "name": "Diloa Dua"
+    }
+  ]
+}

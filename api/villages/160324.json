@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603242001,
+      "name": "Tanjung Bunut"
+    },
+    {
+      "code": 1603242002,
+      "name": "Babat"
+    },
+    {
+      "code": 1603242003,
+      "name": "Lubuk Semantung"
+    },
+    {
+      "code": 1603242004,
+      "name": "Lubuk Getam"
+    },
+    {
+      "code": 1603242005,
+      "name": "Talang Balai"
+    },
+    {
+      "code": 1603242006,
+      "name": "Talang Beliung"
+    },
+    {
+      "code": 1603242007,
+      "name": "Sialingan"
+    },
+    {
+      "code": 1603242008,
+      "name": "Tanjung Tiga"
+    },
+    {
+      "code": 1603242009,
+      "name": "Ibul"
+    },
+    {
+      "code": 1603242010,
+      "name": "Gaung Asam"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 6401081001,
+      "name": "Long Kali"
+    },
+    {
+      "code": 6401082002,
+      "name": "Muara Telake"
+    },
+    {
+      "code": 6401082003,
+      "name": "Sebakung"
+    },
+    {
+      "code": 6401082004,
+      "name": "Bente Tualan"
+    },
+    {
+      "code": 6401082005,
+      "name": "Mendik"
+    },
+    {
+      "code": 6401082006,
+      "name": "Munggu"
+    },
+    {
+      "code": 6401082007,
+      "name": "Muara Pias"
+    },
+    {
+      "code": 6401082008,
+      "name": "Muara Toyu"
+    },
+    {
+      "code": 6401082009,
+      "name": "Perkuwen"
+    },
+    {
+      "code": 6401082010,
+      "name": "Pinang Jatus"
+    },
+    {
+      "code": 6401082011,
+      "name": "Muara Lambakan"
+    },
+    {
+      "code": 6401082012,
+      "name": "Kepala Telake"
+    },
+    {
+      "code": 6401082013,
+      "name": "Mendik Makmur"
+    },
+    {
+      "code": 6401082014,
+      "name": "Mendik Karya"
+    },
+    {
+      "code": 6401082015,
+      "name": "Mendik Bhakti"
+    },
+    {
+      "code": 6401082016,
+      "name": "Sebakung Taka"
+    },
+    {
+      "code": 6401082017,
+      "name": "Maruat"
+    },
+    {
+      "code": 6401082018,
+      "name": "Sebakung Makmur"
+    },
+    {
+      "code": 6401082019,
+      "name": "Petiku"
+    },
+    {
+      "code": 6401082020,
+      "name": "Muara Adang II"
+    },
+    {
+      "code": 6401082021,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 6401082022,
+      "name": "Gunung Putar"
+    },
+    {
+      "code": 6401082023,
+      "name": "Putang"
+    }
+  ]
+}

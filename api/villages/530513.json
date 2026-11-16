@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5305132001,
+      "name": "Langkuru"
+    },
+    {
+      "code": 5305132002,
+      "name": "Purnama"
+    },
+    {
+      "code": 5305132003,
+      "name": "Kailesa"
+    },
+    {
+      "code": 5305132004,
+      "name": "Langkuru Utara"
+    }
+  ]
+}

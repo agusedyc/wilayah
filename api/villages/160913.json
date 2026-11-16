@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1609132001,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 1609132002,
+      "name": "Kota Batu"
+    },
+    {
+      "code": 1609132003,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1609132004,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 1609132005,
+      "name": "Gunung Aji"
+    },
+    {
+      "code": 1609132006,
+      "name": "Pilla"
+    },
+    {
+      "code": 1609132007,
+      "name": "Gunung Raya"
+    },
+    {
+      "code": 1609132008,
+      "name": "Remanam Jaya"
+    },
+    {
+      "code": 1609132009,
+      "name": "Kiwis Raya"
+    },
+    {
+      "code": 1609132010,
+      "name": "Segigok Raya"
+    },
+    {
+      "code": 1609132011,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1609132012,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1609132013,
+      "name": "Bedeng Tiga"
+    },
+    {
+      "code": 1609132014,
+      "name": "Gedung Ranau"
+    },
+    {
+      "code": 1609132015,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1609132016,
+      "name": "Way Wangi Seminung"
+    }
+  ]
+}

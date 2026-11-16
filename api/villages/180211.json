@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1802112001,
+      "name": "Fajar Mataram"
+    },
+    {
+      "code": 1802112002,
+      "name": "Rejosari Mataram"
+    },
+    {
+      "code": 1802112003,
+      "name": "Qurnia Mataram"
+    },
+    {
+      "code": 1802112004,
+      "name": "Trimulyo Mataram"
+    },
+    {
+      "code": 1802112005,
+      "name": "Utama Jaya Mataram"
+    },
+    {
+      "code": 1802112006,
+      "name": "Sumber Agung Mataram"
+    },
+    {
+      "code": 1802112007,
+      "name": "Varia Agung Mataram"
+    },
+    {
+      "code": 1802112008,
+      "name": "Wirata Agung Mataram"
+    },
+    {
+      "code": 1802112009,
+      "name": "Dharma Agung Mataram"
+    },
+    {
+      "code": 1802112010,
+      "name": "Bumi Setia Mataram"
+    },
+    {
+      "code": 1802112011,
+      "name": "Subing Karya"
+    },
+    {
+      "code": 1802112012,
+      "name": "Banjar Agung Mataram"
+    }
+  ]
+}

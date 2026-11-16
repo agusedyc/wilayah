@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3601211002,
+      "name": "Kadomas"
+    },
+    {
+      "code": 3601211003,
+      "name": "Babakan Kalanganyar"
+    },
+    {
+      "code": 3601211004,
+      "name": "Kabayan"
+    },
+    {
+      "code": 3601211009,
+      "name": "Pandeglang"
+    }
+  ]
+}

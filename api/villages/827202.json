@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8272021002,
+      "name": "Guraping"
+    },
+    {
+      "code": 8272021003,
+      "name": "Sofifi"
+    },
+    {
+      "code": 8272022001,
+      "name": "Kaiyasa"
+    },
+    {
+      "code": 8272022005,
+      "name": "Oba"
+    },
+    {
+      "code": 8272022006,
+      "name": "Somahode"
+    },
+    {
+      "code": 8272022007,
+      "name": "Ake Kolano"
+    },
+    {
+      "code": 8272022009,
+      "name": "Balbar"
+    },
+    {
+      "code": 8272022010,
+      "name": "Bukit Durian"
+    },
+    {
+      "code": 8272022011,
+      "name": "Galala"
+    },
+    {
+      "code": 8272022012,
+      "name": "Ampera"
+    },
+    {
+      "code": 8272022013,
+      "name": "Kusu"
+    },
+    {
+      "code": 8272022014,
+      "name": "Garojou"
+    },
+    {
+      "code": 8272022015,
+      "name": "Gosale"
+    }
+  ]
+}

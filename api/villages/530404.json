@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5304042001,
+      "name": "Tukuneno"
+    },
+    {
+      "code": 5304042002,
+      "name": "Naekasa"
+    },
+    {
+      "code": 5304042003,
+      "name": "Lookeu"
+    },
+    {
+      "code": 5304042004,
+      "name": "Derokfaturene"
+    },
+    {
+      "code": 5304042005,
+      "name": "Bakustulama"
+    },
+    {
+      "code": 5304042006,
+      "name": "Rinbesihat"
+    },
+    {
+      "code": 5304042007,
+      "name": "Naitimu"
+    },
+    {
+      "code": 5304042009,
+      "name": "Lawalutolus"
+    }
+  ]
+}

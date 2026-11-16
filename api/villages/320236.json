@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202362001,
+      "name": "Sukalarang"
+    },
+    {
+      "code": 3202362002,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3202362003,
+      "name": "Cimangkok"
+    },
+    {
+      "code": 3202362004,
+      "name": "Titisan"
+    },
+    {
+      "code": 3202362005,
+      "name": "Semplak"
+    },
+    {
+      "code": 3202362006,
+      "name": "Prianganjaya"
+    }
+  ]
+}

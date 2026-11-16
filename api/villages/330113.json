@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3301132001,
+      "name": "Panimbang"
+    },
+    {
+      "code": 3301132002,
+      "name": "Bantarmangu"
+    },
+    {
+      "code": 3301132003,
+      "name": "Bantarpanjang"
+    },
+    {
+      "code": 3301132004,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3301132005,
+      "name": "Cilempuyang"
+    },
+    {
+      "code": 3301132006,
+      "name": "Negarajati"
+    },
+    {
+      "code": 3301132007,
+      "name": "Cisalak"
+    },
+    {
+      "code": 3301132008,
+      "name": "Cibalung"
+    },
+    {
+      "code": 3301132009,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3301132010,
+      "name": "Kutabima"
+    },
+    {
+      "code": 3301132011,
+      "name": "Pesahangan"
+    },
+    {
+      "code": 3301132012,
+      "name": "Cijati"
+    },
+    {
+      "code": 3301132013,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3301132014,
+      "name": "Rejodadi"
+    },
+    {
+      "code": 3301132015,
+      "name": "Mandala"
+    }
+  ]
+}

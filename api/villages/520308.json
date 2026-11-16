@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5203082001,
+      "name": "Bagik Papan"
+    },
+    {
+      "code": 5203082002,
+      "name": "Apit Aik"
+    },
+    {
+      "code": 5203082003,
+      "name": "Kerumut"
+    },
+    {
+      "code": 5203082004,
+      "name": "Pohgading"
+    },
+    {
+      "code": 5203082005,
+      "name": "Batuyang"
+    },
+    {
+      "code": 5203082006,
+      "name": "Pringgabaya"
+    },
+    {
+      "code": 5203082007,
+      "name": "Labuhan Lombok"
+    },
+    {
+      "code": 5203082008,
+      "name": "Pringgabaya Utara"
+    },
+    {
+      "code": 5203082009,
+      "name": "Pohgading Timur"
+    },
+    {
+      "code": 5203082010,
+      "name": "Teko"
+    },
+    {
+      "code": 5203082011,
+      "name": "Anggaraksa"
+    },
+    {
+      "code": 5203082012,
+      "name": "Tanak Gadang"
+    },
+    {
+      "code": 5203082013,
+      "name": "Gunung Malang"
+    },
+    {
+      "code": 5203082014,
+      "name": "Seruni Mumbul"
+    },
+    {
+      "code": 5203082015,
+      "name": "Telaga Waru"
+    }
+  ]
+}

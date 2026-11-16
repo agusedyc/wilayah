@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3520142001,
+      "name": "Karas"
+    },
+    {
+      "code": 3520142002,
+      "name": "Sobontoro"
+    },
+    {
+      "code": 3520142003,
+      "name": "Sumursongo"
+    },
+    {
+      "code": 3520142004,
+      "name": "Taji"
+    },
+    {
+      "code": 3520142005,
+      "name": "Kuwon"
+    },
+    {
+      "code": 3520142006,
+      "name": "Jungke"
+    },
+    {
+      "code": 3520142007,
+      "name": "Temboro"
+    },
+    {
+      "code": 3520142008,
+      "name": "Temenggungan"
+    },
+    {
+      "code": 3520142009,
+      "name": "Geplak"
+    },
+    {
+      "code": 3520142010,
+      "name": "Botok"
+    },
+    {
+      "code": 3520142011,
+      "name": "Ginuk"
+    }
+  ]
+}

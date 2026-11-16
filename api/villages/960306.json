@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9603062001,
+      "name": "Foley"
+    },
+    {
+      "code": 9603062002,
+      "name": "Tomolol"
+    },
+    {
+      "code": 9603062003,
+      "name": "Usaha Jaya"
+    },
+    {
+      "code": 9603062004,
+      "name": "Limalas Timur"
+    },
+    {
+      "code": 9603062005,
+      "name": "Audam"
+    },
+    {
+      "code": 9603062006,
+      "name": "Limalas Barat"
+    }
+  ]
+}

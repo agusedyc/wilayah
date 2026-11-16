@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1771011001,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1771011002,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1771011003,
+      "name": "Pekan Sabtu"
+    },
+    {
+      "code": 1771011004,
+      "name": "Bumu Ayu"
+    },
+    {
+      "code": 1771011005,
+      "name": "Betungan"
+    },
+    {
+      "code": 1771011006,
+      "name": "Sumur Dewa"
+    }
+  ]
+}

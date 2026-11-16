@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306121001,
+      "name": "Benteng Somba Opu"
+    },
+    {
+      "code": 7306121005,
+      "name": "Lembang Parang"
+    },
+    {
+      "code": 7306122002,
+      "name": "Kanjilo"
+    },
+    {
+      "code": 7306122003,
+      "name": "Moncobalang"
+    },
+    {
+      "code": 7306122004,
+      "name": "Tinggimae"
+    },
+    {
+      "code": 7306122006,
+      "name": "Biringala"
+    },
+    {
+      "code": 7306122007,
+      "name": "Tamannyeleng"
+    }
+  ]
+}

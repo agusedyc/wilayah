@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5204022001,
+      "name": "Lunyuk Rea"
+    },
+    {
+      "code": 5204022002,
+      "name": "Lunyuk Ode"
+    },
+    {
+      "code": 5204022003,
+      "name": "Jamu"
+    },
+    {
+      "code": 5204022007,
+      "name": "Pada Suka"
+    },
+    {
+      "code": 5204022008,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 5204022009,
+      "name": "Perung"
+    },
+    {
+      "code": 5204022010,
+      "name": "Emang Lestari"
+    }
+  ]
+}

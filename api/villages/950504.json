@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9505042001,
+      "name": "Megambilis"
+    },
+    {
+      "code": 9505042002,
+      "name": "Tariko"
+    },
+    {
+      "code": 9505042003,
+      "name": "Homasan"
+    },
+    {
+      "code": 9505042004,
+      "name": "Higisyam"
+    }
+  ]
+}

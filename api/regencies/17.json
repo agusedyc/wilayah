@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 regencies",
+  "data": [
+    {
+      "code": 1701,
+      "name": "Kabupaten Bengkulu Selatan"
+    },
+    {
+      "code": 1702,
+      "name": "Kabupaten Rejang Lebong"
+    },
+    {
+      "code": 1703,
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    {
+      "code": 1704,
+      "name": "Kabupaten Kaur"
+    },
+    {
+      "code": 1705,
+      "name": "Kabupaten Seluma"
+    },
+    {
+      "code": 1706,
+      "name": "Kabupaten Mukomuko"
+    },
+    {
+      "code": 1707,
+      "name": "Kabupaten Lebong"
+    },
+    {
+      "code": 1708,
+      "name": "Kabupaten Kepahiang"
+    },
+    {
+      "code": 1709,
+      "name": "Kabupaten Bengkulu Tengah"
+    },
+    {
+      "code": 1771,
+      "name": "Kota Bengkulu"
+    }
+  ]
+}

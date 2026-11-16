@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3204162001,
+      "name": "Arjasari"
+    },
+    {
+      "code": 3204162002,
+      "name": "Lebakwangi"
+    },
+    {
+      "code": 3204162003,
+      "name": "Batukarut"
+    },
+    {
+      "code": 3204162004,
+      "name": "Ancolmekar"
+    },
+    {
+      "code": 3204162005,
+      "name": "Baros"
+    },
+    {
+      "code": 3204162006,
+      "name": "Mangunjaya"
+    },
+    {
+      "code": 3204162007,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3204162008,
+      "name": "Pinggirsari"
+    },
+    {
+      "code": 3204162009,
+      "name": "Patrolsari"
+    },
+    {
+      "code": 3204162010,
+      "name": "Rancakole"
+    },
+    {
+      "code": 3204162011,
+      "name": "Wargaluyu"
+    }
+  ]
+}

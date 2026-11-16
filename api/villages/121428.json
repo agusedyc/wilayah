@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1214282001,
+      "name": "Gobo"
+    },
+    {
+      "code": 1214282002,
+      "name": "Silina"
+    },
+    {
+      "code": 1214282003,
+      "name": "Maufa"
+    },
+    {
+      "code": 1214282004,
+      "name": "Gondia"
+    },
+    {
+      "code": 1214282005,
+      "name": "Gobo Baru"
+    },
+    {
+      "code": 1214282006,
+      "name": "Silina Baru"
+    }
+  ]
+}

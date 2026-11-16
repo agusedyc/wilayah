@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9105112001,
+      "name": "Wooi"
+    },
+    {
+      "code": 9105112002,
+      "name": "Woinap"
+    },
+    {
+      "code": 9105112003,
+      "name": "Aibondeni"
+    },
+    {
+      "code": 9105112004,
+      "name": "Kanaki"
+    },
+    {
+      "code": 9105112005,
+      "name": "Dumani"
+    },
+    {
+      "code": 9105112007,
+      "name": "Karemoni"
+    },
+    {
+      "code": 9105112008,
+      "name": "Haihorei"
+    },
+    {
+      "code": 9105112009,
+      "name": "Rembai"
+    },
+    {
+      "code": 9105112010,
+      "name": "Jaimaria"
+    },
+    {
+      "code": 9105112011,
+      "name": "Awado"
+    }
+  ]
+}

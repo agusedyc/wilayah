@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3302241001,
+      "name": "Karangklesem"
+    },
+    {
+      "code": 3302241002,
+      "name": "Teluk"
+    },
+    {
+      "code": 3302241003,
+      "name": "Berkoh"
+    },
+    {
+      "code": 3302241004,
+      "name": "Purwokerto Kidul"
+    },
+    {
+      "code": 3302241005,
+      "name": "Purwokerto Kulon"
+    },
+    {
+      "code": 3302241006,
+      "name": "Karangpucung"
+    },
+    {
+      "code": 3302241007,
+      "name": "Tanjung"
+    }
+  ]
+}

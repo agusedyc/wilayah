@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9207102001,
+      "name": "Yende"
+    },
+    {
+      "code": 9207102002,
+      "name": "Syabes"
+    },
+    {
+      "code": 9207102003,
+      "name": "Menarbu"
+    },
+    {
+      "code": 9207102004,
+      "name": "Niab"
+    },
+    {
+      "code": 9207102005,
+      "name": "Inday"
+    },
+    {
+      "code": 9207102006,
+      "name": "Sariay"
+    },
+    {
+      "code": 9207102007,
+      "name": "Mena"
+    }
+  ]
+}

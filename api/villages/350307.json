@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3503072001,
+      "name": "Ngadimulyo"
+    },
+    {
+      "code": 3503072002,
+      "name": "Bogoran"
+    },
+    {
+      "code": 3503072003,
+      "name": "Timahan"
+    },
+    {
+      "code": 3503072004,
+      "name": "Bendoagung"
+    },
+    {
+      "code": 3503072005,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3503072006,
+      "name": "Sugihan"
+    },
+    {
+      "code": 3503072007,
+      "name": "Senden"
+    }
+  ]
+}

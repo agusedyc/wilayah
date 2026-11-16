@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5319112001,
+      "name": "Satar Padut"
+    },
+    {
+      "code": 5319112002,
+      "name": "Satar Punda"
+    },
+    {
+      "code": 5319112003,
+      "name": "Nampar Tabang"
+    },
+    {
+      "code": 5319112004,
+      "name": "Lencur"
+    },
+    {
+      "code": 5319112005,
+      "name": "Liang Deruk"
+    },
+    {
+      "code": 5319112006,
+      "name": "Haju Wangi"
+    },
+    {
+      "code": 5319112007,
+      "name": "Satar Kampas"
+    },
+    {
+      "code": 5319112008,
+      "name": "Golo Mangung"
+    },
+    {
+      "code": 5319112009,
+      "name": "Golo Wontong"
+    },
+    {
+      "code": 5319112010,
+      "name": "Golo Munga Barat"
+    },
+    {
+      "code": 5319112011,
+      "name": "Satar Punda Barat"
+    }
+  ]
+}

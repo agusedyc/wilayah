@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3604122001,
+      "name": "Pontang"
+    },
+    {
+      "code": 3604122002,
+      "name": "Sukanegara"
+    },
+    {
+      "code": 3604122003,
+      "name": "Linduk"
+    },
+    {
+      "code": 3604122004,
+      "name": "Pulokencana"
+    },
+    {
+      "code": 3604122006,
+      "name": "Kelapian"
+    },
+    {
+      "code": 3604122008,
+      "name": "Kubang Puji"
+    },
+    {
+      "code": 3604122009,
+      "name": "Domas"
+    },
+    {
+      "code": 3604122010,
+      "name": "Singarajan"
+    },
+    {
+      "code": 3604122011,
+      "name": "Kaserangan"
+    },
+    {
+      "code": 3604122012,
+      "name": "Wanayasa"
+    },
+    {
+      "code": 3604122013,
+      "name": "Sukajaya"
+    }
+  ]
+}

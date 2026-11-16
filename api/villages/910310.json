@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9103102001,
+      "name": "Demta"
+    },
+    {
+      "code": 9103102002,
+      "name": "Ambora"
+    },
+    {
+      "code": 9103102003,
+      "name": "Yougapsa"
+    },
+    {
+      "code": 9103102004,
+      "name": "Muris Kecil"
+    },
+    {
+      "code": 9103102005,
+      "name": "Yakore"
+    },
+    {
+      "code": 9103102006,
+      "name": "Kamdera"
+    },
+    {
+      "code": 9103102007,
+      "name": "Muaif"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1301082001,
+      "name": "Taratak"
+    },
+    {
+      "code": 1301082002,
+      "name": "Surantih"
+    },
+    {
+      "code": 1301082003,
+      "name": "Amping Parak"
+    },
+    {
+      "code": 1301082004,
+      "name": "Amping Parak Timur"
+    },
+    {
+      "code": 1301082005,
+      "name": "Koto Taratak"
+    },
+    {
+      "code": 1301082006,
+      "name": "Lansano Taratak"
+    },
+    {
+      "code": 1301082007,
+      "name": "Aur Duri Surantih"
+    },
+    {
+      "code": 1301082008,
+      "name": "Rawang Gunung Malelo Surantih"
+    },
+    {
+      "code": 1301082009,
+      "name": "Koto Nan Tigo Selatan Surantih"
+    },
+    {
+      "code": 1301082010,
+      "name": "Koto Nan Tigo Utara Surantih"
+    },
+    {
+      "code": 1301082011,
+      "name": "Ganting Mudiak Selatan Surantih"
+    },
+    {
+      "code": 1301082012,
+      "name": "Ganting Mudiak Utara Surantih"
+    }
+  ]
+}

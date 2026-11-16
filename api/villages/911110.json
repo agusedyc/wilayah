@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9111102001,
+      "name": "Yabanda"
+    },
+    {
+      "code": 9111102002,
+      "name": "Yuruf"
+    },
+    {
+      "code": 9111102003,
+      "name": "Amgotro"
+    },
+    {
+      "code": 9111102004,
+      "name": "Jifanggry"
+    },
+    {
+      "code": 9111102005,
+      "name": "Monggoafi"
+    },
+    {
+      "code": 9111102006,
+      "name": "Fafenumbu"
+    },
+    {
+      "code": 9111102007,
+      "name": "Akarinda"
+    }
+  ]
+}

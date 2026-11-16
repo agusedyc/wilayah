@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6203122001,
+      "name": "Sei Hanyo"
+    },
+    {
+      "code": 6203122002,
+      "name": "Hurung Tabengan"
+    },
+    {
+      "code": 6203122003,
+      "name": "Rahung Bungai"
+    },
+    {
+      "code": 6203122005,
+      "name": "Bulau Ngandung"
+    },
+    {
+      "code": 6203122006,
+      "name": "Tumbang Puroh"
+    },
+    {
+      "code": 6203122008,
+      "name": "Tangirang"
+    },
+    {
+      "code": 6203122013,
+      "name": "Barunang II"
+    },
+    {
+      "code": 6203122014,
+      "name": "Hurung Tampang"
+    },
+    {
+      "code": 6203122015,
+      "name": "Supang"
+    },
+    {
+      "code": 6203122016,
+      "name": "Katanjung"
+    },
+    {
+      "code": 6203122018,
+      "name": "Jakatan Pari"
+    },
+    {
+      "code": 6203122019,
+      "name": "Tumbang Sirat"
+    },
+    {
+      "code": 6203122021,
+      "name": "Dirung Koram"
+    },
+    {
+      "code": 6203122022,
+      "name": "Mampai Jaya"
+    }
+  ]
+}

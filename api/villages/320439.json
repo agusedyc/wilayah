@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3204392001,
+      "name": "Lebakmuncang"
+    },
+    {
+      "code": 3204392002,
+      "name": "Ciwidey"
+    },
+    {
+      "code": 3204392003,
+      "name": "Nengkelan"
+    },
+    {
+      "code": 3204392004,
+      "name": "Panundaan"
+    },
+    {
+      "code": 3204392005,
+      "name": "Panyocokan"
+    },
+    {
+      "code": 3204392006,
+      "name": "Rawabogo"
+    },
+    {
+      "code": 3204392007,
+      "name": "Sukawening"
+    }
+  ]
+}

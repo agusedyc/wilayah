@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9402152001,
+      "name": "Lumo"
+    },
+    {
+      "code": 9402152002,
+      "name": "Kililumo"
+    },
+    {
+      "code": 9402152003,
+      "name": "Gilibe"
+    },
+    {
+      "code": 9402152004,
+      "name": "Ninggineri"
+    },
+    {
+      "code": 9402152005,
+      "name": "Wurabak"
+    },
+    {
+      "code": 9402152006,
+      "name": "Wuluma"
+    },
+    {
+      "code": 9402152007,
+      "name": "Tigir"
+    },
+    {
+      "code": 9402152008,
+      "name": "Gililome"
+    },
+    {
+      "code": 9402152009,
+      "name": "Wuramburu"
+    }
+  ]
+}

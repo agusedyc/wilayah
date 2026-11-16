@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3302251001,
+      "name": "Karanglewas Lor"
+    },
+    {
+      "code": 3302251002,
+      "name": "Pasir Kidul"
+    },
+    {
+      "code": 3302251003,
+      "name": "Rejasari"
+    },
+    {
+      "code": 3302251004,
+      "name": "Pasirmuncang"
+    },
+    {
+      "code": 3302251005,
+      "name": "Bantarsoka"
+    },
+    {
+      "code": 3302251006,
+      "name": "Kober"
+    },
+    {
+      "code": 3302251007,
+      "name": "Kedungwuluh"
+    }
+  ]
+}

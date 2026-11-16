@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7104162001,
+      "name": "Tule"
+    },
+    {
+      "code": 7104162002,
+      "name": "Tule Tengah"
+    },
+    {
+      "code": 7104162003,
+      "name": "Tule Utara"
+    },
+    {
+      "code": 7104162004,
+      "name": "Bowombaru"
+    },
+    {
+      "code": 7104162005,
+      "name": "Bowombaru Tengah"
+    },
+    {
+      "code": 7104162006,
+      "name": "Bowombaru Utara"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7317041005,
+      "name": "Bajo"
+    },
+    {
+      "code": 7317042004,
+      "name": "Rumaju"
+    },
+    {
+      "code": 7317042006,
+      "name": "Sampa"
+    },
+    {
+      "code": 7317042007,
+      "name": "Pangi"
+    },
+    {
+      "code": 7317042008,
+      "name": "Tallang Bulawang"
+    },
+    {
+      "code": 7317042010,
+      "name": "Jambu"
+    },
+    {
+      "code": 7317042013,
+      "name": "Saga"
+    },
+    {
+      "code": 7317042014,
+      "name": "Sumabu"
+    },
+    {
+      "code": 7317042015,
+      "name": "Balla"
+    },
+    {
+      "code": 7317042017,
+      "name": "Langkiddi"
+    },
+    {
+      "code": 7317042018,
+      "name": "Samulang"
+    },
+    {
+      "code": 7317042019,
+      "name": "Buntu Babang"
+    }
+  ]
+}

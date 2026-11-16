@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601262001,
+      "name": "Karyasari"
+    },
+    {
+      "code": 3601262002,
+      "name": "Tegal"
+    },
+    {
+      "code": 3601262003,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3601262004,
+      "name": "Dahu"
+    },
+    {
+      "code": 3601262005,
+      "name": "Babakanlor"
+    },
+    {
+      "code": 3601262006,
+      "name": "Karyautama"
+    },
+    {
+      "code": 3601262007,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3601262008,
+      "name": "Padahayu"
+    },
+    {
+      "code": 3601262009,
+      "name": "Cening"
+    },
+    {
+      "code": 3601262010,
+      "name": "Bangkuyung"
+    }
+  ]
+}

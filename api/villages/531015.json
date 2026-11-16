@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5310152001,
+      "name": "Bangka Lelak"
+    },
+    {
+      "code": 5310152002,
+      "name": "Gelong"
+    },
+    {
+      "code": 5310152003,
+      "name": "Urang"
+    },
+    {
+      "code": 5310152004,
+      "name": "Ketang"
+    },
+    {
+      "code": 5310152005,
+      "name": "Pong Umpu"
+    },
+    {
+      "code": 5310152006,
+      "name": "Bangka Dese"
+    },
+    {
+      "code": 5310152007,
+      "name": "Nati"
+    },
+    {
+      "code": 5310152008,
+      "name": "Ndiwar"
+    },
+    {
+      "code": 5310152009,
+      "name": "Bangka Tonggur"
+    },
+    {
+      "code": 5310152010,
+      "name": "Lentang"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7205042001,
+      "name": "Lonu"
+    },
+    {
+      "code": 7205042002,
+      "name": "Tamit"
+    },
+    {
+      "code": 7205042003,
+      "name": "Botugolu"
+    },
+    {
+      "code": 7205042004,
+      "name": "Bunobogu"
+    },
+    {
+      "code": 7205042005,
+      "name": "Konamukan"
+    },
+    {
+      "code": 7205042006,
+      "name": "Ponipingan"
+    },
+    {
+      "code": 7205042007,
+      "name": "Inalatan"
+    },
+    {
+      "code": 7205042015,
+      "name": "Domag Mekar"
+    },
+    {
+      "code": 7205042016,
+      "name": "Bunobogu Selatan"
+    },
+    {
+      "code": 7205042017,
+      "name": "Pokobo"
+    }
+  ]
+}

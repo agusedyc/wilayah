@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1211062001,
+      "name": "Sukadame"
+    },
+    {
+      "code": 1211062002,
+      "name": "Gunung Tua"
+    },
+    {
+      "code": 1211062003,
+      "name": "Harapan"
+    },
+    {
+      "code": 1211062004,
+      "name": "Lau Primbon"
+    },
+    {
+      "code": 1211062005,
+      "name": "Kuta Gamber"
+    },
+    {
+      "code": 1211062006,
+      "name": "Kempawa"
+    },
+    {
+      "code": 1211062007,
+      "name": "Tanah Pinem"
+    },
+    {
+      "code": 1211062008,
+      "name": "Pamah"
+    },
+    {
+      "code": 1211062009,
+      "name": "Kuta Buluh"
+    },
+    {
+      "code": 1211062010,
+      "name": "Pasir Tengah"
+    },
+    {
+      "code": 1211062011,
+      "name": "Renun"
+    },
+    {
+      "code": 1211062012,
+      "name": "Lau Tawar"
+    },
+    {
+      "code": 1211062013,
+      "name": "Balandua"
+    },
+    {
+      "code": 1211062014,
+      "name": "Mangan Molih"
+    },
+    {
+      "code": 1211062015,
+      "name": "Liang Jering"
+    },
+    {
+      "code": 1211062016,
+      "name": "Alur Subur"
+    },
+    {
+      "code": 1211062017,
+      "name": "Lau Njuhar I"
+    },
+    {
+      "code": 1211062018,
+      "name": "Pasir Mbelang"
+    },
+    {
+      "code": 1211062019,
+      "name": "Sinar Pagi"
+    }
+  ]
+}

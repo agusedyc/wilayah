@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6306032001,
+      "name": "Lok Binuang"
+    },
+    {
+      "code": 6306032002,
+      "name": "Telaga Langsat"
+    },
+    {
+      "code": 6306032003,
+      "name": "Mandala"
+    },
+    {
+      "code": 6306032004,
+      "name": "Ambutun"
+    },
+    {
+      "code": 6306032005,
+      "name": "Hamak"
+    },
+    {
+      "code": 6306032006,
+      "name": "Hamak Timur"
+    },
+    {
+      "code": 6306032007,
+      "name": "Hamak Utara"
+    },
+    {
+      "code": 6306032008,
+      "name": "Pakuan Timur"
+    },
+    {
+      "code": 6306032009,
+      "name": "Gumbil"
+    },
+    {
+      "code": 6306032010,
+      "name": "Longawang"
+    },
+    {
+      "code": 6306032011,
+      "name": "Pandulangan"
+    }
+  ]
+}

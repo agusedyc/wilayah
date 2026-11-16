@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7413091004,
+      "name": "Waumere"
+    },
+    {
+      "code": 7413091005,
+      "name": "Tiworo"
+    },
+    {
+      "code": 7413092001,
+      "name": "Katela"
+    },
+    {
+      "code": 7413092002,
+      "name": "Lasama"
+    },
+    {
+      "code": 7413092003,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 7413092006,
+      "name": "Waturempe"
+    },
+    {
+      "code": 7413092007,
+      "name": "Laworo"
+    },
+    {
+      "code": 7413092008,
+      "name": "Wulanga Jaya"
+    },
+    {
+      "code": 7413092009,
+      "name": "Wandoke"
+    }
+  ]
+}

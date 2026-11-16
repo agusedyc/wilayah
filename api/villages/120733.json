@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1207332001,
+      "name": "Serdang"
+    },
+    {
+      "code": 1207332002,
+      "name": "Sidourip"
+    },
+    {
+      "code": 1207332003,
+      "name": "Aras Kabu"
+    },
+    {
+      "code": 1207332004,
+      "name": "Pasar VI Kuala Namu"
+    },
+    {
+      "code": 1207332005,
+      "name": "Emplasmen Kuala Namu"
+    },
+    {
+      "code": 1207332006,
+      "name": "Pasar V Kebun Kelapa"
+    },
+    {
+      "code": 1207332007,
+      "name": "Beringin"
+    },
+    {
+      "code": 1207332008,
+      "name": "Sidoarjo II Ramunia"
+    },
+    {
+      "code": 1207332009,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1207332010,
+      "name": "Sidodadi Ramunia"
+    },
+    {
+      "code": 1207332011,
+      "name": "Tumpatan"
+    }
+  ]
+}

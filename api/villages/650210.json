@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6502102001,
+      "name": "Long Ampung"
+    },
+    {
+      "code": 6502102002,
+      "name": "Long Uro"
+    },
+    {
+      "code": 6502102003,
+      "name": "Lidung Payau"
+    },
+    {
+      "code": 6502102004,
+      "name": "Sungai Barang"
+    },
+    {
+      "code": 6502102005,
+      "name": "Metulang"
+    }
+  ]
+}

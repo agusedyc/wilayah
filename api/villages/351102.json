@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3511022001,
+      "name": "Sukosari"
+    },
+    {
+      "code": 3511022002,
+      "name": "Karang Melok"
+    },
+    {
+      "code": 3511022003,
+      "name": "Mengen"
+    },
+    {
+      "code": 3511022004,
+      "name": "Kemirian"
+    },
+    {
+      "code": 3511022005,
+      "name": "Tamanan"
+    },
+    {
+      "code": 3511022006,
+      "name": "Wonosuko"
+    },
+    {
+      "code": 3511022007,
+      "name": "Kalianyar"
+    },
+    {
+      "code": 3511022012,
+      "name": "Sumber Kemuning"
+    },
+    {
+      "code": 3511022014,
+      "name": "Sumber Anom"
+    }
+  ]
+}

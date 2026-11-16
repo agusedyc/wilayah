@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3214072001,
+      "name": "Gunungkarung"
+    },
+    {
+      "code": 3214072002,
+      "name": "Citamiang"
+    },
+    {
+      "code": 3214072003,
+      "name": "Sinargalih"
+    },
+    {
+      "code": 3214072004,
+      "name": "Tegaldatar"
+    },
+    {
+      "code": 3214072005,
+      "name": "Cijati"
+    },
+    {
+      "code": 3214072006,
+      "name": "Ciramahilir"
+    },
+    {
+      "code": 3214072007,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3214072008,
+      "name": "Pasirjambu"
+    }
+  ]
+}

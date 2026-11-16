@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5301071001,
+      "name": "Sulamu"
+    },
+    {
+      "code": 5301072002,
+      "name": "Pitai"
+    },
+    {
+      "code": 5301072003,
+      "name": "Pariti"
+    },
+    {
+      "code": 5301072004,
+      "name": "Oeteta"
+    },
+    {
+      "code": 5301072005,
+      "name": "Bipolo"
+    },
+    {
+      "code": 5301072006,
+      "name": "Pantai Beringin"
+    },
+    {
+      "code": 5301072007,
+      "name": "Pantulan"
+    }
+  ]
+}

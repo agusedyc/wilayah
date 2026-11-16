@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3322062001,
+      "name": "Gedangan"
+    },
+    {
+      "code": 3322062002,
+      "name": "Kalibeji"
+    },
+    {
+      "code": 3322062003,
+      "name": "Rowosari"
+    },
+    {
+      "code": 3322062004,
+      "name": "Sraten"
+    },
+    {
+      "code": 3322062005,
+      "name": "Jombor"
+    },
+    {
+      "code": 3322062006,
+      "name": "Candirejo"
+    },
+    {
+      "code": 3322062007,
+      "name": "Kesongo"
+    },
+    {
+      "code": 3322062008,
+      "name": "Watuagung"
+    },
+    {
+      "code": 3322062009,
+      "name": "Lopait"
+    },
+    {
+      "code": 3322062010,
+      "name": "Tuntang"
+    },
+    {
+      "code": 3322062011,
+      "name": "Delik"
+    },
+    {
+      "code": 3322062012,
+      "name": "Tlogo"
+    },
+    {
+      "code": 3322062013,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3322062014,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3322062015,
+      "name": "Tlompakan"
+    },
+    {
+      "code": 3322062016,
+      "name": "Ngajaran"
+    }
+  ]
+}

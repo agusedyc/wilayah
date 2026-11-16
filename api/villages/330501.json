@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3305012001,
+      "name": "Argopeni"
+    },
+    {
+      "code": 3305012002,
+      "name": "Karangduwur"
+    },
+    {
+      "code": 3305012003,
+      "name": "Srati"
+    },
+    {
+      "code": 3305012004,
+      "name": "Pasir"
+    },
+    {
+      "code": 3305012005,
+      "name": "Jintung"
+    },
+    {
+      "code": 3305012006,
+      "name": "Banjararjo"
+    },
+    {
+      "code": 3305012007,
+      "name": "Argosari"
+    },
+    {
+      "code": 3305012008,
+      "name": "Watukelir"
+    },
+    {
+      "code": 3305012009,
+      "name": "Kalibangkang"
+    },
+    {
+      "code": 3305012010,
+      "name": "Tlogosari"
+    },
+    {
+      "code": 3305012011,
+      "name": "Kalipoh"
+    },
+    {
+      "code": 3305012012,
+      "name": "Ayah"
+    },
+    {
+      "code": 3305012013,
+      "name": "Candirenggo"
+    },
+    {
+      "code": 3305012014,
+      "name": "Mangunweni"
+    },
+    {
+      "code": 3305012015,
+      "name": "Jatijajar"
+    },
+    {
+      "code": 3305012016,
+      "name": "Demangsari"
+    },
+    {
+      "code": 3305012017,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3305012018,
+      "name": "Kedungweru"
+    }
+  ]
+}

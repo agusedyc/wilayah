@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7604051001,
+      "name": "Taramanu"
+    },
+    {
+      "code": 7604052002,
+      "name": "Ambopadang"
+    },
+    {
+      "code": 7604052003,
+      "name": "Tubbi"
+    },
+    {
+      "code": 7604052004,
+      "name": "Ratte"
+    },
+    {
+      "code": 7604052005,
+      "name": "Besoangin"
+    },
+    {
+      "code": 7604052006,
+      "name": "Piriang Tapiko"
+    },
+    {
+      "code": 7604052007,
+      "name": "Peburru"
+    },
+    {
+      "code": 7604052008,
+      "name": "Taloba"
+    },
+    {
+      "code": 7604052009,
+      "name": "Pollewani"
+    },
+    {
+      "code": 7604052010,
+      "name": "Arabua"
+    },
+    {
+      "code": 7604052011,
+      "name": "Besoangin Utara"
+    },
+    {
+      "code": 7604052012,
+      "name": "Poda-Poda"
+    },
+    {
+      "code": 7604052013,
+      "name": "Taramanu Tua"
+    }
+  ]
+}

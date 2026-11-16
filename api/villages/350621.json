@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3506212001,
+      "name": "Kuwik"
+    },
+    {
+      "code": 3506212002,
+      "name": "Balongjeruk"
+    },
+    {
+      "code": 3506212003,
+      "name": "Kapas"
+    },
+    {
+      "code": 3506212004,
+      "name": "Klepek"
+    },
+    {
+      "code": 3506212005,
+      "name": "Kunjang"
+    },
+    {
+      "code": 3506212006,
+      "name": "Kapi"
+    },
+    {
+      "code": 3506212007,
+      "name": "Tengger Lor"
+    },
+    {
+      "code": 3506212008,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3506212009,
+      "name": "Dungus"
+    },
+    {
+      "code": 3506212010,
+      "name": "Juwet"
+    },
+    {
+      "code": 3506212011,
+      "name": "Pakis"
+    },
+    {
+      "code": 3506212012,
+      "name": "Parelor"
+    }
+  ]
+}

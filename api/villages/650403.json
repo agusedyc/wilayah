@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6504032001,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 6504032002,
+      "name": "Tengku Dacing"
+    },
+    {
+      "code": 6504032003,
+      "name": "Sambungan"
+    },
+    {
+      "code": 6504032004,
+      "name": "Tanah Merah Barat"
+    },
+    {
+      "code": 6504032005,
+      "name": "Sambungan Selatan"
+    }
+  ]
+}

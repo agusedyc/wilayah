@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1207012001,
+      "name": "Kuta Bayu"
+    },
+    {
+      "code": 1207012002,
+      "name": "Gunung Paribuan"
+    },
+    {
+      "code": 1207012003,
+      "name": "Simempar"
+    },
+    {
+      "code": 1207012004,
+      "name": "Gunung Seribu"
+    },
+    {
+      "code": 1207012005,
+      "name": "Gunung Sinembah"
+    },
+    {
+      "code": 1207012006,
+      "name": "Bintang Meriah"
+    },
+    {
+      "code": 1207012007,
+      "name": "Kuta Tengah"
+    },
+    {
+      "code": 1207012008,
+      "name": "Pekan Gunung Mariah"
+    },
+    {
+      "code": 1207012009,
+      "name": "Gunung Meriah"
+    },
+    {
+      "code": 1207012010,
+      "name": "Ujung Meriah"
+    },
+    {
+      "code": 1207012011,
+      "name": "Marjandi Pematang"
+    },
+    {
+      "code": 1207012012,
+      "name": "Marjandi Tongah"
+    }
+  ]
+}

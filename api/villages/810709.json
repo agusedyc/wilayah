@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8107092001,
+      "name": "Meror"
+    },
+    {
+      "code": 8107092002,
+      "name": "Dosimar"
+    },
+    {
+      "code": 8107092003,
+      "name": "Batugoyang"
+    },
+    {
+      "code": 8107092004,
+      "name": "Salarem"
+    },
+    {
+      "code": 8107092005,
+      "name": "Siya"
+    },
+    {
+      "code": 8107092006,
+      "name": "Beltubur"
+    },
+    {
+      "code": 8107092007,
+      "name": "Karey"
+    },
+    {
+      "code": 8107092008,
+      "name": "Jorang"
+    },
+    {
+      "code": 8107092009,
+      "name": "Gomar Sungai"
+    },
+    {
+      "code": 8107092010,
+      "name": "Gomar Meti"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9207062001,
+      "name": "Yombekiri I"
+    },
+    {
+      "code": 9207062002,
+      "name": "Isenebuay"
+    },
+    {
+      "code": 9207062003,
+      "name": "Yomakan"
+    },
+    {
+      "code": 9207062005,
+      "name": "Iseren"
+    },
+    {
+      "code": 9207062008,
+      "name": "Yembekiri II"
+    },
+    {
+      "code": 9207062009,
+      "name": "Yariari"
+    },
+    {
+      "code": 9207062011,
+      "name": "Wetitindau"
+    }
+  ]
+}

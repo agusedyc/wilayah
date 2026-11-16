@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1703071026,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1703071027,
+      "name": "Gunung Alam"
+    },
+    {
+      "code": 1703072001,
+      "name": "Tanjung Raman"
+    },
+    {
+      "code": 1703072002,
+      "name": "Lubuk Saung"
+    },
+    {
+      "code": 1703072003,
+      "name": "Kuro Tidur"
+    },
+    {
+      "code": 1703072004,
+      "name": "Karang Suci"
+    },
+    {
+      "code": 1703072005,
+      "name": "Rama Agung"
+    },
+    {
+      "code": 1703072008,
+      "name": "Talang Denau"
+    },
+    {
+      "code": 1703072009,
+      "name": "Gunung Selan"
+    },
+    {
+      "code": 1703072010,
+      "name": "Datar Ruyung"
+    },
+    {
+      "code": 1703072011,
+      "name": "Senali"
+    },
+    {
+      "code": 1703072012,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1703072014,
+      "name": "Sidourip"
+    },
+    {
+      "code": 1703072015,
+      "name": "Karang Anyar I"
+    },
+    {
+      "code": 1703072016,
+      "name": "Taba Tembilang"
+    },
+    {
+      "code": 1703072022,
+      "name": "Karang Anyar II"
+    }
+  ]
+}

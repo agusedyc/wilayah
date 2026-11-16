@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7405031002,
+      "name": "Alangga"
+    },
+    {
+      "code": 7405031018,
+      "name": "Potoro"
+    },
+    {
+      "code": 7405032001,
+      "name": "Andoolo"
+    },
+    {
+      "code": 7405032004,
+      "name": "Alengge Agung"
+    },
+    {
+      "code": 7405032010,
+      "name": "Bumi Raya"
+    },
+    {
+      "code": 7405032014,
+      "name": "Lalobao"
+    },
+    {
+      "code": 7405032015,
+      "name": "Lalonggombu"
+    },
+    {
+      "code": 7405032026,
+      "name": "Wunduwatu"
+    },
+    {
+      "code": 7405032031,
+      "name": "Punggapu"
+    },
+    {
+      "code": 7405032033,
+      "name": "Ataku"
+    }
+  ]
+}

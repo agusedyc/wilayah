@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9501342001,
+      "name": "Iriliga"
+    },
+    {
+      "code": 9501342002,
+      "name": "Onggobaga"
+    },
+    {
+      "code": 9501342003,
+      "name": "Walakma"
+    },
+    {
+      "code": 9501342004,
+      "name": "Ayoma"
+    },
+    {
+      "code": 9501342005,
+      "name": "Dlonggoki"
+    },
+    {
+      "code": 9501342006,
+      "name": "Tirunggu"
+    },
+    {
+      "code": 9501342007,
+      "name": "Dlinggama"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3673061001,
+      "name": "Taktakan"
+    },
+    {
+      "code": 3673061002,
+      "name": "Sayar"
+    },
+    {
+      "code": 3673061003,
+      "name": "Pancur"
+    },
+    {
+      "code": 3673061004,
+      "name": "Kuranji"
+    },
+    {
+      "code": 3673061005,
+      "name": "Kalanganyar"
+    },
+    {
+      "code": 3673061006,
+      "name": "Cilowong"
+    },
+    {
+      "code": 3673061007,
+      "name": "Panggungjati"
+    },
+    {
+      "code": 3673061008,
+      "name": "Drangong"
+    },
+    {
+      "code": 3673061009,
+      "name": "Umbul Tengah"
+    },
+    {
+      "code": 3673061010,
+      "name": "Sepang"
+    },
+    {
+      "code": 3673061011,
+      "name": "Lialang"
+    },
+    {
+      "code": 3673061012,
+      "name": "Taman Baru"
+    },
+    {
+      "code": 3673061013,
+      "name": "Cibendung"
+    }
+  ]
+}

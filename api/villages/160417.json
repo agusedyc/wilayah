@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Showing 32 villages",
+  "data": [
+    {
+      "code": 1604172001,
+      "name": "Bunga Mas"
+    },
+    {
+      "code": 1604172002,
+      "name": "Gunung Kembang"
+    },
+    {
+      "code": 1604172003,
+      "name": "Tanjung Bindu"
+    },
+    {
+      "code": 1604172004,
+      "name": "Lubuk Tapang"
+    },
+    {
+      "code": 1604172005,
+      "name": "Lubuk Nambulan"
+    },
+    {
+      "code": 1604172006,
+      "name": "Gelumbang"
+    },
+    {
+      "code": 1604172007,
+      "name": "Gunung Aji"
+    },
+    {
+      "code": 1604172008,
+      "name": "Gunung Karto"
+    },
+    {
+      "code": 1604172009,
+      "name": "Karang Endah"
+    },
+    {
+      "code": 1604172010,
+      "name": "Padu Raksa"
+    },
+    {
+      "code": 1604172011,
+      "name": "Seronggo"
+    },
+    {
+      "code": 1604172012,
+      "name": "Datar Serdang"
+    },
+    {
+      "code": 1604172013,
+      "name": "Batu Urip"
+    },
+    {
+      "code": 1604172014,
+      "name": "Cecar"
+    },
+    {
+      "code": 1604172015,
+      "name": "Patikal Lama"
+    },
+    {
+      "code": 1604172016,
+      "name": "Muara Empayang"
+    },
+    {
+      "code": 1604172017,
+      "name": "Lubuk Kute"
+    },
+    {
+      "code": 1604172018,
+      "name": "Patikal Baru"
+    },
+    {
+      "code": 1604172019,
+      "name": "Gedung Agung"
+    },
+    {
+      "code": 1604172020,
+      "name": "Babat Lama"
+    },
+    {
+      "code": 1604172021,
+      "name": "Tanda Raja"
+    },
+    {
+      "code": 1604172022,
+      "name": "Muara Danau"
+    },
+    {
+      "code": 1604172023,
+      "name": "Sendawar"
+    },
+    {
+      "code": 1604172024,
+      "name": "Lubuk Layang Ilir"
+    },
+    {
+      "code": 1604172025,
+      "name": "Binjai"
+    },
+    {
+      "code": 1604172026,
+      "name": "Lubuk Layang Ulu"
+    },
+    {
+      "code": 1604172027,
+      "name": "Cempaka Sakti"
+    },
+    {
+      "code": 1604172028,
+      "name": "Suka Harjo"
+    },
+    {
+      "code": 1604172029,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1604172030,
+      "name": "Kencana Sari"
+    },
+    {
+      "code": 1604172031,
+      "name": "Linggar Jaya"
+    },
+    {
+      "code": 1604172032,
+      "name": "Purwaraja"
+    }
+  ]
+}

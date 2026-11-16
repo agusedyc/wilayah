@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7317111001,
+      "name": "Padang Subur"
+    },
+    {
+      "code": 7317111004,
+      "name": "Padang Sappa"
+    },
+    {
+      "code": 7317112005,
+      "name": "Tirowali"
+    },
+    {
+      "code": 7317112006,
+      "name": "Mario"
+    },
+    {
+      "code": 7317112007,
+      "name": "Muladimeng"
+    },
+    {
+      "code": 7317112013,
+      "name": "Buntu Kamiri"
+    },
+    {
+      "code": 7317112014,
+      "name": "Tumale"
+    },
+    {
+      "code": 7317112016,
+      "name": "Buntu Nanna"
+    },
+    {
+      "code": 7317112017,
+      "name": "Tampa"
+    },
+    {
+      "code": 7317112019,
+      "name": "Parekaju"
+    }
+  ]
+}

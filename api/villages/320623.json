@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3206232001,
+      "name": "Cinunjang"
+    },
+    {
+      "code": 3206232002,
+      "name": "Gunungtanjung"
+    },
+    {
+      "code": 3206232003,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3206232004,
+      "name": "Jatijaya"
+    },
+    {
+      "code": 3206232005,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3206232006,
+      "name": "Giriwangi"
+    },
+    {
+      "code": 3206232007,
+      "name": "Malatisuka"
+    }
+  ]
+}

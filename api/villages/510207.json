@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5102072001,
+      "name": "Kukuh"
+    },
+    {
+      "code": 5102072002,
+      "name": "Beringkit Belayu"
+    },
+    {
+      "code": 5102072003,
+      "name": "Peken Belayu"
+    },
+    {
+      "code": 5102072004,
+      "name": "Batannyuh"
+    },
+    {
+      "code": 5102072005,
+      "name": "Tegaljadi"
+    },
+    {
+      "code": 5102072006,
+      "name": "Kuwum"
+    },
+    {
+      "code": 5102072007,
+      "name": "Selanbawak"
+    },
+    {
+      "code": 5102072008,
+      "name": "Marga"
+    },
+    {
+      "code": 5102072009,
+      "name": "Petiga"
+    },
+    {
+      "code": 5102072010,
+      "name": "Cau Belayu"
+    },
+    {
+      "code": 5102072011,
+      "name": "Tua"
+    },
+    {
+      "code": 5102072012,
+      "name": "Payangan"
+    },
+    {
+      "code": 5102072013,
+      "name": "Marga Dajan Puri"
+    },
+    {
+      "code": 5102072014,
+      "name": "Marga Dauh Puri"
+    },
+    {
+      "code": 5102072015,
+      "name": "Geluntung"
+    },
+    {
+      "code": 5102072016,
+      "name": "Baru"
+    }
+  ]
+}

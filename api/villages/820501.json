@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8205012001,
+      "name": "Waitina"
+    },
+    {
+      "code": 8205012006,
+      "name": "Kau"
+    },
+    {
+      "code": 8205012007,
+      "name": "Waitamela"
+    },
+    {
+      "code": 8205012013,
+      "name": "Karamat Titdoy"
+    },
+    {
+      "code": 8205012016,
+      "name": "Naflo"
+    }
+  ]
+}

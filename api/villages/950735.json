@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507352001,
+      "name": "Kelulome"
+    },
+    {
+      "code": 9507352002,
+      "name": "Wiyagi"
+    },
+    {
+      "code": 9507352003,
+      "name": "Talogi"
+    },
+    {
+      "code": 9507352004,
+      "name": "Wiringgame"
+    },
+    {
+      "code": 9507352005,
+      "name": "Wegenpura"
+    },
+    {
+      "code": 9507352006,
+      "name": "Ilunggijime"
+    },
+    {
+      "code": 9507352007,
+      "name": "Juyiga"
+    },
+    {
+      "code": 9507352008,
+      "name": "Peragime"
+    },
+    {
+      "code": 9507352009,
+      "name": "Muluneri"
+    },
+    {
+      "code": 9507352010,
+      "name": "Lewinagi"
+    }
+  ]
+}

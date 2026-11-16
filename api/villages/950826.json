@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9508262001,
+      "name": "Wusi"
+    },
+    {
+      "code": 9508262002,
+      "name": "Ginigit"
+    },
+    {
+      "code": 9508262003,
+      "name": "Pijemae"
+    },
+    {
+      "code": 9508262004,
+      "name": "Gimigip"
+    }
+  ]
+}

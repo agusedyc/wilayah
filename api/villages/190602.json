@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1906022001,
+      "name": "Gantung"
+    },
+    {
+      "code": 1906022002,
+      "name": "Selingsing"
+    },
+    {
+      "code": 1906022003,
+      "name": "Jangkar Asam"
+    },
+    {
+      "code": 1906022004,
+      "name": "Lilangan"
+    },
+    {
+      "code": 1906022009,
+      "name": "Lenggang"
+    },
+    {
+      "code": 1906022010,
+      "name": "Batu Penyu"
+    },
+    {
+      "code": 1906022011,
+      "name": "Limbongan"
+    }
+  ]
+}

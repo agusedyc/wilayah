@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3204442001,
+      "name": "Cangkuang"
+    },
+    {
+      "code": 3204442002,
+      "name": "Ciluncat"
+    },
+    {
+      "code": 3204442003,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3204442004,
+      "name": "Bandasari"
+    },
+    {
+      "code": 3204442005,
+      "name": "Pananjung"
+    },
+    {
+      "code": 3204442006,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3204442007,
+      "name": "Tanjungsari"
+    }
+  ]
+}

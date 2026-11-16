@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3327142001,
+      "name": "Pakembaran"
+    },
+    {
+      "code": 3327142002,
+      "name": "Warungpring"
+    },
+    {
+      "code": 3327142003,
+      "name": "Karangdawa"
+    },
+    {
+      "code": 3327142004,
+      "name": "Datar"
+    },
+    {
+      "code": 3327142005,
+      "name": "Cibuyur"
+    },
+    {
+      "code": 3327142006,
+      "name": "Mereng"
+    }
+  ]
+}

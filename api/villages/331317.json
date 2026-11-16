@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3313172001,
+      "name": "Gumeng"
+    },
+    {
+      "code": 3313172002,
+      "name": "Anggrasmanis"
+    },
+    {
+      "code": 3313172003,
+      "name": "Jenawi"
+    },
+    {
+      "code": 3313172004,
+      "name": "Trengguli"
+    },
+    {
+      "code": 3313172005,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3313172006,
+      "name": "Balong"
+    },
+    {
+      "code": 3313172007,
+      "name": "Seloromo"
+    },
+    {
+      "code": 3313172008,
+      "name": "Menjing"
+    },
+    {
+      "code": 3313172009,
+      "name": "Lempong"
+    }
+  ]
+}

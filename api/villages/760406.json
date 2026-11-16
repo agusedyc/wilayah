@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7604061005,
+      "name": "Amassangan"
+    },
+    {
+      "code": 7604062001,
+      "name": "Tonyaman"
+    },
+    {
+      "code": 7604062002,
+      "name": "Kuajang"
+    },
+    {
+      "code": 7604062003,
+      "name": "Paku"
+    },
+    {
+      "code": 7604062004,
+      "name": "Mirring"
+    },
+    {
+      "code": 7604062006,
+      "name": "Batetangnga"
+    },
+    {
+      "code": 7604062007,
+      "name": "Mammi"
+    },
+    {
+      "code": 7604062008,
+      "name": "Kaleok"
+    },
+    {
+      "code": 7604062009,
+      "name": "Amola"
+    },
+    {
+      "code": 7604062010,
+      "name": "Rea"
+    }
+  ]
+}

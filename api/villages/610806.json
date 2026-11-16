@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6108062001,
+      "name": "Darit"
+    },
+    {
+      "code": 6108062002,
+      "name": "Mamek"
+    },
+    {
+      "code": 6108062003,
+      "name": "Ansang"
+    },
+    {
+      "code": 6108062004,
+      "name": "Kayu Ara"
+    },
+    {
+      "code": 6108062005,
+      "name": "Angkaras"
+    },
+    {
+      "code": 6108062006,
+      "name": "Ladangan"
+    },
+    {
+      "code": 6108062009,
+      "name": "Songga"
+    },
+    {
+      "code": 6108062010,
+      "name": "Sidan"
+    },
+    {
+      "code": 6108062011,
+      "name": "Berinang Mayun"
+    },
+    {
+      "code": 6108062013,
+      "name": "Lintah Betung"
+    },
+    {
+      "code": 6108062014,
+      "name": "Anik Dingir"
+    },
+    {
+      "code": 6108062015,
+      "name": "Bagak"
+    },
+    {
+      "code": 6108062016,
+      "name": "Tolok"
+    },
+    {
+      "code": 6108062017,
+      "name": "Sungai Lubang"
+    },
+    {
+      "code": 6108062018,
+      "name": "Ta'as"
+    },
+    {
+      "code": 6108062019,
+      "name": "Ongkol Padang"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3310232001,
+      "name": "Jimbung"
+    },
+    {
+      "code": 3310232002,
+      "name": "Ngemplak"
+    },
+    {
+      "code": 3310232003,
+      "name": "Kalikotes"
+    },
+    {
+      "code": 3310232004,
+      "name": "Krajan"
+    },
+    {
+      "code": 3310232005,
+      "name": "Tambongwetan"
+    },
+    {
+      "code": 3310232006,
+      "name": "Jogosetran"
+    },
+    {
+      "code": 3310232007,
+      "name": "Gemblegan"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5203122001,
+      "name": "Rempung"
+    },
+    {
+      "code": 5203122002,
+      "name": "Pringgasela"
+    },
+    {
+      "code": 5203122003,
+      "name": "Jurit"
+    },
+    {
+      "code": 5203122004,
+      "name": "Pengadangan"
+    },
+    {
+      "code": 5203122005,
+      "name": "Aik Dewa"
+    },
+    {
+      "code": 5203122006,
+      "name": "Jurit Baru"
+    },
+    {
+      "code": 5203122007,
+      "name": "Pringgasela Selatan"
+    },
+    {
+      "code": 5203122008,
+      "name": "Pengadangan Barat"
+    },
+    {
+      "code": 5203122009,
+      "name": "Timbanuh"
+    },
+    {
+      "code": 5203122010,
+      "name": "Pringgasela Timur"
+    }
+  ]
+}

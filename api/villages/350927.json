@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3509272001,
+      "name": "Gumuksari"
+    },
+    {
+      "code": 3509272002,
+      "name": "Sukoreno"
+    },
+    {
+      "code": 3509272003,
+      "name": "Patempuran"
+    },
+    {
+      "code": 3509272004,
+      "name": "Sumberkalong"
+    },
+    {
+      "code": 3509272005,
+      "name": "Sumberjeruk"
+    },
+    {
+      "code": 3509272006,
+      "name": "Glagahwero"
+    },
+    {
+      "code": 3509272007,
+      "name": "Kalisat"
+    },
+    {
+      "code": 3509272008,
+      "name": "Ajung"
+    },
+    {
+      "code": 3509272009,
+      "name": "Plalangan"
+    },
+    {
+      "code": 3509272010,
+      "name": "Gambiran"
+    },
+    {
+      "code": 3509272011,
+      "name": "Sumberketempa"
+    },
+    {
+      "code": 3509272012,
+      "name": "Sebanen"
+    }
+  ]
+}

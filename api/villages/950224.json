@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9502242001,
+      "name": "Kubiphkop"
+    },
+    {
+      "code": 9502242002,
+      "name": "Okano"
+    },
+    {
+      "code": 9502242003,
+      "name": "Sebul"
+    },
+    {
+      "code": 9502242004,
+      "name": "Mangabip"
+    }
+  ]
+}

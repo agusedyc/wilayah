@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9404161002,
+      "name": "Kamoro Jaya"
+    },
+    {
+      "code": 9404161003,
+      "name": "Wonosari Jaya"
+    },
+    {
+      "code": 9404161005,
+      "name": "Inauga"
+    },
+    {
+      "code": 9404162001,
+      "name": "Kadun Jaya"
+    },
+    {
+      "code": 9404162004,
+      "name": "Nawaripi"
+    },
+    {
+      "code": 9404162006,
+      "name": "Mawokau Jaya"
+    },
+    {
+      "code": 9404162007,
+      "name": "Mandiri Jaya"
+    }
+  ]
+}

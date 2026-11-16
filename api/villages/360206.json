@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3602062001,
+      "name": "Kanekes"
+    },
+    {
+      "code": 3602062002,
+      "name": "Cisimeut"
+    },
+    {
+      "code": 3602062003,
+      "name": "Cibungur"
+    },
+    {
+      "code": 3602062004,
+      "name": "Leuwidamar"
+    },
+    {
+      "code": 3602062005,
+      "name": "Lebakparahiang"
+    },
+    {
+      "code": 3602062006,
+      "name": "Sangkanwangi"
+    },
+    {
+      "code": 3602062007,
+      "name": "Nayagati"
+    },
+    {
+      "code": 3602062008,
+      "name": "Bojongmenteng"
+    },
+    {
+      "code": 3602062009,
+      "name": "Margawangi"
+    },
+    {
+      "code": 3602062010,
+      "name": "Wantisari"
+    },
+    {
+      "code": 3602062011,
+      "name": "Jalupangmulya"
+    },
+    {
+      "code": 3602062012,
+      "name": "Cisimeut Raya"
+    }
+  ]
+}

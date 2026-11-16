@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1203222003,
+      "name": "Sigolang"
+    },
+    {
+      "code": 1203222005,
+      "name": "Biru"
+    },
+    {
+      "code": 1203222008,
+      "name": "Tapus Godang"
+    },
+    {
+      "code": 1203222017,
+      "name": "Lobu Tayas"
+    },
+    {
+      "code": 1203222020,
+      "name": "Silangkitang"
+    },
+    {
+      "code": 1203222033,
+      "name": "Sihulambu"
+    },
+    {
+      "code": 1203222043,
+      "name": "Tolang"
+    },
+    {
+      "code": 1203222044,
+      "name": "Tapus Sipagabu"
+    },
+    {
+      "code": 1203222045,
+      "name": "Huta baru"
+    },
+    {
+      "code": 1203222046,
+      "name": "Aek Latong"
+    },
+    {
+      "code": 1203222047,
+      "name": "Aek Urat"
+    },
+    {
+      "code": 1203222048,
+      "name": "Gorahut"
+    }
+  ]
+}

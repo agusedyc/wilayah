@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "message": "Showing 39 villages",
+  "data": [
+    {
+      "code": 1106052001,
+      "name": "Mata Ie"
+    },
+    {
+      "code": 1106052002,
+      "name": "Gampong Baroh"
+    },
+    {
+      "code": 1106052003,
+      "name": "Lampaseh Lhok"
+    },
+    {
+      "code": 1106052004,
+      "name": "Lampaseh Krueng"
+    },
+    {
+      "code": 1106052005,
+      "name": "Lamnga"
+    },
+    {
+      "code": 1106052006,
+      "name": "Dayah Daboh"
+    },
+    {
+      "code": 1106052007,
+      "name": "Weu Lhok"
+    },
+    {
+      "code": 1106052008,
+      "name": "Alue"
+    },
+    {
+      "code": 1106052009,
+      "name": "Weu Krueng"
+    },
+    {
+      "code": 1106052010,
+      "name": "Seubam Cot"
+    },
+    {
+      "code": 1106052011,
+      "name": "Bak Dilip"
+    },
+    {
+      "code": 1106052012,
+      "name": "Ulee Lhat"
+    },
+    {
+      "code": 1106052015,
+      "name": "Lamraya"
+    },
+    {
+      "code": 1106052016,
+      "name": "Lamme Garot"
+    },
+    {
+      "code": 1106052017,
+      "name": "Weu Bada"
+    },
+    {
+      "code": 1106052018,
+      "name": "Meunasah Tutong"
+    },
+    {
+      "code": 1106052019,
+      "name": "Empee Tanong"
+    },
+    {
+      "code": 1106052020,
+      "name": "Bak Cirih"
+    },
+    {
+      "code": 1106052021,
+      "name": "Warabo"
+    },
+    {
+      "code": 1106052022,
+      "name": "Teubang Phui Mesjid"
+    },
+    {
+      "code": 1106052023,
+      "name": "Teubang Phui Baro"
+    },
+    {
+      "code": 1106052024,
+      "name": "Bira Cot"
+    },
+    {
+      "code": 1106052025,
+      "name": "Bira Lhok"
+    },
+    {
+      "code": 1106052026,
+      "name": "Bung Tujoh"
+    },
+    {
+      "code": 1106052027,
+      "name": "Peurumping"
+    },
+    {
+      "code": 1106052028,
+      "name": "Atong"
+    },
+    {
+      "code": 1106052029,
+      "name": "Reudeup"
+    },
+    {
+      "code": 1106052042,
+      "name": "Seubam Lhok"
+    },
+    {
+      "code": 1106052043,
+      "name": "Seumet"
+    },
+    {
+      "code": 1106052044,
+      "name": "Cot Seunong"
+    },
+    {
+      "code": 1106052045,
+      "name": "Mon Ara"
+    },
+    {
+      "code": 1106052046,
+      "name": "Cot Lhok"
+    },
+    {
+      "code": 1106052047,
+      "name": "Cot Lampoh Soh"
+    },
+    {
+      "code": 1106052048,
+      "name": "Bueng Raya"
+    },
+    {
+      "code": 1106052049,
+      "name": "Piyeung Lhang"
+    },
+    {
+      "code": 1106052050,
+      "name": "Piyeung Manee"
+    },
+    {
+      "code": 1106052051,
+      "name": "Bueng Daroh"
+    },
+    {
+      "code": 1106052052,
+      "name": "Kuweu"
+    },
+    {
+      "code": 1106052053,
+      "name": "Piyeung Datu"
+    }
+  ]
+}

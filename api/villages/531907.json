@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5319072001,
+      "name": "Bea Ngencung"
+    },
+    {
+      "code": 5319072002,
+      "name": "Satar Lahing"
+    },
+    {
+      "code": 5319072003,
+      "name": "Torok Golo"
+    },
+    {
+      "code": 5319072004,
+      "name": "Golo Ros"
+    },
+    {
+      "code": 5319072005,
+      "name": "Rondo Woing"
+    },
+    {
+      "code": 5319072006,
+      "name": "Sano Lokom"
+    },
+    {
+      "code": 5319072007,
+      "name": "Golo Loni"
+    },
+    {
+      "code": 5319072008,
+      "name": "Sita"
+    },
+    {
+      "code": 5319072009,
+      "name": "Golo Rutuk"
+    },
+    {
+      "code": 5319072010,
+      "name": "Golo Meleng"
+    },
+    {
+      "code": 5319072011,
+      "name": "Wae Nggori"
+    },
+    {
+      "code": 5319072012,
+      "name": "Compang Kantar"
+    },
+    {
+      "code": 5319072013,
+      "name": "Watu Mori"
+    },
+    {
+      "code": 5319072014,
+      "name": "Bangka Kempo"
+    },
+    {
+      "code": 5319072015,
+      "name": "Compang Teber"
+    },
+    {
+      "code": 5319072016,
+      "name": "Satar Lenda"
+    },
+    {
+      "code": 5319072017,
+      "name": "Lidi"
+    },
+    {
+      "code": 5319072018,
+      "name": "Bangka Masa"
+    },
+    {
+      "code": 5319072019,
+      "name": "Lalang"
+    },
+    {
+      "code": 5319072020,
+      "name": "Compang Loni"
+    },
+    {
+      "code": 5319072021,
+      "name": "Compang Kempo"
+    }
+  ]
+}

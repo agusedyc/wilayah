@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3603062001,
+      "name": "Pasir Ampo"
+    },
+    {
+      "code": 3603062003,
+      "name": "Rancailat"
+    },
+    {
+      "code": 3603062007,
+      "name": "Kemuning"
+    },
+    {
+      "code": 3603062009,
+      "name": "Renged"
+    },
+    {
+      "code": 3603062011,
+      "name": "Talok"
+    },
+    {
+      "code": 3603062013,
+      "name": "Koper"
+    },
+    {
+      "code": 3603062014,
+      "name": "Jengkol"
+    },
+    {
+      "code": 3603062015,
+      "name": "Patrasana"
+    },
+    {
+      "code": 3603062018,
+      "name": "Kresek"
+    }
+  ]
+}

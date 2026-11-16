@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1503091001,
+      "name": "Sungai Benteng"
+    },
+    {
+      "code": 1503092002,
+      "name": "Bukit Tigo"
+    },
+    {
+      "code": 1503092003,
+      "name": "Sungai Gedang"
+    },
+    {
+      "code": 1503092004,
+      "name": "Payo Lebar"
+    },
+    {
+      "code": 1503092005,
+      "name": "Bukit Murau"
+    },
+    {
+      "code": 1503092006,
+      "name": "Perdamaian"
+    },
+    {
+      "code": 1503092007,
+      "name": "Pasar Singkut"
+    },
+    {
+      "code": 1503092008,
+      "name": "Siliwangi"
+    },
+    {
+      "code": 1503092009,
+      "name": "Simpang Nibung"
+    },
+    {
+      "code": 1503092010,
+      "name": "Bukit Talang Mas"
+    },
+    {
+      "code": 1503092011,
+      "name": "Bukit Bumi Raya"
+    },
+    {
+      "code": 1503092012,
+      "name": "Argo Sari"
+    },
+    {
+      "code": 1503092013,
+      "name": "Sendang Sari"
+    }
+  ]
+}

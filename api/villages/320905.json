@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3209052001,
+      "name": "Cangkuang"
+    },
+    {
+      "code": 3209052002,
+      "name": "Serang Wetan"
+    },
+    {
+      "code": 3209052003,
+      "name": "Serang Kulon"
+    },
+    {
+      "code": 3209052004,
+      "name": "Gembongan Mekar"
+    },
+    {
+      "code": 3209052005,
+      "name": "Gembongan"
+    },
+    {
+      "code": 3209052006,
+      "name": "Babakan Gebang"
+    },
+    {
+      "code": 3209052007,
+      "name": "Babakan"
+    },
+    {
+      "code": 3209052008,
+      "name": "Bojonggebang"
+    },
+    {
+      "code": 3209052009,
+      "name": "Sumber Kidul"
+    },
+    {
+      "code": 3209052010,
+      "name": "Sumber Lor"
+    },
+    {
+      "code": 3209052011,
+      "name": "Kudumulya"
+    },
+    {
+      "code": 3209052012,
+      "name": "Kudukeras"
+    },
+    {
+      "code": 3209052013,
+      "name": "Pakusamben"
+    },
+    {
+      "code": 3209052014,
+      "name": "Karangwangun"
+    }
+  ]
+}

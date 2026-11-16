@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3203142001,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3203142002,
+      "name": "Sukajembar"
+    },
+    {
+      "code": 3203142003,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 3203142004,
+      "name": "Ciguha"
+    },
+    {
+      "code": 3203142005,
+      "name": "Sukamekar"
+    },
+    {
+      "code": 3203142006,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3203142007,
+      "name": "Sukalaksana"
+    },
+    {
+      "code": 3203142008,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3203142009,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3203142010,
+      "name": "Jayagiri"
+    }
+  ]
+}

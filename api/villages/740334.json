@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7403342001,
+      "name": "Bone Bone"
+    },
+    {
+      "code": 7403342002,
+      "name": "Lanobake"
+    },
+    {
+      "code": 7403342003,
+      "name": "Moolo"
+    },
+    {
+      "code": 7403342004,
+      "name": "Baluara"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3204112001,
+      "name": "Sangkanhurip"
+    },
+    {
+      "code": 3204112002,
+      "name": "Katapang"
+    },
+    {
+      "code": 3204112004,
+      "name": "Gandasari"
+    },
+    {
+      "code": 3204112006,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 3204112007,
+      "name": "Cilampeni"
+    },
+    {
+      "code": 3204112008,
+      "name": "Pangauban"
+    },
+    {
+      "code": 3204112009,
+      "name": "Banyusari"
+    }
+  ]
+}

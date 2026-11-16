@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9301102001,
+      "name": "Bupul"
+    },
+    {
+      "code": 9301102002,
+      "name": "Tanas"
+    },
+    {
+      "code": 9301102003,
+      "name": "Kweel"
+    },
+    {
+      "code": 9301102004,
+      "name": "Sipias"
+    },
+    {
+      "code": 9301102005,
+      "name": "Metaat Makmur"
+    },
+    {
+      "code": 9301102006,
+      "name": "Enggal Jaya"
+    },
+    {
+      "code": 9301102007,
+      "name": "Gerisar"
+    },
+    {
+      "code": 9301102008,
+      "name": "Bupul Indah"
+    },
+    {
+      "code": 9301102009,
+      "name": "Tof-Tof"
+    },
+    {
+      "code": 9301102010,
+      "name": "Bunggay"
+    },
+    {
+      "code": 9301102011,
+      "name": "Bouwer"
+    },
+    {
+      "code": 9301102012,
+      "name": "Bumun"
+    }
+  ]
+}

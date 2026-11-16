@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9502282001,
+      "name": "Bias"
+    },
+    {
+      "code": 9502282002,
+      "name": "Bumi"
+    },
+    {
+      "code": 9502282003,
+      "name": "Tero"
+    },
+    {
+      "code": 9502282004,
+      "name": "Delemo"
+    }
+  ]
+}

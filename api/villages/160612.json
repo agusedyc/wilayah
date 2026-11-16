@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1606122001,
+      "name": "Peninggalan"
+    },
+    {
+      "code": 1606122002,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1606122003,
+      "name": "Berlian Jaya"
+    },
+    {
+      "code": 1606122004,
+      "name": "Simpang Tungkal"
+    },
+    {
+      "code": 1606122005,
+      "name": "Pangkalan Tungkal"
+    },
+    {
+      "code": 1606122006,
+      "name": "Sumber Harum"
+    },
+    {
+      "code": 1606122007,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 1606122008,
+      "name": "Sinar Harapan"
+    },
+    {
+      "code": 1606122009,
+      "name": "Banjar Jaya"
+    },
+    {
+      "code": 1606122010,
+      "name": "Beji Mulyo"
+    },
+    {
+      "code": 1606122011,
+      "name": "Bero Jaya Timur"
+    },
+    {
+      "code": 1606122012,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 1606122013,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1606122014,
+      "name": "Sri Mulyo"
+    },
+    {
+      "code": 1606122015,
+      "name": "Sido Mulyo"
+    },
+    {
+      "code": 1606122016,
+      "name": "Sinar Tungkal"
+    }
+  ]
+}

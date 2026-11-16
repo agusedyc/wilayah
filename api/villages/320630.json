@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206302001,
+      "name": "Sariwangi"
+    },
+    {
+      "code": 3206302002,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3206302003,
+      "name": "Jayaratu"
+    },
+    {
+      "code": 3206302004,
+      "name": "Linggasirna"
+    },
+    {
+      "code": 3206302005,
+      "name": "Sirnasari"
+    },
+    {
+      "code": 3206302006,
+      "name": "Sukamulih"
+    },
+    {
+      "code": 3206302007,
+      "name": "Selawangi"
+    },
+    {
+      "code": 3206302008,
+      "name": "Jayaputra"
+    }
+  ]
+}

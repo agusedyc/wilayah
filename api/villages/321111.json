@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3211112001,
+      "name": "Gudang"
+    },
+    {
+      "code": 3211112002,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3211112003,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3211112004,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3211112005,
+      "name": "Kutamandiri"
+    },
+    {
+      "code": 3211112006,
+      "name": "Margajaya"
+    },
+    {
+      "code": 3211112007,
+      "name": "Raharja"
+    },
+    {
+      "code": 3211112008,
+      "name": "Cijambu"
+    },
+    {
+      "code": 3211112009,
+      "name": "Pasigaran"
+    },
+    {
+      "code": 3211112010,
+      "name": "Gunungmanik"
+    },
+    {
+      "code": 3211112011,
+      "name": "Kadakajaya"
+    },
+    {
+      "code": 3211112012,
+      "name": "Cinanjung"
+    }
+  ]
+}

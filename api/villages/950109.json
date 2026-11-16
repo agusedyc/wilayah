@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9501092001,
+      "name": "Sinata"
+    },
+    {
+      "code": 9501092002,
+      "name": "Asolokobal"
+    },
+    {
+      "code": 9501092003,
+      "name": "Hesatom"
+    },
+    {
+      "code": 9501092004,
+      "name": "Asotapo"
+    },
+    {
+      "code": 9501092005,
+      "name": "Wiaima"
+    },
+    {
+      "code": 9501092006,
+      "name": "Ninabua"
+    },
+    {
+      "code": 9501092007,
+      "name": "Helaluwa"
+    },
+    {
+      "code": 9501092008,
+      "name": "Mulinekama"
+    },
+    {
+      "code": 9501092009,
+      "name": "Yapema"
+    }
+  ]
+}

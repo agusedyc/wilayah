@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "message": "Showing 33 villages",
+  "data": [
+    {
+      "code": 1108092001,
+      "name": "Tanjong Pineung"
+    },
+    {
+      "code": 1108092002,
+      "name": "Meurubo Puntong"
+    },
+    {
+      "code": 1108092003,
+      "name": "Mane Kawan"
+    },
+    {
+      "code": 1108092004,
+      "name": "Alue Barueh"
+    },
+    {
+      "code": 1108092005,
+      "name": "Keude Simpang Jalan"
+    },
+    {
+      "code": 1108092006,
+      "name": "Blang Pha"
+    },
+    {
+      "code": 1108092007,
+      "name": "Alue Kiran"
+    },
+    {
+      "code": 1108092008,
+      "name": "Blang Tue"
+    },
+    {
+      "code": 1108092009,
+      "name": "Cot Kafiraton"
+    },
+    {
+      "code": 1108092010,
+      "name": "Tanjong Dama"
+    },
+    {
+      "code": 1108092011,
+      "name": "Paya Dua Uram"
+    },
+    {
+      "code": 1108092012,
+      "name": "Paya Dua Ujong"
+    },
+    {
+      "code": 1108092013,
+      "name": "Alue Capli"
+    },
+    {
+      "code": 1108092014,
+      "name": "Simpang Peut"
+    },
+    {
+      "code": 1108092015,
+      "name": "Meunasah Sagoe"
+    },
+    {
+      "code": 1108092016,
+      "name": "Matang Puntong"
+    },
+    {
+      "code": 1108092017,
+      "name": "Matang Panyang"
+    },
+    {
+      "code": 1108092018,
+      "name": "Cot Patisah"
+    },
+    {
+      "code": 1108092019,
+      "name": "Cot Trueng"
+    },
+    {
+      "code": 1108092020,
+      "name": "Darul Aman"
+    },
+    {
+      "code": 1108092021,
+      "name": "Matang Jeulikat"
+    },
+    {
+      "code": 1108092022,
+      "name": "Lhok Puuk"
+    },
+    {
+      "code": 1108092023,
+      "name": "Ulee Rubek Barat"
+    },
+    {
+      "code": 1108092024,
+      "name": "Ulee Rubek Timu"
+    },
+    {
+      "code": 1108092025,
+      "name": "Bantayan"
+    },
+    {
+      "code": 1108092026,
+      "name": "Teupin Kuyuen"
+    },
+    {
+      "code": 1108092027,
+      "name": "Matang Lada"
+    },
+    {
+      "code": 1108092028,
+      "name": "Ulee Matang"
+    },
+    {
+      "code": 1108092029,
+      "name": "Matang Karieng"
+    },
+    {
+      "code": 1108092030,
+      "name": "Lhok Rambideng"
+    },
+    {
+      "code": 1108092031,
+      "name": "Matang Anoe"
+    },
+    {
+      "code": 1108092032,
+      "name": "Lhok Geulituet"
+    },
+    {
+      "code": 1108092033,
+      "name": "Ulee Titi"
+    }
+  ]
+}

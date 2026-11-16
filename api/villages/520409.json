@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5204092001,
+      "name": "Moyo"
+    },
+    {
+      "code": 5204092002,
+      "name": "Kakiang"
+    },
+    {
+      "code": 5204092003,
+      "name": "Ngeru"
+    },
+    {
+      "code": 5204092004,
+      "name": "Berare"
+    },
+    {
+      "code": 5204092005,
+      "name": "Poto"
+    },
+    {
+      "code": 5204092009,
+      "name": "Serading"
+    },
+    {
+      "code": 5204092010,
+      "name": "Olat Rawa"
+    },
+    {
+      "code": 5204092011,
+      "name": "Batu Bangka"
+    },
+    {
+      "code": 5204092013,
+      "name": "Moyo Mekar"
+    },
+    {
+      "code": 5204092014,
+      "name": "Labuhan Ijuk"
+    }
+  ]
+}

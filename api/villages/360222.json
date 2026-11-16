@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3602222001,
+      "name": "Ciparasi"
+    },
+    {
+      "code": 3602222002,
+      "name": "Sobang"
+    },
+    {
+      "code": 3602222003,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3602222004,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3602222005,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3602222006,
+      "name": "Hariang"
+    },
+    {
+      "code": 3602222007,
+      "name": "Majasari"
+    },
+    {
+      "code": 3602222008,
+      "name": "Sinar Jaya"
+    },
+    {
+      "code": 3602222009,
+      "name": "Cirompang"
+    },
+    {
+      "code": 3602222010,
+      "name": "Sukaresmi"
+    }
+  ]
+}

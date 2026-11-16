@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5301101001,
+      "name": "Camplong I"
+    },
+    {
+      "code": 5301102007,
+      "name": "Camplong II"
+    },
+    {
+      "code": 5301102008,
+      "name": "Naunnu"
+    },
+    {
+      "code": 5301102009,
+      "name": "Oebola"
+    },
+    {
+      "code": 5301102010,
+      "name": "Sillu"
+    },
+    {
+      "code": 5301102011,
+      "name": "Ekateta"
+    },
+    {
+      "code": 5301102012,
+      "name": "Kuimasi"
+    },
+    {
+      "code": 5301102013,
+      "name": "Tolnaku"
+    },
+    {
+      "code": 5301102014,
+      "name": "Oebola Dalam"
+    },
+    {
+      "code": 5301102015,
+      "name": "Kiuoni"
+    }
+  ]
+}

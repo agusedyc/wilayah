@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503242001,
+      "name": "Siwikma"
+    },
+    {
+      "code": 9503242002,
+      "name": "Pontenpilik"
+    },
+    {
+      "code": 9503242003,
+      "name": "Piliam"
+    },
+    {
+      "code": 9503242004,
+      "name": "Hiklahin"
+    },
+    {
+      "code": 9503242005,
+      "name": "Helapilik"
+    },
+    {
+      "code": 9503242006,
+      "name": "Lirutek"
+    },
+    {
+      "code": 9503242007,
+      "name": "Huhulpunu"
+    },
+    {
+      "code": 9503242008,
+      "name": "Pronggoli"
+    }
+  ]
+}

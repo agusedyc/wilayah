@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5306162001,
+      "name": "Riangbaring"
+    },
+    {
+      "code": 5306162002,
+      "name": "Lewotobi"
+    },
+    {
+      "code": 5306162003,
+      "name": "Nurabelen"
+    },
+    {
+      "code": 5306162004,
+      "name": "Nobo"
+    },
+    {
+      "code": 5306162005,
+      "name": "Lewoawang"
+    },
+    {
+      "code": 5306162006,
+      "name": "Duli Pali"
+    },
+    {
+      "code": 5306162007,
+      "name": "Riang Rita"
+    }
+  ]
+}

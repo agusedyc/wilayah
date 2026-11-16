@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1115102001,
+      "name": "Blang Puuk"
+    },
+    {
+      "code": 1115102002,
+      "name": "Babah Suak"
+    },
+    {
+      "code": 1115102003,
+      "name": "Kuta Teungoh"
+    },
+    {
+      "code": 1115102004,
+      "name": "Blang Meurandeh"
+    }
+  ]
+}

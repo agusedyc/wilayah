@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3327052001,
+      "name": "Longkeyang"
+    },
+    {
+      "code": 3327052002,
+      "name": "Jatingarang"
+    },
+    {
+      "code": 3327052003,
+      "name": "Gunungbatu"
+    },
+    {
+      "code": 3327052004,
+      "name": "Pasir"
+    },
+    {
+      "code": 3327052005,
+      "name": "Kwasen"
+    },
+    {
+      "code": 3327052006,
+      "name": "Jatiroyom"
+    },
+    {
+      "code": 3327052007,
+      "name": "Parunggalih"
+    },
+    {
+      "code": 3327052008,
+      "name": "Payung"
+    },
+    {
+      "code": 3327052009,
+      "name": "Cangak"
+    },
+    {
+      "code": 3327052010,
+      "name": "Kebandungan"
+    },
+    {
+      "code": 3327052011,
+      "name": "Kesesirejo"
+    },
+    {
+      "code": 3327052012,
+      "name": "Babakan"
+    },
+    {
+      "code": 3327052013,
+      "name": "Karangbrai"
+    },
+    {
+      "code": 3327052014,
+      "name": "Jraganan"
+    },
+    {
+      "code": 3327052015,
+      "name": "Kebandaran"
+    },
+    {
+      "code": 3327052016,
+      "name": "Bodeh"
+    },
+    {
+      "code": 3327052017,
+      "name": "Muncang"
+    },
+    {
+      "code": 3327052018,
+      "name": "Kelangdepok"
+    },
+    {
+      "code": 3327052019,
+      "name": "Pendowo"
+    }
+  ]
+}

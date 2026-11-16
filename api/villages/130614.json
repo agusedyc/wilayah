@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1306142001,
+      "name": "Canduang Koto Laweh"
+    },
+    {
+      "code": 1306142002,
+      "name": "Lasi"
+    },
+    {
+      "code": 1306142003,
+      "name": "Bukik Batabuah"
+    }
+  ]
+}

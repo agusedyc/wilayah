@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1278062001,
+      "name": "Tumori"
+    },
+    {
+      "code": 1278062002,
+      "name": "Tumori Balohili"
+    },
+    {
+      "code": 1278062003,
+      "name": "Orahili Tumori"
+    },
+    {
+      "code": 1278062004,
+      "name": "Gada"
+    },
+    {
+      "code": 1278062005,
+      "name": "Lolomoyo Tuhemberua"
+    },
+    {
+      "code": 1278062006,
+      "name": "Sihare'o Siwahili"
+    },
+    {
+      "code": 1278062007,
+      "name": "Hilinakhe"
+    },
+    {
+      "code": 1278062008,
+      "name": "Onozikho"
+    },
+    {
+      "code": 1278062009,
+      "name": "Ononamolo II Lot"
+    }
+  ]
+}

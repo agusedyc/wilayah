@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3511222001,
+      "name": "Lumutan"
+    },
+    {
+      "code": 3511222002,
+      "name": "Botolinggo"
+    },
+    {
+      "code": 3511222003,
+      "name": "Lanas"
+    },
+    {
+      "code": 3511222004,
+      "name": "Penang"
+    },
+    {
+      "code": 3511222005,
+      "name": "Gayam"
+    },
+    {
+      "code": 3511222006,
+      "name": "Klekehan"
+    },
+    {
+      "code": 3511222007,
+      "name": "Sumber Canting"
+    },
+    {
+      "code": 3511222008,
+      "name": "Gayam Lor"
+    }
+  ]
+}

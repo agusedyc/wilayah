@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7505062001,
+      "name": "Gentuma"
+    },
+    {
+      "code": 7505062002,
+      "name": "Dumolodo"
+    },
+    {
+      "code": 7505062003,
+      "name": "Molonggota"
+    },
+    {
+      "code": 7505062004,
+      "name": "Ipilo"
+    },
+    {
+      "code": 7505062005,
+      "name": "Langke"
+    },
+    {
+      "code": 7505062006,
+      "name": "Pasalae"
+    },
+    {
+      "code": 7505062007,
+      "name": "Nanati Jaya"
+    },
+    {
+      "code": 7505062008,
+      "name": "Ketapang"
+    },
+    {
+      "code": 7505062009,
+      "name": "Motomingo"
+    },
+    {
+      "code": 7505062010,
+      "name": "Durian"
+    },
+    {
+      "code": 7505062011,
+      "name": "Bohusami"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5108021015,
+      "name": "Seririt"
+    },
+    {
+      "code": 5108022001,
+      "name": "Unggahan"
+    },
+    {
+      "code": 5108022002,
+      "name": "Ularan"
+    },
+    {
+      "code": 5108022003,
+      "name": "Ringdikit"
+    },
+    {
+      "code": 5108022004,
+      "name": "Rangdu"
+    },
+    {
+      "code": 5108022005,
+      "name": "Mayong"
+    },
+    {
+      "code": 5108022006,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 5108022007,
+      "name": "Munduk Bestala"
+    },
+    {
+      "code": 5108022008,
+      "name": "Bestala"
+    },
+    {
+      "code": 5108022009,
+      "name": "Kalianget"
+    },
+    {
+      "code": 5108022010,
+      "name": "Joanyar"
+    },
+    {
+      "code": 5108022011,
+      "name": "Tangguwisia"
+    },
+    {
+      "code": 5108022012,
+      "name": "Sulanyah"
+    },
+    {
+      "code": 5108022013,
+      "name": "Bubunan"
+    },
+    {
+      "code": 5108022014,
+      "name": "Patemon"
+    },
+    {
+      "code": 5108022016,
+      "name": "Pengastulan"
+    },
+    {
+      "code": 5108022017,
+      "name": "Lokapaksa"
+    },
+    {
+      "code": 5108022018,
+      "name": "Pangkungparuk"
+    },
+    {
+      "code": 5108022019,
+      "name": "Banjarasem"
+    },
+    {
+      "code": 5108022020,
+      "name": "Kalisada"
+    },
+    {
+      "code": 5108022021,
+      "name": "Umeanyar"
+    }
+  ]
+}

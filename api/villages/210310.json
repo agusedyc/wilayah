@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2103102001,
+      "name": "Tanjung Pala"
+    },
+    {
+      "code": 2103102002,
+      "name": "Air Payang"
+    },
+    {
+      "code": 2103102003,
+      "name": "Kadur"
+    }
+  ]
+}

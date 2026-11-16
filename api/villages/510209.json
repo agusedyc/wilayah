@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5102092001,
+      "name": "Perean"
+    },
+    {
+      "code": 5102092002,
+      "name": "Luwus"
+    },
+    {
+      "code": 5102092003,
+      "name": "Apuan"
+    },
+    {
+      "code": 5102092004,
+      "name": "Angseri"
+    },
+    {
+      "code": 5102092005,
+      "name": "Bangli"
+    },
+    {
+      "code": 5102092006,
+      "name": "Baturiti"
+    },
+    {
+      "code": 5102092007,
+      "name": "Antapan"
+    },
+    {
+      "code": 5102092008,
+      "name": "Candikuning"
+    },
+    {
+      "code": 5102092009,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 5102092010,
+      "name": "Batunya"
+    },
+    {
+      "code": 5102092011,
+      "name": "Perean Tengah"
+    },
+    {
+      "code": 5102092012,
+      "name": "Perean Kangin"
+    }
+  ]
+}

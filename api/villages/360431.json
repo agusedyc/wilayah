@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3604312001,
+      "name": "Cinangka"
+    },
+    {
+      "code": 3604312002,
+      "name": "Bantarwaru"
+    },
+    {
+      "code": 3604312003,
+      "name": "Pasauran"
+    },
+    {
+      "code": 3604312004,
+      "name": "Bulakan"
+    },
+    {
+      "code": 3604312005,
+      "name": "Karang Suraga"
+    },
+    {
+      "code": 3604312006,
+      "name": "Umbul Tanjung"
+    },
+    {
+      "code": 3604312007,
+      "name": "Kubang Baros"
+    },
+    {
+      "code": 3604312008,
+      "name": "Rancasanggal"
+    },
+    {
+      "code": 3604312009,
+      "name": "Cikolelet"
+    },
+    {
+      "code": 3604312010,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3604312011,
+      "name": "Kamasan"
+    },
+    {
+      "code": 3604312012,
+      "name": "Bantarwangi"
+    },
+    {
+      "code": 3604312013,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3604312014,
+      "name": "Baros Jaya"
+    }
+  ]
+}

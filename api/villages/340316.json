@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3403162001,
+      "name": "Balong"
+    },
+    {
+      "code": 3403162002,
+      "name": "Jepitu"
+    },
+    {
+      "code": 3403162003,
+      "name": "Karangawen"
+    },
+    {
+      "code": 3403162004,
+      "name": "Nglindur"
+    },
+    {
+      "code": 3403162005,
+      "name": "Jerukwudel"
+    },
+    {
+      "code": 3403162006,
+      "name": "Tileng"
+    },
+    {
+      "code": 3403162007,
+      "name": "Pucung"
+    },
+    {
+      "code": 3403162008,
+      "name": "Songbanyu"
+    }
+  ]
+}

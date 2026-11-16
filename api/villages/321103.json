@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3211032001,
+      "name": "Darmaraja"
+    },
+    {
+      "code": 3211032002,
+      "name": "Darmajaya"
+    },
+    {
+      "code": 3211032003,
+      "name": "Sukamenak"
+    },
+    {
+      "code": 3211032005,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3211032006,
+      "name": "Cikeusi"
+    },
+    {
+      "code": 3211032007,
+      "name": "Cipeuteuy"
+    },
+    {
+      "code": 3211032009,
+      "name": "Cieunteung"
+    },
+    {
+      "code": 3211032010,
+      "name": "Karangpakuan"
+    },
+    {
+      "code": 3211032011,
+      "name": "Pakualam"
+    },
+    {
+      "code": 3211032013,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3211032015,
+      "name": "Tarunajaya"
+    },
+    {
+      "code": 3211032016,
+      "name": "Ranggon"
+    }
+  ]
+}

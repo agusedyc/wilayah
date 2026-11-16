@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3312091003,
+      "name": "Mojopuro"
+    },
+    {
+      "code": 3312091007,
+      "name": "Wuryantoro"
+    },
+    {
+      "code": 3312092001,
+      "name": "Genukharjo"
+    },
+    {
+      "code": 3312092002,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3312092004,
+      "name": "Mlopoharjo"
+    },
+    {
+      "code": 3312092005,
+      "name": "Pulutan Kulon"
+    },
+    {
+      "code": 3312092006,
+      "name": "Pulutan Wetan"
+    },
+    {
+      "code": 3312092008,
+      "name": "Gumiwang Lor"
+    }
+  ]
+}

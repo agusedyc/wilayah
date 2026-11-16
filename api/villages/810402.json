@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8104022004,
+      "name": "Waepure"
+    },
+    {
+      "code": 8104022005,
+      "name": "Waemangit"
+    },
+    {
+      "code": 8104022006,
+      "name": "Air Buaya"
+    },
+    {
+      "code": 8104022007,
+      "name": "Tanjung Karang"
+    },
+    {
+      "code": 8104022008,
+      "name": "Bara"
+    },
+    {
+      "code": 8104022014,
+      "name": "Selwadu"
+    },
+    {
+      "code": 8104022018,
+      "name": "Wasbaka"
+    },
+    {
+      "code": 8104022019,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 8104022020,
+      "name": "Batlale"
+    },
+    {
+      "code": 8104022023,
+      "name": "Awilinan"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9202142001,
+      "name": "Yoom I"
+    },
+    {
+      "code": 9202142004,
+      "name": "Yoom II"
+    },
+    {
+      "code": 9202142007,
+      "name": "Bremi"
+    },
+    {
+      "code": 9202142008,
+      "name": "Saubeba"
+    },
+    {
+      "code": 9202142009,
+      "name": "Pami"
+    },
+    {
+      "code": 9202142011,
+      "name": "Asai"
+    },
+    {
+      "code": 9202142013,
+      "name": "Meyunfoka"
+    },
+    {
+      "code": 9202142014,
+      "name": "Tanah Rubuh"
+    },
+    {
+      "code": 9202142015,
+      "name": "Sairo"
+    },
+    {
+      "code": 9202142017,
+      "name": "Inoduas"
+    },
+    {
+      "code": 9202142018,
+      "name": "Lebau"
+    },
+    {
+      "code": 9202142020,
+      "name": "Cabang Dua"
+    },
+    {
+      "code": 9202142022,
+      "name": "Indou Oufa"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 5306031001,
+      "name": "Waibalun"
+    },
+    {
+      "code": 5306031002,
+      "name": "Lewolere"
+    },
+    {
+      "code": 5306031003,
+      "name": "Pantai Besar"
+    },
+    {
+      "code": 5306031004,
+      "name": "Larantuka"
+    },
+    {
+      "code": 5306031005,
+      "name": "Balela"
+    },
+    {
+      "code": 5306031006,
+      "name": "Pohon Sirih"
+    },
+    {
+      "code": 5306031007,
+      "name": "Lohayong"
+    },
+    {
+      "code": 5306031008,
+      "name": "Lokea"
+    },
+    {
+      "code": 5306031009,
+      "name": "Postoh"
+    },
+    {
+      "code": 5306031010,
+      "name": "Amagarapati"
+    },
+    {
+      "code": 5306031011,
+      "name": "Ekasapta"
+    },
+    {
+      "code": 5306031012,
+      "name": "Sarotari"
+    },
+    {
+      "code": 5306031013,
+      "name": "Weri"
+    },
+    {
+      "code": 5306031014,
+      "name": "Pukentobi Wangin Bao"
+    },
+    {
+      "code": 5306031021,
+      "name": "Waihali"
+    },
+    {
+      "code": 5306031022,
+      "name": "Pohon Bao"
+    },
+    {
+      "code": 5306031023,
+      "name": "Sarotari Tengah"
+    },
+    {
+      "code": 5306031024,
+      "name": "Sarotari Timur"
+    },
+    {
+      "code": 5306032019,
+      "name": "Mokantarak"
+    },
+    {
+      "code": 5306032020,
+      "name": "Lamawalang"
+    }
+  ]
+}

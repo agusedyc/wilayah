@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1701082001,
+      "name": "Keban Jati"
+    },
+    {
+      "code": 1701082002,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1701082003,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1701082004,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1701082005,
+      "name": "Palak Bengkerung"
+    },
+    {
+      "code": 1701082006,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1701082007,
+      "name": "Pino Baru"
+    },
+    {
+      "code": 1701082008,
+      "name": "Penandingan"
+    },
+    {
+      "code": 1701082009,
+      "name": "Suka Bandung"
+    },
+    {
+      "code": 1701082010,
+      "name": "Maras"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3526052001,
+      "name": "Arosbaya"
+    },
+    {
+      "code": 3526052002,
+      "name": "Tengket"
+    },
+    {
+      "code": 3526052003,
+      "name": "Lajing"
+    },
+    {
+      "code": 3526052004,
+      "name": "Balung"
+    },
+    {
+      "code": 3526052005,
+      "name": "Glagga"
+    },
+    {
+      "code": 3526052006,
+      "name": "Pandan Lanjang"
+    },
+    {
+      "code": 3526052007,
+      "name": "Batonaong"
+    },
+    {
+      "code": 3526052008,
+      "name": "Ombul"
+    },
+    {
+      "code": 3526052009,
+      "name": "Karang Duwak"
+    },
+    {
+      "code": 3526052010,
+      "name": "Berbeluk"
+    },
+    {
+      "code": 3526052011,
+      "name": "Buduran"
+    },
+    {
+      "code": 3526052012,
+      "name": "Tambegan"
+    },
+    {
+      "code": 3526052013,
+      "name": "Cendagah"
+    },
+    {
+      "code": 3526052014,
+      "name": "Mangkon"
+    },
+    {
+      "code": 3526052015,
+      "name": "Karang Pao"
+    },
+    {
+      "code": 3526052016,
+      "name": "Makam Agung"
+    },
+    {
+      "code": 3526052017,
+      "name": "Dlemer"
+    },
+    {
+      "code": 3526052018,
+      "name": "Plakaran"
+    }
+  ]
+}

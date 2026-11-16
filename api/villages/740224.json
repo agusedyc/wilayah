@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7402241001,
+      "name": "Parauna"
+    },
+    {
+      "code": 7402241002,
+      "name": "Anggaberi"
+    },
+    {
+      "code": 7402241003,
+      "name": "Lawulo"
+    },
+    {
+      "code": 7402241004,
+      "name": "Andabia"
+    },
+    {
+      "code": 7402241005,
+      "name": "Unaasi"
+    },
+    {
+      "code": 7402241006,
+      "name": "Toriki"
+    },
+    {
+      "code": 7402242007,
+      "name": "Lerehoma"
+    },
+    {
+      "code": 7402242008,
+      "name": "Wunduongohi"
+    }
+  ]
+}

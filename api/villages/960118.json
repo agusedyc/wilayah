@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9601182001,
+      "name": "Maibo"
+    },
+    {
+      "code": 9601182002,
+      "name": "Malaflon"
+    },
+    {
+      "code": 9601182003,
+      "name": "Kabanmolo"
+    },
+    {
+      "code": 9601182004,
+      "name": "Kagiwala"
+    }
+  ]
+}

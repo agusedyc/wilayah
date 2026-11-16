@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3206012001,
+      "name": "Ciheras"
+    },
+    {
+      "code": 3206012002,
+      "name": "Cipatujah"
+    },
+    {
+      "code": 3206012003,
+      "name": "Sindangkerta"
+    },
+    {
+      "code": 3206012004,
+      "name": "Cikawungading"
+    },
+    {
+      "code": 3206012005,
+      "name": "Bantarkalong"
+    },
+    {
+      "code": 3206012006,
+      "name": "Darawati"
+    },
+    {
+      "code": 3206012007,
+      "name": "Nagrog"
+    },
+    {
+      "code": 3206012008,
+      "name": "Pameutingan"
+    },
+    {
+      "code": 3206012009,
+      "name": "Tobongjaya"
+    },
+    {
+      "code": 3206012010,
+      "name": "Cipanas"
+    },
+    {
+      "code": 3206012011,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3206012012,
+      "name": "Ciandum"
+    },
+    {
+      "code": 3206012013,
+      "name": "Nangelasari"
+    },
+    {
+      "code": 3206012014,
+      "name": "Padawaras"
+    },
+    {
+      "code": 3206012015,
+      "name": "Sukahurip"
+    }
+  ]
+}

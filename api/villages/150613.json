@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1506131001,
+      "name": "Senyerang"
+    },
+    {
+      "code": 1506132002,
+      "name": "Sungai Kayu Aro"
+    },
+    {
+      "code": 1506132003,
+      "name": "Teluk Ketapang"
+    },
+    {
+      "code": 1506132004,
+      "name": "Sungai Rambai"
+    },
+    {
+      "code": 1506132005,
+      "name": "Margo Rukun"
+    },
+    {
+      "code": 1506132006,
+      "name": "Kempas Jaya"
+    },
+    {
+      "code": 1506132007,
+      "name": "Lumahan"
+    },
+    {
+      "code": 1506132008,
+      "name": "Sungai Landak"
+    },
+    {
+      "code": 1506132009,
+      "name": "Sungsang"
+    },
+    {
+      "code": 1506132010,
+      "name": "Sungai Kepayang"
+    }
+  ]
+}

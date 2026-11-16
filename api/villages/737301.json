@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7373011001,
+      "name": "Tompotikka"
+    },
+    {
+      "code": 7373011002,
+      "name": "Boting"
+    },
+    {
+      "code": 7373011003,
+      "name": "Ammasangan"
+    },
+    {
+      "code": 7373011005,
+      "name": "Lagaligo"
+    },
+    {
+      "code": 7373011011,
+      "name": "Dangerakko"
+    },
+    {
+      "code": 7373011012,
+      "name": "Pajalesang"
+    }
+  ]
+}

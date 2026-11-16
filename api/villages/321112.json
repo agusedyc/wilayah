@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3211122001,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3211122002,
+      "name": "Genteng"
+    },
+    {
+      "code": 3211122003,
+      "name": "Banyuresmi"
+    },
+    {
+      "code": 3211122004,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3211122005,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3211122006,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3211122007,
+      "name": "Sukarapih"
+    }
+  ]
+}

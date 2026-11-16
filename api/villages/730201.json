@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 7302011001,
+      "name": "Matekko"
+    },
+    {
+      "code": 7302011002,
+      "name": "Jalanjang"
+    },
+    {
+      "code": 7302011003,
+      "name": "Mario Rennu"
+    },
+    {
+      "code": 7302012004,
+      "name": "Bialo"
+    },
+    {
+      "code": 7302012005,
+      "name": "Bontomacinna"
+    },
+    {
+      "code": 7302012006,
+      "name": "Gattareng"
+    },
+    {
+      "code": 7302012007,
+      "name": "Dampang"
+    },
+    {
+      "code": 7302012008,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7302012009,
+      "name": "Palambarae"
+    },
+    {
+      "code": 7302012010,
+      "name": "Bontonyeleng"
+    },
+    {
+      "code": 7302012011,
+      "name": "Benteng Malewang"
+    },
+    {
+      "code": 7302012012,
+      "name": "Padang"
+    },
+    {
+      "code": 7302012013,
+      "name": "Bontoraja"
+    },
+    {
+      "code": 7302012014,
+      "name": "Paenre Lompoe"
+    },
+    {
+      "code": 7302012015,
+      "name": "Benteng Gattareng"
+    },
+    {
+      "code": 7302012016,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 7302012017,
+      "name": "Polewali"
+    },
+    {
+      "code": 7302012018,
+      "name": "Bontomasila"
+    },
+    {
+      "code": 7302012019,
+      "name": "Barombong"
+    },
+    {
+      "code": 7302012020,
+      "name": "Bukit Tinggi"
+    },
+    {
+      "code": 7302012021,
+      "name": "Taccorong"
+    }
+  ]
+}

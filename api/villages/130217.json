@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1302172001,
+      "name": "Talang Babungo"
+    },
+    {
+      "code": 1302172002,
+      "name": "Sariak Alahan Tigo"
+    },
+    {
+      "code": 1302172003,
+      "name": "Sungai Abu"
+    }
+  ]
+}

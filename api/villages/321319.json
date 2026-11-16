@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213192001,
+      "name": "Gunungtua"
+    },
+    {
+      "code": 3213192002,
+      "name": "Cijambe"
+    },
+    {
+      "code": 3213192003,
+      "name": "Cirangkong"
+    },
+    {
+      "code": 3213192004,
+      "name": "Cimenteng"
+    },
+    {
+      "code": 3213192005,
+      "name": "Bantarsari"
+    },
+    {
+      "code": 3213192006,
+      "name": "Tanjungwangi"
+    },
+    {
+      "code": 3213192007,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3213192008,
+      "name": "Sukahurip"
+    }
+  ]
+}

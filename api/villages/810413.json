@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8104132001,
+      "name": "Wamlana"
+    },
+    {
+      "code": 8104132002,
+      "name": "Balbalu"
+    },
+    {
+      "code": 8104132003,
+      "name": "Waspait"
+    },
+    {
+      "code": 8104132004,
+      "name": "Waedanga"
+    },
+    {
+      "code": 8104132005,
+      "name": "Lemanpoli"
+    },
+    {
+      "code": 8104132006,
+      "name": "Waelana-lana"
+    },
+    {
+      "code": 8104132007,
+      "name": "Waereman"
+    },
+    {
+      "code": 8104132008,
+      "name": "Waemite"
+    },
+    {
+      "code": 8104132009,
+      "name": "Wasi"
+    },
+    {
+      "code": 8104132010,
+      "name": "Waekose"
+    },
+    {
+      "code": 8104132011,
+      "name": "Wamana Baru"
+    },
+    {
+      "code": 8104132012,
+      "name": "Raheriat"
+    },
+    {
+      "code": 8104132013,
+      "name": "Waenibe"
+    }
+  ]
+}

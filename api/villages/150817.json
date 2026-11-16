@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1508172001,
+      "name": "Sungai Mancur"
+    },
+    {
+      "code": 1508172002,
+      "name": "Tanah Periuk"
+    },
+    {
+      "code": 1508172003,
+      "name": "Lubuk Landai"
+    },
+    {
+      "code": 1508172004,
+      "name": "Rantau Embacang"
+    },
+    {
+      "code": 1508172005,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 1508172006,
+      "name": "Embacang Gedang"
+    },
+    {
+      "code": 1508172007,
+      "name": "Sungai Puri"
+    },
+    {
+      "code": 1508172008,
+      "name": "Paku Aji"
+    },
+    {
+      "code": 1508172009,
+      "name": "Pematang Panjang"
+    },
+    {
+      "code": 1508172010,
+      "name": "Sungai Lilin"
+    },
+    {
+      "code": 1508172011,
+      "name": "Sungai Tembang"
+    },
+    {
+      "code": 1508172012,
+      "name": "Rantau Makmur"
+    }
+  ]
+}

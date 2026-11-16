@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9202322001,
+      "name": "Duweibey"
+    },
+    {
+      "code": 9202322002,
+      "name": "Mingre"
+    },
+    {
+      "code": 9202322003,
+      "name": "Figoud"
+    },
+    {
+      "code": 9202322004,
+      "name": "Kwau"
+    },
+    {
+      "code": 9202322005,
+      "name": "Mokwam"
+    },
+    {
+      "code": 9202322006,
+      "name": "Syou"
+    },
+    {
+      "code": 9202322007,
+      "name": "Amber"
+    },
+    {
+      "code": 9202322008,
+      "name": "Asarbey"
+    },
+    {
+      "code": 9202322009,
+      "name": "Minoqbei"
+    },
+    {
+      "code": 9202322010,
+      "name": "Bahamyenti"
+    },
+    {
+      "code": 9202322011,
+      "name": "Kipuwau"
+    },
+    {
+      "code": 9202322012,
+      "name": "Aiwow"
+    }
+  ]
+}

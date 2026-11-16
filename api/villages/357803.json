@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3578031001,
+      "name": "Kalirungkut"
+    },
+    {
+      "code": 3578031002,
+      "name": "Rungkut Kidul"
+    },
+    {
+      "code": 3578031003,
+      "name": "Kedung Baruk"
+    },
+    {
+      "code": 3578031004,
+      "name": "Penjaringansari"
+    },
+    {
+      "code": 3578031005,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3578031006,
+      "name": "Medokan Ayu"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3309092001,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3309092002,
+      "name": "Jipangan"
+    },
+    {
+      "code": 3309092003,
+      "name": "Jembungan"
+    },
+    {
+      "code": 3309092004,
+      "name": "Sambon"
+    },
+    {
+      "code": 3309092005,
+      "name": "Kuwiran"
+    },
+    {
+      "code": 3309092006,
+      "name": "Cangkringan"
+    },
+    {
+      "code": 3309092007,
+      "name": "Ngaru-aru"
+    },
+    {
+      "code": 3309092008,
+      "name": "Bendan"
+    },
+    {
+      "code": 3309092009,
+      "name": "Ketaon"
+    },
+    {
+      "code": 3309092010,
+      "name": "Banyudono"
+    },
+    {
+      "code": 3309092011,
+      "name": "Batan"
+    },
+    {
+      "code": 3309092012,
+      "name": "Denggungan"
+    },
+    {
+      "code": 3309092013,
+      "name": "Bangak"
+    },
+    {
+      "code": 3309092014,
+      "name": "Trayu"
+    },
+    {
+      "code": 3309092015,
+      "name": "Tanjungsari"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271111001,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1271111002,
+      "name": "Titi Kuning"
+    },
+    {
+      "code": 1271111003,
+      "name": "Kedai Durian"
+    },
+    {
+      "code": 1271111004,
+      "name": "Pangkalan Mansur"
+    },
+    {
+      "code": 1271111005,
+      "name": "Gedung Johor"
+    },
+    {
+      "code": 1271111006,
+      "name": "Kwala Bekala"
+    }
+  ]
+}

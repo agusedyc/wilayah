@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1701012001,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 1701012002,
+      "name": "Rantau Sialang"
+    },
+    {
+      "code": 1701012003,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1701012004,
+      "name": "Palak Siring"
+    },
+    {
+      "code": 1701012005,
+      "name": "Keban Agung I"
+    },
+    {
+      "code": 1701012006,
+      "name": "Keban Agung II"
+    },
+    {
+      "code": 1701012007,
+      "name": "Tanjung Alam"
+    },
+    {
+      "code": 1701012008,
+      "name": "Tanjung Negara"
+    },
+    {
+      "code": 1701012009,
+      "name": "Keban Agung III"
+    },
+    {
+      "code": 1701012010,
+      "name": "Suka Nanti"
+    },
+    {
+      "code": 1701012011,
+      "name": "Muara Tiga"
+    },
+    {
+      "code": 1701012012,
+      "name": "Tanjung Besar"
+    },
+    {
+      "code": 1701012013,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1701012014,
+      "name": "Durian Sebatang"
+    },
+    {
+      "code": 1701012015,
+      "name": "Lawang Agung"
+    },
+    {
+      "code": 1701012027,
+      "name": "Nanti Agung"
+    },
+    {
+      "code": 1701012028,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1701012029,
+      "name": "Lubuk Resam"
+    },
+    {
+      "code": 1701012030,
+      "name": "Muara Tiga Ilir"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5320022001,
+      "name": "Bebae"
+    },
+    {
+      "code": 5320022002,
+      "name": "Tada"
+    },
+    {
+      "code": 5320022003,
+      "name": "Matei"
+    },
+    {
+      "code": 5320022004,
+      "name": "Loboaju"
+    },
+    {
+      "code": 5320022005,
+      "name": "Eimadake"
+    },
+    {
+      "code": 5320022006,
+      "name": "Jiwuwu"
+    },
+    {
+      "code": 5320022007,
+      "name": "Eilode"
+    },
+    {
+      "code": 5320022008,
+      "name": "Eimau"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 6105042001,
+      "name": "Nanga Ketungau"
+    },
+    {
+      "code": 6105042002,
+      "name": "Setungkup"
+    },
+    {
+      "code": 6105042004,
+      "name": "Sungai Mali"
+    },
+    {
+      "code": 6105042005,
+      "name": "Air Nyuruk"
+    },
+    {
+      "code": 6105042006,
+      "name": "Nanga Merkak"
+    },
+    {
+      "code": 6105042007,
+      "name": "Sungai Deras"
+    },
+    {
+      "code": 6105042008,
+      "name": "Nanga Sejirak"
+    },
+    {
+      "code": 6105042009,
+      "name": "Semuntai"
+    },
+    {
+      "code": 6105042010,
+      "name": "Senibung"
+    },
+    {
+      "code": 6105042011,
+      "name": "Tanjung Baung"
+    },
+    {
+      "code": 6105042012,
+      "name": "Baung Sengatap"
+    },
+    {
+      "code": 6105042013,
+      "name": "Semajau Mekar"
+    },
+    {
+      "code": 6105042014,
+      "name": "Beluh Mulyo"
+    },
+    {
+      "code": 6105042015,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6105042016,
+      "name": "Bukit Sidin Permai"
+    },
+    {
+      "code": 6105042017,
+      "name": "Betung Permai"
+    },
+    {
+      "code": 6105042018,
+      "name": "Kenuak"
+    },
+    {
+      "code": 6105042019,
+      "name": "Jentawang Hilir"
+    },
+    {
+      "code": 6105042020,
+      "name": "Batu Nyadi"
+    },
+    {
+      "code": 6105042021,
+      "name": "Ratu Damai"
+    },
+    {
+      "code": 6105042022,
+      "name": "Lepung Pantak"
+    },
+    {
+      "code": 6105042023,
+      "name": "Pampang Dua"
+    },
+    {
+      "code": 6105042024,
+      "name": "Mungguk Kelapa"
+    },
+    {
+      "code": 6105042025,
+      "name": "Maung"
+    }
+  ]
+}

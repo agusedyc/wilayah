@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9203072007,
+      "name": "Onimsari"
+    },
+    {
+      "code": 9203072008,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 9203072009,
+      "name": "Pinang Agung"
+    },
+    {
+      "code": 9203072010,
+      "name": "Bumi Moroh Indah"
+    },
+    {
+      "code": 9203072012,
+      "name": "Tesha"
+    },
+    {
+      "code": 9203072014,
+      "name": "Onim Jaya"
+    },
+    {
+      "code": 9203072015,
+      "name": "Wono Rejo"
+    }
+  ]
+}

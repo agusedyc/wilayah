@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1106012001,
+      "name": "Meunasah Krueng Kala"
+    },
+    {
+      "code": 1106012002,
+      "name": "Jantang"
+    },
+    {
+      "code": 1106012003,
+      "name": "Baroh Krueng Kala"
+    },
+    {
+      "code": 1106012004,
+      "name": "Tunong Krueng Kala"
+    },
+    {
+      "code": 1106012005,
+      "name": "Sungko Mulat"
+    },
+    {
+      "code": 1106012006,
+      "name": "Birek"
+    },
+    {
+      "code": 1106012007,
+      "name": "Kareung"
+    },
+    {
+      "code": 1106012008,
+      "name": "Paroy"
+    },
+    {
+      "code": 1106012009,
+      "name": "Teungoh Blang Mee"
+    },
+    {
+      "code": 1106012010,
+      "name": "Lamkuta Blang Mee"
+    },
+    {
+      "code": 1106012011,
+      "name": "Baroh Blang Mee"
+    },
+    {
+      "code": 1106012012,
+      "name": "Umong Seuribee"
+    },
+    {
+      "code": 1106012013,
+      "name": "Teungoh Geunteut"
+    },
+    {
+      "code": 1106012014,
+      "name": "Baroh Geunteut"
+    },
+    {
+      "code": 1106012015,
+      "name": "Lam Juhang"
+    },
+    {
+      "code": 1106012016,
+      "name": "Utamong"
+    },
+    {
+      "code": 1106012017,
+      "name": "Gapuy"
+    },
+    {
+      "code": 1106012018,
+      "name": "Lamsujen"
+    },
+    {
+      "code": 1106012019,
+      "name": "Mon Mata"
+    },
+    {
+      "code": 1106012020,
+      "name": "Lamgeuriheu"
+    },
+    {
+      "code": 1106012021,
+      "name": "Keutapang"
+    },
+    {
+      "code": 1106012022,
+      "name": "Saney"
+    },
+    {
+      "code": 1106012023,
+      "name": "Cundien"
+    },
+    {
+      "code": 1106012024,
+      "name": "Glee Bruek"
+    },
+    {
+      "code": 1106012025,
+      "name": "Pasi"
+    },
+    {
+      "code": 1106012026,
+      "name": "Pudeng"
+    },
+    {
+      "code": 1106012027,
+      "name": "Meunasah Cot"
+    },
+    {
+      "code": 1106012028,
+      "name": "Meunasah Lhok"
+    }
+  ]
+}

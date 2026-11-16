@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204142001,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3204142002,
+      "name": "Bojongmanggu"
+    },
+    {
+      "code": 3204142003,
+      "name": "Rancatungku"
+    },
+    {
+      "code": 3204142004,
+      "name": "Bojongkunci"
+    },
+    {
+      "code": 3204142005,
+      "name": "Rancamulya"
+    },
+    {
+      "code": 3204142006,
+      "name": "Langonsari"
+    }
+  ]
+}

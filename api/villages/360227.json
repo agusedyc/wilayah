@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3602272001,
+      "name": "Datarcae"
+    },
+    {
+      "code": 3602272002,
+      "name": "Cirinten"
+    },
+    {
+      "code": 3602272003,
+      "name": "Karangnunggal"
+    },
+    {
+      "code": 3602272004,
+      "name": "Kadudamas"
+    },
+    {
+      "code": 3602272005,
+      "name": "Badur"
+    },
+    {
+      "code": 3602272006,
+      "name": "Parakanlima"
+    },
+    {
+      "code": 3602272007,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3602272008,
+      "name": "Cempaka"
+    },
+    {
+      "code": 3602272009,
+      "name": "Karoya"
+    },
+    {
+      "code": 3602272010,
+      "name": "Cibarani"
+    }
+  ]
+}

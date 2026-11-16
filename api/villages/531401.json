@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5314012005,
+      "name": "Oeseli"
+    },
+    {
+      "code": 5314012006,
+      "name": "Oebou"
+    },
+    {
+      "code": 5314012007,
+      "name": "Lalukoen"
+    },
+    {
+      "code": 5314012008,
+      "name": "Oehandi"
+    },
+    {
+      "code": 5314012009,
+      "name": "Oetefu"
+    },
+    {
+      "code": 5314012010,
+      "name": "Batutua"
+    },
+    {
+      "code": 5314012011,
+      "name": "Meoain"
+    },
+    {
+      "code": 5314012012,
+      "name": "Oebafok"
+    },
+    {
+      "code": 5314012013,
+      "name": "Oebatu"
+    },
+    {
+      "code": 5314012014,
+      "name": "Mbokak"
+    },
+    {
+      "code": 5314012015,
+      "name": "Lekik"
+    },
+    {
+      "code": 5314012016,
+      "name": "Dolasi"
+    },
+    {
+      "code": 5314012017,
+      "name": "Oelasin"
+    },
+    {
+      "code": 5314012018,
+      "name": "Landu"
+    },
+    {
+      "code": 5314012019,
+      "name": "Lentera"
+    },
+    {
+      "code": 5314012020,
+      "name": "Sanggandolu"
+    },
+    {
+      "code": 5314012021,
+      "name": "Sakubatun"
+    },
+    {
+      "code": 5314012022,
+      "name": "Fuafuni"
+    },
+    {
+      "code": 5314012023,
+      "name": "Dalek Esa"
+    }
+  ]
+}

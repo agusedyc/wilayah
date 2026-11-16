@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509112001,
+      "name": "Lojejer"
+    },
+    {
+      "code": 3509112002,
+      "name": "Ampel"
+    },
+    {
+      "code": 3509112003,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3509112004,
+      "name": "Dukuhdempok"
+    },
+    {
+      "code": 3509112005,
+      "name": "Glundengan"
+    },
+    {
+      "code": 3509112006,
+      "name": "Tanjungrejo"
+    },
+    {
+      "code": 3509112007,
+      "name": "Kesilir"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1118052001,
+      "name": "Lhok Sandeng"
+    },
+    {
+      "code": 1118052002,
+      "name": "Sarah Mane"
+    },
+    {
+      "code": 1118052003,
+      "name": "Seunong"
+    },
+    {
+      "code": 1118052004,
+      "name": "Lancok"
+    },
+    {
+      "code": 1118052005,
+      "name": "Meunasah Kulam"
+    },
+    {
+      "code": 1118052006,
+      "name": "Meunasah Teungoh"
+    },
+    {
+      "code": 1118052007,
+      "name": "Meunasah Bie"
+    },
+    {
+      "code": 1118052008,
+      "name": "Meunasah Raya"
+    },
+    {
+      "code": 1118052009,
+      "name": "Geunteng"
+    },
+    {
+      "code": 1118052010,
+      "name": "Gampong Blang"
+    },
+    {
+      "code": 1118052011,
+      "name": "Blang Cut"
+    },
+    {
+      "code": 1118052012,
+      "name": "Dayah Kruet"
+    },
+    {
+      "code": 1118052013,
+      "name": "Meunasah Mancang"
+    },
+    {
+      "code": 1118052014,
+      "name": "Dayah Usen"
+    },
+    {
+      "code": 1118052015,
+      "name": "Lueng Bimba"
+    },
+    {
+      "code": 1118052016,
+      "name": "Beuringen"
+    },
+    {
+      "code": 1118052017,
+      "name": "Buangan"
+    },
+    {
+      "code": 1118052018,
+      "name": "Meunasah Jurong"
+    },
+    {
+      "code": 1118052019,
+      "name": "Pante Beureune"
+    }
+  ]
+}

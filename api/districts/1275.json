@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 127501,
+      "name": "Binjai Utara"
+    },
+    {
+      "code": 127502,
+      "name": "Binjai Kota"
+    },
+    {
+      "code": 127503,
+      "name": "Binjai Barat"
+    },
+    {
+      "code": 127504,
+      "name": "Binjai Timur"
+    },
+    {
+      "code": 127505,
+      "name": "Binjai Selatan"
+    }
+  ]
+}

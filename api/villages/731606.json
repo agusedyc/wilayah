@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7316062002,
+      "name": "Bungin"
+    },
+    {
+      "code": 7316062003,
+      "name": "Talang Rilau"
+    },
+    {
+      "code": 7316062004,
+      "name": "Baruka"
+    },
+    {
+      "code": 7316062008,
+      "name": "Sawitto"
+    },
+    {
+      "code": 7316062009,
+      "name": "Bulo"
+    },
+    {
+      "code": 7316062010,
+      "name": "Banua"
+    }
+  ]
+}

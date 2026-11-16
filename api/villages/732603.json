@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7326031004,
+      "name": "Nanggala Sanpiak Salu"
+    },
+    {
+      "code": 7326032001,
+      "name": "Nanggala"
+    },
+    {
+      "code": 7326032002,
+      "name": "Tandung Nanggala"
+    },
+    {
+      "code": 7326032003,
+      "name": "Lili'kira'"
+    },
+    {
+      "code": 7326032005,
+      "name": "Karre Limbong"
+    },
+    {
+      "code": 7326032006,
+      "name": "Rante"
+    },
+    {
+      "code": 7326032007,
+      "name": "Basokan"
+    },
+    {
+      "code": 7326032008,
+      "name": "Nanna' Nanggala"
+    },
+    {
+      "code": 7326032009,
+      "name": "Karre Pananian"
+    }
+  ]
+}

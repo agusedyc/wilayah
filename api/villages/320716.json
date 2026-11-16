@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3207162001,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3207162002,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3207162003,
+      "name": "Kaso"
+    },
+    {
+      "code": 3207162004,
+      "name": "Kadupandak"
+    },
+    {
+      "code": 3207162005,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3207162006,
+      "name": "Karangpaningal"
+    }
+  ]
+}

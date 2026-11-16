@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 regencies",
+  "data": [
+    {
+      "code": 9501,
+      "name": "Kabupaten Jayawijaya"
+    },
+    {
+      "code": 9502,
+      "name": "Kabupaten Pegunungan Bintang"
+    },
+    {
+      "code": 9503,
+      "name": "Kabupaten Yahukimo"
+    },
+    {
+      "code": 9504,
+      "name": "Kabupaten Tolikara"
+    },
+    {
+      "code": 9505,
+      "name": "Kabupaten Mamberamo Tengah"
+    },
+    {
+      "code": 9506,
+      "name": "Kabupaten Yalimo"
+    },
+    {
+      "code": 9507,
+      "name": "Kabupaten Lanny Jaya"
+    },
+    {
+      "code": 9508,
+      "name": "Kabupaten Nduga"
+    }
+  ]
+}

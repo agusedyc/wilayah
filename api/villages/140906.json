@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1409061001,
+      "name": "Benai"
+    },
+    {
+      "code": 1409062003,
+      "name": "Banjar Benai"
+    },
+    {
+      "code": 1409062004,
+      "name": "Talontom"
+    },
+    {
+      "code": 1409062005,
+      "name": "Gunungkesiangan"
+    },
+    {
+      "code": 1409062006,
+      "name": "Pulaukalimanting"
+    },
+    {
+      "code": 1409062007,
+      "name": "Banjar Lopak"
+    },
+    {
+      "code": 1409062008,
+      "name": "Tanjungsimandolak"
+    },
+    {
+      "code": 1409062009,
+      "name": "Siberakun"
+    },
+    {
+      "code": 1409062010,
+      "name": "Pulautongah"
+    },
+    {
+      "code": 1409062011,
+      "name": "Ujung Tanjung"
+    },
+    {
+      "code": 1409062012,
+      "name": "Pulauingu"
+    },
+    {
+      "code": 1409062013,
+      "name": "Simandolak"
+    },
+    {
+      "code": 1409062014,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 1409062015,
+      "name": "Pulaulancang"
+    },
+    {
+      "code": 1409062016,
+      "name": "Benai Kecil"
+    },
+    {
+      "code": 1409062021,
+      "name": "Koto Benai"
+    }
+  ]
+}

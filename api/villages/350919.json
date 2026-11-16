@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509191001,
+      "name": "Mangli"
+    },
+    {
+      "code": 3509191002,
+      "name": "Sempusari"
+    },
+    {
+      "code": 3509191003,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3509191004,
+      "name": "Kaliwates"
+    },
+    {
+      "code": 3509191005,
+      "name": "Jemberkidul"
+    },
+    {
+      "code": 3509191006,
+      "name": "Kepatihan"
+    },
+    {
+      "code": 3509191007,
+      "name": "Tegalbesar"
+    }
+  ]
+}

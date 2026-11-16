@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3520162001,
+      "name": "Selotinatah"
+    },
+    {
+      "code": 3520162002,
+      "name": "Pendem"
+    },
+    {
+      "code": 3520162003,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3520162004,
+      "name": "Selopanggung"
+    },
+    {
+      "code": 3520162005,
+      "name": "Sumberdukun"
+    },
+    {
+      "code": 3520162006,
+      "name": "Baleasri"
+    },
+    {
+      "code": 3520162007,
+      "name": "Balegondo"
+    },
+    {
+      "code": 3520162008,
+      "name": "Ngariboyo"
+    },
+    {
+      "code": 3520162009,
+      "name": "Mojopurno"
+    },
+    {
+      "code": 3520162010,
+      "name": "Banyudono"
+    },
+    {
+      "code": 3520162011,
+      "name": "Banjarpanjang"
+    },
+    {
+      "code": 3520162012,
+      "name": "Banjarejo"
+    }
+  ]
+}

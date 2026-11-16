@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5201082001,
+      "name": "Bengkel"
+    },
+    {
+      "code": 5201082002,
+      "name": "Merembu"
+    },
+    {
+      "code": 5201082003,
+      "name": "Bagik Polak"
+    },
+    {
+      "code": 5201082004,
+      "name": "Telagawaru"
+    },
+    {
+      "code": 5201082005,
+      "name": "Perampuan"
+    },
+    {
+      "code": 5201082006,
+      "name": "Bajur"
+    },
+    {
+      "code": 5201082007,
+      "name": "Terong Tawah"
+    },
+    {
+      "code": 5201082008,
+      "name": "Kuranji"
+    },
+    {
+      "code": 5201082009,
+      "name": "Karang Bongkot"
+    },
+    {
+      "code": 5201082010,
+      "name": "Labuapi"
+    },
+    {
+      "code": 5201082011,
+      "name": "Bagik Polak Barat"
+    },
+    {
+      "code": 5201082012,
+      "name": "Kuranji Dalang"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1302092001,
+      "name": "Taruang-Taruang"
+    },
+    {
+      "code": 1302092002,
+      "name": "Siaro-Aro"
+    },
+    {
+      "code": 1302092003,
+      "name": "Pianggu"
+    },
+    {
+      "code": 1302092004,
+      "name": "Sungai Durian"
+    },
+    {
+      "code": 1302092005,
+      "name": "Bukik Bais"
+    },
+    {
+      "code": 1302092006,
+      "name": "Sungai Jambur"
+    },
+    {
+      "code": 1302092007,
+      "name": "Guguak Sarai"
+    },
+    {
+      "code": 1302092008,
+      "name": "Koto Laweh"
+    },
+    {
+      "code": 1302092009,
+      "name": "Indudur"
+    }
+  ]
+}

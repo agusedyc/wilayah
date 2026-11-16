@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6203032001,
+      "name": "Anjir Serapat Timur"
+    },
+    {
+      "code": 6203032002,
+      "name": "Anjir Serapat Tengah"
+    },
+    {
+      "code": 6203032003,
+      "name": "Anjir Serapat Barat"
+    },
+    {
+      "code": 6203032004,
+      "name": "Anjir Mambulau Timur"
+    },
+    {
+      "code": 6203032005,
+      "name": "Anjir Mambulau Tengah"
+    },
+    {
+      "code": 6203032006,
+      "name": "Anjir Mambulau Barat"
+    },
+    {
+      "code": 6203032007,
+      "name": "Anjir Serapat Baru"
+    }
+  ]
+}

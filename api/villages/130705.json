@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1307052001,
+      "name": "Taram"
+    },
+    {
+      "code": 1307052002,
+      "name": "Solok Bio Bio"
+    },
+    {
+      "code": 1307052003,
+      "name": "Tarantang"
+    },
+    {
+      "code": 1307052004,
+      "name": "Bukik Limbuku"
+    },
+    {
+      "code": 1307052005,
+      "name": "Harau"
+    },
+    {
+      "code": 1307052006,
+      "name": "Batu Balang"
+    },
+    {
+      "code": 1307052007,
+      "name": "Sarilamak"
+    },
+    {
+      "code": 1307052008,
+      "name": "Gurun"
+    },
+    {
+      "code": 1307052009,
+      "name": "Lubuak Batingkok"
+    },
+    {
+      "code": 1307052010,
+      "name": "Koto Tuo"
+    },
+    {
+      "code": 1307052011,
+      "name": "Pilubang"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3202312001,
+      "name": "Caringin Wetan"
+    },
+    {
+      "code": 3202312002,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3202312003,
+      "name": "Caringin Kulon"
+    },
+    {
+      "code": 3202312004,
+      "name": "Seuseupan"
+    },
+    {
+      "code": 3202312005,
+      "name": "Cijengkol"
+    },
+    {
+      "code": 3202312006,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3202312007,
+      "name": "Talaga"
+    },
+    {
+      "code": 3202312008,
+      "name": "Cikembang"
+    },
+    {
+      "code": 3202312009,
+      "name": "Pasir Datar Indah"
+    }
+  ]
+}

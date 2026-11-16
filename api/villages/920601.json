@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9206011001,
+      "name": "Bintuni Timur"
+    },
+    {
+      "code": 9206011002,
+      "name": "Bintuni Barat"
+    },
+    {
+      "code": 9206012004,
+      "name": "Tuasai"
+    },
+    {
+      "code": 9206012005,
+      "name": "Argosigemerai"
+    },
+    {
+      "code": 9206012009,
+      "name": "Beimes"
+    },
+    {
+      "code": 9206012010,
+      "name": "Iguriji"
+    },
+    {
+      "code": 9206012022,
+      "name": "Masina"
+    },
+    {
+      "code": 9206012026,
+      "name": "Wesiri"
+    }
+  ]
+}

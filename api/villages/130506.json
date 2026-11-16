@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1305062001,
+      "name": "Campago"
+    },
+    {
+      "code": 1305062002,
+      "name": "Sikucua"
+    },
+    {
+      "code": 1305062003,
+      "name": "Campago Barat"
+    },
+    {
+      "code": 1305062004,
+      "name": "Campago Selatan"
+    },
+    {
+      "code": 1305062005,
+      "name": "Sikucua Utara"
+    },
+    {
+      "code": 1305062006,
+      "name": "Sikucua Timur"
+    },
+    {
+      "code": 1305062007,
+      "name": "Sikucua Tengah"
+    },
+    {
+      "code": 1305062008,
+      "name": "Sikucua Barat"
+    }
+  ]
+}

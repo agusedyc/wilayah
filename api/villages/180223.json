@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1802232001,
+      "name": "Sritejo Kencono"
+    },
+    {
+      "code": 1802232002,
+      "name": "Sapto Mulyo"
+    },
+    {
+      "code": 1802232003,
+      "name": "Nambah Rejo"
+    },
+    {
+      "code": 1802232004,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1802232005,
+      "name": "Purworejo"
+    },
+    {
+      "code": 1802232006,
+      "name": "Kota Gajah"
+    },
+    {
+      "code": 1802232007,
+      "name": "Kota Gajah Timur"
+    }
+  ]
+}

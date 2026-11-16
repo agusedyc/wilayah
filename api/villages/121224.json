@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1212242001,
+      "name": "Siantar Utara"
+    },
+    {
+      "code": 1212242002,
+      "name": "Lumban Sitorus"
+    },
+    {
+      "code": 1212242003,
+      "name": "Banjar Ganjang"
+    },
+    {
+      "code": 1212242004,
+      "name": "Tangga Batu I"
+    },
+    {
+      "code": 1212242005,
+      "name": "Tangga Batu II"
+    },
+    {
+      "code": 1212242006,
+      "name": "Pangombusan"
+    },
+    {
+      "code": 1212242007,
+      "name": "Jonggi Manulus"
+    },
+    {
+      "code": 1212242008,
+      "name": "Lumban Huala"
+    },
+    {
+      "code": 1212242009,
+      "name": "Dolok Nauli"
+    },
+    {
+      "code": 1212242010,
+      "name": "Lumban Sirait Gu"
+    },
+    {
+      "code": 1212242011,
+      "name": "Lumban Manurung"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7205022009,
+      "name": "Tuinan"
+    },
+    {
+      "code": 7205022010,
+      "name": "Lakea II"
+    },
+    {
+      "code": 7205022011,
+      "name": "Lakea I"
+    },
+    {
+      "code": 7205022012,
+      "name": "Lakuan Buol"
+    },
+    {
+      "code": 7205022017,
+      "name": "Bukaan"
+    },
+    {
+      "code": 7205022018,
+      "name": "Ngune"
+    },
+    {
+      "code": 7205022019,
+      "name": "Ilambe"
+    }
+  ]
+}

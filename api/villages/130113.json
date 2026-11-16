@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1301132001,
+      "name": "Inderapura Utara"
+    },
+    {
+      "code": 1301132002,
+      "name": "Muara Inderapura"
+    },
+    {
+      "code": 1301132003,
+      "name": "Damar Lapan Batang Inderapura"
+    },
+    {
+      "code": 1301132004,
+      "name": "Lalang Panjang Inderapura"
+    },
+    {
+      "code": 1301132005,
+      "name": "Palokan Inderapura"
+    },
+    {
+      "code": 1301132006,
+      "name": "Lubuk Betung Inderapura"
+    },
+    {
+      "code": 1301132007,
+      "name": "Tluk Kualo Inderapura"
+    },
+    {
+      "code": 1301132008,
+      "name": "Tanah Bakali Inderapura"
+    },
+    {
+      "code": 1301132009,
+      "name": "Inderapura Timur"
+    },
+    {
+      "code": 1301132010,
+      "name": "Pulau Rajo Inderapura"
+    }
+  ]
+}

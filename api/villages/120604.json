@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 1206042001,
+      "name": "Kutakepar"
+    },
+    {
+      "code": 1206042002,
+      "name": "Ajijulu"
+    },
+    {
+      "code": 1206042004,
+      "name": "Singa"
+    },
+    {
+      "code": 1206042007,
+      "name": "Ajijahe"
+    },
+    {
+      "code": 1206042008,
+      "name": "Bunuraya"
+    },
+    {
+      "code": 1206042010,
+      "name": "Kubusimbelang"
+    },
+    {
+      "code": 1206042011,
+      "name": "Tigapanah"
+    },
+    {
+      "code": 1206042012,
+      "name": "Suka"
+    },
+    {
+      "code": 1206042014,
+      "name": "Kacinambun"
+    },
+    {
+      "code": 1206042015,
+      "name": "Kutajulu"
+    },
+    {
+      "code": 1206042016,
+      "name": "Bertah"
+    },
+    {
+      "code": 1206042017,
+      "name": "Manukmulia"
+    },
+    {
+      "code": 1206042018,
+      "name": "Lauriman"
+    },
+    {
+      "code": 1206042019,
+      "name": "Sukadame"
+    },
+    {
+      "code": 1206042020,
+      "name": "Mulawari"
+    },
+    {
+      "code": 1206042023,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1206042024,
+      "name": "Kutambelin"
+    },
+    {
+      "code": 1206042025,
+      "name": "Kutabale"
+    },
+    {
+      "code": 1206042026,
+      "name": "Leparsamura"
+    },
+    {
+      "code": 1206042027,
+      "name": "Seberaya"
+    },
+    {
+      "code": 1206042028,
+      "name": "Ajimbelang"
+    },
+    {
+      "code": 1206042029,
+      "name": "Ajibuhara"
+    },
+    {
+      "code": 1206042030,
+      "name": "Lambar"
+    },
+    {
+      "code": 1206042031,
+      "name": "Salit"
+    },
+    {
+      "code": 1206042032,
+      "name": "Suka Mbayak"
+    },
+    {
+      "code": 1206042033,
+      "name": "Suka Sipilihen"
+    },
+    {
+      "code": 1206042034,
+      "name": "Sukameriah"
+    },
+    {
+      "code": 1206042035,
+      "name": "Bekerah"
+    },
+    {
+      "code": 1206042036,
+      "name": "Simacem"
+    }
+  ]
+}

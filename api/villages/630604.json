@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6306042001,
+      "name": "Bamban Utara"
+    },
+    {
+      "code": 6306042002,
+      "name": "Bamban"
+    },
+    {
+      "code": 6306042003,
+      "name": "Bamban Selatan"
+    },
+    {
+      "code": 6306042004,
+      "name": "Kayu Abang"
+    },
+    {
+      "code": 6306042005,
+      "name": "Angkinang"
+    },
+    {
+      "code": 6306042006,
+      "name": "Telaga Sili-Sili"
+    },
+    {
+      "code": 6306042007,
+      "name": "Angkinang Selatan"
+    },
+    {
+      "code": 6306042008,
+      "name": "Tawia"
+    },
+    {
+      "code": 6306042009,
+      "name": "Taniran Kubah"
+    },
+    {
+      "code": 6306042010,
+      "name": "Taniran Selatan"
+    },
+    {
+      "code": 6306042011,
+      "name": "Bakarung"
+    }
+  ]
+}

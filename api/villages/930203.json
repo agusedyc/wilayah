@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9302032001,
+      "name": "Woropko"
+    },
+    {
+      "code": 9302032002,
+      "name": "Winiktit"
+    },
+    {
+      "code": 9302032003,
+      "name": "Kanggewot"
+    },
+    {
+      "code": 9302032005,
+      "name": "Inggembit"
+    },
+    {
+      "code": 9302032006,
+      "name": "Wametkapa"
+    },
+    {
+      "code": 9302032007,
+      "name": "Wombon"
+    },
+    {
+      "code": 9302032008,
+      "name": "Upkim"
+    },
+    {
+      "code": 9302032009,
+      "name": "Ikcan"
+    },
+    {
+      "code": 9302032010,
+      "name": "Upyetetko"
+    }
+  ]
+}

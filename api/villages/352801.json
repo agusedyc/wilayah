@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3528012001,
+      "name": "Dabuan"
+    },
+    {
+      "code": 3528012002,
+      "name": "Terrak"
+    },
+    {
+      "code": 3528012003,
+      "name": "Mangar"
+    },
+    {
+      "code": 3528012004,
+      "name": "Bandaran"
+    },
+    {
+      "code": 3528012005,
+      "name": "Kramat"
+    },
+    {
+      "code": 3528012006,
+      "name": "Ambat"
+    },
+    {
+      "code": 3528012007,
+      "name": "Branta Pesisir"
+    },
+    {
+      "code": 3528012008,
+      "name": "Tlanakan"
+    },
+    {
+      "code": 3528012009,
+      "name": "Branta Tinggi"
+    },
+    {
+      "code": 3528012010,
+      "name": "Tlesah"
+    },
+    {
+      "code": 3528012011,
+      "name": "Larangan Tokol"
+    },
+    {
+      "code": 3528012012,
+      "name": "Ceguk"
+    },
+    {
+      "code": 3528012013,
+      "name": "Panglegur"
+    },
+    {
+      "code": 3528012014,
+      "name": "Bukek"
+    },
+    {
+      "code": 3528012015,
+      "name": "Gugul"
+    },
+    {
+      "code": 3528012016,
+      "name": "Larangan Slampar"
+    },
+    {
+      "code": 3528012017,
+      "name": "Taro'an"
+    }
+  ]
+}

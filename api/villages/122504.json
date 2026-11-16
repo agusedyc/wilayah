@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1225042001,
+      "name": "Hiliwaloo II"
+    },
+    {
+      "code": 1225042002,
+      "name": "Gunungbaru"
+    },
+    {
+      "code": 1225042003,
+      "name": "Hilisoromi"
+    },
+    {
+      "code": 1225042004,
+      "name": "Siduahili"
+    },
+    {
+      "code": 1225042005,
+      "name": "Sitolubanua Fadoro"
+    },
+    {
+      "code": 1225042006,
+      "name": "Halifadolo"
+    },
+    {
+      "code": 1225042007,
+      "name": "Lasara Bahili"
+    },
+    {
+      "code": 1225042008,
+      "name": "Hiliwaele"
+    },
+    {
+      "code": 1225042009,
+      "name": "Sitoluewali"
+    },
+    {
+      "code": 1225042010,
+      "name": "Onozalukhu You"
+    }
+  ]
+}

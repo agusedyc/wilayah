@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "message": "Showing 69 villages",
+  "data": [
+    {
+      "code": 1111052003,
+      "name": "Matang Glumpang Dua Mns. Timu (X)"
+    },
+    {
+      "code": 1111052004,
+      "name": "Keude Matang Glumpang Dua"
+    },
+    {
+      "code": 1111052005,
+      "name": "Matang Glumpang Dua Meunasah Dayah"
+    },
+    {
+      "code": 1111052006,
+      "name": "Pante Gajah"
+    },
+    {
+      "code": 1111052007,
+      "name": "Blang Asan"
+    },
+    {
+      "code": 1111052008,
+      "name": "Paya Cut"
+    },
+    {
+      "code": 1111052009,
+      "name": "Seuneubok Aceh"
+    },
+    {
+      "code": 1111052010,
+      "name": "Panton Geulima"
+    },
+    {
+      "code": 1111052011,
+      "name": "Neuheun"
+    },
+    {
+      "code": 1111052012,
+      "name": "Matang Sagoe"
+    },
+    {
+      "code": 1111052013,
+      "name": "Matang Mesjid"
+    },
+    {
+      "code": 1111052014,
+      "name": "Matang Cot Paseh"
+    },
+    {
+      "code": 1111052015,
+      "name": "Cot Panjoe"
+    },
+    {
+      "code": 1111052016,
+      "name": "Paya Lipah"
+    },
+    {
+      "code": 1111052017,
+      "name": "Paya Meuneng"
+    },
+    {
+      "code": 1111052018,
+      "name": "Keude Tanjong"
+    },
+    {
+      "code": 1111052019,
+      "name": "Tanjong Paya"
+    },
+    {
+      "code": 1111052020,
+      "name": "Tanjong Nie"
+    },
+    {
+      "code": 1111052021,
+      "name": "Tanjong Mesjid"
+    },
+    {
+      "code": 1111052022,
+      "name": "Pante Cut"
+    },
+    {
+      "code": 1111052023,
+      "name": "Blang Cut"
+    },
+    {
+      "code": 1111052024,
+      "name": "Pulo Pisang"
+    },
+    {
+      "code": 1111052025,
+      "name": "Pante Piyeu"
+    },
+    {
+      "code": 1111052026,
+      "name": "Meunasah Nibong"
+    },
+    {
+      "code": 1111052027,
+      "name": "Krueng Baro Babah Krueng"
+    },
+    {
+      "code": 1111052028,
+      "name": "Krueng Baro Mesjid"
+    },
+    {
+      "code": 1111052029,
+      "name": "Bayu"
+    },
+    {
+      "code": 1111052030,
+      "name": "Gampong Putoh"
+    },
+    {
+      "code": 1111052031,
+      "name": "Meunasah Meucap"
+    },
+    {
+      "code": 1111052032,
+      "name": "Pante Ara"
+    },
+    {
+      "code": 1111052033,
+      "name": "Gampong Raya Dagang"
+    },
+    {
+      "code": 1111052034,
+      "name": "Gampong Raya Tambo"
+    },
+    {
+      "code": 1111052035,
+      "name": "Kapa"
+    },
+    {
+      "code": 1111052036,
+      "name": "Blang Panjoe"
+    },
+    {
+      "code": 1111052037,
+      "name": "Pantee Lhong"
+    },
+    {
+      "code": 1111052038,
+      "name": "Asan Bideun"
+    },
+    {
+      "code": 1111052040,
+      "name": "Cot Rabo Baroh"
+    },
+    {
+      "code": 1111052041,
+      "name": "Cot Rabo Tunong"
+    },
+    {
+      "code": 1111052042,
+      "name": "Cot Nga"
+    },
+    {
+      "code": 1111052043,
+      "name": "Pulo Naleung"
+    },
+    {
+      "code": 1111052044,
+      "name": "Mata Mamplam"
+    },
+    {
+      "code": 1111052045,
+      "name": "Alue Glumpang"
+    },
+    {
+      "code": 1111052046,
+      "name": "Karieng"
+    },
+    {
+      "code": 1111052047,
+      "name": "Krueng Dheu"
+    },
+    {
+      "code": 1111052048,
+      "name": "Cot Ijue"
+    },
+    {
+      "code": 1111052049,
+      "name": "Cot Buket"
+    },
+    {
+      "code": 1111052050,
+      "name": "Nicah"
+    },
+    {
+      "code": 1111052051,
+      "name": "Cot Keuranji"
+    },
+    {
+      "code": 1111052052,
+      "name": "Paloh"
+    },
+    {
+      "code": 1111052054,
+      "name": "Cot Bada Tunong"
+    },
+    {
+      "code": 1111052055,
+      "name": "Cot Bada Baroh"
+    },
+    {
+      "code": 1111052056,
+      "name": "Cot Girek"
+    },
+    {
+      "code": 1111052057,
+      "name": "Cot Keumude"
+    },
+    {
+      "code": 1111052058,
+      "name": "Sagoe"
+    },
+    {
+      "code": 1111052059,
+      "name": "Pulo Ue Baroe"
+    },
+    {
+      "code": 1111052060,
+      "name": "Cot Bada Barat"
+    },
+    {
+      "code": 1111052061,
+      "name": "Tanoh Mirah"
+    },
+    {
+      "code": 1111052062,
+      "name": "Seuneubok Rawa"
+    },
+    {
+      "code": 1111052063,
+      "name": "Paya Aboe"
+    },
+    {
+      "code": 1111052064,
+      "name": "Blang Rambong"
+    },
+    {
+      "code": 1111052065,
+      "name": "Blang Geulanggang"
+    },
+    {
+      "code": 1111052066,
+      "name": "Paya Reuhat"
+    },
+    {
+      "code": 1111052067,
+      "name": "Uteun Bunta"
+    },
+    {
+      "code": 1111052068,
+      "name": "Alue Udeng"
+    },
+    {
+      "code": 1111052069,
+      "name": "Alue Peuno"
+    },
+    {
+      "code": 1111052105,
+      "name": "Cot Puuk"
+    },
+    {
+      "code": 1111052106,
+      "name": "Pante Pisang"
+    },
+    {
+      "code": 1111052107,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1111052108,
+      "name": "Blang Dalam"
+    }
+  ]
+}

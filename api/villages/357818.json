@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3578181001,
+      "name": "Bangkingan"
+    },
+    {
+      "code": 3578181002,
+      "name": "Jeruk"
+    },
+    {
+      "code": 3578181003,
+      "name": "Lakarsantri"
+    },
+    {
+      "code": 3578181004,
+      "name": "Lidah kulon"
+    },
+    {
+      "code": 3578181005,
+      "name": "Lidah Wetan"
+    },
+    {
+      "code": 3578181006,
+      "name": "Sumurwelut"
+    }
+  ]
+}

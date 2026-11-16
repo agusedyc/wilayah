@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1706052004,
+      "name": "Air Buluh"
+    },
+    {
+      "code": 1706052005,
+      "name": "Pulau Baru"
+    },
+    {
+      "code": 1706052006,
+      "name": "Pasar Ipuh"
+    },
+    {
+      "code": 1706052007,
+      "name": "Medan Jaya"
+    },
+    {
+      "code": 1706052008,
+      "name": "Sibak"
+    },
+    {
+      "code": 1706052009,
+      "name": "Semundam"
+    },
+    {
+      "code": 1706052014,
+      "name": "Retak Ilir"
+    },
+    {
+      "code": 1706052015,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1706052017,
+      "name": "Tanjung Jaya"
+    },
+    {
+      "code": 1706052023,
+      "name": "Manunggal Jaya"
+    },
+    {
+      "code": 1706052028,
+      "name": "Pulai Payung"
+    },
+    {
+      "code": 1706052029,
+      "name": "Tanjung Medan"
+    },
+    {
+      "code": 1706052030,
+      "name": "Tirta Mulya"
+    },
+    {
+      "code": 1706052033,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1706052034,
+      "name": "Pulau Makmur"
+    },
+    {
+      "code": 1706052035,
+      "name": "Mundam Marap"
+    }
+  ]
+}

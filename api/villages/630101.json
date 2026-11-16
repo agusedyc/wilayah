@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6301012001,
+      "name": "Benua Lawas"
+    },
+    {
+      "code": 6301012002,
+      "name": "Tabanio"
+    },
+    {
+      "code": 6301012003,
+      "name": "Kuala Tambangan"
+    },
+    {
+      "code": 6301012004,
+      "name": "Takisung"
+    },
+    {
+      "code": 6301012005,
+      "name": "Gunung Makmur"
+    },
+    {
+      "code": 6301012006,
+      "name": "Benua Tengah"
+    },
+    {
+      "code": 6301012007,
+      "name": "Ranggang"
+    },
+    {
+      "code": 6301012008,
+      "name": "Pagatan Besar"
+    },
+    {
+      "code": 6301012009,
+      "name": "Batilai"
+    },
+    {
+      "code": 6301012010,
+      "name": "Ranggang Dalam"
+    },
+    {
+      "code": 6301012011,
+      "name": "Telaga langsat"
+    },
+    {
+      "code": 6301012012,
+      "name": "Sumber Makmur"
+    }
+  ]
+}

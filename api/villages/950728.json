@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507282001,
+      "name": "Ambena"
+    },
+    {
+      "code": 9507282002,
+      "name": "Kolayak"
+    },
+    {
+      "code": 9507282003,
+      "name": "Wanuga"
+    },
+    {
+      "code": 9507282004,
+      "name": "Labora"
+    },
+    {
+      "code": 9507282005,
+      "name": "Kondena"
+    },
+    {
+      "code": 9507282006,
+      "name": "Kolunggu"
+    },
+    {
+      "code": 9507282007,
+      "name": "Yagarikme"
+    },
+    {
+      "code": 9507282008,
+      "name": "Timotius"
+    },
+    {
+      "code": 9507282009,
+      "name": "Gunumbur"
+    },
+    {
+      "code": 9507282010,
+      "name": "Lalugume"
+    }
+  ]
+}

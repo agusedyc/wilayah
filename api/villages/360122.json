@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3601222001,
+      "name": "Kaduengang"
+    },
+    {
+      "code": 3601222002,
+      "name": "Pasirpeuteuy"
+    },
+    {
+      "code": 3601222003,
+      "name": "Kurungdahu"
+    },
+    {
+      "code": 3601222004,
+      "name": "Kaduela"
+    },
+    {
+      "code": 3601222005,
+      "name": "Koranji"
+    },
+    {
+      "code": 3601222006,
+      "name": "Tapos"
+    },
+    {
+      "code": 3601222007,
+      "name": "Cadasari"
+    },
+    {
+      "code": 3601222008,
+      "name": "Ciinjuk"
+    },
+    {
+      "code": 3601222009,
+      "name": "Kaungcaang"
+    },
+    {
+      "code": 3601222010,
+      "name": "Cikentrung"
+    },
+    {
+      "code": 3601222013,
+      "name": "Tanagara"
+    }
+  ]
+}

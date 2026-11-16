@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7415021003,
+      "name": "Katilombu"
+    },
+    {
+      "code": 7415021004,
+      "name": "Jaya Bakti"
+    },
+    {
+      "code": 7415021005,
+      "name": "Todombulu"
+    },
+    {
+      "code": 7415022001,
+      "name": "Bangun"
+    },
+    {
+      "code": 7415022002,
+      "name": "Wawoangi"
+    },
+    {
+      "code": 7415022006,
+      "name": "Gunung Sejuk"
+    },
+    {
+      "code": 7415022007,
+      "name": "Sandang Pangan"
+    },
+    {
+      "code": 7415022008,
+      "name": "Hendea"
+    },
+    {
+      "code": 7415022009,
+      "name": "Tira"
+    },
+    {
+      "code": 7415022010,
+      "name": "Bahari"
+    },
+    {
+      "code": 7415022011,
+      "name": "Gerak Makmur"
+    },
+    {
+      "code": 7415022012,
+      "name": "Lipu Mangau"
+    },
+    {
+      "code": 7415022013,
+      "name": "Bahari Dua"
+    },
+    {
+      "code": 7415022014,
+      "name": "Bahari Tiga"
+    },
+    {
+      "code": 7415022015,
+      "name": "Windu Makmur"
+    },
+    {
+      "code": 7415022016,
+      "name": "Watiginanda"
+    }
+  ]
+}

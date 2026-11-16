@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3374021001,
+      "name": "Bandarharjo"
+    },
+    {
+      "code": 3374021002,
+      "name": "Bulu Lor"
+    },
+    {
+      "code": 3374021003,
+      "name": "Plombokan"
+    },
+    {
+      "code": 3374021004,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3374021005,
+      "name": "Kuningan"
+    },
+    {
+      "code": 3374021006,
+      "name": "Panggung Lor"
+    },
+    {
+      "code": 3374021007,
+      "name": "Panggung Kidul"
+    },
+    {
+      "code": 3374021008,
+      "name": "Tanjung Mas"
+    },
+    {
+      "code": 3374021009,
+      "name": "Dadapsari"
+    }
+  ]
+}

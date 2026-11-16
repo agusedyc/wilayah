@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3603011001,
+      "name": "Balaraja"
+    },
+    {
+      "code": 3603012003,
+      "name": "Cangkudu"
+    },
+    {
+      "code": 3603012005,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3603012009,
+      "name": "Tobat"
+    },
+    {
+      "code": 3603012010,
+      "name": "Sentul"
+    },
+    {
+      "code": 3603012011,
+      "name": "Gembong"
+    },
+    {
+      "code": 3603012013,
+      "name": "Sukamurni"
+    },
+    {
+      "code": 3603012014,
+      "name": "Saga"
+    },
+    {
+      "code": 3603012016,
+      "name": "Sentul Jaya"
+    }
+  ]
+}

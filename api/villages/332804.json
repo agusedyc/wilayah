@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3328042001,
+      "name": "Cenggini"
+    },
+    {
+      "code": 3328042002,
+      "name": "Bukateja"
+    },
+    {
+      "code": 3328042003,
+      "name": "Kalibakung"
+    },
+    {
+      "code": 3328042004,
+      "name": "Karangjambu"
+    },
+    {
+      "code": 3328042005,
+      "name": "Cilongok"
+    },
+    {
+      "code": 3328042006,
+      "name": "Tembongwah"
+    },
+    {
+      "code": 3328042007,
+      "name": "Danareja"
+    },
+    {
+      "code": 3328042008,
+      "name": "Sangkanjaya"
+    },
+    {
+      "code": 3328042009,
+      "name": "Danawarih"
+    },
+    {
+      "code": 3328042010,
+      "name": "Pagerwangi"
+    },
+    {
+      "code": 3328042011,
+      "name": "Harjowinangun"
+    },
+    {
+      "code": 3328042012,
+      "name": "Batuagung"
+    },
+    {
+      "code": 3328042013,
+      "name": "Kaliwungu"
+    },
+    {
+      "code": 3328042014,
+      "name": "Banjaranyar"
+    },
+    {
+      "code": 3328042015,
+      "name": "Sesepan"
+    },
+    {
+      "code": 3328042016,
+      "name": "Wringinjenggot"
+    },
+    {
+      "code": 3328042017,
+      "name": "Pamiritan"
+    },
+    {
+      "code": 3328042018,
+      "name": "Balapulang Wetan"
+    },
+    {
+      "code": 3328042019,
+      "name": "Balapulang Kulon"
+    },
+    {
+      "code": 3328042020,
+      "name": "Cibunar"
+    }
+  ]
+}

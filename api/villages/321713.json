@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3217132001,
+      "name": "Cibedug"
+    },
+    {
+      "code": 3217132002,
+      "name": "Bojong"
+    },
+    {
+      "code": 3217132003,
+      "name": "Bojongsalam"
+    },
+    {
+      "code": 3217132004,
+      "name": "Cibitung"
+    },
+    {
+      "code": 3217132005,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3217132006,
+      "name": "Cinengah"
+    },
+    {
+      "code": 3217132007,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3217132008,
+      "name": "Sukaresmi"
+    }
+  ]
+}

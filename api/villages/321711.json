@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3217112001,
+      "name": "Cililin"
+    },
+    {
+      "code": 3217112002,
+      "name": "Budiharja"
+    },
+    {
+      "code": 3217112003,
+      "name": "Batulayang"
+    },
+    {
+      "code": 3217112004,
+      "name": "Bongas"
+    },
+    {
+      "code": 3217112005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3217112006,
+      "name": "Karangtanjung"
+    },
+    {
+      "code": 3217112007,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3217112008,
+      "name": "Kidangpananjung"
+    },
+    {
+      "code": 3217112009,
+      "name": "Mukapayung"
+    },
+    {
+      "code": 3217112010,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3217112011,
+      "name": "Rancapanggung"
+    }
+  ]
+}

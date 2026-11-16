@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5104031003,
+      "name": "Samplangan"
+    },
+    {
+      "code": 5104031005,
+      "name": "Abianbase"
+    },
+    {
+      "code": 5104031006,
+      "name": "Gianyar"
+    },
+    {
+      "code": 5104031007,
+      "name": "Bitera"
+    },
+    {
+      "code": 5104031008,
+      "name": "Beng"
+    },
+    {
+      "code": 5104032001,
+      "name": "Tulikup"
+    },
+    {
+      "code": 5104032002,
+      "name": "Sidan"
+    },
+    {
+      "code": 5104032004,
+      "name": "Lebih"
+    },
+    {
+      "code": 5104032009,
+      "name": "Bakbakan"
+    },
+    {
+      "code": 5104032010,
+      "name": "Siangan"
+    },
+    {
+      "code": 5104032011,
+      "name": "Suwat"
+    },
+    {
+      "code": 5104032012,
+      "name": "Petak"
+    },
+    {
+      "code": 5104032013,
+      "name": "Serongga"
+    },
+    {
+      "code": 5104032014,
+      "name": "Petak Kaja"
+    },
+    {
+      "code": 5104032015,
+      "name": "Temesi"
+    },
+    {
+      "code": 5104032016,
+      "name": "Sumita"
+    },
+    {
+      "code": 5104032017,
+      "name": "Tegal Tugu"
+    }
+  ]
+}

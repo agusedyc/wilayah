@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471111001,
+      "name": "Tampan"
+    },
+    {
+      "code": 1471111002,
+      "name": "Labuh Baru Timur"
+    },
+    {
+      "code": 1471111003,
+      "name": "Labuh Baru Barat"
+    },
+    {
+      "code": 1471111004,
+      "name": "Air Hitam"
+    },
+    {
+      "code": 1471111005,
+      "name": "Bandarraya"
+    },
+    {
+      "code": 1471111007,
+      "name": "Tirtasiak"
+    }
+  ]
+}

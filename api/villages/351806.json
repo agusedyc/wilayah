@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3518062001,
+      "name": "Gondanglegi"
+    },
+    {
+      "code": 3518062002,
+      "name": "Singkalanyar"
+    },
+    {
+      "code": 3518062003,
+      "name": "Mojoagung"
+    },
+    {
+      "code": 3518062004,
+      "name": "Bandung"
+    },
+    {
+      "code": 3518062005,
+      "name": "Nglawak"
+    },
+    {
+      "code": 3518062006,
+      "name": "Baleturi"
+    },
+    {
+      "code": 3518062007,
+      "name": "Tegaron"
+    },
+    {
+      "code": 3518062008,
+      "name": "Tanjungtani"
+    },
+    {
+      "code": 3518062009,
+      "name": "Sanggrahan"
+    },
+    {
+      "code": 3518062010,
+      "name": "Rowoharjo"
+    },
+    {
+      "code": 3518062011,
+      "name": "Sugihwaras"
+    },
+    {
+      "code": 3518062012,
+      "name": "Watudandang"
+    },
+    {
+      "code": 3518062013,
+      "name": "Sono Ageng"
+    },
+    {
+      "code": 3518062014,
+      "name": "Kurungrejo"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3209282001,
+      "name": "Kedungdalem"
+    },
+    {
+      "code": 3209282002,
+      "name": "Panunggul"
+    },
+    {
+      "code": 3209282003,
+      "name": "Gegesik Wetan"
+    },
+    {
+      "code": 3209282004,
+      "name": "Gegesik Kidul"
+    },
+    {
+      "code": 3209282005,
+      "name": "Gegesik Lor"
+    },
+    {
+      "code": 3209282006,
+      "name": "Gegesik Kulon"
+    },
+    {
+      "code": 3209282007,
+      "name": "Slendra"
+    },
+    {
+      "code": 3209282008,
+      "name": "Jagapura Kidul"
+    },
+    {
+      "code": 3209282009,
+      "name": "Jagapura Wetan"
+    },
+    {
+      "code": 3209282010,
+      "name": "Jagapura Kulon"
+    },
+    {
+      "code": 3209282011,
+      "name": "Jagapura Lor"
+    },
+    {
+      "code": 3209282012,
+      "name": "Sibubut"
+    },
+    {
+      "code": 3209282013,
+      "name": "Bayalangu Lor"
+    },
+    {
+      "code": 3209282014,
+      "name": "Bayalangu Kidul"
+    }
+  ]
+}

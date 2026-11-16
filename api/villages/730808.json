@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7308081001,
+      "name": "Maroanging"
+    },
+    {
+      "code": 7308082002,
+      "name": "Pattiro Bajo"
+    },
+    {
+      "code": 7308082003,
+      "name": "Massenreng Pulu"
+    },
+    {
+      "code": 7308082004,
+      "name": "Tunreng Tellue"
+    },
+    {
+      "code": 7308082005,
+      "name": "Polewali"
+    },
+    {
+      "code": 7308082006,
+      "name": "Tadang Palie"
+    },
+    {
+      "code": 7308082007,
+      "name": "Cinnong"
+    },
+    {
+      "code": 7308082008,
+      "name": "Mallusetasi"
+    },
+    {
+      "code": 7308082009,
+      "name": "Pakkasalo"
+    },
+    {
+      "code": 7308082010,
+      "name": "Pattiro Sompe"
+    },
+    {
+      "code": 7308082011,
+      "name": "Ajang Pulu"
+    },
+    {
+      "code": 7308082012,
+      "name": "Sumpang Minangae"
+    },
+    {
+      "code": 7308082013,
+      "name": "Mabbiring"
+    },
+    {
+      "code": 7308082014,
+      "name": "Pasaka"
+    },
+    {
+      "code": 7308082015,
+      "name": "Kalibong"
+    },
+    {
+      "code": 7308082016,
+      "name": "Pattiro Riolo"
+    },
+    {
+      "code": 7308082017,
+      "name": "Letta Tanah"
+    },
+    {
+      "code": 7308082018,
+      "name": "Manajeng"
+    },
+    {
+      "code": 7308082019,
+      "name": "Bulie"
+    },
+    {
+      "code": 7308082020,
+      "name": "Balieng Toa"
+    }
+  ]
+}

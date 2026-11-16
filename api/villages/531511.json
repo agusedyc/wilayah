@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5315112001,
+      "name": "Pacar"
+    },
+    {
+      "code": 5315112002,
+      "name": "Manong"
+    },
+    {
+      "code": 5315112003,
+      "name": "Romang"
+    },
+    {
+      "code": 5315112004,
+      "name": "Compang"
+    },
+    {
+      "code": 5315112005,
+      "name": "Waka"
+    },
+    {
+      "code": 5315112006,
+      "name": "Pong Kolong"
+    },
+    {
+      "code": 5315112007,
+      "name": "Loha"
+    },
+    {
+      "code": 5315112008,
+      "name": "Benteng Ndope"
+    },
+    {
+      "code": 5315112009,
+      "name": "Golo Lajang"
+    },
+    {
+      "code": 5315112010,
+      "name": "Golo Lajang Barat"
+    },
+    {
+      "code": 5315112011,
+      "name": "Kombo"
+    },
+    {
+      "code": 5315112012,
+      "name": "Kombo Selatan"
+    },
+    {
+      "code": 5315112013,
+      "name": "Kombo Tengah"
+    }
+  ]
+}

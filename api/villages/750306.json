@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7503062001,
+      "name": "Bongoime"
+    },
+    {
+      "code": 7503062002,
+      "name": "Bongopini"
+    },
+    {
+      "code": 7503062003,
+      "name": "Toto Utara"
+    },
+    {
+      "code": 7503062004,
+      "name": "Moutong"
+    },
+    {
+      "code": 7503062005,
+      "name": "Tunggulo"
+    },
+    {
+      "code": 7503062006,
+      "name": "Lonuo"
+    },
+    {
+      "code": 7503062007,
+      "name": "Tamboo"
+    },
+    {
+      "code": 7503062008,
+      "name": "Iloheluma"
+    },
+    {
+      "code": 7503062009,
+      "name": "Motilango"
+    },
+    {
+      "code": 7503062010,
+      "name": "Butu"
+    },
+    {
+      "code": 7503062011,
+      "name": "Permata"
+    },
+    {
+      "code": 7503062012,
+      "name": "Tunggulo Selatan"
+    },
+    {
+      "code": 7503062013,
+      "name": "Bongohulawa"
+    },
+    {
+      "code": 7503062014,
+      "name": "Berlian"
+    }
+  ]
+}

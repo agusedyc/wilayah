@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3204372001,
+      "name": "Soreang"
+    },
+    {
+      "code": 3204372002,
+      "name": "Sadu"
+    },
+    {
+      "code": 3204372004,
+      "name": "Panyirapan"
+    },
+    {
+      "code": 3204372010,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3204372011,
+      "name": "Pamekaran"
+    },
+    {
+      "code": 3204372017,
+      "name": "Karamatmulya"
+    },
+    {
+      "code": 3204372018,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3204372019,
+      "name": "Cingcin"
+    },
+    {
+      "code": 3204372020,
+      "name": "Parungserab"
+    },
+    {
+      "code": 3204372021,
+      "name": "Sekarwangi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5303242001,
+      "name": "Naku"
+    },
+    {
+      "code": 5303242002,
+      "name": "Birunatun"
+    },
+    {
+      "code": 5303242003,
+      "name": "Makun"
+    },
+    {
+      "code": 5303242004,
+      "name": "Manumean"
+    },
+    {
+      "code": 5303242005,
+      "name": "Kuluan"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1212062001,
+      "name": "Natumingka"
+    },
+    {
+      "code": 1212062002,
+      "name": "Pangururan"
+    },
+    {
+      "code": 1212062003,
+      "name": "Pardomuan Nauli"
+    },
+    {
+      "code": 1212062004,
+      "name": "Lintong"
+    },
+    {
+      "code": 1212062005,
+      "name": "Rianiate"
+    },
+    {
+      "code": 1212062006,
+      "name": "Aek Unsim"
+    },
+    {
+      "code": 1212062007,
+      "name": "Purba Tua"
+    },
+    {
+      "code": 1212062008,
+      "name": "Janji Maria"
+    },
+    {
+      "code": 1212062009,
+      "name": "Pangururan II"
+    },
+    {
+      "code": 1212062010,
+      "name": "Pangururan III"
+    },
+    {
+      "code": 1212062011,
+      "name": "Hutagurgur"
+    },
+    {
+      "code": 1212062012,
+      "name": "Simare"
+    },
+    {
+      "code": 1212062013,
+      "name": "Lumban Sewa"
+    },
+    {
+      "code": 1212062014,
+      "name": "Riganjang"
+    },
+    {
+      "code": 1212062015,
+      "name": "Pasar Borbor"
+    }
+  ]
+}

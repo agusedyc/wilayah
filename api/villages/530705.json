@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5307051006,
+      "name": "Madawat"
+    },
+    {
+      "code": 5307051007,
+      "name": "Nangalimang"
+    },
+    {
+      "code": 5307051008,
+      "name": "Kabor"
+    },
+    {
+      "code": 5307051009,
+      "name": "Kota Uneng"
+    },
+    {
+      "code": 5307052014,
+      "name": "Pemana"
+    },
+    {
+      "code": 5307052015,
+      "name": "Samparong"
+    },
+    {
+      "code": 5307052016,
+      "name": "Gunung Sari"
+    }
+  ]
+}

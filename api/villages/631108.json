@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6311082001,
+      "name": "Dayak Pitap"
+    },
+    {
+      "code": 6311082002,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 6311082003,
+      "name": "Sungsum"
+    },
+    {
+      "code": 6311082004,
+      "name": "Ju'uh"
+    },
+    {
+      "code": 6311082005,
+      "name": "Mayanau"
+    },
+    {
+      "code": 6311082006,
+      "name": "Simpang Bumbuan"
+    },
+    {
+      "code": 6311082007,
+      "name": "Auh"
+    },
+    {
+      "code": 6311082008,
+      "name": "Gunung Batu"
+    },
+    {
+      "code": 6311082009,
+      "name": "Langkap"
+    },
+    {
+      "code": 6311082010,
+      "name": "Simpang Nadong"
+    },
+    {
+      "code": 6311082011,
+      "name": "Ajung"
+    },
+    {
+      "code": 6311082012,
+      "name": "Kambiyain"
+    }
+  ]
+}

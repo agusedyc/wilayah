@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1205212001,
+      "name": "Serapit"
+    },
+    {
+      "code": 1205212002,
+      "name": "Gunung Tinggi"
+    },
+    {
+      "code": 1205212003,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1205212004,
+      "name": "Suka Pulung"
+    },
+    {
+      "code": 1205212005,
+      "name": "Aman Damai"
+    },
+    {
+      "code": 1205212006,
+      "name": "Tanjung Kariahan"
+    },
+    {
+      "code": 1205212007,
+      "name": "Sebertung"
+    },
+    {
+      "code": 1205212008,
+      "name": "Pulau Semikat"
+    },
+    {
+      "code": 1205212009,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1205212010,
+      "name": "Perkebunan Amal Tani"
+    }
+  ]
+}

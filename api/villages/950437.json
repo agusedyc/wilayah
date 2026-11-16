@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504372001,
+      "name": "Banggeri"
+    },
+    {
+      "code": 9504372002,
+      "name": "Igari"
+    },
+    {
+      "code": 9504372003,
+      "name": "Tina"
+    },
+    {
+      "code": 9504372004,
+      "name": "Telelomi"
+    },
+    {
+      "code": 9504372005,
+      "name": "Kopenawai"
+    },
+    {
+      "code": 9504372006,
+      "name": "Wunggi"
+    },
+    {
+      "code": 9504372007,
+      "name": "Baganagapur"
+    },
+    {
+      "code": 9504372008,
+      "name": "Milineri"
+    },
+    {
+      "code": 9504372009,
+      "name": "Mili"
+    },
+    {
+      "code": 9504372010,
+      "name": "Geyaneri"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6502052001,
+      "name": "Long Nawang"
+    },
+    {
+      "code": 6502052002,
+      "name": "Nawang Baru"
+    },
+    {
+      "code": 6502052003,
+      "name": "Long Temuyat"
+    },
+    {
+      "code": 6502052004,
+      "name": "Long Betaoh"
+    },
+    {
+      "code": 6502052005,
+      "name": "Long Payau"
+    }
+  ]
+}

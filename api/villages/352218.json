@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3522182001,
+      "name": "Pelem"
+    },
+    {
+      "code": 3522182002,
+      "name": "Ngrejeng"
+    },
+    {
+      "code": 3522182003,
+      "name": "Tlatah"
+    },
+    {
+      "code": 3522182004,
+      "name": "Kaliombo"
+    },
+    {
+      "code": 3522182005,
+      "name": "Tinumpuk"
+    },
+    {
+      "code": 3522182006,
+      "name": "Punggur"
+    },
+    {
+      "code": 3522182007,
+      "name": "Sedahkidul"
+    },
+    {
+      "code": 3522182008,
+      "name": "Pojok"
+    },
+    {
+      "code": 3522182009,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3522182010,
+      "name": "Gapluk"
+    },
+    {
+      "code": 3522182011,
+      "name": "Kuniran"
+    },
+    {
+      "code": 3522182012,
+      "name": "Donan"
+    }
+  ]
+}

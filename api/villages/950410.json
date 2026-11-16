@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504102001,
+      "name": "Lugwi"
+    },
+    {
+      "code": 9504102002,
+      "name": "Yaliwak"
+    },
+    {
+      "code": 9504102003,
+      "name": "Teropme"
+    },
+    {
+      "code": 9504102004,
+      "name": "Yigonime"
+    },
+    {
+      "code": 9504102005,
+      "name": "Mome"
+    },
+    {
+      "code": 9504102006,
+      "name": "Bugum"
+    },
+    {
+      "code": 9504102007,
+      "name": "Pagona"
+    },
+    {
+      "code": 9504102008,
+      "name": "Wunabu"
+    },
+    {
+      "code": 9504102009,
+      "name": "Wilileme"
+    },
+    {
+      "code": 9504102010,
+      "name": "Yangguni"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6502132001,
+      "name": "Setulang"
+    },
+    {
+      "code": 6502132002,
+      "name": "Setarap"
+    },
+    {
+      "code": 6502132003,
+      "name": "Punan Setarap"
+    },
+    {
+      "code": 6502132004,
+      "name": "Batu Kajang"
+    },
+    {
+      "code": 6502132005,
+      "name": "Gong Solok"
+    },
+    {
+      "code": 6502132006,
+      "name": "Punan Gong Solok"
+    },
+    {
+      "code": 6502132007,
+      "name": "Long Adiu"
+    },
+    {
+      "code": 6502132008,
+      "name": "Punan Long Adiu"
+    }
+  ]
+}

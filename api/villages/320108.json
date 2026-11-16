@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201082001,
+      "name": "Karyamekar"
+    },
+    {
+      "code": 3201082002,
+      "name": "Babakanraden"
+    },
+    {
+      "code": 3201082003,
+      "name": "Cikutamahi"
+    },
+    {
+      "code": 3201082004,
+      "name": "Kutamekar"
+    },
+    {
+      "code": 3201082005,
+      "name": "Cariu"
+    },
+    {
+      "code": 3201082006,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3201082007,
+      "name": "Bantarkuning"
+    },
+    {
+      "code": 3201082008,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3201082009,
+      "name": "Tegalpanjang"
+    },
+    {
+      "code": 3201082010,
+      "name": "Cibatutiga"
+    }
+  ]
+}

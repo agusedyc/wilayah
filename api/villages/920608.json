@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9206082001,
+      "name": "Fruata/Irowutu II"
+    },
+    {
+      "code": 9206082002,
+      "name": "Meryedi"
+    },
+    {
+      "code": 9206082003,
+      "name": "Riendo"
+    }
+  ]
+}

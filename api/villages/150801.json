@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1508012001,
+      "name": "Pedukun"
+    },
+    {
+      "code": 1508012002,
+      "name": "Lubuk Niur"
+    },
+    {
+      "code": 1508012003,
+      "name": "Teluk Kecimbung"
+    },
+    {
+      "code": 1508012004,
+      "name": "Tanah Tumbuh"
+    },
+    {
+      "code": 1508012005,
+      "name": "Rambah"
+    },
+    {
+      "code": 1508012006,
+      "name": "Tebing Tinggi Uleh"
+    },
+    {
+      "code": 1508012007,
+      "name": "Bukit Kemang"
+    },
+    {
+      "code": 1508012008,
+      "name": "Panjang"
+    },
+    {
+      "code": 1508012009,
+      "name": "Perenti Luweh"
+    },
+    {
+      "code": 1508012015,
+      "name": "Renah Jelmu"
+    },
+    {
+      "code": 1508012016,
+      "name": "Koto Jayo"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3206022001,
+      "name": "Cidadap"
+    },
+    {
+      "code": 3206022002,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3206022003,
+      "name": "Cikupa"
+    },
+    {
+      "code": 3206022004,
+      "name": "Karangnunggal"
+    },
+    {
+      "code": 3206022005,
+      "name": "Karangmekar"
+    },
+    {
+      "code": 3206022006,
+      "name": "Cikukulu"
+    },
+    {
+      "code": 3206022007,
+      "name": "Cibatuireng"
+    },
+    {
+      "code": 3206022008,
+      "name": "Cibatu"
+    },
+    {
+      "code": 3206022009,
+      "name": "Sarimanggu"
+    },
+    {
+      "code": 3206022010,
+      "name": "Sukawangun"
+    },
+    {
+      "code": 3206022011,
+      "name": "Cintawangi"
+    },
+    {
+      "code": 3206022012,
+      "name": "Cikapinis"
+    },
+    {
+      "code": 3206022013,
+      "name": "Sarimukti"
+    },
+    {
+      "code": 3206022014,
+      "name": "Kujang"
+    }
+  ]
+}

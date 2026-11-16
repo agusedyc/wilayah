@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5305092002,
+      "name": "Baraler"
+    },
+    {
+      "code": 5305092003,
+      "name": "Kalondama"
+    },
+    {
+      "code": 5305092007,
+      "name": "Leer"
+    },
+    {
+      "code": 5305092018,
+      "name": "Baranusa"
+    },
+    {
+      "code": 5305092019,
+      "name": "Blang Merang"
+    },
+    {
+      "code": 5305092020,
+      "name": "Illu"
+    },
+    {
+      "code": 5305092024,
+      "name": "Piringsina"
+    }
+  ]
+}

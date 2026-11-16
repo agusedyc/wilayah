@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1171022001,
+      "name": "Mulia"
+    },
+    {
+      "code": 1171022002,
+      "name": "Peunayong"
+    },
+    {
+      "code": 1171022003,
+      "name": "Laksana"
+    },
+    {
+      "code": 1171022004,
+      "name": "Keuramat"
+    },
+    {
+      "code": 1171022005,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1171022006,
+      "name": "Beurawe"
+    },
+    {
+      "code": 1171022007,
+      "name": "Kuta Alam"
+    },
+    {
+      "code": 1171022008,
+      "name": "Bandar Baru"
+    },
+    {
+      "code": 1171022009,
+      "name": "Lamdingin"
+    },
+    {
+      "code": 1171022010,
+      "name": "Lampulo"
+    },
+    {
+      "code": 1171022011,
+      "name": "Lambaro Skep"
+    }
+  ]
+}

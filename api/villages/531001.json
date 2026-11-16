@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5310012001,
+      "name": "Satar Ngkeling"
+    },
+    {
+      "code": 5310012002,
+      "name": "Lalong"
+    },
+    {
+      "code": 5310012003,
+      "name": "Poco"
+    },
+    {
+      "code": 5310012004,
+      "name": "Wae Mulu"
+    },
+    {
+      "code": 5310012005,
+      "name": "Ndehes"
+    },
+    {
+      "code": 5310012006,
+      "name": "Golo Cador"
+    },
+    {
+      "code": 5310012007,
+      "name": "Longko"
+    },
+    {
+      "code": 5310012008,
+      "name": "Ranggi"
+    },
+    {
+      "code": 5310012009,
+      "name": "Compang Ndehes"
+    },
+    {
+      "code": 5310012010,
+      "name": "Bangka Jong"
+    },
+    {
+      "code": 5310012012,
+      "name": "Bangka Kenda"
+    },
+    {
+      "code": 5310012013,
+      "name": "Golo Mendo"
+    },
+    {
+      "code": 5310012014,
+      "name": "Golo Wuas"
+    },
+    {
+      "code": 5310012015,
+      "name": "Wae Rii"
+    },
+    {
+      "code": 5310012016,
+      "name": "Ranaka"
+    },
+    {
+      "code": 5310012017,
+      "name": "Golo Watu"
+    },
+    {
+      "code": 5310012018,
+      "name": "Benteng Poco"
+    }
+  ]
+}

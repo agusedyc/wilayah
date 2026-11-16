@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7313021001,
+      "name": "Pammana"
+    },
+    {
+      "code": 7313021002,
+      "name": "Cina"
+    },
+    {
+      "code": 7313022003,
+      "name": "Lempa"
+    },
+    {
+      "code": 7313022004,
+      "name": "Patila"
+    },
+    {
+      "code": 7313022005,
+      "name": "Kampiri"
+    },
+    {
+      "code": 7313022006,
+      "name": "Lapaukke"
+    },
+    {
+      "code": 7313022007,
+      "name": "Lagosi"
+    },
+    {
+      "code": 7313022008,
+      "name": "Pallawarukka"
+    },
+    {
+      "code": 7313022009,
+      "name": "Wecudai"
+    },
+    {
+      "code": 7313022010,
+      "name": "Lampulung"
+    },
+    {
+      "code": 7313022011,
+      "name": "Watampanua"
+    },
+    {
+      "code": 7313022012,
+      "name": "Tadangpalie"
+    },
+    {
+      "code": 7313022013,
+      "name": "Simpursia"
+    },
+    {
+      "code": 7313022014,
+      "name": "Tobatang"
+    },
+    {
+      "code": 7313022015,
+      "name": "Abbanuangnge"
+    },
+    {
+      "code": 7313022016,
+      "name": "Tonrong Tengnga"
+    }
+  ]
+}

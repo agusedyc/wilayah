@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5272051001,
+      "name": "Monggonao"
+    },
+    {
+      "code": 5272051002,
+      "name": "Sadia"
+    },
+    {
+      "code": 5272051003,
+      "name": "Santi"
+    },
+    {
+      "code": 5272051004,
+      "name": "Sambinae"
+    },
+    {
+      "code": 5272051005,
+      "name": "Penatoi"
+    },
+    {
+      "code": 5272051006,
+      "name": "Lewirato"
+    },
+    {
+      "code": 5272051007,
+      "name": "Mande"
+    },
+    {
+      "code": 5272051008,
+      "name": "Panggi"
+    },
+    {
+      "code": 5272051009,
+      "name": "Manggemaci"
+    },
+    {
+      "code": 5272051010,
+      "name": "Matakando"
+    }
+  ]
+}

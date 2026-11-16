@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5206092001,
+      "name": "Piong"
+    },
+    {
+      "code": 5206092002,
+      "name": "Boro"
+    },
+    {
+      "code": 5206092003,
+      "name": "Kore"
+    },
+    {
+      "code": 5206092004,
+      "name": "Taloko"
+    },
+    {
+      "code": 5206092005,
+      "name": "Oi Saro"
+    },
+    {
+      "code": 5206092006,
+      "name": "Sandue"
+    }
+  ]
+}

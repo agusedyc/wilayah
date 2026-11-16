@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3673011001,
+      "name": "Serang"
+    },
+    {
+      "code": 3673011002,
+      "name": "Cipare"
+    },
+    {
+      "code": 3673011003,
+      "name": "Sumur Pecung"
+    },
+    {
+      "code": 3673011004,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 3673011005,
+      "name": "Lopang"
+    },
+    {
+      "code": 3673011006,
+      "name": "Cimuncang"
+    },
+    {
+      "code": 3673011007,
+      "name": "Unyur"
+    },
+    {
+      "code": 3673011008,
+      "name": "Sukawana"
+    },
+    {
+      "code": 3673011009,
+      "name": "Lontarbaru"
+    },
+    {
+      "code": 3673011010,
+      "name": "Kaligandu"
+    },
+    {
+      "code": 3673011011,
+      "name": "Terondol"
+    },
+    {
+      "code": 3673011012,
+      "name": "Kagungan"
+    }
+  ]
+}

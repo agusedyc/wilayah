@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1810062001,
+      "name": "Banyumas"
+    },
+    {
+      "code": 1810062002,
+      "name": "Banyuwangi"
+    },
+    {
+      "code": 1810062003,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 1810062004,
+      "name": "Sriwungu"
+    },
+    {
+      "code": 1810062005,
+      "name": "Banjarejo"
+    },
+    {
+      "code": 1810062006,
+      "name": "Waya Krui"
+    },
+    {
+      "code": 1810062007,
+      "name": "Sri Rahayu"
+    },
+    {
+      "code": 1810062008,
+      "name": "Nusa Wungu"
+    },
+    {
+      "code": 1810062009,
+      "name": "Sinar Mulya"
+    },
+    {
+      "code": 1810062010,
+      "name": "Banyu Urip"
+    },
+    {
+      "code": 1810062011,
+      "name": "Mulyo Rejo"
+    }
+  ]
+}

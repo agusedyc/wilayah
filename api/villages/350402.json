@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3504022001,
+      "name": "Wajak Kidul"
+    },
+    {
+      "code": 3504022002,
+      "name": "Sanggrahan"
+    },
+    {
+      "code": 3504022003,
+      "name": "Pucung Kidul"
+    },
+    {
+      "code": 3504022004,
+      "name": "Boyolangu"
+    },
+    {
+      "code": 3504022005,
+      "name": "Ngranti"
+    },
+    {
+      "code": 3504022006,
+      "name": "Kendalbulur"
+    },
+    {
+      "code": 3504022007,
+      "name": "Bono"
+    },
+    {
+      "code": 3504022008,
+      "name": "Waung"
+    },
+    {
+      "code": 3504022009,
+      "name": "Moyoketen"
+    },
+    {
+      "code": 3504022010,
+      "name": "Wajak Lor"
+    },
+    {
+      "code": 3504022011,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3504022012,
+      "name": "Kepuh"
+    },
+    {
+      "code": 3504022013,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3504022014,
+      "name": "Serut"
+    },
+    {
+      "code": 3504022015,
+      "name": "Beji"
+    },
+    {
+      "code": 3504022016,
+      "name": "Sobontoro"
+    },
+    {
+      "code": 3504022017,
+      "name": "Gedangsewu"
+    }
+  ]
+}

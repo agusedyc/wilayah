@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3215011001,
+      "name": "Karawang Kulon"
+    },
+    {
+      "code": 3215011003,
+      "name": "Adiarsa Barat"
+    },
+    {
+      "code": 3215011005,
+      "name": "Tanjungpura"
+    },
+    {
+      "code": 3215011006,
+      "name": "Tanjungmekar"
+    },
+    {
+      "code": 3215011007,
+      "name": "Tunggakjati"
+    },
+    {
+      "code": 3215011010,
+      "name": "Karangpawitan"
+    },
+    {
+      "code": 3215011011,
+      "name": "Nagasari"
+    },
+    {
+      "code": 3215011012,
+      "name": "Mekarjati"
+    }
+  ]
+}

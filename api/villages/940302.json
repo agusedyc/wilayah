@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9403021001,
+      "name": "Obano"
+    },
+    {
+      "code": 9403022002,
+      "name": "Kegouda"
+    },
+    {
+      "code": 9403022003,
+      "name": "Totiyo"
+    },
+    {
+      "code": 9403022004,
+      "name": "Beko"
+    },
+    {
+      "code": 9403022005,
+      "name": "Tipakotu"
+    },
+    {
+      "code": 9403022006,
+      "name": "Epo Obano"
+    },
+    {
+      "code": 9403022007,
+      "name": "Towauwo"
+    },
+    {
+      "code": 9403022008,
+      "name": "Wiyogei"
+    },
+    {
+      "code": 9403022009,
+      "name": "Ekinauwo"
+    },
+    {
+      "code": 9403022010,
+      "name": "Kigodide"
+    },
+    {
+      "code": 9403022011,
+      "name": "Putakogopa"
+    },
+    {
+      "code": 9403022012,
+      "name": "Waukotopa"
+    },
+    {
+      "code": 9403022013,
+      "name": "Digiugii"
+    }
+  ]
+}

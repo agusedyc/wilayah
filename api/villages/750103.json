@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7501032001,
+      "name": "Iluta"
+    },
+    {
+      "code": 7501032002,
+      "name": "Bua"
+    },
+    {
+      "code": 7501032003,
+      "name": "Huntu"
+    },
+    {
+      "code": 7501032004,
+      "name": "Payunga"
+    },
+    {
+      "code": 7501032012,
+      "name": "Barakati"
+    },
+    {
+      "code": 7501032013,
+      "name": "Ilohungayo"
+    },
+    {
+      "code": 7501032014,
+      "name": "Dunggala"
+    },
+    {
+      "code": 7501032015,
+      "name": "Pilobuhuta"
+    }
+  ]
+}

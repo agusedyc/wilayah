@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1807202001,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 1807202002,
+      "name": "Ngesti Karya"
+    },
+    {
+      "code": 1807202003,
+      "name": "Tri Tunggal"
+    },
+    {
+      "code": 1807202004,
+      "name": "Sidorahayu"
+    },
+    {
+      "code": 1807202005,
+      "name": "Jembrana"
+    },
+    {
+      "code": 1807202006,
+      "name": "Tanjung Wangi"
+    },
+    {
+      "code": 1807202007,
+      "name": "Marga Batin"
+    },
+    {
+      "code": 1807202008,
+      "name": "Mekar Karya"
+    },
+    {
+      "code": 1807202009,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1807202010,
+      "name": "Karang Anom"
+    },
+    {
+      "code": 1807202011,
+      "name": "Karya Basuki"
+    }
+  ]
+}

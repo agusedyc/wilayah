@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471121001,
+      "name": "Meranti Pandak"
+    },
+    {
+      "code": 1471121004,
+      "name": "Lembah Damai"
+    },
+    {
+      "code": 1471121006,
+      "name": "Limbungan Baru"
+    },
+    {
+      "code": 1471121009,
+      "name": "Sri Meranti"
+    },
+    {
+      "code": 1471121010,
+      "name": "Palas"
+    },
+    {
+      "code": 1471121011,
+      "name": "Umban Sari"
+    }
+  ]
+}

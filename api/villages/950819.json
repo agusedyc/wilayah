@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9508192001,
+      "name": "Nirkuri"
+    },
+    {
+      "code": 9508192002,
+      "name": "Binime"
+    },
+    {
+      "code": 9508192003,
+      "name": "Uenoma"
+    },
+    {
+      "code": 9508192004,
+      "name": "Pasebem"
+    },
+    {
+      "code": 9508192005,
+      "name": "Sigmie"
+    },
+    {
+      "code": 9508192006,
+      "name": "Nirigimbirik"
+    },
+    {
+      "code": 9508192007,
+      "name": "Oldobo"
+    },
+    {
+      "code": 9508192008,
+      "name": "Likubuk"
+    },
+    {
+      "code": 9508192009,
+      "name": "Kokujondumu"
+    },
+    {
+      "code": 9508192010,
+      "name": "Kurigi"
+    }
+  ]
+}

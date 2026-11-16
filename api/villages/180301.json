@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1803011001,
+      "name": "Bukit Kemuning"
+    },
+    {
+      "code": 1803012002,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1803012003,
+      "name": "Suka Menanti"
+    },
+    {
+      "code": 1803012004,
+      "name": "Muara Aman"
+    },
+    {
+      "code": 1803012005,
+      "name": "Tanjung Baru Timur"
+    },
+    {
+      "code": 1803012006,
+      "name": "Dwikora"
+    },
+    {
+      "code": 1803012007,
+      "name": "Tanjung Waras"
+    },
+    {
+      "code": 1803012008,
+      "name": "Sido Mulyo"
+    }
+  ]
+}

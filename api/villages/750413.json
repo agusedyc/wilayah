@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7504132001,
+      "name": "Dudewulo"
+    },
+    {
+      "code": 7504132002,
+      "name": "Tunas Jaya"
+    },
+    {
+      "code": 7504132003,
+      "name": "Padengo"
+    },
+    {
+      "code": 7504132004,
+      "name": "Molosipat"
+    },
+    {
+      "code": 7504132005,
+      "name": "Butungale"
+    },
+    {
+      "code": 7504132006,
+      "name": "Persatuan"
+    },
+    {
+      "code": 7504132007,
+      "name": "Molosipat Utara"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7326051005,
+      "name": "Tullang' Sura"
+    },
+    {
+      "code": 7326051006,
+      "name": "Tongkonan Bassae"
+    },
+    {
+      "code": 7326052001,
+      "name": "Sapan Kua-kua"
+    },
+    {
+      "code": 7326052002,
+      "name": "Rindingkila'"
+    },
+    {
+      "code": 7326052003,
+      "name": "Misa'ba'bana"
+    },
+    {
+      "code": 7326052004,
+      "name": "Issong Kalua'"
+    }
+  ]
+}

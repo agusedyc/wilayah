@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5313022001,
+      "name": "Atakore"
+    },
+    {
+      "code": 5313022002,
+      "name": "Lusilame"
+    },
+    {
+      "code": 5313022004,
+      "name": "Lerek"
+    },
+    {
+      "code": 5313022005,
+      "name": "Nubahaeraka"
+    },
+    {
+      "code": 5313022006,
+      "name": "Tubukrajan"
+    },
+    {
+      "code": 5313022007,
+      "name": "Lebaata"
+    },
+    {
+      "code": 5313022008,
+      "name": "Ile Kimok"
+    },
+    {
+      "code": 5313022009,
+      "name": "Katakeja"
+    },
+    {
+      "code": 5313022010,
+      "name": "Ile Kerbau"
+    },
+    {
+      "code": 5313022011,
+      "name": "Dulir"
+    },
+    {
+      "code": 5313022012,
+      "name": "Dori Pewut"
+    },
+    {
+      "code": 5313022013,
+      "name": "Nuba Atalojo"
+    },
+    {
+      "code": 5313022014,
+      "name": "Nogo Doni"
+    },
+    {
+      "code": 5313022015,
+      "name": "Nubaboli"
+    },
+    {
+      "code": 5313022016,
+      "name": "Lewogroma"
+    }
+  ]
+}

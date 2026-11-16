@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201092001,
+      "name": "Wargajaya"
+    },
+    {
+      "code": 3201092002,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3201092003,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 3201092004,
+      "name": "Sukawangi"
+    },
+    {
+      "code": 3201092005,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3201092006,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3201092007,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3201092008,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3201092009,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3201092010,
+      "name": "Sukamakmur"
+    }
+  ]
+}

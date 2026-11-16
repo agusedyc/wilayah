@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5305041001,
+      "name": "Kelaisi Timur"
+    },
+    {
+      "code": 5305042002,
+      "name": "Kelaisi Barat"
+    },
+    {
+      "code": 5305042003,
+      "name": "Sidabui"
+    },
+    {
+      "code": 5305042004,
+      "name": "Padang Alang"
+    },
+    {
+      "code": 5305042005,
+      "name": "Kuneman"
+    },
+    {
+      "code": 5305042006,
+      "name": "Silaipui"
+    },
+    {
+      "code": 5305042007,
+      "name": "Kelaisi Tengah"
+    },
+    {
+      "code": 5305042008,
+      "name": "Kiraman"
+    },
+    {
+      "code": 5305042009,
+      "name": "Maikang"
+    },
+    {
+      "code": 5305042010,
+      "name": "Malaipea"
+    },
+    {
+      "code": 5305042011,
+      "name": "Tamanapui"
+    },
+    {
+      "code": 5305042012,
+      "name": "Lella"
+    },
+    {
+      "code": 5305042013,
+      "name": "Manmas"
+    },
+    {
+      "code": 5305042014,
+      "name": "Subo"
+    }
+  ]
+}

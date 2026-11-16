@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3209072001,
+      "name": "Leuwidingding"
+    },
+    {
+      "code": 3209072002,
+      "name": "Asem"
+    },
+    {
+      "code": 3209072003,
+      "name": "Cipeujeuh Kulon"
+    },
+    {
+      "code": 3209072004,
+      "name": "Cipeujeuh Wetan"
+    },
+    {
+      "code": 3209072005,
+      "name": "Sindanglaut"
+    },
+    {
+      "code": 3209072006,
+      "name": "Lemahabang Kulon"
+    },
+    {
+      "code": 3209072007,
+      "name": "Lemahabang"
+    },
+    {
+      "code": 3209072008,
+      "name": "Sigong"
+    },
+    {
+      "code": 3209072009,
+      "name": "Sarajaya"
+    },
+    {
+      "code": 3209072010,
+      "name": "Picungpugur"
+    },
+    {
+      "code": 3209072011,
+      "name": "Tuk Karangsuwung"
+    },
+    {
+      "code": 3209072012,
+      "name": "Belawa"
+    },
+    {
+      "code": 3209072013,
+      "name": "Wangkelang"
+    }
+  ]
+}

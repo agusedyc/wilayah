@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1471011002,
+      "name": "Jadirejo"
+    },
+    {
+      "code": 1471011003,
+      "name": "Kampung Tengah"
+    },
+    {
+      "code": 1471011004,
+      "name": "Kampung Melayu"
+    },
+    {
+      "code": 1471011005,
+      "name": "Kedung Sari"
+    },
+    {
+      "code": 1471011006,
+      "name": "Harjosari"
+    },
+    {
+      "code": 1471011007,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1471011008,
+      "name": "Pulau Karomah"
+    }
+  ]
+}

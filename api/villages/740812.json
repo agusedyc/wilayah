@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7408122001,
+      "name": "Porehu"
+    },
+    {
+      "code": 7408122002,
+      "name": "Tobela"
+    },
+    {
+      "code": 7408122003,
+      "name": "Tanggaruru"
+    },
+    {
+      "code": 7408122004,
+      "name": "Ponggi"
+    },
+    {
+      "code": 7408122005,
+      "name": "Larui"
+    },
+    {
+      "code": 7408122007,
+      "name": "Bangsala"
+    },
+    {
+      "code": 7408122008,
+      "name": "Sarambu"
+    },
+    {
+      "code": 7408122009,
+      "name": "Tinuna"
+    }
+  ]
+}

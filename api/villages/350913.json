@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3509132001,
+      "name": "Nogosari"
+    },
+    {
+      "code": 3509132002,
+      "name": "Curahmalang"
+    },
+    {
+      "code": 3509132003,
+      "name": "Rowotamtu"
+    },
+    {
+      "code": 3509132004,
+      "name": "Kaliwining"
+    },
+    {
+      "code": 3509132005,
+      "name": "Pecoro"
+    },
+    {
+      "code": 3509132006,
+      "name": "Rambipuji"
+    },
+    {
+      "code": 3509132007,
+      "name": "Gugut"
+    },
+    {
+      "code": 3509132008,
+      "name": "Rambigundam"
+    }
+  ]
+}

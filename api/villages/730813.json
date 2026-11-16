@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7308131001,
+      "name": "Lalebata"
+    },
+    {
+      "code": 7308132002,
+      "name": "Mattampa Walie"
+    },
+    {
+      "code": 7308132003,
+      "name": "Poleonro"
+    },
+    {
+      "code": 7308132004,
+      "name": "Sengeng Palie"
+    },
+    {
+      "code": 7308132005,
+      "name": "Mattampa Bulu"
+    },
+    {
+      "code": 7308132006,
+      "name": "Turu Cinnae"
+    },
+    {
+      "code": 7308132007,
+      "name": "Seberang"
+    },
+    {
+      "code": 7308132008,
+      "name": "Massenreng pulu"
+    },
+    {
+      "code": 7308132009,
+      "name": "Mamminasae"
+    },
+    {
+      "code": 7308132010,
+      "name": "Padaelo"
+    },
+    {
+      "code": 7308132011,
+      "name": "Barugae"
+    },
+    {
+      "code": 7308132012,
+      "name": "Barakkae"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3503082001,
+      "name": "Karanggandu"
+    },
+    {
+      "code": 3503082002,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3503082003,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3503082004,
+      "name": "Pakel"
+    },
+    {
+      "code": 3503082005,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 3503082006,
+      "name": "Ngembel"
+    },
+    {
+      "code": 3503082007,
+      "name": "Slawe"
+    },
+    {
+      "code": 3503082008,
+      "name": "Gemaharjo"
+    },
+    {
+      "code": 3503082009,
+      "name": "Watulimo"
+    },
+    {
+      "code": 3503082010,
+      "name": "Watuagung"
+    },
+    {
+      "code": 3503082011,
+      "name": "Prigi"
+    },
+    {
+      "code": 3503082012,
+      "name": "Tasikmadu"
+    }
+  ]
+}

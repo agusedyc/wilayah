@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3521072001,
+      "name": "Campurasri"
+    },
+    {
+      "code": 3521072002,
+      "name": "Danguk"
+    },
+    {
+      "code": 3521072003,
+      "name": "Gempol"
+    },
+    {
+      "code": 3521072004,
+      "name": "Ringinanom"
+    },
+    {
+      "code": 3521072005,
+      "name": "Sembung"
+    },
+    {
+      "code": 3521072006,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3521072007,
+      "name": "Dungmiri"
+    },
+    {
+      "code": 3521072008,
+      "name": "Brangol"
+    },
+    {
+      "code": 3521072009,
+      "name": "Sidokerto"
+    },
+    {
+      "code": 3521072010,
+      "name": "Jatipuro"
+    },
+    {
+      "code": 3521072011,
+      "name": "Puhti"
+    },
+    {
+      "code": 3521072012,
+      "name": "Sawo"
+    },
+    {
+      "code": 3521072013,
+      "name": "Karangjati"
+    },
+    {
+      "code": 3521072014,
+      "name": "Legundi"
+    },
+    {
+      "code": 3521072015,
+      "name": "Rejomulyo"
+    },
+    {
+      "code": 3521072016,
+      "name": "Rejuno"
+    },
+    {
+      "code": 3521072017,
+      "name": "Plosolor"
+    }
+  ]
+}

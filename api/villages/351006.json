@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3510062001,
+      "name": "Plampangrejo"
+    },
+    {
+      "code": 3510062002,
+      "name": "Tampo"
+    },
+    {
+      "code": 3510062003,
+      "name": "Sembulung"
+    },
+    {
+      "code": 3510062004,
+      "name": "Cluring"
+    },
+    {
+      "code": 3510062005,
+      "name": "Benculuk"
+    },
+    {
+      "code": 3510062006,
+      "name": "Sraten"
+    },
+    {
+      "code": 3510062007,
+      "name": "Tamanagung"
+    },
+    {
+      "code": 3510062008,
+      "name": "Sarimulyo"
+    },
+    {
+      "code": 3510062009,
+      "name": "Kaliploso"
+    }
+  ]
+}

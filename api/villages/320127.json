@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3201272001,
+      "name": "Pasirmuncang"
+    },
+    {
+      "code": 3201272002,
+      "name": "Cimande Hilir"
+    },
+    {
+      "code": 3201272003,
+      "name": "Ciderum"
+    },
+    {
+      "code": 3201272004,
+      "name": "Caringin"
+    },
+    {
+      "code": 3201272005,
+      "name": "Ciherang Pondok"
+    },
+    {
+      "code": 3201272006,
+      "name": "Cinagara"
+    },
+    {
+      "code": 3201272007,
+      "name": "Cimande"
+    },
+    {
+      "code": 3201272008,
+      "name": "Pancawati"
+    },
+    {
+      "code": 3201272009,
+      "name": "Muarajaya"
+    },
+    {
+      "code": 3201272010,
+      "name": "Pasirbuncir"
+    },
+    {
+      "code": 3201272011,
+      "name": "Lemah Duhur"
+    },
+    {
+      "code": 3201272012,
+      "name": "Tangkil"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1173022001,
+      "name": "Kuta Blang"
+    },
+    {
+      "code": 1173022002,
+      "name": "Tumpok Teungoh"
+    },
+    {
+      "code": 1173022003,
+      "name": "Simpang Empat"
+    },
+    {
+      "code": 1173022004,
+      "name": "Kampung Jawa Lhokseumawe"
+    },
+    {
+      "code": 1173022005,
+      "name": "Kota Lhokseumawe"
+    },
+    {
+      "code": 1173022006,
+      "name": "Mon Geudong"
+    },
+    {
+      "code": 1173022007,
+      "name": "Keude Aceh"
+    },
+    {
+      "code": 1173022008,
+      "name": "Pusong Lhokseumawe"
+    },
+    {
+      "code": 1173022009,
+      "name": "Hagu Teungoh"
+    },
+    {
+      "code": 1173022010,
+      "name": "Uteun Bayi"
+    },
+    {
+      "code": 1173022011,
+      "name": "Ujong Blang"
+    },
+    {
+      "code": 1173022012,
+      "name": "Hagu Selatan"
+    },
+    {
+      "code": 1173022013,
+      "name": "Pusong Baru"
+    },
+    {
+      "code": 1173022014,
+      "name": "Ulee Jalan"
+    },
+    {
+      "code": 1173022015,
+      "name": "Banda Masen"
+    },
+    {
+      "code": 1173022016,
+      "name": "Lancang Garam"
+    },
+    {
+      "code": 1173022017,
+      "name": "Jawa Baroe"
+    },
+    {
+      "code": 1173022018,
+      "name": "Hagu Barat Laut"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3311012001,
+      "name": "Grogol"
+    },
+    {
+      "code": 3311012002,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3311012003,
+      "name": "Karangwuni"
+    },
+    {
+      "code": 3311012004,
+      "name": "Krajan"
+    },
+    {
+      "code": 3311012005,
+      "name": "Jatingarang"
+    },
+    {
+      "code": 3311012006,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3311012007,
+      "name": "Alasombo"
+    },
+    {
+      "code": 3311012008,
+      "name": "Karangmojo"
+    },
+    {
+      "code": 3311012009,
+      "name": "Weru"
+    },
+    {
+      "code": 3311012010,
+      "name": "Karakan"
+    },
+    {
+      "code": 3311012011,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3311012012,
+      "name": "Tawang"
+    },
+    {
+      "code": 3311012013,
+      "name": "Ngreco"
+    }
+  ]
+}

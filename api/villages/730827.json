@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7308272001,
+      "name": "Patimpeng"
+    },
+    {
+      "code": 7308272002,
+      "name": "Latellang"
+    },
+    {
+      "code": 7308272003,
+      "name": "Maddenreng Pulu"
+    },
+    {
+      "code": 7308272004,
+      "name": "Masago"
+    },
+    {
+      "code": 7308272005,
+      "name": "Batu Lappa"
+    },
+    {
+      "code": 7308272006,
+      "name": "Paccing"
+    },
+    {
+      "code": 7308272007,
+      "name": "Massila"
+    },
+    {
+      "code": 7308272008,
+      "name": "Talabangi"
+    },
+    {
+      "code": 7308272009,
+      "name": "Pationgi"
+    },
+    {
+      "code": 7308272010,
+      "name": "Bulu Ulaweng"
+    }
+  ]
+}

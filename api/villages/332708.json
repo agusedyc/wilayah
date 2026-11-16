@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3327081004,
+      "name": "Paduraksa"
+    },
+    {
+      "code": 3327081013,
+      "name": "Kebondalem"
+    },
+    {
+      "code": 3327081014,
+      "name": "Bojongbata"
+    },
+    {
+      "code": 3327081015,
+      "name": "Mulyoharjo"
+    },
+    {
+      "code": 3327081016,
+      "name": "Pelutan"
+    },
+    {
+      "code": 3327081018,
+      "name": "Sugihwaras"
+    },
+    {
+      "code": 3327081019,
+      "name": "Widuri"
+    },
+    {
+      "code": 3327082001,
+      "name": "Banjarmulya"
+    },
+    {
+      "code": 3327082002,
+      "name": "Surajaya"
+    },
+    {
+      "code": 3327082003,
+      "name": "Kramat"
+    },
+    {
+      "code": 3327082005,
+      "name": "Pegongsoran"
+    },
+    {
+      "code": 3327082006,
+      "name": "Sungapan"
+    },
+    {
+      "code": 3327082007,
+      "name": "Saradan"
+    },
+    {
+      "code": 3327082008,
+      "name": "Sewaka"
+    },
+    {
+      "code": 3327082009,
+      "name": "Mengori"
+    },
+    {
+      "code": 3327082010,
+      "name": "Wanamulya"
+    },
+    {
+      "code": 3327082011,
+      "name": "Bojongnangka"
+    },
+    {
+      "code": 3327082012,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3327082017,
+      "name": "Lawangrejo"
+    },
+    {
+      "code": 3327082020,
+      "name": "Danasari"
+    }
+  ]
+}

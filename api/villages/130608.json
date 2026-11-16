@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1306082001,
+      "name": "Koto Tinggi"
+    },
+    {
+      "code": 1306082002,
+      "name": "Tabek Panjang"
+    },
+    {
+      "code": 1306082004,
+      "name": "Simarasok"
+    },
+    {
+      "code": 1306082005,
+      "name": "Padang Tarok"
+    },
+    {
+      "code": 1306082006,
+      "name": "Salo"
+    },
+    {
+      "code": 1306082007,
+      "name": "Koto Baru"
+    },
+    {
+      "code": 1306082008,
+      "name": "Sungai Cubadak"
+    },
+    {
+      "code": 1306082009,
+      "name": "Koto Gadang"
+    }
+  ]
+}

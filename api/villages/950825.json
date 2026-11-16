@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9508252001,
+      "name": "Kora"
+    },
+    {
+      "code": 9508252002,
+      "name": "Nanggoal"
+    },
+    {
+      "code": 9508252003,
+      "name": "Wenam"
+    },
+    {
+      "code": 9508252004,
+      "name": "Wilimi"
+    },
+    {
+      "code": 9508252005,
+      "name": "Brutnai"
+    }
+  ]
+}

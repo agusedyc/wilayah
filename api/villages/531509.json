@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5315092001,
+      "name": "Repi"
+    },
+    {
+      "code": 5315092002,
+      "name": "Watu Waja"
+    },
+    {
+      "code": 5315092003,
+      "name": "Surunumbeng"
+    },
+    {
+      "code": 5315092004,
+      "name": "Munting"
+    },
+    {
+      "code": 5315092005,
+      "name": "Kakor"
+    },
+    {
+      "code": 5315092006,
+      "name": "Lalong"
+    },
+    {
+      "code": 5315092007,
+      "name": "Wae Mose"
+    },
+    {
+      "code": 5315092008,
+      "name": "Nanga Lili"
+    },
+    {
+      "code": 5315092009,
+      "name": "Nanga Bere"
+    },
+    {
+      "code": 5315092010,
+      "name": "Benteng Dewa"
+    },
+    {
+      "code": 5315092011,
+      "name": "Watu Rambung"
+    },
+    {
+      "code": 5315092012,
+      "name": "Lendong"
+    },
+    {
+      "code": 5315092013,
+      "name": "Watu Tiri"
+    },
+    {
+      "code": 5315092014,
+      "name": "Benteng Tado"
+    },
+    {
+      "code": 5315092015,
+      "name": "Modo"
+    }
+  ]
+}

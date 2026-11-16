@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7326141002,
+      "name": "Baruppu Selatan"
+    },
+    {
+      "code": 7326142001,
+      "name": "Baruppu' Utara"
+    },
+    {
+      "code": 7326142003,
+      "name": "Baruppu Benteng Batu"
+    },
+    {
+      "code": 7326142004,
+      "name": "Baruppu' Parodo"
+    }
+  ]
+}

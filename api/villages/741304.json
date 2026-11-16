@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7413042001,
+      "name": "Lailangga"
+    },
+    {
+      "code": 7413042002,
+      "name": "Lasosodo"
+    },
+    {
+      "code": 7413042003,
+      "name": "Wakontu"
+    },
+    {
+      "code": 7413042004,
+      "name": "Lakanaha"
+    },
+    {
+      "code": 7413042005,
+      "name": "Katobu"
+    },
+    {
+      "code": 7413042006,
+      "name": "Lindo"
+    },
+    {
+      "code": 7413042007,
+      "name": "Kampani"
+    }
+  ]
+}

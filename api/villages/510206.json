@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5102062001,
+      "name": "Bengkel"
+    },
+    {
+      "code": 5102062002,
+      "name": "Pangkung Tibah"
+    },
+    {
+      "code": 5102062003,
+      "name": "Belalang"
+    },
+    {
+      "code": 5102062004,
+      "name": "Beraban"
+    },
+    {
+      "code": 5102062005,
+      "name": "Buwit"
+    },
+    {
+      "code": 5102062006,
+      "name": "Cepaka"
+    },
+    {
+      "code": 5102062007,
+      "name": "Kaba-kaba"
+    },
+    {
+      "code": 5102062008,
+      "name": "Nyambu"
+    },
+    {
+      "code": 5102062009,
+      "name": "Pandak Bandung"
+    },
+    {
+      "code": 5102062010,
+      "name": "Pandak Gede"
+    },
+    {
+      "code": 5102062011,
+      "name": "Nyitdah"
+    },
+    {
+      "code": 5102062012,
+      "name": "Pejaten"
+    },
+    {
+      "code": 5102062013,
+      "name": "Kediri"
+    },
+    {
+      "code": 5102062014,
+      "name": "Abian Tuwung"
+    },
+    {
+      "code": 5102062015,
+      "name": "Banjar Anyar"
+    }
+  ]
+}

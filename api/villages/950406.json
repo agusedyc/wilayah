@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9504062001,
+      "name": "Wurineri"
+    },
+    {
+      "code": 9504062002,
+      "name": "Pokegi"
+    },
+    {
+      "code": 9504062003,
+      "name": "Arombok"
+    },
+    {
+      "code": 9504062004,
+      "name": "Enanagi"
+    },
+    {
+      "code": 9504062005,
+      "name": "Pindak"
+    },
+    {
+      "code": 9504062006,
+      "name": "Gilopaga"
+    },
+    {
+      "code": 9504062007,
+      "name": "Keribaga"
+    },
+    {
+      "code": 9504062008,
+      "name": "Wona"
+    },
+    {
+      "code": 9504062009,
+      "name": "Numbuboton"
+    }
+  ]
+}

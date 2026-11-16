@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1803052001,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1803052002,
+      "name": "Bumi Agung Marga"
+    },
+    {
+      "code": 1803052003,
+      "name": "Pungguk Lama"
+    },
+    {
+      "code": 1803052004,
+      "name": "Gedung Nyapah"
+    },
+    {
+      "code": 1803052005,
+      "name": "Penagan Ratu"
+    },
+    {
+      "code": 1803052006,
+      "name": "Peraduan Waras"
+    },
+    {
+      "code": 1803052007,
+      "name": "Surakarta"
+    },
+    {
+      "code": 1803052008,
+      "name": "Rejo Mulyo"
+    },
+    {
+      "code": 1803052009,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 1803052010,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 1803052011,
+      "name": "Papan Rejo"
+    },
+    {
+      "code": 1803052012,
+      "name": "Sumber Agung"
+    }
+  ]
+}

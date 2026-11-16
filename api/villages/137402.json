@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1374021001,
+      "name": "Bukit Surungan"
+    },
+    {
+      "code": 1374021002,
+      "name": "Pasar Usang"
+    },
+    {
+      "code": 1374021003,
+      "name": "Kampung Manggis"
+    },
+    {
+      "code": 1374021004,
+      "name": "Silaing Bawah"
+    },
+    {
+      "code": 1374021005,
+      "name": "Silaing Atas"
+    },
+    {
+      "code": 1374021006,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1374021007,
+      "name": "Tanah Hitam"
+    },
+    {
+      "code": 1374021008,
+      "name": "Balai-balai"
+    }
+  ]
+}

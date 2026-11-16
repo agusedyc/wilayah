@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3672071001,
+      "name": "Ramanuju"
+    },
+    {
+      "code": 3672071002,
+      "name": "Kotabumi"
+    },
+    {
+      "code": 3672071003,
+      "name": "Kebon Dalem"
+    },
+    {
+      "code": 3672071004,
+      "name": "Purwakarta"
+    },
+    {
+      "code": 3672071005,
+      "name": "Tegal Bunder"
+    },
+    {
+      "code": 3672071006,
+      "name": "Pabean"
+    }
+  ]
+}

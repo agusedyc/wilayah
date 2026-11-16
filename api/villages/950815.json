@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9508152001,
+      "name": "Alama"
+    },
+    {
+      "code": 9508152002,
+      "name": "Nolit"
+    },
+    {
+      "code": 9508152003,
+      "name": "Gin"
+    },
+    {
+      "code": 9508152004,
+      "name": "Kulesa"
+    }
+  ]
+}

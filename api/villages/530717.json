@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5307172001,
+      "name": "Bu Selatan"
+    },
+    {
+      "code": 5307172002,
+      "name": "Bu Utara"
+    },
+    {
+      "code": 5307172003,
+      "name": "Bu Watuweti"
+    },
+    {
+      "code": 5307172004,
+      "name": "Loke"
+    },
+    {
+      "code": 5307172005,
+      "name": "Renggarasi"
+    },
+    {
+      "code": 5307172006,
+      "name": "Detubinga"
+    },
+    {
+      "code": 5307172007,
+      "name": "Tuwa"
+    },
+    {
+      "code": 5307172008,
+      "name": "Poma"
+    },
+    {
+      "code": 5307172009,
+      "name": "Bu Barat"
+    },
+    {
+      "code": 5307172010,
+      "name": "Bu Nuapu’u"
+    }
+  ]
+}

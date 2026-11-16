@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3514052001,
+      "name": "Ngantungan"
+    },
+    {
+      "code": 3514052002,
+      "name": "Galih"
+    },
+    {
+      "code": 3514052003,
+      "name": "Petung"
+    },
+    {
+      "code": 3514052004,
+      "name": "Klakah"
+    },
+    {
+      "code": 3514052005,
+      "name": "Sibon"
+    },
+    {
+      "code": 3514052006,
+      "name": "Mangguan"
+    },
+    {
+      "code": 3514052007,
+      "name": "Ampelsari"
+    },
+    {
+      "code": 3514052008,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3514052009,
+      "name": "Sapulante"
+    },
+    {
+      "code": 3514052010,
+      "name": "Pohgedang"
+    },
+    {
+      "code": 3514052011,
+      "name": "Pasrepan"
+    },
+    {
+      "code": 3514052012,
+      "name": "Rejosalam"
+    },
+    {
+      "code": 3514052013,
+      "name": "Cengkrong"
+    },
+    {
+      "code": 3514052014,
+      "name": "Lemahbang"
+    },
+    {
+      "code": 3514052015,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3514052016,
+      "name": "Pohgading"
+    },
+    {
+      "code": 3514052017,
+      "name": "Jogorepuh"
+    }
+  ]
+}

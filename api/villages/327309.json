@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3273091001,
+      "name": "Cihapit"
+    },
+    {
+      "code": 3273091002,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 3273091003,
+      "name": "Citarum"
+    }
+  ]
+}

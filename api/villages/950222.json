@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502222001,
+      "name": "Oklip"
+    },
+    {
+      "code": 9502222002,
+      "name": "Okhim"
+    },
+    {
+      "code": 9502222003,
+      "name": "Oktem"
+    },
+    {
+      "code": 9502222004,
+      "name": "Okbumul"
+    },
+    {
+      "code": 9502222005,
+      "name": "Okamin"
+    },
+    {
+      "code": 9502222006,
+      "name": "Oktumi"
+    },
+    {
+      "code": 9502222007,
+      "name": "Komok"
+    }
+  ]
+}

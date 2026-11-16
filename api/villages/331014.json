@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3310142001,
+      "name": "Trasan"
+    },
+    {
+      "code": 3310142002,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3310142003,
+      "name": "Juwiran"
+    },
+    {
+      "code": 3310142004,
+      "name": "Jetis"
+    },
+    {
+      "code": 3310142005,
+      "name": "Ketitang"
+    },
+    {
+      "code": 3310142006,
+      "name": "Gondangsari"
+    },
+    {
+      "code": 3310142007,
+      "name": "Serenan"
+    },
+    {
+      "code": 3310142008,
+      "name": "Tlogorandu"
+    },
+    {
+      "code": 3310142009,
+      "name": "Bolopleret"
+    },
+    {
+      "code": 3310142010,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3310142011,
+      "name": "Kenaiban"
+    },
+    {
+      "code": 3310142012,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3310142013,
+      "name": "Jaten"
+    },
+    {
+      "code": 3310142014,
+      "name": "Mrisen"
+    },
+    {
+      "code": 3310142015,
+      "name": "Pundungan"
+    },
+    {
+      "code": 3310142016,
+      "name": "Juwiring"
+    },
+    {
+      "code": 3310142017,
+      "name": "Kwarasan"
+    },
+    {
+      "code": 3310142018,
+      "name": "Carikan"
+    },
+    {
+      "code": 3310142019,
+      "name": "Taji"
+    }
+  ]
+}

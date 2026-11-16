@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216152001,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3216152002,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3216152003,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3216152004,
+      "name": "Sukaasih"
+    },
+    {
+      "code": 3216152005,
+      "name": "Sukarukun"
+    },
+    {
+      "code": 3216152006,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3216152007,
+      "name": "Sukadarma"
+    }
+  ]
+}

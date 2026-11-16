@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6201031007,
+      "name": "Kotawaringin Hulu"
+    },
+    {
+      "code": 6201031008,
+      "name": "Kotawaringin Hilir"
+    },
+    {
+      "code": 6201032001,
+      "name": "Babual Baboti"
+    },
+    {
+      "code": 6201032002,
+      "name": "Tempayung"
+    },
+    {
+      "code": 6201032003,
+      "name": "Sakabulin"
+    },
+    {
+      "code": 6201032004,
+      "name": "Kinjil"
+    },
+    {
+      "code": 6201032005,
+      "name": "Dawak"
+    },
+    {
+      "code": 6201032006,
+      "name": "Riam Durian"
+    },
+    {
+      "code": 6201032009,
+      "name": "Lalang"
+    },
+    {
+      "code": 6201032010,
+      "name": "Rungun"
+    },
+    {
+      "code": 6201032011,
+      "name": "Kondang"
+    },
+    {
+      "code": 6201032012,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 6201032013,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 6201032014,
+      "name": "Sumber Mukti"
+    },
+    {
+      "code": 6201032015,
+      "name": "Palih Baru"
+    },
+    {
+      "code": 6201032016,
+      "name": "Ipuh Bangun Jaya"
+    },
+    {
+      "code": 6201032017,
+      "name": "Sagu Suka Mulya"
+    }
+  ]
+}

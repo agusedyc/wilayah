@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3209032001,
+      "name": "Astanalanggar"
+    },
+    {
+      "code": 3209032002,
+      "name": "Barisan"
+    },
+    {
+      "code": 3209032003,
+      "name": "Losari Kidul"
+    },
+    {
+      "code": 3209032004,
+      "name": "Panggangsari"
+    },
+    {
+      "code": 3209032005,
+      "name": "Losari Lor"
+    },
+    {
+      "code": 3209032006,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3209032007,
+      "name": "Kalirahayu"
+    },
+    {
+      "code": 3209032008,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3209032009,
+      "name": "Ambulu"
+    },
+    {
+      "code": 3209032010,
+      "name": "Tawangsari"
+    }
+  ]
+}

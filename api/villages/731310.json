@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 7313101001,
+      "name": "Bulete"
+    },
+    {
+      "code": 7313101002,
+      "name": "Siwa"
+    },
+    {
+      "code": 7313101003,
+      "name": "Tobarakka"
+    },
+    {
+      "code": 7313101004,
+      "name": "Benteng"
+    },
+    {
+      "code": 7313102005,
+      "name": "Batu"
+    },
+    {
+      "code": 7313102006,
+      "name": "Lauwa"
+    },
+    {
+      "code": 7313102007,
+      "name": "Tanrongi"
+    },
+    {
+      "code": 7313102008,
+      "name": "Lompoloang"
+    },
+    {
+      "code": 7313102009,
+      "name": "Tellesang"
+    },
+    {
+      "code": 7313102010,
+      "name": "Tangkoro"
+    },
+    {
+      "code": 7313102011,
+      "name": "Marannu"
+    },
+    {
+      "code": 7313102012,
+      "name": "Abbanderangnge"
+    },
+    {
+      "code": 7313102013,
+      "name": "Simpellu"
+    },
+    {
+      "code": 7313102014,
+      "name": "Alesilurengnge"
+    },
+    {
+      "code": 7313102015,
+      "name": "Jauh Pandang"
+    },
+    {
+      "code": 7313102016,
+      "name": "Lacinde"
+    },
+    {
+      "code": 7313102017,
+      "name": "Buriko"
+    },
+    {
+      "code": 7313102018,
+      "name": "Bau-Bau"
+    },
+    {
+      "code": 7313102019,
+      "name": "Ale Lebbae"
+    },
+    {
+      "code": 7313102020,
+      "name": "Bulu Siwa"
+    },
+    {
+      "code": 7313102021,
+      "name": "Botto Tengnga"
+    },
+    {
+      "code": 7313102022,
+      "name": "Kaluku"
+    },
+    {
+      "code": 7313102023,
+      "name": "Mattiro Walie"
+    },
+    {
+      "code": 7313102024,
+      "name": "Maccolli Loloe"
+    },
+    {
+      "code": 7313102025,
+      "name": "Lompo Bulo"
+    },
+    {
+      "code": 7313102026,
+      "name": "Padang Loang"
+    },
+    {
+      "code": 7313102027,
+      "name": "Kompong"
+    }
+  ]
+}

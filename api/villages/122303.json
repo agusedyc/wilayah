@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1223031001,
+      "name": "Kampung Mesjid"
+    },
+    {
+      "code": 1223032002,
+      "name": "Kuala Bangka"
+    },
+    {
+      "code": 1223032003,
+      "name": "Sei Sentang"
+    },
+    {
+      "code": 1223032004,
+      "name": "Teluk Piai"
+    },
+    {
+      "code": 1223032005,
+      "name": "Tanjung Mangedar"
+    },
+    {
+      "code": 1223032006,
+      "name": "Teluk Binjai"
+    },
+    {
+      "code": 1223032007,
+      "name": "Sei Apung"
+    }
+  ]
+}

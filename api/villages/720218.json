@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7202182001,
+      "name": "Kilo"
+    },
+    {
+      "code": 7202182002,
+      "name": "Kawende"
+    },
+    {
+      "code": 7202182003,
+      "name": "Kalora"
+    },
+    {
+      "code": 7202182004,
+      "name": "Tambarana"
+    },
+    {
+      "code": 7202182005,
+      "name": "Tumora"
+    },
+    {
+      "code": 7202182006,
+      "name": "Tri Mulya"
+    },
+    {
+      "code": 7202182007,
+      "name": "Bakti Agung"
+    },
+    {
+      "code": 7202182009,
+      "name": "Tobe"
+    },
+    {
+      "code": 7202182010,
+      "name": "Membuke"
+    },
+    {
+      "code": 7202182011,
+      "name": "Maranda"
+    }
+  ]
+}

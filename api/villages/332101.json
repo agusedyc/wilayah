@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3321012001,
+      "name": "Banyumeneng"
+    },
+    {
+      "code": 3321012002,
+      "name": "Kebonbatur"
+    },
+    {
+      "code": 3321012003,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3321012004,
+      "name": "Kalitengah"
+    },
+    {
+      "code": 3321012005,
+      "name": "Kangkung"
+    },
+    {
+      "code": 3321012006,
+      "name": "Mranggen"
+    },
+    {
+      "code": 3321012007,
+      "name": "Batursari"
+    },
+    {
+      "code": 3321012008,
+      "name": "Bandungrejo"
+    },
+    {
+      "code": 3321012009,
+      "name": "Brumbung"
+    },
+    {
+      "code": 3321012010,
+      "name": "Kembangarum"
+    },
+    {
+      "code": 3321012011,
+      "name": "Karangsono"
+    },
+    {
+      "code": 3321012012,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3321012013,
+      "name": "Ngemplak"
+    },
+    {
+      "code": 3321012014,
+      "name": "Menur"
+    },
+    {
+      "code": 3321012015,
+      "name": "Jamus"
+    },
+    {
+      "code": 3321012016,
+      "name": "Wringinjajar"
+    },
+    {
+      "code": 3321012017,
+      "name": "Waru"
+    },
+    {
+      "code": 3321012018,
+      "name": "Tegalarum"
+    },
+    {
+      "code": 3321012019,
+      "name": "Candisari"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3509201001,
+      "name": "Banjarsengon"
+    },
+    {
+      "code": 3509201002,
+      "name": "Jumerto"
+    },
+    {
+      "code": 3509201003,
+      "name": "Gebang"
+    },
+    {
+      "code": 3509201004,
+      "name": "Slawu"
+    },
+    {
+      "code": 3509201005,
+      "name": "Bintoro"
+    },
+    {
+      "code": 3509201006,
+      "name": "Jemberlor"
+    },
+    {
+      "code": 3509201007,
+      "name": "Patrang"
+    },
+    {
+      "code": 3509201008,
+      "name": "Baratan"
+    }
+  ]
+}

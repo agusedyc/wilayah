@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3203222004,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3203222005,
+      "name": "Bojongkaso"
+    },
+    {
+      "code": 3203222006,
+      "name": "Bunisari"
+    },
+    {
+      "code": 3203222007,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3203222010,
+      "name": "Sinarlaut"
+    },
+    {
+      "code": 3203222014,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3203222016,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3203222017,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3203222018,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 3203222019,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3203222022,
+      "name": "Wangunjaya"
+    }
+  ]
+}

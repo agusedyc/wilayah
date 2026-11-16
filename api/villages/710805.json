@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7108052001,
+      "name": "Solo"
+    },
+    {
+      "code": 7108052002,
+      "name": "Boroko"
+    },
+    {
+      "code": 7108052003,
+      "name": "Bigo"
+    },
+    {
+      "code": 7108052004,
+      "name": "Kuala"
+    },
+    {
+      "code": 7108052005,
+      "name": "Pontak"
+    },
+    {
+      "code": 7108052006,
+      "name": "Inomunga"
+    },
+    {
+      "code": 7108052007,
+      "name": "Komus II"
+    },
+    {
+      "code": 7108052008,
+      "name": "Boroko Timur"
+    },
+    {
+      "code": 7108052009,
+      "name": "Kuala Utara"
+    },
+    {
+      "code": 7108052010,
+      "name": "Gihang"
+    },
+    {
+      "code": 7108052011,
+      "name": "Boroko Utara"
+    },
+    {
+      "code": 7108052012,
+      "name": "Bigo Selatan"
+    },
+    {
+      "code": 7108052013,
+      "name": "Soligir"
+    },
+    {
+      "code": 7108052014,
+      "name": "Inomunga Utara"
+    },
+    {
+      "code": 7108052015,
+      "name": "Komus Dua Timur"
+    }
+  ]
+}

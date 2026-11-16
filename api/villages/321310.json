@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213102005,
+      "name": "Pusakaratu"
+    },
+    {
+      "code": 3213102006,
+      "name": "Gempol"
+    },
+    {
+      "code": 3213102007,
+      "name": "Kalentambo"
+    },
+    {
+      "code": 3213102008,
+      "name": "Patimban"
+    },
+    {
+      "code": 3213102012,
+      "name": "Rancadaka"
+    },
+    {
+      "code": 3213102014,
+      "name": "Kotasari"
+    },
+    {
+      "code": 3213102015,
+      "name": "Mundusari"
+    }
+  ]
+}

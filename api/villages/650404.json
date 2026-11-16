@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6504042001,
+      "name": "Buong Baru"
+    },
+    {
+      "code": 6504042002,
+      "name": "Bebakung"
+    },
+    {
+      "code": 6504042003,
+      "name": "Kujau"
+    },
+    {
+      "code": 6504042004,
+      "name": "Mendupo"
+    },
+    {
+      "code": 6504042005,
+      "name": "Maning"
+    },
+    {
+      "code": 6504042006,
+      "name": "Periuk"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9501352001,
+      "name": "Welesi"
+    },
+    {
+      "code": 9501352002,
+      "name": "Yagara"
+    },
+    {
+      "code": 9501352003,
+      "name": "Asojelipele"
+    },
+    {
+      "code": 9501352004,
+      "name": "Lantipo"
+    },
+    {
+      "code": 9501352005,
+      "name": "Pawekama"
+    },
+    {
+      "code": 9501352006,
+      "name": "Apenas"
+    },
+    {
+      "code": 9501352007,
+      "name": "Tulima"
+    }
+  ]
+}

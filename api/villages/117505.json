@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1175052001,
+      "name": "Longkib"
+    },
+    {
+      "code": 1175052002,
+      "name": "Sepang"
+    },
+    {
+      "code": 1175052003,
+      "name": "Panji"
+    },
+    {
+      "code": 1175052004,
+      "name": "Lae Saga"
+    },
+    {
+      "code": 1175052005,
+      "name": "Sikerabang"
+    },
+    {
+      "code": 1175052006,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1175052007,
+      "name": "Bukit Alim"
+    },
+    {
+      "code": 1175052008,
+      "name": "Darul Aman"
+    },
+    {
+      "code": 1175052009,
+      "name": "Bangun Sari"
+    },
+    {
+      "code": 1175052010,
+      "name": "Darussalam"
+    }
+  ]
+}

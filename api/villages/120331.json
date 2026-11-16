@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1203311001,
+      "name": "Sangkunur"
+    },
+    {
+      "code": 1203311002,
+      "name": "Rianiate"
+    },
+    {
+      "code": 1203312003,
+      "name": "Simatohir"
+    },
+    {
+      "code": 1203312004,
+      "name": "Perkebunan"
+    },
+    {
+      "code": 1203312005,
+      "name": "Bandar Tarutung"
+    },
+    {
+      "code": 1203312006,
+      "name": "Aek Pardomuan"
+    },
+    {
+      "code": 1203312007,
+      "name": "Tindoan Laut"
+    },
+    {
+      "code": 1203312008,
+      "name": "Simataniari"
+    },
+    {
+      "code": 1203312009,
+      "name": "Batu Godang"
+    },
+    {
+      "code": 1203312010,
+      "name": "Malombu"
+    }
+  ]
+}

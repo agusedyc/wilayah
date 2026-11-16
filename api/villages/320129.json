@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3201291003,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3201292001,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3201292002,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3201292004,
+      "name": "Parakan"
+    },
+    {
+      "code": 3201292005,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3201292006,
+      "name": "Pagelaran"
+    },
+    {
+      "code": 3201292007,
+      "name": "Sukamakmur"
+    },
+    {
+      "code": 3201292008,
+      "name": "Ciapus"
+    },
+    {
+      "code": 3201292009,
+      "name": "Kotabatu"
+    },
+    {
+      "code": 3201292010,
+      "name": "Laladon"
+    },
+    {
+      "code": 3201292011,
+      "name": "Ciomas Rahayu"
+    }
+  ]
+}

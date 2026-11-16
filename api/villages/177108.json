@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1771081001,
+      "name": "Kampung Kelawi"
+    },
+    {
+      "code": 1771081002,
+      "name": "Sukamerindu"
+    },
+    {
+      "code": 1771081003,
+      "name": "Semarang"
+    },
+    {
+      "code": 1771081004,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1771081005,
+      "name": "Tanjung Jaya"
+    },
+    {
+      "code": 1771081006,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1771081007,
+      "name": "Pasar Bengkulu"
+    }
+  ]
+}

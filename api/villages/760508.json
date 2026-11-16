@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7605081001,
+      "name": "Baurung"
+    },
+    {
+      "code": 7605081002,
+      "name": "Baruga"
+    },
+    {
+      "code": 7605081003,
+      "name": "Baruga Dhua"
+    },
+    {
+      "code": 7605081004,
+      "name": "Labuang"
+    },
+    {
+      "code": 7605081005,
+      "name": "Tande"
+    },
+    {
+      "code": 7605081006,
+      "name": "Lembang"
+    },
+    {
+      "code": 7605081007,
+      "name": "Labuang Utara"
+    },
+    {
+      "code": 7605081008,
+      "name": "Tande Timur"
+    },
+    {
+      "code": 7605082009,
+      "name": "Buttu Baruga"
+    }
+  ]
+}

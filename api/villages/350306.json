@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3503062001,
+      "name": "Kayen"
+    },
+    {
+      "code": 3503062002,
+      "name": "Jati"
+    },
+    {
+      "code": 3503062003,
+      "name": "Karangan"
+    },
+    {
+      "code": 3503062004,
+      "name": "Kerjo"
+    },
+    {
+      "code": 3503062005,
+      "name": "Kedungsigit"
+    },
+    {
+      "code": 3503062006,
+      "name": "Salamrejo"
+    },
+    {
+      "code": 3503062007,
+      "name": "Sukowetan"
+    },
+    {
+      "code": 3503062008,
+      "name": "Ngentrong"
+    },
+    {
+      "code": 3503062009,
+      "name": "Sumber"
+    },
+    {
+      "code": 3503062010,
+      "name": "Buluagung"
+    },
+    {
+      "code": 3503062011,
+      "name": "Sumberingin"
+    },
+    {
+      "code": 3503062012,
+      "name": "Jatiprahu"
+    }
+  ]
+}

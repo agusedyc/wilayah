@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3215172001,
+      "name": "Telagamulya"
+    },
+    {
+      "code": 3215172002,
+      "name": "Telagasari"
+    },
+    {
+      "code": 3215172003,
+      "name": "Pasirtalaga"
+    },
+    {
+      "code": 3215172004,
+      "name": "Cariumulya"
+    },
+    {
+      "code": 3215172005,
+      "name": "Pasirmukti"
+    },
+    {
+      "code": 3215172006,
+      "name": "Kalibuaya"
+    },
+    {
+      "code": 3215172007,
+      "name": "Pasirkamuning"
+    },
+    {
+      "code": 3215172008,
+      "name": "Kalijaya"
+    },
+    {
+      "code": 3215172009,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3215172010,
+      "name": "Cadas Kertajaya"
+    },
+    {
+      "code": 3215172011,
+      "name": "Cilewo"
+    },
+    {
+      "code": 3215172012,
+      "name": "Ciwulan"
+    },
+    {
+      "code": 3215172013,
+      "name": "Linggarsari"
+    },
+    {
+      "code": 3215172014,
+      "name": "Pulosari"
+    }
+  ]
+}

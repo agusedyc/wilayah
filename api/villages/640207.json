@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6402072001,
+      "name": "Selerong"
+    },
+    {
+      "code": 6402072002,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6402072003,
+      "name": "Beloro"
+    },
+    {
+      "code": 6402072004,
+      "name": "Sebulu Ulu"
+    },
+    {
+      "code": 6402072005,
+      "name": "Sebulu Ilir"
+    },
+    {
+      "code": 6402072006,
+      "name": "Segihan"
+    },
+    {
+      "code": 6402072007,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6402072008,
+      "name": "Manunggal Daya"
+    },
+    {
+      "code": 6402072009,
+      "name": "Giri Agung"
+    },
+    {
+      "code": 6402072010,
+      "name": "Senoni"
+    },
+    {
+      "code": 6402072011,
+      "name": "Sebulu Moderen"
+    },
+    {
+      "code": 6402072012,
+      "name": "Sanggulan"
+    },
+    {
+      "code": 6402072013,
+      "name": "Lekaq Kidau"
+    },
+    {
+      "code": 6402072014,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

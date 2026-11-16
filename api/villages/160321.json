@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1603212001,
+      "name": "Embacang Kelekar"
+    },
+    {
+      "code": 1603212002,
+      "name": "Menanti"
+    },
+    {
+      "code": 1603212003,
+      "name": "Menanti Selatan"
+    },
+    {
+      "code": 1603212004,
+      "name": "Suban Baru"
+    },
+    {
+      "code": 1603212005,
+      "name": "Pelempang"
+    },
+    {
+      "code": 1603212006,
+      "name": "Teluk Jaya"
+    },
+    {
+      "code": 1603212007,
+      "name": "Tanjung Medang"
+    }
+  ]
+}

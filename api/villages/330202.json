@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3302022001,
+      "name": "Randegan"
+    },
+    {
+      "code": 3302022002,
+      "name": "Rawaheng"
+    },
+    {
+      "code": 3302022003,
+      "name": "Pengadegan"
+    },
+    {
+      "code": 3302022004,
+      "name": "Klapagading"
+    },
+    {
+      "code": 3302022005,
+      "name": "Wangon"
+    },
+    {
+      "code": 3302022006,
+      "name": "Banteran"
+    },
+    {
+      "code": 3302022007,
+      "name": "Jambu"
+    },
+    {
+      "code": 3302022008,
+      "name": "Jurangbahas"
+    },
+    {
+      "code": 3302022009,
+      "name": "Cikakak"
+    },
+    {
+      "code": 3302022010,
+      "name": "Wlahar"
+    },
+    {
+      "code": 3302022011,
+      "name": "Windunegara"
+    },
+    {
+      "code": 3302022012,
+      "name": "Klapagading Kulon"
+    }
+  ]
+}

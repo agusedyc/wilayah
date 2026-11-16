@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7271021002,
+      "name": "Ujuna"
+    },
+    {
+      "code": 7271021005,
+      "name": "Balaroa"
+    },
+    {
+      "code": 7271021007,
+      "name": "Kamonji"
+    },
+    {
+      "code": 7271021008,
+      "name": "Baru"
+    },
+    {
+      "code": 7271021009,
+      "name": "Lere"
+    },
+    {
+      "code": 7271021015,
+      "name": "Siranindi"
+    }
+  ]
+}

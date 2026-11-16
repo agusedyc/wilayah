@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7303082001,
+      "name": "Bonto Tiro"
+    },
+    {
+      "code": 7303082002,
+      "name": "Bonto Karaeng"
+    },
+    {
+      "code": 7303082003,
+      "name": "Bonto Maccini"
+    },
+    {
+      "code": 7303082004,
+      "name": "Bonto Mate'ne"
+    },
+    {
+      "code": 7303082005,
+      "name": "Bonto Majannang"
+    },
+    {
+      "code": 7303082006,
+      "name": "Bonto Bulaeng"
+    }
+  ]
+}

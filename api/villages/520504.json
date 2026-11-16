@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5205042001,
+      "name": "Malaju"
+    },
+    {
+      "code": 5205042002,
+      "name": "Lasi"
+    },
+    {
+      "code": 5205042003,
+      "name": "Mbuju"
+    },
+    {
+      "code": 5205042004,
+      "name": "Kiwu"
+    },
+    {
+      "code": 5205042005,
+      "name": "Taropo"
+    },
+    {
+      "code": 5205042006,
+      "name": "Karama"
+    }
+  ]
+}

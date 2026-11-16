@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7408132001,
+      "name": "Lanipa - Nipa"
+    },
+    {
+      "code": 7408132002,
+      "name": "Ujung Tobaku"
+    },
+    {
+      "code": 7408132003,
+      "name": "Katoi"
+    },
+    {
+      "code": 7408132004,
+      "name": "Simbula"
+    },
+    {
+      "code": 7408132005,
+      "name": "Maruge"
+    },
+    {
+      "code": 7408132006,
+      "name": "Lambuno"
+    }
+  ]
+}

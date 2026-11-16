@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7204042001,
+      "name": "Sibaluton"
+    },
+    {
+      "code": 7204042002,
+      "name": "Kayu Lompa"
+    },
+    {
+      "code": 7204042003,
+      "name": "Labonu"
+    },
+    {
+      "code": 7204042004,
+      "name": "Silondou"
+    },
+    {
+      "code": 7204042005,
+      "name": "Kinapasan"
+    },
+    {
+      "code": 7204042006,
+      "name": "Kongkomos"
+    },
+    {
+      "code": 7204042007,
+      "name": "Ogosipat"
+    },
+    {
+      "code": 7204042008,
+      "name": "Galandau"
+    },
+    {
+      "code": 7204042009,
+      "name": "Marisa"
+    },
+    {
+      "code": 7204042010,
+      "name": "Basi"
+    }
+  ]
+}

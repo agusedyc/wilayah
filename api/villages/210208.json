@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 2102081001,
+      "name": "Sawang"
+    },
+    {
+      "code": 2102082002,
+      "name": "Sawang Selatan"
+    },
+    {
+      "code": 2102082003,
+      "name": "Sawang Laut"
+    },
+    {
+      "code": 2102082004,
+      "name": "Kundur"
+    },
+    {
+      "code": 2102082005,
+      "name": "Gemuruh"
+    }
+  ]
+}

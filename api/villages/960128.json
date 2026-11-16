@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9601282001,
+      "name": "Waliam"
+    },
+    {
+      "code": 9601282002,
+      "name": "Manfanim"
+    },
+    {
+      "code": 9601282003,
+      "name": "Waibin"
+    },
+    {
+      "code": 9601282004,
+      "name": "Waiman"
+    },
+    {
+      "code": 9601282005,
+      "name": "Sakapul"
+    },
+    {
+      "code": 9601282006,
+      "name": "Maralol"
+    },
+    {
+      "code": 9601282007,
+      "name": "Batbiro"
+    },
+    {
+      "code": 9601282008,
+      "name": "Duriankari"
+    },
+    {
+      "code": 9601282009,
+      "name": "Meyaup"
+    },
+    {
+      "code": 9601282010,
+      "name": "Sailen"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273101001,
+      "name": "Karasak"
+    },
+    {
+      "code": 3273101002,
+      "name": "Nyengseret"
+    },
+    {
+      "code": 3273101003,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3273101004,
+      "name": "Panjunan"
+    },
+    {
+      "code": 3273101005,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3273101006,
+      "name": "Pelindung Hewan"
+    }
+  ]
+}

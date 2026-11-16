@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6106122001,
+      "name": "Setulang"
+    },
+    {
+      "code": 6106122002,
+      "name": "Sepandan"
+    },
+    {
+      "code": 6106122003,
+      "name": "Sungai Ajung"
+    },
+    {
+      "code": 6106122004,
+      "name": "Sungai Abau"
+    },
+    {
+      "code": 6106122005,
+      "name": "Labian"
+    },
+    {
+      "code": 6106122006,
+      "name": "Mensiau"
+    },
+    {
+      "code": 6106122007,
+      "name": "Melemba"
+    },
+    {
+      "code": 6106122008,
+      "name": "Lanjak Deras"
+    },
+    {
+      "code": 6106122009,
+      "name": "Sungai Senunuk"
+    },
+    {
+      "code": 6106122010,
+      "name": "Labian Ira'ang"
+    }
+  ]
+}

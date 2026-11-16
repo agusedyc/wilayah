@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5207042001,
+      "name": "Sekongkang Atas"
+    },
+    {
+      "code": 5207042002,
+      "name": "Sekongkang Bawah"
+    },
+    {
+      "code": 5207042003,
+      "name": "Tongo"
+    },
+    {
+      "code": 5207042004,
+      "name": "Ai Kangkung"
+    },
+    {
+      "code": 5207042005,
+      "name": "Tatar"
+    },
+    {
+      "code": 5207042006,
+      "name": "Talonang Baru"
+    },
+    {
+      "code": 5207042007,
+      "name": "Kemuning"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1703122001,
+      "name": "Urai"
+    },
+    {
+      "code": 1703122002,
+      "name": "Pasar Ketahun"
+    },
+    {
+      "code": 1703122003,
+      "name": "Giri Kencana"
+    },
+    {
+      "code": 1703122004,
+      "name": "Kuala Langi"
+    },
+    {
+      "code": 1703122005,
+      "name": "Dusun Raja"
+    },
+    {
+      "code": 1703122012,
+      "name": "Lubuk Mindai"
+    },
+    {
+      "code": 1703122013,
+      "name": "Pajar Baru"
+    },
+    {
+      "code": 1703122014,
+      "name": "Talang Baru"
+    },
+    {
+      "code": 1703122019,
+      "name": "Melati Harjo K.1"
+    },
+    {
+      "code": 1703122020,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 1703122021,
+      "name": "Bukit Tinggi"
+    }
+  ]
+}

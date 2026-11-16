@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7315051001,
+      "name": "Benteng"
+    },
+    {
+      "code": 7315051002,
+      "name": "Teppo"
+    },
+    {
+      "code": 7315051003,
+      "name": "Tonyamang"
+    },
+    {
+      "code": 7315051004,
+      "name": "Maccirinna"
+    },
+    {
+      "code": 7315052005,
+      "name": "Leppangang"
+    },
+    {
+      "code": 7315052006,
+      "name": "Malimpung"
+    },
+    {
+      "code": 7315052007,
+      "name": "Mattiro Ade"
+    },
+    {
+      "code": 7315052008,
+      "name": "Sipatuo"
+    },
+    {
+      "code": 7315052009,
+      "name": "Padang Loang"
+    },
+    {
+      "code": 7315052010,
+      "name": "Pincara"
+    },
+    {
+      "code": 7315052011,
+      "name": "Masolo"
+    }
+  ]
+}

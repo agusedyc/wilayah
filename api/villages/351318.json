@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3513182001,
+      "name": "Brumbungan Lor"
+    },
+    {
+      "code": 3513182002,
+      "name": "Jatiadi"
+    },
+    {
+      "code": 3513182003,
+      "name": "Klaseman"
+    },
+    {
+      "code": 3513182004,
+      "name": "Pesisir"
+    },
+    {
+      "code": 3513182005,
+      "name": "Bulang"
+    },
+    {
+      "code": 3513182006,
+      "name": "Randupitu"
+    },
+    {
+      "code": 3513182007,
+      "name": "Pikatan"
+    },
+    {
+      "code": 3513182008,
+      "name": "Sebaung"
+    },
+    {
+      "code": 3513182009,
+      "name": "Sumberkerang"
+    },
+    {
+      "code": 3513182010,
+      "name": "Banyuanyar Lor"
+    },
+    {
+      "code": 3513182011,
+      "name": "Curahsawo"
+    },
+    {
+      "code": 3513182012,
+      "name": "Pajurangan"
+    },
+    {
+      "code": 3513182013,
+      "name": "Gending"
+    }
+  ]
+}

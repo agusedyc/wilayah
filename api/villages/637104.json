@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6371041001,
+      "name": "Alalak Tengah"
+    },
+    {
+      "code": 6371041002,
+      "name": "Alalak Utara"
+    },
+    {
+      "code": 6371041003,
+      "name": "Alalak Selatan"
+    },
+    {
+      "code": 6371041004,
+      "name": "Sungai Jingah"
+    },
+    {
+      "code": 6371041005,
+      "name": "Sungai Miai"
+    },
+    {
+      "code": 6371041006,
+      "name": "Surgi Mufti"
+    },
+    {
+      "code": 6371041007,
+      "name": "Pangeran"
+    },
+    {
+      "code": 6371041008,
+      "name": "Antasan Kecil Timur"
+    },
+    {
+      "code": 6371041009,
+      "name": "Kuin Utara"
+    },
+    {
+      "code": 6371041010,
+      "name": "Sungai Andai"
+    }
+  ]
+}

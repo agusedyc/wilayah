@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 9605012001,
+      "name": "Kumurkek"
+    },
+    {
+      "code": 9605012002,
+      "name": "Susumuk"
+    },
+    {
+      "code": 9605012003,
+      "name": "Kokas"
+    },
+    {
+      "code": 9605012004,
+      "name": "Kocuas"
+    },
+    {
+      "code": 9605012005,
+      "name": "Kocuwer"
+    },
+    {
+      "code": 9605012006,
+      "name": "Bori"
+    },
+    {
+      "code": 9605012007,
+      "name": "Werjaya"
+    },
+    {
+      "code": 9605012008,
+      "name": "Tehahite"
+    },
+    {
+      "code": 9605012009,
+      "name": "Faitmayaf"
+    },
+    {
+      "code": 9605012010,
+      "name": "Aisyo"
+    },
+    {
+      "code": 9605012011,
+      "name": "Futon"
+    },
+    {
+      "code": 9605012012,
+      "name": "Sampika"
+    },
+    {
+      "code": 9605012013,
+      "name": "Martaim"
+    },
+    {
+      "code": 9605012014,
+      "name": "Frawebo"
+    },
+    {
+      "code": 9605012015,
+      "name": "Faitsawe"
+    },
+    {
+      "code": 9605012016,
+      "name": "Kocuwer Selatan"
+    },
+    {
+      "code": 9605012017,
+      "name": "Faitmayaf Barat"
+    },
+    {
+      "code": 9605012018,
+      "name": "Sikof"
+    },
+    {
+      "code": 9605012019,
+      "name": "Bori Timur"
+    },
+    {
+      "code": 9605012020,
+      "name": "Kumurkek Barat"
+    },
+    {
+      "code": 9605012021,
+      "name": "Ainod"
+    },
+    {
+      "code": 9605012022,
+      "name": "Kocuas Utara"
+    },
+    {
+      "code": 9605012023,
+      "name": "Sunei"
+    }
+  ]
+}

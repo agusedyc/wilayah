@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9405232001,
+      "name": "Amungkalpia"
+    },
+    {
+      "code": 9405232002,
+      "name": "Bela"
+    },
+    {
+      "code": 9405232003,
+      "name": "Ompliga"
+    },
+    {
+      "code": 9405232004,
+      "name": "Alama"
+    },
+    {
+      "code": 9405232005,
+      "name": "Tagalarama"
+    },
+    {
+      "code": 9405232006,
+      "name": "Bemoki"
+    }
+  ]
+}

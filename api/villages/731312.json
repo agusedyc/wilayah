@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7313121001,
+      "name": "Doping"
+    },
+    {
+      "code": 7313122002,
+      "name": "Padaelo"
+    },
+    {
+      "code": 7313122003,
+      "name": "Temmabarang"
+    },
+    {
+      "code": 7313122004,
+      "name": "Penrang"
+    },
+    {
+      "code": 7313122005,
+      "name": "Lawesso"
+    },
+    {
+      "code": 7313122006,
+      "name": "Benteng"
+    },
+    {
+      "code": 7313122007,
+      "name": "Walanga"
+    },
+    {
+      "code": 7313122008,
+      "name": "Makmur"
+    },
+    {
+      "code": 7313122009,
+      "name": "Tadangpalie"
+    },
+    {
+      "code": 7313122010,
+      "name": "Raddae"
+    }
+  ]
+}

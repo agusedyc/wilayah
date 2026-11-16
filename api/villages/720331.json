@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7203312001,
+      "name": "Walandano"
+    },
+    {
+      "code": 7203312002,
+      "name": "Malei"
+    },
+    {
+      "code": 7203312003,
+      "name": "Kamonji"
+    },
+    {
+      "code": 7203312004,
+      "name": "Ketong"
+    },
+    {
+      "code": 7203312005,
+      "name": "Rano"
+    },
+    {
+      "code": 7203312006,
+      "name": "Pomolulu"
+    },
+    {
+      "code": 7203312007,
+      "name": "Palau"
+    },
+    {
+      "code": 7203312008,
+      "name": "Manimbaya"
+    }
+  ]
+}

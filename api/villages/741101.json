@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7411011002,
+      "name": "Rate-rate"
+    },
+    {
+      "code": 7411011016,
+      "name": "Tababu"
+    },
+    {
+      "code": 7411012001,
+      "name": "Simbune"
+    },
+    {
+      "code": 7411012003,
+      "name": "Poni-Poniki"
+    },
+    {
+      "code": 7411012004,
+      "name": "Tawainalu"
+    },
+    {
+      "code": 7411012005,
+      "name": "Woiha"
+    },
+    {
+      "code": 7411012006,
+      "name": "Tasahea"
+    },
+    {
+      "code": 7411012007,
+      "name": "Lara"
+    },
+    {
+      "code": 7411012008,
+      "name": "Tumbudadio"
+    },
+    {
+      "code": 7411012009,
+      "name": "Orawa"
+    },
+    {
+      "code": 7411012010,
+      "name": "Lalingato"
+    },
+    {
+      "code": 7411012011,
+      "name": "Tirawuta"
+    },
+    {
+      "code": 7411012012,
+      "name": "Roko-roko"
+    },
+    {
+      "code": 7411012013,
+      "name": "Loka"
+    },
+    {
+      "code": 7411012014,
+      "name": "Matabondu"
+    },
+    {
+      "code": 7411012015,
+      "name": "Karemotingge"
+    }
+  ]
+}

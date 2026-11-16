@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5319011020,
+      "name": "Kota Ndora"
+    },
+    {
+      "code": 5319011021,
+      "name": "Rana Loba"
+    },
+    {
+      "code": 5319011039,
+      "name": "Satar Peot"
+    },
+    {
+      "code": 5319012001,
+      "name": "Nanga Labang"
+    },
+    {
+      "code": 5319012004,
+      "name": "Gurung Liwut"
+    },
+    {
+      "code": 5319012005,
+      "name": "Benteng Riwu"
+    },
+    {
+      "code": 5319012006,
+      "name": "Ngampang Mas"
+    },
+    {
+      "code": 5319012009,
+      "name": "Rana Masak"
+    },
+    {
+      "code": 5319012010,
+      "name": "Benteng Raja"
+    },
+    {
+      "code": 5319012014,
+      "name": "Golo Lalong"
+    },
+    {
+      "code": 5319012017,
+      "name": "Golo Kantar"
+    },
+    {
+      "code": 5319012018,
+      "name": "Poco Rii"
+    },
+    {
+      "code": 5319012025,
+      "name": "Balus Permai"
+    },
+    {
+      "code": 5319012031,
+      "name": "Waling"
+    },
+    {
+      "code": 5319012032,
+      "name": "Golo Leda"
+    },
+    {
+      "code": 5319012034,
+      "name": "Compang Tenda"
+    },
+    {
+      "code": 5319012035,
+      "name": "Bangka Kantar"
+    },
+    {
+      "code": 5319012038,
+      "name": "Compang Ndejing"
+    }
+  ]
+}

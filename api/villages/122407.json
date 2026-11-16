@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1224072001,
+      "name": "Bitaya"
+    },
+    {
+      "code": 1224072002,
+      "name": "Lahemboho"
+    },
+    {
+      "code": 1224072003,
+      "name": "Anaoma"
+    },
+    {
+      "code": 1224072004,
+      "name": "Dahana Tugala Oyo"
+    },
+    {
+      "code": 1224072005,
+      "name": "Fulolo"
+    },
+    {
+      "code": 1224072006,
+      "name": "Hiligawoni"
+    },
+    {
+      "code": 1224072007,
+      "name": "Ononamolo Tumula"
+    },
+    {
+      "code": 1224072008,
+      "name": "Banua Sibohou I"
+    },
+    {
+      "code": 1224072009,
+      "name": "Ombolata"
+    },
+    {
+      "code": 1224072010,
+      "name": "Banua Sibohou II"
+    },
+    {
+      "code": 1224072011,
+      "name": "Dahana Alasa"
+    },
+    {
+      "code": 1224072012,
+      "name": "Ononamolo Alasa"
+    },
+    {
+      "code": 1224072013,
+      "name": "Loloana'a"
+    },
+    {
+      "code": 1224072014,
+      "name": "Hilisebua Siwalubanua"
+    }
+  ]
+}

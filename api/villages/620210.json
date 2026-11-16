@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6202102001,
+      "name": "Tumbang Kalang"
+    },
+    {
+      "code": 6202102002,
+      "name": "Kuluk Telawang"
+    },
+    {
+      "code": 6202102003,
+      "name": "Sungai Puring"
+    },
+    {
+      "code": 6202102004,
+      "name": "Tumbang Ngahan"
+    },
+    {
+      "code": 6202102005,
+      "name": "Tumbang Ramei"
+    },
+    {
+      "code": 6202102006,
+      "name": "Tumbang Hejan"
+    },
+    {
+      "code": 6202102007,
+      "name": "Sungai Hanya"
+    },
+    {
+      "code": 6202102008,
+      "name": "Tumbang Sepayang"
+    },
+    {
+      "code": 6202102016,
+      "name": "Buntut Nusa"
+    },
+    {
+      "code": 6202102017,
+      "name": "Tumbang Gagu"
+    },
+    {
+      "code": 6202102021,
+      "name": "Tumbang Manya"
+    },
+    {
+      "code": 6202102025,
+      "name": "Gunung Makmur"
+    },
+    {
+      "code": 6202102027,
+      "name": "Mulya Agung"
+    },
+    {
+      "code": 6202102028,
+      "name": "Bhakti Karya"
+    },
+    {
+      "code": 6202102029,
+      "name": "Waringin Agung"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9406062001,
+      "name": "Abouyaga"
+    },
+    {
+      "code": 9406062002,
+      "name": "Maikotu"
+    },
+    {
+      "code": 9406062003,
+      "name": "Taubaikebo"
+    },
+    {
+      "code": 9406062004,
+      "name": "Yegoukotu"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1408011001,
+      "name": "Kampung Dalam"
+    },
+    {
+      "code": 1408011002,
+      "name": "Kampung Rempak"
+    },
+    {
+      "code": 1408012003,
+      "name": "Langkai"
+    },
+    {
+      "code": 1408012011,
+      "name": "Tumang"
+    },
+    {
+      "code": 1408012012,
+      "name": "Merempan Hulu"
+    },
+    {
+      "code": 1408012013,
+      "name": "Rawang Air Putih"
+    },
+    {
+      "code": 1408012014,
+      "name": "Suak Lanjut"
+    },
+    {
+      "code": 1408012015,
+      "name": "Buantan Besar"
+    }
+  ]
+}

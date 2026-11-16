@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 3329172001,
+      "name": "Bandungsari"
+    },
+    {
+      "code": 3329172002,
+      "name": "Banjarlor"
+    },
+    {
+      "code": 3329172003,
+      "name": "Banjarharjo"
+    },
+    {
+      "code": 3329172004,
+      "name": "Blandongan"
+    },
+    {
+      "code": 3329172005,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3329172006,
+      "name": "Cibendung"
+    },
+    {
+      "code": 3329172007,
+      "name": "Cibuniwangi"
+    },
+    {
+      "code": 3329172008,
+      "name": "Cigadung"
+    },
+    {
+      "code": 3329172009,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3329172010,
+      "name": "Cikakak"
+    },
+    {
+      "code": 3329172011,
+      "name": "Cikuya"
+    },
+    {
+      "code": 3329172012,
+      "name": "Cimunding"
+    },
+    {
+      "code": 3329172013,
+      "name": "Cipajang"
+    },
+    {
+      "code": 3329172014,
+      "name": "Dukuhjeruk"
+    },
+    {
+      "code": 3329172015,
+      "name": "Karangmaja"
+    },
+    {
+      "code": 3329172016,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3329172017,
+      "name": "Kubangjero"
+    },
+    {
+      "code": 3329172018,
+      "name": "Malahayu"
+    },
+    {
+      "code": 3329172019,
+      "name": "Parereja"
+    },
+    {
+      "code": 3329172020,
+      "name": "Penanggapan"
+    },
+    {
+      "code": 3329172021,
+      "name": "Pende"
+    },
+    {
+      "code": 3329172022,
+      "name": "Sindangheula"
+    },
+    {
+      "code": 3329172023,
+      "name": "Sukareja"
+    },
+    {
+      "code": 3329172024,
+      "name": "Tegalreja"
+    },
+    {
+      "code": 3329172025,
+      "name": "Tiwulandu"
+    }
+  ]
+}

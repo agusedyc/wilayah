@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3516132001,
+      "name": "Gemekan"
+    },
+    {
+      "code": 3516132002,
+      "name": "Blimbingsari"
+    },
+    {
+      "code": 3516132003,
+      "name": "Brangkal"
+    },
+    {
+      "code": 3516132004,
+      "name": "Kedungmaling"
+    },
+    {
+      "code": 3516132005,
+      "name": "Klinterejo"
+    },
+    {
+      "code": 3516132006,
+      "name": "Modongan"
+    },
+    {
+      "code": 3516132007,
+      "name": "Sambiroto"
+    },
+    {
+      "code": 3516132008,
+      "name": "Jampirogo"
+    },
+    {
+      "code": 3516132009,
+      "name": "Japan"
+    },
+    {
+      "code": 3516132010,
+      "name": "Sooko"
+    },
+    {
+      "code": 3516132011,
+      "name": "Wringinrejo"
+    },
+    {
+      "code": 3516132012,
+      "name": "Karangkedawang"
+    },
+    {
+      "code": 3516132013,
+      "name": "Mojoranu"
+    },
+    {
+      "code": 3516132014,
+      "name": "Tempuran"
+    },
+    {
+      "code": 3516132015,
+      "name": "Ngingasrembyong"
+    }
+  ]
+}

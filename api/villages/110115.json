@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1101152001,
+      "name": "Pasie Seubadeh"
+    },
+    {
+      "code": 1101152002,
+      "name": "Ladang Rimba"
+    },
+    {
+      "code": 1101152003,
+      "name": "Ujong Pulo Rayeuk"
+    },
+    {
+      "code": 1101152004,
+      "name": "Sawah Tingkeum"
+    },
+    {
+      "code": 1101152005,
+      "name": "Simpang"
+    },
+    {
+      "code": 1101152006,
+      "name": "Ujong Pulo Cut"
+    },
+    {
+      "code": 1101152008,
+      "name": "Seuleukat"
+    }
+  ]
+}

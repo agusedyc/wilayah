@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3278081001,
+      "name": "Mangkubumi"
+    },
+    {
+      "code": 3278081002,
+      "name": "Cigantang"
+    },
+    {
+      "code": 3278081003,
+      "name": "Karikil"
+    },
+    {
+      "code": 3278081004,
+      "name": "Linggajaya"
+    },
+    {
+      "code": 3278081005,
+      "name": "Cipawitra"
+    },
+    {
+      "code": 3278081006,
+      "name": "Sambongpari"
+    },
+    {
+      "code": 3278081007,
+      "name": "Sambongjaya"
+    },
+    {
+      "code": 3278081008,
+      "name": "Cipari"
+    }
+  ]
+}

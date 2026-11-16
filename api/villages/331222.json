@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3312221003,
+      "name": "Sidokarto"
+    },
+    {
+      "code": 3312221007,
+      "name": "Gemawang"
+    },
+    {
+      "code": 3312222001,
+      "name": "Waleng"
+    },
+    {
+      "code": 3312222002,
+      "name": "Doho"
+    },
+    {
+      "code": 3312222004,
+      "name": "Girimarto"
+    },
+    {
+      "code": 3312222005,
+      "name": "Jendi"
+    },
+    {
+      "code": 3312222006,
+      "name": "Nungkulan"
+    },
+    {
+      "code": 3312222008,
+      "name": "Tambakmerang"
+    },
+    {
+      "code": 3312222009,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3312222010,
+      "name": "Giriwarno"
+    },
+    {
+      "code": 3312222011,
+      "name": "Selorejo"
+    },
+    {
+      "code": 3312222012,
+      "name": "Semagar"
+    },
+    {
+      "code": 3312222013,
+      "name": "Sanan"
+    },
+    {
+      "code": 3312222014,
+      "name": "Bubakan"
+    }
+  ]
+}

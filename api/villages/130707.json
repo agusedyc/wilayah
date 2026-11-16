@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1307072001,
+      "name": "Muaro Paiti"
+    },
+    {
+      "code": 1307072002,
+      "name": "Koto Bangun"
+    },
+    {
+      "code": 1307072003,
+      "name": "Lubuak Alai"
+    },
+    {
+      "code": 1307072004,
+      "name": "Koto Lamo"
+    },
+    {
+      "code": 1307072005,
+      "name": "Durian Tinggi"
+    },
+    {
+      "code": 1307072006,
+      "name": "Sialang"
+    },
+    {
+      "code": 1307072007,
+      "name": "Galugua"
+    }
+  ]
+}

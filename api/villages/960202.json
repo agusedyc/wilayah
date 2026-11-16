@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9602022001,
+      "name": "Mate"
+    },
+    {
+      "code": 9602022002,
+      "name": "Serkos"
+    },
+    {
+      "code": 9602022003,
+      "name": "Solta Baru"
+    },
+    {
+      "code": 9602022004,
+      "name": "Wadoi"
+    },
+    {
+      "code": 9602022005,
+      "name": "Isogo"
+    },
+    {
+      "code": 9602022006,
+      "name": "Sibae"
+    },
+    {
+      "code": 9602022007,
+      "name": "Mogibi"
+    },
+    {
+      "code": 9602022008,
+      "name": "Odeare"
+    },
+    {
+      "code": 9602022009,
+      "name": "Siri-siri"
+    }
+  ]
+}

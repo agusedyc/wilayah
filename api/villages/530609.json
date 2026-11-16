@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5306092001,
+      "name": "Wailebe"
+    },
+    {
+      "code": 5306092002,
+      "name": "Wotanulumado"
+    },
+    {
+      "code": 5306092003,
+      "name": "Nayubaya"
+    },
+    {
+      "code": 5306092004,
+      "name": "Oyangbarang"
+    },
+    {
+      "code": 5306092005,
+      "name": "Kawela"
+    },
+    {
+      "code": 5306092006,
+      "name": "Klukengnuking"
+    },
+    {
+      "code": 5306092007,
+      "name": "Pandai"
+    },
+    {
+      "code": 5306092008,
+      "name": "Bliko"
+    },
+    {
+      "code": 5306092009,
+      "name": "Samasoge"
+    },
+    {
+      "code": 5306092011,
+      "name": "Tobilota"
+    },
+    {
+      "code": 5306092012,
+      "name": "Tanatukan"
+    },
+    {
+      "code": 5306092013,
+      "name": "Demondei"
+    }
+  ]
+}

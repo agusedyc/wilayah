@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3174031001,
+      "name": "Mampang Prapatan"
+    },
+    {
+      "code": 3174031002,
+      "name": "Bangka"
+    },
+    {
+      "code": 3174031003,
+      "name": "Pela Mampang"
+    },
+    {
+      "code": 3174031004,
+      "name": "Tegal Parang"
+    },
+    {
+      "code": 3174031005,
+      "name": "Kuningan Barat"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7408072001,
+      "name": "Walasiho"
+    },
+    {
+      "code": 7408072002,
+      "name": "Wawo"
+    },
+    {
+      "code": 7408072003,
+      "name": "Tinukari"
+    },
+    {
+      "code": 7408072004,
+      "name": "Puumbolo"
+    },
+    {
+      "code": 7408072005,
+      "name": "Ulu Wawo"
+    },
+    {
+      "code": 7408072006,
+      "name": "Latawe"
+    },
+    {
+      "code": 7408072007,
+      "name": "Salurengko"
+    }
+  ]
+}

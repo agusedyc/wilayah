@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5207021004,
+      "name": "Menala"
+    },
+    {
+      "code": 5207021005,
+      "name": "Kuang"
+    },
+    {
+      "code": 5207021006,
+      "name": "Bugis"
+    },
+    {
+      "code": 5207021007,
+      "name": "Dalam"
+    },
+    {
+      "code": 5207021008,
+      "name": "Sampir"
+    },
+    {
+      "code": 5207021012,
+      "name": "Telaga Bertong"
+    },
+    {
+      "code": 5207021019,
+      "name": "Arab Kenangan"
+    },
+    {
+      "code": 5207022001,
+      "name": "Labuhan Lalar"
+    },
+    {
+      "code": 5207022009,
+      "name": "Lalar Liang"
+    },
+    {
+      "code": 5207022010,
+      "name": "Labuhan Kertasari"
+    },
+    {
+      "code": 5207022011,
+      "name": "Seloto"
+    },
+    {
+      "code": 5207022013,
+      "name": "Tamekan"
+    },
+    {
+      "code": 5207022014,
+      "name": "Banjar"
+    },
+    {
+      "code": 5207022015,
+      "name": "Batu Putih"
+    },
+    {
+      "code": 5207022020,
+      "name": "Sermong"
+    },
+    {
+      "code": 5207022021,
+      "name": "Lamunga"
+    }
+  ]
+}

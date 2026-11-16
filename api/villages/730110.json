@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7301102001,
+      "name": "Bontobulaeng"
+    },
+    {
+      "code": 7301102002,
+      "name": "Bontobaru"
+    },
+    {
+      "code": 7301102003,
+      "name": "Bontomalling"
+    },
+    {
+      "code": 7301102004,
+      "name": "Lembang Baji"
+    },
+    {
+      "code": 7301102005,
+      "name": "Bontojati"
+    },
+    {
+      "code": 7301102006,
+      "name": "Ujung"
+    }
+  ]
+}

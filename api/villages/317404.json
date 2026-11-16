@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3174041001,
+      "name": "Pasar Minggu"
+    },
+    {
+      "code": 3174041002,
+      "name": "Jati Padang"
+    },
+    {
+      "code": 3174041003,
+      "name": "Cilandak Timur"
+    },
+    {
+      "code": 3174041004,
+      "name": "Ragunan"
+    },
+    {
+      "code": 3174041005,
+      "name": "Pejaten Timur"
+    },
+    {
+      "code": 3174041006,
+      "name": "Pejaten Barat"
+    },
+    {
+      "code": 3174041007,
+      "name": "Kebagusan"
+    }
+  ]
+}

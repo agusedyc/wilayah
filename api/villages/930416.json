@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9304162001,
+      "name": "Primapun"
+    },
+    {
+      "code": 9304162002,
+      "name": "Aworket"
+    },
+    {
+      "code": 9304162003,
+      "name": "Saman"
+    },
+    {
+      "code": 9304162004,
+      "name": "Bayun"
+    },
+    {
+      "code": 9304162005,
+      "name": "Semendoro"
+    },
+    {
+      "code": 9304162006,
+      "name": "Tareo"
+    },
+    {
+      "code": 9304162007,
+      "name": "Kayirim"
+    },
+    {
+      "code": 9304162008,
+      "name": "Santambor"
+    },
+    {
+      "code": 9304162009,
+      "name": "Yaptambor"
+    },
+    {
+      "code": 9304162010,
+      "name": "Simsagar"
+    },
+    {
+      "code": 9304162011,
+      "name": "Itersok"
+    },
+    {
+      "code": 9304162012,
+      "name": "Emene"
+    }
+  ]
+}

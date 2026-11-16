@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7313141001,
+      "name": "Ballaere"
+    },
+    {
+      "code": 7313142002,
+      "name": "Awota"
+    },
+    {
+      "code": 7313142003,
+      "name": "Keera"
+    },
+    {
+      "code": 7313142004,
+      "name": "Lalliseng"
+    },
+    {
+      "code": 7313142005,
+      "name": "Paojepe"
+    },
+    {
+      "code": 7313142006,
+      "name": "Inrello"
+    },
+    {
+      "code": 7313142007,
+      "name": "Pattirolokka"
+    },
+    {
+      "code": 7313142008,
+      "name": "Awo"
+    },
+    {
+      "code": 7313142009,
+      "name": "Ciromanie"
+    },
+    {
+      "code": 7313142010,
+      "name": "Labawang"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7371111001,
+      "name": "Paccerakkang"
+    },
+    {
+      "code": 7371111002,
+      "name": "Daya"
+    },
+    {
+      "code": 7371111003,
+      "name": "Pai"
+    },
+    {
+      "code": 7371111004,
+      "name": "Bulurokeng"
+    },
+    {
+      "code": 7371111005,
+      "name": "Sudiang"
+    },
+    {
+      "code": 7371111006,
+      "name": "Sudiang Raya"
+    },
+    {
+      "code": 7371111007,
+      "name": "Untia"
+    },
+    {
+      "code": 7371111008,
+      "name": "Laikang"
+    },
+    {
+      "code": 7371111009,
+      "name": "Berua"
+    },
+    {
+      "code": 7371111010,
+      "name": "Katimbang"
+    },
+    {
+      "code": 7371111011,
+      "name": "Bakung"
+    }
+  ]
+}

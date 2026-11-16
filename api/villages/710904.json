@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7109042001,
+      "name": "Mala"
+    },
+    {
+      "code": 7109042002,
+      "name": "Pangirolong"
+    },
+    {
+      "code": 7109042003,
+      "name": "Sawang"
+    },
+    {
+      "code": 7109042004,
+      "name": "Bandil"
+    },
+    {
+      "code": 7109042005,
+      "name": "Biau"
+    },
+    {
+      "code": 7109042006,
+      "name": "Balirangeng"
+    },
+    {
+      "code": 7109042007,
+      "name": "Buhias"
+    },
+    {
+      "code": 7109042008,
+      "name": "Tapile"
+    },
+    {
+      "code": 7109042009,
+      "name": "Lahopang"
+    },
+    {
+      "code": 7109042010,
+      "name": "Binalu"
+    },
+    {
+      "code": 7109042011,
+      "name": "Kalihiang"
+    },
+    {
+      "code": 7109042012,
+      "name": "Pahepa"
+    },
+    {
+      "code": 7109042013,
+      "name": "Biau Seha"
+    },
+    {
+      "code": 7109042014,
+      "name": "Matole"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6111052001,
+      "name": "Seponti Jaya"
+    },
+    {
+      "code": 6111052002,
+      "name": "Telaga Arum"
+    },
+    {
+      "code": 6111052003,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 6111052004,
+      "name": "Podorukun"
+    },
+    {
+      "code": 6111052005,
+      "name": "Sungai Sepeti"
+    },
+    {
+      "code": 6111052006,
+      "name": "Durian Sebatang"
+    }
+  ]
+}

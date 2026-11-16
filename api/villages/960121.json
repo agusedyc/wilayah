@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9601212001,
+      "name": "Dasri"
+    },
+    {
+      "code": 9601212002,
+      "name": "Masos"
+    },
+    {
+      "code": 9601212003,
+      "name": "Ketawas"
+    },
+    {
+      "code": 9601212004,
+      "name": "Warbo"
+    },
+    {
+      "code": 9601212005,
+      "name": "Suus"
+    },
+    {
+      "code": 9601212006,
+      "name": "Sulya"
+    },
+    {
+      "code": 9601212007,
+      "name": "Bouwoi"
+    }
+  ]
+}

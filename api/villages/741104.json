@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7411041001,
+      "name": "Poli-Polia"
+    },
+    {
+      "code": 7411042002,
+      "name": "Wia-Wia"
+    },
+    {
+      "code": 7411042003,
+      "name": "Pangi-Pangi"
+    },
+    {
+      "code": 7411042004,
+      "name": "Tokai"
+    },
+    {
+      "code": 7411042005,
+      "name": "Andowengga"
+    },
+    {
+      "code": 7411042006,
+      "name": "Taosu"
+    },
+    {
+      "code": 7411042007,
+      "name": "Pole Maju Jaya"
+    },
+    {
+      "code": 7411042008,
+      "name": "Polenga Jaya"
+    },
+    {
+      "code": 7411042009,
+      "name": "Wundubite"
+    },
+    {
+      "code": 7411042010,
+      "name": "Hakambololi"
+    },
+    {
+      "code": 7411042011,
+      "name": "Inotu Mewao"
+    },
+    {
+      "code": 7411042012,
+      "name": "Puundokulo"
+    }
+  ]
+}

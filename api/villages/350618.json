@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3506182001,
+      "name": "Kebonrejo"
+    },
+    {
+      "code": 3506182002,
+      "name": "Kampungbaru"
+    },
+    {
+      "code": 3506182003,
+      "name": "Besowo"
+    },
+    {
+      "code": 3506182004,
+      "name": "Siman"
+    },
+    {
+      "code": 3506182005,
+      "name": "Brumbung"
+    },
+    {
+      "code": 3506182006,
+      "name": "Kepung"
+    },
+    {
+      "code": 3506182007,
+      "name": "Krenceng"
+    },
+    {
+      "code": 3506182008,
+      "name": "Kencong"
+    },
+    {
+      "code": 3506182009,
+      "name": "Keling"
+    },
+    {
+      "code": 3506182010,
+      "name": "Damarwulan"
+    }
+  ]
+}

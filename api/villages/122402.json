@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1224022001,
+      "name": "Seriwa'u"
+    },
+    {
+      "code": 1224022002,
+      "name": "Ombolata Sawo"
+    },
+    {
+      "code": 1224022003,
+      "name": "Sanawuyu"
+    },
+    {
+      "code": 1224022004,
+      "name": "Onozitoli Sawo"
+    },
+    {
+      "code": 1224022005,
+      "name": "Sifahandro"
+    },
+    {
+      "code": 1224022006,
+      "name": "Sisarahili Teluk Siabang"
+    },
+    {
+      "code": 1224022007,
+      "name": "Lasara Sawo"
+    },
+    {
+      "code": 1224022008,
+      "name": "Sawo"
+    },
+    {
+      "code": 1224022009,
+      "name": "Hiliduruwa"
+    },
+    {
+      "code": 1224022010,
+      "name": "Teluk Bengkuang"
+    }
+  ]
+}

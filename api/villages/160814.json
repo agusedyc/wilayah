@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1608142001,
+      "name": "Tanjung Kukuh"
+    },
+    {
+      "code": 1608142002,
+      "name": "Betung"
+    },
+    {
+      "code": 1608142003,
+      "name": "Tanjung Mas"
+    },
+    {
+      "code": 1608142004,
+      "name": "Menanga Besar"
+    },
+    {
+      "code": 1608142005,
+      "name": "Menanga Tengah"
+    },
+    {
+      "code": 1608142006,
+      "name": "Adu manis"
+    },
+    {
+      "code": 1608142007,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1608142008,
+      "name": "Kangkung"
+    },
+    {
+      "code": 1608142009,
+      "name": "Sri Tanjung"
+    },
+    {
+      "code": 1608142010,
+      "name": "Kangkung Ilir"
+    },
+    {
+      "code": 1608142011,
+      "name": "Betung Timur"
+    },
+    {
+      "code": 1608142012,
+      "name": "Menanga Sari"
+    }
+  ]
+}

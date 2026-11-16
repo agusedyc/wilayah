@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 6104032001,
+      "name": "Manis Mata"
+    },
+    {
+      "code": 6104032002,
+      "name": "Air Dekakah"
+    },
+    {
+      "code": 6104032003,
+      "name": "Suka Ramai"
+    },
+    {
+      "code": 6104032004,
+      "name": "Suak Burung"
+    },
+    {
+      "code": 6104032005,
+      "name": "Silat"
+    },
+    {
+      "code": 6104032006,
+      "name": "Terusan"
+    },
+    {
+      "code": 6104032007,
+      "name": "Kemuning"
+    },
+    {
+      "code": 6104032008,
+      "name": "Kelampai"
+    },
+    {
+      "code": 6104032009,
+      "name": "Bukit Gajah"
+    },
+    {
+      "code": 6104032010,
+      "name": "Lembah Mukti"
+    },
+    {
+      "code": 6104032011,
+      "name": "Asam Besar"
+    },
+    {
+      "code": 6104032012,
+      "name": "Batu Sedau"
+    },
+    {
+      "code": 6104032013,
+      "name": "Jambi"
+    },
+    {
+      "code": 6104032014,
+      "name": "Seguling"
+    },
+    {
+      "code": 6104032015,
+      "name": "Kalimantan"
+    },
+    {
+      "code": 6104032016,
+      "name": "Pelempangan"
+    },
+    {
+      "code": 6104032017,
+      "name": "Sengkuang Merabong"
+    },
+    {
+      "code": 6104032018,
+      "name": "Pakit Selaba"
+    },
+    {
+      "code": 6104032019,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 6104032020,
+      "name": "Ratu Elok"
+    },
+    {
+      "code": 6104032021,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6104032022,
+      "name": "Tribun Jaya"
+    }
+  ]
+}

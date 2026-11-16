@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311022003,
+      "name": "Rambangaru"
+    },
+    {
+      "code": 5311022006,
+      "name": "Praibakul"
+    },
+    {
+      "code": 5311022007,
+      "name": "Wunga"
+    },
+    {
+      "code": 5311022008,
+      "name": "Kadahang"
+    },
+    {
+      "code": 5311022009,
+      "name": "Napu"
+    },
+    {
+      "code": 5311022010,
+      "name": "Mbatapuhu"
+    },
+    {
+      "code": 5311022012,
+      "name": "Kalamba"
+    }
+  ]
+}

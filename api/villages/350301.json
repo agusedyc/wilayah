@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3503012001,
+      "name": "Besuki"
+    },
+    {
+      "code": 3503012002,
+      "name": "Terbis"
+    },
+    {
+      "code": 3503012003,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3503012004,
+      "name": "Wonocoyo"
+    },
+    {
+      "code": 3503012005,
+      "name": "Depok"
+    },
+    {
+      "code": 3503012006,
+      "name": "Kertosono"
+    },
+    {
+      "code": 3503012007,
+      "name": "Gayam"
+    },
+    {
+      "code": 3503012008,
+      "name": "Panggul"
+    },
+    {
+      "code": 3503012009,
+      "name": "Bodag"
+    },
+    {
+      "code": 3503012010,
+      "name": "Tangkil"
+    },
+    {
+      "code": 3503012011,
+      "name": "Nglebeng"
+    },
+    {
+      "code": 3503012012,
+      "name": "Banjar"
+    },
+    {
+      "code": 3503012013,
+      "name": "Ngrencak"
+    },
+    {
+      "code": 3503012014,
+      "name": "Barang"
+    },
+    {
+      "code": 3503012015,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3503012016,
+      "name": "Manggis"
+    },
+    {
+      "code": 3503012017,
+      "name": "Ngrambingan"
+    }
+  ]
+}

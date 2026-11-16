@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6571031001,
+      "name": "Lingkas Ujung"
+    },
+    {
+      "code": 6571031002,
+      "name": "Gunung Lingkas"
+    },
+    {
+      "code": 6571031003,
+      "name": "Kampung Empat"
+    },
+    {
+      "code": 6571031004,
+      "name": "Kampung Enam"
+    },
+    {
+      "code": 6571031005,
+      "name": "Mamburungan"
+    },
+    {
+      "code": 6571031006,
+      "name": "Pantai Amal"
+    },
+    {
+      "code": 6571031007,
+      "name": "Mamburungan Timur"
+    }
+  ]
+}

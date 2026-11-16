@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3212232001,
+      "name": "Anjatan"
+    },
+    {
+      "code": 3212232002,
+      "name": "Mangunjaya"
+    },
+    {
+      "code": 3212232003,
+      "name": "Bugis"
+    },
+    {
+      "code": 3212232004,
+      "name": "Bugistua"
+    },
+    {
+      "code": 3212232005,
+      "name": "Salamdarma"
+    },
+    {
+      "code": 3212232006,
+      "name": "Kedungwungu"
+    },
+    {
+      "code": 3212232007,
+      "name": "Wanguk"
+    },
+    {
+      "code": 3212232008,
+      "name": "Lempuyang"
+    },
+    {
+      "code": 3212232009,
+      "name": "Kopyah"
+    },
+    {
+      "code": 3212232010,
+      "name": "Anjatan Baru"
+    },
+    {
+      "code": 3212232011,
+      "name": "Cilandak"
+    },
+    {
+      "code": 3212232012,
+      "name": "Cilandak Lor"
+    },
+    {
+      "code": 3212232013,
+      "name": "Anjatan Utara"
+    }
+  ]
+}

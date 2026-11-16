@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507372001,
+      "name": "Muara"
+    },
+    {
+      "code": 9507372002,
+      "name": "Lualo"
+    },
+    {
+      "code": 9507372003,
+      "name": "Abua"
+    },
+    {
+      "code": 9507372004,
+      "name": "Gikur"
+    },
+    {
+      "code": 9507372005,
+      "name": "Gipura"
+    },
+    {
+      "code": 9507372006,
+      "name": "Gulu"
+    },
+    {
+      "code": 9507372007,
+      "name": "Bogangi"
+    },
+    {
+      "code": 9507372008,
+      "name": "Golome"
+    },
+    {
+      "code": 9507372009,
+      "name": "Wiyapur"
+    },
+    {
+      "code": 9507372010,
+      "name": "Kuruguneri"
+    }
+  ]
+}

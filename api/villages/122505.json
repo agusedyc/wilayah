@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1225052001,
+      "name": "Simaeasi"
+    },
+    {
+      "code": 1225052002,
+      "name": "Lologolu"
+    },
+    {
+      "code": 1225052003,
+      "name": "Tuwuna"
+    },
+    {
+      "code": 1225052004,
+      "name": "Tuhemberua"
+    },
+    {
+      "code": 1225052005,
+      "name": "Lolozirugi"
+    },
+    {
+      "code": 1225052006,
+      "name": "Lakhene"
+    },
+    {
+      "code": 1225052007,
+      "name": "Hiliwaloo I"
+    },
+    {
+      "code": 1225052008,
+      "name": "Sianaa"
+    },
+    {
+      "code": 1225052009,
+      "name": "Fadoro"
+    },
+    {
+      "code": 1225052010,
+      "name": "Iraonogambo"
+    },
+    {
+      "code": 1225052011,
+      "name": "Tuhoowo"
+    },
+    {
+      "code": 1225052012,
+      "name": "Fadoro Bahili"
+    },
+    {
+      "code": 1225052013,
+      "name": "Tumori"
+    },
+    {
+      "code": 1225052014,
+      "name": "Lasara Baene"
+    },
+    {
+      "code": 1225052015,
+      "name": "Tetehosi"
+    },
+    {
+      "code": 1225052016,
+      "name": "Sisarahili I"
+    },
+    {
+      "code": 1225052017,
+      "name": "Doli-Doli"
+    },
+    {
+      "code": 1225052018,
+      "name": "Hayo"
+    },
+    {
+      "code": 1225052019,
+      "name": "Zuzundrao"
+    },
+    {
+      "code": 1225052020,
+      "name": "Sisobambowo"
+    }
+  ]
+}

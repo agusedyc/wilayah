@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3213042006,
+      "name": "Marengmang"
+    },
+    {
+      "code": 3213042007,
+      "name": "Kalijati Timur"
+    },
+    {
+      "code": 3213042008,
+      "name": "Kaliangsana"
+    },
+    {
+      "code": 3213042011,
+      "name": "Kalijati Barat"
+    },
+    {
+      "code": 3213042012,
+      "name": "Tanggulun Timur"
+    },
+    {
+      "code": 3213042013,
+      "name": "Tanggulun Barat"
+    },
+    {
+      "code": 3213042017,
+      "name": "Caracas"
+    },
+    {
+      "code": 3213042018,
+      "name": "Ciruluk"
+    },
+    {
+      "code": 3213042019,
+      "name": "Jalupang"
+    },
+    {
+      "code": 3213042020,
+      "name": "Banggalamulya"
+    }
+  ]
+}

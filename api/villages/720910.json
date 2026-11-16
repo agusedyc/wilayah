@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7209101001,
+      "name": "Uentanaga Bawah"
+    },
+    {
+      "code": 7209101002,
+      "name": "Uentanaga Atas"
+    },
+    {
+      "code": 7209101003,
+      "name": "Dondo"
+    },
+    {
+      "code": 7209101007,
+      "name": "Uamalingku"
+    },
+    {
+      "code": 7209101008,
+      "name": "Dondo Barat"
+    },
+    {
+      "code": 7209101009,
+      "name": "Muara Toba"
+    },
+    {
+      "code": 7209102004,
+      "name": "Sumoli"
+    },
+    {
+      "code": 7209102005,
+      "name": "Sabulira Toba"
+    },
+    {
+      "code": 7209102006,
+      "name": "Labuan"
+    },
+    {
+      "code": 7209102010,
+      "name": "Patingko"
+    }
+  ]
+}

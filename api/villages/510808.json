@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5108082001,
+      "name": "Tambakan"
+    },
+    {
+      "code": 5108082002,
+      "name": "Pakisan"
+    },
+    {
+      "code": 5108082003,
+      "name": "Bontihing"
+    },
+    {
+      "code": 5108082004,
+      "name": "Tajun"
+    },
+    {
+      "code": 5108082005,
+      "name": "Tunjung"
+    },
+    {
+      "code": 5108082006,
+      "name": "Depeha"
+    },
+    {
+      "code": 5108082007,
+      "name": "Tamblang"
+    },
+    {
+      "code": 5108082008,
+      "name": "Bulian"
+    },
+    {
+      "code": 5108082009,
+      "name": "Bila"
+    },
+    {
+      "code": 5108082010,
+      "name": "Bengkala"
+    },
+    {
+      "code": 5108082011,
+      "name": "Kubutambahan"
+    },
+    {
+      "code": 5108082012,
+      "name": "Bukti"
+    },
+    {
+      "code": 5108082013,
+      "name": "Mengening"
+    }
+  ]
+}

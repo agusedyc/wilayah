@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6203062001,
+      "name": "Saka Lagon"
+    },
+    {
+      "code": 6203062002,
+      "name": "Bunga Mawar"
+    },
+    {
+      "code": 6203062003,
+      "name": "Sei Tatas"
+    },
+    {
+      "code": 6203062004,
+      "name": "Narahan"
+    },
+    {
+      "code": 6203062005,
+      "name": "Handiwung"
+    },
+    {
+      "code": 6203062006,
+      "name": "Anjir Palambang"
+    },
+    {
+      "code": 6203062007,
+      "name": "Palangkai"
+    },
+    {
+      "code": 6203062008,
+      "name": "Teluk Palinget"
+    },
+    {
+      "code": 6203062009,
+      "name": "Sei Tatas Hilir"
+    },
+    {
+      "code": 6203062010,
+      "name": "Mawar Mekar"
+    },
+    {
+      "code": 6203062011,
+      "name": "Banama"
+    },
+    {
+      "code": 6203062012,
+      "name": "Narahan Baru"
+    }
+  ]
+}

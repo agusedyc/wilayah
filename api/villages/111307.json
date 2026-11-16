@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1113072001,
+      "name": "Gumpang"
+    },
+    {
+      "code": 1113072002,
+      "name": "Marpunge"
+    },
+    {
+      "code": 1113072003,
+      "name": "Ramung Musara"
+    },
+    {
+      "code": 1113072004,
+      "name": "Meloak Sepakat"
+    },
+    {
+      "code": 1113072005,
+      "name": "Kutelengat Sepakat"
+    },
+    {
+      "code": 1113072006,
+      "name": "Singah Mulo"
+    },
+    {
+      "code": 1113072007,
+      "name": "Uning Pune"
+    },
+    {
+      "code": 1113072008,
+      "name": "Gumpang Lempuh"
+    },
+    {
+      "code": 1113072009,
+      "name": "Putri Betung"
+    }
+  ]
+}

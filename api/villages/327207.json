@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3272071001,
+      "name": "Cibeureum Hilir"
+    },
+    {
+      "code": 3272071002,
+      "name": "Babakan"
+    },
+    {
+      "code": 3272071003,
+      "name": "Sindangpalay"
+    },
+    {
+      "code": 3272071004,
+      "name": "Limusnunggal"
+    }
+  ]
+}

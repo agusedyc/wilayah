@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5304012001,
+      "name": "Kewar"
+    },
+    {
+      "code": 5304012002,
+      "name": "Fulur"
+    },
+    {
+      "code": 5304012004,
+      "name": "Duarato"
+    },
+    {
+      "code": 5304012005,
+      "name": "Makir"
+    },
+    {
+      "code": 5304012006,
+      "name": "Lamaksenulu"
+    },
+    {
+      "code": 5304012008,
+      "name": "Dirun"
+    },
+    {
+      "code": 5304012009,
+      "name": "Leowalu"
+    },
+    {
+      "code": 5304012014,
+      "name": "Maudemu"
+    },
+    {
+      "code": 5304012015,
+      "name": "Mahuitas"
+    }
+  ]
+}

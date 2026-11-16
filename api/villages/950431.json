@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504312001,
+      "name": "Silo"
+    },
+    {
+      "code": 9504312002,
+      "name": "Logi"
+    },
+    {
+      "code": 9504312003,
+      "name": "Tagi"
+    },
+    {
+      "code": 9504312004,
+      "name": "Bini"
+    },
+    {
+      "code": 9504312005,
+      "name": "Dunda"
+    },
+    {
+      "code": 9504312006,
+      "name": "Getiem"
+    },
+    {
+      "code": 9504312007,
+      "name": "Rumbepaga"
+    },
+    {
+      "code": 9504312008,
+      "name": "Yimabnime"
+    },
+    {
+      "code": 9504312009,
+      "name": "Wanuk"
+    },
+    {
+      "code": 9504312010,
+      "name": "Lamaluk"
+    }
+  ]
+}

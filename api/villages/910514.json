@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9105142001,
+      "name": "Miosnum"
+    },
+    {
+      "code": 9105142002,
+      "name": "Jeniari"
+    },
+    {
+      "code": 9105142003,
+      "name": "Umpeki"
+    },
+    {
+      "code": 9105142004,
+      "name": "Ausem"
+    },
+    {
+      "code": 9105142005,
+      "name": "Yeituarau"
+    }
+  ]
+}

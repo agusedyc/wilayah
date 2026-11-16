@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3602122001,
+      "name": "Maraya"
+    },
+    {
+      "code": 3602122002,
+      "name": "Sajira"
+    },
+    {
+      "code": 3602122003,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3602122004,
+      "name": "Calungbungur"
+    },
+    {
+      "code": 3602122005,
+      "name": "Parungsari"
+    },
+    {
+      "code": 3602122006,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3602122007,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3602122008,
+      "name": "Sukamarga"
+    },
+    {
+      "code": 3602122009,
+      "name": "Pajagan"
+    },
+    {
+      "code": 3602122010,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3602122011,
+      "name": "Sajira Mekar"
+    },
+    {
+      "code": 3602122012,
+      "name": "Paja"
+    },
+    {
+      "code": 3602122013,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3602122014,
+      "name": "Bungurmekar"
+    },
+    {
+      "code": 3602122015,
+      "name": "Ciuyah"
+    }
+  ]
+}

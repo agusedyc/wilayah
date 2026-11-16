@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3305201002,
+      "name": "Panjatan"
+    },
+    {
+      "code": 3305201003,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3305201004,
+      "name": "Jatiluhur"
+    },
+    {
+      "code": 3305201007,
+      "name": "Plarangan"
+    },
+    {
+      "code": 3305202001,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3305202005,
+      "name": "Candi"
+    },
+    {
+      "code": 3305202006,
+      "name": "Giripurno"
+    },
+    {
+      "code": 3305202008,
+      "name": "Karangkemiri"
+    },
+    {
+      "code": 3305202009,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3305202010,
+      "name": "Grenggeng"
+    },
+    {
+      "code": 3305202011,
+      "name": "Pohkumbang"
+    }
+  ]
+}

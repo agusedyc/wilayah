@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9507202001,
+      "name": "Golopura"
+    },
+    {
+      "code": 9507202002,
+      "name": "Wirini"
+    },
+    {
+      "code": 9507202003,
+      "name": "Nileme"
+    },
+    {
+      "code": 9507202004,
+      "name": "Libome"
+    },
+    {
+      "code": 9507202005,
+      "name": "Kulia"
+    },
+    {
+      "code": 9507202006,
+      "name": "Yamiga"
+    },
+    {
+      "code": 9507202007,
+      "name": "Gubugame"
+    },
+    {
+      "code": 9507202008,
+      "name": "Kamenak"
+    },
+    {
+      "code": 9507202009,
+      "name": "Perime"
+    },
+    {
+      "code": 9507202010,
+      "name": "Wadinawi"
+    },
+    {
+      "code": 9507202011,
+      "name": "Nengguga"
+    }
+  ]
+}

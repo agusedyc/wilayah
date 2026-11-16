@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 districts",
+  "data": [
+    {
+      "code": 117201,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 117202,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 117203,
+      "name": "Sukamakmue"
+    }
+  ]
+}

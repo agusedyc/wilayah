@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7411091001,
+      "name": "Tinengi"
+    },
+    {
+      "code": 7411092002,
+      "name": "Solewatu"
+    },
+    {
+      "code": 7411092003,
+      "name": "Ambapa"
+    },
+    {
+      "code": 7411092004,
+      "name": "Ameroro"
+    },
+    {
+      "code": 7411092005,
+      "name": "Lamunde"
+    },
+    {
+      "code": 7411092006,
+      "name": "Tawarombadaka"
+    },
+    {
+      "code": 7411092007,
+      "name": "Talata"
+    },
+    {
+      "code": 7411092008,
+      "name": "Weamo"
+    },
+    {
+      "code": 7411092009,
+      "name": "Tawa-tawaro"
+    },
+    {
+      "code": 7411092010,
+      "name": "Singgere"
+    },
+    {
+      "code": 7411092011,
+      "name": "Tutuwi"
+    },
+    {
+      "code": 7411092012,
+      "name": "Iwoimea"
+    }
+  ]
+}

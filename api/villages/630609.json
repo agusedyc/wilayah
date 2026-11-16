@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6306092001,
+      "name": "Balimau"
+    },
+    {
+      "code": 6306092002,
+      "name": "Karang Paci"
+    },
+    {
+      "code": 6306092003,
+      "name": "Bago Tanggul"
+    },
+    {
+      "code": 6306092004,
+      "name": "Karang Bulan"
+    },
+    {
+      "code": 6306092005,
+      "name": "Balanti"
+    },
+    {
+      "code": 6306092006,
+      "name": "Kalumpang"
+    },
+    {
+      "code": 6306092007,
+      "name": "Tambingkar"
+    },
+    {
+      "code": 6306092008,
+      "name": "Sirih"
+    },
+    {
+      "code": 6306092009,
+      "name": "Sirih Hulu"
+    }
+  ]
+}

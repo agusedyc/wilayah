@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3403152001,
+      "name": "Krambilsawit"
+    },
+    {
+      "code": 3403152002,
+      "name": "Ngloro"
+    },
+    {
+      "code": 3403152003,
+      "name": "Jetis"
+    },
+    {
+      "code": 3403152004,
+      "name": "Kepek"
+    },
+    {
+      "code": 3403152005,
+      "name": "Kanigoro"
+    },
+    {
+      "code": 3403152006,
+      "name": "Monggol"
+    },
+    {
+      "code": 3403152007,
+      "name": "Planjan"
+    }
+  ]
+}

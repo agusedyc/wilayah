@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9501372001,
+      "name": "Maima"
+    },
+    {
+      "code": 9501372002,
+      "name": "Minimo"
+    },
+    {
+      "code": 9501372003,
+      "name": "Esiak"
+    },
+    {
+      "code": 9501372004,
+      "name": "Heraewa"
+    },
+    {
+      "code": 9501372005,
+      "name": "Kepi"
+    },
+    {
+      "code": 9501372006,
+      "name": "Husewa"
+    },
+    {
+      "code": 9501372007,
+      "name": "Menagaima"
+    }
+  ]
+}

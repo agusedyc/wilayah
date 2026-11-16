@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1110022001,
+      "name": "Lipat Kajang"
+    },
+    {
+      "code": 1110022002,
+      "name": "Kain Golong"
+    },
+    {
+      "code": 1110022003,
+      "name": "Kuta Kerangan"
+    },
+    {
+      "code": 1110022004,
+      "name": "Siatas"
+    },
+    {
+      "code": 1110022005,
+      "name": "Pangi"
+    },
+    {
+      "code": 1110022006,
+      "name": "Sukarejo"
+    },
+    {
+      "code": 1110022007,
+      "name": "Ujung Limus"
+    },
+    {
+      "code": 1110022008,
+      "name": "Silatong"
+    },
+    {
+      "code": 1110022009,
+      "name": "Pertabas"
+    },
+    {
+      "code": 1110022010,
+      "name": "Lae Riman"
+    },
+    {
+      "code": 1110022011,
+      "name": "Pakiraman"
+    },
+    {
+      "code": 1110022012,
+      "name": "Kuta Batu"
+    },
+    {
+      "code": 1110022013,
+      "name": "Lae Nipe"
+    },
+    {
+      "code": 1110022014,
+      "name": "Kuta Tinggi"
+    },
+    {
+      "code": 1110022015,
+      "name": "Tuhtuhan"
+    },
+    {
+      "code": 1110022016,
+      "name": "Lae Gecih"
+    },
+    {
+      "code": 1110022017,
+      "name": "Guha"
+    },
+    {
+      "code": 1110022018,
+      "name": "Lae Gambir"
+    },
+    {
+      "code": 1110022019,
+      "name": "Cibubukan"
+    },
+    {
+      "code": 1110022020,
+      "name": "Serasah"
+    },
+    {
+      "code": 1110022021,
+      "name": "Tugan"
+    },
+    {
+      "code": 1110022022,
+      "name": "Tanjung Mas"
+    },
+    {
+      "code": 1110022023,
+      "name": "Lipat Kajang Atas"
+    },
+    {
+      "code": 1110022024,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1110022025,
+      "name": "Pandan Sari"
+    }
+  ]
+}

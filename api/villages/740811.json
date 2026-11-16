@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7408112001,
+      "name": "Puundoho"
+    },
+    {
+      "code": 7408112002,
+      "name": "Pakue"
+    },
+    {
+      "code": 7408112003,
+      "name": "Lawata"
+    },
+    {
+      "code": 7408112004,
+      "name": "Mataleuno"
+    },
+    {
+      "code": 7408112005,
+      "name": "Teposua"
+    },
+    {
+      "code": 7408112006,
+      "name": "Saludongka"
+    },
+    {
+      "code": 7408112007,
+      "name": "Kalo"
+    },
+    {
+      "code": 7408112008,
+      "name": "Amoe"
+    },
+    {
+      "code": 7408112009,
+      "name": "Lengkong Batu"
+    }
+  ]
+}

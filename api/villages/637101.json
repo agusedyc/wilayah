@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6371011001,
+      "name": "Mantuil"
+    },
+    {
+      "code": 6371011002,
+      "name": "Kelayan Selatan"
+    },
+    {
+      "code": 6371011003,
+      "name": "Pekauman"
+    },
+    {
+      "code": 6371011004,
+      "name": "Kelayan Barat"
+    },
+    {
+      "code": 6371011005,
+      "name": "Kelayan Tengah"
+    },
+    {
+      "code": 6371011006,
+      "name": "Kelayan Dalam"
+    },
+    {
+      "code": 6371011007,
+      "name": "Murung Raya"
+    },
+    {
+      "code": 6371011008,
+      "name": "Kelayan Timur"
+    },
+    {
+      "code": 6371011009,
+      "name": "Tanjung Pagar"
+    },
+    {
+      "code": 6371011010,
+      "name": "Pemurus Dalam"
+    },
+    {
+      "code": 6371011011,
+      "name": "Pemurus Baru"
+    },
+    {
+      "code": 6371011012,
+      "name": "Basirih Selatan"
+    }
+  ]
+}

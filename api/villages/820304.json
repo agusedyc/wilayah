@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8203042001,
+      "name": "Soa-Sio"
+    },
+    {
+      "code": 8203042002,
+      "name": "Pune"
+    },
+    {
+      "code": 8203042003,
+      "name": "Mamuya"
+    },
+    {
+      "code": 8203042016,
+      "name": "Toweka"
+    },
+    {
+      "code": 8203042024,
+      "name": "Simau"
+    },
+    {
+      "code": 8203042031,
+      "name": "Barataku"
+    },
+    {
+      "code": 8203042032,
+      "name": "Towara"
+    }
+  ]
+}

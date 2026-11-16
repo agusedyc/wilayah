@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8172012001,
+      "name": "Fiditan"
+    },
+    {
+      "code": 8172012002,
+      "name": "Ngadi"
+    },
+    {
+      "code": 8172012003,
+      "name": "Dullah"
+    },
+    {
+      "code": 8172012004,
+      "name": "Labetawi"
+    },
+    {
+      "code": 8172012005,
+      "name": "Tamedan"
+    },
+    {
+      "code": 8172012006,
+      "name": "Ohoitahit"
+    },
+    {
+      "code": 8172012007,
+      "name": "Ohoitel"
+    },
+    {
+      "code": 8172012008,
+      "name": "Dullah Laut"
+    }
+  ]
+}

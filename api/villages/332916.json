@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 3329162001,
+      "name": "Baros"
+    },
+    {
+      "code": 3329162002,
+      "name": "Buara"
+    },
+    {
+      "code": 3329162003,
+      "name": "Bulakelor"
+    },
+    {
+      "code": 3329162004,
+      "name": "Ciduwet"
+    },
+    {
+      "code": 3329162005,
+      "name": "Cikeusal Kidul"
+    },
+    {
+      "code": 3329162006,
+      "name": "Cikeusal Lor"
+    },
+    {
+      "code": 3329162007,
+      "name": "Ciseureuh"
+    },
+    {
+      "code": 3329162008,
+      "name": "Dukuhbadag"
+    },
+    {
+      "code": 3329162009,
+      "name": "Dukuhtengah"
+    },
+    {
+      "code": 3329162010,
+      "name": "Jemasih"
+    },
+    {
+      "code": 3329162011,
+      "name": "Karangbandung"
+    },
+    {
+      "code": 3329162012,
+      "name": "Ketanggungan"
+    },
+    {
+      "code": 3329162013,
+      "name": "Kubangjati"
+    },
+    {
+      "code": 3329162014,
+      "name": "Kubangwungu"
+    },
+    {
+      "code": 3329162015,
+      "name": "Kubangsari"
+    },
+    {
+      "code": 3329162016,
+      "name": "Pamedaran"
+    },
+    {
+      "code": 3329162017,
+      "name": "Sindangjaya"
+    },
+    {
+      "code": 3329162018,
+      "name": "Tanggungsari"
+    },
+    {
+      "code": 3329162019,
+      "name": "Karangmalang"
+    },
+    {
+      "code": 3329162020,
+      "name": "Dukuhturi"
+    },
+    {
+      "code": 3329162021,
+      "name": "Padakaton"
+    }
+  ]
+}

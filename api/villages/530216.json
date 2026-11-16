@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5302162001,
+      "name": "Toianas"
+    },
+    {
+      "code": 5302162002,
+      "name": "Skinu"
+    },
+    {
+      "code": 5302162003,
+      "name": "Oeleu"
+    },
+    {
+      "code": 5302162004,
+      "name": "Sanbet"
+    },
+    {
+      "code": 5302162005,
+      "name": "Bokong"
+    },
+    {
+      "code": 5302162006,
+      "name": "Tuataum"
+    },
+    {
+      "code": 5302162007,
+      "name": "Lobus"
+    },
+    {
+      "code": 5302162008,
+      "name": "Noeolin"
+    },
+    {
+      "code": 5302162009,
+      "name": "Milli"
+    }
+  ]
+}

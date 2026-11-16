@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1210011001,
+      "name": "Padang Matinggi"
+    },
+    {
+      "code": 1210011002,
+      "name": "Siringo-Ringo"
+    },
+    {
+      "code": 1210011003,
+      "name": "Sirandorung"
+    },
+    {
+      "code": 1210011004,
+      "name": "Rantauprapat"
+    },
+    {
+      "code": 1210011005,
+      "name": "Kartini"
+    },
+    {
+      "code": 1210011006,
+      "name": "Cendana"
+    },
+    {
+      "code": 1210011007,
+      "name": "Binaraga"
+    },
+    {
+      "code": 1210011008,
+      "name": "Pulo Padang"
+    },
+    {
+      "code": 1210011009,
+      "name": "Padang Bulan"
+    },
+    {
+      "code": 1210011010,
+      "name": "Aek Paing"
+    }
+  ]
+}

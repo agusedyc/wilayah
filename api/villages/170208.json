@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1702081006,
+      "name": "Beringin Tiga"
+    },
+    {
+      "code": 1702082001,
+      "name": "Sindang Jaya"
+    },
+    {
+      "code": 1702082002,
+      "name": "Sindang Jati"
+    },
+    {
+      "code": 1702082003,
+      "name": "Belitar Muka"
+    },
+    {
+      "code": 1702082004,
+      "name": "Pelalo"
+    },
+    {
+      "code": 1702082005,
+      "name": "Kayu Manis"
+    },
+    {
+      "code": 1702082009,
+      "name": "Air Dingin"
+    },
+    {
+      "code": 1702082011,
+      "name": "Belitar Seberang"
+    },
+    {
+      "code": 1702082013,
+      "name": "Cahaya Negeri"
+    },
+    {
+      "code": 1702082014,
+      "name": "Tanjung Aur"
+    }
+  ]
+}

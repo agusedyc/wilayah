@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9671061001,
+      "name": "Klaligi"
+    },
+    {
+      "code": 9671061002,
+      "name": "Malawei"
+    },
+    {
+      "code": 9671061003,
+      "name": "Malabutor"
+    },
+    {
+      "code": 9671061004,
+      "name": "Remu Selatan"
+    },
+    {
+      "code": 9671061005,
+      "name": "Klasabi"
+    }
+  ]
+}

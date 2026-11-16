@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 regencies",
+  "data": [
+    {
+      "code": 8201,
+      "name": "Kabupaten Halmahera Barat"
+    },
+    {
+      "code": 8202,
+      "name": "Kabupaten Halmahera Tengah"
+    },
+    {
+      "code": 8203,
+      "name": "Kabupaten Halmahera Utara"
+    },
+    {
+      "code": 8204,
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    {
+      "code": 8205,
+      "name": "Kabupaten Kepulauan Sula"
+    },
+    {
+      "code": 8206,
+      "name": "Kabupaten Halmahera Timur"
+    },
+    {
+      "code": 8207,
+      "name": "Kabupaten Pulau Morotai"
+    },
+    {
+      "code": 8208,
+      "name": "Kabupaten Pulau Taliabu"
+    },
+    {
+      "code": 8271,
+      "name": "Kota Ternate"
+    },
+    {
+      "code": 8272,
+      "name": "Kota Tidore Kepulauan"
+    }
+  ]
+}

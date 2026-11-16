@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1704041007,
+      "name": "Tanjung Iman"
+    },
+    {
+      "code": 1704042001,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1704042002,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1704042003,
+      "name": "Padang Hangat"
+    },
+    {
+      "code": 1704042004,
+      "name": "Kemang Manis"
+    },
+    {
+      "code": 1704042005,
+      "name": "Penyandingan"
+    },
+    {
+      "code": 1704042006,
+      "name": "Sinar Jaya"
+    },
+    {
+      "code": 1704042008,
+      "name": "Tanjung Pandan"
+    },
+    {
+      "code": 1704042009,
+      "name": "Padang Baru"
+    }
+  ]
+}

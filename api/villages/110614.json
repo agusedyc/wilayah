@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1106142001,
+      "name": "Lamtamot"
+    },
+    {
+      "code": 1106142002,
+      "name": "Lambaro Tunong"
+    },
+    {
+      "code": 1106142003,
+      "name": "Lonbaroh"
+    },
+    {
+      "code": 1106142004,
+      "name": "Lon Asan"
+    },
+    {
+      "code": 1106142005,
+      "name": "Paya Keureuleh"
+    },
+    {
+      "code": 1106142006,
+      "name": "Panca"
+    },
+    {
+      "code": 1106142007,
+      "name": "Lam Kubu"
+    },
+    {
+      "code": 1106142008,
+      "name": "Panca Kubu"
+    },
+    {
+      "code": 1106142009,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1106142010,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 1106142011,
+      "name": "Saree Aceh"
+    },
+    {
+      "code": 1106142012,
+      "name": "Teuladan"
+    }
+  ]
+}

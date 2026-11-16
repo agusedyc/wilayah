@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6102152001,
+      "name": "Peniti Besar"
+    },
+    {
+      "code": 6102152002,
+      "name": "Sungai Purun Besar"
+    },
+    {
+      "code": 6102152003,
+      "name": "Parit Bugis"
+    },
+    {
+      "code": 6102152004,
+      "name": "Peniti Dalam I"
+    },
+    {
+      "code": 6102152005,
+      "name": "Peniti Dalam II"
+    },
+    {
+      "code": 6102152006,
+      "name": "Sungai Burung"
+    }
+  ]
+}

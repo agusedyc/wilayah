@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5314041002,
+      "name": "Onatali"
+    },
+    {
+      "code": 5314042001,
+      "name": "Maubesi"
+    },
+    {
+      "code": 5314042003,
+      "name": "Nggodimeda"
+    },
+    {
+      "code": 5314042004,
+      "name": "Limakoli"
+    },
+    {
+      "code": 5314042005,
+      "name": "Lidamanu"
+    },
+    {
+      "code": 5314042010,
+      "name": "Suebela"
+    },
+    {
+      "code": 5314042011,
+      "name": "Lidabesi"
+    },
+    {
+      "code": 5314042013,
+      "name": "Siomeda"
+    }
+  ]
+}

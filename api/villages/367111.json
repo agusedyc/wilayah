@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3671111001,
+      "name": "Pinang"
+    },
+    {
+      "code": 3671111002,
+      "name": "Sudimara Pinang"
+    },
+    {
+      "code": 3671111003,
+      "name": "Neroktog"
+    },
+    {
+      "code": 3671111004,
+      "name": "Kunciran"
+    },
+    {
+      "code": 3671111005,
+      "name": "Kunciran Indah"
+    },
+    {
+      "code": 3671111006,
+      "name": "Kunciran Jaya"
+    },
+    {
+      "code": 3671111007,
+      "name": "Cipete"
+    },
+    {
+      "code": 3671111008,
+      "name": "Pakojan"
+    },
+    {
+      "code": 3671111009,
+      "name": "Panunggangan"
+    },
+    {
+      "code": 3671111010,
+      "name": "Panunggangan Utara"
+    },
+    {
+      "code": 3671111011,
+      "name": "Panunggangan Timur"
+    }
+  ]
+}

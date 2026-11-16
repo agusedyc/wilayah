@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3511232001,
+      "name": "Jambesari"
+    },
+    {
+      "code": 3511232002,
+      "name": "Jambeanom"
+    },
+    {
+      "code": 3511232003,
+      "name": "Pucanganom"
+    },
+    {
+      "code": 3511232004,
+      "name": "Sumberjeruk"
+    },
+    {
+      "code": 3511232005,
+      "name": "Tegalpasir"
+    },
+    {
+      "code": 3511232006,
+      "name": "Pengarang"
+    },
+    {
+      "code": 3511232007,
+      "name": "Grujugan Lor"
+    },
+    {
+      "code": 3511232008,
+      "name": "Pejagan"
+    },
+    {
+      "code": 3511232009,
+      "name": "Sumber Anyar"
+    }
+  ]
+}

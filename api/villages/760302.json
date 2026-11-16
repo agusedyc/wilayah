@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7603021001,
+      "name": "Aralle"
+    },
+    {
+      "code": 7603022003,
+      "name": "Ralle Anak"
+    },
+    {
+      "code": 7603022004,
+      "name": "Panetean"
+    },
+    {
+      "code": 7603022005,
+      "name": "Uhailanu"
+    },
+    {
+      "code": 7603022007,
+      "name": "Aralle Utara"
+    },
+    {
+      "code": 7603022009,
+      "name": "Uhaidaho"
+    },
+    {
+      "code": 7603022010,
+      "name": "Baruru"
+    },
+    {
+      "code": 7603022015,
+      "name": "Ralleanak Utara"
+    },
+    {
+      "code": 7603022016,
+      "name": "Pamoseang Pangga"
+    },
+    {
+      "code": 7603022017,
+      "name": "Kalabe"
+    },
+    {
+      "code": 7603022018,
+      "name": "Aralle Selatan"
+    },
+    {
+      "code": 7603022019,
+      "name": "Hahangan"
+    }
+  ]
+}

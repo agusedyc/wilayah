@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8107082001,
+      "name": "Longgar"
+    },
+    {
+      "code": 8107082002,
+      "name": "Apara"
+    },
+    {
+      "code": 8107082003,
+      "name": "Bemun"
+    },
+    {
+      "code": 8107082004,
+      "name": "Mesiang"
+    },
+    {
+      "code": 8107082005,
+      "name": "Gomo-Gomo"
+    },
+    {
+      "code": 8107082006,
+      "name": "Jambu Air"
+    },
+    {
+      "code": 8107082007,
+      "name": "Warabal"
+    }
+  ]
+}

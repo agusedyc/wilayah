@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8205122001,
+      "name": "Kaporo"
+    },
+    {
+      "code": 8205122002,
+      "name": "Waikafia"
+    },
+    {
+      "code": 8205122003,
+      "name": "Buya"
+    },
+    {
+      "code": 8205122004,
+      "name": "Auponhia"
+    },
+    {
+      "code": 8205122005,
+      "name": "Wailab"
+    }
+  ]
+}

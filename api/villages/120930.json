@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1209302001,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1209302002,
+      "name": "Perhutaan Silau"
+    },
+    {
+      "code": 1209302003,
+      "name": "Tanah Rakyat"
+    },
+    {
+      "code": 1209302004,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 1209302005,
+      "name": "Gedangan"
+    },
+    {
+      "code": 1209302006,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1209302007,
+      "name": "Pulo Bandring"
+    },
+    {
+      "code": 1209302008,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1209302009,
+      "name": "Suka Damai Barat"
+    },
+    {
+      "code": 1209302010,
+      "name": "Bunut Seberang"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6101052001,
+      "name": "Pemangkat Kota"
+    },
+    {
+      "code": 6101052002,
+      "name": "Harapan"
+    },
+    {
+      "code": 6101052003,
+      "name": "Penjajap"
+    },
+    {
+      "code": 6101052005,
+      "name": "Jelutung"
+    },
+    {
+      "code": 6101052013,
+      "name": "Perapakan"
+    },
+    {
+      "code": 6101052016,
+      "name": "Sebatuan"
+    },
+    {
+      "code": 6101052017,
+      "name": "Gugah Sejahtera"
+    },
+    {
+      "code": 6101052018,
+      "name": "Lonam"
+    }
+  ]
+}

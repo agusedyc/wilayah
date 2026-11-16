@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9604172001,
+      "name": "Miri"
+    },
+    {
+      "code": 9604172002,
+      "name": "Meis"
+    },
+    {
+      "code": 9604172003,
+      "name": "Aifamas"
+    },
+    {
+      "code": 9604172004,
+      "name": "Meinad"
+    },
+    {
+      "code": 9604172005,
+      "name": "Atafrumek"
+    },
+    {
+      "code": 9604172006,
+      "name": "Ifiam"
+    },
+    {
+      "code": 9604172007,
+      "name": "Wufmana"
+    }
+  ]
+}

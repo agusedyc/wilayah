@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671071001,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 9671071002,
+      "name": "Klabala"
+    },
+    {
+      "code": 9671071003,
+      "name": "Klasuur"
+    },
+    {
+      "code": 9671071004,
+      "name": "Klakublik"
+    }
+  ]
+}

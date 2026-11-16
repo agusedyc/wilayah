@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3275101001,
+      "name": "Jatisampurna"
+    },
+    {
+      "code": 3275101002,
+      "name": "Jatikarya"
+    },
+    {
+      "code": 3275101003,
+      "name": "Jatiranggon"
+    },
+    {
+      "code": 3275101004,
+      "name": "Jatirangga"
+    },
+    {
+      "code": 3275101005,
+      "name": "Jatiraden"
+    }
+  ]
+}

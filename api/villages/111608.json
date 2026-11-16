@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1116082001,
+      "name": "Benua Raja"
+    },
+    {
+      "code": 1116082002,
+      "name": "Landuh"
+    },
+    {
+      "code": 1116082003,
+      "name": "Paya Bedi"
+    },
+    {
+      "code": 1116082004,
+      "name": "Ingin Jaya"
+    },
+    {
+      "code": 1116082005,
+      "name": "Suka Rahmat"
+    },
+    {
+      "code": 1116082006,
+      "name": "Suka Jadi"
+    },
+    {
+      "code": 1116082007,
+      "name": "Durian"
+    },
+    {
+      "code": 1116082008,
+      "name": "Rantau Pauh"
+    },
+    {
+      "code": 1116082009,
+      "name": "Alur Cucur"
+    },
+    {
+      "code": 1116082010,
+      "name": "Pertamina"
+    },
+    {
+      "code": 1116082011,
+      "name": "Kebun Rantau"
+    },
+    {
+      "code": 1116082012,
+      "name": "Alur Manis"
+    },
+    {
+      "code": 1116082013,
+      "name": "Jamur Jelatang"
+    },
+    {
+      "code": 1116082014,
+      "name": "Suka Rakyat"
+    },
+    {
+      "code": 1116082015,
+      "name": "Jamur Labu"
+    },
+    {
+      "code": 1116082016,
+      "name": "Suka Mulia"
+    },
+    {
+      "code": 1116082017,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

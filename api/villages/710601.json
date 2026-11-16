@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7106012001,
+      "name": "Makalisung"
+    },
+    {
+      "code": 7106012002,
+      "name": "Waleo"
+    },
+    {
+      "code": 7106012003,
+      "name": "Lilang"
+    },
+    {
+      "code": 7106012004,
+      "name": "Lansot"
+    },
+    {
+      "code": 7106012005,
+      "name": "Kema III"
+    },
+    {
+      "code": 7106012006,
+      "name": "Kema II"
+    },
+    {
+      "code": 7106012007,
+      "name": "Kema I"
+    },
+    {
+      "code": 7106012008,
+      "name": "Tontalete"
+    },
+    {
+      "code": 7106012009,
+      "name": "Tontaalete Rok-rok"
+    },
+    {
+      "code": 7106012010,
+      "name": "Waleo Dua"
+    }
+  ]
+}

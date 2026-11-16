@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1106132001,
+      "name": "Rinon"
+    },
+    {
+      "code": 1106132002,
+      "name": "Alue Raya"
+    },
+    {
+      "code": 1106132003,
+      "name": "Melingge"
+    },
+    {
+      "code": 1106132004,
+      "name": "Lapeng"
+    },
+    {
+      "code": 1106132005,
+      "name": "Ulee Paya"
+    },
+    {
+      "code": 1106132006,
+      "name": "Gugop"
+    },
+    {
+      "code": 1106132007,
+      "name": "Seurapong"
+    },
+    {
+      "code": 1106132008,
+      "name": "Blang Situngkoh"
+    },
+    {
+      "code": 1106132009,
+      "name": "Paloh"
+    },
+    {
+      "code": 1106132010,
+      "name": "Lampuyang"
+    },
+    {
+      "code": 1106132011,
+      "name": "Lhok"
+    },
+    {
+      "code": 1106132012,
+      "name": "Teunom"
+    },
+    {
+      "code": 1106132013,
+      "name": "Lamteng"
+    },
+    {
+      "code": 1106132014,
+      "name": "Pasi Janeng"
+    },
+    {
+      "code": 1106132015,
+      "name": "Rabo"
+    },
+    {
+      "code": 1106132016,
+      "name": "Alue Reuyeueng"
+    },
+    {
+      "code": 1106132017,
+      "name": "Deudap"
+    }
+  ]
+}

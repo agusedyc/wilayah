@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3513062001,
+      "name": "Sentulan"
+    },
+    {
+      "code": 3513062002,
+      "name": "Gadingkulon"
+    },
+    {
+      "code": 3513062003,
+      "name": "Klenangkidul"
+    },
+    {
+      "code": 3513062004,
+      "name": "Klenanglor"
+    },
+    {
+      "code": 3513062005,
+      "name": "Alassapi"
+    },
+    {
+      "code": 3513062006,
+      "name": "Pendil"
+    },
+    {
+      "code": 3513062007,
+      "name": "Tarokan"
+    },
+    {
+      "code": 3513062008,
+      "name": "Liprak Wetan"
+    },
+    {
+      "code": 3513062009,
+      "name": "Liprak Kidul"
+    },
+    {
+      "code": 3513062010,
+      "name": "Liprak Kulon"
+    },
+    {
+      "code": 3513062011,
+      "name": "Banyuanyar Tengah"
+    },
+    {
+      "code": 3513062012,
+      "name": "Banyuanyar Kidul"
+    },
+    {
+      "code": 3513062013,
+      "name": "Gununggeni"
+    },
+    {
+      "code": 3513062014,
+      "name": "Blado Wetan"
+    }
+  ]
+}

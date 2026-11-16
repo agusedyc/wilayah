@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3513202001,
+      "name": "Malesanwetan"
+    },
+    {
+      "code": 3513202002,
+      "name": "Gunungbekel"
+    },
+    {
+      "code": 3513202003,
+      "name": "Tegalsono"
+    },
+    {
+      "code": 3513202004,
+      "name": "Bulujarankidul"
+    },
+    {
+      "code": 3513202005,
+      "name": "Bulujaranlor"
+    },
+    {
+      "code": 3513202006,
+      "name": "Paras"
+    },
+    {
+      "code": 3513202007,
+      "name": "Tegalsiwalan"
+    },
+    {
+      "code": 3513202008,
+      "name": "Banjarsawah"
+    },
+    {
+      "code": 3513202009,
+      "name": "Sumberbulu"
+    },
+    {
+      "code": 3513202010,
+      "name": "Sumberkledung"
+    },
+    {
+      "code": 3513202011,
+      "name": "Bladokulon"
+    },
+    {
+      "code": 3513202012,
+      "name": "Tegalmojo"
+    }
+  ]
+}

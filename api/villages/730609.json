@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306091001,
+      "name": "Sapaya"
+    },
+    {
+      "code": 7306091010,
+      "name": "Je'nebatu"
+    },
+    {
+      "code": 7306092002,
+      "name": "Bontomanai"
+    },
+    {
+      "code": 7306092003,
+      "name": "Buakkang"
+    },
+    {
+      "code": 7306092004,
+      "name": "Bissoloro"
+    },
+    {
+      "code": 7306092011,
+      "name": "Rannaloe"
+    },
+    {
+      "code": 7306092012,
+      "name": "Mangempang"
+    }
+  ]
+}

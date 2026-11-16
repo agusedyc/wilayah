@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3305212001,
+      "name": "Karanggayam"
+    },
+    {
+      "code": 3305212002,
+      "name": "Kajoran"
+    },
+    {
+      "code": 3305212003,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3305212004,
+      "name": "Karangmojo"
+    },
+    {
+      "code": 3305212005,
+      "name": "Penimbun"
+    },
+    {
+      "code": 3305212006,
+      "name": "Kalirejo"
+    },
+    {
+      "code": 3305212007,
+      "name": "Pagebangan"
+    },
+    {
+      "code": 3305212008,
+      "name": "Clapar"
+    },
+    {
+      "code": 3305212009,
+      "name": "Logandu"
+    },
+    {
+      "code": 3305212010,
+      "name": "Kebakalan"
+    },
+    {
+      "code": 3305212011,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3305212012,
+      "name": "Wonotirto"
+    },
+    {
+      "code": 3305212013,
+      "name": "Kalibening"
+    },
+    {
+      "code": 3305212014,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3305212015,
+      "name": "Ginandong"
+    },
+    {
+      "code": 3305212016,
+      "name": "Binangun"
+    },
+    {
+      "code": 3305212017,
+      "name": "Glontor"
+    },
+    {
+      "code": 3305212018,
+      "name": "Selogiri"
+    },
+    {
+      "code": 3305212019,
+      "name": "Giritirto"
+    }
+  ]
+}

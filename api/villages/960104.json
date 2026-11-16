@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9601042001,
+      "name": "Seget"
+    },
+    {
+      "code": 9601042002,
+      "name": "Malabam"
+    },
+    {
+      "code": 9601042003,
+      "name": "Pulau Kasim"
+    },
+    {
+      "code": 9601042004,
+      "name": "Kasimle"
+    },
+    {
+      "code": 9601042005,
+      "name": "Wewenagu"
+    },
+    {
+      "code": 9601042006,
+      "name": "Wasingsan"
+    },
+    {
+      "code": 9601042007,
+      "name": "Klayas"
+    },
+    {
+      "code": 9601042008,
+      "name": "Wayenkede"
+    },
+    {
+      "code": 9601042009,
+      "name": "Mobi"
+    }
+  ]
+}

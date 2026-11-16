@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601282001,
+      "name": "Banjarmasin"
+    },
+    {
+      "code": 3601282002,
+      "name": "Carita"
+    },
+    {
+      "code": 3601282003,
+      "name": "Sukarame"
+    },
+    {
+      "code": 3601282004,
+      "name": "Sukanegara"
+    },
+    {
+      "code": 3601282005,
+      "name": "Cinoyong"
+    },
+    {
+      "code": 3601282006,
+      "name": "Pejamben"
+    },
+    {
+      "code": 3601282007,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3601282008,
+      "name": "Kawoyang"
+    },
+    {
+      "code": 3601282009,
+      "name": "Tembong"
+    },
+    {
+      "code": 3601282010,
+      "name": "Sindanglaut"
+    }
+  ]
+}

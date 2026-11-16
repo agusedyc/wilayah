@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3602202001,
+      "name": "Cilograng"
+    },
+    {
+      "code": 3602202002,
+      "name": "Cibareno"
+    },
+    {
+      "code": 3602202003,
+      "name": "Cikamunding"
+    },
+    {
+      "code": 3602202004,
+      "name": "Cijengkol"
+    },
+    {
+      "code": 3602202005,
+      "name": "Pasirbungur"
+    },
+    {
+      "code": 3602202006,
+      "name": "Lebaktipar"
+    },
+    {
+      "code": 3602202007,
+      "name": "Cikatomas"
+    },
+    {
+      "code": 3602202008,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3602202009,
+      "name": "Cireundeu"
+    },
+    {
+      "code": 3602202010,
+      "name": "Gunungbatu"
+    }
+  ]
+}

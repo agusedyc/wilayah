@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7603031001,
+      "name": "Mamasa"
+    },
+    {
+      "code": 7603032002,
+      "name": "Rambusaratu"
+    },
+    {
+      "code": 7603032003,
+      "name": "Osango"
+    },
+    {
+      "code": 7603032004,
+      "name": "Lambanan"
+    },
+    {
+      "code": 7603032005,
+      "name": "Lembana Salulo"
+    },
+    {
+      "code": 7603032006,
+      "name": "Taupe"
+    },
+    {
+      "code": 7603032007,
+      "name": "Buntu Buda"
+    },
+    {
+      "code": 7603032008,
+      "name": "Tondok Bakaru"
+    },
+    {
+      "code": 7603032009,
+      "name": "Pebassian"
+    },
+    {
+      "code": 7603032010,
+      "name": "Mambuliling"
+    },
+    {
+      "code": 7603032011,
+      "name": "Bombong Lambe"
+    },
+    {
+      "code": 7603032012,
+      "name": "Bubun Batu"
+    }
+  ]
+}

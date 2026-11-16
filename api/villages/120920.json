@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1209201001,
+      "name": "Teladan"
+    },
+    {
+      "code": 1209201002,
+      "name": "Siumbut Umbut"
+    },
+    {
+      "code": 1209201003,
+      "name": "Siumbut Baru"
+    },
+    {
+      "code": 1209201004,
+      "name": "Sentang"
+    },
+    {
+      "code": 1209201005,
+      "name": "Selawan"
+    },
+    {
+      "code": 1209201006,
+      "name": "Mutiara"
+    },
+    {
+      "code": 1209201007,
+      "name": "Lestari"
+    },
+    {
+      "code": 1209201008,
+      "name": "Kisaran Timur"
+    },
+    {
+      "code": 1209201009,
+      "name": "Kisaran Naga"
+    },
+    {
+      "code": 1209201010,
+      "name": "Kedai Ledang"
+    },
+    {
+      "code": 1209201011,
+      "name": "Karang Anyer"
+    },
+    {
+      "code": 1209201012,
+      "name": "Gambir Baru"
+    }
+  ]
+}

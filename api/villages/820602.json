@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8206022001,
+      "name": "Buli"
+    },
+    {
+      "code": 8206022002,
+      "name": "Buli Asal"
+    },
+    {
+      "code": 8206022003,
+      "name": "Buli Karya"
+    },
+    {
+      "code": 8206022011,
+      "name": "Wayafli"
+    },
+    {
+      "code": 8206022012,
+      "name": "Sailal"
+    },
+    {
+      "code": 8206022013,
+      "name": "Geltoli"
+    },
+    {
+      "code": 8206022014,
+      "name": "Pekaulang"
+    },
+    {
+      "code": 8206022023,
+      "name": "Teluk Buli"
+    },
+    {
+      "code": 8206022024,
+      "name": "Gamesan"
+    },
+    {
+      "code": 8206022025,
+      "name": "Baburino"
+    }
+  ]
+}

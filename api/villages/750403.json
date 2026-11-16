@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7504032001,
+      "name": "Motolohu"
+    },
+    {
+      "code": 7504032002,
+      "name": "Imbodu"
+    },
+    {
+      "code": 7504032003,
+      "name": "Manunggal Karya"
+    },
+    {
+      "code": 7504032004,
+      "name": "Sidorukun"
+    },
+    {
+      "code": 7504032008,
+      "name": "Sarimurni"
+    },
+    {
+      "code": 7504032009,
+      "name": "Huyula"
+    },
+    {
+      "code": 7504032012,
+      "name": "Omayuwa"
+    },
+    {
+      "code": 7504032013,
+      "name": "Ayula"
+    },
+    {
+      "code": 7504032014,
+      "name": "Patuhu"
+    },
+    {
+      "code": 7504032015,
+      "name": "Banuroja"
+    },
+    {
+      "code": 7504032016,
+      "name": "Pelambane"
+    },
+    {
+      "code": 7504032017,
+      "name": "Motolohu Selatan"
+    },
+    {
+      "code": 7504032018,
+      "name": "Sidowonge"
+    }
+  ]
+}

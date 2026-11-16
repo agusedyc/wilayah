@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3175021001,
+      "name": "Pulo Gadung"
+    },
+    {
+      "code": 3175021002,
+      "name": "Pisangan Timur"
+    },
+    {
+      "code": 3175021003,
+      "name": "Cipinang"
+    },
+    {
+      "code": 3175021004,
+      "name": "Jatinegara Kaum"
+    },
+    {
+      "code": 3175021005,
+      "name": "Rawamangun"
+    },
+    {
+      "code": 3175021006,
+      "name": "Kayu Putih"
+    },
+    {
+      "code": 3175021007,
+      "name": "Jati"
+    }
+  ]
+}

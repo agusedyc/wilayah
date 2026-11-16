@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9403142001,
+      "name": "Muyetadi"
+    },
+    {
+      "code": 9403142002,
+      "name": "Mogeya"
+    },
+    {
+      "code": 9403142003,
+      "name": "Epabutu"
+    },
+    {
+      "code": 9403142004,
+      "name": "Tiga Damuto"
+    },
+    {
+      "code": 9403142005,
+      "name": "Bebiyai"
+    },
+    {
+      "code": 9403142006,
+      "name": "Idaiyo"
+    },
+    {
+      "code": 9403142007,
+      "name": "Tinou"
+    },
+    {
+      "code": 9403142008,
+      "name": "Damuto"
+    },
+    {
+      "code": 9403142009,
+      "name": "Obaiyodimi"
+    },
+    {
+      "code": 9403142010,
+      "name": "Amopa"
+    }
+  ]
+}

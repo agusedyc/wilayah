@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7205092001,
+      "name": "Lokodidi"
+    },
+    {
+      "code": 7205092002,
+      "name": "Matinan"
+    },
+    {
+      "code": 7205092003,
+      "name": "Taat"
+    },
+    {
+      "code": 7205092004,
+      "name": "Lokodoka"
+    },
+    {
+      "code": 7205092005,
+      "name": "Labuton"
+    },
+    {
+      "code": 7205092006,
+      "name": "Bulagidun"
+    },
+    {
+      "code": 7205092007,
+      "name": "Diapati"
+    },
+    {
+      "code": 7205092008,
+      "name": "Nandu"
+    },
+    {
+      "code": 7205092009,
+      "name": "Lipubogu"
+    },
+    {
+      "code": 7205092010,
+      "name": "Bulogidon Tanjung"
+    },
+    {
+      "code": 7205092011,
+      "name": "Pandangan"
+    }
+  ]
+}

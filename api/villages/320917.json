@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3209172002,
+      "name": "Cilukrak"
+    },
+    {
+      "code": 3209172003,
+      "name": "Kepuh"
+    },
+    {
+      "code": 3209172004,
+      "name": "Balerante"
+    },
+    {
+      "code": 3209172005,
+      "name": "Panongan"
+    },
+    {
+      "code": 3209172006,
+      "name": "Beberan"
+    },
+    {
+      "code": 3209172007,
+      "name": "Semplo"
+    },
+    {
+      "code": 3209172008,
+      "name": "Palimanan Timur"
+    },
+    {
+      "code": 3209172011,
+      "name": "Pegagan"
+    },
+    {
+      "code": 3209172012,
+      "name": "Lungbenda"
+    },
+    {
+      "code": 3209172013,
+      "name": "Ciawi"
+    },
+    {
+      "code": 3209172014,
+      "name": "Tegalkarang"
+    },
+    {
+      "code": 3209172015,
+      "name": "Cengkuang"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7405112001,
+      "name": "Labuan Beropa"
+    },
+    {
+      "code": 7405112002,
+      "name": "Tambolosu"
+    },
+    {
+      "code": 7405112003,
+      "name": "Woru Woru"
+    },
+    {
+      "code": 7405112004,
+      "name": "Tambeanga"
+    },
+    {
+      "code": 7405112005,
+      "name": "Labotaone"
+    },
+    {
+      "code": 7405112006,
+      "name": "Batu Jaya"
+    },
+    {
+      "code": 7405112007,
+      "name": "Namu"
+    },
+    {
+      "code": 7405112008,
+      "name": "Malaringgi"
+    },
+    {
+      "code": 7405112009,
+      "name": "Tue Tue"
+    },
+    {
+      "code": 7405112010,
+      "name": "Sangi Sangi"
+    },
+    {
+      "code": 7405112011,
+      "name": "Ulu Sawa"
+    },
+    {
+      "code": 7405112012,
+      "name": "Lawisata"
+    },
+    {
+      "code": 7405112013,
+      "name": "Kondono"
+    },
+    {
+      "code": 7405112014,
+      "name": "Peo Indah"
+    },
+    {
+      "code": 7405112015,
+      "name": "Puundirangga"
+    },
+    {
+      "code": 7405112016,
+      "name": "Cempedak"
+    },
+    {
+      "code": 7405112017,
+      "name": "Laonti"
+    },
+    {
+      "code": 7405112018,
+      "name": "Rumbi-Rumbia"
+    },
+    {
+      "code": 7405112020,
+      "name": "Wandaeha"
+    }
+  ]
+}

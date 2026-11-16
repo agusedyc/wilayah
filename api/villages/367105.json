@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3671051001,
+      "name": "Cipondoh"
+    },
+    {
+      "code": 3671051002,
+      "name": "Cipondoh Makmur"
+    },
+    {
+      "code": 3671051003,
+      "name": "Cipondoh Indah"
+    },
+    {
+      "code": 3671051004,
+      "name": "Gondrong"
+    },
+    {
+      "code": 3671051005,
+      "name": "Kenanga"
+    },
+    {
+      "code": 3671051006,
+      "name": "Petir"
+    },
+    {
+      "code": 3671051007,
+      "name": "Ketapang"
+    },
+    {
+      "code": 3671051008,
+      "name": "Poris Plawad"
+    },
+    {
+      "code": 3671051009,
+      "name": "Poris Plawad Utara"
+    },
+    {
+      "code": 3671051010,
+      "name": "Poris Plawad Indah"
+    }
+  ]
+}

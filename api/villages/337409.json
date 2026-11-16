@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3374091001,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3374091002,
+      "name": "Bendan Dhuwur"
+    },
+    {
+      "code": 3374091003,
+      "name": "Bendan Ngisor"
+    },
+    {
+      "code": 3374091004,
+      "name": "Sampangan"
+    },
+    {
+      "code": 3374091005,
+      "name": "Gajahmungkur"
+    },
+    {
+      "code": 3374091006,
+      "name": "Lempongsari"
+    },
+    {
+      "code": 3374091007,
+      "name": "Petompon"
+    },
+    {
+      "code": 3374091008,
+      "name": "Bendungan"
+    }
+  ]
+}

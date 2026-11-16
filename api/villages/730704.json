@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7307041001,
+      "name": "Samaenre"
+    },
+    {
+      "code": 7307042002,
+      "name": "Mattunreng Tellue"
+    },
+    {
+      "code": 7307042003,
+      "name": "Kompang"
+    },
+    {
+      "code": 7307042004,
+      "name": "Baru"
+    },
+    {
+      "code": 7307042005,
+      "name": "Pattongko"
+    },
+    {
+      "code": 7307042006,
+      "name": "Saotengnga"
+    },
+    {
+      "code": 7307042007,
+      "name": "Saohiring"
+    },
+    {
+      "code": 7307042008,
+      "name": "Kanrung"
+    },
+    {
+      "code": 7307042009,
+      "name": "Saotanre"
+    },
+    {
+      "code": 7307042010,
+      "name": "Bonto"
+    },
+    {
+      "code": 7307042011,
+      "name": "Gantarang"
+    }
+  ]
+}

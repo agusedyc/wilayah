@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7571011001,
+      "name": "Dembe I"
+    },
+    {
+      "code": 7571011002,
+      "name": "Lekobalo"
+    },
+    {
+      "code": 7571011003,
+      "name": "Pilolodaa"
+    },
+    {
+      "code": 7571011004,
+      "name": "Buliide"
+    },
+    {
+      "code": 7571011005,
+      "name": "Tenilo"
+    },
+    {
+      "code": 7571011006,
+      "name": "Molosipat W"
+    },
+    {
+      "code": 7571011008,
+      "name": "Buladu"
+    }
+  ]
+}

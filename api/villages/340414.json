@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3404142001,
+      "name": "Banyurejo"
+    },
+    {
+      "code": 3404142002,
+      "name": "Tambakrejo"
+    },
+    {
+      "code": 3404142003,
+      "name": "Sumberrejo"
+    },
+    {
+      "code": 3404142004,
+      "name": "Pondokrejo"
+    },
+    {
+      "code": 3404142005,
+      "name": "Mororejo"
+    },
+    {
+      "code": 3404142006,
+      "name": "Margorejo"
+    },
+    {
+      "code": 3404142007,
+      "name": "Lumbungrejo"
+    },
+    {
+      "code": 3404142008,
+      "name": "Merdikorejo"
+    }
+  ]
+}

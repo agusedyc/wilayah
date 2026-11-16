@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213202001,
+      "name": "Karangmukti"
+    },
+    {
+      "code": 3213202002,
+      "name": "Cimayasari"
+    },
+    {
+      "code": 3213202003,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3213202004,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3213202005,
+      "name": "Wantilan"
+    },
+    {
+      "code": 3213202006,
+      "name": "Kosar"
+    },
+    {
+      "code": 3213202007,
+      "name": "Sawangan"
+    }
+  ]
+}

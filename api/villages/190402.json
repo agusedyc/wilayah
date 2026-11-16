@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1904021001,
+      "name": "Dul"
+    },
+    {
+      "code": 1904022004,
+      "name": "Air Mesu"
+    },
+    {
+      "code": 1904022006,
+      "name": "Mangkol"
+    },
+    {
+      "code": 1904022007,
+      "name": "Tanjung Gunung"
+    },
+    {
+      "code": 1904022010,
+      "name": "Benteng"
+    },
+    {
+      "code": 1904022012,
+      "name": "Padang Baru"
+    },
+    {
+      "code": 1904022013,
+      "name": "Jeruk"
+    },
+    {
+      "code": 1904022014,
+      "name": "Beluluk"
+    },
+    {
+      "code": 1904022016,
+      "name": "Pedindang"
+    },
+    {
+      "code": 1904022018,
+      "name": "Batu Belubang"
+    },
+    {
+      "code": 1904022020,
+      "name": "Air Mesu Timur"
+    },
+    {
+      "code": 1904022021,
+      "name": "Kebintik"
+    }
+  ]
+}

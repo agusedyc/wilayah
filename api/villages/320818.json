@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208181001,
+      "name": "Cigugur"
+    },
+    {
+      "code": 3208181002,
+      "name": "Cigadung"
+    },
+    {
+      "code": 3208181003,
+      "name": "Winduherang"
+    },
+    {
+      "code": 3208181004,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3208181005,
+      "name": "Cipari"
+    },
+    {
+      "code": 3208182006,
+      "name": "Cileuleuy"
+    },
+    {
+      "code": 3208182007,
+      "name": "Puncak"
+    },
+    {
+      "code": 3208182008,
+      "name": "Gunungkeling"
+    },
+    {
+      "code": 3208182009,
+      "name": "Cisantana"
+    },
+    {
+      "code": 3208182010,
+      "name": "Babakanmulya"
+    }
+  ]
+}

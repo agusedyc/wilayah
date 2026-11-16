@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9508102001,
+      "name": "Gilpid"
+    },
+    {
+      "code": 9508102002,
+      "name": "Wipdumu"
+    },
+    {
+      "code": 9508102003,
+      "name": "Bambi"
+    },
+    {
+      "code": 9508102004,
+      "name": "Osama"
+    },
+    {
+      "code": 9508102005,
+      "name": "Kagayem"
+    },
+    {
+      "code": 9508102006,
+      "name": "Ininkwaning"
+    },
+    {
+      "code": 9508102007,
+      "name": "Kumbuklema"
+    },
+    {
+      "code": 9508102008,
+      "name": "Sigimbut"
+    },
+    {
+      "code": 9508102009,
+      "name": "Sanwaruk"
+    },
+    {
+      "code": 9508102010,
+      "name": "Kusit"
+    },
+    {
+      "code": 9508102011,
+      "name": "Kumbun"
+    },
+    {
+      "code": 9508102012,
+      "name": "Peya-Peya"
+    },
+    {
+      "code": 9508102013,
+      "name": "Narugu"
+    }
+  ]
+}

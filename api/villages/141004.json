@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1410042001,
+      "name": "Alai"
+    },
+    {
+      "code": 1410042002,
+      "name": "Tenan"
+    },
+    {
+      "code": 1410042003,
+      "name": "Insit"
+    },
+    {
+      "code": 1410042004,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1410042005,
+      "name": "Tanjung Peranap"
+    },
+    {
+      "code": 1410042006,
+      "name": "Kundur"
+    },
+    {
+      "code": 1410042007,
+      "name": "Mekong"
+    },
+    {
+      "code": 1410042008,
+      "name": "Batang Malas"
+    },
+    {
+      "code": 1410042009,
+      "name": "Mantiasa"
+    },
+    {
+      "code": 1410042010,
+      "name": "Gogok Darussalam"
+    },
+    {
+      "code": 1410042011,
+      "name": "Maini Darul Aman"
+    },
+    {
+      "code": 1410042012,
+      "name": "Mengkikip"
+    },
+    {
+      "code": 1410042013,
+      "name": "Alai Selatan"
+    },
+    {
+      "code": 1410042014,
+      "name": "Tanjung Darul Takzim"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3526142001,
+      "name": "Soket Laok"
+    },
+    {
+      "code": 3526142002,
+      "name": "Soket Dajah"
+    },
+    {
+      "code": 3526142003,
+      "name": "Pamorah"
+    },
+    {
+      "code": 3526142004,
+      "name": "Banyubeseh"
+    },
+    {
+      "code": 3526142005,
+      "name": "Pocong"
+    },
+    {
+      "code": 3526142006,
+      "name": "Tragah"
+    },
+    {
+      "code": 3526142007,
+      "name": "Karang Leman"
+    },
+    {
+      "code": 3526142008,
+      "name": "Duko Tambin"
+    },
+    {
+      "code": 3526142009,
+      "name": "Keteleng"
+    },
+    {
+      "code": 3526142010,
+      "name": "Alang Alang"
+    },
+    {
+      "code": 3526142011,
+      "name": "Kemoning"
+    },
+    {
+      "code": 3526142012,
+      "name": "Tambin"
+    },
+    {
+      "code": 3526142013,
+      "name": "Bajeman"
+    },
+    {
+      "code": 3526142014,
+      "name": "Jaddung"
+    },
+    {
+      "code": 3526142015,
+      "name": "Pacangan"
+    },
+    {
+      "code": 3526142016,
+      "name": "Bancang"
+    },
+    {
+      "code": 3526142017,
+      "name": "Jaah"
+    },
+    {
+      "code": 3526142018,
+      "name": "Masaran"
+    }
+  ]
+}

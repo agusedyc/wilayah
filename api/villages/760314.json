@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7603141001,
+      "name": "Tawalian"
+    },
+    {
+      "code": 7603142002,
+      "name": "Tawalian Timur"
+    },
+    {
+      "code": 7603142003,
+      "name": "Kariango"
+    },
+    {
+      "code": 7603142004,
+      "name": "Rantetangnga"
+    }
+  ]
+}

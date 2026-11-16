@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7601122001,
+      "name": "Parabu"
+    },
+    {
+      "code": 7601122002,
+      "name": "Kenangan"
+    },
+    {
+      "code": 7601122003,
+      "name": "Bajawali"
+    },
+    {
+      "code": 7601122004,
+      "name": "Singgani"
+    },
+    {
+      "code": 7601122005,
+      "name": "Kulu"
+    },
+    {
+      "code": 7601122006,
+      "name": "Batu Matoru"
+    },
+    {
+      "code": 7601122007,
+      "name": "Bambakoro"
+    }
+  ]
+}

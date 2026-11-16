@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7308201001,
+      "name": "Cenrana"
+    },
+    {
+      "code": 7308202002,
+      "name": "Pacubbe"
+    },
+    {
+      "code": 7308202003,
+      "name": "Panyiwi"
+    },
+    {
+      "code": 7308202004,
+      "name": "Latonro"
+    },
+    {
+      "code": 7308202005,
+      "name": "Watu"
+    },
+    {
+      "code": 7308202006,
+      "name": "Nagauleng"
+    },
+    {
+      "code": 7308202007,
+      "name": "Cakkeware"
+    },
+    {
+      "code": 7308202008,
+      "name": "Pallime"
+    },
+    {
+      "code": 7308202009,
+      "name": "Laoni"
+    },
+    {
+      "code": 7308202010,
+      "name": "Labotto"
+    },
+    {
+      "code": 7308202011,
+      "name": "Awang Cenrana"
+    },
+    {
+      "code": 7308202012,
+      "name": "Labongnge"
+    },
+    {
+      "code": 7308202013,
+      "name": "Ajalasse"
+    },
+    {
+      "code": 7308202014,
+      "name": "Pusungnge"
+    },
+    {
+      "code": 7308202015,
+      "name": "Pallae"
+    },
+    {
+      "code": 7308202016,
+      "name": "Watang Ta"
+    }
+  ]
+}

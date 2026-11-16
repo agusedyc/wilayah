@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3201312001,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3201312002,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3201312003,
+      "name": "Pasir Eurih"
+    },
+    {
+      "code": 3201312004,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3201312005,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3201312006,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3201312007,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3201312008,
+      "name": "Sukajadi"
+    }
+  ]
+}

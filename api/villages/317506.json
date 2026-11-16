@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3175061001,
+      "name": "Jatinegara"
+    },
+    {
+      "code": 3175061002,
+      "name": "Rawa Terate"
+    },
+    {
+      "code": 3175061003,
+      "name": "Penggilingan"
+    },
+    {
+      "code": 3175061004,
+      "name": "Cakung Timur"
+    },
+    {
+      "code": 3175061005,
+      "name": "Pulo Gebang"
+    },
+    {
+      "code": 3175061006,
+      "name": "Ujung Menteng"
+    },
+    {
+      "code": 3175061007,
+      "name": "Cakung Barat"
+    }
+  ]
+}

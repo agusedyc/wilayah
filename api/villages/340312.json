@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3403122001,
+      "name": "Kalitekuk"
+    },
+    {
+      "code": 3403122002,
+      "name": "Kemejing"
+    },
+    {
+      "code": 3403122003,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3403122004,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3403122005,
+      "name": "Bendung"
+    },
+    {
+      "code": 3403122006,
+      "name": "Candirejo"
+    },
+    {
+      "code": 3403122007,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3403122008,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3403122009,
+      "name": "Pundungsari"
+    },
+    {
+      "code": 3403122010,
+      "name": "Semin"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3373021001,
+      "name": "Kutowinangun Kidul"
+    },
+    {
+      "code": 3373021002,
+      "name": "Gendongan"
+    },
+    {
+      "code": 3373021003,
+      "name": "Sidorejo Kidul"
+    },
+    {
+      "code": 3373021004,
+      "name": "Kalibening"
+    },
+    {
+      "code": 3373021005,
+      "name": "Tingkir Lor"
+    },
+    {
+      "code": 3373021006,
+      "name": "Tingkir Tengah"
+    },
+    {
+      "code": 3373021007,
+      "name": "Kutowinangun Lor"
+    }
+  ]
+}

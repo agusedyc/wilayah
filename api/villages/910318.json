@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9103182001,
+      "name": "Omon"
+    },
+    {
+      "code": 9103182003,
+      "name": "Klaisu"
+    },
+    {
+      "code": 9103182004,
+      "name": "Bangai"
+    },
+    {
+      "code": 9103183002,
+      "name": "Desa Adat Iwon"
+    }
+  ]
+}

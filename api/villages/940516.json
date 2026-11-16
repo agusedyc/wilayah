@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9405162001,
+      "name": "Nigilome"
+    },
+    {
+      "code": 9405162002,
+      "name": "Weni"
+    },
+    {
+      "code": 9405162003,
+      "name": "Amuleme"
+    },
+    {
+      "code": 9405162004,
+      "name": "Jigunggi"
+    },
+    {
+      "code": 9405162005,
+      "name": "Kumikomo"
+    },
+    {
+      "code": 9405162006,
+      "name": "Rumagi"
+    },
+    {
+      "code": 9405162007,
+      "name": "Gelegi"
+    },
+    {
+      "code": 9405162008,
+      "name": "Wombru"
+    },
+    {
+      "code": 9405162009,
+      "name": "Kondokwe"
+    },
+    {
+      "code": 9405162010,
+      "name": "Tinibolu"
+    },
+    {
+      "code": 9405162011,
+      "name": "Winanggwi"
+    }
+  ]
+}

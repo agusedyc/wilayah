@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9602112001,
+      "name": "Udagaga"
+    },
+    {
+      "code": 9602112002,
+      "name": "Kayubiro"
+    },
+    {
+      "code": 9602112003,
+      "name": "Adona"
+    },
+    {
+      "code": 9602112004,
+      "name": "Benawa II"
+    },
+    {
+      "code": 9602112005,
+      "name": "Atori"
+    },
+    {
+      "code": 9602112006,
+      "name": "Kamundan Satu"
+    },
+    {
+      "code": 9602112007,
+      "name": "Karirif"
+    },
+    {
+      "code": 9602112008,
+      "name": "Bubuko"
+    },
+    {
+      "code": 9602112009,
+      "name": "Kamundan Dua"
+    }
+  ]
+}

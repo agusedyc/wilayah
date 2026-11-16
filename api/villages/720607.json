@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7206071007,
+      "name": "Ulunambo"
+    },
+    {
+      "code": 7206072001,
+      "name": "Terebino"
+    },
+    {
+      "code": 7206072002,
+      "name": "Torukuno"
+    },
+    {
+      "code": 7206072003,
+      "name": "Ngapaea"
+    },
+    {
+      "code": 7206072004,
+      "name": "\"Padala\"\"a\""
+    },
+    {
+      "code": 7206072005,
+      "name": "Morompaitonga"
+    },
+    {
+      "code": 7206072006,
+      "name": "Kofalagadi"
+    },
+    {
+      "code": 7206072008,
+      "name": "Padei Laut"
+    },
+    {
+      "code": 7206072009,
+      "name": "Padei Darat"
+    },
+    {
+      "code": 7206072010,
+      "name": "Samarengga"
+    },
+    {
+      "code": 7206072015,
+      "name": "Ulunipa"
+    },
+    {
+      "code": 7206072016,
+      "name": "Wawangkolono"
+    },
+    {
+      "code": 7206072017,
+      "name": "Buranga"
+    },
+    {
+      "code": 7206072019,
+      "name": "Tafagapi"
+    }
+  ]
+}

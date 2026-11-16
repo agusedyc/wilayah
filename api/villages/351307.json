@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3513072001,
+      "name": "Andungbiru"
+    },
+    {
+      "code": 3513072002,
+      "name": "Tlogoargo"
+    },
+    {
+      "code": 3513072003,
+      "name": "Andungsari"
+    },
+    {
+      "code": 3513072004,
+      "name": "Tlogosari"
+    },
+    {
+      "code": 3513072005,
+      "name": "Ranugedang"
+    },
+    {
+      "code": 3513072006,
+      "name": "Tiris"
+    },
+    {
+      "code": 3513072007,
+      "name": "Segaran"
+    },
+    {
+      "code": 3513072008,
+      "name": "Ranuagung"
+    },
+    {
+      "code": 3513072009,
+      "name": "Jangkang"
+    },
+    {
+      "code": 3513072010,
+      "name": "Wedusan"
+    },
+    {
+      "code": 3513072011,
+      "name": "Racek"
+    },
+    {
+      "code": 3513072012,
+      "name": "Pesawahan"
+    },
+    {
+      "code": 3513072013,
+      "name": "Pedagangan"
+    },
+    {
+      "code": 3513072014,
+      "name": "Rejing"
+    },
+    {
+      "code": 3513072015,
+      "name": "Tegalwatu"
+    },
+    {
+      "code": 3513072016,
+      "name": "Tuluparari"
+    }
+  ]
+}

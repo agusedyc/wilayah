@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2104062001,
+      "name": "Berindat"
+    },
+    {
+      "code": 2104062002,
+      "name": "Sedamai"
+    },
+    {
+      "code": 2104062003,
+      "name": "Lanjut"
+    },
+    {
+      "code": 2104062004,
+      "name": "Kote"
+    },
+    {
+      "code": 2104062005,
+      "name": "Persing"
+    },
+    {
+      "code": 2104062006,
+      "name": "Pelakak"
+    }
+  ]
+}

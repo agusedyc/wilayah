@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3314101001,
+      "name": "Sine"
+    },
+    {
+      "code": 3314101002,
+      "name": "Sragen Kulon"
+    },
+    {
+      "code": 3314101003,
+      "name": "Sragen Tengah"
+    },
+    {
+      "code": 3314101004,
+      "name": "Sragen Wetan"
+    },
+    {
+      "code": 3314101005,
+      "name": "Nglorog"
+    },
+    {
+      "code": 3314101006,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 3314102007,
+      "name": "Tangkil"
+    },
+    {
+      "code": 3314102008,
+      "name": "Kedungupit"
+    }
+  ]
+}

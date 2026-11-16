@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5305162001,
+      "name": "Tude"
+    },
+    {
+      "code": 5305162002,
+      "name": "Mauta"
+    },
+    {
+      "code": 5305162003,
+      "name": "Muriabang"
+    },
+    {
+      "code": 5305162004,
+      "name": "Tubbe"
+    },
+    {
+      "code": 5305162005,
+      "name": "Tamakh"
+    },
+    {
+      "code": 5305162006,
+      "name": "Bagang"
+    },
+    {
+      "code": 5305162007,
+      "name": "Toang"
+    },
+    {
+      "code": 5305162008,
+      "name": "Eka Jaya"
+    },
+    {
+      "code": 5305162009,
+      "name": "Aramaba"
+    },
+    {
+      "code": 5305162010,
+      "name": "Delaki"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7318201001,
+      "name": "Talion"
+    },
+    {
+      "code": 7318201013,
+      "name": "Rembon"
+    },
+    {
+      "code": 7318202002,
+      "name": "Palesan"
+    },
+    {
+      "code": 7318202003,
+      "name": "Banga"
+    },
+    {
+      "code": 7318202004,
+      "name": "Ullin"
+    },
+    {
+      "code": 7318202005,
+      "name": "Limbong"
+    },
+    {
+      "code": 7318202006,
+      "name": "Sarapeang"
+    },
+    {
+      "code": 7318202007,
+      "name": "Buri'"
+    },
+    {
+      "code": 7318202008,
+      "name": "Maroson"
+    },
+    {
+      "code": 7318202009,
+      "name": "Batusura'"
+    },
+    {
+      "code": 7318202010,
+      "name": "Bua ' Tarrung"
+    },
+    {
+      "code": 7318202011,
+      "name": "To'pao"
+    },
+    {
+      "code": 7318202012,
+      "name": "Kayuosing"
+    }
+  ]
+}

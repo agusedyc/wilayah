@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3275021001,
+      "name": "Bintara"
+    },
+    {
+      "code": 3275021002,
+      "name": "Kranji"
+    },
+    {
+      "code": 3275021003,
+      "name": "Kotabaru"
+    },
+    {
+      "code": 3275021004,
+      "name": "Bintarajaya"
+    },
+    {
+      "code": 3275021005,
+      "name": "Jakasampurna"
+    }
+  ]
+}

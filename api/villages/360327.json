@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3603272001,
+      "name": "Benda"
+    },
+    {
+      "code": 3603272002,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3603272003,
+      "name": "Kaliasin"
+    },
+    {
+      "code": 3603272004,
+      "name": "Buniayu"
+    },
+    {
+      "code": 3603272005,
+      "name": "Parahu"
+    },
+    {
+      "code": 3603272006,
+      "name": "Merak"
+    },
+    {
+      "code": 3603272007,
+      "name": "Bunar"
+    },
+    {
+      "code": 3603272008,
+      "name": "Kubang"
+    }
+  ]
+}

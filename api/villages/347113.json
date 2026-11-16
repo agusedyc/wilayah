@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3471131001,
+      "name": "Semaki"
+    },
+    {
+      "code": 3471131002,
+      "name": "Muja Muju"
+    },
+    {
+      "code": 3471131003,
+      "name": "Tahunan"
+    },
+    {
+      "code": 3471131004,
+      "name": "Warungboto"
+    },
+    {
+      "code": 3471131005,
+      "name": "Pandeyan"
+    },
+    {
+      "code": 3471131006,
+      "name": "Sorosutan"
+    },
+    {
+      "code": 3471131007,
+      "name": "Giwangan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871121002,
+      "name": "Sukabumi"
+    },
+    {
+      "code": 1871121004,
+      "name": "Sukabumi Indah"
+    },
+    {
+      "code": 1871121007,
+      "name": "Campang Raya"
+    },
+    {
+      "code": 1871121008,
+      "name": "Nusantara Permai"
+    },
+    {
+      "code": 1871121009,
+      "name": "Campang Jaya"
+    },
+    {
+      "code": 1871121010,
+      "name": "Way Gubak"
+    },
+    {
+      "code": 1871121011,
+      "name": "Way Laga"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1902022001,
+      "name": "Membalong"
+    },
+    {
+      "code": 1902022002,
+      "name": "Perpat"
+    },
+    {
+      "code": 1902022003,
+      "name": "Lassar"
+    },
+    {
+      "code": 1902022004,
+      "name": "Simpang Rusa"
+    },
+    {
+      "code": 1902022005,
+      "name": "Kembiri"
+    },
+    {
+      "code": 1902022006,
+      "name": "Bantan"
+    },
+    {
+      "code": 1902022007,
+      "name": "Tanjungrusa"
+    },
+    {
+      "code": 1902022008,
+      "name": "Mentigi"
+    },
+    {
+      "code": 1902022009,
+      "name": "Pulau Seliu"
+    },
+    {
+      "code": 1902022010,
+      "name": "Pulau Sumedang"
+    },
+    {
+      "code": 1902022011,
+      "name": "Gunung Riting"
+    },
+    {
+      "code": 1902022012,
+      "name": "Padang Kandis"
+    }
+  ]
+}

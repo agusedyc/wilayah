@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3271041001,
+      "name": "Menteng"
+    },
+    {
+      "code": 3271041002,
+      "name": "Sindang Barang"
+    },
+    {
+      "code": 3271041003,
+      "name": "Bubulak"
+    },
+    {
+      "code": 3271041004,
+      "name": "Marga jaya"
+    },
+    {
+      "code": 3271041005,
+      "name": "Balumbang Jaya"
+    },
+    {
+      "code": 3271041006,
+      "name": "Situ Gede"
+    },
+    {
+      "code": 3271041007,
+      "name": "Semplak"
+    },
+    {
+      "code": 3271041008,
+      "name": "Cilendek Barat"
+    },
+    {
+      "code": 3271041009,
+      "name": "Cilendek Timur"
+    },
+    {
+      "code": 3271041010,
+      "name": "Curug Mekar"
+    },
+    {
+      "code": 3271041011,
+      "name": "Curug"
+    },
+    {
+      "code": 3271041012,
+      "name": "Pasir Jaya"
+    },
+    {
+      "code": 3271041013,
+      "name": "Pasir Kuda"
+    },
+    {
+      "code": 3271041014,
+      "name": "Pasir Mulya"
+    },
+    {
+      "code": 3271041015,
+      "name": "Gunung Batu"
+    },
+    {
+      "code": 3271041016,
+      "name": "Loji"
+    }
+  ]
+}

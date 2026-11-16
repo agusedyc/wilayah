@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7205012001,
+      "name": "Momunu"
+    },
+    {
+      "code": 7205012002,
+      "name": "Pinamula"
+    },
+    {
+      "code": 7205012003,
+      "name": "Pujimulyo"
+    },
+    {
+      "code": 7205012004,
+      "name": "Taluan"
+    },
+    {
+      "code": 7205012005,
+      "name": "Potugu"
+    },
+    {
+      "code": 7205012006,
+      "name": "Panimbul"
+    },
+    {
+      "code": 7205012007,
+      "name": "Tongon"
+    },
+    {
+      "code": 7205012008,
+      "name": "Lamadong II"
+    },
+    {
+      "code": 7205012009,
+      "name": "Pomayagon"
+    },
+    {
+      "code": 7205012010,
+      "name": "Guamonial"
+    },
+    {
+      "code": 7205012011,
+      "name": "Lamadong I"
+    },
+    {
+      "code": 7205012012,
+      "name": "Pajeko"
+    },
+    {
+      "code": 7205012020,
+      "name": "Wakat"
+    },
+    {
+      "code": 7205012021,
+      "name": "Soraya"
+    },
+    {
+      "code": 7205012022,
+      "name": "Pinamula Baru"
+    },
+    {
+      "code": 7205012023,
+      "name": "Mangubi"
+    }
+  ]
+}

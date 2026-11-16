@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3275051001,
+      "name": "Bojong Rawalumbu"
+    },
+    {
+      "code": 3275051002,
+      "name": "Pengasinan"
+    },
+    {
+      "code": 3275051003,
+      "name": "Sepanjangjaya"
+    },
+    {
+      "code": 3275051004,
+      "name": "Bojongmenteng"
+    }
+  ]
+}

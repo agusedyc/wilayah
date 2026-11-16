@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7211032001,
+      "name": "Toropot"
+    },
+    {
+      "code": 7211032002,
+      "name": "Kokudang"
+    },
+    {
+      "code": 7211032003,
+      "name": "Kaukes"
+    },
+    {
+      "code": 7211032004,
+      "name": "Bungin"
+    },
+    {
+      "code": 7211032005,
+      "name": "Panapat"
+    },
+    {
+      "code": 7211032006,
+      "name": "Ndindibung"
+    },
+    {
+      "code": 7211032007,
+      "name": "Nggasuang"
+    },
+    {
+      "code": 7211032008,
+      "name": "Mbuang-Mbuang"
+    },
+    {
+      "code": 7211032009,
+      "name": "Timpaus"
+    },
+    {
+      "code": 7211032010,
+      "name": "Kasuari"
+    },
+    {
+      "code": 7211032011,
+      "name": "Sonit"
+    },
+    {
+      "code": 7211032012,
+      "name": "Paisubebe"
+    },
+    {
+      "code": 7211032013,
+      "name": "Mandel"
+    },
+    {
+      "code": 7211032014,
+      "name": "Minanga"
+    },
+    {
+      "code": 7211032015,
+      "name": "Bolokut"
+    },
+    {
+      "code": 7211032016,
+      "name": "Keak"
+    }
+  ]
+}

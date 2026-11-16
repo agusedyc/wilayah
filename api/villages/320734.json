@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3207342001,
+      "name": "Cikupa"
+    },
+    {
+      "code": 3207342002,
+      "name": "Sukaraharja"
+    },
+    {
+      "code": 3207342003,
+      "name": "Lumbung"
+    },
+    {
+      "code": 3207342004,
+      "name": "Lumbungsari"
+    },
+    {
+      "code": 3207342005,
+      "name": "Awiluar"
+    },
+    {
+      "code": 3207342006,
+      "name": "Darmaraja"
+    },
+    {
+      "code": 3207342007,
+      "name": "Rawa"
+    },
+    {
+      "code": 3207342008,
+      "name": "Sadewata"
+    }
+  ]
+}

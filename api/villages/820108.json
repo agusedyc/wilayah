@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 8201082001,
+      "name": "Tosoa"
+    },
+    {
+      "code": 8201082002,
+      "name": "Tobobol"
+    },
+    {
+      "code": 8201082003,
+      "name": "Baru"
+    },
+    {
+      "code": 8201082004,
+      "name": "Nanas"
+    },
+    {
+      "code": 8201082005,
+      "name": "Jere"
+    },
+    {
+      "code": 8201082006,
+      "name": "Gamsungi"
+    },
+    {
+      "code": 8201082007,
+      "name": "Bataka"
+    },
+    {
+      "code": 8201082008,
+      "name": "Talaga"
+    },
+    {
+      "code": 8201082009,
+      "name": "Tobelos"
+    },
+    {
+      "code": 8201082010,
+      "name": "Gamkonora"
+    },
+    {
+      "code": 8201082011,
+      "name": "Sarau"
+    },
+    {
+      "code": 8201082012,
+      "name": "Ngawet"
+    },
+    {
+      "code": 8201082013,
+      "name": "Adu"
+    },
+    {
+      "code": 8201082014,
+      "name": "Gamsida"
+    },
+    {
+      "code": 8201082015,
+      "name": "Ngalo Ngalo"
+    },
+    {
+      "code": 8201082016,
+      "name": "Tuguaer"
+    }
+  ]
+}

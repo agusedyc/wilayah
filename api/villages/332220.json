@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3322201011,
+      "name": "Bandungan"
+    },
+    {
+      "code": 3322202001,
+      "name": "Mlilir"
+    },
+    {
+      "code": 3322202002,
+      "name": "Duren"
+    },
+    {
+      "code": 3322202003,
+      "name": "Jetis"
+    },
+    {
+      "code": 3322202004,
+      "name": "Kenteng"
+    },
+    {
+      "code": 3322202005,
+      "name": "Candi"
+    },
+    {
+      "code": 3322202006,
+      "name": "Jimbaran"
+    },
+    {
+      "code": 3322202007,
+      "name": "Pakopen"
+    },
+    {
+      "code": 3322202008,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3322202009,
+      "name": "Banyukuning"
+    }
+  ]
+}

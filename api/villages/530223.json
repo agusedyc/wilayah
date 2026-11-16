@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5302232001,
+      "name": "Lotas"
+    },
+    {
+      "code": 5302232002,
+      "name": "Sabnala"
+    },
+    {
+      "code": 5302232003,
+      "name": "Koloto"
+    },
+    {
+      "code": 5302232004,
+      "name": "Niti"
+    },
+    {
+      "code": 5302232005,
+      "name": "Obaki"
+    },
+    {
+      "code": 5302232006,
+      "name": "Benehe"
+    }
+  ]
+}

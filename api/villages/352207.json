@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3522072001,
+      "name": "Bareng"
+    },
+    {
+      "code": 3522072002,
+      "name": "Drenges"
+    },
+    {
+      "code": 3522072003,
+      "name": "Wedoro"
+    },
+    {
+      "code": 3522072004,
+      "name": "Panunggalan"
+    },
+    {
+      "code": 3522072005,
+      "name": "Alasgung"
+    },
+    {
+      "code": 3522072006,
+      "name": "Siwalan"
+    },
+    {
+      "code": 3522072007,
+      "name": "Glagahan"
+    },
+    {
+      "code": 3522072008,
+      "name": "Panemon"
+    },
+    {
+      "code": 3522072009,
+      "name": "Jatitengah"
+    },
+    {
+      "code": 3522072010,
+      "name": "Sugihwaras"
+    },
+    {
+      "code": 3522072011,
+      "name": "Trate"
+    },
+    {
+      "code": 3522072012,
+      "name": "Bulu"
+    },
+    {
+      "code": 3522072013,
+      "name": "Nglajang"
+    },
+    {
+      "code": 3522072014,
+      "name": "Kedungdowo"
+    },
+    {
+      "code": 3522072015,
+      "name": "Glagahwangi"
+    },
+    {
+      "code": 3522072016,
+      "name": "Balongrejo"
+    },
+    {
+      "code": 3522072017,
+      "name": "Genjor"
+    }
+  ]
+}

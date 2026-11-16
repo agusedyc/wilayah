@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9105102001,
+      "name": "Ambai I"
+    },
+    {
+      "code": 9105102004,
+      "name": "Kawipi"
+    },
+    {
+      "code": 9105102005,
+      "name": "Wamori"
+    },
+    {
+      "code": 9105102006,
+      "name": "Adiwipi"
+    },
+    {
+      "code": 9105102008,
+      "name": "Ambai II"
+    },
+    {
+      "code": 9105102009,
+      "name": "Mambawi"
+    },
+    {
+      "code": 9105102010,
+      "name": "Baisore"
+    },
+    {
+      "code": 9105102011,
+      "name": "Rondepi"
+    },
+    {
+      "code": 9105102014,
+      "name": "Imboriawa"
+    },
+    {
+      "code": 9105102015,
+      "name": "Bairei"
+    },
+    {
+      "code": 9105102016,
+      "name": "Aiwaraggani"
+    },
+    {
+      "code": 9105102017,
+      "name": "Toroa"
+    },
+    {
+      "code": 9105102019,
+      "name": "Marawi"
+    }
+  ]
+}

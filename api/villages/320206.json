@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3202062001,
+      "name": "Cikidang"
+    },
+    {
+      "code": 3202062002,
+      "name": "Cikiray"
+    },
+    {
+      "code": 3202062003,
+      "name": "Gunungmalang"
+    },
+    {
+      "code": 3202062004,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 3202062005,
+      "name": "Cicareuh"
+    },
+    {
+      "code": 3202062006,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3202062007,
+      "name": "Bumisari"
+    },
+    {
+      "code": 3202062008,
+      "name": "Sampora"
+    },
+    {
+      "code": 3202062009,
+      "name": "Nangkakoneng"
+    },
+    {
+      "code": 3202062010,
+      "name": "Mekarnangka"
+    },
+    {
+      "code": 3202062011,
+      "name": "Cijambe"
+    },
+    {
+      "code": 3202062012,
+      "name": "Cikarae Thoyyibah"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9503182001,
+      "name": "Tangma"
+    },
+    {
+      "code": 9503182002,
+      "name": "Wamarek"
+    },
+    {
+      "code": 9503182003,
+      "name": "Hipela"
+    },
+    {
+      "code": 9503182004,
+      "name": "Huewi"
+    },
+    {
+      "code": 9503182005,
+      "name": "Punno"
+    },
+    {
+      "code": 9503182006,
+      "name": "Simeka"
+    },
+    {
+      "code": 9503182007,
+      "name": "Yeleas"
+    },
+    {
+      "code": 9503182008,
+      "name": "Aleleng"
+    },
+    {
+      "code": 9503182009,
+      "name": "Yalimo"
+    },
+    {
+      "code": 9503182010,
+      "name": "Helo"
+    }
+  ]
+}

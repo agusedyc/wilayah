@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1806262001,
+      "name": "Way Harong"
+    },
+    {
+      "code": 1806262002,
+      "name": "Air Kubang"
+    },
+    {
+      "code": 1806262003,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1806262004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1806262005,
+      "name": "Air Naningan"
+    },
+    {
+      "code": 1806262006,
+      "name": "Datar Lebuay"
+    },
+    {
+      "code": 1806262007,
+      "name": "Sinar Jawa"
+    },
+    {
+      "code": 1806262008,
+      "name": "Batu Tegi"
+    },
+    {
+      "code": 1806262009,
+      "name": "Sinar Sekampung"
+    },
+    {
+      "code": 1806262010,
+      "name": "Margomulyo"
+    }
+  ]
+}

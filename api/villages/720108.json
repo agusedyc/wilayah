@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7201082001,
+      "name": "Bualemo A"
+    },
+    {
+      "code": 7201082002,
+      "name": "Tikupan"
+    },
+    {
+      "code": 7201082003,
+      "name": "Trans Mayayap"
+    },
+    {
+      "code": 7201082004,
+      "name": "Toiba"
+    },
+    {
+      "code": 7201082005,
+      "name": "Longkoga Barat"
+    },
+    {
+      "code": 7201082006,
+      "name": "Longkoga Timur"
+    },
+    {
+      "code": 7201082007,
+      "name": "Bualemo B"
+    },
+    {
+      "code": 7201082008,
+      "name": "Taima"
+    },
+    {
+      "code": 7201082009,
+      "name": "Sampaka"
+    },
+    {
+      "code": 7201082010,
+      "name": "Malik"
+    },
+    {
+      "code": 7201082011,
+      "name": "Binsil"
+    },
+    {
+      "code": 7201082012,
+      "name": "Binsil Padang"
+    },
+    {
+      "code": 7201082013,
+      "name": "Lembah Tompotika"
+    },
+    {
+      "code": 7201082014,
+      "name": "Mayayap"
+    },
+    {
+      "code": 7201082015,
+      "name": "Bima Karya"
+    },
+    {
+      "code": 7201082016,
+      "name": "Salipi"
+    },
+    {
+      "code": 7201082017,
+      "name": "Nipa Kalemoan"
+    },
+    {
+      "code": 7201082018,
+      "name": "Malik Makmur"
+    },
+    {
+      "code": 7201082019,
+      "name": "Lembah Makmur"
+    },
+    {
+      "code": 7201082020,
+      "name": "Dwi Karya"
+    }
+  ]
+}

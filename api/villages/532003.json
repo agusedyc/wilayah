@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5320031001,
+      "name": "Bolou"
+    },
+    {
+      "code": 5320031002,
+      "name": "Limaggu"
+    },
+    {
+      "code": 5320032003,
+      "name": "Lobodei"
+    },
+    {
+      "code": 5320032004,
+      "name": "Bodae"
+    },
+    {
+      "code": 5320032005,
+      "name": "Keduru"
+    },
+    {
+      "code": 5320032006,
+      "name": "Kuji Ratu"
+    },
+    {
+      "code": 5320032007,
+      "name": "Loborai"
+    },
+    {
+      "code": 5320032008,
+      "name": "Huwaga"
+    },
+    {
+      "code": 5320032009,
+      "name": "Eiada"
+    },
+    {
+      "code": 5320032010,
+      "name": "Keliha"
+    }
+  ]
+}

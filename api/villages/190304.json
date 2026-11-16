@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1903042001,
+      "name": "Jelutung II"
+    },
+    {
+      "code": 1903042002,
+      "name": "Gudang"
+    },
+    {
+      "code": 1903042003,
+      "name": "Bangka Kota"
+    },
+    {
+      "code": 1903042004,
+      "name": "Rajik"
+    },
+    {
+      "code": 1903042005,
+      "name": "Sebagin"
+    },
+    {
+      "code": 1903042006,
+      "name": "Simpang Rimba"
+    },
+    {
+      "code": 1903042007,
+      "name": "Permis"
+    }
+  ]
+}

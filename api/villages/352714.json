@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3527142001,
+      "name": "Blu uran"
+    },
+    {
+      "code": 3527142002,
+      "name": "Tlambah"
+    },
+    {
+      "code": 3527142003,
+      "name": "Bulmatet"
+    },
+    {
+      "code": 3527142004,
+      "name": "Poreh"
+    },
+    {
+      "code": 3527142005,
+      "name": "Karangpenang Oloh"
+    },
+    {
+      "code": 3527142006,
+      "name": "Karangpenang Onjur"
+    },
+    {
+      "code": 3527142007,
+      "name": "Gunung Kesan"
+    }
+  ]
+}

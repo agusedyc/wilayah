@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 6311022001,
+      "name": "Hauwai"
+    },
+    {
+      "code": 6311022002,
+      "name": "Bangkal"
+    },
+    {
+      "code": 6311022003,
+      "name": "Mantuyan"
+    },
+    {
+      "code": 6311022004,
+      "name": "Tabuan"
+    },
+    {
+      "code": 6311022005,
+      "name": "Halong"
+    },
+    {
+      "code": 6311022008,
+      "name": "Puyun"
+    },
+    {
+      "code": 6311022009,
+      "name": "Buntu Pilanduk"
+    },
+    {
+      "code": 6311022010,
+      "name": "Gunung Riut"
+    },
+    {
+      "code": 6311022011,
+      "name": "Kapul"
+    },
+    {
+      "code": 6311022012,
+      "name": "Mamantang"
+    },
+    {
+      "code": 6311022013,
+      "name": "Binjai Punggal"
+    },
+    {
+      "code": 6311022014,
+      "name": "Liyu"
+    },
+    {
+      "code": 6311022015,
+      "name": "Binuang Santang"
+    },
+    {
+      "code": 6311022016,
+      "name": "Aniungan"
+    },
+    {
+      "code": 6311022017,
+      "name": "Binju"
+    },
+    {
+      "code": 6311022018,
+      "name": "Karya"
+    },
+    {
+      "code": 6311022019,
+      "name": "Uren"
+    },
+    {
+      "code": 6311022020,
+      "name": "Marajai"
+    },
+    {
+      "code": 6311022021,
+      "name": "Suryatama"
+    },
+    {
+      "code": 6311022022,
+      "name": "Baruh Panyambaran"
+    },
+    {
+      "code": 6311022023,
+      "name": "Mauya"
+    },
+    {
+      "code": 6311022024,
+      "name": "Padang Raya"
+    },
+    {
+      "code": 6311022025,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 6311022026,
+      "name": "Mamigang"
+    }
+  ]
+}

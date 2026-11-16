@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1301072001,
+      "name": "Siguntur"
+    },
+    {
+      "code": 1301072002,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 1301072003,
+      "name": "Duku"
+    },
+    {
+      "code": 1301072004,
+      "name": "Batu Hampa"
+    },
+    {
+      "code": 1301072005,
+      "name": "Nanggalo"
+    },
+    {
+      "code": 1301072006,
+      "name": "Ampang Pulai"
+    },
+    {
+      "code": 1301072007,
+      "name": "Kapuh"
+    },
+    {
+      "code": 1301072008,
+      "name": "Barung-Barung Balantai"
+    },
+    {
+      "code": 1301072009,
+      "name": "Barung-Barung Balantai Selatan"
+    },
+    {
+      "code": 1301072010,
+      "name": "Mandeh"
+    },
+    {
+      "code": 1301072011,
+      "name": "Kapuah Utara"
+    },
+    {
+      "code": 1301072012,
+      "name": "Taratak Sungai Lundang"
+    },
+    {
+      "code": 1301072013,
+      "name": "Siguntur Tua"
+    },
+    {
+      "code": 1301072014,
+      "name": "Kampung Baru Korong Nan Ampek"
+    },
+    {
+      "code": 1301072015,
+      "name": "Duku Utara"
+    },
+    {
+      "code": 1301072016,
+      "name": "Pulau Karam Ampang Pulai"
+    },
+    {
+      "code": 1301072017,
+      "name": "Jinang Kampung Pansur Ampang Pulai"
+    },
+    {
+      "code": 1301072018,
+      "name": "Cerocok Anau Ampang Pulai"
+    },
+    {
+      "code": 1301072019,
+      "name": "Sungai Nyalo Mudiak Aia"
+    },
+    {
+      "code": 1301072020,
+      "name": "Batu Hampar Selatan"
+    },
+    {
+      "code": 1301072021,
+      "name": "Barung-Barung Balantai Timur"
+    },
+    {
+      "code": 1301072022,
+      "name": "Barung-Barung Balantai Tengah"
+    },
+    {
+      "code": 1301072023,
+      "name": "Setara Nanggalo"
+    }
+  ]
+}

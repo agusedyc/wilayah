@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3171031001,
+      "name": "Kemayoran"
+    },
+    {
+      "code": 3171031002,
+      "name": "Kebon Kosong"
+    },
+    {
+      "code": 3171031003,
+      "name": "Harapan Mulia"
+    },
+    {
+      "code": 3171031004,
+      "name": "Serdang"
+    },
+    {
+      "code": 3171031005,
+      "name": "Gunung Sahari Selatan"
+    },
+    {
+      "code": 3171031006,
+      "name": "Cempaka Baru"
+    },
+    {
+      "code": 3171031007,
+      "name": "Sumur Batu"
+    },
+    {
+      "code": 3171031008,
+      "name": "Utan Panjang"
+    }
+  ]
+}

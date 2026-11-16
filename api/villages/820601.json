@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8206012006,
+      "name": "Subaim"
+    },
+    {
+      "code": 8206012008,
+      "name": "Cemara Jaya"
+    },
+    {
+      "code": 8206012009,
+      "name": "Bumi Restu"
+    },
+    {
+      "code": 8206012014,
+      "name": "Batu Raja"
+    },
+    {
+      "code": 8206012015,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 8206012016,
+      "name": "Gulapapo"
+    },
+    {
+      "code": 8206012027,
+      "name": "Waisuba"
+    }
+  ]
+}

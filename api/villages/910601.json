@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 9106011001,
+      "name": "Sorido"
+    },
+    {
+      "code": 9106011002,
+      "name": "Waupnor"
+    },
+    {
+      "code": 9106011003,
+      "name": "Saramon"
+    },
+    {
+      "code": 9106011004,
+      "name": "Burokup"
+    },
+    {
+      "code": 9106011005,
+      "name": "Fandoi"
+    },
+    {
+      "code": 9106011006,
+      "name": "Mandala"
+    },
+    {
+      "code": 9106011016,
+      "name": "Yenures"
+    },
+    {
+      "code": 9106012007,
+      "name": "Mnubabo"
+    },
+    {
+      "code": 9106012008,
+      "name": "Swapodibo"
+    },
+    {
+      "code": 9106012009,
+      "name": "Mokmer"
+    },
+    {
+      "code": 9106012010,
+      "name": "Inggiri"
+    },
+    {
+      "code": 9106012011,
+      "name": "Parai"
+    },
+    {
+      "code": 9106012012,
+      "name": "Samau"
+    },
+    {
+      "code": 9106012013,
+      "name": "Insrom"
+    },
+    {
+      "code": 9106012014,
+      "name": "Anggraidi"
+    },
+    {
+      "code": 9106012015,
+      "name": "Manswam"
+    },
+    {
+      "code": 9106012017,
+      "name": "Sanumi"
+    },
+    {
+      "code": 9106012018,
+      "name": "Manggandisapi"
+    },
+    {
+      "code": 9106012019,
+      "name": "Karyendi"
+    },
+    {
+      "code": 9106012020,
+      "name": "Kababur"
+    },
+    {
+      "code": 9106012021,
+      "name": "Babrinbo"
+    },
+    {
+      "code": 9106012022,
+      "name": "Inggupi"
+    }
+  ]
+}

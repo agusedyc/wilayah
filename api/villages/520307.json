@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5203071001,
+      "name": "Pancor"
+    },
+    {
+      "code": 5203071002,
+      "name": "Selong"
+    },
+    {
+      "code": 5203071003,
+      "name": "Kelayu Selatan"
+    },
+    {
+      "code": 5203071004,
+      "name": "Denggen"
+    },
+    {
+      "code": 5203071005,
+      "name": "Sekarteja"
+    },
+    {
+      "code": 5203071006,
+      "name": "Majidi"
+    },
+    {
+      "code": 5203071007,
+      "name": "Rakam"
+    },
+    {
+      "code": 5203071008,
+      "name": "Sandu Baya"
+    },
+    {
+      "code": 5203071009,
+      "name": "Kembang Sari"
+    },
+    {
+      "code": 5203071010,
+      "name": "Kelayu Utara"
+    },
+    {
+      "code": 5203071011,
+      "name": "Kelaju Jorong"
+    },
+    {
+      "code": 5203072012,
+      "name": "Danggen Timur"
+    }
+  ]
+}

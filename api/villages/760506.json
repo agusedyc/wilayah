@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7605062001,
+      "name": "Seppong"
+    },
+    {
+      "code": 7605062002,
+      "name": "Tammerodo"
+    },
+    {
+      "code": 7605062003,
+      "name": "Ulidang"
+    },
+    {
+      "code": 7605062004,
+      "name": "Tallambalao"
+    },
+    {
+      "code": 7605062005,
+      "name": "Tammerodo Utara"
+    },
+    {
+      "code": 7605062006,
+      "name": "Manyamba"
+    },
+    {
+      "code": 7605062007,
+      "name": "Awo"
+    }
+  ]
+}

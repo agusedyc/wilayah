@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1807122001,
+      "name": "Pugung Raharjo"
+    },
+    {
+      "code": 1807122002,
+      "name": "Mengandung Sari"
+    },
+    {
+      "code": 1807122003,
+      "name": "Toba"
+    },
+    {
+      "code": 1807122004,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1807122005,
+      "name": "Bojong"
+    },
+    {
+      "code": 1807122006,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1807122007,
+      "name": "Sindang Anom"
+    },
+    {
+      "code": 1807122008,
+      "name": "Bauh Gunung Sari"
+    },
+    {
+      "code": 1807122009,
+      "name": "Gunung Pasir Jaya"
+    },
+    {
+      "code": 1807122010,
+      "name": "Gunung Sugih Besar"
+    },
+    {
+      "code": 1807122011,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1807122012,
+      "name": "Brawijaya"
+    },
+    {
+      "code": 1807122013,
+      "name": "Gunung Mulyo"
+    },
+    {
+      "code": 1807122014,
+      "name": "Bumi Mulyo"
+    },
+    {
+      "code": 1807122015,
+      "name": "Purwokencono"
+    }
+  ]
+}

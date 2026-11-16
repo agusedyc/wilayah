@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6301112001,
+      "name": "Handil Babirik"
+    },
+    {
+      "code": 6301112002,
+      "name": "Kurau Utara"
+    },
+    {
+      "code": 6301112003,
+      "name": "Bumi Harapan"
+    },
+    {
+      "code": 6301112004,
+      "name": "Sungai Rasau"
+    },
+    {
+      "code": 6301112005,
+      "name": "Pantai Harapan"
+    },
+    {
+      "code": 6301112006,
+      "name": "Handil Suruk"
+    },
+    {
+      "code": 6301112007,
+      "name": "Handil Gayam"
+    },
+    {
+      "code": 6301112008,
+      "name": "Handil Birayang Atas"
+    },
+    {
+      "code": 6301112009,
+      "name": "Handil Birayang Bawah"
+    },
+    {
+      "code": 6301112010,
+      "name": "Handil Maluka"
+    },
+    {
+      "code": 6301112011,
+      "name": "Handil Labuan Amas"
+    }
+  ]
+}

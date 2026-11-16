@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1110092001,
+      "name": "Lentong"
+    },
+    {
+      "code": 1110092002,
+      "name": "Lapahan Buaya"
+    },
+    {
+      "code": 1110092003,
+      "name": "Butar"
+    },
+    {
+      "code": 1110092004,
+      "name": "Samar Dua"
+    },
+    {
+      "code": 1110092005,
+      "name": "Ladang Bisik"
+    },
+    {
+      "code": 1110092006,
+      "name": "Muara Pea"
+    },
+    {
+      "code": 1110092008,
+      "name": "Sumber Mukti"
+    },
+    {
+      "code": 1110092009,
+      "name": "Mukti Lincer"
+    },
+    {
+      "code": 1110092010,
+      "name": "Danau Bungara"
+    }
+  ]
+}

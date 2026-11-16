@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 6204061006,
+      "name": "Jelapat"
+    },
+    {
+      "code": 6204061007,
+      "name": "Hilir Seper"
+    },
+    {
+      "code": 6204061008,
+      "name": "Buntok Kota"
+    },
+    {
+      "code": 6204062001,
+      "name": "Danau Ganting"
+    },
+    {
+      "code": 6204062002,
+      "name": "Muara Talang"
+    },
+    {
+      "code": 6204062003,
+      "name": "Teluk Telaga"
+    },
+    {
+      "code": 6204062004,
+      "name": "Baru"
+    },
+    {
+      "code": 6204062005,
+      "name": "Danau Sadar"
+    },
+    {
+      "code": 6204062009,
+      "name": "Pamait"
+    },
+    {
+      "code": 6204062010,
+      "name": "Sababilah"
+    },
+    {
+      "code": 6204062011,
+      "name": "Mangaris"
+    },
+    {
+      "code": 6204062012,
+      "name": "Tetei Lanan"
+    },
+    {
+      "code": 6204062013,
+      "name": "Pamangka"
+    },
+    {
+      "code": 6204062014,
+      "name": "Sanggu"
+    },
+    {
+      "code": 6204062015,
+      "name": "Lembeng"
+    },
+    {
+      "code": 6204062016,
+      "name": "Muara Ripung"
+    },
+    {
+      "code": 6204062017,
+      "name": "Madara"
+    },
+    {
+      "code": 6204062018,
+      "name": "Murung Paken"
+    },
+    {
+      "code": 6204062019,
+      "name": "Mabuan"
+    },
+    {
+      "code": 6204062020,
+      "name": "Kalahien"
+    },
+    {
+      "code": 6204062021,
+      "name": "Penda Asam"
+    },
+    {
+      "code": 6204062022,
+      "name": "Pararapak"
+    },
+    {
+      "code": 6204062023,
+      "name": "Teluk Mampun"
+    },
+    {
+      "code": 6204062024,
+      "name": "Tanjung Jawa"
+    },
+    {
+      "code": 6204062025,
+      "name": "Telang Andrau"
+    },
+    {
+      "code": 6204062026,
+      "name": "Dangka"
+    },
+    {
+      "code": 6204062027,
+      "name": "Danau Masura"
+    }
+  ]
+}

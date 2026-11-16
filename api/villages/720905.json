@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7209051002,
+      "name": "Malotong"
+    },
+    {
+      "code": 7209051003,
+      "name": "Bailo"
+    },
+    {
+      "code": 7209051004,
+      "name": "Ampana"
+    },
+    {
+      "code": 7209051012,
+      "name": "Bone Rato"
+    },
+    {
+      "code": 7209051013,
+      "name": "Bailo Baru"
+    },
+    {
+      "code": 7209051014,
+      "name": "Labiabae"
+    },
+    {
+      "code": 7209052001,
+      "name": "Sansarino"
+    },
+    {
+      "code": 7209052011,
+      "name": "Padang Tumbuo"
+    },
+    {
+      "code": 7209052018,
+      "name": "Saluaba"
+    },
+    {
+      "code": 7209052019,
+      "name": "Buntongi"
+    }
+  ]
+}

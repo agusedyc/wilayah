@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1801152001,
+      "name": "Kuala Sekampung"
+    },
+    {
+      "code": 1801152002,
+      "name": "Baktirasa"
+    },
+    {
+      "code": 1801152003,
+      "name": "Mandala Sari"
+    },
+    {
+      "code": 1801152004,
+      "name": "Sukapura"
+    },
+    {
+      "code": 1801152005,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1801152006,
+      "name": "Marga Jasa"
+    },
+    {
+      "code": 1801152007,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 1801152008,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1801152009,
+      "name": "Kedaung"
+    },
+    {
+      "code": 1801152010,
+      "name": "Margasari"
+    }
+  ]
+}

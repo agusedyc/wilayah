@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1214132001,
+      "name": "Hilizalo'otano"
+    },
+    {
+      "code": 1214132002,
+      "name": "Hilinawalo Mazino"
+    },
+    {
+      "code": 1214132003,
+      "name": "Lawindra"
+    },
+    {
+      "code": 1214132004,
+      "name": "Bawolahusa"
+    },
+    {
+      "code": 1214132005,
+      "name": "Hilizoroi Lawa"
+    },
+    {
+      "code": 1214132006,
+      "name": "Hilizalo'otano Laowo"
+    },
+    {
+      "code": 1214132007,
+      "name": "Hilizalo'otano Larono"
+    },
+    {
+      "code": 1214132008,
+      "name": "Hililaza Hilinawalo Mazino"
+    },
+    {
+      "code": 1214132009,
+      "name": "Hilifondege Hilizoroilawa"
+    },
+    {
+      "code": 1214132010,
+      "name": "Lolomboli"
+    },
+    {
+      "code": 1214132011,
+      "name": "Bawolahusa Doli-doli"
+    }
+  ]
+}

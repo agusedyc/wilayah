@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7305122001,
+      "name": "Panyangkalang"
+    },
+    {
+      "code": 7305122002,
+      "name": "Bontoparang"
+    },
+    {
+      "code": 7305122003,
+      "name": "Pattopakang"
+    },
+    {
+      "code": 7305122004,
+      "name": "Cikoang"
+    },
+    {
+      "code": 7305122005,
+      "name": "Punaga"
+    },
+    {
+      "code": 7305122006,
+      "name": "Laikang"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1801132001,
+      "name": "Way Hui"
+    },
+    {
+      "code": 1801132002,
+      "name": "Sidodadi Asri"
+    },
+    {
+      "code": 1801132003,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1801132004,
+      "name": "Gedung Agung"
+    },
+    {
+      "code": 1801132005,
+      "name": "Margodadi"
+    },
+    {
+      "code": 1801132006,
+      "name": "Gedung Harapan"
+    },
+    {
+      "code": 1801132007,
+      "name": "Marga Agung"
+    },
+    {
+      "code": 1801132008,
+      "name": "Jati Mulyo"
+    },
+    {
+      "code": 1801132009,
+      "name": "Fajar Baru"
+    },
+    {
+      "code": 1801132010,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1801132011,
+      "name": "Marga Kaya"
+    },
+    {
+      "code": 1801132012,
+      "name": "Margo Lestari"
+    },
+    {
+      "code": 1801132013,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1801132014,
+      "name": "Sinar Rejeki"
+    },
+    {
+      "code": 1801132015,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 1801132016,
+      "name": "Rejomulyo"
+    },
+    {
+      "code": 1801132017,
+      "name": "Purwotani"
+    },
+    {
+      "code": 1801132018,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1801132019,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1801132020,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 1801132021,
+      "name": "Margorejo"
+    }
+  ]
+}

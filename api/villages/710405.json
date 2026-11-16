@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7104052001,
+      "name": "Kakorotan"
+    },
+    {
+      "code": 7104052002,
+      "name": "Marampit"
+    },
+    {
+      "code": 7104052003,
+      "name": "Laluhe"
+    },
+    {
+      "code": 7104052004,
+      "name": "Dampulis"
+    },
+    {
+      "code": 7104052005,
+      "name": "Karatung"
+    },
+    {
+      "code": 7104052007,
+      "name": "Karatung Tengah"
+    },
+    {
+      "code": 7104052008,
+      "name": "Karatung Selatan"
+    },
+    {
+      "code": 7104052009,
+      "name": "Dampulis Selatan"
+    },
+    {
+      "code": 7104052010,
+      "name": "Marampit Timur"
+    }
+  ]
+}

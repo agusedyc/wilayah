@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3171061001,
+      "name": "Menteng"
+    },
+    {
+      "code": 3171061002,
+      "name": "Pegangsaan"
+    },
+    {
+      "code": 3171061003,
+      "name": "Cikini"
+    },
+    {
+      "code": 3171061004,
+      "name": "Gondangdia"
+    },
+    {
+      "code": 3171061005,
+      "name": "Kebon Sirih"
+    }
+  ]
+}

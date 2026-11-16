@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7313081001,
+      "name": "Tancung"
+    },
+    {
+      "code": 7313081002,
+      "name": "Mappadaelo"
+    },
+    {
+      "code": 7313081003,
+      "name": "Pincengpute"
+    },
+    {
+      "code": 7313081004,
+      "name": "Barutancung"
+    },
+    {
+      "code": 7313082005,
+      "name": "Nepo"
+    },
+    {
+      "code": 7313082006,
+      "name": "Lowa"
+    },
+    {
+      "code": 7313082007,
+      "name": "Inalipue"
+    },
+    {
+      "code": 7313082008,
+      "name": "Pakkana"
+    },
+    {
+      "code": 7313082009,
+      "name": "Wajoriaja"
+    },
+    {
+      "code": 7313082010,
+      "name": "Wewangrewu"
+    },
+    {
+      "code": 7313082011,
+      "name": "Wae Tuwo"
+    },
+    {
+      "code": 7313082012,
+      "name": "Assorajang"
+    },
+    {
+      "code": 7313082013,
+      "name": "Ujungnge"
+    },
+    {
+      "code": 7313082014,
+      "name": "Pajalele"
+    },
+    {
+      "code": 7313082015,
+      "name": "Mario"
+    },
+    {
+      "code": 7313082016,
+      "name": "Palippu"
+    },
+    {
+      "code": 7313082017,
+      "name": "Tonralipue"
+    },
+    {
+      "code": 7313082018,
+      "name": "Ujungbaru"
+    },
+    {
+      "code": 7313082019,
+      "name": "Mannagae"
+    }
+  ]
+}

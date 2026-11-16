@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6501072001,
+      "name": "Lepak Aru"
+    },
+    {
+      "code": 6501072002,
+      "name": "Long Lasan"
+    },
+    {
+      "code": 6501072003,
+      "name": "Long Peso"
+    },
+    {
+      "code": 6501072004,
+      "name": "Long Bia"
+    },
+    {
+      "code": 6501072005,
+      "name": "Muara Pangean"
+    },
+    {
+      "code": 6501072006,
+      "name": "Long Lian"
+    },
+    {
+      "code": 6501072007,
+      "name": "Long Pelaah"
+    },
+    {
+      "code": 6501072008,
+      "name": "Long Lejuh"
+    },
+    {
+      "code": 6501072009,
+      "name": "Long Pelban"
+    },
+    {
+      "code": 6501072010,
+      "name": "Long Buang"
+    }
+  ]
+}

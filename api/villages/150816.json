@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1508162001,
+      "name": "Tepian Danto"
+    },
+    {
+      "code": 1508162002,
+      "name": "Aur Gading"
+    },
+    {
+      "code": 1508162003,
+      "name": "Pulau Batu"
+    },
+    {
+      "code": 1508162004,
+      "name": "Sari Mulya"
+    },
+    {
+      "code": 1508162005,
+      "name": "Bukit Sari"
+    },
+    {
+      "code": 1508162006,
+      "name": "Lubuk Tenam"
+    },
+    {
+      "code": 1508162007,
+      "name": "Kuamang"
+    }
+  ]
+}

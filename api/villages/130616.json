@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1306162001,
+      "name": "Malalak Utara"
+    },
+    {
+      "code": 1306162002,
+      "name": "Malalak Timur"
+    },
+    {
+      "code": 1306162003,
+      "name": "Malalak Selatan"
+    },
+    {
+      "code": 1306162004,
+      "name": "Malalak Barat"
+    }
+  ]
+}

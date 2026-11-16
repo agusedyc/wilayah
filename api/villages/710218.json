@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7102181001,
+      "name": "Urongo"
+    },
+    {
+      "code": 7102181002,
+      "name": "Tounsaru"
+    },
+    {
+      "code": 7102181003,
+      "name": "Tataaran II"
+    },
+    {
+      "code": 7102181004,
+      "name": "Tataaran I"
+    },
+    {
+      "code": 7102181005,
+      "name": "Koya"
+    },
+    {
+      "code": 7102181006,
+      "name": "Paleloan"
+    },
+    {
+      "code": 7102181007,
+      "name": "Tataaran Patar"
+    },
+    {
+      "code": 7102181008,
+      "name": "Maesa Unima"
+    }
+  ]
+}

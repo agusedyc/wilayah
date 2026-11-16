@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5308172001,
+      "name": "Maubasa"
+    },
+    {
+      "code": 5308172002,
+      "name": "Maubasa Timur"
+    },
+    {
+      "code": 5308172003,
+      "name": "Wonda"
+    },
+    {
+      "code": 5308172004,
+      "name": "Serandori"
+    },
+    {
+      "code": 5308172005,
+      "name": "Kelisamba"
+    },
+    {
+      "code": 5308172006,
+      "name": "Mole"
+    },
+    {
+      "code": 5308172007,
+      "name": "Lungaria"
+    },
+    {
+      "code": 5308172008,
+      "name": "Aebara"
+    },
+    {
+      "code": 5308172009,
+      "name": "Ratemangga"
+    },
+    {
+      "code": 5308172010,
+      "name": "Maubasa Barat"
+    }
+  ]
+}

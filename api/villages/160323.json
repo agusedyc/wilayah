@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603232001,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1603232002,
+      "name": "Simpang Tanjung"
+    },
+    {
+      "code": 1603232003,
+      "name": "Cinta Kasih"
+    },
+    {
+      "code": 1603232004,
+      "name": "Teluk Lubuk"
+    },
+    {
+      "code": 1603232005,
+      "name": "Berugo"
+    },
+    {
+      "code": 1603232006,
+      "name": "Belimbing"
+    },
+    {
+      "code": 1603232007,
+      "name": "Bulang"
+    },
+    {
+      "code": 1603232008,
+      "name": "Belimbing Jaya"
+    },
+    {
+      "code": 1603232009,
+      "name": "Darmo Kasih"
+    },
+    {
+      "code": 1603232010,
+      "name": "Dalam"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7408102001,
+      "name": "Lanipa"
+    },
+    {
+      "code": 7408102002,
+      "name": "Majapahit"
+    },
+    {
+      "code": 7408102003,
+      "name": "Labipi"
+    },
+    {
+      "code": 7408102004,
+      "name": "Latali"
+    },
+    {
+      "code": 7408102005,
+      "name": "Pasampang"
+    },
+    {
+      "code": 7408102006,
+      "name": "Tarengga"
+    },
+    {
+      "code": 7408102007,
+      "name": "To'lemo"
+    },
+    {
+      "code": 7408102008,
+      "name": "Salulotong"
+    },
+    {
+      "code": 7408102009,
+      "name": "Powalaa"
+    },
+    {
+      "code": 7408102010,
+      "name": "Kalahunde"
+    }
+  ]
+}

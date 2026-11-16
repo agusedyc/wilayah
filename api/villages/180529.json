@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1805292001,
+      "name": "Panca Mulia"
+    },
+    {
+      "code": 1805292002,
+      "name": "Panca Karsa Purna Jaya"
+    },
+    {
+      "code": 1805292003,
+      "name": "Kahuripan Jaya"
+    },
+    {
+      "code": 1805292004,
+      "name": "Bawang Sakti Jaya"
+    },
+    {
+      "code": 1805292005,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1805292006,
+      "name": "Balai Murni Jaya"
+    },
+    {
+      "code": 1805292007,
+      "name": "Mekar Indah Jaya"
+    },
+    {
+      "code": 1805292008,
+      "name": "Jaya Makmur"
+    },
+    {
+      "code": 1805292009,
+      "name": "Bawang Tirto Mulyo"
+    },
+    {
+      "code": 1805292010,
+      "name": "Karya Murni Jaya"
+    }
+  ]
+}

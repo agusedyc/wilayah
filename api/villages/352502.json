@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 3525022001,
+      "name": "Jombangdelik"
+    },
+    {
+      "code": 3525022002,
+      "name": "Brangkal"
+    },
+    {
+      "code": 3525022003,
+      "name": "Ngampel"
+    },
+    {
+      "code": 3525022004,
+      "name": "Bandungsekaran"
+    },
+    {
+      "code": 3525022005,
+      "name": "Babatan"
+    },
+    {
+      "code": 3525022006,
+      "name": "Tanahlandean"
+    },
+    {
+      "code": 3525022007,
+      "name": "Kedungsumber"
+    },
+    {
+      "code": 3525022008,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3525022009,
+      "name": "Dapet"
+    },
+    {
+      "code": 3525022010,
+      "name": "Dohoagung"
+    },
+    {
+      "code": 3525022011,
+      "name": "Mojogede"
+    },
+    {
+      "code": 3525022012,
+      "name": "Tenggor"
+    },
+    {
+      "code": 3525022013,
+      "name": "Wahas"
+    },
+    {
+      "code": 3525022014,
+      "name": "Kedungpring"
+    },
+    {
+      "code": 3525022015,
+      "name": "Sekarputih"
+    },
+    {
+      "code": 3525022016,
+      "name": "Pinggir"
+    },
+    {
+      "code": 3525022017,
+      "name": "Karangsemanding"
+    },
+    {
+      "code": 3525022018,
+      "name": "Pacuh"
+    },
+    {
+      "code": 3525022019,
+      "name": "Balongpanggang"
+    },
+    {
+      "code": 3525022020,
+      "name": "Wotansari"
+    },
+    {
+      "code": 3525022021,
+      "name": "Pucung"
+    },
+    {
+      "code": 3525022022,
+      "name": "Klotok"
+    },
+    {
+      "code": 3525022023,
+      "name": "Ngasin"
+    },
+    {
+      "code": 3525022024,
+      "name": "Banjaragung"
+    },
+    {
+      "code": 3525022025,
+      "name": "Ganggang"
+    }
+  ]
+}

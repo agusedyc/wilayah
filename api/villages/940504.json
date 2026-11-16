@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405042001,
+      "name": "Doufo"
+    },
+    {
+      "code": 9405042002,
+      "name": "Iratoi"
+    },
+    {
+      "code": 9405042003,
+      "name": "Lani"
+    },
+    {
+      "code": 9405042004,
+      "name": "Wahuka"
+    },
+    {
+      "code": 9405042005,
+      "name": "Sibita"
+    },
+    {
+      "code": 9405042006,
+      "name": "Rawa"
+    },
+    {
+      "code": 9405042007,
+      "name": "Jirei"
+    }
+  ]
+}

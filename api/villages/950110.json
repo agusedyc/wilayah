@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9501102001,
+      "name": "Heatnem"
+    },
+    {
+      "code": 9501102002,
+      "name": "Wililimo"
+    },
+    {
+      "code": 9501102003,
+      "name": "Yabem"
+    },
+    {
+      "code": 9501102004,
+      "name": "Waukahilapok"
+    },
+    {
+      "code": 9501102005,
+      "name": "Aleak"
+    },
+    {
+      "code": 9501102006,
+      "name": "Inanekelok"
+    },
+    {
+      "code": 9501102007,
+      "name": "Witalak"
+    },
+    {
+      "code": 9501102008,
+      "name": "Mulukmo"
+    },
+    {
+      "code": 9501102009,
+      "name": "Landia"
+    },
+    {
+      "code": 9501102010,
+      "name": "Filia"
+    },
+    {
+      "code": 9501102011,
+      "name": "Isugunik"
+    },
+    {
+      "code": 9501102012,
+      "name": "Hitelowa"
+    },
+    {
+      "code": 9501102013,
+      "name": "Duabalek"
+    }
+  ]
+}

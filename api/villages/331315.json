@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3313152001,
+      "name": "Sewurejo"
+    },
+    {
+      "code": 3313152002,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3313152003,
+      "name": "Mojogedang"
+    },
+    {
+      "code": 3313152004,
+      "name": "Pojok"
+    },
+    {
+      "code": 3313152005,
+      "name": "Mojoroto"
+    },
+    {
+      "code": 3313152006,
+      "name": "Kaliboto"
+    },
+    {
+      "code": 3313152007,
+      "name": "Buntar"
+    },
+    {
+      "code": 3313152008,
+      "name": "Gebyog"
+    },
+    {
+      "code": 3313152009,
+      "name": "Gentungan"
+    },
+    {
+      "code": 3313152010,
+      "name": "Pendem"
+    },
+    {
+      "code": 3313152011,
+      "name": "Pereng"
+    },
+    {
+      "code": 3313152012,
+      "name": "Munggur"
+    },
+    {
+      "code": 3313152013,
+      "name": "Kedungjeruk"
+    }
+  ]
+}

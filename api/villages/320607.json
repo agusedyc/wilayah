@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206072001,
+      "name": "Parungponteng"
+    },
+    {
+      "code": 3206072002,
+      "name": "Cigunung"
+    },
+    {
+      "code": 3206072003,
+      "name": "Cibanteng"
+    },
+    {
+      "code": 3206072004,
+      "name": "Barumekar"
+    },
+    {
+      "code": 3206072005,
+      "name": "Cibungur"
+    },
+    {
+      "code": 3206072006,
+      "name": "Burujuljaya"
+    },
+    {
+      "code": 3206072007,
+      "name": "Girikencana"
+    },
+    {
+      "code": 3206072008,
+      "name": "Karyabakti"
+    }
+  ]
+}

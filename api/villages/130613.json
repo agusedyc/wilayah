@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1306132001,
+      "name": "Batu Kambing"
+    },
+    {
+      "code": 1306132002,
+      "name": "Sitalang"
+    },
+    {
+      "code": 1306132003,
+      "name": "Bawan"
+    },
+    {
+      "code": 1306132004,
+      "name": "Sitanang"
+    }
+  ]
+}

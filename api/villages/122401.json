@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1224012001,
+      "name": "Hilidundra"
+    },
+    {
+      "code": 1224012002,
+      "name": "Lawira Satua"
+    },
+    {
+      "code": 1224012003,
+      "name": "Fadoro Fulolo"
+    },
+    {
+      "code": 1224012004,
+      "name": "Lawira I"
+    },
+    {
+      "code": 1224012005,
+      "name": "Hiligodu"
+    },
+    {
+      "code": 1224012006,
+      "name": "Lombuza'ua"
+    },
+    {
+      "code": 1224012007,
+      "name": "Maziaya"
+    },
+    {
+      "code": 1224012008,
+      "name": "Baho"
+    },
+    {
+      "code": 1224012009,
+      "name": "Lolofaoso"
+    },
+    {
+      "code": 1224012010,
+      "name": "Lawira II"
+    },
+    {
+      "code": 1224012011,
+      "name": "Dahadano"
+    },
+    {
+      "code": 1224012012,
+      "name": "Lolomboli"
+    },
+    {
+      "code": 1224012013,
+      "name": "Hiligeo Afia"
+    }
+  ]
+}

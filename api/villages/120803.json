@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1208032001,
+      "name": "Silou Bayu"
+    },
+    {
+      "code": 1208032002,
+      "name": "Karang Anyer"
+    },
+    {
+      "code": 1208032003,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 1208032004,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1208032005,
+      "name": "Tumorang"
+    },
+    {
+      "code": 1208032006,
+      "name": "Rabuhit"
+    },
+    {
+      "code": 1208032007,
+      "name": "Huta Dipar"
+    },
+    {
+      "code": 1208032008,
+      "name": "Ganjing"
+    },
+    {
+      "code": 1208032009,
+      "name": "Bandar Malela"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5204252001,
+      "name": "Bantulanteh"
+    },
+    {
+      "code": 5204252002,
+      "name": "Labuhan Bontong"
+    },
+    {
+      "code": 5204252003,
+      "name": "Labuhan Aji"
+    },
+    {
+      "code": 5204252004,
+      "name": "Labuhan Jambu"
+    },
+    {
+      "code": 5204252005,
+      "name": "Mata"
+    },
+    {
+      "code": 5204252006,
+      "name": "Tolo' Oi"
+    },
+    {
+      "code": 5204252007,
+      "name": "Banda"
+    },
+    {
+      "code": 5204252008,
+      "name": "Labuhan Pidang"
+    }
+  ]
+}

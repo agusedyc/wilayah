@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9212052001,
+      "name": "Iranmeba"
+    },
+    {
+      "code": 9212052002,
+      "name": "Cirnohu"
+    },
+    {
+      "code": 9212052003,
+      "name": "Dibetik"
+    },
+    {
+      "code": 9212052004,
+      "name": "Danmou"
+    },
+    {
+      "code": 9212052005,
+      "name": "Miseda"
+    },
+    {
+      "code": 9212052006,
+      "name": "Sirgemeh"
+    },
+    {
+      "code": 9212052007,
+      "name": "Sneremer"
+    },
+    {
+      "code": 9212052008,
+      "name": "Kusmenau"
+    },
+    {
+      "code": 9212052009,
+      "name": "Cigera"
+    },
+    {
+      "code": 9212052010,
+      "name": "Tomstir"
+    },
+    {
+      "code": 9212052011,
+      "name": "Gedeira"
+    },
+    {
+      "code": 9212052012,
+      "name": "Demdamei"
+    },
+    {
+      "code": 9212052013,
+      "name": "Dugrimog"
+    },
+    {
+      "code": 9212052014,
+      "name": "Disra"
+    }
+  ]
+}

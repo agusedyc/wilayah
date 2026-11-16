@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7471011005,
+      "name": "Mandonga"
+    },
+    {
+      "code": 7471011006,
+      "name": "Korumba"
+    },
+    {
+      "code": 7471011007,
+      "name": "Labibia"
+    },
+    {
+      "code": 7471011008,
+      "name": "Wawombalata"
+    },
+    {
+      "code": 7471011009,
+      "name": "Alolama"
+    },
+    {
+      "code": 7471011010,
+      "name": "Anggilowu"
+    }
+  ]
+}

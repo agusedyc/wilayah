@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3526162001,
+      "name": "Patereman"
+    },
+    {
+      "code": 3526162002,
+      "name": "Paeng"
+    },
+    {
+      "code": 3526162003,
+      "name": "Kolla"
+    },
+    {
+      "code": 3526162004,
+      "name": "Neroh"
+    },
+    {
+      "code": 3526162005,
+      "name": "Langpanggang"
+    },
+    {
+      "code": 3526162006,
+      "name": "Patengteng"
+    },
+    {
+      "code": 3526162007,
+      "name": "Serabi Barat"
+    },
+    {
+      "code": 3526162008,
+      "name": "Serabi Timur"
+    },
+    {
+      "code": 3526162009,
+      "name": "Pangpajung"
+    },
+    {
+      "code": 3526162010,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3526162011,
+      "name": "Alas Kokon"
+    },
+    {
+      "code": 3526162012,
+      "name": "Pakong"
+    },
+    {
+      "code": 3526162013,
+      "name": "Glisgis"
+    },
+    {
+      "code": 3526162014,
+      "name": "Brakas Dajah"
+    },
+    {
+      "code": 3526162015,
+      "name": "Modung"
+    },
+    {
+      "code": 3526162016,
+      "name": "Suwaan"
+    },
+    {
+      "code": 3526162017,
+      "name": "Manggaan"
+    }
+  ]
+}

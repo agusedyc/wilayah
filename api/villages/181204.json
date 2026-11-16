@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1812042002,
+      "name": "Toto Mulyo"
+    },
+    {
+      "code": 1812042006,
+      "name": "Setia Bumi"
+    },
+    {
+      "code": 1812042007,
+      "name": "Gunung Terang"
+    },
+    {
+      "code": 1812042008,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1812042011,
+      "name": "Kagungan Jaya"
+    },
+    {
+      "code": 1812042012,
+      "name": "Terang Mulya"
+    },
+    {
+      "code": 1812042013,
+      "name": "Terang Bumi Agung"
+    },
+    {
+      "code": 1812042015,
+      "name": "Setia Agung"
+    },
+    {
+      "code": 1812042017,
+      "name": "Mulyo Jadi"
+    },
+    {
+      "code": 1812042020,
+      "name": "Terang Makmur"
+    }
+  ]
+}

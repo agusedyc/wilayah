@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1603222001,
+      "name": "Gedung Buruk"
+    },
+    {
+      "code": 1603222002,
+      "name": "Arisan Musi"
+    },
+    {
+      "code": 1603222003,
+      "name": "Harapan Mulia"
+    },
+    {
+      "code": 1603222004,
+      "name": "Mulia Abadi"
+    },
+    {
+      "code": 1603222005,
+      "name": "Arisan Musi Timur"
+    },
+    {
+      "code": 1603222006,
+      "name": "Patra Tani"
+    },
+    {
+      "code": 1603222007,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1603222008,
+      "name": "Kayu Ara Batu"
+    }
+  ]
+}

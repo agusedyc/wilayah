@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6108122001,
+      "name": "Padang Pio"
+    },
+    {
+      "code": 6108122002,
+      "name": "Tembawang Bale"
+    },
+    {
+      "code": 6108122003,
+      "name": "Kampet"
+    },
+    {
+      "code": 6108122004,
+      "name": "Untang"
+    },
+    {
+      "code": 6108122005,
+      "name": "Ringo Lojok"
+    },
+    {
+      "code": 6108122006,
+      "name": "Gamang"
+    },
+    {
+      "code": 6108122007,
+      "name": "Semade"
+    }
+  ]
+}

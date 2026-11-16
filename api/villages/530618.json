@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5306182001,
+      "name": "Horowura"
+    },
+    {
+      "code": 5306182002,
+      "name": "Kokotobo"
+    },
+    {
+      "code": 5306182003,
+      "name": "Lite"
+    },
+    {
+      "code": 5306182004,
+      "name": "Kenotan"
+    },
+    {
+      "code": 5306182005,
+      "name": "Nubalema"
+    },
+    {
+      "code": 5306182006,
+      "name": "Wewit"
+    },
+    {
+      "code": 5306182007,
+      "name": "Lewobele"
+    },
+    {
+      "code": 5306182008,
+      "name": "Baya"
+    },
+    {
+      "code": 5306182009,
+      "name": "Bidara"
+    },
+    {
+      "code": 5306182010,
+      "name": "Oesayang"
+    },
+    {
+      "code": 5306182011,
+      "name": "Hoko Horowura"
+    },
+    {
+      "code": 5306182012,
+      "name": "Lewopao"
+    },
+    {
+      "code": 5306182013,
+      "name": "Nubalema Dua"
+    }
+  ]
+}

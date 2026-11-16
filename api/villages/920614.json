@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9206142001,
+      "name": "Tofoi"
+    },
+    {
+      "code": 9206142002,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 9206142003,
+      "name": "Saengga"
+    },
+    {
+      "code": 9206142004,
+      "name": "Forada"
+    },
+    {
+      "code": 9206142005,
+      "name": "Materabu Jaya"
+    }
+  ]
+}

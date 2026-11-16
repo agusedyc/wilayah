@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1174022005,
+      "name": "Lhok Banie"
+    },
+    {
+      "code": 1174022006,
+      "name": "PB. Teungoh"
+    },
+    {
+      "code": 1174022007,
+      "name": "PB. Beuramo"
+    },
+    {
+      "code": 1174022008,
+      "name": "Simpang Lhee"
+    },
+    {
+      "code": 1174022009,
+      "name": "Seuriget"
+    },
+    {
+      "code": 1174022015,
+      "name": "Matang Seulimeng"
+    },
+    {
+      "code": 1174022016,
+      "name": "Sungai Pauh"
+    },
+    {
+      "code": 1174022017,
+      "name": "Kuala Langsa"
+    },
+    {
+      "code": 1174022018,
+      "name": "Teulaga Tujuh"
+    },
+    {
+      "code": 1174022019,
+      "name": "Serambi Indah"
+    },
+    {
+      "code": 1174022020,
+      "name": "Sungai Pauh Pusaka"
+    },
+    {
+      "code": 1174022021,
+      "name": "Sungai Pauh Tanjong"
+    },
+    {
+      "code": 1174022022,
+      "name": "Sungai Pauh Firdaus"
+    }
+  ]
+}

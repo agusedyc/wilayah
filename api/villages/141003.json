@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1410032001,
+      "name": "Tanjung Samak"
+    },
+    {
+      "code": 1410032002,
+      "name": "Tanjung Medang"
+    },
+    {
+      "code": 1410032004,
+      "name": "Gemala Sari"
+    },
+    {
+      "code": 1410032007,
+      "name": "Topang"
+    },
+    {
+      "code": 1410032008,
+      "name": "Penyagun"
+    },
+    {
+      "code": 1410032010,
+      "name": "Repan"
+    },
+    {
+      "code": 1410032011,
+      "name": "Tanjung Bakau"
+    },
+    {
+      "code": 1410032012,
+      "name": "Teluk Samak"
+    },
+    {
+      "code": 1410032013,
+      "name": "Sungai Gayung Kiri"
+    },
+    {
+      "code": 1410032014,
+      "name": "Citra Damai"
+    },
+    {
+      "code": 1410032016,
+      "name": "Dwi Tunggal"
+    },
+    {
+      "code": 1410032017,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1410032018,
+      "name": "Tebun"
+    },
+    {
+      "code": 1410032020,
+      "name": "Tanjung Gemuk"
+    }
+  ]
+}

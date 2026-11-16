@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5103042001,
+      "name": "Carangsari"
+    },
+    {
+      "code": 5103042002,
+      "name": "Petang"
+    },
+    {
+      "code": 5103042003,
+      "name": "Belok/Sidan"
+    },
+    {
+      "code": 5103042004,
+      "name": "Pelaga"
+    },
+    {
+      "code": 5103042005,
+      "name": "Getasan"
+    },
+    {
+      "code": 5103042006,
+      "name": "Pangsan"
+    },
+    {
+      "code": 5103042007,
+      "name": "Sulangai"
+    }
+  ]
+}

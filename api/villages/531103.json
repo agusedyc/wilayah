@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5311031001,
+      "name": "Lewa Paku"
+    },
+    {
+      "code": 5311032002,
+      "name": "Kambuhapang"
+    },
+    {
+      "code": 5311032003,
+      "name": "Kambata Wundut"
+    },
+    {
+      "code": 5311032004,
+      "name": "Kondamara"
+    },
+    {
+      "code": 5311032005,
+      "name": "Matawai Pawali"
+    },
+    {
+      "code": 5311032006,
+      "name": "Rakawatu"
+    },
+    {
+      "code": 5311032007,
+      "name": "Tana Rara"
+    },
+    {
+      "code": 5311032013,
+      "name": "Bidi Hunga"
+    }
+  ]
+}

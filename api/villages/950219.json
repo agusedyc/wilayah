@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502192001,
+      "name": "Tarup"
+    },
+    {
+      "code": 9502192002,
+      "name": "Marang Tiking"
+    },
+    {
+      "code": 9502192003,
+      "name": "Imsin"
+    },
+    {
+      "code": 9502192004,
+      "name": "Bitipding"
+    },
+    {
+      "code": 9502192005,
+      "name": "Onkor"
+    },
+    {
+      "code": 9502192006,
+      "name": "Beten Dua"
+    },
+    {
+      "code": 9502192007,
+      "name": "Omor"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1805232001,
+      "name": "Gedung Harapan"
+    },
+    {
+      "code": 1805232002,
+      "name": "Gedung Asri"
+    },
+    {
+      "code": 1805232003,
+      "name": "Gedung Rejo Sakti"
+    },
+    {
+      "code": 1805232004,
+      "name": "Pasar Batang"
+    },
+    {
+      "code": 1805232005,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1805232006,
+      "name": "Karya Makmur"
+    },
+    {
+      "code": 1805232007,
+      "name": "Wono Rejo"
+    },
+    {
+      "code": 1805232008,
+      "name": "Panca Tunggal Jaya"
+    },
+    {
+      "code": 1805232009,
+      "name": "Sumber Sari"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1605111001,
+      "name": "Selangit"
+    },
+    {
+      "code": 1605112002,
+      "name": "Lubuk Ngin"
+    },
+    {
+      "code": 1605112003,
+      "name": "Napal Melintang"
+    },
+    {
+      "code": 1605112004,
+      "name": "Taba Tengah"
+    },
+    {
+      "code": 1605112005,
+      "name": "Taba Remanik"
+    },
+    {
+      "code": 1605112006,
+      "name": "Batu Gane"
+    },
+    {
+      "code": 1605112007,
+      "name": "Karang Panggung"
+    },
+    {
+      "code": 1605112008,
+      "name": "Muara Nilau"
+    },
+    {
+      "code": 1605112009,
+      "name": "Perabumenang"
+    },
+    {
+      "code": 1605112010,
+      "name": "Taba Rena"
+    },
+    {
+      "code": 1605112011,
+      "name": "Taba Gindo"
+    },
+    {
+      "code": 1605112012,
+      "name": "Lubuk Ngin Baru"
+    }
+  ]
+}

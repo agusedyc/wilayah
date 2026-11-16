@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271131001,
+      "name": "Pekan Labuhan"
+    },
+    {
+      "code": 1271131002,
+      "name": "Sei Mati"
+    },
+    {
+      "code": 1271131003,
+      "name": "Besar"
+    },
+    {
+      "code": 1271131004,
+      "name": "Martubung"
+    },
+    {
+      "code": 1271131005,
+      "name": "Nelayan Indah"
+    },
+    {
+      "code": 1271131006,
+      "name": "Tangkahan"
+    }
+  ]
+}

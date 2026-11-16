@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3206212001,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3206212002,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3206212003,
+      "name": "Karang Layung"
+    },
+    {
+      "code": 3206212004,
+      "name": "Citalahab"
+    }
+  ]
+}

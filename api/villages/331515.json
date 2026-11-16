@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3315152001,
+      "name": "Kandangrejo"
+    },
+    {
+      "code": 3315152002,
+      "name": "Selojari"
+    },
+    {
+      "code": 3315152003,
+      "name": "Taruman"
+    },
+    {
+      "code": 3315152004,
+      "name": "Penganten"
+    },
+    {
+      "code": 3315152005,
+      "name": "Klambu"
+    },
+    {
+      "code": 3315152006,
+      "name": "Menawan"
+    },
+    {
+      "code": 3315152007,
+      "name": "Terkesi"
+    },
+    {
+      "code": 3315152008,
+      "name": "Jenengan"
+    },
+    {
+      "code": 3315152009,
+      "name": "Wandan Kemiri"
+    }
+  ]
+}

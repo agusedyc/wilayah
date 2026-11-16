@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9605142001,
+      "name": "Wormu"
+    },
+    {
+      "code": 9605142002,
+      "name": "Makiri"
+    },
+    {
+      "code": 9605142003,
+      "name": "Warba"
+    },
+    {
+      "code": 9605142004,
+      "name": "Winuni"
+    },
+    {
+      "code": 9605142005,
+      "name": "Srumate"
+    },
+    {
+      "code": 9605142006,
+      "name": "Womba"
+    }
+  ]
+}

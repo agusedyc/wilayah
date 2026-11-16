@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7471051001,
+      "name": "Kemaraya"
+    },
+    {
+      "code": 7471051002,
+      "name": "Watu-Watu"
+    },
+    {
+      "code": 7471051003,
+      "name": "Tipulu"
+    },
+    {
+      "code": 7471051004,
+      "name": "Punggaloba"
+    },
+    {
+      "code": 7471051005,
+      "name": "Benu Benua"
+    },
+    {
+      "code": 7471051006,
+      "name": "Sodohoa"
+    },
+    {
+      "code": 7471051007,
+      "name": "Sanua"
+    },
+    {
+      "code": 7471051008,
+      "name": "Dapu Dapura"
+    },
+    {
+      "code": 7471051009,
+      "name": "Lahundape"
+    }
+  ]
+}

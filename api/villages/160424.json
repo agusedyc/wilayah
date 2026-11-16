@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1604242001,
+      "name": "Pulau Panas"
+    },
+    {
+      "code": 1604242002,
+      "name": "Sindang Panjang"
+    },
+    {
+      "code": 1604242003,
+      "name": "Gunung Kembang"
+    },
+    {
+      "code": 1604242004,
+      "name": "Pagar Agung"
+    },
+    {
+      "code": 1604242005,
+      "name": "Benteng"
+    },
+    {
+      "code": 1604242006,
+      "name": "Ulak Lebar"
+    },
+    {
+      "code": 1604242007,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1604242008,
+      "name": "Masam Bulau"
+    },
+    {
+      "code": 1604242009,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1604242010,
+      "name": "Tanjung Bulan"
+    },
+    {
+      "code": 1604242011,
+      "name": "Penandingan"
+    },
+    {
+      "code": 1604242012,
+      "name": "Tanjung Sakti"
+    },
+    {
+      "code": 1604242013,
+      "name": "Negeri Kaya"
+    },
+    {
+      "code": 1604242014,
+      "name": "Pulau Panggung"
+    },
+    {
+      "code": 1604242015,
+      "name": "Gunung Kerto"
+    },
+    {
+      "code": 1604242016,
+      "name": "Lubuk Tabun"
+    },
+    {
+      "code": 1604242017,
+      "name": "Pagar Jati"
+    },
+    {
+      "code": 1604242018,
+      "name": "Lubuk Dalam"
+    }
+  ]
+}

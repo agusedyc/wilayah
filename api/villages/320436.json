@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3204362001,
+      "name": "Ibun"
+    },
+    {
+      "code": 3204362002,
+      "name": "Laksana"
+    },
+    {
+      "code": 3204362003,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3204362004,
+      "name": "Talun"
+    },
+    {
+      "code": 3204362005,
+      "name": "Pangguh"
+    },
+    {
+      "code": 3204362006,
+      "name": "Lampegan"
+    },
+    {
+      "code": 3204362007,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3204362008,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3204362009,
+      "name": "Sudi"
+    },
+    {
+      "code": 3204362010,
+      "name": "Tanggulun"
+    },
+    {
+      "code": 3204362011,
+      "name": "Cibeet"
+    },
+    {
+      "code": 3204362012,
+      "name": "Karyalaksana"
+    }
+  ]
+}

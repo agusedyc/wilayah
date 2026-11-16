@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201332001,
+      "name": "Putat Nutug"
+    },
+    {
+      "code": 3201332002,
+      "name": "Ciseeng"
+    },
+    {
+      "code": 3201332003,
+      "name": "Parigi Mekar"
+    },
+    {
+      "code": 3201332004,
+      "name": "Cibentang"
+    },
+    {
+      "code": 3201332005,
+      "name": "Cibeuteung Udik"
+    },
+    {
+      "code": 3201332006,
+      "name": "Karihkil"
+    },
+    {
+      "code": 3201332007,
+      "name": "Babakan"
+    },
+    {
+      "code": 3201332008,
+      "name": "Cihowe"
+    },
+    {
+      "code": 3201332009,
+      "name": "Cibeuteung Muara"
+    },
+    {
+      "code": 3201332010,
+      "name": "Kuripan"
+    }
+  ]
+}

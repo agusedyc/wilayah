@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 8203152001,
+      "name": "Limau"
+    },
+    {
+      "code": 8203152002,
+      "name": "Lalonga"
+    },
+    {
+      "code": 8203152003,
+      "name": "Bobisingo"
+    },
+    {
+      "code": 8203152004,
+      "name": "Salimuli"
+    },
+    {
+      "code": 8203152005,
+      "name": "Tutumaloleo"
+    },
+    {
+      "code": 8203152006,
+      "name": "Saluta"
+    },
+    {
+      "code": 8203152007,
+      "name": "Jere"
+    },
+    {
+      "code": 8203152008,
+      "name": "Dodowo"
+    },
+    {
+      "code": 8203152009,
+      "name": "Togasa"
+    },
+    {
+      "code": 8203152010,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 8203152011,
+      "name": "Pelita"
+    },
+    {
+      "code": 8203152012,
+      "name": "Jere Tua"
+    }
+  ]
+}

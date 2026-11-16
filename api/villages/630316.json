@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6303162001,
+      "name": "Madurejo"
+    },
+    {
+      "code": 6303162002,
+      "name": "Baliangin"
+    },
+    {
+      "code": 6303162003,
+      "name": "Gunung Batu"
+    },
+    {
+      "code": 6303162004,
+      "name": "Batang Banyu"
+    },
+    {
+      "code": 6303162005,
+      "name": "Sungai Lurus"
+    },
+    {
+      "code": 6303162006,
+      "name": "Batu Tanam"
+    },
+    {
+      "code": 6303162007,
+      "name": "Pasar Baru"
+    }
+  ]
+}

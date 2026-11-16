@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9601082001,
+      "name": "Segun"
+    },
+    {
+      "code": 9601082002,
+      "name": "Gisim"
+    },
+    {
+      "code": 9601082003,
+      "name": "Waimon"
+    },
+    {
+      "code": 9601082004,
+      "name": "Klasegun"
+    },
+    {
+      "code": 9601082005,
+      "name": "Waimlabat"
+    },
+    {
+      "code": 9601082006,
+      "name": "Majemau"
+    },
+    {
+      "code": 9601082007,
+      "name": "Klasin"
+    },
+    {
+      "code": 9601082008,
+      "name": "Klajaring"
+    },
+    {
+      "code": 9601082009,
+      "name": "Malamas"
+    }
+  ]
+}

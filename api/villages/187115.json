@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1871151001,
+      "name": "Perumnas Way Halim"
+    },
+    {
+      "code": 1871151002,
+      "name": "Way Halim Permai"
+    },
+    {
+      "code": 1871151003,
+      "name": "Gunungsulah"
+    },
+    {
+      "code": 1871151004,
+      "name": "Jagabaya I"
+    },
+    {
+      "code": 1871151005,
+      "name": "Jagabaya II"
+    },
+    {
+      "code": 1871151006,
+      "name": "Jagabaya III"
+    }
+  ]
+}

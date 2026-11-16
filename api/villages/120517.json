@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1205171001,
+      "name": "Sei Bilah"
+    },
+    {
+      "code": 1205171002,
+      "name": "Alur Dua"
+    },
+    {
+      "code": 1205171008,
+      "name": "Alur Dua Baru"
+    },
+    {
+      "code": 1205171009,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 1205171010,
+      "name": "Sei Bilah Timur"
+    },
+    {
+      "code": 1205172003,
+      "name": "Puraka I"
+    },
+    {
+      "code": 1205172004,
+      "name": "Puraka II"
+    },
+    {
+      "code": 1205172005,
+      "name": "Lama"
+    },
+    {
+      "code": 1205172006,
+      "name": "Telaga Said"
+    },
+    {
+      "code": 1205172007,
+      "name": "Lama Baru"
+    },
+    {
+      "code": 1205172011,
+      "name": "Mekar Makmur"
+    },
+    {
+      "code": 1205172012,
+      "name": "Harapan Baru"
+    },
+    {
+      "code": 1205172013,
+      "name": "Harapan Maju"
+    },
+    {
+      "code": 1205172014,
+      "name": "Harapan Makmur"
+    }
+  ]
+}

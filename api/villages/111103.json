@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": "Showing 52 villages",
+  "data": [
+    {
+      "code": 1111032001,
+      "name": "Lawang"
+    },
+    {
+      "code": 1111032002,
+      "name": "Matang Reuleut"
+    },
+    {
+      "code": 1111032003,
+      "name": "Meunasah Krueng"
+    },
+    {
+      "code": 1111032004,
+      "name": "Cot Keutapang"
+    },
+    {
+      "code": 1111032005,
+      "name": "Meunasah Rabo"
+    },
+    {
+      "code": 1111032006,
+      "name": "Meunasah Tambo"
+    },
+    {
+      "code": 1111032007,
+      "name": "Meunasah Baroh"
+    },
+    {
+      "code": 1111032008,
+      "name": "Meunasah Pulo"
+    },
+    {
+      "code": 1111032009,
+      "name": "Matang Pasi"
+    },
+    {
+      "code": 1111032010,
+      "name": "Blang Kubu"
+    },
+    {
+      "code": 1111032011,
+      "name": "Garot"
+    },
+    {
+      "code": 1111032012,
+      "name": "Ara Bungong"
+    },
+    {
+      "code": 1111032013,
+      "name": "Jabet"
+    },
+    {
+      "code": 1111032014,
+      "name": "Sawang"
+    },
+    {
+      "code": 1111032015,
+      "name": "Blang Beururu"
+    },
+    {
+      "code": 1111032016,
+      "name": "Hagu"
+    },
+    {
+      "code": 1111032017,
+      "name": "Blang Rangkuluh"
+    },
+    {
+      "code": 1111032018,
+      "name": "Meunasah Bungo"
+    },
+    {
+      "code": 1111032019,
+      "name": "Paya Beunot"
+    },
+    {
+      "code": 1111032020,
+      "name": "Meunasah Tunong"
+    },
+    {
+      "code": 1111032021,
+      "name": "Meunasah Alue"
+    },
+    {
+      "code": 1111032022,
+      "name": "Meunasah Cut"
+    },
+    {
+      "code": 1111032023,
+      "name": "Gampong Mesjid"
+    },
+    {
+      "code": 1111032024,
+      "name": "Meunasah Teungoh"
+    },
+    {
+      "code": 1111032025,
+      "name": "Meunasah Blang"
+    },
+    {
+      "code": 1111032026,
+      "name": "Kukue"
+    },
+    {
+      "code": 1111032027,
+      "name": "Blang Matang"
+    },
+    {
+      "code": 1111032028,
+      "name": "Blang Glumpang"
+    },
+    {
+      "code": 1111032029,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1111032030,
+      "name": "Gampong Paya"
+    },
+    {
+      "code": 1111032031,
+      "name": "Seuneubok Paya"
+    },
+    {
+      "code": 1111032032,
+      "name": "Pulo Lawang"
+    },
+    {
+      "code": 1111032033,
+      "name": "Keude Alue Rheng"
+    },
+    {
+      "code": 1111032034,
+      "name": "Karieng"
+    },
+    {
+      "code": 1111032035,
+      "name": "Pulo Ara"
+    },
+    {
+      "code": 1111032036,
+      "name": "Cot Laot"
+    },
+    {
+      "code": 1111032037,
+      "name": "Alue Sijuek"
+    },
+    {
+      "code": 1111032038,
+      "name": "Blang Bati"
+    },
+    {
+      "code": 1111032039,
+      "name": "Buket Paya"
+    },
+    {
+      "code": 1111032040,
+      "name": "Dayah Mon Ara"
+    },
+    {
+      "code": 1111032041,
+      "name": "Calok"
+    },
+    {
+      "code": 1111032042,
+      "name": "Cot Kruet"
+    },
+    {
+      "code": 1111032043,
+      "name": "Tanjong Seulamat"
+    },
+    {
+      "code": 1111032044,
+      "name": "Jaba"
+    },
+    {
+      "code": 1111032045,
+      "name": "Alue Gandai"
+    },
+    {
+      "code": 1111032046,
+      "name": "Neubok Naleung"
+    },
+    {
+      "code": 1111032047,
+      "name": "Paya Timu"
+    },
+    {
+      "code": 1111032048,
+      "name": "Gampong Mulia"
+    },
+    {
+      "code": 1111032049,
+      "name": "Pinto Rimba"
+    },
+    {
+      "code": 1111032050,
+      "name": "Alue Keutapang"
+    },
+    {
+      "code": 1111032051,
+      "name": "Tgk. Di Bathon"
+    },
+    {
+      "code": 1111032052,
+      "name": "Paya Barat"
+    }
+  ]
+}

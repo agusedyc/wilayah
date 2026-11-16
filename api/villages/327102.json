@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3271021001,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3271021002,
+      "name": "Baranangsiang"
+    },
+    {
+      "code": 3271021003,
+      "name": "Katulampa"
+    },
+    {
+      "code": 3271021004,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3271021005,
+      "name": "Sindangrasa"
+    },
+    {
+      "code": 3271021006,
+      "name": "Tajur"
+    }
+  ]
+}

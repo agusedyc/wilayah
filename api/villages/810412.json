@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8104122001,
+      "name": "Waelo"
+    },
+    {
+      "code": 8104122002,
+      "name": "Debowae"
+    },
+    {
+      "code": 8104122003,
+      "name": "Parbulu"
+    },
+    {
+      "code": 8104122004,
+      "name": "Waetina"
+    },
+    {
+      "code": 8104122005,
+      "name": "Waeleman"
+    },
+    {
+      "code": 8104122006,
+      "name": "Basalale"
+    },
+    {
+      "code": 8104122007,
+      "name": "Waflan"
+    },
+    {
+      "code": 8104122008,
+      "name": "Dava"
+    },
+    {
+      "code": 8104122009,
+      "name": "Waehata"
+    },
+    {
+      "code": 8104122010,
+      "name": "Widit"
+    }
+  ]
+}

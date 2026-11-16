@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7304011001,
+      "name": "Benteng"
+    },
+    {
+      "code": 7304011002,
+      "name": "Pallengu"
+    },
+    {
+      "code": 7304011003,
+      "name": "Pantai Bahari"
+    },
+    {
+      "code": 7304011004,
+      "name": "Bontorannu"
+    },
+    {
+      "code": 7304012005,
+      "name": "Pallantikang"
+    },
+    {
+      "code": 7304012006,
+      "name": "Kalimporo"
+    },
+    {
+      "code": 7304012007,
+      "name": "Punagaya"
+    },
+    {
+      "code": 7304012008,
+      "name": "Mallasoro"
+    },
+    {
+      "code": 7304012009,
+      "name": "Kapita"
+    },
+    {
+      "code": 7304012010,
+      "name": "Marayoka"
+    },
+    {
+      "code": 7304012011,
+      "name": "Jenetallasa"
+    },
+    {
+      "code": 7304012012,
+      "name": "Tombo Tombolo"
+    },
+    {
+      "code": 7304012013,
+      "name": "Gunung Silanu"
+    },
+    {
+      "code": 7304012014,
+      "name": "Bontomanai"
+    }
+  ]
+}

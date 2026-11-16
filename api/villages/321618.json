@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3216182001,
+      "name": "Cijengkol"
+    },
+    {
+      "code": 3216182002,
+      "name": "Lubangbuaya"
+    },
+    {
+      "code": 3216182003,
+      "name": "Burangkeng"
+    },
+    {
+      "code": 3216182004,
+      "name": "Ciledug"
+    },
+    {
+      "code": 3216182005,
+      "name": "Cibening"
+    },
+    {
+      "code": 3216182006,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 3216182007,
+      "name": "Taman Rahayu"
+    },
+    {
+      "code": 3216182008,
+      "name": "Cikarageman"
+    },
+    {
+      "code": 3216182009,
+      "name": "Ragemanunggal"
+    },
+    {
+      "code": 3216182010,
+      "name": "Muktijaya"
+    },
+    {
+      "code": 3216182011,
+      "name": "Kertarahayu"
+    }
+  ]
+}

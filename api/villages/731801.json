@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7318011009,
+      "name": "Pattan Ulusalu"
+    },
+    {
+      "code": 7318012010,
+      "name": "Salutandung"
+    },
+    {
+      "code": 7318012011,
+      "name": "Rea Tulak Langi"
+    },
+    {
+      "code": 7318012012,
+      "name": "Ratte Talonge"
+    },
+    {
+      "code": 7318012013,
+      "name": "Sa'tandung"
+    },
+    {
+      "code": 7318012014,
+      "name": "Ra'bung"
+    },
+    {
+      "code": 7318012015,
+      "name": "Salutapokko"
+    },
+    {
+      "code": 7318012016,
+      "name": "Salu Boronan"
+    },
+    {
+      "code": 7318012017,
+      "name": "Batu Tiakka"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3322052001,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3322052002,
+      "name": "Ujung-ujung"
+    },
+    {
+      "code": 3322052003,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3322052004,
+      "name": "Karang Gondang"
+    },
+    {
+      "code": 3322052005,
+      "name": "Segiri"
+    },
+    {
+      "code": 3322052006,
+      "name": "Terban"
+    },
+    {
+      "code": 3322052007,
+      "name": "Tukang"
+    },
+    {
+      "code": 3322052008,
+      "name": "Semowo"
+    },
+    {
+      "code": 3322052009,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3322052010,
+      "name": "Jembrak"
+    },
+    {
+      "code": 3322052011,
+      "name": "Glawan"
+    },
+    {
+      "code": 3322052012,
+      "name": "Pabelan"
+    },
+    {
+      "code": 3322052013,
+      "name": "Kauman Lor"
+    },
+    {
+      "code": 3322052014,
+      "name": "Bejaten"
+    },
+    {
+      "code": 3322052015,
+      "name": "Kadirejo"
+    },
+    {
+      "code": 3322052016,
+      "name": "Giling"
+    },
+    {
+      "code": 3322052017,
+      "name": "Padaan"
+    }
+  ]
+}

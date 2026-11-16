@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9502032001,
+      "name": "Okbifisil"
+    },
+    {
+      "code": 9502032002,
+      "name": "Abmisibil"
+    },
+    {
+      "code": 9502032003,
+      "name": "Manunggal"
+    },
+    {
+      "code": 9502032004,
+      "name": "Iriding"
+    },
+    {
+      "code": 9502032005,
+      "name": "Atolbol"
+    },
+    {
+      "code": 9502032006,
+      "name": "Oktanglap"
+    },
+    {
+      "code": 9502032007,
+      "name": "Oksemar"
+    },
+    {
+      "code": 9502032008,
+      "name": "Okaplo"
+    }
+  ]
+}

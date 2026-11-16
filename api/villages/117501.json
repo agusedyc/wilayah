@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1175012001,
+      "name": "Subulussalam"
+    },
+    {
+      "code": 1175012002,
+      "name": "Pegayo"
+    },
+    {
+      "code": 1175012003,
+      "name": "Sikalondang"
+    },
+    {
+      "code": 1175012004,
+      "name": "Buluh Dori"
+    },
+    {
+      "code": 1175012005,
+      "name": "Subulussalam Utara"
+    },
+    {
+      "code": 1175012006,
+      "name": "Subulussalam Selatan"
+    },
+    {
+      "code": 1175012007,
+      "name": "Subulussalam Barat"
+    },
+    {
+      "code": 1175012008,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1175012009,
+      "name": "Tangga Besi"
+    },
+    {
+      "code": 1175012010,
+      "name": "Kuta Cepu"
+    },
+    {
+      "code": 1175012011,
+      "name": "Pasar Panjang"
+    },
+    {
+      "code": 1175012012,
+      "name": "Mukti Makmur"
+    },
+    {
+      "code": 1175012013,
+      "name": "Lae Oram"
+    },
+    {
+      "code": 1175012014,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 1175012015,
+      "name": "Belegen Mulia"
+    },
+    {
+      "code": 1175012016,
+      "name": "Danau Tras"
+    },
+    {
+      "code": 1175012017,
+      "name": "Subulussalam Timur"
+    }
+  ]
+}

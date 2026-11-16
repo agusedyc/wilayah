@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3324172001,
+      "name": "Truko"
+    },
+    {
+      "code": 3324172002,
+      "name": "Lebosari"
+    },
+    {
+      "code": 3324172003,
+      "name": "Kadilangu"
+    },
+    {
+      "code": 3324172004,
+      "name": "Gebanganomwetan"
+    },
+    {
+      "code": 3324172005,
+      "name": "Kaliyoso"
+    },
+    {
+      "code": 3324172006,
+      "name": "Sukodadi"
+    },
+    {
+      "code": 3324172007,
+      "name": "Sendang Kulon"
+    },
+    {
+      "code": 3324172008,
+      "name": "Sendang Dawung"
+    },
+    {
+      "code": 3324172009,
+      "name": "Laban"
+    },
+    {
+      "code": 3324172010,
+      "name": "Karangmalang Wetan"
+    },
+    {
+      "code": 3324172011,
+      "name": "Jungsemi"
+    },
+    {
+      "code": 3324172012,
+      "name": "Kangkung"
+    },
+    {
+      "code": 3324172013,
+      "name": "Tanjungmojo"
+    },
+    {
+      "code": 3324172014,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3324172015,
+      "name": "Kalirejo"
+    }
+  ]
+}

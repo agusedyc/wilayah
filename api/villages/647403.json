@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 6474031001,
+      "name": "Belimbing"
+    },
+    {
+      "code": 6474031002,
+      "name": "Gunung Telihan"
+    },
+    {
+      "code": 6474031003,
+      "name": "Kanaan"
+    }
+  ]
+}

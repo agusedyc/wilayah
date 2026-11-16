@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3372021001,
+      "name": "Joyotakan"
+    },
+    {
+      "code": 3372021002,
+      "name": "Danukusuman"
+    },
+    {
+      "code": 3372021003,
+      "name": "Serengan"
+    },
+    {
+      "code": 3372021004,
+      "name": "Tipes"
+    },
+    {
+      "code": 3372021005,
+      "name": "Kratonan"
+    },
+    {
+      "code": 3372021006,
+      "name": "Jayengan"
+    },
+    {
+      "code": 3372021007,
+      "name": "Kemlayan"
+    }
+  ]
+}

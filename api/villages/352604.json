@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3526042001,
+      "name": "Kamal"
+    },
+    {
+      "code": 3526042002,
+      "name": "Banyuajuh"
+    },
+    {
+      "code": 3526042003,
+      "name": "Gili Barat"
+    },
+    {
+      "code": 3526042004,
+      "name": "Gili Timur"
+    },
+    {
+      "code": 3526042005,
+      "name": "Gili Anyar"
+    },
+    {
+      "code": 3526042006,
+      "name": "Telang"
+    },
+    {
+      "code": 3526042007,
+      "name": "Pendabah"
+    },
+    {
+      "code": 3526042008,
+      "name": "Tajungan"
+    },
+    {
+      "code": 3526042009,
+      "name": "Kebun"
+    },
+    {
+      "code": 3526042010,
+      "name": "Tanjung Jati"
+    }
+  ]
+}

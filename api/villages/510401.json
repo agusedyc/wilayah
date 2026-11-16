@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5104012001,
+      "name": "Batubulan"
+    },
+    {
+      "code": 5104012002,
+      "name": "Ketewel"
+    },
+    {
+      "code": 5104012003,
+      "name": "Guwang"
+    },
+    {
+      "code": 5104012004,
+      "name": "Sukawati"
+    },
+    {
+      "code": 5104012005,
+      "name": "Celuk"
+    },
+    {
+      "code": 5104012006,
+      "name": "Singapadu"
+    },
+    {
+      "code": 5104012007,
+      "name": "Batuan"
+    },
+    {
+      "code": 5104012008,
+      "name": "Kemenuh"
+    },
+    {
+      "code": 5104012009,
+      "name": "Batubulan Kangin"
+    },
+    {
+      "code": 5104012010,
+      "name": "Singapadu Tengah"
+    },
+    {
+      "code": 5104012011,
+      "name": "Singapadu Kaler"
+    },
+    {
+      "code": 5104012012,
+      "name": "Batuan Kaler"
+    }
+  ]
+}

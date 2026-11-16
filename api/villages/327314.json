@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273141001,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3273141002,
+      "name": "Cikutra"
+    },
+    {
+      "code": 3273141003,
+      "name": "Cicadas"
+    },
+    {
+      "code": 3273141004,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3273141005,
+      "name": "Sukapada"
+    },
+    {
+      "code": 3273141006,
+      "name": "Pasirlayung"
+    }
+  ]
+}

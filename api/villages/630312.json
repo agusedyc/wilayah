@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6303122001,
+      "name": "Baru"
+    },
+    {
+      "code": 6303122002,
+      "name": "Bawahan Pasar"
+    },
+    {
+      "code": 6303122003,
+      "name": "Bawahan Seberang"
+    },
+    {
+      "code": 6303122004,
+      "name": "Pematang Danau"
+    },
+    {
+      "code": 6303122005,
+      "name": "Surian"
+    },
+    {
+      "code": 6303122006,
+      "name": "Mataraman"
+    },
+    {
+      "code": 6303122007,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 6303122008,
+      "name": "Bawahan Selan"
+    },
+    {
+      "code": 6303122009,
+      "name": "Takuti"
+    },
+    {
+      "code": 6303122010,
+      "name": "Pasiraman"
+    },
+    {
+      "code": 6303122011,
+      "name": "Lok Tamu"
+    },
+    {
+      "code": 6303122012,
+      "name": "Sungai Jati"
+    },
+    {
+      "code": 6303122013,
+      "name": "Mangkalawat"
+    },
+    {
+      "code": 6303122014,
+      "name": "Gunung Ulin"
+    },
+    {
+      "code": 6303122015,
+      "name": "Tanah Abang"
+    }
+  ]
+}

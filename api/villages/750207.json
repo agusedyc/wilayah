@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7502072001,
+      "name": "Bubaa"
+    },
+    {
+      "code": 7502072002,
+      "name": "Lito"
+    },
+    {
+      "code": 7502072003,
+      "name": "Limbatihu"
+    },
+    {
+      "code": 7502072004,
+      "name": "Bukit Karya"
+    },
+    {
+      "code": 7502072005,
+      "name": "Apitalawu"
+    },
+    {
+      "code": 7502072006,
+      "name": "Bangga"
+    },
+    {
+      "code": 7502072007,
+      "name": "Towayu"
+    },
+    {
+      "code": 7502072008,
+      "name": "Olibu"
+    }
+  ]
+}

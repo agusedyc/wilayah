@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471061003,
+      "name": "Rumbai Bukit"
+    },
+    {
+      "code": 1471061005,
+      "name": "Muarafajar Timur"
+    },
+    {
+      "code": 1471061010,
+      "name": "Muarafajar Barat"
+    },
+    {
+      "code": 1471061011,
+      "name": "Rantaupanjang"
+    },
+    {
+      "code": 1471061012,
+      "name": "Maharani"
+    },
+    {
+      "code": 1471061013,
+      "name": "Agrowisata"
+    }
+  ]
+}

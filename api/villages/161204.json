@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1612042001,
+      "name": "Betung"
+    },
+    {
+      "code": 1612042002,
+      "name": "Betung Barat"
+    },
+    {
+      "code": 1612042003,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1612042004,
+      "name": "Tanjung Kurung"
+    },
+    {
+      "code": 1612042005,
+      "name": "Pengabuan"
+    },
+    {
+      "code": 1612042006,
+      "name": "Prambatan"
+    },
+    {
+      "code": 1612042007,
+      "name": "Pengabuan Timur"
+    },
+    {
+      "code": 1612042008,
+      "name": "Betung Selatan"
+    }
+  ]
+}

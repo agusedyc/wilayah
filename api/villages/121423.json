@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1214232001,
+      "name": "Maluo"
+    },
+    {
+      "code": 1214232002,
+      "name": "Hiliadulo"
+    },
+    {
+      "code": 1214232003,
+      "name": "Umbuasi"
+    },
+    {
+      "code": 1214232004,
+      "name": "Sisobahili Siwalawa"
+    },
+    {
+      "code": 1214232005,
+      "name": "Manawadano"
+    },
+    {
+      "code": 1214232006,
+      "name": "Talio"
+    },
+    {
+      "code": 1214232007,
+      "name": "Anaoma"
+    },
+    {
+      "code": 1214232008,
+      "name": "Berua Siwalawa"
+    },
+    {
+      "code": 1214232009,
+      "name": "Umbuasi Barat"
+    },
+    {
+      "code": 1214232010,
+      "name": "Hiligodu"
+    },
+    {
+      "code": 1214232011,
+      "name": "Bukit Burasi"
+    }
+  ]
+}

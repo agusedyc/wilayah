@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1807142001,
+      "name": "Donomulyo"
+    },
+    {
+      "code": 1807142002,
+      "name": "Nyampir"
+    },
+    {
+      "code": 1807142003,
+      "name": "Bumi Tinggi"
+    },
+    {
+      "code": 1807142004,
+      "name": "Lehan"
+    },
+    {
+      "code": 1807142005,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1807142006,
+      "name": "Catur Swako"
+    },
+    {
+      "code": 1807142007,
+      "name": "Mulyo Asri"
+    }
+  ]
+}

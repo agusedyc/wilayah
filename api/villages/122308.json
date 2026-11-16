@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1223081001,
+      "name": "Gunting Saga"
+    },
+    {
+      "code": 1223082002,
+      "name": "Damuli Pekan"
+    },
+    {
+      "code": 1223082003,
+      "name": "Siamporik"
+    },
+    {
+      "code": 1223082004,
+      "name": "Lobu Huala"
+    },
+    {
+      "code": 1223082005,
+      "name": "Gunung Melayu"
+    },
+    {
+      "code": 1223082006,
+      "name": "Damuli Kebun"
+    },
+    {
+      "code": 1223082007,
+      "name": "Hasang"
+    },
+    {
+      "code": 1223082008,
+      "name": "Bandar Lama"
+    },
+    {
+      "code": 1223082009,
+      "name": "Sidua Dua"
+    },
+    {
+      "code": 1223082010,
+      "name": "Simangalam"
+    },
+    {
+      "code": 1223082011,
+      "name": "Tanjung Pasir"
+    },
+    {
+      "code": 1223082012,
+      "name": "Sialang Taji"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5203202001,
+      "name": "Batu Nampar"
+    },
+    {
+      "code": 5203202002,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 5203202003,
+      "name": "Jerowaru"
+    },
+    {
+      "code": 5203202004,
+      "name": "Pemongkong"
+    },
+    {
+      "code": 5203202005,
+      "name": "Sekaroh"
+    },
+    {
+      "code": 5203202006,
+      "name": "Pandan Wangi"
+    },
+    {
+      "code": 5203202007,
+      "name": "Wakan"
+    },
+    {
+      "code": 5203202008,
+      "name": "Kwang Rundun"
+    },
+    {
+      "code": 5203202009,
+      "name": "Ekas Buana"
+    },
+    {
+      "code": 5203202010,
+      "name": "Sepapan"
+    },
+    {
+      "code": 5203202011,
+      "name": "Seriwe"
+    },
+    {
+      "code": 5203202012,
+      "name": "Pene"
+    },
+    {
+      "code": 5203202013,
+      "name": "Batunampar Selatan"
+    },
+    {
+      "code": 5203202014,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 5203202015,
+      "name": "Pare Mas"
+    }
+  ]
+}

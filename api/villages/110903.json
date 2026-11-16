@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1109032001,
+      "name": "Silengas"
+    },
+    {
+      "code": 1109032002,
+      "name": "Bunon"
+    },
+    {
+      "code": 1109032003,
+      "name": "Angkeo"
+    },
+    {
+      "code": 1109032004,
+      "name": "Awe Seubal"
+    },
+    {
+      "code": 1109032005,
+      "name": "Laayon"
+    },
+    {
+      "code": 1109032006,
+      "name": "Inor"
+    },
+    {
+      "code": 1109032007,
+      "name": "Salur Lasengalu"
+    },
+    {
+      "code": 1109032008,
+      "name": "Salur Latun"
+    },
+    {
+      "code": 1109032009,
+      "name": "Salur"
+    },
+    {
+      "code": 1109032010,
+      "name": "Pulau Teupah"
+    },
+    {
+      "code": 1109032011,
+      "name": "Awe Kecil"
+    },
+    {
+      "code": 1109032012,
+      "name": "Naibos"
+    },
+    {
+      "code": 1109032013,
+      "name": "Lantik"
+    },
+    {
+      "code": 1109032014,
+      "name": "Leubang Hulu"
+    },
+    {
+      "code": 1109032015,
+      "name": "Leubang"
+    },
+    {
+      "code": 1109032016,
+      "name": "Sital"
+    },
+    {
+      "code": 1109032017,
+      "name": "Maudil"
+    },
+    {
+      "code": 1109032018,
+      "name": "Nancala"
+    }
+  ]
+}

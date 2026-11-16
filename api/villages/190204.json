@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1902042001,
+      "name": "Sijuk"
+    },
+    {
+      "code": 1902042002,
+      "name": "Batu Itam"
+    },
+    {
+      "code": 1902042003,
+      "name": "Terong"
+    },
+    {
+      "code": 1902042004,
+      "name": "Air Seruk"
+    },
+    {
+      "code": 1902042005,
+      "name": "Tanjung Binga"
+    },
+    {
+      "code": 1902042006,
+      "name": "Air Selumar"
+    },
+    {
+      "code": 1902042007,
+      "name": "Sungai Padang"
+    },
+    {
+      "code": 1902042008,
+      "name": "Keciput"
+    },
+    {
+      "code": 1902042009,
+      "name": "Pelepak Pute"
+    },
+    {
+      "code": 1902042010,
+      "name": "Tanjong Tinggi"
+    }
+  ]
+}

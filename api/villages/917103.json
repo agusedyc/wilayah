@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9171031002,
+      "name": "Asano"
+    },
+    {
+      "code": 9171031008,
+      "name": "Awiyo"
+    },
+    {
+      "code": 9171031010,
+      "name": "Yobe"
+    },
+    {
+      "code": 9171031011,
+      "name": "Abepantai"
+    },
+    {
+      "code": 9171031012,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 9171031014,
+      "name": "Vim"
+    },
+    {
+      "code": 9171031015,
+      "name": "Wahno"
+    },
+    {
+      "code": 9171031016,
+      "name": "Way Mhorock"
+    },
+    {
+      "code": 9171032001,
+      "name": "Nafri"
+    },
+    {
+      "code": 9171032004,
+      "name": "Enggros"
+    },
+    {
+      "code": 9171032007,
+      "name": "Koya Koso"
+    }
+  ]
+}

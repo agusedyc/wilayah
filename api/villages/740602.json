@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7406021011,
+      "name": "Bambaea"
+    },
+    {
+      "code": 7406021015,
+      "name": "Puu Lemo"
+    },
+    {
+      "code": 7406022003,
+      "name": "Teppoe"
+    },
+    {
+      "code": 7406022004,
+      "name": "Biru"
+    },
+    {
+      "code": 7406022010,
+      "name": "Mambo"
+    }
+  ]
+}

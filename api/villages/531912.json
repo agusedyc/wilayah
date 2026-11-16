@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5319121001,
+      "name": "Golo Wangkung"
+    },
+    {
+      "code": 5319121007,
+      "name": "Golo Wangkung Barat"
+    },
+    {
+      "code": 5319122002,
+      "name": "Buti"
+    },
+    {
+      "code": 5319122003,
+      "name": "Golo Ngawan"
+    },
+    {
+      "code": 5319122004,
+      "name": "Satar Nawang"
+    },
+    {
+      "code": 5319122005,
+      "name": "Rana Mese"
+    },
+    {
+      "code": 5319122006,
+      "name": "Compang Congkar"
+    },
+    {
+      "code": 5319122008,
+      "name": "Compang Lawi"
+    },
+    {
+      "code": 5319122009,
+      "name": "Golo Pari"
+    },
+    {
+      "code": 5319122010,
+      "name": "Wea"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3215302001,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3215302002,
+      "name": "Rawasari"
+    },
+    {
+      "code": 3215302003,
+      "name": "Pusakajaya Selatan"
+    },
+    {
+      "code": 3215302004,
+      "name": "Cikande"
+    },
+    {
+      "code": 3215302005,
+      "name": "Kosambibatu"
+    },
+    {
+      "code": 3215302006,
+      "name": "Pusakajaya Utara"
+    },
+    {
+      "code": 3215302007,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3215302008,
+      "name": "Ciptamargi"
+    },
+    {
+      "code": 3215302009,
+      "name": "Mekarpohaci"
+    },
+    {
+      "code": 3215302010,
+      "name": "Tanjungsari"
+    }
+  ]
+}

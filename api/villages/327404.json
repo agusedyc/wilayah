@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3274041001,
+      "name": "Jagasatru"
+    },
+    {
+      "code": 3274041002,
+      "name": "Pekalipan"
+    },
+    {
+      "code": 3274041003,
+      "name": "Pulasaren"
+    },
+    {
+      "code": 3274041004,
+      "name": "Pekalangan"
+    }
+  ]
+}

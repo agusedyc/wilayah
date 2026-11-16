@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7101202001,
+      "name": "Mariri Lama"
+    },
+    {
+      "code": 7101202002,
+      "name": "Mariri Baru"
+    },
+    {
+      "code": 7101202003,
+      "name": "Nonapan II"
+    },
+    {
+      "code": 7101202004,
+      "name": "Nonapan I"
+    },
+    {
+      "code": 7101202005,
+      "name": "Wineru"
+    },
+    {
+      "code": 7101202006,
+      "name": "Gogaluman"
+    },
+    {
+      "code": 7101202007,
+      "name": "Poigar I"
+    },
+    {
+      "code": 7101202008,
+      "name": "Nanasi"
+    },
+    {
+      "code": 7101202009,
+      "name": "Pomoman"
+    },
+    {
+      "code": 7101202010,
+      "name": "Tiberias"
+    },
+    {
+      "code": 7101202011,
+      "name": "Mondatong"
+    },
+    {
+      "code": 7101202012,
+      "name": "Poigar II"
+    },
+    {
+      "code": 7101202013,
+      "name": "Poigar III"
+    },
+    {
+      "code": 7101202014,
+      "name": "Mariri II"
+    },
+    {
+      "code": 7101202015,
+      "name": "Mariri I"
+    },
+    {
+      "code": 7101202016,
+      "name": "Nonapan Baru"
+    },
+    {
+      "code": 7101202017,
+      "name": "Nanasi Timur"
+    },
+    {
+      "code": 7101202018,
+      "name": "Nonapan"
+    },
+    {
+      "code": 7101202019,
+      "name": "Tanjung Mariri"
+    },
+    {
+      "code": 7101202020,
+      "name": "Mondatong Baru"
+    }
+  ]
+}

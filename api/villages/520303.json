@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5203032001,
+      "name": "Jenggik"
+    },
+    {
+      "code": 5203032002,
+      "name": "Rarang"
+    },
+    {
+      "code": 5203032003,
+      "name": "Suradadi"
+    },
+    {
+      "code": 5203032004,
+      "name": "Santong"
+    },
+    {
+      "code": 5203032005,
+      "name": "Terara"
+    },
+    {
+      "code": 5203032006,
+      "name": "Sukadana"
+    },
+    {
+      "code": 5203032007,
+      "name": "Rarang Selatan"
+    },
+    {
+      "code": 5203032008,
+      "name": "Leming"
+    },
+    {
+      "code": 5203032009,
+      "name": "Lando"
+    },
+    {
+      "code": 5203032010,
+      "name": "Rarang Tengah"
+    },
+    {
+      "code": 5203032011,
+      "name": "Embung Raja"
+    },
+    {
+      "code": 5203032012,
+      "name": "Selagik"
+    },
+    {
+      "code": 5203032013,
+      "name": "Embung Kandong"
+    },
+    {
+      "code": 5203032014,
+      "name": "Kalianyar"
+    },
+    {
+      "code": 5203032015,
+      "name": "Rarang Batas"
+    },
+    {
+      "code": 5203032016,
+      "name": "Pandan Duri"
+    }
+  ]
+}

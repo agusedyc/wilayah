@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3322162001,
+      "name": "Bancak"
+    },
+    {
+      "code": 3322162002,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3322162003,
+      "name": "Jlumpang"
+    },
+    {
+      "code": 3322162004,
+      "name": "Bantal"
+    },
+    {
+      "code": 3322162005,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3322162006,
+      "name": "Plumutan"
+    },
+    {
+      "code": 3322162007,
+      "name": "Lembu"
+    },
+    {
+      "code": 3322162008,
+      "name": "Pucung"
+    },
+    {
+      "code": 3322162009,
+      "name": "Boto"
+    }
+  ]
+}

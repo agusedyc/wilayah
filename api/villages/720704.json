@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7207041015,
+      "name": "Salakan"
+    },
+    {
+      "code": 7207042009,
+      "name": "Manggalai"
+    },
+    {
+      "code": 7207042010,
+      "name": "Ambelang"
+    },
+    {
+      "code": 7207042011,
+      "name": "Saiyong"
+    },
+    {
+      "code": 7207042012,
+      "name": "Tompudau"
+    },
+    {
+      "code": 7207042013,
+      "name": "Bongganan"
+    },
+    {
+      "code": 7207042014,
+      "name": "Baka"
+    },
+    {
+      "code": 7207042016,
+      "name": "Bulungkobit"
+    },
+    {
+      "code": 7207042017,
+      "name": "Bakalan"
+    },
+    {
+      "code": 7207042018,
+      "name": "Kautu"
+    },
+    {
+      "code": 7207042022,
+      "name": "Bungin"
+    }
+  ]
+}

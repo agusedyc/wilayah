@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1402082001,
+      "name": "Siambul"
+    },
+    {
+      "code": 1402082002,
+      "name": "Rantau Langsat"
+    },
+    {
+      "code": 1402082003,
+      "name": "Sungai Akar"
+    },
+    {
+      "code": 1402082004,
+      "name": "Usul"
+    },
+    {
+      "code": 1402082005,
+      "name": "Seberida"
+    },
+    {
+      "code": 1402082006,
+      "name": "Talang Lakat"
+    },
+    {
+      "code": 1402082007,
+      "name": "Belimbing"
+    },
+    {
+      "code": 1402082008,
+      "name": "Ringin"
+    },
+    {
+      "code": 1402082010,
+      "name": "Penyaguan"
+    },
+    {
+      "code": 1402082011,
+      "name": "Danau Rambai"
+    }
+  ]
+}

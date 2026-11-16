@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3527072001,
+      "name": "Asemraja"
+    },
+    {
+      "code": 3527072002,
+      "name": "Plakaran"
+    },
+    {
+      "code": 3527072003,
+      "name": "Asemnonggal"
+    },
+    {
+      "code": 3527072004,
+      "name": "Majangan"
+    },
+    {
+      "code": 3527072005,
+      "name": "Margantoko"
+    },
+    {
+      "code": 3527072006,
+      "name": "Penyepen"
+    },
+    {
+      "code": 3527072007,
+      "name": "Taman"
+    },
+    {
+      "code": 3527072008,
+      "name": "Jrengik"
+    },
+    {
+      "code": 3527072009,
+      "name": "Kalangan Prao"
+    },
+    {
+      "code": 3527072010,
+      "name": "Kotah"
+    },
+    {
+      "code": 3527072011,
+      "name": "Jungkarang"
+    },
+    {
+      "code": 3527072012,
+      "name": "Mlakah"
+    },
+    {
+      "code": 3527072013,
+      "name": "Bancelok"
+    },
+    {
+      "code": 3527072014,
+      "name": "Buker"
+    }
+  ]
+}

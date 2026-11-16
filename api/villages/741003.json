@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7410031006,
+      "name": "Buranga"
+    },
+    {
+      "code": 7410031010,
+      "name": "Bonegunu"
+    },
+    {
+      "code": 7410032001,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 7410032002,
+      "name": "Ronta"
+    },
+    {
+      "code": 7410032003,
+      "name": "Waode Angkalo"
+    },
+    {
+      "code": 7410032004,
+      "name": "Langere"
+    },
+    {
+      "code": 7410032005,
+      "name": "Koepisino"
+    },
+    {
+      "code": 7410032007,
+      "name": "Waode Kalowo"
+    },
+    {
+      "code": 7410032008,
+      "name": "Laano Ipi"
+    },
+    {
+      "code": 7410032009,
+      "name": "Eensumala"
+    },
+    {
+      "code": 7410032013,
+      "name": "Tatombuli"
+    },
+    {
+      "code": 7410032014,
+      "name": "Rante Gola"
+    },
+    {
+      "code": 7410032015,
+      "name": "Ngapa'ea"
+    },
+    {
+      "code": 7410032016,
+      "name": "Koboruno"
+    },
+    {
+      "code": 7410032017,
+      "name": "Damai Laborona"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9106202001,
+      "name": "Opiaref"
+    },
+    {
+      "code": 9106202002,
+      "name": "Bakribo"
+    },
+    {
+      "code": 9106202003,
+      "name": "Sawa"
+    },
+    {
+      "code": 9106202004,
+      "name": "Marauw"
+    },
+    {
+      "code": 9106202005,
+      "name": "Wadibu"
+    },
+    {
+      "code": 9106202006,
+      "name": "Anggopi"
+    },
+    {
+      "code": 9106202007,
+      "name": "Anggaduber"
+    },
+    {
+      "code": 9106202008,
+      "name": "Animi"
+    },
+    {
+      "code": 9106202009,
+      "name": "Kakur"
+    },
+    {
+      "code": 9106202010,
+      "name": "Tanjung Barari"
+    },
+    {
+      "code": 9106202011,
+      "name": "Sawadori"
+    },
+    {
+      "code": 9106202012,
+      "name": "Sauri"
+    },
+    {
+      "code": 9106202013,
+      "name": "Makmakerbo"
+    },
+    {
+      "code": 9106202014,
+      "name": "Yensama"
+    }
+  ]
+}

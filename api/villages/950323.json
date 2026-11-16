@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 9503232001,
+      "name": "Ubahak"
+    },
+    {
+      "code": 9503232002,
+      "name": "Saruk"
+    },
+    {
+      "code": 9503232003,
+      "name": "Pini"
+    },
+    {
+      "code": 9503232004,
+      "name": "Sosomikma"
+    },
+    {
+      "code": 9503232005,
+      "name": "Suhuntek"
+    },
+    {
+      "code": 9503232006,
+      "name": "Keleng"
+    },
+    {
+      "code": 9503232007,
+      "name": "Silong"
+    },
+    {
+      "code": 9503232008,
+      "name": "Nurap"
+    },
+    {
+      "code": 9503232009,
+      "name": "Wamuhuk"
+    },
+    {
+      "code": 9503232010,
+      "name": "Welile"
+    },
+    {
+      "code": 9503232011,
+      "name": "Mabien"
+    },
+    {
+      "code": 9503232012,
+      "name": "Kibianggen"
+    },
+    {
+      "code": 9503232013,
+      "name": "Koluang"
+    },
+    {
+      "code": 9503232014,
+      "name": "Tolombing"
+    },
+    {
+      "code": 9503232015,
+      "name": "Furuluk"
+    },
+    {
+      "code": 9503232016,
+      "name": "Oblin"
+    },
+    {
+      "code": 9503232017,
+      "name": "Bisifak"
+    }
+  ]
+}

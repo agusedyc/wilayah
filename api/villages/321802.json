@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3218022001,
+      "name": "Batukaras"
+    },
+    {
+      "code": 3218022002,
+      "name": "Ciakar"
+    },
+    {
+      "code": 3218022003,
+      "name": "Cibanten"
+    },
+    {
+      "code": 3218022004,
+      "name": "Kertayasa"
+    },
+    {
+      "code": 3218022005,
+      "name": "Cijulang"
+    },
+    {
+      "code": 3218022006,
+      "name": "Kondangjajar"
+    },
+    {
+      "code": 3218022007,
+      "name": "Margacinta"
+    }
+  ]
+}

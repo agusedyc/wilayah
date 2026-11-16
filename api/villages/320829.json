@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3208292001,
+      "name": "Karangkancana"
+    },
+    {
+      "code": 3208292002,
+      "name": "Kaduagung"
+    },
+    {
+      "code": 3208292003,
+      "name": "Segong"
+    },
+    {
+      "code": 3208292004,
+      "name": "Tanjungkerta"
+    },
+    {
+      "code": 3208292005,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3208292006,
+      "name": "Margacina"
+    },
+    {
+      "code": 3208292007,
+      "name": "Jabranti"
+    },
+    {
+      "code": 3208292008,
+      "name": "Simpayjaya"
+    },
+    {
+      "code": 3208292009,
+      "name": "Cihanjaro"
+    }
+  ]
+}

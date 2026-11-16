@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5307182001,
+      "name": "Rubit"
+    },
+    {
+      "code": 5307182002,
+      "name": "Wolomapa"
+    },
+    {
+      "code": 5307182003,
+      "name": "Baomekot"
+    },
+    {
+      "code": 5307182004,
+      "name": "Kajowair"
+    },
+    {
+      "code": 5307182005,
+      "name": "Hewokloang"
+    },
+    {
+      "code": 5307182006,
+      "name": "Heopuat"
+    },
+    {
+      "code": 5307182007,
+      "name": "Munerana"
+    }
+  ]
+}

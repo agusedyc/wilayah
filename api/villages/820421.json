@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8204212001,
+      "name": "Wayaua"
+    },
+    {
+      "code": 8204212002,
+      "name": "Silang"
+    },
+    {
+      "code": 8204212003,
+      "name": "Liaro"
+    },
+    {
+      "code": 8204212004,
+      "name": "Pigaraja"
+    },
+    {
+      "code": 8204212005,
+      "name": "Wayakuba"
+    },
+    {
+      "code": 8204212006,
+      "name": "Tabangame"
+    },
+    {
+      "code": 8204212007,
+      "name": "Tabajaya"
+    }
+  ]
+}

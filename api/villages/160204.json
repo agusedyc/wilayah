@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1602042001,
+      "name": "Pematang Panggang"
+    },
+    {
+      "code": 1602042002,
+      "name": "Sungai Sodong"
+    },
+    {
+      "code": 1602042005,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1602042006,
+      "name": "Surya Adi"
+    },
+    {
+      "code": 1602042007,
+      "name": "Makarti Mulya"
+    },
+    {
+      "code": 1602042008,
+      "name": "Marga Bakti"
+    },
+    {
+      "code": 1602042009,
+      "name": "Jaya Bakti"
+    },
+    {
+      "code": 1602042025,
+      "name": "Sukamukti"
+    },
+    {
+      "code": 1602042026,
+      "name": "Mekar Wangi"
+    },
+    {
+      "code": 1602042035,
+      "name": "Karya Mukti"
+    },
+    {
+      "code": 1602042037,
+      "name": "Kalideras"
+    },
+    {
+      "code": 1602042038,
+      "name": "Sumber Deras"
+    },
+    {
+      "code": 1602042047,
+      "name": "Kembang Jajar"
+    },
+    {
+      "code": 1602042050,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1602042051,
+      "name": "Sido Basuki"
+    },
+    {
+      "code": 1602042052,
+      "name": "Pematang Kasih"
+    },
+    {
+      "code": 1602042053,
+      "name": "Labuhan Jaya"
+    }
+  ]
+}

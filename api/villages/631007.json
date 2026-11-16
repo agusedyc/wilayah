@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6310072001,
+      "name": "Karang Bintang"
+    },
+    {
+      "code": 6310072002,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 6310072003,
+      "name": "Rejo Winangun"
+    },
+    {
+      "code": 6310072004,
+      "name": "Selaselilau"
+    },
+    {
+      "code": 6310072005,
+      "name": "Pematang Ulin"
+    },
+    {
+      "code": 6310072006,
+      "name": "Batu Licin Irigasi"
+    },
+    {
+      "code": 6310072007,
+      "name": "Manunggal"
+    },
+    {
+      "code": 6310072009,
+      "name": "Sumber Wangi"
+    },
+    {
+      "code": 6310072010,
+      "name": "Madu Retno"
+    },
+    {
+      "code": 6310072011,
+      "name": "Maju Sejahtera"
+    },
+    {
+      "code": 6310072012,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 6310072013,
+      "name": "Karang Nunggal"
+    }
+  ]
+}

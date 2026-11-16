@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3508092001,
+      "name": "Wonogriyo"
+    },
+    {
+      "code": 3508092002,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3508092003,
+      "name": "Mangunsari"
+    },
+    {
+      "code": 3508092004,
+      "name": "Tekung"
+    },
+    {
+      "code": 3508092005,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3508092006,
+      "name": "Tukum"
+    },
+    {
+      "code": 3508092007,
+      "name": "Karangbendo"
+    },
+    {
+      "code": 3508092008,
+      "name": "Klampokarum"
+    }
+  ]
+}

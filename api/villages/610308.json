@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6103082001,
+      "name": "Tanjung Bunga"
+    },
+    {
+      "code": 6103082002,
+      "name": "Semayang"
+    },
+    {
+      "code": 6103082003,
+      "name": "Sebongkuh"
+    },
+    {
+      "code": 6103082004,
+      "name": "Kuala Dua"
+    },
+    {
+      "code": 6103082005,
+      "name": "Tanjung Merpati"
+    },
+    {
+      "code": 6103082006,
+      "name": "Sejuah"
+    },
+    {
+      "code": 6103082007,
+      "name": "Mobui"
+    },
+    {
+      "code": 6103082008,
+      "name": "Tanap"
+    },
+    {
+      "code": 6103082009,
+      "name": "Sebuduh"
+    },
+    {
+      "code": 6103082010,
+      "name": "Kelompu"
+    },
+    {
+      "code": 6103082011,
+      "name": "Tunggal Bhakti"
+    }
+  ]
+}

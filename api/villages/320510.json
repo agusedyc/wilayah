@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3205102001,
+      "name": "Kadungora"
+    },
+    {
+      "code": 3205102002,
+      "name": "Gandamekar"
+    },
+    {
+      "code": 3205102003,
+      "name": "Cikembulan"
+    },
+    {
+      "code": 3205102004,
+      "name": "Cisaat"
+    },
+    {
+      "code": 3205102005,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3205102006,
+      "name": "Tanggulun"
+    },
+    {
+      "code": 3205102007,
+      "name": "Mekarbakti"
+    },
+    {
+      "code": 3205102008,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3205102009,
+      "name": "Harumansari"
+    },
+    {
+      "code": 3205102010,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3205102011,
+      "name": "Hegarsari"
+    },
+    {
+      "code": 3205102012,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3205102013,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3205102014,
+      "name": "Rancasalak"
+    }
+  ]
+}

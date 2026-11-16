@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8203192001,
+      "name": "Salube"
+    },
+    {
+      "code": 8203192002,
+      "name": "Dama"
+    },
+    {
+      "code": 8203192003,
+      "name": "Dowonggila"
+    },
+    {
+      "code": 8203192004,
+      "name": "Tuakara"
+    },
+    {
+      "code": 8203192005,
+      "name": "Jikolamo"
+    },
+    {
+      "code": 8203192006,
+      "name": "Dagasuli"
+    },
+    {
+      "code": 8203192007,
+      "name": "Dedeta"
+    },
+    {
+      "code": 8203192008,
+      "name": "Fitako"
+    },
+    {
+      "code": 8203192009,
+      "name": "Tobo Tobo"
+    },
+    {
+      "code": 8203192010,
+      "name": "Cera"
+    }
+  ]
+}

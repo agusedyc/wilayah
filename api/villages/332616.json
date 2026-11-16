@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3326161010,
+      "name": "Gumawang"
+    },
+    {
+      "code": 3326161011,
+      "name": "Kepatihan"
+    },
+    {
+      "code": 3326161012,
+      "name": "Mayangan"
+    },
+    {
+      "code": 3326161013,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3326161014,
+      "name": "Bener"
+    },
+    {
+      "code": 3326162001,
+      "name": "Kadipaten"
+    },
+    {
+      "code": 3326162002,
+      "name": "Delegtukang"
+    },
+    {
+      "code": 3326162003,
+      "name": "Karangjati"
+    },
+    {
+      "code": 3326162004,
+      "name": "Petukangan"
+    },
+    {
+      "code": 3326162005,
+      "name": "Wiradesa"
+    },
+    {
+      "code": 3326162006,
+      "name": "Warukidul"
+    },
+    {
+      "code": 3326162007,
+      "name": "Bondansari"
+    },
+    {
+      "code": 3326162008,
+      "name": "Warulor"
+    },
+    {
+      "code": 3326162009,
+      "name": "Kampil"
+    },
+    {
+      "code": 3326162015,
+      "name": "Kemplong"
+    },
+    {
+      "code": 3326162016,
+      "name": "Kauman"
+    }
+  ]
+}

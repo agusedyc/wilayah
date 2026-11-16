@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671051001,
+      "name": "Malanu"
+    },
+    {
+      "code": 9671051002,
+      "name": "Malasilen"
+    },
+    {
+      "code": 9671051003,
+      "name": "Matalamagi"
+    },
+    {
+      "code": 9671051004,
+      "name": "Sawagumu"
+    }
+  ]
+}

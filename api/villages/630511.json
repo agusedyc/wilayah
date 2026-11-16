@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6305112001,
+      "name": "Salam Babaris"
+    },
+    {
+      "code": 6305112002,
+      "name": "Suato Lama"
+    },
+    {
+      "code": 6305112003,
+      "name": "Kambang Habang Lama"
+    },
+    {
+      "code": 6305112004,
+      "name": "Pantai Cabe"
+    },
+    {
+      "code": 6305112005,
+      "name": "Suato Baru"
+    },
+    {
+      "code": 6305112006,
+      "name": "Kambang Habang Baru"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1107212001,
+      "name": "Rabo"
+    },
+    {
+      "code": 1107212002,
+      "name": "Pulo Siblah"
+    },
+    {
+      "code": 1107212003,
+      "name": "Lhok Igeuh"
+    },
+    {
+      "code": 1107212004,
+      "name": "Pulo Glumpang"
+    },
+    {
+      "code": 1107212005,
+      "name": "Meunasah Mancang"
+    },
+    {
+      "code": 1107212006,
+      "name": "Pulo Tambo"
+    },
+    {
+      "code": 1107212007,
+      "name": "Pulo Keunari"
+    },
+    {
+      "code": 1107212008,
+      "name": "Peunadok"
+    },
+    {
+      "code": 1107212009,
+      "name": "Pulo Mesjid"
+    },
+    {
+      "code": 1107212010,
+      "name": "Meunasah Panah"
+    },
+    {
+      "code": 1107212011,
+      "name": "Trieng Cudo Baroh"
+    },
+    {
+      "code": 1107212012,
+      "name": "Trieng Cudo Tunong"
+    },
+    {
+      "code": 1107212013,
+      "name": "Mampree"
+    },
+    {
+      "code": 1107212014,
+      "name": "Daya Baroh"
+    },
+    {
+      "code": 1107212015,
+      "name": "Daya Teungoh"
+    },
+    {
+      "code": 1107212016,
+      "name": "Daya Kampong Baro"
+    },
+    {
+      "code": 1107212017,
+      "name": "Daya Cot"
+    },
+    {
+      "code": 1107212018,
+      "name": "Blang Rikui"
+    },
+    {
+      "code": 1107212019,
+      "name": "Panton Beunot"
+    }
+  ]
+}

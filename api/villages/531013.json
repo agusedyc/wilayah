@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5310132002,
+      "name": "Hilihintir"
+    },
+    {
+      "code": 5310132005,
+      "name": "Bea Kondo"
+    },
+    {
+      "code": 5310132012,
+      "name": "Golo Ropong"
+    },
+    {
+      "code": 5310132013,
+      "name": "Terong"
+    },
+    {
+      "code": 5310132014,
+      "name": "Ceka Luju"
+    },
+    {
+      "code": 5310132015,
+      "name": "Satar Luju"
+    },
+    {
+      "code": 5310132016,
+      "name": "Satar Lenda"
+    },
+    {
+      "code": 5310132017,
+      "name": "Satar Ruwuk"
+    },
+    {
+      "code": 5310132018,
+      "name": "Nuca Molas"
+    },
+    {
+      "code": 5310132019,
+      "name": "Borik"
+    },
+    {
+      "code": 5310132021,
+      "name": "Cambir Leca"
+    },
+    {
+      "code": 5310132022,
+      "name": "Wongka"
+    }
+  ]
+}

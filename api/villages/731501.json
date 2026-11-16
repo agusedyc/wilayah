@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7315011001,
+      "name": "Langnga"
+    },
+    {
+      "code": 7315011002,
+      "name": "Pallameang"
+    },
+    {
+      "code": 7315012003,
+      "name": "Massulowalie"
+    },
+    {
+      "code": 7315012004,
+      "name": "Mattombong"
+    },
+    {
+      "code": 7315012005,
+      "name": "Mattongang Tongang"
+    },
+    {
+      "code": 7315012006,
+      "name": "Patobong"
+    },
+    {
+      "code": 7315012007,
+      "name": "Samaenre"
+    },
+    {
+      "code": 7315012008,
+      "name": "Mattiro Tasi"
+    },
+    {
+      "code": 7315012009,
+      "name": "Siwolong Polong"
+    }
+  ]
+}

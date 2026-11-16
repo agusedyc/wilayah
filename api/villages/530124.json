@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5301242001,
+      "name": "Oeltuah"
+    },
+    {
+      "code": 5301242002,
+      "name": "Baumata"
+    },
+    {
+      "code": 5301242003,
+      "name": "Kuaklalo"
+    },
+    {
+      "code": 5301242004,
+      "name": "Oeletsala"
+    },
+    {
+      "code": 5301242005,
+      "name": "Bokong"
+    },
+    {
+      "code": 5301242006,
+      "name": "Baumata Utara"
+    },
+    {
+      "code": 5301242007,
+      "name": "Baumata Timur"
+    },
+    {
+      "code": 5301242008,
+      "name": "Baumata Barat"
+    }
+  ]
+}

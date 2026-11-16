@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7308241015,
+      "name": "Mampotu"
+    },
+    {
+      "code": 7308242001,
+      "name": "Liliriattang"
+    },
+    {
+      "code": 7308242002,
+      "name": "Mattaropurae"
+    },
+    {
+      "code": 7308242003,
+      "name": "Ulaweng Riaja"
+    },
+    {
+      "code": 7308242004,
+      "name": "Waempubbu"
+    },
+    {
+      "code": 7308242005,
+      "name": "Waemputtange"
+    },
+    {
+      "code": 7308242006,
+      "name": "Amali Riattang"
+    },
+    {
+      "code": 7308242007,
+      "name": "Tassipi"
+    },
+    {
+      "code": 7308242008,
+      "name": "Wellulang"
+    },
+    {
+      "code": 7308242009,
+      "name": "Benteng Tellue"
+    },
+    {
+      "code": 7308242010,
+      "name": "Tacipong"
+    },
+    {
+      "code": 7308242011,
+      "name": "Laponrong"
+    },
+    {
+      "code": 7308242012,
+      "name": "Ajanglaleng"
+    },
+    {
+      "code": 7308242013,
+      "name": "Tocinnong"
+    },
+    {
+      "code": 7308242014,
+      "name": "Bila"
+    }
+  ]
+}

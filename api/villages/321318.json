@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3213182001,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3213182002,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3213182003,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3213182004,
+      "name": "Jati"
+    },
+    {
+      "code": 3213182005,
+      "name": "Simpar"
+    },
+    {
+      "code": 3213182006,
+      "name": "Parigimulya"
+    },
+    {
+      "code": 3213182007,
+      "name": "Sidajaya"
+    },
+    {
+      "code": 3213182008,
+      "name": "Padamulya"
+    },
+    {
+      "code": 3213182009,
+      "name": "Kosambi"
+    },
+    {
+      "code": 3213182010,
+      "name": "Manyingsal"
+    }
+  ]
+}

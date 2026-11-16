@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8106062001,
+      "name": "Manusa"
+    },
+    {
+      "code": 8106062002,
+      "name": "Rambatu"
+    },
+    {
+      "code": 8106062003,
+      "name": "Rumberu"
+    },
+    {
+      "code": 8106062004,
+      "name": "Honitetu"
+    },
+    {
+      "code": 8106062005,
+      "name": "Hukuanakota"
+    }
+  ]
+}

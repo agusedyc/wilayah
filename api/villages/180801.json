@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1808011005,
+      "name": "Blambangan Umpu"
+    },
+    {
+      "code": 1808012006,
+      "name": "Lembasung"
+    },
+    {
+      "code": 1808012009,
+      "name": "Gunung Sangkaran"
+    },
+    {
+      "code": 1808012010,
+      "name": "Tanjung Raja Giham"
+    },
+    {
+      "code": 1808012011,
+      "name": "Segara Mider"
+    },
+    {
+      "code": 1808012012,
+      "name": "Umpu Bhakti"
+    },
+    {
+      "code": 1808012013,
+      "name": "Sangkaran Bhakti"
+    },
+    {
+      "code": 1808012014,
+      "name": "Bumi Baru"
+    },
+    {
+      "code": 1808012015,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1808012016,
+      "name": "Sri Rejeki"
+    },
+    {
+      "code": 1808012017,
+      "name": "Karang Umpu"
+    },
+    {
+      "code": 1808012018,
+      "name": "Umpu Kencana"
+    },
+    {
+      "code": 1808012022,
+      "name": "Tanjung Raja Sakti"
+    }
+  ]
+}

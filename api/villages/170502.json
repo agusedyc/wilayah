@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1705021009,
+      "name": "Lubuk Kebur"
+    },
+    {
+      "code": 1705021010,
+      "name": "Pasar Tais"
+    },
+    {
+      "code": 1705021011,
+      "name": "Lubuk Lintang"
+    },
+    {
+      "code": 1705021012,
+      "name": "Talang Saling"
+    },
+    {
+      "code": 1705021013,
+      "name": "Dusun Baru"
+    },
+    {
+      "code": 1705021014,
+      "name": "Talang Dantuk"
+    },
+    {
+      "code": 1705021024,
+      "name": "Napal"
+    }
+  ]
+}

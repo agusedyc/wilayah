@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8208082001,
+      "name": "Tabona"
+    },
+    {
+      "code": 8208082002,
+      "name": "Kabunu"
+    },
+    {
+      "code": 8208082003,
+      "name": "Peleng"
+    },
+    {
+      "code": 8208082004,
+      "name": "Fayaunana"
+    },
+    {
+      "code": 8208082005,
+      "name": "Habunuha"
+    },
+    {
+      "code": 8208082006,
+      "name": "Kataga"
+    },
+    {
+      "code": 8208082007,
+      "name": "Wolio"
+    }
+  ]
+}

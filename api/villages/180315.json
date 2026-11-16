@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1803152001,
+      "name": "Negeri Ujung Karang"
+    },
+    {
+      "code": 1803152002,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1803152003,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1803152004,
+      "name": "Karang Rejo II"
+    },
+    {
+      "code": 1803152005,
+      "name": "Karang Sakti"
+    },
+    {
+      "code": 1803152006,
+      "name": "Karang Mulyo"
+    },
+    {
+      "code": 1803152007,
+      "name": "Banjar Negeri"
+    },
+    {
+      "code": 1803152008,
+      "name": "Banjar Ratu"
+    },
+    {
+      "code": 1803152009,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1803152010,
+      "name": "Pakuon Agung"
+    },
+    {
+      "code": 1803152011,
+      "name": "Sumber Agung"
+    }
+  ]
+}

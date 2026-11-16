@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1608072002,
+      "name": "Mendayun"
+    },
+    {
+      "code": 1608072003,
+      "name": "Gunung Terang"
+    },
+    {
+      "code": 1608072004,
+      "name": "Karta Mulya"
+    },
+    {
+      "code": 1608072007,
+      "name": "SP. Kerta Mulya"
+    },
+    {
+      "code": 1608072014,
+      "name": "Harjo Mulyo"
+    },
+    {
+      "code": 1608072015,
+      "name": "Jaya Bakti"
+    },
+    {
+      "code": 1608072016,
+      "name": "Rasuan"
+    },
+    {
+      "code": 1608072017,
+      "name": "Mengulak"
+    },
+    {
+      "code": 1608072019,
+      "name": "Jati Sari"
+    },
+    {
+      "code": 1608072021,
+      "name": "Tri Dadi"
+    },
+    {
+      "code": 1608072022,
+      "name": "Agung Jati"
+    },
+    {
+      "code": 1608072023,
+      "name": "Rasuan Darat"
+    },
+    {
+      "code": 1608072024,
+      "name": "Harjo Mulyo Jaya"
+    }
+  ]
+}

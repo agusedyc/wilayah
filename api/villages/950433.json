@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9504332001,
+      "name": "Wama"
+    },
+    {
+      "code": 9504332002,
+      "name": "Wonitu"
+    },
+    {
+      "code": 9504332003,
+      "name": "Kumbur"
+    },
+    {
+      "code": 9504332004,
+      "name": "Kwarini"
+    },
+    {
+      "code": 9504332005,
+      "name": "Weyage"
+    },
+    {
+      "code": 9504332006,
+      "name": "Timer"
+    },
+    {
+      "code": 9504332007,
+      "name": "Gulak"
+    },
+    {
+      "code": 9504332008,
+      "name": "Nowo"
+    },
+    {
+      "code": 9504332009,
+      "name": "Gunalo"
+    },
+    {
+      "code": 9504332010,
+      "name": "Korlo"
+    },
+    {
+      "code": 9504332011,
+      "name": "Towolome"
+    },
+    {
+      "code": 9504332012,
+      "name": "Golena"
+    }
+  ]
+}

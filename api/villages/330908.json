@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3309082001,
+      "name": "Kateguhan"
+    },
+    {
+      "code": 3309082002,
+      "name": "Manjung"
+    },
+    {
+      "code": 3309082003,
+      "name": "Gombang"
+    },
+    {
+      "code": 3309082004,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3309082005,
+      "name": "Tlawong"
+    },
+    {
+      "code": 3309082006,
+      "name": "Jenengan"
+    },
+    {
+      "code": 3309082007,
+      "name": "Cepokosawit"
+    },
+    {
+      "code": 3309082008,
+      "name": "Kemasan"
+    },
+    {
+      "code": 3309082009,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3309082010,
+      "name": "Bendosari"
+    },
+    {
+      "code": 3309082011,
+      "name": "Karangduren"
+    },
+    {
+      "code": 3309082012,
+      "name": "Guwokajen"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3672081001,
+      "name": "Warnasari"
+    },
+    {
+      "code": 3672081002,
+      "name": "Dringo"
+    },
+    {
+      "code": 3672081003,
+      "name": "Lebak Denok"
+    },
+    {
+      "code": 3672081004,
+      "name": "Taman Baru"
+    },
+    {
+      "code": 3672081005,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3672081006,
+      "name": "Samangraya"
+    },
+    {
+      "code": 3672081007,
+      "name": "Citangkil"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7505012003,
+      "name": "Imana"
+    },
+    {
+      "code": 7505012004,
+      "name": "Bintana"
+    },
+    {
+      "code": 7505012005,
+      "name": "Buata"
+    },
+    {
+      "code": 7505012006,
+      "name": "Pinontoyonga"
+    },
+    {
+      "code": 7505012007,
+      "name": "Monggupo"
+    },
+    {
+      "code": 7505012008,
+      "name": "Kotajin"
+    },
+    {
+      "code": 7505012011,
+      "name": "Ilomata"
+    },
+    {
+      "code": 7505012013,
+      "name": "Iloheluma"
+    },
+    {
+      "code": 7505012014,
+      "name": "Wapalo"
+    },
+    {
+      "code": 7505012015,
+      "name": "Posono"
+    },
+    {
+      "code": 7505012016,
+      "name": "Sigaso"
+    },
+    {
+      "code": 7505012017,
+      "name": "Tombulilato"
+    },
+    {
+      "code": 7505012018,
+      "name": "Kotajin Utara"
+    },
+    {
+      "code": 7505012019,
+      "name": "Oluhuta"
+    }
+  ]
+}

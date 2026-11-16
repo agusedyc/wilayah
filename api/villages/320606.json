@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3206062001,
+      "name": "Cisempur"
+    },
+    {
+      "code": 3206062002,
+      "name": "Setiawaras"
+    },
+    {
+      "code": 3206062003,
+      "name": "Eureunpalay"
+    },
+    {
+      "code": 3206062004,
+      "name": "Cibalong"
+    },
+    {
+      "code": 3206062005,
+      "name": "Singajaya"
+    },
+    {
+      "code": 3206062006,
+      "name": "Parung"
+    }
+  ]
+}

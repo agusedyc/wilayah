@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6301052001,
+      "name": "Benua Raya"
+    },
+    {
+      "code": 6301052002,
+      "name": "Bati-Bati"
+    },
+    {
+      "code": 6301052003,
+      "name": "Ujung"
+    },
+    {
+      "code": 6301052004,
+      "name": "Liang Anggang"
+    },
+    {
+      "code": 6301052005,
+      "name": "Bentok Kampung"
+    },
+    {
+      "code": 6301052006,
+      "name": "Bentok Darat"
+    },
+    {
+      "code": 6301052007,
+      "name": "Banyu Irang"
+    },
+    {
+      "code": 6301052008,
+      "name": "Nusa Indah"
+    },
+    {
+      "code": 6301052009,
+      "name": "Pandahan"
+    },
+    {
+      "code": 6301052010,
+      "name": "Padang"
+    },
+    {
+      "code": 6301052011,
+      "name": "Ujung Baru"
+    },
+    {
+      "code": 6301052012,
+      "name": "Sambangan"
+    },
+    {
+      "code": 6301052013,
+      "name": "Kait-kait"
+    },
+    {
+      "code": 6301052014,
+      "name": "Kait-kait Baru"
+    }
+  ]
+}

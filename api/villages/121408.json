@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1214082001,
+      "name": "Amuri"
+    },
+    {
+      "code": 1214082004,
+      "name": "Bawosalo'o Siwalawa"
+    },
+    {
+      "code": 1214082009,
+      "name": "Hilifadolo"
+    },
+    {
+      "code": 1214082014,
+      "name": "Lolofaoso"
+    },
+    {
+      "code": 1214082015,
+      "name": "Lolomoyo"
+    },
+    {
+      "code": 1214082016,
+      "name": "Lolowau"
+    },
+    {
+      "code": 1214082017,
+      "name": "Lolohowa"
+    },
+    {
+      "code": 1214082022,
+      "name": "Sisarahili Ekholo"
+    },
+    {
+      "code": 1214082030,
+      "name": "Tuhegafoa"
+    },
+    {
+      "code": 1214082033,
+      "name": "Botohili"
+    },
+    {
+      "code": 1214082035,
+      "name": "Hilikara"
+    },
+    {
+      "code": 1214082044,
+      "name": "Samiri"
+    },
+    {
+      "code": 1214082047,
+      "name": "Hilimbowo Siwalawa"
+    },
+    {
+      "code": 1214082048,
+      "name": "Nituwu Boho"
+    }
+  ]
+}

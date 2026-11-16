@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3202392001,
+      "name": "Nyalindung"
+    },
+    {
+      "code": 3202392002,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3202392003,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3202392004,
+      "name": "Bojongkalong"
+    },
+    {
+      "code": 3202392005,
+      "name": "Cijangkar"
+    },
+    {
+      "code": 3202392006,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3202392007,
+      "name": "Wangunreja"
+    },
+    {
+      "code": 3202392008,
+      "name": "Cisitu"
+    },
+    {
+      "code": 3202392009,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3202392010,
+      "name": "Kertaangsana"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3215132001,
+      "name": "Dawuan Timur"
+    },
+    {
+      "code": 3215132002,
+      "name": "Kalihurip"
+    },
+    {
+      "code": 3215132003,
+      "name": "Cikampek Kota"
+    },
+    {
+      "code": 3215132004,
+      "name": "Dawuan Tengah"
+    },
+    {
+      "code": 3215132006,
+      "name": "Cikampek Selatan"
+    },
+    {
+      "code": 3215132007,
+      "name": "Cikampek Pusaka"
+    },
+    {
+      "code": 3215132008,
+      "name": "Cikampek Barat"
+    },
+    {
+      "code": 3215132009,
+      "name": "Cikampek Timur"
+    },
+    {
+      "code": 3215132010,
+      "name": "Kamojing"
+    },
+    {
+      "code": 3215132011,
+      "name": "Dawuan Barat"
+    }
+  ]
+}

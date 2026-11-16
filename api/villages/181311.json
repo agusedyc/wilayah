@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1813112001,
+      "name": "Pagar Bukit"
+    },
+    {
+      "code": 1813112002,
+      "name": "Tanjung Kemala"
+    },
+    {
+      "code": 1813112003,
+      "name": "Suka Marga"
+    },
+    {
+      "code": 1813112004,
+      "name": "Kota Jawa"
+    },
+    {
+      "code": 1813112005,
+      "name": "Penyandingan"
+    },
+    {
+      "code": 1813112006,
+      "name": "Bandar Dalam"
+    },
+    {
+      "code": 1813112007,
+      "name": "Way Haru"
+    },
+    {
+      "code": 1813112008,
+      "name": "Pemerihan"
+    },
+    {
+      "code": 1813112009,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1813112010,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 1813112011,
+      "name": "Siring Gading"
+    },
+    {
+      "code": 1813112012,
+      "name": "Way Tias"
+    },
+    {
+      "code": 1813112013,
+      "name": "Tanjung Rejo"
+    },
+    {
+      "code": 1813112014,
+      "name": "Pagar Bukit Induk"
+    }
+  ]
+}

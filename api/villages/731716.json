@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7317161004,
+      "name": "Bosso"
+    },
+    {
+      "code": 7317162001,
+      "name": "Salutubu"
+    },
+    {
+      "code": 7317162002,
+      "name": "Siteba"
+    },
+    {
+      "code": 7317162003,
+      "name": "Bolong"
+    },
+    {
+      "code": 7317162005,
+      "name": "Pongko"
+    },
+    {
+      "code": 7317162006,
+      "name": "Buntu Awo'"
+    },
+    {
+      "code": 7317162007,
+      "name": "Marabuana"
+    },
+    {
+      "code": 7317162008,
+      "name": "Salulino"
+    },
+    {
+      "code": 7317162009,
+      "name": "Sangtandung"
+    },
+    {
+      "code": 7317162010,
+      "name": "Bosso Timur"
+    },
+    {
+      "code": 7317162011,
+      "name": "Limbong"
+    }
+  ]
+}

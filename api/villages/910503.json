@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9105032004,
+      "name": "Korombobi"
+    },
+    {
+      "code": 9105032005,
+      "name": "Dawai"
+    },
+    {
+      "code": 9105032010,
+      "name": "Wabo"
+    },
+    {
+      "code": 9105032014,
+      "name": "Nunsembai"
+    },
+    {
+      "code": 9105032015,
+      "name": "Nunsiari"
+    },
+    {
+      "code": 9105032023,
+      "name": "Woinsupi"
+    },
+    {
+      "code": 9105032024,
+      "name": "Awunawai"
+    },
+    {
+      "code": 9105032025,
+      "name": "Mareruni"
+    },
+    {
+      "code": 9105032031,
+      "name": "Wabompi"
+    },
+    {
+      "code": 9105032036,
+      "name": "Duai"
+    },
+    {
+      "code": 9105032037,
+      "name": "Sere Sere"
+    }
+  ]
+}

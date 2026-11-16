@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1401132001,
+      "name": "Salo"
+    },
+    {
+      "code": 1401132002,
+      "name": "Siabu"
+    },
+    {
+      "code": 1401132003,
+      "name": "Salo Timur"
+    },
+    {
+      "code": 1401132004,
+      "name": "Sipungguk"
+    },
+    {
+      "code": 1401132005,
+      "name": "Ganting Damai"
+    },
+    {
+      "code": 1401132006,
+      "name": "Ganting"
+    }
+  ]
+}

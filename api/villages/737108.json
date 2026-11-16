@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7371081002,
+      "name": "Tabaringan"
+    },
+    {
+      "code": 7371081003,
+      "name": "Patingalloang"
+    },
+    {
+      "code": 7371081004,
+      "name": "Gusung"
+    },
+    {
+      "code": 7371081005,
+      "name": "Cambaya"
+    },
+    {
+      "code": 7371081006,
+      "name": "Ujung Tanah"
+    },
+    {
+      "code": 7371081009,
+      "name": "Totaka"
+    },
+    {
+      "code": 7371081010,
+      "name": "Tamalabba"
+    },
+    {
+      "code": 7371081011,
+      "name": "Camba Berua"
+    },
+    {
+      "code": 7371081012,
+      "name": "Patingalloang Baru"
+    }
+  ]
+}

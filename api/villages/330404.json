@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3304042001,
+      "name": "Kalitengah"
+    },
+    {
+      "code": 3304042002,
+      "name": "Merden"
+    },
+    {
+      "code": 3304042003,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3304042004,
+      "name": "Kaliajir"
+    },
+    {
+      "code": 3304042005,
+      "name": "Petir"
+    },
+    {
+      "code": 3304042006,
+      "name": "Pucungbedug"
+    },
+    {
+      "code": 3304042007,
+      "name": "Parakan"
+    },
+    {
+      "code": 3304042008,
+      "name": "Mertasari"
+    },
+    {
+      "code": 3304042009,
+      "name": "Danaraja"
+    },
+    {
+      "code": 3304042010,
+      "name": "Purwonegoro"
+    },
+    {
+      "code": 3304042011,
+      "name": "Kalipelus"
+    },
+    {
+      "code": 3304042012,
+      "name": "Gumiwang"
+    },
+    {
+      "code": 3304042013,
+      "name": "Kutawuluh"
+    }
+  ]
+}

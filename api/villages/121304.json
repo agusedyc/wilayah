@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1213041009,
+      "name": "Tano Bato"
+    },
+    {
+      "code": 1213042001,
+      "name": "Aek Ngali"
+    },
+    {
+      "code": 1213042002,
+      "name": "Hutarimbaru"
+    },
+    {
+      "code": 1213042003,
+      "name": "Hayuraja"
+    },
+    {
+      "code": 1213042004,
+      "name": "Huta Julu"
+    },
+    {
+      "code": 1213042005,
+      "name": "Kayu Laut"
+    },
+    {
+      "code": 1213042006,
+      "name": "Lumban Dolok"
+    },
+    {
+      "code": 1213042007,
+      "name": "Roburan Dolok"
+    },
+    {
+      "code": 1213042008,
+      "name": "Roburan Lombang"
+    },
+    {
+      "code": 1213042010,
+      "name": "Huta Raja"
+    },
+    {
+      "code": 1213042011,
+      "name": "Pagaran Gala-Gala"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6472071001,
+      "name": "Sungai Kapih"
+    },
+    {
+      "code": 6472071002,
+      "name": "Sambutan"
+    },
+    {
+      "code": 6472071003,
+      "name": "Makroman"
+    },
+    {
+      "code": 6472071004,
+      "name": "Sindang Sari"
+    },
+    {
+      "code": 6472071005,
+      "name": "Pulau Atas"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5315042001,
+      "name": "Golo Ndaring"
+    },
+    {
+      "code": 5315042005,
+      "name": "Golo Kempo"
+    },
+    {
+      "code": 5315042008,
+      "name": "Golo Manting"
+    },
+    {
+      "code": 5315042009,
+      "name": "Matawae"
+    },
+    {
+      "code": 5315042011,
+      "name": "Nampar Macing"
+    },
+    {
+      "code": 5315042014,
+      "name": "Wae Sano"
+    },
+    {
+      "code": 5315042016,
+      "name": "Golo Mbu"
+    },
+    {
+      "code": 5315042017,
+      "name": "Golo Leleng"
+    },
+    {
+      "code": 5315042018,
+      "name": "Sano Nggoang"
+    },
+    {
+      "code": 5315042020,
+      "name": "Wae Lolos"
+    },
+    {
+      "code": 5315042024,
+      "name": "Golo Sengang"
+    },
+    {
+      "code": 5315042025,
+      "name": "Watu Panggal"
+    },
+    {
+      "code": 5315042026,
+      "name": "Golo Kondeng"
+    },
+    {
+      "code": 5315042027,
+      "name": "Poco Golo Kempo"
+    },
+    {
+      "code": 5315042028,
+      "name": "Pulau Nuncung"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3502042001,
+      "name": "Gajah"
+    },
+    {
+      "code": 3502042002,
+      "name": "Wringinanom"
+    },
+    {
+      "code": 3502042003,
+      "name": "Ngadisanan"
+    },
+    {
+      "code": 3502042004,
+      "name": "Maguwan"
+    },
+    {
+      "code": 3502042005,
+      "name": "Nglewan"
+    },
+    {
+      "code": 3502042006,
+      "name": "Bedingin"
+    },
+    {
+      "code": 3502042007,
+      "name": "Bancangan"
+    },
+    {
+      "code": 3502042008,
+      "name": "Campurejo"
+    },
+    {
+      "code": 3502042009,
+      "name": "Campursari"
+    },
+    {
+      "code": 3502042010,
+      "name": "Bulu"
+    },
+    {
+      "code": 3502042011,
+      "name": "Sambit"
+    },
+    {
+      "code": 3502042012,
+      "name": "Besuki"
+    },
+    {
+      "code": 3502042013,
+      "name": "Wilangan"
+    },
+    {
+      "code": 3502042014,
+      "name": "Bangsalan"
+    },
+    {
+      "code": 3502042015,
+      "name": "Kemuning"
+    },
+    {
+      "code": 3502042016,
+      "name": "Jrakah"
+    }
+  ]
+}

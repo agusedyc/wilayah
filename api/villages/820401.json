@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 8204012001,
+      "name": "Rabutdaiyo"
+    },
+    {
+      "code": 8204012002,
+      "name": "Waykion"
+    },
+    {
+      "code": 8204012003,
+      "name": "Gorup"
+    },
+    {
+      "code": 8204012004,
+      "name": "Walo"
+    },
+    {
+      "code": 8204012005,
+      "name": "Dalam"
+    },
+    {
+      "code": 8204012006,
+      "name": "Gitang"
+    },
+    {
+      "code": 8204012007,
+      "name": "Kyowor"
+    },
+    {
+      "code": 8204012008,
+      "name": "Matentengin"
+    },
+    {
+      "code": 8204012009,
+      "name": "Sangapati"
+    },
+    {
+      "code": 8204012010,
+      "name": "Suma"
+    },
+    {
+      "code": 8204012011,
+      "name": "Ploili"
+    },
+    {
+      "code": 8204012012,
+      "name": "Dauri"
+    },
+    {
+      "code": 8204012013,
+      "name": "Gurua"
+    },
+    {
+      "code": 8204012014,
+      "name": "Wailoa"
+    },
+    {
+      "code": 8204012022,
+      "name": "Waigitang"
+    }
+  ]
+}

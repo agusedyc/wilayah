@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1301022001,
+      "name": "Pelangai"
+    },
+    {
+      "code": 1301022002,
+      "name": "Sungai Tunu"
+    },
+    {
+      "code": 1301022003,
+      "name": "Sungai Tunu Utara"
+    },
+    {
+      "code": 1301022004,
+      "name": "Sungai Tunu Barat"
+    },
+    {
+      "code": 1301022005,
+      "name": "Nyiur Melambai Pelangai"
+    },
+    {
+      "code": 1301022006,
+      "name": "Sungai Liku Pelangai"
+    },
+    {
+      "code": 1301022007,
+      "name": "Koto VIII Pelangai"
+    },
+    {
+      "code": 1301022008,
+      "name": "Pelangai Gadang"
+    },
+    {
+      "code": 1301022009,
+      "name": "Pelangai Kaciak"
+    },
+    {
+      "code": 1301022010,
+      "name": "Pasia Pelangai"
+    }
+  ]
+}

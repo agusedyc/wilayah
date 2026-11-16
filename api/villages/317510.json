@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3175101001,
+      "name": "Cipayung"
+    },
+    {
+      "code": 3175101002,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3175101003,
+      "name": "Pondok Ranggon"
+    },
+    {
+      "code": 3175101004,
+      "name": "Munjul"
+    },
+    {
+      "code": 3175101005,
+      "name": "Setu"
+    },
+    {
+      "code": 3175101006,
+      "name": "Bambu Apus"
+    },
+    {
+      "code": 3175101007,
+      "name": "Lubang Buaya"
+    },
+    {
+      "code": 3175101008,
+      "name": "Ceger"
+    }
+  ]
+}

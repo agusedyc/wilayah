@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7401272001,
+      "name": "Tamborasi"
+    },
+    {
+      "code": 7401272002,
+      "name": "Ladahai"
+    },
+    {
+      "code": 7401272003,
+      "name": "Lasiroku"
+    },
+    {
+      "code": 7401272004,
+      "name": "Iwoimendaa"
+    },
+    {
+      "code": 7401272005,
+      "name": "Lambopini"
+    },
+    {
+      "code": 7401272006,
+      "name": "Ulu Kalo"
+    },
+    {
+      "code": 7401272007,
+      "name": "Wonualaku"
+    },
+    {
+      "code": 7401272008,
+      "name": "Lawolia"
+    },
+    {
+      "code": 7401272009,
+      "name": "Watumelewe"
+    },
+    {
+      "code": 7401272010,
+      "name": "Landoula"
+    }
+  ]
+}

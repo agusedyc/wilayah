@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1901052001,
+      "name": "Air Ruai"
+    },
+    {
+      "code": 1901052002,
+      "name": "Air Duren"
+    },
+    {
+      "code": 1901052003,
+      "name": "Penyamun"
+    },
+    {
+      "code": 1901052004,
+      "name": "Sempan"
+    },
+    {
+      "code": 1901052005,
+      "name": "Pemali"
+    },
+    {
+      "code": 1901052006,
+      "name": "Karya Makmur"
+    }
+  ]
+}

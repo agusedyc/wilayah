@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6104022001,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 6104022002,
+      "name": "Randai"
+    },
+    {
+      "code": 6104022003,
+      "name": "Belaban"
+    },
+    {
+      "code": 6104022004,
+      "name": "Runjai Jaya"
+    },
+    {
+      "code": 6104022008,
+      "name": "Karya Baru"
+    },
+    {
+      "code": 6104022020,
+      "name": "Riam Batu Gading"
+    },
+    {
+      "code": 6104022021,
+      "name": "Batu Payung Dua"
+    },
+    {
+      "code": 6104022022,
+      "name": "Bantan Sari"
+    },
+    {
+      "code": 6104022023,
+      "name": "Pelanjau Jaya"
+    },
+    {
+      "code": 6104022024,
+      "name": "Rangkung"
+    }
+  ]
+}

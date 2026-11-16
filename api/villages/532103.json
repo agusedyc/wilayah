@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5321032001,
+      "name": "Halibasar"
+    },
+    {
+      "code": 5321032002,
+      "name": "Weulun"
+    },
+    {
+      "code": 5321032003,
+      "name": "Webriamata"
+    },
+    {
+      "code": 5321032004,
+      "name": "Badarai"
+    },
+    {
+      "code": 5321032005,
+      "name": "Weoe"
+    },
+    {
+      "code": 5321032006,
+      "name": "Lorotolus"
+    },
+    {
+      "code": 5321032007,
+      "name": "Seserai"
+    },
+    {
+      "code": 5321032008,
+      "name": "Alkani"
+    },
+    {
+      "code": 5321032009,
+      "name": "Lamea"
+    },
+    {
+      "code": 5321032010,
+      "name": "Rabasa Biris"
+    },
+    {
+      "code": 5321032011,
+      "name": "Biris"
+    },
+    {
+      "code": 5321032012,
+      "name": "Weseben"
+    }
+  ]
+}

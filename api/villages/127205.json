@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1272051002,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1272051005,
+      "name": "Baringin Pancur Nauli"
+    },
+    {
+      "code": 1272051006,
+      "name": "Pardamean"
+    },
+    {
+      "code": 1272051007,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1272051008,
+      "name": "Parhorasan Nauli"
+    },
+    {
+      "code": 1272051009,
+      "name": "Sukamakmur"
+    },
+    {
+      "code": 1272051010,
+      "name": "Mekar Nauli"
+    }
+  ]
+}

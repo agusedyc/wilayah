@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7308231001,
+      "name": "Bajoe"
+    },
+    {
+      "code": 7308231002,
+      "name": "Cellu"
+    },
+    {
+      "code": 7308231003,
+      "name": "Panyula"
+    },
+    {
+      "code": 7308231004,
+      "name": "Waetuo"
+    },
+    {
+      "code": 7308231005,
+      "name": "Palette"
+    },
+    {
+      "code": 7308231006,
+      "name": "Tipojong"
+    },
+    {
+      "code": 7308231007,
+      "name": "Toro"
+    },
+    {
+      "code": 7308231008,
+      "name": "Lonrae"
+    }
+  ]
+}

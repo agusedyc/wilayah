@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5315122001,
+      "name": "Golo Lewe"
+    },
+    {
+      "code": 5315122002,
+      "name": "Tueng"
+    },
+    {
+      "code": 5315122003,
+      "name": "Sompang Kolang"
+    },
+    {
+      "code": 5315122004,
+      "name": "Wajur"
+    },
+    {
+      "code": 5315122005,
+      "name": "Kolang"
+    },
+    {
+      "code": 5315122006,
+      "name": "Golo Riwu"
+    },
+    {
+      "code": 5315122007,
+      "name": "Compang Kules"
+    },
+    {
+      "code": 5315122008,
+      "name": "Tengku"
+    },
+    {
+      "code": 5315122009,
+      "name": "Golo Wedong"
+    },
+    {
+      "code": 5315122010,
+      "name": "Ranggu"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9115092002,
+      "name": "Somiangga"
+    },
+    {
+      "code": 9115092004,
+      "name": "Toire"
+    },
+    {
+      "code": 9115092005,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 9115092006,
+      "name": "Demisa"
+    },
+    {
+      "code": 9115092008,
+      "name": "Otodemo"
+    },
+    {
+      "code": 9115092011,
+      "name": "Awaso"
+    },
+    {
+      "code": 9115092012,
+      "name": "Firo"
+    }
+  ]
+}

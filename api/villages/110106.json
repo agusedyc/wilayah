@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1101062001,
+      "name": "Dalam"
+    },
+    {
+      "code": 1101062002,
+      "name": "Subarang"
+    },
+    {
+      "code": 1101062003,
+      "name": "Kuta Baru"
+    },
+    {
+      "code": 1101062004,
+      "name": "Gunung Ketek"
+    },
+    {
+      "code": 1101062005,
+      "name": "Ladang Panton Luas"
+    },
+    {
+      "code": 1101062006,
+      "name": "Madat"
+    },
+    {
+      "code": 1101062007,
+      "name": "Alur Seumerah"
+    },
+    {
+      "code": 1101062008,
+      "name": "Tengah"
+    },
+    {
+      "code": 1101062009,
+      "name": "Gunung Cut"
+    },
+    {
+      "code": 1101062010,
+      "name": "Alur Pinang"
+    },
+    {
+      "code": 1101062011,
+      "name": "Kuta Blang"
+    },
+    {
+      "code": 1101062012,
+      "name": "Batee Tunggai"
+    },
+    {
+      "code": 1101062013,
+      "name": "Ujung Tanah"
+    },
+    {
+      "code": 1101062014,
+      "name": "Ujung Kampung"
+    },
+    {
+      "code": 1101062015,
+      "name": "Jilatang"
+    },
+    {
+      "code": 1101062016,
+      "name": "Luar"
+    },
+    {
+      "code": 1101062017,
+      "name": "Lubuk Layu"
+    },
+    {
+      "code": 1101062018,
+      "name": "Suaq Hulu"
+    },
+    {
+      "code": 1101062019,
+      "name": "Tampang"
+    },
+    {
+      "code": 1101062020,
+      "name": "Payonan Gadang"
+    },
+    {
+      "code": 1101062021,
+      "name": "Gadang"
+    },
+    {
+      "code": 1101062022,
+      "name": "Baru"
+    },
+    {
+      "code": 1101062023,
+      "name": "Ladang Kasik Putih"
+    },
+    {
+      "code": 1101062024,
+      "name": "Air Sialang Hilir."
+    },
+    {
+      "code": 1101062025,
+      "name": "Air Sialang Hulu"
+    },
+    {
+      "code": 1101062026,
+      "name": "Air Sialang Tengah"
+    },
+    {
+      "code": 1101062027,
+      "name": "Balai"
+    },
+    {
+      "code": 1101062028,
+      "name": "Arafah"
+    }
+  ]
+}

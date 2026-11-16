@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9503402001,
+      "name": "Bomela"
+    },
+    {
+      "code": 9503402002,
+      "name": "Yalmabi"
+    },
+    {
+      "code": 9503402003,
+      "name": "Kitikni"
+    },
+    {
+      "code": 9503402004,
+      "name": "Sombat"
+    },
+    {
+      "code": 9503402005,
+      "name": "Kubialat"
+    },
+    {
+      "code": 9503402006,
+      "name": "Palamdua"
+    }
+  ]
+}

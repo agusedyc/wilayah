@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3202282001,
+      "name": "Cicantayan"
+    },
+    {
+      "code": 3202282002,
+      "name": "Lembursawah"
+    },
+    {
+      "code": 3202282003,
+      "name": "Cijalingan"
+    },
+    {
+      "code": 3202282004,
+      "name": "Cisande"
+    },
+    {
+      "code": 3202282005,
+      "name": "Cimahi"
+    },
+    {
+      "code": 3202282006,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3202282007,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 3202282008,
+      "name": "Cimanggis"
+    }
+  ]
+}

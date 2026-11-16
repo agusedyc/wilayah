@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3514032001,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3514032002,
+      "name": "Janjangwulung"
+    },
+    {
+      "code": 3514032003,
+      "name": "Palangsari"
+    },
+    {
+      "code": 3514032004,
+      "name": "Puspo"
+    },
+    {
+      "code": 3514032005,
+      "name": "Jimbaran"
+    },
+    {
+      "code": 3514032006,
+      "name": "Pusungmalang"
+    },
+    {
+      "code": 3514032007,
+      "name": "Keduwung"
+    }
+  ]
+}

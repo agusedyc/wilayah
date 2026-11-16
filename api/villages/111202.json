@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1112022001,
+      "name": "Adan"
+    },
+    {
+      "code": 1112022002,
+      "name": "Pante Geulumpang"
+    },
+    {
+      "code": 1112022003,
+      "name": "Mesjid"
+    },
+    {
+      "code": 1112022004,
+      "name": "Gunong Cut"
+    },
+    {
+      "code": 1112022005,
+      "name": "Padang Kawa"
+    },
+    {
+      "code": 1112022006,
+      "name": "Blang Padang"
+    },
+    {
+      "code": 1112022007,
+      "name": "Padang Bak Jeumpa"
+    },
+    {
+      "code": 1112022008,
+      "name": "Suak Labu"
+    },
+    {
+      "code": 1112022014,
+      "name": "Bineh Krueng"
+    },
+    {
+      "code": 1112022015,
+      "name": "Drien Kipah"
+    },
+    {
+      "code": 1112022016,
+      "name": "Drien Jalo"
+    },
+    {
+      "code": 1112022017,
+      "name": "Padang Bak Jok"
+    },
+    {
+      "code": 1112022018,
+      "name": "Suak Nibong"
+    },
+    {
+      "code": 1112022019,
+      "name": "Kuta Bak Drien"
+    },
+    {
+      "code": 1112022020,
+      "name": "Ie Lhob"
+    }
+  ]
+}

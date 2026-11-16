@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6201011011,
+      "name": "Candi"
+    },
+    {
+      "code": 6201011012,
+      "name": "Kumai Hulu"
+    },
+    {
+      "code": 6201011013,
+      "name": "Kumai Hilir"
+    },
+    {
+      "code": 6201012001,
+      "name": "Sungai Cabang"
+    },
+    {
+      "code": 6201012002,
+      "name": "Teluk Pulai"
+    },
+    {
+      "code": 6201012003,
+      "name": "Sabuai"
+    },
+    {
+      "code": 6201012004,
+      "name": "Keraya"
+    },
+    {
+      "code": 6201012005,
+      "name": "Teluk Bogam"
+    },
+    {
+      "code": 6201012006,
+      "name": "Sungai Bakau"
+    },
+    {
+      "code": 6201012007,
+      "name": "Kubu"
+    },
+    {
+      "code": 6201012008,
+      "name": "Sungai Kapitan"
+    },
+    {
+      "code": 6201012009,
+      "name": "Batu Belaman"
+    },
+    {
+      "code": 6201012010,
+      "name": "Sungai Tendang"
+    },
+    {
+      "code": 6201012014,
+      "name": "Sungai Sekonyer"
+    },
+    {
+      "code": 6201012015,
+      "name": "Sungai Bedaun"
+    },
+    {
+      "code": 6201012017,
+      "name": "Bumi Harjo"
+    },
+    {
+      "code": 6201012032,
+      "name": "Pangkalan Satu"
+    },
+    {
+      "code": 6201012034,
+      "name": "Sabuai Timur"
+    }
+  ]
+}

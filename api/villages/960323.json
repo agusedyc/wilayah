@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603232001,
+      "name": "Abidon"
+    },
+    {
+      "code": 9603232002,
+      "name": "Rutum"
+    },
+    {
+      "code": 9603232003,
+      "name": "Reni"
+    },
+    {
+      "code": 9603232004,
+      "name": "Meosbekwan"
+    }
+  ]
+}

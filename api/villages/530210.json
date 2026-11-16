@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5302102001,
+      "name": "Pilli"
+    },
+    {
+      "code": 5302102002,
+      "name": "Falas"
+    },
+    {
+      "code": 5302102003,
+      "name": "Oenai"
+    },
+    {
+      "code": 5302102004,
+      "name": "Belle"
+    },
+    {
+      "code": 5302102005,
+      "name": "Napi"
+    },
+    {
+      "code": 5302102006,
+      "name": "Boti"
+    },
+    {
+      "code": 5302102007,
+      "name": "Fatuulan"
+    },
+    {
+      "code": 5302102008,
+      "name": "Tesiayofanu"
+    },
+    {
+      "code": 5302102009,
+      "name": "Oinlasi"
+    },
+    {
+      "code": 5302102010,
+      "name": "Nekmese"
+    },
+    {
+      "code": 5302102011,
+      "name": "Eno Napi"
+    },
+    {
+      "code": 5302102012,
+      "name": "Fatukusi"
+    },
+    {
+      "code": 5302102013,
+      "name": "Naile'u"
+    }
+  ]
+}

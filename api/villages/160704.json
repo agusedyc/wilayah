@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1607042002,
+      "name": "Teluk Betung"
+    },
+    {
+      "code": 1607042004,
+      "name": "Mukut"
+    },
+    {
+      "code": 1607042006,
+      "name": "Sumber Rejeki"
+    },
+    {
+      "code": 1607042007,
+      "name": "Dana Mulya"
+    },
+    {
+      "code": 1607042008,
+      "name": "Wana Mukti"
+    },
+    {
+      "code": 1607042009,
+      "name": "Budi Asih"
+    },
+    {
+      "code": 1607042013,
+      "name": "Rukun Makmur"
+    },
+    {
+      "code": 1607042014,
+      "name": "Nunggal Sari"
+    },
+    {
+      "code": 1607042017,
+      "name": "Majatra"
+    },
+    {
+      "code": 1607042018,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1607042031,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 1607042032,
+      "name": "Rawa Banda"
+    },
+    {
+      "code": 1607042037,
+      "name": "Senda Mukti"
+    },
+    {
+      "code": 1607042038,
+      "name": "Tirta Mulya"
+    },
+    {
+      "code": 1607042039,
+      "name": "Banjar Sari"
+    },
+    {
+      "code": 1607042040,
+      "name": "Buana Murti"
+    },
+    {
+      "code": 1607042041,
+      "name": "Tabuan Asri"
+    }
+  ]
+}

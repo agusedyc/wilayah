@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3317132001,
+      "name": "Sanetan"
+    },
+    {
+      "code": 3317132002,
+      "name": "Rakitan"
+    },
+    {
+      "code": 3317132003,
+      "name": "Bendo"
+    },
+    {
+      "code": 3317132004,
+      "name": "Labuhan Kidul"
+    },
+    {
+      "code": 3317132005,
+      "name": "Sendangmulyo"
+    },
+    {
+      "code": 3317132006,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3317132007,
+      "name": "Manggar"
+    },
+    {
+      "code": 3317132008,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3317132009,
+      "name": "Langgar"
+    },
+    {
+      "code": 3317132010,
+      "name": "Sluke"
+    },
+    {
+      "code": 3317132011,
+      "name": "Jurangjero"
+    },
+    {
+      "code": 3317132012,
+      "name": "Leran"
+    },
+    {
+      "code": 3317132013,
+      "name": "Trahan"
+    },
+    {
+      "code": 3317132014,
+      "name": "Pangkalan"
+    }
+  ]
+}

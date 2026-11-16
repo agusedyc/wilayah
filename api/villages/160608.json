@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1606081015,
+      "name": "Keluang"
+    },
+    {
+      "code": 1606082001,
+      "name": "Tenggaro"
+    },
+    {
+      "code": 1606082003,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1606082004,
+      "name": "Dawas"
+    },
+    {
+      "code": 1606082005,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1606082006,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1606082007,
+      "name": "Karya Maju"
+    },
+    {
+      "code": 1606082008,
+      "name": "Tegal Mulyo"
+    },
+    {
+      "code": 1606082009,
+      "name": "Cipta Praja"
+    },
+    {
+      "code": 1606082010,
+      "name": "Loka Jaya"
+    },
+    {
+      "code": 1606082011,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1606082012,
+      "name": "Sido Rejo"
+    },
+    {
+      "code": 1606082013,
+      "name": "Mulyo Asih"
+    },
+    {
+      "code": 1606082014,
+      "name": "Sridamai"
+    }
+  ]
+}

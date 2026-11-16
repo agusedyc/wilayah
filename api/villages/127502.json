@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1275021001,
+      "name": "Berngam"
+    },
+    {
+      "code": 1275021002,
+      "name": "Satria"
+    },
+    {
+      "code": 1275021003,
+      "name": "Setia"
+    },
+    {
+      "code": 1275021004,
+      "name": "Kartini"
+    },
+    {
+      "code": 1275021005,
+      "name": "Tangsi"
+    },
+    {
+      "code": 1275021006,
+      "name": "Binjai"
+    },
+    {
+      "code": 1275021007,
+      "name": "Pekan Binjai"
+    }
+  ]
+}

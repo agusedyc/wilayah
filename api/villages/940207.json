@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9402072001,
+      "name": "Gubugani"
+    },
+    {
+      "code": 9402072002,
+      "name": "Ambok"
+    },
+    {
+      "code": 9402072003,
+      "name": "Awiyam"
+    },
+    {
+      "code": 9402072004,
+      "name": "Tubugime"
+    },
+    {
+      "code": 9402072005,
+      "name": "Wariru"
+    },
+    {
+      "code": 9402072006,
+      "name": "Digi"
+    },
+    {
+      "code": 9402072007,
+      "name": "Kikup"
+    },
+    {
+      "code": 9402072008,
+      "name": "Gunung Tayok"
+    },
+    {
+      "code": 9402072009,
+      "name": "Nambu"
+    },
+    {
+      "code": 9402072010,
+      "name": "Asua"
+    },
+    {
+      "code": 9402072011,
+      "name": "Degei"
+    },
+    {
+      "code": 9402072012,
+      "name": "Sigou"
+    },
+    {
+      "code": 9402072013,
+      "name": "Nalu"
+    }
+  ]
+}

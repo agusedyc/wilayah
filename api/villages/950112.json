@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9501122001,
+      "name": "Trikora"
+    },
+    {
+      "code": 9501122002,
+      "name": "Nanggo"
+    },
+    {
+      "code": 9501122003,
+      "name": "Dinggilmo"
+    },
+    {
+      "code": 9501122004,
+      "name": "Kora Jaya"
+    },
+    {
+      "code": 9501122005,
+      "name": "Korambirik"
+    },
+    {
+      "code": 9501122006,
+      "name": "Anggulpa"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7322111005,
+      "name": "Salassa"
+    },
+    {
+      "code": 7322112002,
+      "name": "Salulemo"
+    },
+    {
+      "code": 7322112003,
+      "name": "Radda"
+    },
+    {
+      "code": 7322112004,
+      "name": "Baebunta"
+    },
+    {
+      "code": 7322112007,
+      "name": "Tarobok"
+    },
+    {
+      "code": 7322112008,
+      "name": "Mario"
+    },
+    {
+      "code": 7322112009,
+      "name": "Sassa"
+    },
+    {
+      "code": 7322112010,
+      "name": "Kariango"
+    },
+    {
+      "code": 7322112011,
+      "name": "Meli"
+    },
+    {
+      "code": 7322112013,
+      "name": "Palandan"
+    },
+    {
+      "code": 7322112015,
+      "name": "Bumi Harapan"
+    }
+  ]
+}

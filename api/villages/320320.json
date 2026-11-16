@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3203202001,
+      "name": "Pananggapan"
+    },
+    {
+      "code": 3203202002,
+      "name": "Cikangkareng"
+    },
+    {
+      "code": 3203202003,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3203202004,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3203202005,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3203202006,
+      "name": "Cimaskara"
+    },
+    {
+      "code": 3203202007,
+      "name": "Pamoyanan"
+    },
+    {
+      "code": 3203202008,
+      "name": "Batulawang"
+    },
+    {
+      "code": 3203202009,
+      "name": "Sukamekar"
+    },
+    {
+      "code": 3203202010,
+      "name": "Hamerang"
+    },
+    {
+      "code": 3203202011,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3203202012,
+      "name": "Wargaluyu"
+    },
+    {
+      "code": 3203202013,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3203202014,
+      "name": "Ciburial"
+    }
+  ]
+}

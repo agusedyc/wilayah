@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 districts",
+  "data": [
+    {
+      "code": 731101,
+      "name": "Tanete Riaja"
+    },
+    {
+      "code": 731102,
+      "name": "Tanete Rilau"
+    },
+    {
+      "code": 731103,
+      "name": "Barru"
+    },
+    {
+      "code": 731104,
+      "name": "Soppeng Riaja"
+    },
+    {
+      "code": 731105,
+      "name": "Mallusetasi"
+    },
+    {
+      "code": 731106,
+      "name": "Pujananting"
+    },
+    {
+      "code": 731107,
+      "name": "Balusu"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6213092001,
+      "name": "Tampa"
+    },
+    {
+      "code": 6213092002,
+      "name": "Kalamus"
+    },
+    {
+      "code": 6213092003,
+      "name": "Simpang Bingkuang"
+    },
+    {
+      "code": 6213092004,
+      "name": "Patung"
+    },
+    {
+      "code": 6213092005,
+      "name": "Runggu Raya"
+    },
+    {
+      "code": 6213092006,
+      "name": "Bantai Napu"
+    },
+    {
+      "code": 6213092007,
+      "name": "Tarinsing"
+    },
+    {
+      "code": 6213092008,
+      "name": "Paku Beto"
+    },
+    {
+      "code": 6213092009,
+      "name": "Gandrung"
+    },
+    {
+      "code": 6213092010,
+      "name": "Pangkan"
+    },
+    {
+      "code": 6213092011,
+      "name": "Kupang Baru"
+    },
+    {
+      "code": 6213092012,
+      "name": "Luau Jawuk"
+    }
+  ]
+}

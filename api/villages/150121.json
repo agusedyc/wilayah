@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1501212001,
+      "name": "Koto Mebai"
+    },
+    {
+      "code": 1501212002,
+      "name": "Baru"
+    },
+    {
+      "code": 1501212003,
+      "name": "Air Panas"
+    },
+    {
+      "code": 1501212004,
+      "name": "Hamparan Pugu"
+    },
+    {
+      "code": 1501212005,
+      "name": "Pugu"
+    },
+    {
+      "code": 1501212006,
+      "name": "Koto Mudik"
+    },
+    {
+      "code": 1501212007,
+      "name": "Koto Tengah"
+    },
+    {
+      "code": 1501212008,
+      "name": "Koto Datuk"
+    },
+    {
+      "code": 1501212009,
+      "name": "Koto Dua Baru"
+    },
+    {
+      "code": 1501212010,
+      "name": "Koto Cayo"
+    },
+    {
+      "code": 1501212011,
+      "name": "Kecil"
+    },
+    {
+      "code": 1501212012,
+      "name": "Air Bersih"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7412051005,
+      "name": "Polara"
+    },
+    {
+      "code": 7412052001,
+      "name": "Nambo Jaya"
+    },
+    {
+      "code": 7412052002,
+      "name": "Masolo"
+    },
+    {
+      "code": 7412052003,
+      "name": "Sinaulu Jaya"
+    },
+    {
+      "code": 7412052004,
+      "name": "Tondonggito"
+    },
+    {
+      "code": 7412052006,
+      "name": "Roko Roko"
+    },
+    {
+      "code": 7412052007,
+      "name": "Dompo-dompo Jaya"
+    },
+    {
+      "code": 7412052008,
+      "name": "Teparoko"
+    },
+    {
+      "code": 7412052009,
+      "name": "Sukarela Jaya"
+    },
+    {
+      "code": 7412052011,
+      "name": "Sainoa Indah"
+    },
+    {
+      "code": 7412052012,
+      "name": "Wunse Jaya"
+    },
+    {
+      "code": 7412052013,
+      "name": "Sinar Masolo"
+    },
+    {
+      "code": 7412052014,
+      "name": "Waturai"
+    },
+    {
+      "code": 7412052015,
+      "name": "Bahaba"
+    },
+    {
+      "code": 7412052016,
+      "name": "Kekea"
+    }
+  ]
+}

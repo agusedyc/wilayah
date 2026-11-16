@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1809042001,
+      "name": "Padang Manis"
+    },
+    {
+      "code": 1809042002,
+      "name": "Banjar Negeri"
+    },
+    {
+      "code": 1809042003,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1809042004,
+      "name": "Pekondoh Gedung"
+    },
+    {
+      "code": 1809042005,
+      "name": "Pekondoh"
+    },
+    {
+      "code": 1809042006,
+      "name": "Kota Dalam"
+    },
+    {
+      "code": 1809042007,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1809042008,
+      "name": "Gedong Dalam"
+    },
+    {
+      "code": 1809042009,
+      "name": "Sindang Garut"
+    },
+    {
+      "code": 1809042010,
+      "name": "Baturaja"
+    },
+    {
+      "code": 1809042011,
+      "name": "Way Harong"
+    },
+    {
+      "code": 1809042012,
+      "name": "Gunung Rejo"
+    },
+    {
+      "code": 1809042013,
+      "name": "Margodadi"
+    },
+    {
+      "code": 1809042014,
+      "name": "Cimanuk"
+    },
+    {
+      "code": 1809042015,
+      "name": "Sukamandi"
+    },
+    {
+      "code": 1809042016,
+      "name": "Paguyuban"
+    }
+  ]
+}

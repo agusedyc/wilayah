@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7413031007,
+      "name": "Wamelai"
+    },
+    {
+      "code": 7413031008,
+      "name": "Lapadaku"
+    },
+    {
+      "code": 7413032001,
+      "name": "Lagadi"
+    },
+    {
+      "code": 7413032002,
+      "name": "Latugho"
+    },
+    {
+      "code": 7413032003,
+      "name": "Latompe"
+    },
+    {
+      "code": 7413032004,
+      "name": "Lalemba"
+    },
+    {
+      "code": 7413032005,
+      "name": "Madampi"
+    },
+    {
+      "code": 7413032006,
+      "name": "Watumela"
+    }
+  ]
+}

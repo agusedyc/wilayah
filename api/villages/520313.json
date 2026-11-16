@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5203132001,
+      "name": "Anjani"
+    },
+    {
+      "code": 5203132002,
+      "name": "Tebaban"
+    },
+    {
+      "code": 5203132003,
+      "name": "Kerongkong"
+    },
+    {
+      "code": 5203132004,
+      "name": "Bagik Payung"
+    },
+    {
+      "code": 5203132005,
+      "name": "Suralaga"
+    },
+    {
+      "code": 5203132006,
+      "name": "Bagik Payung Selatan"
+    },
+    {
+      "code": 5203132007,
+      "name": "Tumbuh Mulia"
+    },
+    {
+      "code": 5203132008,
+      "name": "Dasan Borok"
+    },
+    {
+      "code": 5203132009,
+      "name": "Gerung Permai"
+    },
+    {
+      "code": 5203132010,
+      "name": "Dames Damai"
+    },
+    {
+      "code": 5203132011,
+      "name": "Bagik Payung Timur"
+    },
+    {
+      "code": 5203132012,
+      "name": "Waringin"
+    },
+    {
+      "code": 5203132013,
+      "name": "Gapuk"
+    },
+    {
+      "code": 5203132014,
+      "name": "Bintang Rinjani"
+    },
+    {
+      "code": 5203132015,
+      "name": "Paok Lombok"
+    }
+  ]
+}

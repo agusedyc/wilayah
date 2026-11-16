@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7322082001,
+      "name": "Cenning"
+    },
+    {
+      "code": 7322082002,
+      "name": "Pengkajoang"
+    },
+    {
+      "code": 7322082003,
+      "name": "Pao"
+    },
+    {
+      "code": 7322082004,
+      "name": "Arusu"
+    },
+    {
+      "code": 7322082005,
+      "name": "Baku Baku"
+    },
+    {
+      "code": 7322082006,
+      "name": "Wara"
+    },
+    {
+      "code": 7322082007,
+      "name": "Waelawi"
+    },
+    {
+      "code": 7322082008,
+      "name": "Pembuniang"
+    },
+    {
+      "code": 7322082009,
+      "name": "Limbong Wara"
+    },
+    {
+      "code": 7322082010,
+      "name": "Kalitata"
+    },
+    {
+      "code": 7322082011,
+      "name": "Pombakka"
+    },
+    {
+      "code": 7322082012,
+      "name": "Polejiwa"
+    },
+    {
+      "code": 7322082013,
+      "name": "Waetuo"
+    }
+  ]
+}

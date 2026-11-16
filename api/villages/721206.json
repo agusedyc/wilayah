@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7212062001,
+      "name": "Era"
+    },
+    {
+      "code": 7212062002,
+      "name": "Peleru"
+    },
+    {
+      "code": 7212062003,
+      "name": "Tamonjengi"
+    },
+    {
+      "code": 7212062004,
+      "name": "Mayumba"
+    },
+    {
+      "code": 7212062005,
+      "name": "Tiwa'a"
+    },
+    {
+      "code": 7212062006,
+      "name": "Lembontonara"
+    },
+    {
+      "code": 7212062007,
+      "name": "Tabarano"
+    },
+    {
+      "code": 7212062008,
+      "name": "Wawondula"
+    }
+  ]
+}

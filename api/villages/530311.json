@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5303112001,
+      "name": "Tuabatan"
+    },
+    {
+      "code": 5303112002,
+      "name": "Akomi"
+    },
+    {
+      "code": 5303112003,
+      "name": "Bijaepasu"
+    },
+    {
+      "code": 5303112004,
+      "name": "Neonasi"
+    },
+    {
+      "code": 5303112005,
+      "name": "Nian"
+    },
+    {
+      "code": 5303112006,
+      "name": "Tuabatan Barat"
+    }
+  ]
+}

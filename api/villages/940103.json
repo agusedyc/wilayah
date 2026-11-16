@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9401032001,
+      "name": "Yaur"
+    },
+    {
+      "code": 9401032002,
+      "name": "Akudiomi"
+    },
+    {
+      "code": 9401032003,
+      "name": "Sima"
+    },
+    {
+      "code": 9401032004,
+      "name": "Wami"
+    }
+  ]
+}

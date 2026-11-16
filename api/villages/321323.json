@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3213232001,
+      "name": "Cijengkol"
+    },
+    {
+      "code": 3213232002,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3213232003,
+      "name": "Cintamekar"
+    },
+    {
+      "code": 3213232004,
+      "name": "Ponggang"
+    },
+    {
+      "code": 3213232005,
+      "name": "Cikujang"
+    },
+    {
+      "code": 3213232006,
+      "name": "Cipancar"
+    }
+  ]
+}

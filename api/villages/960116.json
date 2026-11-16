@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9601162001,
+      "name": "Siwis"
+    },
+    {
+      "code": 9601162002,
+      "name": "Miskum"
+    },
+    {
+      "code": 9601162003,
+      "name": "Klamugun"
+    },
+    {
+      "code": 9601162004,
+      "name": "Sbaga"
+    },
+    {
+      "code": 9601162005,
+      "name": "Klalik"
+    },
+    {
+      "code": 9601162006,
+      "name": "Malawhili"
+    },
+    {
+      "code": 9601162007,
+      "name": "Klasou"
+    }
+  ]
+}

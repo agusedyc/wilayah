@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7209082001,
+      "name": "Lemoro"
+    },
+    {
+      "code": 7209082002,
+      "name": "Korondoda"
+    },
+    {
+      "code": 7209082003,
+      "name": "Tayawa"
+    },
+    {
+      "code": 7209082004,
+      "name": "Uekuli"
+    },
+    {
+      "code": 7209082005,
+      "name": "Betaua"
+    },
+    {
+      "code": 7209082006,
+      "name": "Uedele"
+    },
+    {
+      "code": 7209082007,
+      "name": "Sandada"
+    },
+    {
+      "code": 7209082008,
+      "name": "Tojo"
+    },
+    {
+      "code": 7209082009,
+      "name": "Pancuma"
+    },
+    {
+      "code": 7209082010,
+      "name": "Tongku"
+    },
+    {
+      "code": 7209082011,
+      "name": "Podi"
+    },
+    {
+      "code": 7209082012,
+      "name": "Dataran Bugi"
+    },
+    {
+      "code": 7209082015,
+      "name": "Banano"
+    },
+    {
+      "code": 7209082016,
+      "name": "Bahari"
+    },
+    {
+      "code": 7209082017,
+      "name": "Buyuntaripa"
+    },
+    {
+      "code": 7209082018,
+      "name": "Kalemba"
+    }
+  ]
+}

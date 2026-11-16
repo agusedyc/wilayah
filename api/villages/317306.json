@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3173061001,
+      "name": "Kalideres"
+    },
+    {
+      "code": 3173061002,
+      "name": "Semanan"
+    },
+    {
+      "code": 3173061003,
+      "name": "Tegal Alur"
+    },
+    {
+      "code": 3173061004,
+      "name": "Kamal"
+    },
+    {
+      "code": 3173061005,
+      "name": "Pegadungan"
+    }
+  ]
+}

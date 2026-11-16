@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3513162001,
+      "name": "Selogudig Kulon"
+    },
+    {
+      "code": 3513162002,
+      "name": "Selogudig Wetan"
+    },
+    {
+      "code": 3513162003,
+      "name": "Ketompen"
+    },
+    {
+      "code": 3513162004,
+      "name": "Karangbong"
+    },
+    {
+      "code": 3513162005,
+      "name": "Karangpranti"
+    },
+    {
+      "code": 3513162006,
+      "name": "Gejugan"
+    },
+    {
+      "code": 3513162007,
+      "name": "Karanggeger"
+    },
+    {
+      "code": 3513162008,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3513162009,
+      "name": "Pejarakan Kulon"
+    },
+    {
+      "code": 3513162010,
+      "name": "Sukokerto"
+    },
+    {
+      "code": 3513162011,
+      "name": "Sukomulyo"
+    },
+    {
+      "code": 3513162012,
+      "name": "Penambangan"
+    }
+  ]
+}

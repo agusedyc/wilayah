@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3528122001,
+      "name": "Pamaroh"
+    },
+    {
+      "code": 3528122002,
+      "name": "Pamoroh"
+    },
+    {
+      "code": 3528122003,
+      "name": "Sokolelah"
+    },
+    {
+      "code": 3528122004,
+      "name": "Gagah"
+    },
+    {
+      "code": 3528122005,
+      "name": "Kertagena Laok"
+    },
+    {
+      "code": 3528122006,
+      "name": "Kertagena Tengah"
+    },
+    {
+      "code": 3528122007,
+      "name": "Bungbaruh"
+    },
+    {
+      "code": 3528122008,
+      "name": "Kadur"
+    },
+    {
+      "code": 3528122009,
+      "name": "Bangkes"
+    },
+    {
+      "code": 3528122010,
+      "name": "Kertagena Dajah"
+    }
+  ]
+}

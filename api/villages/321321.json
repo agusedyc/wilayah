@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213212001,
+      "name": "Tegalurung"
+    },
+    {
+      "code": 3213212002,
+      "name": "Bobos"
+    },
+    {
+      "code": 3213212003,
+      "name": "Legonkulon"
+    },
+    {
+      "code": 3213212004,
+      "name": "Mayangan"
+    },
+    {
+      "code": 3213212005,
+      "name": "Legonwetan"
+    },
+    {
+      "code": 3213212006,
+      "name": "Pangarengan"
+    },
+    {
+      "code": 3213212007,
+      "name": "Karangmulya"
+    }
+  ]
+}

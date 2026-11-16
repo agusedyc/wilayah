@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1113062001,
+      "name": "Gantung Geluni"
+    },
+    {
+      "code": 1113062002,
+      "name": "Kutabukit"
+    },
+    {
+      "code": 1113062003,
+      "name": "Bener Baru"
+    },
+    {
+      "code": 1113062004,
+      "name": "Blangbengkik"
+    },
+    {
+      "code": 1113062005,
+      "name": "Kong"
+    },
+    {
+      "code": 1113062006,
+      "name": "Ume Lah"
+    },
+    {
+      "code": 1113062007,
+      "name": "Cinta Maju"
+    },
+    {
+      "code": 1113062008,
+      "name": "Porang Ayu"
+    },
+    {
+      "code": 1113062009,
+      "name": "Tetingi"
+    },
+    {
+      "code": 1113062010,
+      "name": "Anak Reje"
+    },
+    {
+      "code": 1113062011,
+      "name": "Bemem Buntul Pegayon"
+    },
+    {
+      "code": 1113062012,
+      "name": "Akang Siwah"
+    }
+  ]
+}

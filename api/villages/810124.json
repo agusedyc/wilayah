@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 8101242001,
+      "name": "Seti"
+    },
+    {
+      "code": 8101242002,
+      "name": "Kobisonta"
+    },
+    {
+      "code": 8101242003,
+      "name": "Wailoping"
+    },
+    {
+      "code": 8101242004,
+      "name": "Tihuana"
+    },
+    {
+      "code": 8101242005,
+      "name": "Waitila"
+    },
+    {
+      "code": 8101242006,
+      "name": "Waiputih"
+    },
+    {
+      "code": 8101242007,
+      "name": "Waimusal"
+    },
+    {
+      "code": 8101242008,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 8101242009,
+      "name": "Aketernate"
+    },
+    {
+      "code": 8101242010,
+      "name": "Namto"
+    },
+    {
+      "code": 8101242011,
+      "name": "Loping Mulyo"
+    },
+    {
+      "code": 8101242012,
+      "name": "Wonosari"
+    }
+  ]
+}

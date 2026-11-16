@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1401202001,
+      "name": "Kebun Durian"
+    },
+    {
+      "code": 1401202002,
+      "name": "Gunung Sahilan"
+    },
+    {
+      "code": 1401202003,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1401202004,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1401202005,
+      "name": "Subarak"
+    },
+    {
+      "code": 1401202006,
+      "name": "Sungai Lipai"
+    },
+    {
+      "code": 1401202007,
+      "name": "Sahilan Darussalam"
+    },
+    {
+      "code": 1401202008,
+      "name": "Gunung Mulya"
+    },
+    {
+      "code": 1401202009,
+      "name": "Makmur Sejahtera"
+    }
+  ]
+}

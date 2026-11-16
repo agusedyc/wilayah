@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9508212001,
+      "name": "Iniye"
+    },
+    {
+      "code": 9508212002,
+      "name": "Baklema"
+    },
+    {
+      "code": 9508212003,
+      "name": "Kibendumu"
+    },
+    {
+      "code": 9508212004,
+      "name": "Simiye"
+    },
+    {
+      "code": 9508212005,
+      "name": "Embuklem"
+    },
+    {
+      "code": 9508212006,
+      "name": "Kosobak"
+    }
+  ]
+}

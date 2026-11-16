@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7104011005,
+      "name": "Lirung"
+    },
+    {
+      "code": 7104011011,
+      "name": "Lirung Satu"
+    },
+    {
+      "code": 7104011024,
+      "name": "Lirung Matane"
+    },
+    {
+      "code": 7104012006,
+      "name": "Sereh"
+    },
+    {
+      "code": 7104012007,
+      "name": "Musi"
+    },
+    {
+      "code": 7104012015,
+      "name": "Talolang"
+    },
+    {
+      "code": 7104012017,
+      "name": "Sereh I"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9502112001,
+      "name": "Eraduman"
+    },
+    {
+      "code": 9502112002,
+      "name": "Alemsom"
+    },
+    {
+      "code": 9502112003,
+      "name": "Tapasik"
+    },
+    {
+      "code": 9502112004,
+      "name": "Payol Masumkon"
+    },
+    {
+      "code": 9502112005,
+      "name": "Tapob"
+    },
+    {
+      "code": 9502112006,
+      "name": "Bakwalin Yub"
+    },
+    {
+      "code": 9502112007,
+      "name": "Imiryi"
+    },
+    {
+      "code": 9502112008,
+      "name": "Sumtamon"
+    },
+    {
+      "code": 9502112009,
+      "name": "Bondik"
+    },
+    {
+      "code": 9502112010,
+      "name": "Muruman"
+    },
+    {
+      "code": 9502112011,
+      "name": "Binalkom"
+    },
+    {
+      "code": 9502112012,
+      "name": "Tibal"
+    }
+  ]
+}

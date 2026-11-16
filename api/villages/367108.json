@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3671081001,
+      "name": "Periuk"
+    },
+    {
+      "code": 3671081002,
+      "name": "Gembor"
+    },
+    {
+      "code": 3671081003,
+      "name": "Gebang Raya"
+    },
+    {
+      "code": 3671081004,
+      "name": "Sangiang Jaya"
+    },
+    {
+      "code": 3671081005,
+      "name": "Periuk Jaya"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9301052001,
+      "name": "Matara"
+    },
+    {
+      "code": 9301052002,
+      "name": "Waninggap Nanggo"
+    },
+    {
+      "code": 9301052003,
+      "name": "Urumb"
+    },
+    {
+      "code": 9301052004,
+      "name": "Sido Mulyo"
+    },
+    {
+      "code": 9301052005,
+      "name": "Kuprik"
+    },
+    {
+      "code": 9301052006,
+      "name": "Kuper"
+    },
+    {
+      "code": 9301052007,
+      "name": "Semangga Jaya"
+    },
+    {
+      "code": 9301052008,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 9301052009,
+      "name": "Muram Sari"
+    },
+    {
+      "code": 9301052010,
+      "name": "Waninggap Kai"
+    }
+  ]
+}

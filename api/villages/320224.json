@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3202241013,
+      "name": "Surade"
+    },
+    {
+      "code": 3202242001,
+      "name": "Jagamukti"
+    },
+    {
+      "code": 3202242002,
+      "name": "Citanglar"
+    },
+    {
+      "code": 3202242003,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3202242005,
+      "name": "Sirnasari"
+    },
+    {
+      "code": 3202242006,
+      "name": "Kadaleman"
+    },
+    {
+      "code": 3202242007,
+      "name": "Gunungsungging"
+    },
+    {
+      "code": 3202242008,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3202242009,
+      "name": "Pasiripis"
+    },
+    {
+      "code": 3202242010,
+      "name": "Buniwangi"
+    },
+    {
+      "code": 3202242011,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3202242012,
+      "name": "Kademangan"
+    }
+  ]
+}

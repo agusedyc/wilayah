@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3203032001,
+      "name": "Cipetir"
+    },
+    {
+      "code": 3203032002,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3203032003,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3203032004,
+      "name": "Cibaregbeg"
+    },
+    {
+      "code": 3203032005,
+      "name": "Sukaraharja"
+    },
+    {
+      "code": 3203032006,
+      "name": "Peuteuycondong"
+    },
+    {
+      "code": 3203032007,
+      "name": "Mayak"
+    },
+    {
+      "code": 3203032008,
+      "name": "Cikondang"
+    },
+    {
+      "code": 3203032009,
+      "name": "Cibokor"
+    },
+    {
+      "code": 3203032010,
+      "name": "Selagedang"
+    },
+    {
+      "code": 3203032011,
+      "name": "Karangnunggal"
+    },
+    {
+      "code": 3203032012,
+      "name": "Kanoman"
+    },
+    {
+      "code": 3203032013,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3203032014,
+      "name": "Girimulya"
+    },
+    {
+      "code": 3203032015,
+      "name": "Cisalak"
+    },
+    {
+      "code": 3203032016,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3203032017,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3203032018,
+      "name": "Salamnunggal"
+    }
+  ]
+}

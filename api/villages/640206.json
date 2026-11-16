@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6402061001,
+      "name": "Jahab"
+    },
+    {
+      "code": 6402061002,
+      "name": "Loa Ipuh"
+    },
+    {
+      "code": 6402061003,
+      "name": "Bukit Biru"
+    },
+    {
+      "code": 6402061004,
+      "name": "Timbau"
+    },
+    {
+      "code": 6402061005,
+      "name": "Melayu"
+    },
+    {
+      "code": 6402061006,
+      "name": "Panji"
+    },
+    {
+      "code": 6402061007,
+      "name": "Sukarame"
+    },
+    {
+      "code": 6402061008,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6402061009,
+      "name": "Loa Tebu"
+    },
+    {
+      "code": 6402061010,
+      "name": "Mangkurawang"
+    },
+    {
+      "code": 6402061011,
+      "name": "Maluhu"
+    },
+    {
+      "code": 6402061013,
+      "name": "Loa Ipuh Darat"
+    },
+    {
+      "code": 6402062012,
+      "name": "Rapak Lambur"
+    },
+    {
+      "code": 6402062014,
+      "name": "Bendang Raya"
+    }
+  ]
+}

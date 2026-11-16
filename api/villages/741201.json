@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7412011001,
+      "name": "Langara Laut"
+    },
+    {
+      "code": 7412012002,
+      "name": "Langara Iwawo"
+    },
+    {
+      "code": 7412012003,
+      "name": "Wawolaa"
+    },
+    {
+      "code": 7412012004,
+      "name": "Langara Indah"
+    },
+    {
+      "code": 7412012005,
+      "name": "Lamoluo"
+    },
+    {
+      "code": 7412012006,
+      "name": "Bukit Permai"
+    },
+    {
+      "code": 7412012007,
+      "name": "Wawobili"
+    },
+    {
+      "code": 7412012008,
+      "name": "Langaro Bajo"
+    },
+    {
+      "code": 7412012009,
+      "name": "Mata Langara"
+    },
+    {
+      "code": 7412012010,
+      "name": "Mata Baho"
+    },
+    {
+      "code": 7412012011,
+      "name": "Lanowatu"
+    },
+    {
+      "code": 7412012012,
+      "name": "Lantula"
+    },
+    {
+      "code": 7412012013,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 7412012014,
+      "name": "langkowala"
+    },
+    {
+      "code": 7412012015,
+      "name": "Kawa-Kawali"
+    },
+    {
+      "code": 7412012016,
+      "name": "Langara Tanjung Batu"
+    }
+  ]
+}

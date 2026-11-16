@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7571041001,
+      "name": "Huangobotu"
+    },
+    {
+      "code": 7571041002,
+      "name": "Libuo"
+    },
+    {
+      "code": 7571041003,
+      "name": "Tomulabutao"
+    },
+    {
+      "code": 7571041004,
+      "name": "Tuladenggi"
+    },
+    {
+      "code": 7571041005,
+      "name": "Tomulabutao Selatan"
+    }
+  ]
+}

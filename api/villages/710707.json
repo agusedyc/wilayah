@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7107072001,
+      "name": "Kalait"
+    },
+    {
+      "code": 7107072002,
+      "name": "Kalait Satu"
+    },
+    {
+      "code": 7107072003,
+      "name": "Kalait Dua"
+    },
+    {
+      "code": 7107072004,
+      "name": "Kalait Tiga"
+    },
+    {
+      "code": 7107072005,
+      "name": "Lowatag"
+    },
+    {
+      "code": 7107072006,
+      "name": "Bunag"
+    },
+    {
+      "code": 7107072007,
+      "name": "Banga"
+    },
+    {
+      "code": 7107072008,
+      "name": "Tambelang"
+    },
+    {
+      "code": 7107072009,
+      "name": "Ranoako"
+    },
+    {
+      "code": 7107072010,
+      "name": "Suhuyon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1209322001,
+      "name": "Aek Bange"
+    },
+    {
+      "code": 1209322002,
+      "name": "Aek Korsik"
+    },
+    {
+      "code": 1209322003,
+      "name": "Aek Ledong"
+    },
+    {
+      "code": 1209322004,
+      "name": "Ledong Barat"
+    },
+    {
+      "code": 1209322005,
+      "name": "Aek Nabuntu"
+    },
+    {
+      "code": 1209322006,
+      "name": "Ledong Timur"
+    },
+    {
+      "code": 1209322007,
+      "name": "Padang Sipirok"
+    }
+  ]
+}

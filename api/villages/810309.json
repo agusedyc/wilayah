@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8103092001,
+      "name": "Arma"
+    },
+    {
+      "code": 8103092002,
+      "name": "Watmuri"
+    },
+    {
+      "code": 8103092003,
+      "name": "Manglusi"
+    },
+    {
+      "code": 8103092004,
+      "name": "Tutukembong"
+    },
+    {
+      "code": 8103092005,
+      "name": "Waturu"
+    }
+  ]
+}

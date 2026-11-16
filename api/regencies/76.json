@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 regencies",
+  "data": [
+    {
+      "code": 7601,
+      "name": "Kabupaten Pasangkayu"
+    },
+    {
+      "code": 7602,
+      "name": "Kabupaten Mamuju"
+    },
+    {
+      "code": 7603,
+      "name": "Kabupaten Mamasa"
+    },
+    {
+      "code": 7604,
+      "name": "Kabupaten Polewali Mandar"
+    },
+    {
+      "code": 7605,
+      "name": "Kabupaten Majene"
+    },
+    {
+      "code": 7606,
+      "name": "Kabupaten Mamuju Tengah"
+    }
+  ]
+}

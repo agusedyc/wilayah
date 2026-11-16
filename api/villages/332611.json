@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3326112001,
+      "name": "Bukur"
+    },
+    {
+      "code": 3326112002,
+      "name": "Kalipancur"
+    },
+    {
+      "code": 3326112003,
+      "name": "Sumurjomblangbogo"
+    },
+    {
+      "code": 3326112004,
+      "name": "Pantianom"
+    },
+    {
+      "code": 3326112005,
+      "name": "Randumuktiwaren"
+    },
+    {
+      "code": 3326112006,
+      "name": "Legokclile"
+    },
+    {
+      "code": 3326112007,
+      "name": "Bojongwetan"
+    },
+    {
+      "code": 3326112008,
+      "name": "Duwet"
+    },
+    {
+      "code": 3326112009,
+      "name": "Wangandowo"
+    },
+    {
+      "code": 3326112010,
+      "name": "Ketitangkidul"
+    },
+    {
+      "code": 3326112011,
+      "name": "Menjangan"
+    },
+    {
+      "code": 3326112012,
+      "name": "Ketitanglor"
+    },
+    {
+      "code": 3326112013,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3326112014,
+      "name": "Bojonglor"
+    },
+    {
+      "code": 3326112015,
+      "name": "Bojongminggir"
+    },
+    {
+      "code": 3326112016,
+      "name": "Wiroditan"
+    },
+    {
+      "code": 3326112017,
+      "name": "Kemasan"
+    },
+    {
+      "code": 3326112018,
+      "name": "Jajarwayang"
+    },
+    {
+      "code": 3326112019,
+      "name": "Babalanlor"
+    },
+    {
+      "code": 3326112020,
+      "name": "Babalankidul"
+    },
+    {
+      "code": 3326112021,
+      "name": "Karagsari"
+    },
+    {
+      "code": 3326112022,
+      "name": "Sembungjambu"
+    }
+  ]
+}

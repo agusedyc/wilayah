@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3312061004,
+      "name": "Kedungrejo"
+    },
+    {
+      "code": 3312061008,
+      "name": "Beji"
+    },
+    {
+      "code": 3312062001,
+      "name": "Wonoharjo"
+    },
+    {
+      "code": 3312062002,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3312062003,
+      "name": "Kulurejo"
+    },
+    {
+      "code": 3312062005,
+      "name": "Semin"
+    },
+    {
+      "code": 3312062006,
+      "name": "Bumiharjo"
+    },
+    {
+      "code": 3312062007,
+      "name": "Gebang"
+    },
+    {
+      "code": 3312062009,
+      "name": "Pondoksari"
+    },
+    {
+      "code": 3312062010,
+      "name": "Ngadiroyo"
+    },
+    {
+      "code": 3312062011,
+      "name": "Ngadipiro"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7103152001,
+      "name": "Simueng"
+    },
+    {
+      "code": 7103152002,
+      "name": "Bentung"
+    },
+    {
+      "code": 7103152003,
+      "name": "Lesabe"
+    },
+    {
+      "code": 7103152004,
+      "name": "Malammenggu"
+    },
+    {
+      "code": 7103152005,
+      "name": "Palareng"
+    },
+    {
+      "code": 7103152007,
+      "name": "Binebas"
+    },
+    {
+      "code": 7103152008,
+      "name": "Mandoi"
+    },
+    {
+      "code": 7103152015,
+      "name": "Batuwingkung"
+    },
+    {
+      "code": 7103152016,
+      "name": "Birahi"
+    },
+    {
+      "code": 7103152017,
+      "name": "Laotongan"
+    },
+    {
+      "code": 7103152018,
+      "name": "Bukide"
+    },
+    {
+      "code": 7103152019,
+      "name": "Kalagheng"
+    },
+    {
+      "code": 7103152020,
+      "name": "Lesabe I"
+    },
+    {
+      "code": 7103152021,
+      "name": "Bulo"
+    }
+  ]
+}

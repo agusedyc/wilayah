@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7605041001,
+      "name": "Malunda"
+    },
+    {
+      "code": 7605041015,
+      "name": "Lamungang Batu"
+    },
+    {
+      "code": 7605042002,
+      "name": "Bambangan"
+    },
+    {
+      "code": 7605042004,
+      "name": "Lombang"
+    },
+    {
+      "code": 7605042005,
+      "name": "Lombong"
+    },
+    {
+      "code": 7605042006,
+      "name": "Mekkatta"
+    },
+    {
+      "code": 7605042010,
+      "name": "Maliaya"
+    },
+    {
+      "code": 7605042011,
+      "name": "Lombang Timur"
+    },
+    {
+      "code": 7605042012,
+      "name": "Salutahongan"
+    },
+    {
+      "code": 7605042013,
+      "name": "Lombong Timur"
+    },
+    {
+      "code": 7605042014,
+      "name": "Mekkatta Selatan"
+    },
+    {
+      "code": 7605042016,
+      "name": "Kayuangin"
+    }
+  ]
+}

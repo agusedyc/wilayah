@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3205412001,
+      "name": "Citangtu"
+    },
+    {
+      "code": 3205412002,
+      "name": "Cimaragas"
+    },
+    {
+      "code": 3205412003,
+      "name": "Babakan Loa"
+    },
+    {
+      "code": 3205412004,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3205412005,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3205412006,
+      "name": "Cihuni"
+    },
+    {
+      "code": 3205412007,
+      "name": "Sukarasa"
+    },
+    {
+      "code": 3205412008,
+      "name": "Karangsari"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7201091054,
+      "name": "Cendana"
+    },
+    {
+      "code": 7201092001,
+      "name": "Cendana Pura"
+    },
+    {
+      "code": 7201092011,
+      "name": "Sentral Sari"
+    },
+    {
+      "code": 7201092013,
+      "name": "Tirta Kencana"
+    },
+    {
+      "code": 7201092014,
+      "name": "Singkoyo"
+    },
+    {
+      "code": 7201092017,
+      "name": "Tirta Sari"
+    },
+    {
+      "code": 7201092026,
+      "name": "Rusa Kencana"
+    },
+    {
+      "code": 7201092036,
+      "name": "Samalore"
+    },
+    {
+      "code": 7201092037,
+      "name": "Ue Mea"
+    },
+    {
+      "code": 7201092038,
+      "name": "Benteng"
+    },
+    {
+      "code": 7201092039,
+      "name": "Mansahang"
+    },
+    {
+      "code": 7201092045,
+      "name": "Tanah Abang"
+    },
+    {
+      "code": 7201092047,
+      "name": "Jaya Kencana"
+    },
+    {
+      "code": 7201092051,
+      "name": "Sentral Timur"
+    },
+    {
+      "code": 7201092057,
+      "name": "Sidomukti"
+    }
+  ]
+}

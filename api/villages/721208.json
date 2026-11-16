@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 7212082001,
+      "name": "Baturube"
+    },
+    {
+      "code": 7212082002,
+      "name": "Posangke"
+    },
+    {
+      "code": 7212082003,
+      "name": "Taronggo"
+    },
+    {
+      "code": 7212082004,
+      "name": "Ueruru"
+    },
+    {
+      "code": 7212082005,
+      "name": "Uewajo"
+    },
+    {
+      "code": 7212082006,
+      "name": "Tirongan Bawah"
+    },
+    {
+      "code": 7212082007,
+      "name": "Tirongan Atas"
+    },
+    {
+      "code": 7212082008,
+      "name": "Siliti"
+    },
+    {
+      "code": 7212082009,
+      "name": "Lemo"
+    },
+    {
+      "code": 7212082010,
+      "name": "Salubiro"
+    },
+    {
+      "code": 7212082011,
+      "name": "Uemasi"
+    },
+    {
+      "code": 7212082012,
+      "name": "Opo"
+    },
+    {
+      "code": 7212082013,
+      "name": "Tanakuraya"
+    },
+    {
+      "code": 7212082014,
+      "name": "Tambarobone"
+    },
+    {
+      "code": 7212082015,
+      "name": "Woomparigi"
+    },
+    {
+      "code": 7212082016,
+      "name": "Boba"
+    },
+    {
+      "code": 7212082017,
+      "name": "Kalombang"
+    },
+    {
+      "code": 7212082018,
+      "name": "Tokonanaka"
+    },
+    {
+      "code": 7212082019,
+      "name": "Matube"
+    },
+    {
+      "code": 7212082020,
+      "name": "Lemowalia"
+    },
+    {
+      "code": 7212082021,
+      "name": "Uempanapa"
+    },
+    {
+      "code": 7212082022,
+      "name": "Tokala Atas"
+    },
+    {
+      "code": 7212082023,
+      "name": "Pokeang"
+    }
+  ]
+}

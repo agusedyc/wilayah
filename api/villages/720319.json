@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7203192001,
+      "name": "Wani Satu"
+    },
+    {
+      "code": 7203192002,
+      "name": "Wani Dua"
+    },
+    {
+      "code": 7203192003,
+      "name": "Nupa Bomba"
+    },
+    {
+      "code": 7203192004,
+      "name": "Wombo"
+    },
+    {
+      "code": 7203192005,
+      "name": "Guntarano"
+    },
+    {
+      "code": 7203192006,
+      "name": "Bale"
+    },
+    {
+      "code": 7203192007,
+      "name": "Wombo Mpanau"
+    },
+    {
+      "code": 7203192008,
+      "name": "Wombo Kalonggo"
+    },
+    {
+      "code": 7203192009,
+      "name": "Wani Tiga"
+    },
+    {
+      "code": 7203192010,
+      "name": "Wani Lumbumpetigo"
+    }
+  ]
+}

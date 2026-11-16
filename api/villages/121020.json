@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1210202001,
+      "name": "Tanjung Sarang Elang"
+    },
+    {
+      "code": 1210202002,
+      "name": "Perkebunan Ajamu"
+    },
+    {
+      "code": 1210202003,
+      "name": "Teluk Sentosa"
+    },
+    {
+      "code": 1210202004,
+      "name": "Cinta Makmur"
+    },
+    {
+      "code": 1210202005,
+      "name": "Sei Sentosa"
+    },
+    {
+      "code": 1210202006,
+      "name": "Meranti Paham"
+    },
+    {
+      "code": 1210202007,
+      "name": "Sei Jawi-Jawi"
+    }
+  ]
+}

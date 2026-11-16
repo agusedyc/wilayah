@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8107052001,
+      "name": "Kabalsiang"
+    },
+    {
+      "code": 8107052002,
+      "name": "Benjuring"
+    },
+    {
+      "code": 8107052003,
+      "name": "Batuley"
+    },
+    {
+      "code": 8107052004,
+      "name": "Kumul"
+    },
+    {
+      "code": 8107052005,
+      "name": "Waria"
+    },
+    {
+      "code": 8107052006,
+      "name": "Sewer"
+    },
+    {
+      "code": 8107052007,
+      "name": "Jursiang"
+    },
+    {
+      "code": 8107052008,
+      "name": "Kompane"
+    },
+    {
+      "code": 8107052009,
+      "name": "Kobamar"
+    }
+  ]
+}

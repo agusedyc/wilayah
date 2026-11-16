@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7502022001,
+      "name": "Harapan"
+    },
+    {
+      "code": 7502022002,
+      "name": "Bongo II"
+    },
+    {
+      "code": 7502022003,
+      "name": "Bongo III"
+    },
+    {
+      "code": 7502022004,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 7502022005,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 7502022006,
+      "name": "Pangeya"
+    },
+    {
+      "code": 7502022007,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 7502022008,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 7502022009,
+      "name": "Sari Tani"
+    },
+    {
+      "code": 7502022010,
+      "name": "Dimito"
+    },
+    {
+      "code": 7502022011,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 7502022012,
+      "name": "Raharja"
+    },
+    {
+      "code": 7502022013,
+      "name": "Trirukun"
+    },
+    {
+      "code": 7502022014,
+      "name": "Dulohupa"
+    }
+  ]
+}

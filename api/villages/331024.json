@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3310241002,
+      "name": "Barenglor"
+    },
+    {
+      "code": 3310241007,
+      "name": "Gergunung"
+    },
+    {
+      "code": 3310242001,
+      "name": "Sekarsuli"
+    },
+    {
+      "code": 3310242003,
+      "name": "Karanganom"
+    },
+    {
+      "code": 3310242004,
+      "name": "Ketandan"
+    },
+    {
+      "code": 3310242005,
+      "name": "Belangwetan"
+    },
+    {
+      "code": 3310242006,
+      "name": "Jonggrangan"
+    },
+    {
+      "code": 3310242008,
+      "name": "Jebugan"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1213202001,
+      "name": "Huta Lombang"
+    },
+    {
+      "code": 1213202002,
+      "name": "Huta Baru"
+    },
+    {
+      "code": 1213202003,
+      "name": "Handel"
+    },
+    {
+      "code": 1213202004,
+      "name": "Hutatinggi"
+    },
+    {
+      "code": 1213202005,
+      "name": "Hutanamale"
+    },
+    {
+      "code": 1213202006,
+      "name": "Hutabaringin Julu"
+    },
+    {
+      "code": 1213202007,
+      "name": "Sibanggor Jae"
+    },
+    {
+      "code": 1213202008,
+      "name": "Sibanggor Tonga"
+    },
+    {
+      "code": 1213202009,
+      "name": "Sibanggor Julu"
+    },
+    {
+      "code": 1213202010,
+      "name": "Purba Julu"
+    },
+    {
+      "code": 1213202011,
+      "name": "Huta Baringin"
+    }
+  ]
+}

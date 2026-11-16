@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 9212102001,
+      "name": "Sopnyai"
+    },
+    {
+      "code": 9212102002,
+      "name": "Ikimabou"
+    },
+    {
+      "code": 9212102003,
+      "name": "Manggot"
+    },
+    {
+      "code": 9212102004,
+      "name": "Kisap"
+    },
+    {
+      "code": 9212102005,
+      "name": "Nungkimor"
+    },
+    {
+      "code": 9212102006,
+      "name": "Cangoisi"
+    },
+    {
+      "code": 9212102007,
+      "name": "Minyeimemud"
+    },
+    {
+      "code": 9212102008,
+      "name": "Penibut"
+    },
+    {
+      "code": 9212102009,
+      "name": "Demunti"
+    },
+    {
+      "code": 9212102010,
+      "name": "Gueipimbai"
+    },
+    {
+      "code": 9212102011,
+      "name": "Tigaucomti"
+    },
+    {
+      "code": 9212102012,
+      "name": "Urwong"
+    },
+    {
+      "code": 9212102013,
+      "name": "Aryon"
+    },
+    {
+      "code": 9212102014,
+      "name": "Punggung"
+    },
+    {
+      "code": 9212102015,
+      "name": "Humeisi"
+    },
+    {
+      "code": 9212102016,
+      "name": "Haktiebou"
+    },
+    {
+      "code": 9212102017,
+      "name": "Kwok Satu"
+    },
+    {
+      "code": 9212102018,
+      "name": "Kwok Dua"
+    },
+    {
+      "code": 9212102019,
+      "name": "Kwaiyehep"
+    },
+    {
+      "code": 9212102020,
+      "name": "Mbegau"
+    },
+    {
+      "code": 9212102021,
+      "name": "Ngimoubri"
+    },
+    {
+      "code": 9212102022,
+      "name": "Liehak"
+    },
+    {
+      "code": 9212102023,
+      "name": "Umcep"
+    },
+    {
+      "code": 9212102024,
+      "name": "Tumbeibehei"
+    },
+    {
+      "code": 9212102025,
+      "name": "Tingwoikiou"
+    },
+    {
+      "code": 9212102026,
+      "name": "Guwei Uti"
+    },
+    {
+      "code": 9212102027,
+      "name": "Ntap"
+    },
+    {
+      "code": 9212102028,
+      "name": "Monut"
+    },
+    {
+      "code": 9212102029,
+      "name": "Mbrande"
+    }
+  ]
+}

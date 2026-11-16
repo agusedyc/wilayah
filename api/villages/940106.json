@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9401062001,
+      "name": "Unipo"
+    },
+    {
+      "code": 9401062002,
+      "name": "Aibore"
+    },
+    {
+      "code": 9401062003,
+      "name": "Epomani"
+    },
+    {
+      "code": 9401062004,
+      "name": "Tibai"
+    },
+    {
+      "code": 9401062005,
+      "name": "Mabou"
+    },
+    {
+      "code": 9401062006,
+      "name": "Ugida"
+    }
+  ]
+}

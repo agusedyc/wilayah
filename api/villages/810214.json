@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8102142001,
+      "name": "Ohoidertutu"
+    },
+    {
+      "code": 8102142002,
+      "name": "Matwair"
+    },
+    {
+      "code": 8102142003,
+      "name": "Somlain"
+    },
+    {
+      "code": 8102142004,
+      "name": "Ohoiren"
+    },
+    {
+      "code": 8102142005,
+      "name": "Ohoira"
+    },
+    {
+      "code": 8102142006,
+      "name": "Warbal"
+    },
+    {
+      "code": 8102142007,
+      "name": "Ur Pulau"
+    },
+    {
+      "code": 8102142008,
+      "name": "Tanimbar Kei"
+    },
+    {
+      "code": 8102142009,
+      "name": "Ohoidertom"
+    },
+    {
+      "code": 8102142010,
+      "name": "Yatwav"
+    }
+  ]
+}

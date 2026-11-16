@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9106152001,
+      "name": "Farusi"
+    },
+    {
+      "code": 9106152002,
+      "name": "Mandenderi"
+    },
+    {
+      "code": 9106152003,
+      "name": "Swainober"
+    },
+    {
+      "code": 9106152004,
+      "name": "Mardori"
+    },
+    {
+      "code": 9106152005,
+      "name": "Swaipak"
+    },
+    {
+      "code": 9106152006,
+      "name": "Yenbepioper"
+    },
+    {
+      "code": 9106152007,
+      "name": "Sarwa"
+    },
+    {
+      "code": 9106152008,
+      "name": "Napdori"
+    },
+    {
+      "code": 9106152009,
+      "name": "Ramdori"
+    },
+    {
+      "code": 9106152010,
+      "name": "Busdori"
+    },
+    {
+      "code": 9106152011,
+      "name": "Wombrisau"
+    },
+    {
+      "code": 9106152012,
+      "name": "Orkdori"
+    },
+    {
+      "code": 9106152013,
+      "name": "Saswarbo"
+    },
+    {
+      "code": 9106152014,
+      "name": "Andoina"
+    },
+    {
+      "code": 9106152015,
+      "name": "Insusbari"
+    }
+  ]
+}

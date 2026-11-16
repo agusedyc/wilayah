@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502262001,
+      "name": "Karye"
+    },
+    {
+      "code": 9502262002,
+      "name": "Batani"
+    },
+    {
+      "code": 9502262003,
+      "name": "Segame"
+    },
+    {
+      "code": 9502262004,
+      "name": "Palur Satu"
+    },
+    {
+      "code": 9502262005,
+      "name": "Palur Dua"
+    },
+    {
+      "code": 9502262006,
+      "name": "Sople"
+    },
+    {
+      "code": 9502262007,
+      "name": "Bakata"
+    }
+  ]
+}

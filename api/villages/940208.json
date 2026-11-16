@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 9402082001,
+      "name": "Tinggineri"
+    },
+    {
+      "code": 9402082002,
+      "name": "Monia"
+    },
+    {
+      "code": 9402082003,
+      "name": "Tingginambut"
+    },
+    {
+      "code": 9402082004,
+      "name": "Melekom"
+    },
+    {
+      "code": 9402082005,
+      "name": "Gigume"
+    },
+    {
+      "code": 9402082006,
+      "name": "Papua"
+    },
+    {
+      "code": 9402082007,
+      "name": "Tingginime"
+    },
+    {
+      "code": 9402082008,
+      "name": "Tombo"
+    },
+    {
+      "code": 9402082009,
+      "name": "Gimanggen"
+    },
+    {
+      "code": 9402082010,
+      "name": "Uragi"
+    },
+    {
+      "code": 9402082011,
+      "name": "Yamengga"
+    },
+    {
+      "code": 9402082012,
+      "name": "Degi"
+    },
+    {
+      "code": 9402082013,
+      "name": "Jugumblawi"
+    },
+    {
+      "code": 9402082014,
+      "name": "Paralo"
+    },
+    {
+      "code": 9402082015,
+      "name": "Womelagandan"
+    },
+    {
+      "code": 9402082016,
+      "name": "Bigirage"
+    },
+    {
+      "code": 9402082017,
+      "name": "Lumbuk"
+    },
+    {
+      "code": 9402082018,
+      "name": "Inikimaluk"
+    },
+    {
+      "code": 9402082019,
+      "name": "Yonggun"
+    },
+    {
+      "code": 9402082020,
+      "name": "Gobak"
+    },
+    {
+      "code": 9402082021,
+      "name": "Gubupur"
+    },
+    {
+      "code": 9402082022,
+      "name": "Berime"
+    }
+  ]
+}

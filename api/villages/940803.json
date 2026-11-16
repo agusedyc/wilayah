@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9408032001,
+      "name": "Kopai I"
+    },
+    {
+      "code": 9408032002,
+      "name": "Kopai II"
+    },
+    {
+      "code": 9408032003,
+      "name": "Woge"
+    },
+    {
+      "code": 9408032004,
+      "name": "Yewadide"
+    },
+    {
+      "code": 9408032005,
+      "name": "Mudetadi"
+    },
+    {
+      "code": 9408032006,
+      "name": "Diita"
+    }
+  ]
+}

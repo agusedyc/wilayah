@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7101352001,
+      "name": "Ibolian"
+    },
+    {
+      "code": 7101352002,
+      "name": "Ibolian Satu"
+    },
+    {
+      "code": 7101352003,
+      "name": "Kinomaligan"
+    },
+    {
+      "code": 7101352004,
+      "name": "Kosio"
+    },
+    {
+      "code": 7101352005,
+      "name": "Kosio Timur"
+    },
+    {
+      "code": 7101352006,
+      "name": "Kasio Barat"
+    },
+    {
+      "code": 7101352007,
+      "name": "Werdhi Agung"
+    },
+    {
+      "code": 7101352008,
+      "name": "Werdhi Agung Selatan"
+    },
+    {
+      "code": 7101352009,
+      "name": "Werdhi Agung Utara"
+    },
+    {
+      "code": 7101352010,
+      "name": "Werdhi Agung Timur"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3328132001,
+      "name": "Ketanggungan"
+    },
+    {
+      "code": 3328132002,
+      "name": "Kupu"
+    },
+    {
+      "code": 3328132003,
+      "name": "Sidakaton"
+    },
+    {
+      "code": 3328132004,
+      "name": "Sidapurna"
+    },
+    {
+      "code": 3328132005,
+      "name": "Pepedan"
+    },
+    {
+      "code": 3328132006,
+      "name": "Pengarasan"
+    },
+    {
+      "code": 3328132007,
+      "name": "Lawatan"
+    },
+    {
+      "code": 3328132008,
+      "name": "Dukuhturi"
+    },
+    {
+      "code": 3328132009,
+      "name": "Pekauman Kulon"
+    },
+    {
+      "code": 3328132010,
+      "name": "Pagongan"
+    },
+    {
+      "code": 3328132011,
+      "name": "Debongwetan"
+    },
+    {
+      "code": 3328132012,
+      "name": "Kepandean"
+    },
+    {
+      "code": 3328132013,
+      "name": "Grogol"
+    },
+    {
+      "code": 3328132014,
+      "name": "Bandasari"
+    },
+    {
+      "code": 3328132015,
+      "name": "Sutapranan"
+    },
+    {
+      "code": 3328132016,
+      "name": "Kademangaran"
+    },
+    {
+      "code": 3328132017,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3328132018,
+      "name": "Pengabean"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7601112001,
+      "name": "Sarjo"
+    },
+    {
+      "code": 7601112002,
+      "name": "Maponu"
+    },
+    {
+      "code": 7601112003,
+      "name": "Letawa"
+    },
+    {
+      "code": 7601112004,
+      "name": "Sarude"
+    }
+  ]
+}

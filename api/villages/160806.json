@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1608062001,
+      "name": "Karang Negara"
+    },
+    {
+      "code": 1608062002,
+      "name": "Riang Bandung"
+    },
+    {
+      "code": 1608062005,
+      "name": "Kota Negara"
+    },
+    {
+      "code": 1608062006,
+      "name": "Karta Negara"
+    },
+    {
+      "code": 1608062007,
+      "name": "Pandan Agung"
+    },
+    {
+      "code": 1608062009,
+      "name": "Sri Mulyo"
+    },
+    {
+      "code": 1608062010,
+      "name": "Margo Tani"
+    },
+    {
+      "code": 1608062011,
+      "name": "Jati Mulya II"
+    },
+    {
+      "code": 1608062012,
+      "name": "Pandan Jaya"
+    },
+    {
+      "code": 1608062014,
+      "name": "Rasuan Baru"
+    },
+    {
+      "code": 1608062020,
+      "name": "Banbanrejo"
+    },
+    {
+      "code": 1608062021,
+      "name": "Suka Negara"
+    },
+    {
+      "code": 1608062022,
+      "name": "Srikencana"
+    },
+    {
+      "code": 1608062023,
+      "name": "Dadimulyo"
+    },
+    {
+      "code": 1608062024,
+      "name": "Riang Bandung Ilir"
+    },
+    {
+      "code": 1608062025,
+      "name": "Margotani II"
+    },
+    {
+      "code": 1608062026,
+      "name": "Kota Negara Timur"
+    },
+    {
+      "code": 1608062027,
+      "name": "Talang Giring"
+    },
+    {
+      "code": 1608062028,
+      "name": "Kalirejo"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7308021001,
+      "name": "Palattae"
+    },
+    {
+      "code": 7308022002,
+      "name": "Nusa"
+    },
+    {
+      "code": 7308022003,
+      "name": "Pasaka"
+    },
+    {
+      "code": 7308022004,
+      "name": "Labuaja"
+    },
+    {
+      "code": 7308022005,
+      "name": "Cakkela"
+    },
+    {
+      "code": 7308022006,
+      "name": "Balle"
+    },
+    {
+      "code": 7308022007,
+      "name": "Matajang"
+    },
+    {
+      "code": 7308022008,
+      "name": "Cenrana"
+    },
+    {
+      "code": 7308022009,
+      "name": "Sanrego"
+    },
+    {
+      "code": 7308022010,
+      "name": "Biru"
+    },
+    {
+      "code": 7308022011,
+      "name": "Palakka"
+    },
+    {
+      "code": 7308022012,
+      "name": "Tompong Patu"
+    },
+    {
+      "code": 7308022013,
+      "name": "Hulo"
+    },
+    {
+      "code": 7308022014,
+      "name": "Cammilo"
+    },
+    {
+      "code": 7308022015,
+      "name": "Carima"
+    },
+    {
+      "code": 7308022016,
+      "name": "Mattoanging"
+    },
+    {
+      "code": 7308022017,
+      "name": "Arallae"
+    },
+    {
+      "code": 7308022018,
+      "name": "Bonto Padang"
+    },
+    {
+      "code": 7308022019,
+      "name": "Lalepo"
+    },
+    {
+      "code": 7308022020,
+      "name": "Maggenrang"
+    }
+  ]
+}

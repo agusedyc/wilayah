@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1406061001,
+      "name": "Kota Lama"
+    },
+    {
+      "code": 1406062003,
+      "name": "Kota Intan"
+    },
+    {
+      "code": 1406062004,
+      "name": "Muara Dilam"
+    },
+    {
+      "code": 1406062008,
+      "name": "Kota Raya"
+    },
+    {
+      "code": 1406062009,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1406062010,
+      "name": "Sungai Kuti"
+    },
+    {
+      "code": 1406062011,
+      "name": "Pasir Indah"
+    },
+    {
+      "code": 1406062012,
+      "name": "Pasir Luhur"
+    },
+    {
+      "code": 1406062017,
+      "name": "Bukit Intan Makmur"
+    },
+    {
+      "code": 1406062018,
+      "name": "Bagan Tujuh"
+    }
+  ]
+}

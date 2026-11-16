@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6206112001,
+      "name": "Talingke"
+    },
+    {
+      "code": 6206112002,
+      "name": "Hiyang Bana"
+    },
+    {
+      "code": 6206112003,
+      "name": "Petak Bahandang"
+    },
+    {
+      "code": 6206112004,
+      "name": "Handiwung"
+    },
+    {
+      "code": 6206112005,
+      "name": "Tumbang Panggo"
+    },
+    {
+      "code": 6206112006,
+      "name": "Tewang Tampang"
+    },
+    {
+      "code": 6206112007,
+      "name": "Luwuk Kanan"
+    },
+    {
+      "code": 6206112008,
+      "name": "Luwuk Kiri"
+    }
+  ]
+}

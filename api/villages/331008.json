@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3310082001,
+      "name": "Pakahan"
+    },
+    {
+      "code": 3310082002,
+      "name": "Ngering"
+    },
+    {
+      "code": 3310082003,
+      "name": "Rejoso"
+    },
+    {
+      "code": 3310082004,
+      "name": "Titang"
+    },
+    {
+      "code": 3310082005,
+      "name": "Somopuro"
+    },
+    {
+      "code": 3310082006,
+      "name": "Tangkisan Pos"
+    },
+    {
+      "code": 3310082007,
+      "name": "Gondangan"
+    },
+    {
+      "code": 3310082008,
+      "name": "Bakung"
+    },
+    {
+      "code": 3310082009,
+      "name": "Sumyang"
+    },
+    {
+      "code": 3310082010,
+      "name": "Karangdukuh"
+    },
+    {
+      "code": 3310082011,
+      "name": "Plawikan"
+    },
+    {
+      "code": 3310082012,
+      "name": "Kraguman"
+    },
+    {
+      "code": 3310082013,
+      "name": "Granting"
+    },
+    {
+      "code": 3310082014,
+      "name": "Prawatan"
+    },
+    {
+      "code": 3310082015,
+      "name": "Wonoboyo"
+    },
+    {
+      "code": 3310082016,
+      "name": "Dompyongan"
+    },
+    {
+      "code": 3310082017,
+      "name": "Joton"
+    },
+    {
+      "code": 3310082018,
+      "name": "Tambakan"
+    }
+  ]
+}

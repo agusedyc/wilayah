@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1505021010,
+      "name": "Sengeti"
+    },
+    {
+      "code": 1505022001,
+      "name": "Suak Putat"
+    },
+    {
+      "code": 1505022002,
+      "name": "Rantau Majo"
+    },
+    {
+      "code": 1505022003,
+      "name": "Pulau Kayu Aro"
+    },
+    {
+      "code": 1505022004,
+      "name": "Pematang Pulai"
+    },
+    {
+      "code": 1505022005,
+      "name": "Tan Tan"
+    },
+    {
+      "code": 1505022006,
+      "name": "Kedotan"
+    },
+    {
+      "code": 1505022007,
+      "name": "Keranggan"
+    },
+    {
+      "code": 1505022008,
+      "name": "Berembang"
+    },
+    {
+      "code": 1505022009,
+      "name": "Sekernan"
+    },
+    {
+      "code": 1505022011,
+      "name": "Gerunggung"
+    },
+    {
+      "code": 1505022012,
+      "name": "Tunas Baru"
+    },
+    {
+      "code": 1505022013,
+      "name": "Bukit Baling"
+    },
+    {
+      "code": 1505022014,
+      "name": "Tanjung Lanjut"
+    },
+    {
+      "code": 1505022015,
+      "name": "Suko Awin Jaya"
+    },
+    {
+      "code": 1505022016,
+      "name": "Tunas Mudo"
+    }
+  ]
+}

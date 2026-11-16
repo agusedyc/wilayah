@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9505022001,
+      "name": "Kelila"
+    },
+    {
+      "code": 9505022002,
+      "name": "Dibunggen"
+    },
+    {
+      "code": 9505022003,
+      "name": "Timeria"
+    },
+    {
+      "code": 9505022004,
+      "name": "Uganda"
+    },
+    {
+      "code": 9505022005,
+      "name": "Dogobak"
+    },
+    {
+      "code": 9505022006,
+      "name": "Yalenggolo"
+    },
+    {
+      "code": 9505022007,
+      "name": "Binime"
+    },
+    {
+      "code": 9505022008,
+      "name": "Tikapura"
+    },
+    {
+      "code": 9505022009,
+      "name": "Onggobalo"
+    },
+    {
+      "code": 9505022010,
+      "name": "Kambo"
+    },
+    {
+      "code": 9505022011,
+      "name": "Kindok"
+    },
+    {
+      "code": 9505022012,
+      "name": "Tari"
+    },
+    {
+      "code": 9505022013,
+      "name": "Gelora"
+    },
+    {
+      "code": 9505022014,
+      "name": "Yagabur"
+    },
+    {
+      "code": 9505022015,
+      "name": "Pelanme"
+    },
+    {
+      "code": 9505022016,
+      "name": "Tonggrik"
+    },
+    {
+      "code": 9505022017,
+      "name": "Kumbu"
+    },
+    {
+      "code": 9505022018,
+      "name": "Mabuna"
+    },
+    {
+      "code": 9505022019,
+      "name": "Manggaleso"
+    }
+  ]
+}

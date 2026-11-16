@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7373021002,
+      "name": "Batupasi"
+    },
+    {
+      "code": 7373021003,
+      "name": "Sabbamparu"
+    },
+    {
+      "code": 7373021005,
+      "name": "Salobulo"
+    },
+    {
+      "code": 7373021007,
+      "name": "Penggoli"
+    },
+    {
+      "code": 7373021008,
+      "name": "Luminda"
+    },
+    {
+      "code": 7373021009,
+      "name": "Pattene"
+    }
+  ]
+}

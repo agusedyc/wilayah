@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7308031001,
+      "name": "Awang Tangka"
+    },
+    {
+      "code": 7308032002,
+      "name": "Raja"
+    },
+    {
+      "code": 7308032003,
+      "name": "Abbumpungeng"
+    },
+    {
+      "code": 7308032004,
+      "name": "Bulu Tanah"
+    },
+    {
+      "code": 7308032005,
+      "name": "Gona"
+    },
+    {
+      "code": 7308032006,
+      "name": "Buareng"
+    },
+    {
+      "code": 7308032007,
+      "name": "Polewali"
+    },
+    {
+      "code": 7308032008,
+      "name": "Padaelo"
+    },
+    {
+      "code": 7308032009,
+      "name": "Ancu"
+    },
+    {
+      "code": 7308032010,
+      "name": "Tarasu"
+    },
+    {
+      "code": 7308032011,
+      "name": "Lemo"
+    },
+    {
+      "code": 7308032012,
+      "name": "Kalero"
+    },
+    {
+      "code": 7308032013,
+      "name": "Lappabosse"
+    },
+    {
+      "code": 7308032014,
+      "name": "Waetuo"
+    },
+    {
+      "code": 7308032015,
+      "name": "Pude"
+    },
+    {
+      "code": 7308032016,
+      "name": "Angkue"
+    },
+    {
+      "code": 7308032017,
+      "name": "Massangkae"
+    },
+    {
+      "code": 7308032018,
+      "name": "Mallahae"
+    }
+  ]
+}

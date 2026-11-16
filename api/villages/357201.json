@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3572011001,
+      "name": "Kepanjenkidul"
+    },
+    {
+      "code": 3572011002,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3572011003,
+      "name": "Sentul"
+    },
+    {
+      "code": 3572011004,
+      "name": "Kauman"
+    },
+    {
+      "code": 3572011005,
+      "name": "Tanggung"
+    },
+    {
+      "code": 3572011006,
+      "name": "Bendo"
+    },
+    {
+      "code": 3572011007,
+      "name": "Kepanjenlor"
+    }
+  ]
+}

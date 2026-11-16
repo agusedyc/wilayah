@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3510202001,
+      "name": "Sempu"
+    },
+    {
+      "code": 3510202002,
+      "name": "Jambewangi"
+    },
+    {
+      "code": 3510202003,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3510202004,
+      "name": "Temuguruh"
+    },
+    {
+      "code": 3510202005,
+      "name": "Gendoh"
+    },
+    {
+      "code": 3510202006,
+      "name": "Temuasri"
+    },
+    {
+      "code": 3510202007,
+      "name": "Tegalarum"
+    }
+  ]
+}

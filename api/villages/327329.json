@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273291001,
+      "name": "Cisaranten Wetan"
+    },
+    {
+      "code": 3273291002,
+      "name": "Pakemitan"
+    },
+    {
+      "code": 3273291003,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3273291004,
+      "name": "Babakan Penghulu"
+    }
+  ]
+}

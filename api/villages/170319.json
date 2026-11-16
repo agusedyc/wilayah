@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1703192001,
+      "name": "Kota Lekat"
+    },
+    {
+      "code": 1703192002,
+      "name": "Padang Bendar"
+    },
+    {
+      "code": 1703192003,
+      "name": "Taba Padang R"
+    },
+    {
+      "code": 1703192004,
+      "name": "Taba Padang Kol"
+    },
+    {
+      "code": 1703192005,
+      "name": "Air Banai"
+    },
+    {
+      "code": 1703192006,
+      "name": "Batu Raja R"
+    },
+    {
+      "code": 1703192007,
+      "name": "Batu Raja Kol"
+    },
+    {
+      "code": 1703192008,
+      "name": "Batu Layang"
+    },
+    {
+      "code": 1703192009,
+      "name": "Batu Roto"
+    },
+    {
+      "code": 1703192010,
+      "name": "Air Ba'us I"
+    },
+    {
+      "code": 1703192011,
+      "name": "Air Ba'us II"
+    },
+    {
+      "code": 1703192012,
+      "name": "Pematang Balam"
+    },
+    {
+      "code": 1703192013,
+      "name": "Talang Rendah"
+    },
+    {
+      "code": 1703192014,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1703192015,
+      "name": "Kota Lekat Mudik"
+    }
+  ]
+}

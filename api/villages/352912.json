@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3529122001,
+      "name": "Ambunten Barat"
+    },
+    {
+      "code": 3529122002,
+      "name": "Ambunten Tengah"
+    },
+    {
+      "code": 3529122003,
+      "name": "Ambunten Timur"
+    },
+    {
+      "code": 3529122004,
+      "name": "Tambaagung Barat"
+    },
+    {
+      "code": 3529122005,
+      "name": "Tambaagung Tengah"
+    },
+    {
+      "code": 3529122006,
+      "name": "Tambaagung Ares"
+    },
+    {
+      "code": 3529122007,
+      "name": "Sogian"
+    },
+    {
+      "code": 3529122008,
+      "name": "Tambaagung Timur"
+    },
+    {
+      "code": 3529122009,
+      "name": "Bukabu"
+    },
+    {
+      "code": 3529122010,
+      "name": "Campor Barat"
+    },
+    {
+      "code": 3529122011,
+      "name": "Keles"
+    },
+    {
+      "code": 3529122012,
+      "name": "Campor Timur"
+    },
+    {
+      "code": 3529122013,
+      "name": "Belluk Ares"
+    },
+    {
+      "code": 3529122014,
+      "name": "Belluk Kenek"
+    },
+    {
+      "code": 3529122015,
+      "name": "Belluk Raja"
+    }
+  ]
+}

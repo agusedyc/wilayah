@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3301062001,
+      "name": "Sikampuh"
+    },
+    {
+      "code": 3301062002,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3301062003,
+      "name": "Ayamalas"
+    },
+    {
+      "code": 3301062004,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3301062005,
+      "name": "Kroya"
+    },
+    {
+      "code": 3301062006,
+      "name": "Karangmangu"
+    },
+    {
+      "code": 3301062007,
+      "name": "Pucung Kidul"
+    },
+    {
+      "code": 3301062008,
+      "name": "Mergawati"
+    },
+    {
+      "code": 3301062009,
+      "name": "Pucung Lor"
+    },
+    {
+      "code": 3301062010,
+      "name": "Bajing"
+    },
+    {
+      "code": 3301062011,
+      "name": "Gentasari"
+    },
+    {
+      "code": 3301062012,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3301062013,
+      "name": "Mujur"
+    },
+    {
+      "code": 3301062014,
+      "name": "Buntu"
+    },
+    {
+      "code": 3301062015,
+      "name": "Karangturi"
+    },
+    {
+      "code": 3301062016,
+      "name": "Bajing Kulon"
+    },
+    {
+      "code": 3301062017,
+      "name": "Mujur Lor"
+    }
+  ]
+}

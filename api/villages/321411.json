@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3214112001,
+      "name": "Bojong Barat"
+    },
+    {
+      "code": 3214112002,
+      "name": "Bojong Timur"
+    },
+    {
+      "code": 3214112003,
+      "name": "Cikeris"
+    },
+    {
+      "code": 3214112004,
+      "name": "Cihanjawar"
+    },
+    {
+      "code": 3214112005,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3214112006,
+      "name": "Cileunca"
+    },
+    {
+      "code": 3214112007,
+      "name": "Cibingbin"
+    },
+    {
+      "code": 3214112008,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3214112009,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 3214112010,
+      "name": "Pawenang"
+    },
+    {
+      "code": 3214112011,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3214112012,
+      "name": "Sindangpanon"
+    },
+    {
+      "code": 3214112013,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3214112014,
+      "name": "Pasanggrahan"
+    }
+  ]
+}

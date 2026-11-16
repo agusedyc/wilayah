@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8171041008,
+      "name": "Tihu"
+    },
+    {
+      "code": 8171042001,
+      "name": "Hunuth/Durian Patah"
+    },
+    {
+      "code": 8171042002,
+      "name": "Poka"
+    },
+    {
+      "code": 8171042003,
+      "name": "Rumah Tiga"
+    },
+    {
+      "code": 8171042004,
+      "name": "Wayame"
+    },
+    {
+      "code": 8171042005,
+      "name": "Tawiri"
+    },
+    {
+      "code": 8171042006,
+      "name": "Hative Besar"
+    },
+    {
+      "code": 8171042007,
+      "name": "Laha"
+    }
+  ]
+}

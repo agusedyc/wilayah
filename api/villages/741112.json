@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7411122001,
+      "name": "Gunung Jaya"
+    },
+    {
+      "code": 7411122002,
+      "name": "Lembah Subur"
+    },
+    {
+      "code": 7411122003,
+      "name": "Dangia"
+    },
+    {
+      "code": 7411122004,
+      "name": "Lamosila"
+    },
+    {
+      "code": 7411122005,
+      "name": "Tetewua"
+    },
+    {
+      "code": 7411122006,
+      "name": "Anambada"
+    },
+    {
+      "code": 7411122007,
+      "name": "Talinduka"
+    },
+    {
+      "code": 7411122008,
+      "name": "Tetembuta"
+    },
+    {
+      "code": 7411122009,
+      "name": "Lalongkateba"
+    },
+    {
+      "code": 7411122010,
+      "name": "Wande"
+    },
+    {
+      "code": 7411122011,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7411122012,
+      "name": "Mulia Jaya"
+    }
+  ]
+}

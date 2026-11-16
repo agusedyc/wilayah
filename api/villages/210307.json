@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2103071011,
+      "name": "Ranai Kota"
+    },
+    {
+      "code": 2103071016,
+      "name": "Ranai Darat"
+    },
+    {
+      "code": 2103071017,
+      "name": "Bandarsyah"
+    },
+    {
+      "code": 2103071019,
+      "name": "Batu Hitam"
+    },
+    {
+      "code": 2103072002,
+      "name": "Sungai Ulu"
+    },
+    {
+      "code": 2103072004,
+      "name": "Sepempang"
+    },
+    {
+      "code": 2103072014,
+      "name": "Batu Gajah"
+    }
+  ]
+}

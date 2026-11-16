@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1803222001,
+      "name": "Aji Kagungan"
+    },
+    {
+      "code": 1803222002,
+      "name": "Talang Jembatan"
+    },
+    {
+      "code": 1803222003,
+      "name": "Sabuk Empat"
+    },
+    {
+      "code": 1803222004,
+      "name": "Beringin"
+    },
+    {
+      "code": 1803222005,
+      "name": "Sabuk Indah"
+    },
+    {
+      "code": 1803222006,
+      "name": "Bindu"
+    },
+    {
+      "code": 1803222007,
+      "name": "Way Perancang"
+    }
+  ]
+}

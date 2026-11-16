@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3319062001,
+      "name": "Sadang"
+    },
+    {
+      "code": 3319062002,
+      "name": "Bulungcangkring"
+    },
+    {
+      "code": 3319062003,
+      "name": "Bulung Kulon"
+    },
+    {
+      "code": 3319062004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3319062005,
+      "name": "Gondoharum"
+    },
+    {
+      "code": 3319062006,
+      "name": "Terban"
+    },
+    {
+      "code": 3319062007,
+      "name": "Pladen"
+    },
+    {
+      "code": 3319062008,
+      "name": "Klaling"
+    },
+    {
+      "code": 3319062009,
+      "name": "Jekulo"
+    },
+    {
+      "code": 3319062010,
+      "name": "Hadipolo"
+    },
+    {
+      "code": 3319062011,
+      "name": "Honggosoco"
+    },
+    {
+      "code": 3319062012,
+      "name": "Tanjungrejo"
+    }
+  ]
+}

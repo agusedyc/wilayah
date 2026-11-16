@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1114072001,
+      "name": "Ujong Muloh"
+    },
+    {
+      "code": 1114072002,
+      "name": "Janguet"
+    },
+    {
+      "code": 1114072003,
+      "name": "Meunasah Rayeuk"
+    },
+    {
+      "code": 1114072004,
+      "name": "Mukhan"
+    },
+    {
+      "code": 1114072005,
+      "name": "Meunasah Teungoh"
+    },
+    {
+      "code": 1114072006,
+      "name": "Meunasah Tutong"
+    },
+    {
+      "code": 1114072007,
+      "name": "Babah Dua"
+    },
+    {
+      "code": 1114072008,
+      "name": "Alue Mie"
+    },
+    {
+      "code": 1114072009,
+      "name": "Teumareum"
+    },
+    {
+      "code": 1114072010,
+      "name": "Kuala"
+    },
+    {
+      "code": 1114072011,
+      "name": "Meudhang Ghon"
+    },
+    {
+      "code": 1114072012,
+      "name": "Kareung Ateuh"
+    },
+    {
+      "code": 1114072013,
+      "name": "Keude Unga"
+    },
+    {
+      "code": 1114072014,
+      "name": "Ceunamprong"
+    }
+  ]
+}

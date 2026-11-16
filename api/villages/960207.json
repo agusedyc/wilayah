@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9602072001,
+      "name": "Sungguer"
+    },
+    {
+      "code": 9602072002,
+      "name": "Unggi"
+    },
+    {
+      "code": 9602072003,
+      "name": "Boldon"
+    },
+    {
+      "code": 9602072004,
+      "name": "Sesor"
+    },
+    {
+      "code": 9602072005,
+      "name": "Waigo"
+    },
+    {
+      "code": 9602072006,
+      "name": "Bagaraga"
+    },
+    {
+      "code": 9602072007,
+      "name": "Wardik"
+    },
+    {
+      "code": 9602072008,
+      "name": "Wayer"
+    }
+  ]
+}

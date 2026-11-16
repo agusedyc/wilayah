@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5207072001,
+      "name": "Mura"
+    },
+    {
+      "code": 5207072002,
+      "name": "Kalimantong"
+    },
+    {
+      "code": 5207072003,
+      "name": "Lampok"
+    },
+    {
+      "code": 5207072004,
+      "name": "Manemeng"
+    },
+    {
+      "code": 5207072005,
+      "name": "Mujahiddin"
+    },
+    {
+      "code": 5207072006,
+      "name": "Mataiyang"
+    }
+  ]
+}

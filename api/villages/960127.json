@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9601272001,
+      "name": "Hobard"
+    },
+    {
+      "code": 9601272002,
+      "name": "Brianlo"
+    },
+    {
+      "code": 9601272003,
+      "name": "Floyi"
+    },
+    {
+      "code": 9601272004,
+      "name": "Klazelt"
+    },
+    {
+      "code": 9601272005,
+      "name": "Sfadon"
+    },
+    {
+      "code": 9601272006,
+      "name": "Selol"
+    },
+    {
+      "code": 9601272007,
+      "name": "Dais"
+    }
+  ]
+}

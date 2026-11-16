@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7202072001,
+      "name": "Dodolo"
+    },
+    {
+      "code": 7202072006,
+      "name": "Kaduwaa"
+    },
+    {
+      "code": 7202072007,
+      "name": "Watumaeta"
+    },
+    {
+      "code": 7202072008,
+      "name": "Sedoa"
+    },
+    {
+      "code": 7202072009,
+      "name": "Alitupu"
+    },
+    {
+      "code": 7202072014,
+      "name": "Wuasa"
+    },
+    {
+      "code": 7202072016,
+      "name": "Bumi Banyusari"
+    }
+  ]
+}

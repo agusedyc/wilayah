@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6206092001,
+      "name": "Mendawai"
+    },
+    {
+      "code": 6206092002,
+      "name": "Teluk Sebulu"
+    },
+    {
+      "code": 6206092003,
+      "name": "Kampung Melayu"
+    },
+    {
+      "code": 6206092004,
+      "name": "Tewang Kampung"
+    },
+    {
+      "code": 6206092005,
+      "name": "Perigi"
+    },
+    {
+      "code": 6206092006,
+      "name": "Mekar Tani"
+    },
+    {
+      "code": 6206092007,
+      "name": "Tumbang Bulan"
+    }
+  ]
+}

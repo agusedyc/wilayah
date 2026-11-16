@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7105072001,
+      "name": "Motoling"
+    },
+    {
+      "code": 7105072002,
+      "name": "Motoling Mawale"
+    },
+    {
+      "code": 7105072003,
+      "name": "Motoling I"
+    },
+    {
+      "code": 7105072004,
+      "name": "Motoling II"
+    },
+    {
+      "code": 7105072005,
+      "name": "Picuan Baru"
+    },
+    {
+      "code": 7105072015,
+      "name": "Lalumpe"
+    },
+    {
+      "code": 7105072021,
+      "name": "Raanan Lama"
+    }
+  ]
+}

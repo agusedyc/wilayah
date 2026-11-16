@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3517182001,
+      "name": "Bandarkedungmulyo"
+    },
+    {
+      "code": 3517182002,
+      "name": "Mojokambang"
+    },
+    {
+      "code": 3517182003,
+      "name": "Barongsawahan"
+    },
+    {
+      "code": 3517182004,
+      "name": "Kayen"
+    },
+    {
+      "code": 3517182005,
+      "name": "Gondangmanis"
+    },
+    {
+      "code": 3517182006,
+      "name": "Brodot"
+    },
+    {
+      "code": 3517182007,
+      "name": "Pucangsimo"
+    },
+    {
+      "code": 3517182008,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3517182009,
+      "name": "Brangkal"
+    },
+    {
+      "code": 3517182010,
+      "name": "Karangdagangan"
+    },
+    {
+      "code": 3517182011,
+      "name": "Tinggar"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3210022002,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3210022008,
+      "name": "Cimangguhilir"
+    },
+    {
+      "code": 3210022009,
+      "name": "Salawangi"
+    },
+    {
+      "code": 3210022010,
+      "name": "Bantarujeg"
+    },
+    {
+      "code": 3210022011,
+      "name": "Gununglarang"
+    },
+    {
+      "code": 3210022012,
+      "name": "Cikidang"
+    },
+    {
+      "code": 3210022013,
+      "name": "Cinambo"
+    },
+    {
+      "code": 3210022014,
+      "name": "Haurgeulis"
+    },
+    {
+      "code": 3210022015,
+      "name": "Sukamenak"
+    },
+    {
+      "code": 3210022016,
+      "name": "Wadowetan"
+    },
+    {
+      "code": 3210022017,
+      "name": "Babakansari"
+    },
+    {
+      "code": 3210022018,
+      "name": "Silihwangi"
+    },
+    {
+      "code": 3210022022,
+      "name": "Sindanghurip"
+    }
+  ]
+}

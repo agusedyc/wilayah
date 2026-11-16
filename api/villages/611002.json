@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6110022001,
+      "name": "Tanjung Niaga"
+    },
+    {
+      "code": 6110022002,
+      "name": "Paal"
+    },
+    {
+      "code": 6110022003,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 6110022004,
+      "name": "Tembawang Panjang"
+    },
+    {
+      "code": 6110022005,
+      "name": "Poring"
+    },
+    {
+      "code": 6110022007,
+      "name": "Nanga Kebebu"
+    },
+    {
+      "code": 6110022008,
+      "name": "Nanga Kayan"
+    },
+    {
+      "code": 6110022013,
+      "name": "Baru"
+    },
+    {
+      "code": 6110022021,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 6110022023,
+      "name": "Tanjung Lay"
+    },
+    {
+      "code": 6110022024,
+      "name": "Labai Mandiri"
+    },
+    {
+      "code": 6110022026,
+      "name": "Nusa Pandau"
+    },
+    {
+      "code": 6110022032,
+      "name": "Kelakik"
+    },
+    {
+      "code": 6110022033,
+      "name": "Semadin Lengkong"
+    },
+    {
+      "code": 6110022038,
+      "name": "Tebing Karangan"
+    },
+    {
+      "code": 6110022040,
+      "name": "Kenual"
+    },
+    {
+      "code": 6110022042,
+      "name": "Tanjung Tengang"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3674061001,
+      "name": "Pamulang Barat"
+    },
+    {
+      "code": 3674061002,
+      "name": "Benda Baru"
+    },
+    {
+      "code": 3674061003,
+      "name": "Pondok Benda"
+    },
+    {
+      "code": 3674061004,
+      "name": "Pondok Cabe Udik"
+    },
+    {
+      "code": 3674061005,
+      "name": "Pondok Cabe Ilir"
+    },
+    {
+      "code": 3674061006,
+      "name": "Kedaung"
+    },
+    {
+      "code": 3674061007,
+      "name": "Bambu Apus"
+    },
+    {
+      "code": 3674061008,
+      "name": "Pamulang Timur"
+    }
+  ]
+}

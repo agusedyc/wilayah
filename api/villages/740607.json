@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7406072001,
+      "name": "Babamolingku"
+    },
+    {
+      "code": 7406072002,
+      "name": "Toari Bombana"
+    },
+    {
+      "code": 7406072003,
+      "name": "Timbala"
+    },
+    {
+      "code": 7406072004,
+      "name": "Ranokomea"
+    },
+    {
+      "code": 7406072005,
+      "name": "Rakadua"
+    },
+    {
+      "code": 7406072006,
+      "name": "Lameo-meong"
+    },
+    {
+      "code": 7406072007,
+      "name": "Pabiring"
+    },
+    {
+      "code": 7406072008,
+      "name": "Balasari"
+    },
+    {
+      "code": 7406072009,
+      "name": "Bulumanai"
+    },
+    {
+      "code": 7406072010,
+      "name": "Matabundu"
+    },
+    {
+      "code": 7406072011,
+      "name": "Analere"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7212011001,
+      "name": "Kolonodale"
+    },
+    {
+      "code": 7212011002,
+      "name": "Bahontula"
+    },
+    {
+      "code": 7212011003,
+      "name": "Bahoue"
+    },
+    {
+      "code": 7212012004,
+      "name": "Ganda-Ganda"
+    },
+    {
+      "code": 7212012005,
+      "name": "Koya"
+    },
+    {
+      "code": 7212012006,
+      "name": "Gililana"
+    },
+    {
+      "code": 7212012007,
+      "name": "Tanauge"
+    },
+    {
+      "code": 7212012008,
+      "name": "Korololaki"
+    },
+    {
+      "code": 7212012009,
+      "name": "Korololama"
+    },
+    {
+      "code": 7212012010,
+      "name": "Koromatantu"
+    }
+  ]
+}

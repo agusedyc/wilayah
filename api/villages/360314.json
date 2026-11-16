@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3603141001,
+      "name": "Kosambi Barat"
+    },
+    {
+      "code": 3603141003,
+      "name": "Salembaran Jaya"
+    },
+    {
+      "code": 3603141010,
+      "name": "Dadap"
+    },
+    {
+      "code": 3603142002,
+      "name": "Kosambi Timur"
+    },
+    {
+      "code": 3603142004,
+      "name": "Salembaran Jati"
+    },
+    {
+      "code": 3603142005,
+      "name": "Rawa Rengas"
+    },
+    {
+      "code": 3603142006,
+      "name": "Rawa Burung"
+    },
+    {
+      "code": 3603142007,
+      "name": "Cengklong"
+    },
+    {
+      "code": 3603142008,
+      "name": "Belimbing"
+    },
+    {
+      "code": 3603142009,
+      "name": "Jati Mulya"
+    }
+  ]
+}

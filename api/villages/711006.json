@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7110062001,
+      "name": "Motongkad Utara"
+    },
+    {
+      "code": 7110062002,
+      "name": "Motongkad"
+    },
+    {
+      "code": 7110062003,
+      "name": "Motongkad Selatan"
+    },
+    {
+      "code": 7110062004,
+      "name": "Atoga"
+    },
+    {
+      "code": 7110062005,
+      "name": "Atoga Timur"
+    },
+    {
+      "code": 7110062006,
+      "name": "Motongkad Tengah"
+    },
+    {
+      "code": 7110062007,
+      "name": "Molobog"
+    },
+    {
+      "code": 7110062008,
+      "name": "Molobog Barat"
+    },
+    {
+      "code": 7110062009,
+      "name": "Jiko"
+    },
+    {
+      "code": 7110062010,
+      "name": "Jiko Utara"
+    },
+    {
+      "code": 7110062011,
+      "name": "Molobog Timur"
+    }
+  ]
+}

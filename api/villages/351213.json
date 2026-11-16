@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3512132001,
+      "name": "Kedunglo"
+    },
+    {
+      "code": 3512132002,
+      "name": "Bantal"
+    },
+    {
+      "code": 3512132003,
+      "name": "Awar-awar"
+    },
+    {
+      "code": 3512132004,
+      "name": "Perante"
+    },
+    {
+      "code": 3512132005,
+      "name": "Trigonco"
+    },
+    {
+      "code": 3512132006,
+      "name": "Kertosari"
+    },
+    {
+      "code": 3512132007,
+      "name": "Mojosari"
+    },
+    {
+      "code": 3512132008,
+      "name": "Asembagus"
+    },
+    {
+      "code": 3512132009,
+      "name": "Gudang"
+    },
+    {
+      "code": 3512132010,
+      "name": "Wringin Anom"
+    }
+  ]
+}

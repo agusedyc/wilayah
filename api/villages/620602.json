@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6206021003,
+      "name": "Kasongan Baru"
+    },
+    {
+      "code": 6206021004,
+      "name": "Kasongan Lama"
+    },
+    {
+      "code": 6206022001,
+      "name": "Tewang Kadamba"
+    },
+    {
+      "code": 6206022002,
+      "name": "Tumbang Liting"
+    },
+    {
+      "code": 6206022005,
+      "name": "Talian Kereng"
+    },
+    {
+      "code": 6206022006,
+      "name": "Banut Kalanaman"
+    },
+    {
+      "code": 6206022007,
+      "name": "Talangkah"
+    },
+    {
+      "code": 6206022008,
+      "name": "Hampalit"
+    }
+  ]
+}

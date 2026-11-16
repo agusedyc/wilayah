@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3218062001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3218062002,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3218062003,
+      "name": "Mangunjaya"
+    },
+    {
+      "code": 3218062004,
+      "name": "Sindangjaya"
+    },
+    {
+      "code": 3218062005,
+      "name": "Jangraga"
+    }
+  ]
+}

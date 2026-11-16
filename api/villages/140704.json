@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1407041001,
+      "name": "Rimba Melintang"
+    },
+    {
+      "code": 1407042002,
+      "name": "Jumrah"
+    },
+    {
+      "code": 1407042003,
+      "name": "Telukpulau Hilir"
+    },
+    {
+      "code": 1407042004,
+      "name": "Telukpulau Hulu"
+    },
+    {
+      "code": 1407042005,
+      "name": "Langgadai Hulu"
+    },
+    {
+      "code": 1407042006,
+      "name": "Lenggadai Hilir"
+    },
+    {
+      "code": 1407042007,
+      "name": "Mukti Jaya"
+    },
+    {
+      "code": 1407042008,
+      "name": "Karya Mukti"
+    },
+    {
+      "code": 1407042009,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 1407042010,
+      "name": "Seremban Jaya"
+    },
+    {
+      "code": 1407042011,
+      "name": "Pematang Botam"
+    },
+    {
+      "code": 1407042012,
+      "name": "Pematang Sikek"
+    }
+  ]
+}

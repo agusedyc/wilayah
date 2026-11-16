@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1404121006,
+      "name": "Kuala Lahang"
+    },
+    {
+      "code": 1404122001,
+      "name": "Terusan Kempas"
+    },
+    {
+      "code": 1404122002,
+      "name": "Lahang Baru"
+    },
+    {
+      "code": 1404122003,
+      "name": "Simpang Gaung"
+    },
+    {
+      "code": 1404122004,
+      "name": "Belantaraya"
+    },
+    {
+      "code": 1404122005,
+      "name": "Sungaibaru"
+    },
+    {
+      "code": 1404122007,
+      "name": "Lahang Tengah"
+    },
+    {
+      "code": 1404122008,
+      "name": "Lahang Hulu"
+    },
+    {
+      "code": 1404122009,
+      "name": "Pungkat"
+    },
+    {
+      "code": 1404122010,
+      "name": "Jerambang"
+    },
+    {
+      "code": 1404122011,
+      "name": "Telukkabung"
+    },
+    {
+      "code": 1404122012,
+      "name": "Gembira"
+    },
+    {
+      "code": 1404122013,
+      "name": "Semambu Kuning"
+    },
+    {
+      "code": 1404122014,
+      "name": "Telukmerbau"
+    },
+    {
+      "code": 1404122015,
+      "name": "Soren"
+    },
+    {
+      "code": 1404122016,
+      "name": "Pintasan"
+    }
+  ]
+}

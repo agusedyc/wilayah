@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2105061005,
+      "name": "Letung"
+    },
+    {
+      "code": 2105062001,
+      "name": "Mampok"
+    },
+    {
+      "code": 2105062002,
+      "name": "Rewak"
+    },
+    {
+      "code": 2105062006,
+      "name": "Air Biru"
+    },
+    {
+      "code": 2105062008,
+      "name": "Batu Berapit"
+    },
+    {
+      "code": 2105062009,
+      "name": "Landak"
+    }
+  ]
+}

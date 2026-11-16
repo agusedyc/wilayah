@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5314051009,
+      "name": "Olafulihaa"
+    },
+    {
+      "code": 5314052001,
+      "name": "Nusakdale"
+    },
+    {
+      "code": 5314052002,
+      "name": "Batulilok"
+    },
+    {
+      "code": 5314052003,
+      "name": "Lenupetu"
+    },
+    {
+      "code": 5314052004,
+      "name": "Sonimanu"
+    },
+    {
+      "code": 5314052005,
+      "name": "Oebau"
+    },
+    {
+      "code": 5314052006,
+      "name": "Oeledo"
+    },
+    {
+      "code": 5314052007,
+      "name": "Keoen"
+    },
+    {
+      "code": 5314052008,
+      "name": "Edalode"
+    },
+    {
+      "code": 5314052010,
+      "name": "Tungganamo"
+    },
+    {
+      "code": 5314052011,
+      "name": "Tesa Bela"
+    },
+    {
+      "code": 5314052012,
+      "name": "Lekona"
+    },
+    {
+      "code": 5314052013,
+      "name": "Oenggae"
+    },
+    {
+      "code": 5314052014,
+      "name": "Fatelilo"
+    },
+    {
+      "code": 5314052015,
+      "name": "Ofalangga"
+    }
+  ]
+}

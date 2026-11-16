@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3215162001,
+      "name": "Citarik"
+    },
+    {
+      "code": 3215162002,
+      "name": "Karangsinom"
+    },
+    {
+      "code": 3215162003,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3215162004,
+      "name": "Parakan"
+    },
+    {
+      "code": 3215162005,
+      "name": "Parakanmulya"
+    },
+    {
+      "code": 3215162006,
+      "name": "Kamurang"
+    },
+    {
+      "code": 3215162007,
+      "name": "Cipondoh"
+    },
+    {
+      "code": 3215162008,
+      "name": "Kertawaluya"
+    },
+    {
+      "code": 3215162009,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3215162010,
+      "name": "Tirtasari"
+    }
+  ]
+}

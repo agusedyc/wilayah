@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7322062001,
+      "name": "Lampuawa"
+    },
+    {
+      "code": 7322062002,
+      "name": "Ketulungan"
+    },
+    {
+      "code": 7322062003,
+      "name": "Salulemo"
+    },
+    {
+      "code": 7322062004,
+      "name": "Kaluku"
+    },
+    {
+      "code": 7322062005,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 7322062006,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 7322062010,
+      "name": "Tamboke"
+    },
+    {
+      "code": 7322062013,
+      "name": "Tolangi"
+    },
+    {
+      "code": 7322062014,
+      "name": "Tulung Indah"
+    },
+    {
+      "code": 7322062019,
+      "name": "Minanga Tallu"
+    },
+    {
+      "code": 7322062020,
+      "name": "Wonosari"
+    },
+    {
+      "code": 7322062021,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 7322062022,
+      "name": "Saptamarga"
+    },
+    {
+      "code": 7322062024,
+      "name": "Tulung Sari"
+    }
+  ]
+}

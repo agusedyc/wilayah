@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3203092001,
+      "name": "Selajambe"
+    },
+    {
+      "code": 3203092002,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203092003,
+      "name": "Panyusuhan"
+    },
+    {
+      "code": 3203092004,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3203092005,
+      "name": "Sindangraja"
+    },
+    {
+      "code": 3203092006,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3203092007,
+      "name": "Sukasirna"
+    },
+    {
+      "code": 3203092008,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3203092009,
+      "name": "Babakansari"
+    },
+    {
+      "code": 3203092010,
+      "name": "Hegarmanah"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601052001,
+      "name": "Karangbolong"
+    },
+    {
+      "code": 3601052002,
+      "name": "Katumbiri"
+    },
+    {
+      "code": 3601052003,
+      "name": "Waringinjaya"
+    },
+    {
+      "code": 3601052004,
+      "name": "Karyabuana"
+    },
+    {
+      "code": 3601052005,
+      "name": "Tarumanagara"
+    },
+    {
+      "code": 3601052006,
+      "name": "Ciseureuheun"
+    },
+    {
+      "code": 3601052007,
+      "name": "Banyuasih"
+    },
+    {
+      "code": 3601052009,
+      "name": "Cigeulis"
+    },
+    {
+      "code": 3601052010,
+      "name": "Sinarjaya"
+    }
+  ]
+}

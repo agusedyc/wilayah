@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6112042002,
+      "name": "Teluk Empening"
+    },
+    {
+      "code": 6112042003,
+      "name": "Terentang Hilir"
+    },
+    {
+      "code": 6112042004,
+      "name": "Terentang Hulu"
+    },
+    {
+      "code": 6112042005,
+      "name": "Permata"
+    },
+    {
+      "code": 6112042006,
+      "name": "Betuah"
+    },
+    {
+      "code": 6112042007,
+      "name": "Sungai Radak Satu"
+    },
+    {
+      "code": 6112042008,
+      "name": "Sungai Radak Dua"
+    },
+    {
+      "code": 6112042009,
+      "name": "Sungai Dungun"
+    },
+    {
+      "code": 6112042010,
+      "name": "Teluk Bayur"
+    },
+    {
+      "code": 6112042011,
+      "name": "Radak Baru"
+    }
+  ]
+}

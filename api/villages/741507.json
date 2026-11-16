@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7415072001,
+      "name": "Waonu"
+    },
+    {
+      "code": 7415072002,
+      "name": "Kaofe"
+    },
+    {
+      "code": 7415072003,
+      "name": "Uwemaasi"
+    },
+    {
+      "code": 7415072004,
+      "name": "Lipu"
+    },
+    {
+      "code": 7415072005,
+      "name": "Kapoa"
+    },
+    {
+      "code": 7415072006,
+      "name": "Banabungi"
+    },
+    {
+      "code": 7415072007,
+      "name": "Mawambunga"
+    },
+    {
+      "code": 7415072008,
+      "name": "Banabungi Selatan"
+    },
+    {
+      "code": 7415072009,
+      "name": "Marawali"
+    },
+    {
+      "code": 7415072010,
+      "name": "Kapoa Barat"
+    }
+  ]
+}

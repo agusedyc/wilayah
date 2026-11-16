@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3213132001,
+      "name": "Tanjungtiga"
+    },
+    {
+      "code": 3213132002,
+      "name": "Muara"
+    },
+    {
+      "code": 3213132003,
+      "name": "Blanakan"
+    },
+    {
+      "code": 3213132004,
+      "name": "Rawameneng"
+    },
+    {
+      "code": 3213132005,
+      "name": "Cilamayagirang"
+    },
+    {
+      "code": 3213132006,
+      "name": "Jayamukti"
+    },
+    {
+      "code": 3213132007,
+      "name": "Cilamayahilir"
+    },
+    {
+      "code": 3213132008,
+      "name": "Rawamekar"
+    },
+    {
+      "code": 3213132009,
+      "name": "Langensari"
+    }
+  ]
+}

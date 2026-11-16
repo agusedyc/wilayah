@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3319082001,
+      "name": "Gribig"
+    },
+    {
+      "code": 3319082002,
+      "name": "Klumpit"
+    },
+    {
+      "code": 3319082003,
+      "name": "Getassrabi"
+    },
+    {
+      "code": 3319082004,
+      "name": "Padurenan"
+    },
+    {
+      "code": 3319082005,
+      "name": "Karangmalang"
+    },
+    {
+      "code": 3319082006,
+      "name": "Besito"
+    },
+    {
+      "code": 3319082007,
+      "name": "Jurang"
+    },
+    {
+      "code": 3319082008,
+      "name": "Gondosari"
+    },
+    {
+      "code": 3319082009,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3319082010,
+      "name": "Menawan"
+    },
+    {
+      "code": 3319082011,
+      "name": "Rahtawu"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5310061026,
+      "name": "Pagal"
+    },
+    {
+      "code": 5310062001,
+      "name": "Nenu"
+    },
+    {
+      "code": 5310062002,
+      "name": "Rado"
+    },
+    {
+      "code": 5310062006,
+      "name": "Wudi"
+    },
+    {
+      "code": 5310062007,
+      "name": "Welu"
+    },
+    {
+      "code": 5310062008,
+      "name": "Golo"
+    },
+    {
+      "code": 5310062009,
+      "name": "Barang"
+    },
+    {
+      "code": 5310062010,
+      "name": "Perak"
+    },
+    {
+      "code": 5310062011,
+      "name": "Bea Mese"
+    },
+    {
+      "code": 5310062012,
+      "name": "Langkas"
+    },
+    {
+      "code": 5310062013,
+      "name": "Ladur"
+    },
+    {
+      "code": 5310062014,
+      "name": "Kentol"
+    },
+    {
+      "code": 5310062015,
+      "name": "Riung"
+    },
+    {
+      "code": 5310062022,
+      "name": "Pinggang"
+    },
+    {
+      "code": 5310062024,
+      "name": "Lando"
+    },
+    {
+      "code": 5310062025,
+      "name": "Gapong"
+    },
+    {
+      "code": 5310062027,
+      "name": "Golo Ncuang"
+    }
+  ]
+}

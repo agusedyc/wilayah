@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7401141001,
+      "name": "Mangolo"
+    },
+    {
+      "code": 7401141002,
+      "name": "Kolakaasi"
+    },
+    {
+      "code": 7401141003,
+      "name": "Sea"
+    },
+    {
+      "code": 7401141004,
+      "name": "Latambaga"
+    },
+    {
+      "code": 7401141005,
+      "name": "Sakuli"
+    },
+    {
+      "code": 7401141006,
+      "name": "Induha"
+    },
+    {
+      "code": 7401141007,
+      "name": "Ulunggolaka"
+    }
+  ]
+}

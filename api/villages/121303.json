@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1213031002,
+      "name": "Gunung Baringin"
+    },
+    {
+      "code": 1213032001,
+      "name": "Aek Nabara"
+    },
+    {
+      "code": 1213032003,
+      "name": "Hutaimbaru"
+    },
+    {
+      "code": 1213032004,
+      "name": "Huta Bangun"
+    },
+    {
+      "code": 1213032005,
+      "name": "Huta Tinggi"
+    },
+    {
+      "code": 1213032006,
+      "name": "Pagur"
+    },
+    {
+      "code": 1213032007,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1213032008,
+      "name": "Parmompang"
+    },
+    {
+      "code": 1213032009,
+      "name": "Ranto Natas"
+    },
+    {
+      "code": 1213032010,
+      "name": "Sirangkap"
+    },
+    {
+      "code": 1213032011,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1213032012,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 1213032013,
+      "name": "Tanjung Julu"
+    },
+    {
+      "code": 1213032014,
+      "name": "Banjar Lancat"
+    },
+    {
+      "code": 1213032015,
+      "name": "Padang Laru"
+    }
+  ]
+}

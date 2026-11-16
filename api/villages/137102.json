@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1371021001,
+      "name": "Sawahan"
+    },
+    {
+      "code": 1371021002,
+      "name": "Jati Baru"
+    },
+    {
+      "code": 1371021003,
+      "name": "Jati"
+    },
+    {
+      "code": 1371021004,
+      "name": "Sawahan Timur"
+    },
+    {
+      "code": 1371021005,
+      "name": "Simpang Haru"
+    },
+    {
+      "code": 1371021006,
+      "name": "Kubu Marapalam"
+    },
+    {
+      "code": 1371021007,
+      "name": "Andalas"
+    },
+    {
+      "code": 1371021008,
+      "name": "Kubu Dalam Parak Karakah"
+    },
+    {
+      "code": 1371021009,
+      "name": "Parak Gadang Timur"
+    },
+    {
+      "code": 1371021010,
+      "name": "Ganting Parak Gadang"
+    }
+  ]
+}

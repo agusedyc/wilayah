@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3374071001,
+      "name": "Randusari"
+    },
+    {
+      "code": 3374071002,
+      "name": "Bulustalan"
+    },
+    {
+      "code": 3374071003,
+      "name": "Barusari"
+    },
+    {
+      "code": 3374071004,
+      "name": "Mugasari"
+    },
+    {
+      "code": 3374071005,
+      "name": "Pleburan"
+    },
+    {
+      "code": 3374071006,
+      "name": "Wonodri"
+    },
+    {
+      "code": 3374071007,
+      "name": "Peterongan"
+    },
+    {
+      "code": 3374071008,
+      "name": "Lamper Lor"
+    },
+    {
+      "code": 3374071009,
+      "name": "Lamper Kidul"
+    },
+    {
+      "code": 3374071010,
+      "name": "Lamper Tengah"
+    }
+  ]
+}

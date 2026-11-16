@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504442001,
+      "name": "Wiyaluk"
+    },
+    {
+      "code": 9504442002,
+      "name": "Aburage"
+    },
+    {
+      "code": 9504442003,
+      "name": "Kogoyapura"
+    },
+    {
+      "code": 9504442004,
+      "name": "Erimbur"
+    },
+    {
+      "code": 9504442005,
+      "name": "Leragawi/Megagirakuk"
+    },
+    {
+      "code": 9504442006,
+      "name": "Longgoboma"
+    },
+    {
+      "code": 9504442007,
+      "name": "Tingwi"
+    },
+    {
+      "code": 9504442008,
+      "name": "Gubura"
+    },
+    {
+      "code": 9504442009,
+      "name": "Lubuk"
+    },
+    {
+      "code": 9504442010,
+      "name": "Bogome"
+    }
+  ]
+}

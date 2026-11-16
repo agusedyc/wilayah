@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1806282001,
+      "name": "Lengkukai"
+    },
+    {
+      "code": 1806282002,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 1806282003,
+      "name": "Merbau"
+    },
+    {
+      "code": 1806282004,
+      "name": "Batu Patah"
+    },
+    {
+      "code": 1806282005,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1806282006,
+      "name": "Marga Mulya"
+    }
+  ]
+}

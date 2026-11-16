@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1812092001,
+      "name": "Panca Marga"
+    },
+    {
+      "code": 1812092002,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 1812092003,
+      "name": "Sakti Jaya"
+    },
+    {
+      "code": 1812092004,
+      "name": "Margo Mulya"
+    },
+    {
+      "code": 1812092005,
+      "name": "Margo Dadi"
+    },
+    {
+      "code": 1812092006,
+      "name": "Marga Sari"
+    },
+    {
+      "code": 1812092007,
+      "name": "Mulyo Sari"
+    },
+    {
+      "code": 1812092008,
+      "name": "Toto Katon"
+    },
+    {
+      "code": 1812092009,
+      "name": "Toto Makmur"
+    },
+    {
+      "code": 1812092010,
+      "name": "Toto Wonodadi"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7201172001,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 7201172002,
+      "name": "Rantau Jaya"
+    },
+    {
+      "code": 7201172003,
+      "name": "Koninis"
+    },
+    {
+      "code": 7201172004,
+      "name": "Gonohop"
+    },
+    {
+      "code": 7201172005,
+      "name": "Sumber Mulia"
+    },
+    {
+      "code": 7201172006,
+      "name": "Doda Bunta"
+    },
+    {
+      "code": 7201172007,
+      "name": "Simpang Satu"
+    },
+    {
+      "code": 7201172008,
+      "name": "Simpang Dua"
+    },
+    {
+      "code": 7201172009,
+      "name": "Dowiwi"
+    },
+    {
+      "code": 7201172010,
+      "name": "Mantan A"
+    },
+    {
+      "code": 7201172011,
+      "name": "Dwipa Karya"
+    },
+    {
+      "code": 7201172012,
+      "name": "Lokait"
+    }
+  ]
+}

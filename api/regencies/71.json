@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 regencies",
+  "data": [
+    {
+      "code": 7101,
+      "name": "Kabupaten Bolaang Mongondow"
+    },
+    {
+      "code": 7102,
+      "name": "Kabupaten Minahasa"
+    },
+    {
+      "code": 7103,
+      "name": "Kabupaten Kepulauan Sangihe"
+    },
+    {
+      "code": 7104,
+      "name": "Kabupaten Kepulauan Talaud"
+    },
+    {
+      "code": 7105,
+      "name": "Kabupaten Minahasa Selatan"
+    },
+    {
+      "code": 7106,
+      "name": "Kabupaten Minahasa Utara"
+    },
+    {
+      "code": 7107,
+      "name": "Kabupaten Minahasa Tenggara"
+    },
+    {
+      "code": 7108,
+      "name": "Kabupaten Bolaang Mongondow Utara"
+    },
+    {
+      "code": 7109,
+      "name": "Kabupaten Kepulauan Siau Tagulandang Biaro"
+    },
+    {
+      "code": 7110,
+      "name": "Kabupaten Bolaang Mongondow Timur"
+    },
+    {
+      "code": 7111,
+      "name": "Kabupaten Bolaang Mongondow Selatan"
+    },
+    {
+      "code": 7171,
+      "name": "Kota Manado"
+    },
+    {
+      "code": 7172,
+      "name": "Kota Bitung"
+    },
+    {
+      "code": 7173,
+      "name": "Kota Tomohon"
+    },
+    {
+      "code": 7174,
+      "name": "Kota Kotamobagu"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3304152001,
+      "name": "Kalilunjar"
+    },
+    {
+      "code": 3304152002,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3304152003,
+      "name": "Sarwodadi"
+    },
+    {
+      "code": 3304152004,
+      "name": "Grogol"
+    },
+    {
+      "code": 3304152005,
+      "name": "Giritirta"
+    },
+    {
+      "code": 3304152006,
+      "name": "Biting"
+    },
+    {
+      "code": 3304152007,
+      "name": "Tlahab"
+    },
+    {
+      "code": 3304152008,
+      "name": "Darmayasa"
+    },
+    {
+      "code": 3304152009,
+      "name": "Pejawaran"
+    },
+    {
+      "code": 3304152010,
+      "name": "Penusupan"
+    },
+    {
+      "code": 3304152011,
+      "name": "Ratamba"
+    },
+    {
+      "code": 3304152012,
+      "name": "Sidengok"
+    },
+    {
+      "code": 3304152013,
+      "name": "Pegundungan"
+    },
+    {
+      "code": 3304152014,
+      "name": "Beji"
+    },
+    {
+      "code": 3304152015,
+      "name": "Semangkung"
+    },
+    {
+      "code": 3304152016,
+      "name": "Condongcampur"
+    },
+    {
+      "code": 3304152017,
+      "name": "Gembol"
+    }
+  ]
+}

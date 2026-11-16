@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3322032001,
+      "name": "Badran"
+    },
+    {
+      "code": 3322032002,
+      "name": "Timpik"
+    },
+    {
+      "code": 3322032003,
+      "name": "Tawang"
+    },
+    {
+      "code": 3322032004,
+      "name": "Bakalrejo"
+    },
+    {
+      "code": 3322032005,
+      "name": "Ketapang"
+    },
+    {
+      "code": 3322032006,
+      "name": "Susukan"
+    },
+    {
+      "code": 3322032007,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3322032008,
+      "name": "Gentan"
+    },
+    {
+      "code": 3322032009,
+      "name": "Muncar"
+    },
+    {
+      "code": 3322032010,
+      "name": "Ngasinan"
+    },
+    {
+      "code": 3322032011,
+      "name": "Koripan"
+    },
+    {
+      "code": 3322032012,
+      "name": "Kenteng"
+    },
+    {
+      "code": 3322032013,
+      "name": "Kemetul"
+    }
+  ]
+}

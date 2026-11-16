@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9405112001,
+      "name": "Puluk"
+    },
+    {
+      "code": 9405112002,
+      "name": "Kelandiruma"
+    },
+    {
+      "code": 9405112003,
+      "name": "Pupet"
+    },
+    {
+      "code": 9405112004,
+      "name": "Pilokoma"
+    },
+    {
+      "code": 9405112005,
+      "name": "Gimurik"
+    },
+    {
+      "code": 9405112006,
+      "name": "Wandibet"
+    },
+    {
+      "code": 9405112007,
+      "name": "Meningimte"
+    },
+    {
+      "code": 9405112008,
+      "name": "Bungok"
+    }
+  ]
+}

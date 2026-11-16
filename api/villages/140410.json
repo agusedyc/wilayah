@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1404101001,
+      "name": "Kuala Enok"
+    },
+    {
+      "code": 1404102002,
+      "name": "Selatnama"
+    },
+    {
+      "code": 1404102003,
+      "name": "Sungainyiur"
+    },
+    {
+      "code": 1404102004,
+      "name": "Tanjungbaru"
+    },
+    {
+      "code": 1404102005,
+      "name": "Tekulai Hilir"
+    },
+    {
+      "code": 1404102006,
+      "name": "Tekulai Hulu"
+    },
+    {
+      "code": 1404102007,
+      "name": "Tekulai Bugis"
+    },
+    {
+      "code": 1404102008,
+      "name": "Tanjungpasir"
+    },
+    {
+      "code": 1404102009,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 1404102010,
+      "name": "Sungailaut"
+    }
+  ]
+}

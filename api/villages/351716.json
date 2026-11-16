@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3517162001,
+      "name": "Marmoyo"
+    },
+    {
+      "code": 3517162002,
+      "name": "Tanjungwadung"
+    },
+    {
+      "code": 3517162003,
+      "name": "Mangunan"
+    },
+    {
+      "code": 3517162004,
+      "name": "Kabuh"
+    },
+    {
+      "code": 3517162005,
+      "name": "Kedungjati"
+    },
+    {
+      "code": 3517162006,
+      "name": "Banjardowo"
+    },
+    {
+      "code": 3517162007,
+      "name": "Karangpakis"
+    },
+    {
+      "code": 3517162008,
+      "name": "Sumberingin"
+    },
+    {
+      "code": 3517162009,
+      "name": "Sumbergondang"
+    },
+    {
+      "code": 3517162010,
+      "name": "Kauman"
+    },
+    {
+      "code": 3517162011,
+      "name": "Munungkerep"
+    },
+    {
+      "code": 3517162012,
+      "name": "Genenganjasem"
+    },
+    {
+      "code": 3517162013,
+      "name": "Manduro"
+    },
+    {
+      "code": 3517162014,
+      "name": "Sukodadi"
+    },
+    {
+      "code": 3517162015,
+      "name": "Pengampon"
+    },
+    {
+      "code": 3517162016,
+      "name": "Sumberaji"
+    }
+  ]
+}

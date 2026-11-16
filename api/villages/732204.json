@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7322041012,
+      "name": "Marobo"
+    },
+    {
+      "code": 7322042002,
+      "name": "Sabbang"
+    },
+    {
+      "code": 7322042003,
+      "name": "Pararra"
+    },
+    {
+      "code": 7322042004,
+      "name": "Tandung"
+    },
+    {
+      "code": 7322042007,
+      "name": "Malimbu"
+    },
+    {
+      "code": 7322042008,
+      "name": "Tullak Tallu"
+    },
+    {
+      "code": 7322042009,
+      "name": "Bakka"
+    },
+    {
+      "code": 7322042014,
+      "name": "Buntu Torpedo"
+    },
+    {
+      "code": 7322042018,
+      "name": "Pengkendekan"
+    },
+    {
+      "code": 7322042020,
+      "name": "Salama"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7208122001,
+      "name": "Kayu Agung"
+    },
+    {
+      "code": 7208122002,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 7208122003,
+      "name": "Kotaraya"
+    },
+    {
+      "code": 7208122004,
+      "name": "Mepanga"
+    },
+    {
+      "code": 7208122005,
+      "name": "Ogotion"
+    },
+    {
+      "code": 7208122006,
+      "name": "Mensung"
+    },
+    {
+      "code": 7208122007,
+      "name": "Bugis"
+    },
+    {
+      "code": 7208122008,
+      "name": "Moubang"
+    },
+    {
+      "code": 7208122009,
+      "name": "Ogobayas"
+    },
+    {
+      "code": 7208122010,
+      "name": "Kota Raya Timur"
+    },
+    {
+      "code": 7208122011,
+      "name": "Malalan"
+    },
+    {
+      "code": 7208122012,
+      "name": "Kota Raya Selatan"
+    },
+    {
+      "code": 7208122013,
+      "name": "Maranti"
+    },
+    {
+      "code": 7208122014,
+      "name": "Ogomolos"
+    },
+    {
+      "code": 7208122015,
+      "name": "Kotaraya Barat"
+    },
+    {
+      "code": 7208122016,
+      "name": "Bugis Utara"
+    },
+    {
+      "code": 7208122017,
+      "name": "Gurinda"
+    },
+    {
+      "code": 7208122018,
+      "name": "Kotaraya Tenggara"
+    }
+  ]
+}

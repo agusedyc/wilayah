@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 7206062001,
+      "name": "Sainoa"
+    },
+    {
+      "code": 7206062002,
+      "name": "Polewali"
+    },
+    {
+      "code": 7206062003,
+      "name": "Umbele"
+    },
+    {
+      "code": 7206062004,
+      "name": "Pulau Dua"
+    },
+    {
+      "code": 7206062005,
+      "name": "Bakala"
+    },
+    {
+      "code": 7206062006,
+      "name": "Paku"
+    },
+    {
+      "code": 7206062007,
+      "name": "Koburu"
+    },
+    {
+      "code": 7206062008,
+      "name": "Buton"
+    },
+    {
+      "code": 7206062009,
+      "name": "Jawi-Jawi"
+    },
+    {
+      "code": 7206062010,
+      "name": "Kaleroang"
+    },
+    {
+      "code": 7206062011,
+      "name": "Bungingkela"
+    },
+    {
+      "code": 7206062012,
+      "name": "Lokombulo"
+    },
+    {
+      "code": 7206062013,
+      "name": "Buajangka"
+    },
+    {
+      "code": 7206062014,
+      "name": "Waru-Waru"
+    },
+    {
+      "code": 7206062015,
+      "name": "Padabale"
+    },
+    {
+      "code": 7206062016,
+      "name": "Pado-Pado"
+    },
+    {
+      "code": 7206062017,
+      "name": "Pulaubapa"
+    },
+    {
+      "code": 7206062041,
+      "name": "Bungintende"
+    },
+    {
+      "code": 7206062043,
+      "name": "Panimbawang"
+    },
+    {
+      "code": 7206062044,
+      "name": "Po'o"
+    },
+    {
+      "code": 7206062045,
+      "name": "Boelimau"
+    },
+    {
+      "code": 7206062046,
+      "name": "Poaro"
+    },
+    {
+      "code": 7206062047,
+      "name": "Umbele Lama"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1509052001,
+      "name": "Teluk Singkawang"
+    },
+    {
+      "code": 1509052002,
+      "name": "Lembak Bungur"
+    },
+    {
+      "code": 1509052003,
+      "name": "Teluk Langkap"
+    },
+    {
+      "code": 1509052004,
+      "name": "Tambun Arang"
+    },
+    {
+      "code": 1509052005,
+      "name": "Punti Kalo"
+    },
+    {
+      "code": 1509052006,
+      "name": "Jati Belarik"
+    },
+    {
+      "code": 1509052007,
+      "name": "Tuo Sumay"
+    },
+    {
+      "code": 1509052008,
+      "name": "Teriti"
+    },
+    {
+      "code": 1509052009,
+      "name": "Suo-Suo"
+    },
+    {
+      "code": 1509052010,
+      "name": "Muara Sekalo"
+    },
+    {
+      "code": 1509052011,
+      "name": "Semambu"
+    },
+    {
+      "code": 1509052012,
+      "name": "Pemayungan"
+    }
+  ]
+}

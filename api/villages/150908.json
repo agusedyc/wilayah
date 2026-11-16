@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1509082001,
+      "name": "Giriwinangun"
+    },
+    {
+      "code": 1509082002,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1509082003,
+      "name": "Pulung Rejo"
+    },
+    {
+      "code": 1509082004,
+      "name": "Karang Dadi"
+    },
+    {
+      "code": 1509082005,
+      "name": "Giri Purno"
+    },
+    {
+      "code": 1509082006,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1509082007,
+      "name": "Sari Mulya"
+    },
+    {
+      "code": 1509082008,
+      "name": "Sepakat Bersatu"
+    },
+    {
+      "code": 1509082009,
+      "name": "Rantau Kembang"
+    },
+    {
+      "code": 1509082010,
+      "name": "Giri Mulyo"
+    }
+  ]
+}

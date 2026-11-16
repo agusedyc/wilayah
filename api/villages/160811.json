@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1608112001,
+      "name": "Batu Raja Bungin"
+    },
+    {
+      "code": 1608112002,
+      "name": "Tulang Bawang"
+    },
+    {
+      "code": 1608112003,
+      "name": "Sabahlioh"
+    },
+    {
+      "code": 1608112004,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1608112005,
+      "name": "Peracak"
+    },
+    {
+      "code": 1608112006,
+      "name": "Negeri Ratu Baru"
+    },
+    {
+      "code": 1608112007,
+      "name": "Tunas Peracak"
+    },
+    {
+      "code": 1608112008,
+      "name": "Sukabaru"
+    }
+  ]
+}

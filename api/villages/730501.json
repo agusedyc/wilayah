@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7305011001,
+      "name": "Takalar"
+    },
+    {
+      "code": 7305012003,
+      "name": "Patani"
+    },
+    {
+      "code": 7305012009,
+      "name": "Soreang"
+    },
+    {
+      "code": 7305012010,
+      "name": "Pa'batangang"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 8101011009,
+      "name": "Hollo"
+    },
+    {
+      "code": 8101012001,
+      "name": "Tamilouw"
+    },
+    {
+      "code": 8101012002,
+      "name": "Sepa"
+    },
+    {
+      "code": 8101012003,
+      "name": "Rutah"
+    },
+    {
+      "code": 8101012004,
+      "name": "Soahuku"
+    },
+    {
+      "code": 8101012005,
+      "name": "Amahai"
+    },
+    {
+      "code": 8101012006,
+      "name": "Haruru"
+    },
+    {
+      "code": 8101012007,
+      "name": "Sehati"
+    },
+    {
+      "code": 8101012008,
+      "name": "Makariki"
+    },
+    {
+      "code": 8101012010,
+      "name": "Yafila"
+    },
+    {
+      "code": 8101012011,
+      "name": "Banda Baru"
+    },
+    {
+      "code": 8101012020,
+      "name": "Yainuelo"
+    },
+    {
+      "code": 8101012021,
+      "name": "Nua Nea"
+    },
+    {
+      "code": 8101012022,
+      "name": "Hatuhenu"
+    },
+    {
+      "code": 8101012023,
+      "name": "Nuweletetu"
+    }
+  ]
+}

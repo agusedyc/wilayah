@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 8107011012,
+      "name": "Galai Dubu"
+    },
+    {
+      "code": 8107011013,
+      "name": "Siwa Lima"
+    },
+    {
+      "code": 8107012001,
+      "name": "Ujir"
+    },
+    {
+      "code": 8107012002,
+      "name": "Nafar"
+    },
+    {
+      "code": 8107012003,
+      "name": "Kobraur"
+    },
+    {
+      "code": 8107012004,
+      "name": "Lau-Lau"
+    },
+    {
+      "code": 8107012005,
+      "name": "Gorar"
+    },
+    {
+      "code": 8107012006,
+      "name": "Tungu"
+    },
+    {
+      "code": 8107012007,
+      "name": "Tunguwatu"
+    },
+    {
+      "code": 8107012008,
+      "name": "Jabulenga"
+    },
+    {
+      "code": 8107012009,
+      "name": "Wokam"
+    },
+    {
+      "code": 8107012010,
+      "name": "Karangguli"
+    },
+    {
+      "code": 8107012011,
+      "name": "Durjela"
+    },
+    {
+      "code": 8107012014,
+      "name": "Wangel"
+    },
+    {
+      "code": 8107012015,
+      "name": "Samang"
+    }
+  ]
+}

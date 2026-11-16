@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7604081001,
+      "name": "Mapilli"
+    },
+    {
+      "code": 7604082002,
+      "name": "Ugibaru"
+    },
+    {
+      "code": 7604082003,
+      "name": "Rumpa"
+    },
+    {
+      "code": 7604082005,
+      "name": "Kurma"
+    },
+    {
+      "code": 7604082007,
+      "name": "Buku"
+    },
+    {
+      "code": 7604082009,
+      "name": "Bonne Bonne"
+    },
+    {
+      "code": 7604082011,
+      "name": "Beroangin"
+    },
+    {
+      "code": 7604082015,
+      "name": "Segerang"
+    },
+    {
+      "code": 7604082016,
+      "name": "Bonra"
+    },
+    {
+      "code": 7604082017,
+      "name": "Sattoko"
+    },
+    {
+      "code": 7604082018,
+      "name": "Rappang Barat"
+    },
+    {
+      "code": 7604082019,
+      "name": "Landi Kanusuang"
+    }
+  ]
+}

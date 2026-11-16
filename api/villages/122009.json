@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1220092001,
+      "name": "Aek Godang"
+    },
+    {
+      "code": 1220092002,
+      "name": "Aek Nauli"
+    },
+    {
+      "code": 1220092003,
+      "name": "Sampuran Simarloting"
+    },
+    {
+      "code": 1220092004,
+      "name": "Pangirkiran"
+    },
+    {
+      "code": 1220092005,
+      "name": "Simaninggir"
+    },
+    {
+      "code": 1220092006,
+      "name": "Suka Dame"
+    },
+    {
+      "code": 1220092007,
+      "name": "Pintu Bosi"
+    },
+    {
+      "code": 1220092008,
+      "name": "Sidong-dong"
+    },
+    {
+      "code": 1220092009,
+      "name": "Sitabar"
+    },
+    {
+      "code": 1220092010,
+      "name": "Parmeraan"
+    }
+  ]
+}

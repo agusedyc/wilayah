@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9501232001,
+      "name": "Muliama"
+    },
+    {
+      "code": 9501232002,
+      "name": "Wenabubaga"
+    },
+    {
+      "code": 9501232003,
+      "name": "Kilubaga"
+    },
+    {
+      "code": 9501232004,
+      "name": "Musalfak"
+    },
+    {
+      "code": 9501232005,
+      "name": "Punakul"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7305071001,
+      "name": "Pattallassang"
+    },
+    {
+      "code": 7305071002,
+      "name": "Pallantikang"
+    },
+    {
+      "code": 7305071003,
+      "name": "Somba Bella"
+    },
+    {
+      "code": 7305071004,
+      "name": "Kalabbirang"
+    },
+    {
+      "code": 7305071005,
+      "name": "Maradekaya"
+    },
+    {
+      "code": 7305071006,
+      "name": "Pappa"
+    },
+    {
+      "code": 7305071007,
+      "name": "Bajeng"
+    },
+    {
+      "code": 7305071008,
+      "name": "Sabintang"
+    },
+    {
+      "code": 7305071009,
+      "name": "Salaka"
+    }
+  ]
+}

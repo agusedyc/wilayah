@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1214322001,
+      "name": "Botohilitano"
+    },
+    {
+      "code": 1214322002,
+      "name": "Botohilisalo'o"
+    },
+    {
+      "code": 1214322003,
+      "name": "Lagundri"
+    },
+    {
+      "code": 1214322004,
+      "name": "Orahili Faomasi"
+    },
+    {
+      "code": 1214322005,
+      "name": "Hiliamaetaniha"
+    },
+    {
+      "code": 1214322006,
+      "name": "Sondregeasi"
+    },
+    {
+      "code": 1214322007,
+      "name": "Botohili Silambo"
+    },
+    {
+      "code": 1214322008,
+      "name": "Botohili Sorake"
+    },
+    {
+      "code": 1214322009,
+      "name": "Hilimaenamolo"
+    },
+    {
+      "code": 1214322010,
+      "name": "Bawomaenamolo"
+    }
+  ]
+}

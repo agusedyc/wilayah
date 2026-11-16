@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6305011001,
+      "name": "Binuang"
+    },
+    {
+      "code": 6305011017,
+      "name": "Karangan Putih"
+    },
+    {
+      "code": 6305011018,
+      "name": "Raya Belanti"
+    },
+    {
+      "code": 6305012003,
+      "name": "Tungkap"
+    },
+    {
+      "code": 6305012006,
+      "name": "A. Yani Pura"
+    },
+    {
+      "code": 6305012007,
+      "name": "Pulau Pinang"
+    },
+    {
+      "code": 6305012008,
+      "name": "Pualam Sari"
+    },
+    {
+      "code": 6305012009,
+      "name": "Gunung Batu"
+    },
+    {
+      "code": 6305012012,
+      "name": "Pulau Pinang Utara"
+    },
+    {
+      "code": 6305012016,
+      "name": "Padang Sari"
+    },
+    {
+      "code": 6305012019,
+      "name": "Mekar Sari"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7304061002,
+      "name": "Bulu Jaya"
+    },
+    {
+      "code": 7304062001,
+      "name": "Banrimanurung"
+    },
+    {
+      "code": 7304062003,
+      "name": "Barana"
+    },
+    {
+      "code": 7304062004,
+      "name": "Beroanging"
+    },
+    {
+      "code": 7304062005,
+      "name": "Tuju"
+    },
+    {
+      "code": 7304062006,
+      "name": "Garassikang"
+    },
+    {
+      "code": 7304062007,
+      "name": "Pattiro"
+    },
+    {
+      "code": 7304062008,
+      "name": "Pappalluang"
+    }
+  ]
+}

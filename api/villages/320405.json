@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204052001,
+      "name": "Cileunyi Kulon"
+    },
+    {
+      "code": 3204052002,
+      "name": "Cileunyi Wetan"
+    },
+    {
+      "code": 3204052003,
+      "name": "Cimekar"
+    },
+    {
+      "code": 3204052004,
+      "name": "Cinunuk"
+    },
+    {
+      "code": 3204052005,
+      "name": "Cibiru Hilir"
+    },
+    {
+      "code": 3204052006,
+      "name": "Cibiru Wetan"
+    }
+  ]
+}

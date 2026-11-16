@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5304211001,
+      "name": "Bardao"
+    },
+    {
+      "code": 5304211002,
+      "name": "Tulamalae"
+    },
+    {
+      "code": 5304211003,
+      "name": "Umanen"
+    },
+    {
+      "code": 5304211004,
+      "name": "Beirafu"
+    }
+  ]
+}

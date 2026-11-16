@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3212132001,
+      "name": "Sukalila"
+    },
+    {
+      "code": 3212132002,
+      "name": "Pilangsari"
+    },
+    {
+      "code": 3212132003,
+      "name": "Jatibarang Baru"
+    },
+    {
+      "code": 3212132004,
+      "name": "Bulak"
+    },
+    {
+      "code": 3212132005,
+      "name": "Bulak Lor"
+    },
+    {
+      "code": 3212132006,
+      "name": "Jatibarang"
+    },
+    {
+      "code": 3212132007,
+      "name": "Kebulen"
+    },
+    {
+      "code": 3212132008,
+      "name": "Pawidean"
+    },
+    {
+      "code": 3212132009,
+      "name": "Jatisawit"
+    },
+    {
+      "code": 3212132010,
+      "name": "Jatisawit Lor"
+    },
+    {
+      "code": 3212132011,
+      "name": "Krasak"
+    },
+    {
+      "code": 3212132012,
+      "name": "Kalimati"
+    },
+    {
+      "code": 3212132013,
+      "name": "Malangsemirang"
+    },
+    {
+      "code": 3212132014,
+      "name": "Lobener"
+    },
+    {
+      "code": 3212132015,
+      "name": "Lobener Lor"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271041001,
+      "name": "Tegal S Mandala I"
+    },
+    {
+      "code": 1271041002,
+      "name": "Tegal S Mandala II"
+    },
+    {
+      "code": 1271041003,
+      "name": "Tegal S Mandala III"
+    },
+    {
+      "code": 1271041004,
+      "name": "Denai"
+    },
+    {
+      "code": 1271041005,
+      "name": "Binjai"
+    },
+    {
+      "code": 1271041006,
+      "name": "Medan Tenggara"
+    }
+  ]
+}

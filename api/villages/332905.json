@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3329052001,
+      "name": "Batursari"
+    },
+    {
+      "code": 3329052002,
+      "name": "Benda"
+    },
+    {
+      "code": 3329052003,
+      "name": "Buniwah"
+    },
+    {
+      "code": 3329052004,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3329052005,
+      "name": "Igirklanceng"
+    },
+    {
+      "code": 3329052006,
+      "name": "Kaligiri"
+    },
+    {
+      "code": 3329052007,
+      "name": "Kaliloka"
+    },
+    {
+      "code": 3329052008,
+      "name": "Manggis"
+    },
+    {
+      "code": 3329052009,
+      "name": "Mendala"
+    },
+    {
+      "code": 3329052010,
+      "name": "Mlayang"
+    },
+    {
+      "code": 3329052011,
+      "name": "Sridadi"
+    },
+    {
+      "code": 3329052012,
+      "name": "Plompong"
+    },
+    {
+      "code": 3329052013,
+      "name": "Wanareja"
+    }
+  ]
+}

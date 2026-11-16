@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7504022001,
+      "name": "Lemito"
+    },
+    {
+      "code": 7504022002,
+      "name": "Wonggarasi Barat"
+    },
+    {
+      "code": 7504022004,
+      "name": "Lomuli"
+    },
+    {
+      "code": 7504022008,
+      "name": "Lemito Utara"
+    },
+    {
+      "code": 7504022009,
+      "name": "Kenari"
+    },
+    {
+      "code": 7504022010,
+      "name": "Wonggarasi Tengah"
+    },
+    {
+      "code": 7504022011,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 7504022012,
+      "name": "Babalonge"
+    }
+  ]
+}

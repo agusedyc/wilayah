@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1605091003,
+      "name": "Pasar Muara Beliti"
+    },
+    {
+      "code": 1605092001,
+      "name": "Pedang"
+    },
+    {
+      "code": 1605092002,
+      "name": "Muara Beliti Baru"
+    },
+    {
+      "code": 1605092004,
+      "name": "Mana Resmi"
+    },
+    {
+      "code": 1605092005,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1605092014,
+      "name": "Suro"
+    },
+    {
+      "code": 1605092015,
+      "name": "Tanah Periuk"
+    },
+    {
+      "code": 1605092016,
+      "name": "Ketuan Jaya"
+    },
+    {
+      "code": 1605092017,
+      "name": "Air Satan"
+    },
+    {
+      "code": 1605092018,
+      "name": "Durian Remuk"
+    },
+    {
+      "code": 1605092019,
+      "name": "Satan Indah Jaya"
+    },
+    {
+      "code": 1605092020,
+      "name": "Air Lesing"
+    }
+  ]
+}

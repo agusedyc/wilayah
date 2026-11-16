@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3205032001,
+      "name": "Wanaraja"
+    },
+    {
+      "code": 3205032002,
+      "name": "Wanamekar"
+    },
+    {
+      "code": 3205032003,
+      "name": "Cinunuk"
+    },
+    {
+      "code": 3205032007,
+      "name": "Sukamenak"
+    },
+    {
+      "code": 3205032008,
+      "name": "Sindangratu"
+    },
+    {
+      "code": 3205032011,
+      "name": "Wanajaya"
+    },
+    {
+      "code": 3205032015,
+      "name": "Sindangmekar"
+    },
+    {
+      "code": 3205032019,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3205032024,
+      "name": "Sindangprabu"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1808092001,
+      "name": "Lebak Peniangan"
+    },
+    {
+      "code": 1808092002,
+      "name": "Tanjung Tiga"
+    },
+    {
+      "code": 1808092003,
+      "name": "Madang Jaya"
+    },
+    {
+      "code": 1808092004,
+      "name": "Air Ringkih"
+    },
+    {
+      "code": 1808092005,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1808092006,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1808092007,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1808092008,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 1808092009,
+      "name": "Karya Maju"
+    },
+    {
+      "code": 1808092010,
+      "name": "Mulya Jaya"
+    }
+  ]
+}

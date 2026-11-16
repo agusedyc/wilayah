@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9403242001,
+      "name": "Yabomaida"
+    },
+    {
+      "code": 9403242002,
+      "name": "Akoubaida"
+    },
+    {
+      "code": 9403242003,
+      "name": "Dauwagu"
+    },
+    {
+      "code": 9403242004,
+      "name": "Ganeyetaka"
+    },
+    {
+      "code": 9403242005,
+      "name": "Yabomaida II"
+    },
+    {
+      "code": 9403242006,
+      "name": "Bodatadi"
+    },
+    {
+      "code": 9403242007,
+      "name": "Ibouwagu"
+    }
+  ]
+}

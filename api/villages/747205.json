@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7472051001,
+      "name": "Liwuto"
+    },
+    {
+      "code": 7472051002,
+      "name": "Sukanaeyo"
+    },
+    {
+      "code": 7472051003,
+      "name": "Lakologou"
+    },
+    {
+      "code": 7472051004,
+      "name": "Waruruma"
+    },
+    {
+      "code": 7472051005,
+      "name": "Kadolomoko"
+    },
+    {
+      "code": 7472051006,
+      "name": "Kadolo"
+    }
+  ]
+}

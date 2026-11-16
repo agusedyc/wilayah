@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1218152001,
+      "name": "Pon"
+    },
+    {
+      "code": 1218152002,
+      "name": "Sei Bamban"
+    },
+    {
+      "code": 1218152003,
+      "name": "Bakaran Batu"
+    },
+    {
+      "code": 1218152004,
+      "name": "Gempolan"
+    },
+    {
+      "code": 1218152005,
+      "name": "Rampah Estate"
+    },
+    {
+      "code": 1218152006,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1218152007,
+      "name": "Sei Bamban Estate"
+    },
+    {
+      "code": 1218152008,
+      "name": "Sei Belutu"
+    },
+    {
+      "code": 1218152009,
+      "name": "Sei Buluh"
+    },
+    {
+      "code": 1218152010,
+      "name": "Penggalangan"
+    }
+  ]
+}

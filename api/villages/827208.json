@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8272081001,
+      "name": "Mafututu"
+    },
+    {
+      "code": 8272081002,
+      "name": "Tosa"
+    },
+    {
+      "code": 8272081003,
+      "name": "Dowora"
+    },
+    {
+      "code": 8272081004,
+      "name": "Kalaodi"
+    },
+    {
+      "code": 8272081005,
+      "name": "Cobodoe"
+    },
+    {
+      "code": 8272081006,
+      "name": "Doyado"
+    },
+    {
+      "code": 8272081007,
+      "name": "Jiko Cobo"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1110102001,
+      "name": "Gosong Telaga Utara"
+    },
+    {
+      "code": 1110102002,
+      "name": "Gosong Telaga Selatan"
+    },
+    {
+      "code": 1110102003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1110102004,
+      "name": "Ketapang Indah"
+    },
+    {
+      "code": 1110102005,
+      "name": "Gosong Telaga Timur"
+    },
+    {
+      "code": 1110102006,
+      "name": "Gosong Telaga Barat"
+    },
+    {
+      "code": 1110102007,
+      "name": "Telaga Bakti"
+    }
+  ]
+}

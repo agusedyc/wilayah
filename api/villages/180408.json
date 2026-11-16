@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1804081005,
+      "name": "Sekincau"
+    },
+    {
+      "code": 1804082001,
+      "name": "Pampangan"
+    },
+    {
+      "code": 1804082006,
+      "name": "Waspada"
+    },
+    {
+      "code": 1804082007,
+      "name": "Tigajaya"
+    },
+    {
+      "code": 1804082008,
+      "name": "Giham Sukamaju"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 637101,
+      "name": "Banjarmasin Selatan"
+    },
+    {
+      "code": 637102,
+      "name": "Banjarmasin Timur"
+    },
+    {
+      "code": 637103,
+      "name": "Banjarmasin Barat"
+    },
+    {
+      "code": 637104,
+      "name": "Banjarmasin Utara"
+    },
+    {
+      "code": 637105,
+      "name": "Banjarmasin Tengah"
+    }
+  ]
+}

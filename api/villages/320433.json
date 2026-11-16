@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3204332001,
+      "name": "Majalaya"
+    },
+    {
+      "code": 3204332002,
+      "name": "Wangisagara"
+    },
+    {
+      "code": 3204332003,
+      "name": "Biru"
+    },
+    {
+      "code": 3204332004,
+      "name": "Padamulya"
+    },
+    {
+      "code": 3204332005,
+      "name": "Bojong"
+    },
+    {
+      "code": 3204332006,
+      "name": "Majasetra"
+    },
+    {
+      "code": 3204332007,
+      "name": "Majakerta"
+    },
+    {
+      "code": 3204332008,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3204332009,
+      "name": "Padaulun"
+    },
+    {
+      "code": 3204332010,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3204332011,
+      "name": "Sukamukti"
+    }
+  ]
+}

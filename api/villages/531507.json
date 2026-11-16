@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5315072001,
+      "name": "Golo Ronggot"
+    },
+    {
+      "code": 5315072002,
+      "name": "Semang"
+    },
+    {
+      "code": 5315072003,
+      "name": "Dunta"
+    },
+    {
+      "code": 5315072004,
+      "name": "Gurung"
+    },
+    {
+      "code": 5315072005,
+      "name": "Orong"
+    },
+    {
+      "code": 5315072006,
+      "name": "Pong Welak"
+    },
+    {
+      "code": 5315072007,
+      "name": "Galang"
+    },
+    {
+      "code": 5315072008,
+      "name": "Rehak"
+    },
+    {
+      "code": 5315072009,
+      "name": "Watu Umpu"
+    },
+    {
+      "code": 5315072010,
+      "name": "Pengka"
+    },
+    {
+      "code": 5315072011,
+      "name": "Lale"
+    },
+    {
+      "code": 5315072015,
+      "name": "Racang Welak"
+    },
+    {
+      "code": 5315072016,
+      "name": "Sewar"
+    },
+    {
+      "code": 5315072017,
+      "name": "Robo"
+    },
+    {
+      "code": 5315072018,
+      "name": "Wewa"
+    },
+    {
+      "code": 5315072019,
+      "name": "Golo Ndari"
+    }
+  ]
+}

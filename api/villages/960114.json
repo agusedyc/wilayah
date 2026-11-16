@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9601141001,
+      "name": "Klamalu"
+    },
+    {
+      "code": 9601141002,
+      "name": "Mariyai"
+    },
+    {
+      "code": 9601141003,
+      "name": "Klasuluk"
+    },
+    {
+      "code": 9601141004,
+      "name": "Klamasen"
+    },
+    {
+      "code": 9601141008,
+      "name": "Maklalut"
+    },
+    {
+      "code": 9601141009,
+      "name": "Klaru"
+    },
+    {
+      "code": 9601141010,
+      "name": "Jamaimo"
+    },
+    {
+      "code": 9601142005,
+      "name": "Klaben"
+    },
+    {
+      "code": 9601142006,
+      "name": "Klasan"
+    },
+    {
+      "code": 9601142007,
+      "name": "Fafi"
+    },
+    {
+      "code": 9601142011,
+      "name": "Kasih"
+    }
+  ]
+}

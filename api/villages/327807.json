@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3278071001,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3278071002,
+      "name": "Mugarsari"
+    },
+    {
+      "code": 3278071003,
+      "name": "Tamanjaya"
+    },
+    {
+      "code": 3278071004,
+      "name": "Sumelap"
+    },
+    {
+      "code": 3278071005,
+      "name": "Setiawargi"
+    },
+    {
+      "code": 3278071006,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3278071007,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3278071008,
+      "name": "Setiamulya"
+    }
+  ]
+}

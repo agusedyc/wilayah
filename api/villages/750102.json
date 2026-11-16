@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7501022011,
+      "name": "Bulila"
+    },
+    {
+      "code": 7501022014,
+      "name": "Mongolato"
+    },
+    {
+      "code": 7501022015,
+      "name": "Luhu"
+    },
+    {
+      "code": 7501022016,
+      "name": "Hulawa"
+    },
+    {
+      "code": 7501022017,
+      "name": "Pilohayanga"
+    },
+    {
+      "code": 7501022018,
+      "name": "Dulamayo Selatan"
+    },
+    {
+      "code": 7501022019,
+      "name": "Dulamayo Barat"
+    },
+    {
+      "code": 7501022020,
+      "name": "Dulohupa"
+    },
+    {
+      "code": 7501022021,
+      "name": "Pilohayanga Barat"
+    }
+  ]
+}

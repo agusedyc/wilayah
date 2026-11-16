@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3301102001,
+      "name": "Gandrungmangu"
+    },
+    {
+      "code": 3301102002,
+      "name": "Gandrungmanis"
+    },
+    {
+      "code": 3301102003,
+      "name": "Cisumur"
+    },
+    {
+      "code": 3301102004,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3301102005,
+      "name": "Cinangsi"
+    },
+    {
+      "code": 3301102006,
+      "name": "Karanggintung"
+    },
+    {
+      "code": 3301102007,
+      "name": "Rungkang"
+    },
+    {
+      "code": 3301102008,
+      "name": "Sidaurip"
+    },
+    {
+      "code": 3301102009,
+      "name": "Gintungreja"
+    },
+    {
+      "code": 3301102010,
+      "name": "Layansari"
+    },
+    {
+      "code": 3301102011,
+      "name": "Bulusari"
+    },
+    {
+      "code": 3301102012,
+      "name": "Muktisari"
+    },
+    {
+      "code": 3301102013,
+      "name": "Wringinharjo"
+    },
+    {
+      "code": 3301102014,
+      "name": "Kertajaya"
+    }
+  ]
+}

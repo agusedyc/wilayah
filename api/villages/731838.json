@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7318381001,
+      "name": "Ratte Kurra"
+    },
+    {
+      "code": 7318382002,
+      "name": "Bambalu"
+    },
+    {
+      "code": 7318382003,
+      "name": "Maroson"
+    },
+    {
+      "code": 7318382004,
+      "name": "Lipungan Tanete"
+    },
+    {
+      "code": 7318382005,
+      "name": "Rante limbong"
+    },
+    {
+      "code": 7318382006,
+      "name": "Limbong Sangpolo"
+    }
+  ]
+}

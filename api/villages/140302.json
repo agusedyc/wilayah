@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1403022001,
+      "name": "Bantan Tengah"
+    },
+    {
+      "code": 1403022002,
+      "name": "Bantan Air"
+    },
+    {
+      "code": 1403022003,
+      "name": "Bantan Tua"
+    },
+    {
+      "code": 1403022004,
+      "name": "Teluk Pambang"
+    },
+    {
+      "code": 1403022005,
+      "name": "Selat Baru"
+    },
+    {
+      "code": 1403022006,
+      "name": "Teluk Lancar"
+    },
+    {
+      "code": 1403022007,
+      "name": "Kembung Luar"
+    },
+    {
+      "code": 1403022008,
+      "name": "Jangkang"
+    },
+    {
+      "code": 1403022009,
+      "name": "Muntai"
+    },
+    {
+      "code": 1403022010,
+      "name": "Resam Lapis"
+    },
+    {
+      "code": 1403022011,
+      "name": "Berancah"
+    },
+    {
+      "code": 1403022012,
+      "name": "Ulu Pulau"
+    },
+    {
+      "code": 1403022013,
+      "name": "Mentayan"
+    },
+    {
+      "code": 1403022014,
+      "name": "Pambang Pesisir"
+    },
+    {
+      "code": 1403022015,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1403022016,
+      "name": "Pambang Baru"
+    },
+    {
+      "code": 1403022017,
+      "name": "Kembung Baru"
+    },
+    {
+      "code": 1403022018,
+      "name": "Pasiran"
+    },
+    {
+      "code": 1403022019,
+      "name": "Bantan Sari"
+    },
+    {
+      "code": 1403022020,
+      "name": "Bantan Timur"
+    },
+    {
+      "code": 1403022021,
+      "name": "Teluk Papal"
+    },
+    {
+      "code": 1403022022,
+      "name": "Muntai Barat"
+    },
+    {
+      "code": 1403022023,
+      "name": "Deluk"
+    }
+  ]
+}

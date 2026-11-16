@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1213182001,
+      "name": "Manisak"
+    },
+    {
+      "code": 1213182002,
+      "name": "Simpang Talap"
+    },
+    {
+      "code": 1213182003,
+      "name": "Sampuran"
+    },
+    {
+      "code": 1213182004,
+      "name": "Tandikek"
+    },
+    {
+      "code": 1213182005,
+      "name": "Gonting"
+    },
+    {
+      "code": 1213182006,
+      "name": "Bangun Saroha"
+    },
+    {
+      "code": 1213182007,
+      "name": "Huta Baringin"
+    },
+    {
+      "code": 1213182008,
+      "name": "Muara Bangko"
+    },
+    {
+      "code": 1213182009,
+      "name": "Ranto Nalinjang"
+    },
+    {
+      "code": 1213182010,
+      "name": "Banjar Maga"
+    },
+    {
+      "code": 1213182011,
+      "name": "Huta Raja"
+    },
+    {
+      "code": 1213182012,
+      "name": "Simaninggir"
+    },
+    {
+      "code": 1213182013,
+      "name": "Ranto Panjang"
+    },
+    {
+      "code": 1213182014,
+      "name": "Huta Nauli"
+    },
+    {
+      "code": 1213182015,
+      "name": "Lubuk Kancah"
+    },
+    {
+      "code": 1213182016,
+      "name": "Dua Sepakat"
+    },
+    {
+      "code": 1213182017,
+      "name": "Gunung Godang"
+    },
+    {
+      "code": 1213182018,
+      "name": "Padang Silojongan"
+    }
+  ]
+}

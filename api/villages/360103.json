@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601032001,
+      "name": "Mendung"
+    },
+    {
+      "code": 3601032006,
+      "name": "Sudimanik"
+    },
+    {
+      "code": 3601032007,
+      "name": "Curug"
+    },
+    {
+      "code": 3601032008,
+      "name": "Cibingbin"
+    },
+    {
+      "code": 3601032009,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3601032011,
+      "name": "Mahendra"
+    },
+    {
+      "code": 3601032012,
+      "name": "Cibaliung"
+    },
+    {
+      "code": 3601032015,
+      "name": "Cihanjuang"
+    },
+    {
+      "code": 3601032016,
+      "name": "Sorongan"
+    }
+  ]
+}

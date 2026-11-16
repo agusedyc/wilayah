@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1509072001,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1509072002,
+      "name": "Wana Reja"
+    },
+    {
+      "code": 1509072003,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 1509072004,
+      "name": "Sido Rukun"
+    },
+    {
+      "code": 1509072005,
+      "name": "Sungai Pandan"
+    },
+    {
+      "code": 1509072006,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1509072007,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1509072008,
+      "name": "Wana Arum"
+    },
+    {
+      "code": 1509072009,
+      "name": "Wana Mulya"
+    },
+    {
+      "code": 1509072010,
+      "name": "Damai Makmur"
+    },
+    {
+      "code": 1509072011,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1509072012,
+      "name": "Sido Mulyo"
+    }
+  ]
+}

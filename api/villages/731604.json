@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7316041001,
+      "name": "Lakawan"
+    },
+    {
+      "code": 7316041002,
+      "name": "Tanete"
+    },
+    {
+      "code": 7316041004,
+      "name": "Mataran"
+    },
+    {
+      "code": 7316042003,
+      "name": "Bamba Puang"
+    },
+    {
+      "code": 7316042005,
+      "name": "Siambo"
+    },
+    {
+      "code": 7316042006,
+      "name": "Mampu"
+    },
+    {
+      "code": 7316042007,
+      "name": "Pekalobean"
+    },
+    {
+      "code": 7316042008,
+      "name": "Singki"
+    },
+    {
+      "code": 7316042009,
+      "name": "Salu Dewata"
+    },
+    {
+      "code": 7316042010,
+      "name": "Tindalun"
+    },
+    {
+      "code": 7316042011,
+      "name": "Bubun Lamba"
+    },
+    {
+      "code": 7316042012,
+      "name": "Tampo"
+    },
+    {
+      "code": 7316042013,
+      "name": "Batunoni"
+    },
+    {
+      "code": 7316042014,
+      "name": "Saruran"
+    },
+    {
+      "code": 7316042015,
+      "name": "Mendatte"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3206042001,
+      "name": "Cibuniasih"
+    },
+    {
+      "code": 3206042002,
+      "name": "Pangliaran"
+    },
+    {
+      "code": 3206042003,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3206042004,
+      "name": "Cibongas"
+    },
+    {
+      "code": 3206042005,
+      "name": "Tawang"
+    },
+    {
+      "code": 3206042006,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3206042007,
+      "name": "Cikawung"
+    },
+    {
+      "code": 3206042008,
+      "name": "Jayamukti"
+    },
+    {
+      "code": 3206042009,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3206042010,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3206042011,
+      "name": "Pancawangi"
+    }
+  ]
+}

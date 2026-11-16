@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6171031001,
+      "name": "Pallima"
+    },
+    {
+      "code": 6171031002,
+      "name": "Sungaijawi Dalam"
+    },
+    {
+      "code": 6171031003,
+      "name": "Sungaijawi Luar"
+    },
+    {
+      "code": 6171031004,
+      "name": "Sungaibeliung"
+    }
+  ]
+}

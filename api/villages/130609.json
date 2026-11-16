@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1306092001,
+      "name": "Koto Tangah"
+    },
+    {
+      "code": 1306092003,
+      "name": "Gadut"
+    },
+    {
+      "code": 1306092004,
+      "name": "Kapau"
+    }
+  ]
+}

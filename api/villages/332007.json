@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3320072001,
+      "name": "Mororejo"
+    },
+    {
+      "code": 3320072009,
+      "name": "Suwawal"
+    },
+    {
+      "code": 3320072010,
+      "name": "Sinanggul"
+    },
+    {
+      "code": 3320072011,
+      "name": "Jambu"
+    },
+    {
+      "code": 3320072012,
+      "name": "Srobyong"
+    },
+    {
+      "code": 3320072013,
+      "name": "Sekuro"
+    },
+    {
+      "code": 3320072014,
+      "name": "Karanggondang"
+    },
+    {
+      "code": 3320072015,
+      "name": "Jambu Timur"
+    }
+  ]
+}

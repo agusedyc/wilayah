@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3512172001,
+      "name": "Patemon"
+    },
+    {
+      "code": 3512172002,
+      "name": "Sumbertengah"
+    },
+    {
+      "code": 3512172003,
+      "name": "Selowogo"
+    },
+    {
+      "code": 3512172004,
+      "name": "Mlandingan Wetan"
+    },
+    {
+      "code": 3512172005,
+      "name": "Bungatan"
+    },
+    {
+      "code": 3512172006,
+      "name": "Bletok"
+    },
+    {
+      "code": 3512172007,
+      "name": "Pasir Putih"
+    }
+  ]
+}

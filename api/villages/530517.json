@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5305172001,
+      "name": "Kayang"
+    },
+    {
+      "code": 5305172002,
+      "name": "Marisa"
+    },
+    {
+      "code": 5305172003,
+      "name": "Lamma"
+    },
+    {
+      "code": 5305172004,
+      "name": "Allumang"
+    },
+    {
+      "code": 5305172005,
+      "name": "Beangonong"
+    },
+    {
+      "code": 5305172006,
+      "name": "Kalondama Barat"
+    },
+    {
+      "code": 5305172007,
+      "name": "Kalondama Tengah"
+    }
+  ]
+}

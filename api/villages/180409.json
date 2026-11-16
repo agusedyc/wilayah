@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1804092003,
+      "name": "Suka Marga"
+    },
+    {
+      "code": 1804092004,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1804092005,
+      "name": "Tugu Ratu"
+    },
+    {
+      "code": 1804092006,
+      "name": "Banding Agung"
+    },
+    {
+      "code": 1804092010,
+      "name": "Rowo Rejo"
+    },
+    {
+      "code": 1804092017,
+      "name": "Sido Rejo"
+    },
+    {
+      "code": 1804092018,
+      "name": "Ringin Sari"
+    }
+  ]
+}

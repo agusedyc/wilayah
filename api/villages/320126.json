@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3201262001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3201262002,
+      "name": "Kuta"
+    },
+    {
+      "code": 3201262003,
+      "name": "Gadog"
+    },
+    {
+      "code": 3201262004,
+      "name": "Sukakarya"
+    },
+    {
+      "code": 3201262005,
+      "name": "Megamendung"
+    },
+    {
+      "code": 3201262006,
+      "name": "Cipayung"
+    },
+    {
+      "code": 3201262007,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3201262008,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3201262009,
+      "name": "Cipayung Girang"
+    },
+    {
+      "code": 3201262010,
+      "name": "Sukamahi"
+    },
+    {
+      "code": 3201262011,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3201262012,
+      "name": "Pasir Angin"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3304142001,
+      "name": "Larangan"
+    },
+    {
+      "code": 3304142002,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3304142003,
+      "name": "Aribaya"
+    },
+    {
+      "code": 3304142004,
+      "name": "Nagasari"
+    },
+    {
+      "code": 3304142005,
+      "name": "Gumingsir"
+    },
+    {
+      "code": 3304142006,
+      "name": "Sokaraja"
+    },
+    {
+      "code": 3304142007,
+      "name": "Kayuares"
+    },
+    {
+      "code": 3304142008,
+      "name": "Metawana"
+    },
+    {
+      "code": 3304142009,
+      "name": "Kalitlaga"
+    },
+    {
+      "code": 3304142010,
+      "name": "Karekan"
+    },
+    {
+      "code": 3304142011,
+      "name": "Plumbungan"
+    },
+    {
+      "code": 3304142012,
+      "name": "Pagentan"
+    },
+    {
+      "code": 3304142013,
+      "name": "Kasmaran"
+    },
+    {
+      "code": 3304142014,
+      "name": "Majasari"
+    },
+    {
+      "code": 3304142015,
+      "name": "Babadan"
+    },
+    {
+      "code": 3304142016,
+      "name": "Tegaljeruk"
+    }
+  ]
+}

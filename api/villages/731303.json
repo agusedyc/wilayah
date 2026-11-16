@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7313031001,
+      "name": "Peneki"
+    },
+    {
+      "code": 7313031002,
+      "name": "Bocco"
+    },
+    {
+      "code": 7313032003,
+      "name": "Parigi"
+    },
+    {
+      "code": 7313032004,
+      "name": "Manyili"
+    },
+    {
+      "code": 7313032005,
+      "name": "Soro"
+    },
+    {
+      "code": 7313032006,
+      "name": "Ceppaga"
+    },
+    {
+      "code": 7313032007,
+      "name": "Leweng"
+    },
+    {
+      "code": 7313032008,
+      "name": "Ajuraja"
+    },
+    {
+      "code": 7313032009,
+      "name": "Botto"
+    },
+    {
+      "code": 7313032010,
+      "name": "Lagoari"
+    },
+    {
+      "code": 7313032011,
+      "name": "Aluppang"
+    },
+    {
+      "code": 7313032012,
+      "name": "Lamarua"
+    },
+    {
+      "code": 7313032013,
+      "name": "Pantai Timur"
+    }
+  ]
+}

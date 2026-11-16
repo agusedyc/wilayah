@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3209022008,
+      "name": "Leuweunggajah"
+    },
+    {
+      "code": 3209022009,
+      "name": "Tenjomaya"
+    },
+    {
+      "code": 3209022010,
+      "name": "Damarguna"
+    },
+    {
+      "code": 3209022011,
+      "name": "Jatiseeng"
+    },
+    {
+      "code": 3209022012,
+      "name": "Jatiseeng Kidul"
+    },
+    {
+      "code": 3209022013,
+      "name": "Ciledug Kulon"
+    },
+    {
+      "code": 3209022014,
+      "name": "Ciledug Wetan"
+    },
+    {
+      "code": 3209022015,
+      "name": "Ciledug Lor"
+    },
+    {
+      "code": 3209022016,
+      "name": "Ciledug Tengah"
+    },
+    {
+      "code": 3209022017,
+      "name": "Bojongnegara"
+    }
+  ]
+}

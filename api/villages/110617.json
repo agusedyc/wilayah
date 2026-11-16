@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1106172001,
+      "name": "Lambaro Samahani"
+    },
+    {
+      "code": 1106172002,
+      "name": "Lam Ara Cut"
+    },
+    {
+      "code": 1106172003,
+      "name": "Lam Ara Engkit"
+    },
+    {
+      "code": 1106172004,
+      "name": "Lam Ara Tunong"
+    },
+    {
+      "code": 1106172005,
+      "name": "Leupung Riwat"
+    },
+    {
+      "code": 1106172006,
+      "name": "Tumbo Baro"
+    },
+    {
+      "code": 1106172007,
+      "name": "Leupung Cut"
+    },
+    {
+      "code": 1106172008,
+      "name": "Lamsiteh Cot"
+    },
+    {
+      "code": 1106172009,
+      "name": "Reuleung Karieng"
+    },
+    {
+      "code": 1106172010,
+      "name": "Leubok Buni"
+    },
+    {
+      "code": 1106172011,
+      "name": "Leubok Batee"
+    },
+    {
+      "code": 1106172012,
+      "name": "Bunghu"
+    },
+    {
+      "code": 1106172013,
+      "name": "Teu Dayah"
+    },
+    {
+      "code": 1106172014,
+      "name": "Leupung Rayeuk"
+    },
+    {
+      "code": 1106172015,
+      "name": "Reuleung Glumpang"
+    }
+  ]
+}

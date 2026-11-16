@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9401052001,
+      "name": "Bumi Mulia"
+    },
+    {
+      "code": 9401052002,
+      "name": "Karadiri"
+    },
+    {
+      "code": 9401052003,
+      "name": "Wanggar Makmur"
+    }
+  ]
+}

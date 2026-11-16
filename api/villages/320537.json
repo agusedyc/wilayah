@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3205372001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3205372002,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3205372003,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3205372004,
+      "name": "Mekarmulya"
+    },
+    {
+      "code": 3205372005,
+      "name": "Sukalaksana"
+    },
+    {
+      "code": 3205372006,
+      "name": "Selaawi"
+    },
+    {
+      "code": 3205372007,
+      "name": "Mekarwangi"
+    }
+  ]
+}

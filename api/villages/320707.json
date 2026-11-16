@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3207072001,
+      "name": "Medanglayang"
+    },
+    {
+      "code": 3207072002,
+      "name": "Panumbangan"
+    },
+    {
+      "code": 3207072003,
+      "name": "Sukakerta"
+    },
+    {
+      "code": 3207072004,
+      "name": "Golat"
+    },
+    {
+      "code": 3207072005,
+      "name": "Sindangherang"
+    },
+    {
+      "code": 3207072006,
+      "name": "Banjarangsana"
+    },
+    {
+      "code": 3207072007,
+      "name": "Payungagung"
+    },
+    {
+      "code": 3207072008,
+      "name": "Tanjungmulya"
+    },
+    {
+      "code": 3207072009,
+      "name": "Payungsari"
+    },
+    {
+      "code": 3207072010,
+      "name": "Jayagiri"
+    },
+    {
+      "code": 3207072011,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3207072012,
+      "name": "Sindangmukti"
+    },
+    {
+      "code": 3207072013,
+      "name": "Sindangbarang"
+    },
+    {
+      "code": 3207072014,
+      "name": "Buanamekar"
+    }
+  ]
+}

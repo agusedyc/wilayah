@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9671091001,
+      "name": "Klagete"
+    },
+    {
+      "code": 9671091002,
+      "name": "Malaingkedi"
+    },
+    {
+      "code": 9671091003,
+      "name": "Malamso"
+    },
+    {
+      "code": 9671091004,
+      "name": "Klabulu"
+    }
+  ]
+}

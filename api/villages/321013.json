@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3210132001,
+      "name": "Heuleut"
+    },
+    {
+      "code": 3210132002,
+      "name": "Kadipaten"
+    },
+    {
+      "code": 3210132003,
+      "name": "Babakananyar"
+    },
+    {
+      "code": 3210132004,
+      "name": "Karangsambung"
+    },
+    {
+      "code": 3210132005,
+      "name": "Liangjulang"
+    },
+    {
+      "code": 3210132006,
+      "name": "Pagandon"
+    },
+    {
+      "code": 3210132007,
+      "name": "Cipaku"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206092001,
+      "name": "Tembuni"
+    },
+    {
+      "code": 9206092002,
+      "name": "Mogoi Baru"
+    },
+    {
+      "code": 9206092003,
+      "name": "Araisum"
+    },
+    {
+      "code": 9206092004,
+      "name": "Bangun Mulya"
+    }
+  ]
+}

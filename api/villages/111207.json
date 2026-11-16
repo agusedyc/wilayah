@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1112072001,
+      "name": "Lhang"
+    },
+    {
+      "code": 1112072002,
+      "name": "Rambong"
+    },
+    {
+      "code": 1112072003,
+      "name": "Pisang"
+    },
+    {
+      "code": 1112072004,
+      "name": "Ujung Tanah"
+    },
+    {
+      "code": 1112072005,
+      "name": "Alue Dama"
+    },
+    {
+      "code": 1112072007,
+      "name": "Tangan-Tangan Cut"
+    },
+    {
+      "code": 1112072008,
+      "name": "Mon Mameh"
+    },
+    {
+      "code": 1112072009,
+      "name": "Cinta Makmur"
+    },
+    {
+      "code": 1112072010,
+      "name": "Kuta Murni"
+    }
+  ]
+}

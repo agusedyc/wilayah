@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5302112001,
+      "name": "Olais"
+    },
+    {
+      "code": 5302112002,
+      "name": "Lasi"
+    },
+    {
+      "code": 5302112003,
+      "name": "Kakan"
+    },
+    {
+      "code": 5302112005,
+      "name": "Basmuti"
+    },
+    {
+      "code": 5302112006,
+      "name": "Kusi"
+    },
+    {
+      "code": 5302112007,
+      "name": "Kuanfatu"
+    },
+    {
+      "code": 5302112008,
+      "name": "Kelle"
+    },
+    {
+      "code": 5302112009,
+      "name": "Taupi"
+    },
+    {
+      "code": 5302112010,
+      "name": "Oebo"
+    },
+    {
+      "code": 5302112011,
+      "name": "Kusi Utara"
+    },
+    {
+      "code": 5302112012,
+      "name": "Kelle Tunan"
+    },
+    {
+      "code": 5302112013,
+      "name": "Noebeba"
+    },
+    {
+      "code": 5302112014,
+      "name": "Oehan"
+    }
+  ]
+}

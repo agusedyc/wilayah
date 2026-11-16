@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6171021001,
+      "name": "Paritmayor"
+    },
+    {
+      "code": 6171021002,
+      "name": "Banjar Serasan"
+    },
+    {
+      "code": 6171021003,
+      "name": "Saigon"
+    },
+    {
+      "code": 6171021004,
+      "name": "Tanjung Hulu"
+    },
+    {
+      "code": 6171021005,
+      "name": "Tanjung Hilir"
+    },
+    {
+      "code": 6171021006,
+      "name": "Dalambugis"
+    },
+    {
+      "code": 6171021007,
+      "name": "Tambelansampit"
+    }
+  ]
+}

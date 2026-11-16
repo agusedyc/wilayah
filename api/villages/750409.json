@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7504092001,
+      "name": "Hulawa"
+    },
+    {
+      "code": 7504092002,
+      "name": "Karya Indah"
+    },
+    {
+      "code": 7504092003,
+      "name": "Taluduyunu"
+    },
+    {
+      "code": 7504092004,
+      "name": "Buntulia Utara"
+    },
+    {
+      "code": 7504092005,
+      "name": "Buntulia Tengah"
+    },
+    {
+      "code": 7504092006,
+      "name": "Taluduyunu Utara"
+    },
+    {
+      "code": 7504092007,
+      "name": "Sipatana"
+    }
+  ]
+}

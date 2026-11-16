@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7408152001,
+      "name": "Lawaki Jaya"
+    },
+    {
+      "code": 7408152002,
+      "name": "Patikala"
+    },
+    {
+      "code": 7408152003,
+      "name": "Tolala"
+    },
+    {
+      "code": 7408152004,
+      "name": "Bahari"
+    },
+    {
+      "code": 7408152005,
+      "name": "Leleulu"
+    },
+    {
+      "code": 7408152006,
+      "name": "Loka"
+    }
+  ]
+}

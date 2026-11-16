@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1277021001,
+      "name": "Wek V"
+    },
+    {
+      "code": 1277021002,
+      "name": "Wek VI"
+    },
+    {
+      "code": 1277021003,
+      "name": "Losung"
+    },
+    {
+      "code": 1277021004,
+      "name": "Sitamiang"
+    },
+    {
+      "code": 1277021005,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1277021006,
+      "name": "Aek Tampang"
+    },
+    {
+      "code": 1277021007,
+      "name": "Padang Matinggi"
+    },
+    {
+      "code": 1277021008,
+      "name": "Silandit"
+    },
+    {
+      "code": 1277021009,
+      "name": "Sidangkal"
+    },
+    {
+      "code": 1277021010,
+      "name": "Hanopan"
+    },
+    {
+      "code": 1277021011,
+      "name": "Padang Matinggi Lestari"
+    },
+    {
+      "code": 1277021012,
+      "name": "Sitamiang Baru"
+    }
+  ]
+}

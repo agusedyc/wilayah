@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 regencies",
+  "data": [
+    {
+      "code": 2101,
+      "name": "Kabupaten Bintan"
+    },
+    {
+      "code": 2102,
+      "name": "Kabupaten Karimun"
+    },
+    {
+      "code": 2103,
+      "name": "Kabupaten Natuna"
+    },
+    {
+      "code": 2104,
+      "name": "Kabupaten Lingga"
+    },
+    {
+      "code": 2105,
+      "name": "Kabupaten Kepulauan Anambas"
+    },
+    {
+      "code": 2171,
+      "name": "Kota Batam"
+    },
+    {
+      "code": 2172,
+      "name": "Kota Tanjung Pinang"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1106202001,
+      "name": "Cadek"
+    },
+    {
+      "code": 1106202002,
+      "name": "Kajhu"
+    },
+    {
+      "code": 1106202003,
+      "name": "Baet"
+    },
+    {
+      "code": 1106202004,
+      "name": "Blang Krueng"
+    },
+    {
+      "code": 1106202005,
+      "name": "Klieng Muria"
+    },
+    {
+      "code": 1106202006,
+      "name": "Lam Bada Lhok"
+    },
+    {
+      "code": 1106202007,
+      "name": "Lampineung"
+    },
+    {
+      "code": 1106202008,
+      "name": "Lam Asan"
+    },
+    {
+      "code": 1106202009,
+      "name": "Labuy"
+    },
+    {
+      "code": 1106202010,
+      "name": "Lam Ujong"
+    },
+    {
+      "code": 1106202011,
+      "name": "Klieng Cot Aron"
+    },
+    {
+      "code": 1106202012,
+      "name": "Cot Paya"
+    },
+    {
+      "code": 1106202013,
+      "name": "Miruk Lam Reudep"
+    }
+  ]
+}

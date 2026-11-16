@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6302082001,
+      "name": "Cantung Kiri Hilir"
+    },
+    {
+      "code": 6302082002,
+      "name": "Karang Payau"
+    },
+    {
+      "code": 6302082003,
+      "name": "Banua Lawas"
+    },
+    {
+      "code": 6302082004,
+      "name": "Sungai Kupang"
+    },
+    {
+      "code": 6302082005,
+      "name": "Bangkalaan Melayu"
+    },
+    {
+      "code": 6302082006,
+      "name": "Bangkalaan Dayak"
+    },
+    {
+      "code": 6302082007,
+      "name": "Laburan"
+    },
+    {
+      "code": 6302082008,
+      "name": "Karang Liwar"
+    },
+    {
+      "code": 6302082009,
+      "name": "Mangkirana"
+    },
+    {
+      "code": 6302082010,
+      "name": "Sidomulyo"
+    }
+  ]
+}

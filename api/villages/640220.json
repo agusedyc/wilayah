@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6402201001,
+      "name": "Bukit Merdeka"
+    },
+    {
+      "code": 6402201002,
+      "name": "Sungai Merdeka"
+    },
+    {
+      "code": 6402201003,
+      "name": "Karya Merdeka"
+    },
+    {
+      "code": 6402201005,
+      "name": "Amborawang Darat"
+    },
+    {
+      "code": 6402201006,
+      "name": "Argo Sari"
+    },
+    {
+      "code": 6402201007,
+      "name": "Salok Api Darat"
+    },
+    {
+      "code": 6402201008,
+      "name": "Salok Api Laut"
+    },
+    {
+      "code": 6402201009,
+      "name": "Amborawang Laut"
+    },
+    {
+      "code": 6402201010,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 6402202004,
+      "name": "Tani Bhakti"
+    }
+  ]
+}

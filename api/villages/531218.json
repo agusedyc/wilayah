@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5312182001,
+      "name": "Wee Tana"
+    },
+    {
+      "code": 5312182002,
+      "name": "Gaura"
+    },
+    {
+      "code": 5312182003,
+      "name": "Patiala Dete"
+    },
+    {
+      "code": 5312182004,
+      "name": "Harona Kalla"
+    }
+  ]
+}

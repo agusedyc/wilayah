@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3203072001,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3203072002,
+      "name": "Bojong"
+    },
+    {
+      "code": 3203072003,
+      "name": "Sindanglaka"
+    },
+    {
+      "code": 3203072004,
+      "name": "Maleber"
+    },
+    {
+      "code": 3203072005,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3203072006,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3203072007,
+      "name": "Sukasarana"
+    },
+    {
+      "code": 3203072008,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3203072009,
+      "name": "Babakancaringin"
+    },
+    {
+      "code": 3203072010,
+      "name": "Sabandar"
+    },
+    {
+      "code": 3203072011,
+      "name": "Sindangasih"
+    },
+    {
+      "code": 3203072012,
+      "name": "Sukataris"
+    },
+    {
+      "code": 3203072013,
+      "name": "Langensari"
+    },
+    {
+      "code": 3203072014,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3203072015,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3203072016,
+      "name": "Sukamulya"
+    }
+  ]
+}

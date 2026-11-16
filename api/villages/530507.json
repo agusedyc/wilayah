@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5305072001,
+      "name": "Lembur Barat"
+    },
+    {
+      "code": 5305072002,
+      "name": "Lembur Tengah"
+    },
+    {
+      "code": 5305072004,
+      "name": "Likwatang"
+    },
+    {
+      "code": 5305072007,
+      "name": "Fungafeng"
+    },
+    {
+      "code": 5305072008,
+      "name": "Fuisama"
+    },
+    {
+      "code": 5305072009,
+      "name": "Nur Benlelang"
+    },
+    {
+      "code": 5305072010,
+      "name": "Kafakbeka"
+    },
+    {
+      "code": 5305072011,
+      "name": "Manetwati"
+    },
+    {
+      "code": 5305072012,
+      "name": "Lakwati"
+    },
+    {
+      "code": 5305072014,
+      "name": "Dapitau"
+    },
+    {
+      "code": 5305072017,
+      "name": "Alim Mebung"
+    },
+    {
+      "code": 5305072018,
+      "name": "Petleng"
+    },
+    {
+      "code": 5305072019,
+      "name": "Welai Selatan"
+    },
+    {
+      "code": 5305072020,
+      "name": "Tominuku"
+    }
+  ]
+}

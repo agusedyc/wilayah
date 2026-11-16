@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6106192001,
+      "name": "Nanga Danau"
+    },
+    {
+      "code": 6106192002,
+      "name": "Boyan Tanjung"
+    },
+    {
+      "code": 6106192003,
+      "name": "Riam Mengelai"
+    },
+    {
+      "code": 6106192004,
+      "name": "Nanga Sangan"
+    },
+    {
+      "code": 6106192005,
+      "name": "Sri Wangi"
+    },
+    {
+      "code": 6106192006,
+      "name": "Nanga Boyan"
+    },
+    {
+      "code": 6106192007,
+      "name": "Nanga Betung"
+    },
+    {
+      "code": 6106192008,
+      "name": "Mujan"
+    },
+    {
+      "code": 6106192009,
+      "name": "Nanga Jemah"
+    },
+    {
+      "code": 6106192010,
+      "name": "Tubang Jaya"
+    },
+    {
+      "code": 6106192011,
+      "name": "Karya Maju"
+    },
+    {
+      "code": 6106192012,
+      "name": "Landau Mentail"
+    },
+    {
+      "code": 6106192013,
+      "name": "Delintas Karya"
+    },
+    {
+      "code": 6106192014,
+      "name": "Teluk Geruguk"
+    },
+    {
+      "code": 6106192015,
+      "name": "Nanga Ret"
+    },
+    {
+      "code": 6106192016,
+      "name": "Pemawan"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9603102001,
+      "name": "Dibalal"
+    },
+    {
+      "code": 9603102002,
+      "name": "Tolobi"
+    },
+    {
+      "code": 9603102003,
+      "name": "Deer"
+    },
+    {
+      "code": 9603102004,
+      "name": "Mikiran"
+    },
+    {
+      "code": 9603102005,
+      "name": "Awat"
+    }
+  ]
+}

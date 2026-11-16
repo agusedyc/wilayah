@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6305032001,
+      "name": "Pandulangan"
+    },
+    {
+      "code": 6305032002,
+      "name": "Labung"
+    },
+    {
+      "code": 6305032003,
+      "name": "Mandurian"
+    },
+    {
+      "code": 6305032004,
+      "name": "Serawi"
+    },
+    {
+      "code": 6305032005,
+      "name": "Pematang Karangan Hulu"
+    },
+    {
+      "code": 6305032006,
+      "name": "Pematang Karangan"
+    },
+    {
+      "code": 6305032007,
+      "name": "Pandahan"
+    },
+    {
+      "code": 6305032008,
+      "name": "Pematang Karangan Hilir"
+    },
+    {
+      "code": 6305032009,
+      "name": "Hiyung"
+    },
+    {
+      "code": 6305032010,
+      "name": "Andhika"
+    },
+    {
+      "code": 6305032011,
+      "name": "Sukaramai"
+    },
+    {
+      "code": 6305032012,
+      "name": "Tirik"
+    },
+    {
+      "code": 6305032013,
+      "name": "Kepayang"
+    },
+    {
+      "code": 6305032014,
+      "name": "Batang Lantik"
+    },
+    {
+      "code": 6305032015,
+      "name": "Mandurian Hilir"
+    },
+    {
+      "code": 6305032016,
+      "name": "Sungai Bahalang"
+    },
+    {
+      "code": 6305032017,
+      "name": "Papagan Makmur"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9403232001,
+      "name": "Obaipugaida"
+    },
+    {
+      "code": 9403232002,
+      "name": "Eyagitaida"
+    },
+    {
+      "code": 9403232003,
+      "name": "Momageida"
+    },
+    {
+      "code": 9403232004,
+      "name": "Ekauwiya"
+    },
+    {
+      "code": 9403232005,
+      "name": "DebaKebouda"
+    },
+    {
+      "code": 9403232006,
+      "name": "Kaidoutadi"
+    },
+    {
+      "code": 9403232007,
+      "name": "Pogeidimi"
+    },
+    {
+      "code": 9403232008,
+      "name": "Okonobaida"
+    },
+    {
+      "code": 9403232009,
+      "name": "Gakokotu"
+    },
+    {
+      "code": 9403232010,
+      "name": "Kegama"
+    }
+  ]
+}

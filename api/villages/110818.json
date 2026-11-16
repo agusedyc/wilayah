@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1108182001,
+      "name": "Cot Bada"
+    },
+    {
+      "code": 1108182002,
+      "name": "Alue Dua"
+    },
+    {
+      "code": 1108182003,
+      "name": "Bantayan"
+    },
+    {
+      "code": 1108182004,
+      "name": "Kampong Blang"
+    },
+    {
+      "code": 1108182005,
+      "name": "Paya Tukai"
+    },
+    {
+      "code": 1108182006,
+      "name": "Matang Keutapang"
+    },
+    {
+      "code": 1108182007,
+      "name": "Krueng Lingka"
+    },
+    {
+      "code": 1108182008,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1108182009,
+      "name": "Matang Rubek"
+    },
+    {
+      "code": 1108182010,
+      "name": "Leubok Mane"
+    },
+    {
+      "code": 1108182011,
+      "name": "Matang Teungoh Selatan"
+    },
+    {
+      "code": 1108182012,
+      "name": "Padang Meuria"
+    },
+    {
+      "code": 1108182013,
+      "name": "Alue Krak Kayee"
+    },
+    {
+      "code": 1108182014,
+      "name": "Tanjong Jawa"
+    },
+    {
+      "code": 1108182015,
+      "name": "Meunasah Blang"
+    },
+    {
+      "code": 1108182016,
+      "name": "Tanjong Dalam Selatan"
+    },
+    {
+      "code": 1108182017,
+      "name": "Geudumbak"
+    },
+    {
+      "code": 1108182018,
+      "name": "Langkahan"
+    },
+    {
+      "code": 1108182019,
+      "name": "Rumoh Rayeuk"
+    },
+    {
+      "code": 1108182020,
+      "name": "Buket Linteung"
+    },
+    {
+      "code": 1108182021,
+      "name": "Lubok Pusaka"
+    },
+    {
+      "code": 1108182022,
+      "name": "Seureuke"
+    },
+    {
+      "code": 1108182023,
+      "name": "Pante Gaki Bale"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1506051007,
+      "name": "Merlung"
+    },
+    {
+      "code": 1506052005,
+      "name": "Penyabungan"
+    },
+    {
+      "code": 1506052006,
+      "name": "Lubuk Terap"
+    },
+    {
+      "code": 1506052008,
+      "name": "Tanjung Paku"
+    },
+    {
+      "code": 1506052012,
+      "name": "Tanjung Benanak"
+    },
+    {
+      "code": 1506052013,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 1506052014,
+      "name": "Adi Purwa"
+    },
+    {
+      "code": 1506052018,
+      "name": "Pinang Gading"
+    },
+    {
+      "code": 1506052020,
+      "name": "Merlung"
+    },
+    {
+      "code": 1506052021,
+      "name": "Tanjung Makmur"
+    }
+  ]
+}

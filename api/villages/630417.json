@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6304172001,
+      "name": "Sampurna"
+    },
+    {
+      "code": 6304172002,
+      "name": "Jejangkit Barat"
+    },
+    {
+      "code": 6304172003,
+      "name": "Bahandang"
+    },
+    {
+      "code": 6304172004,
+      "name": "Jejangkit Timur"
+    },
+    {
+      "code": 6304172005,
+      "name": "Cahaya Baru"
+    },
+    {
+      "code": 6304172006,
+      "name": "Jejangkit Pasar"
+    },
+    {
+      "code": 6304172007,
+      "name": "Jejangkit Muara"
+    }
+  ]
+}

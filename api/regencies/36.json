@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 regencies",
+  "data": [
+    {
+      "code": 3601,
+      "name": "Kabupaten Pandeglang"
+    },
+    {
+      "code": 3602,
+      "name": "Kabupaten Lebak"
+    },
+    {
+      "code": 3603,
+      "name": "Kabupaten Tangerang"
+    },
+    {
+      "code": 3604,
+      "name": "Kabupaten Serang"
+    },
+    {
+      "code": 3671,
+      "name": "Kota Tangerang"
+    },
+    {
+      "code": 3672,
+      "name": "Kota Cilegon"
+    },
+    {
+      "code": 3673,
+      "name": "Kota Serang"
+    },
+    {
+      "code": 3674,
+      "name": "Kota Tangerang Selatan"
+    }
+  ]
+}

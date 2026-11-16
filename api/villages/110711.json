@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1107112001,
+      "name": "Blang"
+    },
+    {
+      "code": 1107112002,
+      "name": "Teumeucet"
+    },
+    {
+      "code": 1107112003,
+      "name": "Blang Cut"
+    },
+    {
+      "code": 1107112004,
+      "name": "Kumbang"
+    },
+    {
+      "code": 1107112005,
+      "name": "Pulo Tanjong"
+    },
+    {
+      "code": 1107112006,
+      "name": "Ara Bungkok"
+    },
+    {
+      "code": 1107112007,
+      "name": "Lagang"
+    },
+    {
+      "code": 1107112008,
+      "name": "Mesjid Ilot"
+    },
+    {
+      "code": 1107112009,
+      "name": "Baroh Ilot"
+    },
+    {
+      "code": 1107112010,
+      "name": "Tunong Ilot"
+    },
+    {
+      "code": 1107112011,
+      "name": "Teungoh Ilot"
+    },
+    {
+      "code": 1107112012,
+      "name": "Dayah Andeue"
+    },
+    {
+      "code": 1107112013,
+      "name": "Dayah Sinthop"
+    },
+    {
+      "code": 1107112014,
+      "name": "Kulu"
+    },
+    {
+      "code": 1107112015,
+      "name": "Mesjid Andeue"
+    },
+    {
+      "code": 1107112016,
+      "name": "Meuyub Lala"
+    },
+    {
+      "code": 1107112017,
+      "name": "Tuha Lala"
+    },
+    {
+      "code": 1107112018,
+      "name": "Lhok Lubu"
+    },
+    {
+      "code": 1107112019,
+      "name": "Babah Jurong"
+    },
+    {
+      "code": 1107112020,
+      "name": "Krueng Lala"
+    }
+  ]
+}

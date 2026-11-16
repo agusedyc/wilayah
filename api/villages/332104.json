@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3321042001,
+      "name": "Bulusari"
+    },
+    {
+      "code": 3321042002,
+      "name": "Dombo"
+    },
+    {
+      "code": 3321042003,
+      "name": "Jetaksari"
+    },
+    {
+      "code": 3321042004,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3321042005,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3321042006,
+      "name": "Prampelan"
+    },
+    {
+      "code": 3321042007,
+      "name": "Pilangsari"
+    },
+    {
+      "code": 3321042008,
+      "name": "Tambakroto"
+    },
+    {
+      "code": 3321042009,
+      "name": "Loireng"
+    },
+    {
+      "code": 3321042010,
+      "name": "Sayung"
+    },
+    {
+      "code": 3321042011,
+      "name": "Sriwulan"
+    },
+    {
+      "code": 3321042012,
+      "name": "Bedono"
+    },
+    {
+      "code": 3321042013,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3321042014,
+      "name": "Sidogemah"
+    },
+    {
+      "code": 3321042015,
+      "name": "Gemulak"
+    },
+    {
+      "code": 3321042016,
+      "name": "Timbulsloko"
+    },
+    {
+      "code": 3321042017,
+      "name": "Surodadi"
+    },
+    {
+      "code": 3321042018,
+      "name": "Tugu"
+    },
+    {
+      "code": 3321042019,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3321042020,
+      "name": "Banjarsari"
+    }
+  ]
+}

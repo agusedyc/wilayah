@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7408142001,
+      "name": "Mattiro Bulu"
+    },
+    {
+      "code": 7408142002,
+      "name": "Lawadia"
+    },
+    {
+      "code": 7408142003,
+      "name": "Watumea"
+    },
+    {
+      "code": 7408142004,
+      "name": "Tiwu"
+    },
+    {
+      "code": 7408142005,
+      "name": "Tahibua"
+    },
+    {
+      "code": 7408142006,
+      "name": "Lapolu"
+    },
+    {
+      "code": 7408142007,
+      "name": "Tanggeawo"
+    }
+  ]
+}

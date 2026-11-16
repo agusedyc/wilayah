@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3502092001,
+      "name": "Ngasinan"
+    },
+    {
+      "code": 3502092002,
+      "name": "Kutu Kulon"
+    },
+    {
+      "code": 3502092003,
+      "name": "Kutu Wetan"
+    },
+    {
+      "code": 3502092004,
+      "name": "Kradenan"
+    },
+    {
+      "code": 3502092005,
+      "name": "Mojomati"
+    },
+    {
+      "code": 3502092006,
+      "name": "Coper"
+    },
+    {
+      "code": 3502092007,
+      "name": "Mojorejo"
+    },
+    {
+      "code": 3502092008,
+      "name": "Karanggebang"
+    },
+    {
+      "code": 3502092009,
+      "name": "Jetis"
+    },
+    {
+      "code": 3502092010,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3502092011,
+      "name": "Wonoketro"
+    },
+    {
+      "code": 3502092012,
+      "name": "Josari"
+    },
+    {
+      "code": 3502092013,
+      "name": "Turi"
+    },
+    {
+      "code": 3502092014,
+      "name": "Winong"
+    }
+  ]
+}

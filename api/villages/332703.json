@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3327032001,
+      "name": "Gombong"
+    },
+    {
+      "code": 3327032002,
+      "name": "Belik"
+    },
+    {
+      "code": 3327032003,
+      "name": "Gunungtiga"
+    },
+    {
+      "code": 3327032004,
+      "name": "Kuta"
+    },
+    {
+      "code": 3327032005,
+      "name": "Badak"
+    },
+    {
+      "code": 3327032006,
+      "name": "Gunungjaya"
+    },
+    {
+      "code": 3327032007,
+      "name": "Simpur"
+    },
+    {
+      "code": 3327032008,
+      "name": "Mendelem"
+    },
+    {
+      "code": 3327032009,
+      "name": "Beluk"
+    },
+    {
+      "code": 3327032010,
+      "name": "Bulakan"
+    },
+    {
+      "code": 3327032011,
+      "name": "Sikasur"
+    },
+    {
+      "code": 3327032012,
+      "name": "Kalisaleh"
+    },
+    {
+      "code": 3327032013,
+      "name": "Sodong Basari"
+    }
+  ]
+}

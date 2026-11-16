@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1901082001,
+      "name": "Puding Besar"
+    },
+    {
+      "code": 1901082002,
+      "name": "Labu"
+    },
+    {
+      "code": 1901082003,
+      "name": "Nibung"
+    },
+    {
+      "code": 1901082004,
+      "name": "Tanah Bawah"
+    },
+    {
+      "code": 1901082005,
+      "name": "Saing"
+    },
+    {
+      "code": 1901082006,
+      "name": "Kota Waringin"
+    },
+    {
+      "code": 1901082007,
+      "name": "Kayu Besi"
+    }
+  ]
+}

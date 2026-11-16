@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6302092001,
+      "name": "Tanjung Batu"
+    },
+    {
+      "code": 6302092002,
+      "name": "Sungai Punggawa"
+    },
+    {
+      "code": 6302092003,
+      "name": "Tanah Rata"
+    },
+    {
+      "code": 6302092004,
+      "name": "Sebuli"
+    },
+    {
+      "code": 6302092005,
+      "name": "Sembilang"
+    },
+    {
+      "code": 6302092006,
+      "name": "Tamiang Bakung"
+    },
+    {
+      "code": 6302092007,
+      "name": "Sang-Sang"
+    },
+    {
+      "code": 6302092011,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 6302092012,
+      "name": "Tanjung Selayar"
+    },
+    {
+      "code": 6302092013,
+      "name": "Senakin Seberang"
+    },
+    {
+      "code": 6302092014,
+      "name": "Senakin"
+    },
+    {
+      "code": 6302092016,
+      "name": "Tebing Tinggi"
+    },
+    {
+      "code": 6302092017,
+      "name": "Geronggang"
+    }
+  ]
+}

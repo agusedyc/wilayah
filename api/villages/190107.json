@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1901072001,
+      "name": "Riau"
+    },
+    {
+      "code": 1901072002,
+      "name": "Pangkal Niur"
+    },
+    {
+      "code": 1901072003,
+      "name": "Pugul"
+    },
+    {
+      "code": 1901072004,
+      "name": "Cit"
+    },
+    {
+      "code": 1901072005,
+      "name": "Deniang"
+    },
+    {
+      "code": 1901072006,
+      "name": "Silip"
+    },
+    {
+      "code": 1901072007,
+      "name": "Mapur"
+    },
+    {
+      "code": 1901072008,
+      "name": "Banyu Asin"
+    },
+    {
+      "code": 1901072009,
+      "name": "Berbura"
+    }
+  ]
+}

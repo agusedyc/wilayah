@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1304082001,
+      "name": "Simpuruik"
+    },
+    {
+      "code": 1304082002,
+      "name": "Sungai Tarab"
+    },
+    {
+      "code": 1304082003,
+      "name": "Gurun"
+    },
+    {
+      "code": 1304082004,
+      "name": "Talang Tangah"
+    },
+    {
+      "code": 1304082005,
+      "name": "Padang Laweh"
+    },
+    {
+      "code": 1304082006,
+      "name": "Pasie Laweh"
+    },
+    {
+      "code": 1304082007,
+      "name": "Koto Tuo"
+    },
+    {
+      "code": 1304082008,
+      "name": "Rao Rao"
+    },
+    {
+      "code": 1304082009,
+      "name": "Kumango"
+    },
+    {
+      "code": 1304082010,
+      "name": "Koto Baru"
+    }
+  ]
+}

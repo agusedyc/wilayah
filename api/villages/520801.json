@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5208012001,
+      "name": "Tanjung"
+    },
+    {
+      "code": 5208012002,
+      "name": "Sokong"
+    },
+    {
+      "code": 5208012003,
+      "name": "Jenggala"
+    },
+    {
+      "code": 5208012004,
+      "name": "Tegal Maja"
+    },
+    {
+      "code": 5208012005,
+      "name": "Sigar Penjalin"
+    },
+    {
+      "code": 5208012006,
+      "name": "Medana"
+    },
+    {
+      "code": 5208012007,
+      "name": "Teniga"
+    },
+    {
+      "code": 5208012008,
+      "name": "Sama Guna"
+    }
+  ]
+}

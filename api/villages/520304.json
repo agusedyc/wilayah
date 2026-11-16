@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5203042001,
+      "name": "Semaya"
+    },
+    {
+      "code": 5203042002,
+      "name": "Sikur"
+    },
+    {
+      "code": 5203042003,
+      "name": "Montong Baan"
+    },
+    {
+      "code": 5203042004,
+      "name": "Loyok"
+    },
+    {
+      "code": 5203042005,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 5203042006,
+      "name": "Tete Batu"
+    },
+    {
+      "code": 5203042007,
+      "name": "Kembang Kuning"
+    },
+    {
+      "code": 5203042008,
+      "name": "Montong Baan Selatan"
+    },
+    {
+      "code": 5203042009,
+      "name": "Gelora"
+    },
+    {
+      "code": 5203042010,
+      "name": "Darmasari"
+    },
+    {
+      "code": 5203042011,
+      "name": "Tetebatu Selatan"
+    },
+    {
+      "code": 5203042012,
+      "name": "Jeruk Manis"
+    },
+    {
+      "code": 5203042013,
+      "name": "Sikur Selatan"
+    },
+    {
+      "code": 5203042014,
+      "name": "Sikur Barat"
+    }
+  ]
+}

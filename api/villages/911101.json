@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9111012001,
+      "name": "Banda"
+    },
+    {
+      "code": 9111012002,
+      "name": "Pund"
+    },
+    {
+      "code": 9111012003,
+      "name": "Kalifam"
+    },
+    {
+      "code": 9111012004,
+      "name": "Yuwainda"
+    },
+    {
+      "code": 9111012005,
+      "name": "Kalimala"
+    },
+    {
+      "code": 9111012006,
+      "name": "Ampas"
+    },
+    {
+      "code": 9111012007,
+      "name": "Bompai"
+    },
+    {
+      "code": 9111012008,
+      "name": "Sack"
+    }
+  ]
+}

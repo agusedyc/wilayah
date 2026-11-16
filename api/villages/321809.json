@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3218092001,
+      "name": "Babakan"
+    },
+    {
+      "code": 3218092002,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3218092003,
+      "name": "Purbahayu"
+    },
+    {
+      "code": 3218092004,
+      "name": "Pangandaran"
+    },
+    {
+      "code": 3218092005,
+      "name": "Wonoharjo"
+    },
+    {
+      "code": 3218092006,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3218092007,
+      "name": "Pananjung"
+    },
+    {
+      "code": 3218092008,
+      "name": "Pagergunung"
+    }
+  ]
+}

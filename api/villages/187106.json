@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871061001,
+      "name": "Durian Payung"
+    },
+    {
+      "code": 1871061002,
+      "name": "Gotong Royong"
+    },
+    {
+      "code": 1871061005,
+      "name": "Palapa"
+    },
+    {
+      "code": 1871061006,
+      "name": "Kaliawi"
+    },
+    {
+      "code": 1871061007,
+      "name": "Kelapa Tiga"
+    },
+    {
+      "code": 1871061010,
+      "name": "Pasir Gintung"
+    },
+    {
+      "code": 1871061012,
+      "name": "Kaliawi Persada"
+    }
+  ]
+}

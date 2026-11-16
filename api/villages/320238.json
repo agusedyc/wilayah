@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202382001,
+      "name": "Purabaya"
+    },
+    {
+      "code": 3202382002,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3202382003,
+      "name": "Pagelaran"
+    },
+    {
+      "code": 3202382004,
+      "name": "Cimerang"
+    },
+    {
+      "code": 3202382005,
+      "name": "Citamiang"
+    },
+    {
+      "code": 3202382006,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3202382007,
+      "name": "Cicukang"
+    }
+  ]
+}

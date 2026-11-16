@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3201172001,
+      "name": "Purwabakti"
+    },
+    {
+      "code": 3201172002,
+      "name": "Cibunian"
+    },
+    {
+      "code": 3201172003,
+      "name": "Cibitung Wetan"
+    },
+    {
+      "code": 3201172004,
+      "name": "Gunung Menyan"
+    },
+    {
+      "code": 3201172005,
+      "name": "Gunung Bunder II"
+    },
+    {
+      "code": 3201172006,
+      "name": "Pasarean"
+    },
+    {
+      "code": 3201172007,
+      "name": "Cimayang"
+    },
+    {
+      "code": 3201172008,
+      "name": "Pamijahan"
+    },
+    {
+      "code": 3201172009,
+      "name": "Cibening"
+    },
+    {
+      "code": 3201172010,
+      "name": "Gunung Bunder I"
+    },
+    {
+      "code": 3201172011,
+      "name": "Cibitung Kulon"
+    },
+    {
+      "code": 3201172012,
+      "name": "Gunung Picung"
+    },
+    {
+      "code": 3201172013,
+      "name": "Ciasihan"
+    },
+    {
+      "code": 3201172014,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 3201172015,
+      "name": "Ciasmara"
+    }
+  ]
+}

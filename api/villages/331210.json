@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3312101006,
+      "name": "Pagutan"
+    },
+    {
+      "code": 3312101007,
+      "name": "Punduhsari"
+    },
+    {
+      "code": 3312102001,
+      "name": "Kepuhsari"
+    },
+    {
+      "code": 3312102002,
+      "name": "Pijiharjo"
+    },
+    {
+      "code": 3312102003,
+      "name": "Bero"
+    },
+    {
+      "code": 3312102004,
+      "name": "Gunungan"
+    },
+    {
+      "code": 3312102005,
+      "name": "Karanglor"
+    }
+  ]
+}

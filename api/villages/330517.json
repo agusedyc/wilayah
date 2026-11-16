@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3305172001,
+      "name": "Redisari"
+    },
+    {
+      "code": 3305172002,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3305172003,
+      "name": "Pringtutul"
+    },
+    {
+      "code": 3305172004,
+      "name": "Rowokele"
+    },
+    {
+      "code": 3305172005,
+      "name": "Bumiagung"
+    },
+    {
+      "code": 3305172006,
+      "name": "Jatiluhur"
+    },
+    {
+      "code": 3305172007,
+      "name": "Kretek"
+    },
+    {
+      "code": 3305172008,
+      "name": "Sukomulyo"
+    },
+    {
+      "code": 3305172009,
+      "name": "Giyanti"
+    },
+    {
+      "code": 3305172010,
+      "name": "Wonoharjo"
+    },
+    {
+      "code": 3305172011,
+      "name": "Wagirpandan"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8204182001,
+      "name": "Sawangakar"
+    },
+    {
+      "code": 8204182002,
+      "name": "Bajo"
+    },
+    {
+      "code": 8204182003,
+      "name": "Tanjung Obit"
+    },
+    {
+      "code": 8204182004,
+      "name": "Prapakanda"
+    },
+    {
+      "code": 8204182005,
+      "name": "Toin"
+    },
+    {
+      "code": 8204182006,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 8204182007,
+      "name": "Batutaga"
+    },
+    {
+      "code": 8204182008,
+      "name": "Paisumbaos"
+    }
+  ]
+}

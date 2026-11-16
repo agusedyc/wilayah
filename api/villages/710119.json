@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7101192001,
+      "name": "Muntoi"
+    },
+    {
+      "code": 7101192002,
+      "name": "Poyuyanan"
+    },
+    {
+      "code": 7101192003,
+      "name": "Lobong"
+    },
+    {
+      "code": 7101192004,
+      "name": "Passi"
+    },
+    {
+      "code": 7101192017,
+      "name": "Bintau"
+    },
+    {
+      "code": 7101192018,
+      "name": "Bulud"
+    },
+    {
+      "code": 7101192019,
+      "name": "Otam"
+    },
+    {
+      "code": 7101192020,
+      "name": "Wangga"
+    },
+    {
+      "code": 7101192022,
+      "name": "Inuai"
+    },
+    {
+      "code": 7101192023,
+      "name": "Passi II"
+    },
+    {
+      "code": 7101192024,
+      "name": "Muntoi Timur"
+    },
+    {
+      "code": 7101192025,
+      "name": "Otam Barat"
+    },
+    {
+      "code": 7101192026,
+      "name": "Wangga Satu"
+    }
+  ]
+}

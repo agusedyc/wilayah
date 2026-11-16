@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3508192001,
+      "name": "Kebonan"
+    },
+    {
+      "code": 3508192002,
+      "name": "Kudus"
+    },
+    {
+      "code": 3508192003,
+      "name": "Duren"
+    },
+    {
+      "code": 3508192004,
+      "name": "Sumberwringin"
+    },
+    {
+      "code": 3508192005,
+      "name": "Papringan"
+    },
+    {
+      "code": 3508192006,
+      "name": "Ranupakis"
+    },
+    {
+      "code": 3508192007,
+      "name": "Tegalrandu"
+    },
+    {
+      "code": 3508192008,
+      "name": "Klakah"
+    },
+    {
+      "code": 3508192009,
+      "name": "Mlawang"
+    },
+    {
+      "code": 3508192010,
+      "name": "Sruni"
+    },
+    {
+      "code": 3508192011,
+      "name": "Tegalciut"
+    },
+    {
+      "code": 3508192012,
+      "name": "Sawaran Lor"
+    }
+  ]
+}

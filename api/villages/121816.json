@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1218162001,
+      "name": "Penggalian"
+    },
+    {
+      "code": 1218162002,
+      "name": "Laut Tador"
+    },
+    {
+      "code": 1218162003,
+      "name": "Tanah Besih"
+    },
+    {
+      "code": 1218162004,
+      "name": "Binjai"
+    },
+    {
+      "code": 1218162005,
+      "name": "Paya Pasir"
+    },
+    {
+      "code": 1218162006,
+      "name": "Bahilang"
+    },
+    {
+      "code": 1218162007,
+      "name": "Penggalangan"
+    },
+    {
+      "code": 1218162008,
+      "name": "Paya Pinang"
+    },
+    {
+      "code": 1218162009,
+      "name": "Kuta Pinang"
+    },
+    {
+      "code": 1218162010,
+      "name": "Sibulan"
+    }
+  ]
+}

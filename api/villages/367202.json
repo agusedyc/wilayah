@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3672021001,
+      "name": "Bagendung"
+    },
+    {
+      "code": 3672021002,
+      "name": "Ciwedus"
+    },
+    {
+      "code": 3672021003,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3672021004,
+      "name": "Ketileng"
+    },
+    {
+      "code": 3672021005,
+      "name": "Ciwaduk"
+    }
+  ]
+}

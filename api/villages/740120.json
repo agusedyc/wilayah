@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7401201001,
+      "name": "Tosiba"
+    },
+    {
+      "code": 7401201013,
+      "name": "Tonganapo"
+    },
+    {
+      "code": 7401202002,
+      "name": "Konaweha"
+    },
+    {
+      "code": 7401202003,
+      "name": "Kaloloa"
+    },
+    {
+      "code": 7401202004,
+      "name": "Tamboli"
+    },
+    {
+      "code": 7401202005,
+      "name": "Lambolemo"
+    },
+    {
+      "code": 7401202006,
+      "name": "Amamutu"
+    },
+    {
+      "code": 7401202007,
+      "name": "Lawulo"
+    },
+    {
+      "code": 7401202008,
+      "name": "Awa"
+    },
+    {
+      "code": 7401202009,
+      "name": "Latuo"
+    },
+    {
+      "code": 7401202010,
+      "name": "Wawo Tambali"
+    },
+    {
+      "code": 7401202011,
+      "name": "Malaha"
+    },
+    {
+      "code": 7401202012,
+      "name": "Sani-sani"
+    },
+    {
+      "code": 7401202014,
+      "name": "Ulu Konaweha"
+    },
+    {
+      "code": 7401202015,
+      "name": "Puu Tamboli"
+    },
+    {
+      "code": 7401202016,
+      "name": "Ulaweng"
+    },
+    {
+      "code": 7401202017,
+      "name": "Puu Lawulo"
+    },
+    {
+      "code": 7401202018,
+      "name": "Liku"
+    },
+    {
+      "code": 7401202019,
+      "name": "Meura"
+    }
+  ]
+}

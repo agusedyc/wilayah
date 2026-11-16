@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1214352001,
+      "name": "Lahusa Idanotae"
+    },
+    {
+      "code": 1214352002,
+      "name": "Hiliserangkai"
+    },
+    {
+      "code": 1214352003,
+      "name": "Orahua"
+    },
+    {
+      "code": 1214352004,
+      "name": "Hilimbowo Idanotae"
+    },
+    {
+      "code": 1214352005,
+      "name": "Sirahia"
+    },
+    {
+      "code": 1214352006,
+      "name": "Umbu Idanotae"
+    },
+    {
+      "code": 1214352007,
+      "name": "Awoni"
+    },
+    {
+      "code": 1214352008,
+      "name": "Hilisalo'o"
+    },
+    {
+      "code": 1214352009,
+      "name": "Balombaruzo Orahua"
+    },
+    {
+      "code": 1214352010,
+      "name": "Harefa Orahua"
+    },
+    {
+      "code": 1214352011,
+      "name": "Hiligabungan"
+    },
+    {
+      "code": 1214352012,
+      "name": "Buhawa"
+    }
+  ]
+}

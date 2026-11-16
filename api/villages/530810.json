@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5308102001,
+      "name": "Maurole"
+    },
+    {
+      "code": 5308102003,
+      "name": "Aewora"
+    },
+    {
+      "code": 5308102005,
+      "name": "Mausambi"
+    },
+    {
+      "code": 5308102006,
+      "name": "Ranakolo"
+    },
+    {
+      "code": 5308102007,
+      "name": "Watukamba"
+    },
+    {
+      "code": 5308102008,
+      "name": "Ranakolo Selatan"
+    },
+    {
+      "code": 5308102009,
+      "name": "Keliwumbu"
+    },
+    {
+      "code": 5308102018,
+      "name": "Detuwulu"
+    },
+    {
+      "code": 5308102019,
+      "name": "Otogedu"
+    },
+    {
+      "code": 5308102020,
+      "name": "Woloau"
+    },
+    {
+      "code": 5308102021,
+      "name": "Ngalukoja"
+    },
+    {
+      "code": 5308102022,
+      "name": "Niranusa"
+    },
+    {
+      "code": 5308102023,
+      "name": "Uludala"
+    }
+  ]
+}

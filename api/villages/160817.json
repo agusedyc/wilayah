@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1608172001,
+      "name": "Rejosari"
+    },
+    {
+      "code": 1608172002,
+      "name": "Sido Rejo"
+    },
+    {
+      "code": 1608172003,
+      "name": "Banjar Rejo"
+    },
+    {
+      "code": 1608172004,
+      "name": "Panca Tunggal"
+    },
+    {
+      "code": 1608172005,
+      "name": "Marga Koyo"
+    },
+    {
+      "code": 1608172006,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1608172007,
+      "name": "Karsa Jaya"
+    },
+    {
+      "code": 1608172008,
+      "name": "Windusari"
+    },
+    {
+      "code": 1608172009,
+      "name": "Karya Makmur"
+    },
+    {
+      "code": 1608172010,
+      "name": "Giri Mulyo"
+    },
+    {
+      "code": 1608172011,
+      "name": "Madugondo"
+    },
+    {
+      "code": 1608172012,
+      "name": "Argomulyo"
+    },
+    {
+      "code": 1608172013,
+      "name": "Rejosari Jaya"
+    }
+  ]
+}

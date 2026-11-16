@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3521032001,
+      "name": "Umbulrejo"
+    },
+    {
+      "code": 3521032002,
+      "name": "Kletekan"
+    },
+    {
+      "code": 3521032003,
+      "name": "Jaten"
+    },
+    {
+      "code": 3521032004,
+      "name": "Girimulyo"
+    },
+    {
+      "code": 3521032005,
+      "name": "Ngrayudan"
+    },
+    {
+      "code": 3521032006,
+      "name": "Talang"
+    },
+    {
+      "code": 3521032007,
+      "name": "Macanan"
+    },
+    {
+      "code": 3521032008,
+      "name": "Brubuh"
+    },
+    {
+      "code": 3521032009,
+      "name": "Jogorogo"
+    },
+    {
+      "code": 3521032010,
+      "name": "Dawung"
+    },
+    {
+      "code": 3521032011,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3521032012,
+      "name": "Soco"
+    }
+  ]
+}

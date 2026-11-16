@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3527042001,
+      "name": "Taddan"
+    },
+    {
+      "code": 3527042002,
+      "name": "Banjar Talela"
+    },
+    {
+      "code": 3527042003,
+      "name": "\"Tamba\"\"an\""
+    },
+    {
+      "code": 3527042004,
+      "name": "Prajjan"
+    },
+    {
+      "code": 3527042005,
+      "name": "Dharma Camplong"
+    },
+    {
+      "code": 3527042006,
+      "name": "Batukarang"
+    },
+    {
+      "code": 3527042007,
+      "name": "Sejati"
+    },
+    {
+      "code": 3527042008,
+      "name": "Dharma Tanjung"
+    },
+    {
+      "code": 3527042009,
+      "name": "Rabasan"
+    },
+    {
+      "code": 3527042010,
+      "name": "Banjartabulu"
+    },
+    {
+      "code": 3527042011,
+      "name": "Anggersek"
+    },
+    {
+      "code": 3527042012,
+      "name": "Madupat"
+    },
+    {
+      "code": 3527042013,
+      "name": "\"Pamola\"\"an\""
+    },
+    {
+      "code": 3527042014,
+      "name": "\"Plampa\"\"an\""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9115142001,
+      "name": "Odase"
+    },
+    {
+      "code": 9115142002,
+      "name": "Wanda"
+    },
+    {
+      "code": 9115142003,
+      "name": "Bakadaro"
+    },
+    {
+      "code": 9115142004,
+      "name": "Moyufuri"
+    },
+    {
+      "code": 9115142005,
+      "name": "Wonti Kai"
+    },
+    {
+      "code": 9115142006,
+      "name": "Ghoiwi Samberi"
+    },
+    {
+      "code": 9115142007,
+      "name": "Gheroi"
+    },
+    {
+      "code": 9115142008,
+      "name": "Fimore"
+    },
+    {
+      "code": 9115142009,
+      "name": "Sifuisera"
+    },
+    {
+      "code": 9115142010,
+      "name": "Borumei"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3507122001,
+      "name": "Ternyang"
+    },
+    {
+      "code": 3507122002,
+      "name": "Senggreng"
+    },
+    {
+      "code": 3507122003,
+      "name": "Sambigede"
+    },
+    {
+      "code": 3507122004,
+      "name": "Ngebruk"
+    },
+    {
+      "code": 3507122005,
+      "name": "Jatiguwi"
+    },
+    {
+      "code": 3507122006,
+      "name": "Sumberpucung"
+    },
+    {
+      "code": 3507122007,
+      "name": "Karangkates"
+    }
+  ]
+}

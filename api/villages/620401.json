@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6204011003,
+      "name": "Rantau Kujang"
+    },
+    {
+      "code": 6204012001,
+      "name": "Tampulang"
+    },
+    {
+      "code": 6204012002,
+      "name": "Rantau Bahuang"
+    },
+    {
+      "code": 6204012004,
+      "name": "Rangga Ilung"
+    },
+    {
+      "code": 6204012005,
+      "name": "Tabatan"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1871201001,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1871201002,
+      "name": "Bumi Waras"
+    },
+    {
+      "code": 1871201003,
+      "name": "Garuntang"
+    },
+    {
+      "code": 1871201004,
+      "name": "Bumi Raya"
+    },
+    {
+      "code": 1871201005,
+      "name": "Kangkung"
+    }
+  ]
+}

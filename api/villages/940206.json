@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9402062001,
+      "name": "Mepar"
+    },
+    {
+      "code": 9402062002,
+      "name": "Anebalui"
+    },
+    {
+      "code": 9402062003,
+      "name": "Pagolome"
+    },
+    {
+      "code": 9402062004,
+      "name": "Tombok"
+    },
+    {
+      "code": 9402062005,
+      "name": "Kering"
+    },
+    {
+      "code": 9402062006,
+      "name": "Meyongga"
+    },
+    {
+      "code": 9402062007,
+      "name": "Oum"
+    },
+    {
+      "code": 9402062008,
+      "name": "Nume"
+    },
+    {
+      "code": 9402062009,
+      "name": "Yawor"
+    },
+    {
+      "code": 9402062010,
+      "name": "Wurina"
+    },
+    {
+      "code": 9402062011,
+      "name": "Woraluk"
+    },
+    {
+      "code": 9402062012,
+      "name": "Onendu"
+    },
+    {
+      "code": 9402062013,
+      "name": "Akwibaga"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3528041001,
+      "name": "Kangenan"
+    },
+    {
+      "code": 3528041003,
+      "name": "Patemon"
+    },
+    {
+      "code": 3528041011,
+      "name": "Bugih"
+    },
+    {
+      "code": 3528041012,
+      "name": "Jungcangcang"
+    },
+    {
+      "code": 3528041013,
+      "name": "Parteker"
+    },
+    {
+      "code": 3528041014,
+      "name": "Barurambat Kota"
+    },
+    {
+      "code": 3528041015,
+      "name": "Gladak Anyar"
+    },
+    {
+      "code": 3528041016,
+      "name": "Kolpajung"
+    },
+    {
+      "code": 3528041017,
+      "name": "Kowel"
+    },
+    {
+      "code": 3528042002,
+      "name": "Panempan"
+    },
+    {
+      "code": 3528042004,
+      "name": "Laden"
+    },
+    {
+      "code": 3528042005,
+      "name": "Jalmak"
+    },
+    {
+      "code": 3528042006,
+      "name": "Teja Barat"
+    },
+    {
+      "code": 3528042007,
+      "name": "Teja Timur"
+    },
+    {
+      "code": 3528042008,
+      "name": "Bettet"
+    },
+    {
+      "code": 3528042009,
+      "name": "Nyalabu Laok"
+    },
+    {
+      "code": 3528042010,
+      "name": "Nyalabu Daya"
+    },
+    {
+      "code": 3528042018,
+      "name": "Toronan"
+    }
+  ]
+}

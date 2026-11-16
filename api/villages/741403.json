@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7414031003,
+      "name": "Lakorua"
+    },
+    {
+      "code": 7414032001,
+      "name": "Morikana"
+    },
+    {
+      "code": 7414032002,
+      "name": "Lantongau"
+    },
+    {
+      "code": 7414032004,
+      "name": "Lanto"
+    },
+    {
+      "code": 7414032005,
+      "name": "Lalibo"
+    },
+    {
+      "code": 7414032006,
+      "name": "Langkomu"
+    },
+    {
+      "code": 7414032007,
+      "name": "Watorumbe"
+    },
+    {
+      "code": 7414032008,
+      "name": "Watorumbe Bata"
+    },
+    {
+      "code": 7414032009,
+      "name": "Gundu Gundu"
+    },
+    {
+      "code": 7414032010,
+      "name": "Katukobari"
+    }
+  ]
+}

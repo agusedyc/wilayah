@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9508032001,
+      "name": "Yigi"
+    },
+    {
+      "code": 9508032002,
+      "name": "Ekilapo"
+    },
+    {
+      "code": 9508032003,
+      "name": "Suwenem"
+    },
+    {
+      "code": 9508032004,
+      "name": "Karunggame"
+    },
+    {
+      "code": 9508032005,
+      "name": "Sirit"
+    },
+    {
+      "code": 9508032006,
+      "name": "Disendobo"
+    },
+    {
+      "code": 9508032007,
+      "name": "Sumbo"
+    },
+    {
+      "code": 9508032008,
+      "name": "Yebadolma"
+    },
+    {
+      "code": 9508032009,
+      "name": "Lumbukdumu"
+    },
+    {
+      "code": 9508032010,
+      "name": "Wiritlak"
+    },
+    {
+      "code": 9508032011,
+      "name": "Delsa"
+    },
+    {
+      "code": 9508032012,
+      "name": "Borot"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102222001,
+      "name": "Kayuuwi"
+    },
+    {
+      "code": 7102222002,
+      "name": "Kayuuwi Satu"
+    },
+    {
+      "code": 7102222003,
+      "name": "Kanonang Satu"
+    },
+    {
+      "code": 7102222004,
+      "name": "Kanonang Dua"
+    },
+    {
+      "code": 7102222005,
+      "name": "Kanonang Empat"
+    },
+    {
+      "code": 7102222006,
+      "name": "Kanonang Lima"
+    },
+    {
+      "code": 7102222007,
+      "name": "Tombasian Atas"
+    },
+    {
+      "code": 7102222008,
+      "name": "Tombasian Atas Satu"
+    },
+    {
+      "code": 7102222009,
+      "name": "Tombasian Bawah"
+    },
+    {
+      "code": 7102222010,
+      "name": "Ranolambot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1376041001,
+      "name": "Sungai Durian"
+    },
+    {
+      "code": 1376041002,
+      "name": "Parit Muko Aie"
+    },
+    {
+      "code": 1376041003,
+      "name": "Parambahan"
+    },
+    {
+      "code": 1376041004,
+      "name": "Padang Sikabu"
+    },
+    {
+      "code": 1376041005,
+      "name": "Koto Panjang Padang"
+    },
+    {
+      "code": 1376041006,
+      "name": "Koto Panjang Dalam"
+    }
+  ]
+}

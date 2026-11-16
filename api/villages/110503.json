@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1105032001,
+      "name": "Tungkop"
+    },
+    {
+      "code": 1105032002,
+      "name": "Sakuy"
+    },
+    {
+      "code": 1105032003,
+      "name": "Kajeung"
+    },
+    {
+      "code": 1105032004,
+      "name": "Geudong"
+    },
+    {
+      "code": 1105032005,
+      "name": "Sarah Perlak"
+    },
+    {
+      "code": 1105032006,
+      "name": "Tutut"
+    },
+    {
+      "code": 1105032007,
+      "name": "Drien Sibak"
+    },
+    {
+      "code": 1105032008,
+      "name": "Tuwi Saya"
+    },
+    {
+      "code": 1105032009,
+      "name": "Lancong"
+    },
+    {
+      "code": 1105032010,
+      "name": "Sipot"
+    },
+    {
+      "code": 1105032011,
+      "name": "Pungkie"
+    },
+    {
+      "code": 1105032012,
+      "name": "Gunong Buloh"
+    },
+    {
+      "code": 1105032013,
+      "name": "Ramitie"
+    },
+    {
+      "code": 1105032014,
+      "name": "Lubok Beutong"
+    },
+    {
+      "code": 1105032015,
+      "name": "Gleng"
+    },
+    {
+      "code": 1105032016,
+      "name": "Tanoh Mirah"
+    },
+    {
+      "code": 1105032017,
+      "name": "Gaseu"
+    },
+    {
+      "code": 1105032018,
+      "name": "Lueng Baro"
+    }
+  ]
+}

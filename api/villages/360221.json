@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3602212001,
+      "name": "Wanasalam"
+    },
+    {
+      "code": 3602212002,
+      "name": "Bejod"
+    },
+    {
+      "code": 3602212003,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3602212004,
+      "name": "Cipeucang"
+    },
+    {
+      "code": 3602212005,
+      "name": "Muara"
+    },
+    {
+      "code": 3602212006,
+      "name": "Parungpanjang"
+    },
+    {
+      "code": 3602212007,
+      "name": "Cikeusik"
+    },
+    {
+      "code": 3602212008,
+      "name": "Katapang"
+    },
+    {
+      "code": 3602212009,
+      "name": "Cisarap"
+    },
+    {
+      "code": 3602212010,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3602212011,
+      "name": "Cipedang"
+    },
+    {
+      "code": 3602212012,
+      "name": "Parungsari"
+    },
+    {
+      "code": 3602212013,
+      "name": "Karangpamindangan"
+    }
+  ]
+}

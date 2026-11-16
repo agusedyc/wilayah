@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1103092001,
+      "name": "Peulalu"
+    },
+    {
+      "code": 1103092002,
+      "name": "Nicah Awe"
+    },
+    {
+      "code": 1103092003,
+      "name": "Alue Buloh Sa"
+    },
+    {
+      "code": 1103092004,
+      "name": "Alue Buloh Dua"
+    },
+    {
+      "code": 1103092005,
+      "name": "Teupin Breuh"
+    },
+    {
+      "code": 1103092006,
+      "name": "Matang Rayeuk"
+    },
+    {
+      "code": 1103092007,
+      "name": "Matang Kumbang"
+    },
+    {
+      "code": 1103092008,
+      "name": "Blang Nie"
+    },
+    {
+      "code": 1103092010,
+      "name": "Bantayan"
+    },
+    {
+      "code": 1103092011,
+      "name": "Matang Weng"
+    },
+    {
+      "code": 1103092012,
+      "name": "Alue Mulieng"
+    },
+    {
+      "code": 1103092013,
+      "name": "Pucok Alue Dua"
+    },
+    {
+      "code": 1103092014,
+      "name": "Gampong Blang"
+    },
+    {
+      "code": 1103092015,
+      "name": "Keude Tuha"
+    },
+    {
+      "code": 1103092016,
+      "name": "Kuala Simpang Ulim"
+    },
+    {
+      "code": 1103092017,
+      "name": "Lampoh Rayeuk"
+    },
+    {
+      "code": 1103092018,
+      "name": "Teupin Mamplam"
+    },
+    {
+      "code": 1103092019,
+      "name": "Titi Baroh"
+    },
+    {
+      "code": 1103092020,
+      "name": "Pucok Alue Sa"
+    },
+    {
+      "code": 1103092021,
+      "name": "Pucok Alue Barat"
+    },
+    {
+      "code": 1103092022,
+      "name": "Arakundo"
+    },
+    {
+      "code": 1103092023,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1103092024,
+      "name": "Matang Seupeng"
+    }
+  ]
+}

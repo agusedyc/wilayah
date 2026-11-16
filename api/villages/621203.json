@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 6212031003,
+      "name": "Muara Laung I"
+    },
+    {
+      "code": 6212031006,
+      "name": "Muara Tuhup"
+    },
+    {
+      "code": 6212031031,
+      "name": "Batu Bua I"
+    },
+    {
+      "code": 6212032001,
+      "name": "Batu Tuhup"
+    },
+    {
+      "code": 6212032002,
+      "name": "Tumbang Bahan"
+    },
+    {
+      "code": 6212032004,
+      "name": "Muara Laung II"
+    },
+    {
+      "code": 6212032005,
+      "name": "Beras Balange"
+    },
+    {
+      "code": 6212032010,
+      "name": "Pelaci"
+    },
+    {
+      "code": 6212032011,
+      "name": "Biha"
+    },
+    {
+      "code": 6212032012,
+      "name": "Dirung Pundu"
+    },
+    {
+      "code": 6212032013,
+      "name": "Dirung Pinang"
+    },
+    {
+      "code": 6212032014,
+      "name": "Muara Tupuh"
+    },
+    {
+      "code": 6212032015,
+      "name": "Narui"
+    },
+    {
+      "code": 6212032016,
+      "name": "Tumbang Bana"
+    },
+    {
+      "code": 6212032017,
+      "name": "Lakutan"
+    },
+    {
+      "code": 6212032018,
+      "name": "Tawai Haui"
+    },
+    {
+      "code": 6212032026,
+      "name": "Penda Siron"
+    },
+    {
+      "code": 6212032027,
+      "name": "Muara Maruwei I"
+    },
+    {
+      "code": 6212032028,
+      "name": "Muara Maruwei II"
+    },
+    {
+      "code": 6212032029,
+      "name": "Beralang"
+    },
+    {
+      "code": 6212032030,
+      "name": "Kalang Dohong"
+    },
+    {
+      "code": 6212032032,
+      "name": "Batu Bua II"
+    },
+    {
+      "code": 6212032033,
+      "name": "Tahujan Laung"
+    },
+    {
+      "code": 6212032034,
+      "name": "Tumbang Bondang"
+    },
+    {
+      "code": 6212032035,
+      "name": "Tumbang Tonduk"
+    },
+    {
+      "code": 6212032037,
+      "name": "Batu Karang"
+    }
+  ]
+}

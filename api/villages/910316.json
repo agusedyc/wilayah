@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9103162001,
+      "name": "Hulu Atas"
+    },
+    {
+      "code": 9103162002,
+      "name": "Pagai"
+    },
+    {
+      "code": 9103162003,
+      "name": "Aurina"
+    },
+    {
+      "code": 9103162004,
+      "name": "Muara Nawa"
+    },
+    {
+      "code": 9103162005,
+      "name": "Kamikaru"
+    },
+    {
+      "code": 9103162006,
+      "name": "Naira"
+    }
+  ]
+}

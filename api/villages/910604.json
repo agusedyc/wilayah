@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9106042003,
+      "name": "Namber"
+    },
+    {
+      "code": 9106042004,
+      "name": "Baruki"
+    },
+    {
+      "code": 9106042005,
+      "name": "Kameri"
+    },
+    {
+      "code": 9106042008,
+      "name": "Warido"
+    },
+    {
+      "code": 9106042012,
+      "name": "Sub Manggunsi"
+    },
+    {
+      "code": 9106042013,
+      "name": "Serbin"
+    },
+    {
+      "code": 9106042014,
+      "name": "Kansai"
+    },
+    {
+      "code": 9106042015,
+      "name": "Pomdori"
+    },
+    {
+      "code": 9106042019,
+      "name": "Semayen"
+    },
+    {
+      "code": 9106042020,
+      "name": "Mambodo Sawai"
+    },
+    {
+      "code": 9106042021,
+      "name": "Rimbaraya"
+    },
+    {
+      "code": 9106042022,
+      "name": "Pomdori Sup"
+    }
+  ]
+}

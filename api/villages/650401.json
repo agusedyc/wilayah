@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6504012001,
+      "name": "Tideng Pale"
+    },
+    {
+      "code": 6504012002,
+      "name": "Limbu Sedulun"
+    },
+    {
+      "code": 6504012003,
+      "name": "Sebidai"
+    },
+    {
+      "code": 6504012004,
+      "name": "Sedulun"
+    },
+    {
+      "code": 6504012005,
+      "name": "Tideng Pale Timur"
+    },
+    {
+      "code": 6504012006,
+      "name": "Gunawan"
+    },
+    {
+      "code": 6504012007,
+      "name": "Sebawang"
+    }
+  ]
+}

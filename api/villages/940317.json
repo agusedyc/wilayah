@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9403172001,
+      "name": "Panibagata"
+    },
+    {
+      "code": 9403172002,
+      "name": "Pugaida"
+    },
+    {
+      "code": 9403172003,
+      "name": "Aweubutu"
+    },
+    {
+      "code": 9403172004,
+      "name": "Ipuwa"
+    },
+    {
+      "code": 9403172005,
+      "name": "Munaiyepa"
+    },
+    {
+      "code": 9403172006,
+      "name": "Kebo I"
+    },
+    {
+      "code": 9403172007,
+      "name": "Payogei"
+    },
+    {
+      "code": 9403172008,
+      "name": "Detauwo"
+    },
+    {
+      "code": 9403172009,
+      "name": "Yaibu"
+    },
+    {
+      "code": 9403172010,
+      "name": "Woyouto"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601192001,
+      "name": "Campaka"
+    },
+    {
+      "code": 3601192002,
+      "name": "Banyumundu"
+    },
+    {
+      "code": 3601192003,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3601192004,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3601192005,
+      "name": "Saninten"
+    },
+    {
+      "code": 3601192006,
+      "name": "Palurahan"
+    },
+    {
+      "code": 3601192007,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3601192008,
+      "name": "Kadugemblo"
+    },
+    {
+      "code": 3601192009,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3601192010,
+      "name": "Ciputri"
+    }
+  ]
+}

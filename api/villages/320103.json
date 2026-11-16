@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3201031006,
+      "name": "Puspanegara"
+    },
+    {
+      "code": 3201031007,
+      "name": "Karang Asem Barat"
+    },
+    {
+      "code": 3201032001,
+      "name": "Puspasari"
+    },
+    {
+      "code": 3201032002,
+      "name": "Citeureup"
+    },
+    {
+      "code": 3201032003,
+      "name": "Leuwinutug"
+    },
+    {
+      "code": 3201032004,
+      "name": "Tajur"
+    },
+    {
+      "code": 3201032005,
+      "name": "Sanja"
+    },
+    {
+      "code": 3201032008,
+      "name": "Karang Asem Timur"
+    },
+    {
+      "code": 3201032009,
+      "name": "Tarikolot"
+    },
+    {
+      "code": 3201032010,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3201032011,
+      "name": "Tangkil"
+    },
+    {
+      "code": 3201032012,
+      "name": "Sukahati"
+    },
+    {
+      "code": 3201032013,
+      "name": "Hambalang"
+    },
+    {
+      "code": 3201032014,
+      "name": "Pasir Mukti"
+    }
+  ]
+}

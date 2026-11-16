@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5303042001,
+      "name": "Bijeli"
+    },
+    {
+      "code": 5303042002,
+      "name": "Noebaun"
+    },
+    {
+      "code": 5303042003,
+      "name": "Seo"
+    },
+    {
+      "code": 5303042004,
+      "name": "Popnam"
+    },
+    {
+      "code": 5303042009,
+      "name": "Nibaaf"
+    },
+    {
+      "code": 5303042010,
+      "name": "Banfanu"
+    },
+    {
+      "code": 5303042011,
+      "name": "Oenak"
+    },
+    {
+      "code": 5303042012,
+      "name": "Nifuboke"
+    },
+    {
+      "code": 5303042013,
+      "name": "Noemuti"
+    },
+    {
+      "code": 5303042014,
+      "name": "Fatumuti"
+    },
+    {
+      "code": 5303042015,
+      "name": "Kiuola"
+    },
+    {
+      "code": 5303042016,
+      "name": "Oeperigi"
+    }
+  ]
+}

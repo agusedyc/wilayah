@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6305122001,
+      "name": "Tarungin"
+    },
+    {
+      "code": 6305122002,
+      "name": "Matang Batas"
+    },
+    {
+      "code": 6305122003,
+      "name": "Hatungun"
+    },
+    {
+      "code": 6305122004,
+      "name": "Burakai"
+    },
+    {
+      "code": 6305122005,
+      "name": "Batu Hapu"
+    },
+    {
+      "code": 6305122006,
+      "name": "Kambang Kuning"
+    },
+    {
+      "code": 6305122007,
+      "name": "Asam Randah"
+    },
+    {
+      "code": 6305122008,
+      "name": "Bagak"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6501032001,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 6501032002,
+      "name": "Pimping"
+    },
+    {
+      "code": 6501032003,
+      "name": "Panca Agung"
+    },
+    {
+      "code": 6501032004,
+      "name": "Ruhui Rahayu"
+    },
+    {
+      "code": 6501032005,
+      "name": "Ardi Mulyo"
+    },
+    {
+      "code": 6501032006,
+      "name": "Kelubir"
+    }
+  ]
+}

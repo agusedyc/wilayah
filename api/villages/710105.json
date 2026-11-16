@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7101052001,
+      "name": "Ayong"
+    },
+    {
+      "code": 7101052002,
+      "name": "Babo"
+    },
+    {
+      "code": 7101052003,
+      "name": "Bolangat"
+    },
+    {
+      "code": 7101052004,
+      "name": "Maelang"
+    },
+    {
+      "code": 7101052005,
+      "name": "Domisil Moonow"
+    },
+    {
+      "code": 7101052006,
+      "name": "Pangi"
+    },
+    {
+      "code": 7101052012,
+      "name": "Lolanan"
+    },
+    {
+      "code": 7101052015,
+      "name": "Cempaka"
+    },
+    {
+      "code": 7101052017,
+      "name": "Batu Merah"
+    },
+    {
+      "code": 7101052018,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 7101052019,
+      "name": "Pangi Timur"
+    },
+    {
+      "code": 7101052020,
+      "name": "Bolangat Timur"
+    }
+  ]
+}

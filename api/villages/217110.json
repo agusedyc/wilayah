@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2171101001,
+      "name": "Baloi Permai"
+    },
+    {
+      "code": 2171101002,
+      "name": "Taman Baloi"
+    },
+    {
+      "code": 2171101003,
+      "name": "Teluk Tering"
+    },
+    {
+      "code": 2171101004,
+      "name": "Belian"
+    },
+    {
+      "code": 2171101005,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 2171101006,
+      "name": "Sungai Panas"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6308072001,
+      "name": "Banjang"
+    },
+    {
+      "code": 6308072002,
+      "name": "Patarikan"
+    },
+    {
+      "code": 6308072003,
+      "name": "Teluk Buluh"
+    },
+    {
+      "code": 6308072004,
+      "name": "Pandulangan"
+    },
+    {
+      "code": 6308072005,
+      "name": "Danau Terati"
+    },
+    {
+      "code": 6308072006,
+      "name": "Garunggang"
+    },
+    {
+      "code": 6308072007,
+      "name": "Baruh Tabing"
+    },
+    {
+      "code": 6308072008,
+      "name": "Murung Padang"
+    },
+    {
+      "code": 6308072009,
+      "name": "Teluk Sarikat"
+    },
+    {
+      "code": 6308072010,
+      "name": "Beringin"
+    },
+    {
+      "code": 6308072011,
+      "name": "Kalintamui"
+    },
+    {
+      "code": 6308072012,
+      "name": "Pelanjungan Sari"
+    },
+    {
+      "code": 6308072013,
+      "name": "Lok Bangkai"
+    },
+    {
+      "code": 6308072014,
+      "name": "Sungai Bahadangan"
+    },
+    {
+      "code": 6308072015,
+      "name": "Karias Dalam"
+    },
+    {
+      "code": 6308072016,
+      "name": "Rantau Bujur"
+    },
+    {
+      "code": 6308072017,
+      "name": "Kaludan Kecil"
+    },
+    {
+      "code": 6308072018,
+      "name": "Kaludan Besar"
+    },
+    {
+      "code": 6308072019,
+      "name": "Pawalutan"
+    },
+    {
+      "code": 6308072020,
+      "name": "Pulau Damar"
+    }
+  ]
+}

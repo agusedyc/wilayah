@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9304012001,
+      "name": "Yomoth"
+    },
+    {
+      "code": 9304012002,
+      "name": "Uwus"
+    },
+    {
+      "code": 9304012003,
+      "name": "Asuwetsy"
+    },
+    {
+      "code": 9304012004,
+      "name": "Bismam"
+    },
+    {
+      "code": 9304012005,
+      "name": "Bis Agats"
+    },
+    {
+      "code": 9304012006,
+      "name": "Per"
+    },
+    {
+      "code": 9304012007,
+      "name": "Beriten"
+    },
+    {
+      "code": 9304012008,
+      "name": "Mbait"
+    },
+    {
+      "code": 9304012009,
+      "name": "Bou"
+    },
+    {
+      "code": 9304012010,
+      "name": "Saw"
+    },
+    {
+      "code": 9304012011,
+      "name": "Kaye"
+    },
+    {
+      "code": 9304012012,
+      "name": "Suwru"
+    }
+  ]
+}

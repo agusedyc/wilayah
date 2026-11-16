@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1110112001,
+      "name": "Lae Balno"
+    },
+    {
+      "code": 1110112002,
+      "name": "Napagaluh"
+    },
+    {
+      "code": 1110112003,
+      "name": "Sikoran"
+    },
+    {
+      "code": 1110112004,
+      "name": "Situbuh-tubuh"
+    },
+    {
+      "code": 1110112005,
+      "name": "Biskang"
+    },
+    {
+      "code": 1110112006,
+      "name": "Sintuban Makmur"
+    }
+  ]
+}

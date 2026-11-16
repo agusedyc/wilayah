@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9604262001,
+      "name": "Arupi"
+    },
+    {
+      "code": 9604262002,
+      "name": "Mangganek"
+    },
+    {
+      "code": 9604262003,
+      "name": "Wajarek"
+    },
+    {
+      "code": 9604262004,
+      "name": "Kali An"
+    },
+    {
+      "code": 9604262005,
+      "name": "Araro"
+    },
+    {
+      "code": 9604262006,
+      "name": "Wekari"
+    },
+    {
+      "code": 9604262007,
+      "name": "Serayo"
+    }
+  ]
+}

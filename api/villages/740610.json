@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7406102001,
+      "name": "Tampabulu"
+    },
+    {
+      "code": 7406102002,
+      "name": "Tanah Poleang"
+    },
+    {
+      "code": 7406102003,
+      "name": "Karya Baru"
+    },
+    {
+      "code": 7406102004,
+      "name": "Toburi"
+    },
+    {
+      "code": 7406102005,
+      "name": "Rompu Rompu"
+    },
+    {
+      "code": 7406102006,
+      "name": "Pusu Ea"
+    },
+    {
+      "code": 7406102007,
+      "name": "Lawatu Ea"
+    },
+    {
+      "code": 7406102008,
+      "name": "Wambarema"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5302222001,
+      "name": "Besana"
+    },
+    {
+      "code": 5302222002,
+      "name": "Fatukoko"
+    },
+    {
+      "code": 5302222003,
+      "name": "Koa"
+    },
+    {
+      "code": 5302222004,
+      "name": "Oel Uban"
+    },
+    {
+      "code": 5302222005,
+      "name": "Salbait"
+    }
+  ]
+}

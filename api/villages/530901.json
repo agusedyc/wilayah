@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5309011002,
+      "name": "Aimere"
+    },
+    {
+      "code": 5309011003,
+      "name": "Foa"
+    },
+    {
+      "code": 5309012001,
+      "name": "Keligejo"
+    },
+    {
+      "code": 5309012014,
+      "name": "Aimere Timur"
+    },
+    {
+      "code": 5309012018,
+      "name": "Heawea"
+    },
+    {
+      "code": 5309012019,
+      "name": "Legelapu"
+    },
+    {
+      "code": 5309012020,
+      "name": "Lekogoko"
+    },
+    {
+      "code": 5309012021,
+      "name": "Binawali"
+    },
+    {
+      "code": 5309012022,
+      "name": "Kila"
+    },
+    {
+      "code": 5309012023,
+      "name": "Waesae"
+    },
+    {
+      "code": 5309012024,
+      "name": "Mawwo Kisa"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3217072001,
+      "name": "Ciptaharja"
+    },
+    {
+      "code": 3217072002,
+      "name": "Cipatat"
+    },
+    {
+      "code": 3217072003,
+      "name": "Citatah"
+    },
+    {
+      "code": 3217072004,
+      "name": "Rajamandalakulon"
+    },
+    {
+      "code": 3217072005,
+      "name": "Mandalawangi"
+    },
+    {
+      "code": 3217072006,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3217072007,
+      "name": "Nyalindung"
+    },
+    {
+      "code": 3217072008,
+      "name": "Gunungmasigit"
+    },
+    {
+      "code": 3217072009,
+      "name": "Cirawamekar"
+    },
+    {
+      "code": 3217072010,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3217072011,
+      "name": "Sumurbandung"
+    },
+    {
+      "code": 3217072012,
+      "name": "Sarimukti"
+    }
+  ]
+}

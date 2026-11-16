@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9402112001,
+      "name": "Wandenggobak"
+    },
+    {
+      "code": 9402112002,
+      "name": "Jiginikime"
+    },
+    {
+      "code": 9402112003,
+      "name": "Puncak Senyum"
+    },
+    {
+      "code": 9402112004,
+      "name": "Anggutari"
+    },
+    {
+      "code": 9402112005,
+      "name": "Wunagelo"
+    },
+    {
+      "code": 9402112006,
+      "name": "Dondo"
+    },
+    {
+      "code": 9402112007,
+      "name": "Tanoba"
+    },
+    {
+      "code": 9402112008,
+      "name": "Niruwi"
+    },
+    {
+      "code": 9402112009,
+      "name": "Yalikambi"
+    }
+  ]
+}

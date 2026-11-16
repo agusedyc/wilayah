@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8109032001,
+      "name": "Lumoy"
+    },
+    {
+      "code": 8109032002,
+      "name": "Masawoy"
+    },
+    {
+      "code": 8109032003,
+      "name": "Ulima"
+    },
+    {
+      "code": 8109032004,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 8109032005,
+      "name": "Siwar"
+    },
+    {
+      "code": 8109032006,
+      "name": "Selasi"
+    },
+    {
+      "code": 8109032007,
+      "name": "Elara"
+    }
+  ]
+}

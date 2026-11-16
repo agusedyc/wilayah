@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6202022004,
+      "name": "Rubung Buyung"
+    },
+    {
+      "code": 6202022005,
+      "name": "Patai"
+    },
+    {
+      "code": 6202022006,
+      "name": "Luwuk Ranggan"
+    },
+    {
+      "code": 6202022007,
+      "name": "Jemaras"
+    },
+    {
+      "code": 6202022008,
+      "name": "Cempaka Mulia Timur"
+    },
+    {
+      "code": 6202022009,
+      "name": "Cempaka Mulia Barat"
+    },
+    {
+      "code": 6202022010,
+      "name": "Luwuk Bunter"
+    },
+    {
+      "code": 6202022011,
+      "name": "Sungai Paring"
+    }
+  ]
+}

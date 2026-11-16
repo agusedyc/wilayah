@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3328032001,
+      "name": "Rembul"
+    },
+    {
+      "code": 3328032002,
+      "name": "Dukuhtengah"
+    },
+    {
+      "code": 3328032003,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3328032004,
+      "name": "Suniarsih"
+    },
+    {
+      "code": 3328032005,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3328032006,
+      "name": "Tuwel"
+    },
+    {
+      "code": 3328032007,
+      "name": "Bojong"
+    },
+    {
+      "code": 3328032008,
+      "name": "Buniwah"
+    },
+    {
+      "code": 3328032009,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3328032010,
+      "name": "Batunyana"
+    },
+    {
+      "code": 3328032011,
+      "name": "Sangkanayu"
+    },
+    {
+      "code": 3328032012,
+      "name": "Gunungjati"
+    },
+    {
+      "code": 3328032013,
+      "name": "Puncangluwuk"
+    },
+    {
+      "code": 3328032014,
+      "name": "Kajenengan"
+    },
+    {
+      "code": 3328032015,
+      "name": "Kalijambu"
+    },
+    {
+      "code": 3328032016,
+      "name": "Danasari"
+    },
+    {
+      "code": 3328032017,
+      "name": "Cikura"
+    }
+  ]
+}

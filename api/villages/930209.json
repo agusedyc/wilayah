@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9302092001,
+      "name": "Maju"
+    },
+    {
+      "code": 9302092002,
+      "name": "Bukit"
+    },
+    {
+      "code": 9302092003,
+      "name": "Ujung"
+    },
+    {
+      "code": 9302092004,
+      "name": "Ginggimop"
+    },
+    {
+      "code": 9302092005,
+      "name": "Patriot"
+    },
+    {
+      "code": 9302092006,
+      "name": "Arimbet"
+    },
+    {
+      "code": 9302092007,
+      "name": "Aroa"
+    }
+  ]
+}

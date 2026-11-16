@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6106182001,
+      "name": "Nanga Sebintang"
+    },
+    {
+      "code": 6106182002,
+      "name": "Nanga Lebangan"
+    },
+    {
+      "code": 6106182003,
+      "name": "Nanga Kalis"
+    },
+    {
+      "code": 6106182004,
+      "name": "Nanga Raun"
+    },
+    {
+      "code": 6106182005,
+      "name": "Bahenap"
+    },
+    {
+      "code": 6106182006,
+      "name": "Nanga Tubuk"
+    },
+    {
+      "code": 6106182007,
+      "name": "Nanga Danau"
+    },
+    {
+      "code": 6106182008,
+      "name": "Kensuray"
+    },
+    {
+      "code": 6106182009,
+      "name": "Rantau Kalis"
+    },
+    {
+      "code": 6106182010,
+      "name": "Kalis Raya"
+    },
+    {
+      "code": 6106182011,
+      "name": "Tekudak"
+    },
+    {
+      "code": 6106182012,
+      "name": "Semerantau"
+    },
+    {
+      "code": 6106182013,
+      "name": "Tapang Da'an"
+    },
+    {
+      "code": 6106182014,
+      "name": "Segiam"
+    },
+    {
+      "code": 6106182016,
+      "name": "Ribang Kadeng"
+    },
+    {
+      "code": 6106182017,
+      "name": "Rantau Bumbun"
+    },
+    {
+      "code": 6106182018,
+      "name": "Peniung"
+    }
+  ]
+}

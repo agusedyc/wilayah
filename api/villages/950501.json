@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9505012001,
+      "name": "Kobakma"
+    },
+    {
+      "code": 9505012002,
+      "name": "Ninugagas"
+    },
+    {
+      "code": 9505012003,
+      "name": "Seralema"
+    },
+    {
+      "code": 9505012004,
+      "name": "Gimbis"
+    },
+    {
+      "code": 9505012005,
+      "name": "Boroges"
+    },
+    {
+      "code": 9505012006,
+      "name": "Aunduang"
+    },
+    {
+      "code": 9505012007,
+      "name": "Luarima"
+    },
+    {
+      "code": 9505012008,
+      "name": "Guawage"
+    },
+    {
+      "code": 9505012009,
+      "name": "Moga"
+    },
+    {
+      "code": 9505012010,
+      "name": "Keniwa"
+    },
+    {
+      "code": 9505012011,
+      "name": "Sembegulik"
+    },
+    {
+      "code": 9505012012,
+      "name": "Dogle"
+    },
+    {
+      "code": 9505012013,
+      "name": "Wiyugobak"
+    },
+    {
+      "code": 9505012014,
+      "name": "Baliklabuk"
+    },
+    {
+      "code": 9505012015,
+      "name": "Yagalim"
+    }
+  ]
+}

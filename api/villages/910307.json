@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9103071021,
+      "name": "Tabri"
+    },
+    {
+      "code": 9103072001,
+      "name": "Gemebs"
+    },
+    {
+      "code": 9103072002,
+      "name": "Singgri"
+    },
+    {
+      "code": 9103072003,
+      "name": "Meyu"
+    },
+    {
+      "code": 9103072004,
+      "name": "Benyom"
+    },
+    {
+      "code": 9103072005,
+      "name": "Oyengsi"
+    },
+    {
+      "code": 9103072006,
+      "name": "Singgriway"
+    },
+    {
+      "code": 9103072009,
+      "name": "Imsar"
+    },
+    {
+      "code": 9103072010,
+      "name": "Kuipons"
+    },
+    {
+      "code": 9103072014,
+      "name": "Yenggu Baru"
+    },
+    {
+      "code": 9103072015,
+      "name": "Yenggu Lama"
+    },
+    {
+      "code": 9103072017,
+      "name": "Kuwase"
+    },
+    {
+      "code": 9103072019,
+      "name": "Pobaim"
+    },
+    {
+      "code": 9103073018,
+      "name": "Desa Adat Ketemung"
+    }
+  ]
+}

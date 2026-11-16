@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503302001,
+      "name": "Puldama"
+    },
+    {
+      "code": 9503302002,
+      "name": "Kasen"
+    },
+    {
+      "code": 9503302003,
+      "name": "Bako"
+    },
+    {
+      "code": 9503302004,
+      "name": "Balsek"
+    },
+    {
+      "code": 9503302005,
+      "name": "Manbolak"
+    },
+    {
+      "code": 9503302006,
+      "name": "Famek"
+    },
+    {
+      "code": 9503302007,
+      "name": "Semlu"
+    },
+    {
+      "code": 9503302008,
+      "name": "Baru"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1212052001,
+      "name": "Meranti Utara"
+    },
+    {
+      "code": 1212052002,
+      "name": "Meranti Timur"
+    },
+    {
+      "code": 1212052003,
+      "name": "Meranti Tengah"
+    },
+    {
+      "code": 1212052007,
+      "name": "Pintu Pohan"
+    },
+    {
+      "code": 1212052008,
+      "name": "Ambar Halim"
+    },
+    {
+      "code": 1212052009,
+      "name": "Pintu Pohan Dolok"
+    },
+    {
+      "code": 1212052010,
+      "name": "Halado"
+    }
+  ]
+}

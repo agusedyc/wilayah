@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3275061001,
+      "name": "Medansatria"
+    },
+    {
+      "code": 3275061002,
+      "name": "Harapanmulya"
+    },
+    {
+      "code": 3275061003,
+      "name": "Pejuang"
+    },
+    {
+      "code": 3275061004,
+      "name": "Kalibaru"
+    }
+  ]
+}

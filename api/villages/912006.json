@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9120062001,
+      "name": "Nadofoai"
+    },
+    {
+      "code": 9120062002,
+      "name": "Barapasi"
+    },
+    {
+      "code": 9120062003,
+      "name": "Sipisi"
+    },
+    {
+      "code": 9120062004,
+      "name": "Bariwaro"
+    },
+    {
+      "code": 9120062005,
+      "name": "Bensor"
+    },
+    {
+      "code": 9120062006,
+      "name": "Rawiwa"
+    },
+    {
+      "code": 9120062007,
+      "name": "Marikai"
+    }
+  ]
+}

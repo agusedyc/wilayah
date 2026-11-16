@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1303082001,
+      "name": "Limo Koto"
+    },
+    {
+      "code": 1303082002,
+      "name": "Palaluar"
+    },
+    {
+      "code": 1303082003,
+      "name": "Guguak"
+    },
+    {
+      "code": 1303082004,
+      "name": "Padang Laweh"
+    },
+    {
+      "code": 1303082005,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1303082006,
+      "name": "Bukit Bual"
+    },
+    {
+      "code": 1303082007,
+      "name": "Padang Laweh Selatan"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 9303062001,
+      "name": "Sigare"
+    },
+    {
+      "code": 9303062002,
+      "name": "Jufo Besar"
+    },
+    {
+      "code": 9303062003,
+      "name": "Eci"
+    },
+    {
+      "code": 9303062004,
+      "name": "Aboge"
+    },
+    {
+      "code": 9303062005,
+      "name": "Khanami"
+    },
+    {
+      "code": 9303062006,
+      "name": "Yame"
+    },
+    {
+      "code": 9303062007,
+      "name": "Kaitok"
+    },
+    {
+      "code": 9303062008,
+      "name": "Homang"
+    },
+    {
+      "code": 9303062009,
+      "name": "Jufo Kecil"
+    },
+    {
+      "code": 9303062010,
+      "name": "Khabu"
+    },
+    {
+      "code": 9303062011,
+      "name": "Kiki"
+    },
+    {
+      "code": 9303062012,
+      "name": "Isage"
+    },
+    {
+      "code": 9303062013,
+      "name": "Kopi"
+    },
+    {
+      "code": 9303062014,
+      "name": "Asaren"
+    },
+    {
+      "code": 9303062015,
+      "name": "Keru"
+    },
+    {
+      "code": 9303062016,
+      "name": "Girimio"
+    },
+    {
+      "code": 9303062017,
+      "name": "Haffo"
+    },
+    {
+      "code": 9303062018,
+      "name": "Meda"
+    }
+  ]
+}

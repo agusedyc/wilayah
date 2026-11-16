@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6305082001,
+      "name": "Pipitak Jaya"
+    },
+    {
+      "code": 6305082002,
+      "name": "Miawa"
+    },
+    {
+      "code": 6305082003,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6305082004,
+      "name": "Harakit"
+    },
+    {
+      "code": 6305082005,
+      "name": "Batung"
+    },
+    {
+      "code": 6305082006,
+      "name": "Balawaian"
+    },
+    {
+      "code": 6305082007,
+      "name": "Baramban"
+    },
+    {
+      "code": 6305082008,
+      "name": "Buniin Jaya"
+    }
+  ]
+}

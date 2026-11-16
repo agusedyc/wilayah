@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1809102001,
+      "name": "Batu Menyan"
+    },
+    {
+      "code": 1809102002,
+      "name": "Cilimus"
+    },
+    {
+      "code": 1809102003,
+      "name": "Gebang"
+    },
+    {
+      "code": 1809102004,
+      "name": "Hanura"
+    },
+    {
+      "code": 1809102005,
+      "name": "Hurun"
+    },
+    {
+      "code": 1809102006,
+      "name": "Munca"
+    },
+    {
+      "code": 1809102007,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1809102008,
+      "name": "Sukajaya Lempasing"
+    },
+    {
+      "code": 1809102009,
+      "name": "Talang Mulya"
+    },
+    {
+      "code": 1809102010,
+      "name": "Tanjung Agung"
+    }
+  ]
+}

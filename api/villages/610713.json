@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6107132001,
+      "name": "Magmagan Karya"
+    },
+    {
+      "code": 6107132002,
+      "name": "Tiga Berkat"
+    },
+    {
+      "code": 6107132003,
+      "name": "Seren Selimbau"
+    },
+    {
+      "code": 6107132004,
+      "name": "Belimbing"
+    },
+    {
+      "code": 6107132005,
+      "name": "Lamolda"
+    }
+  ]
+}

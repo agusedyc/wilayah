@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3522222001,
+      "name": "Kalangan"
+    },
+    {
+      "code": 3522222002,
+      "name": "Ngelo"
+    },
+    {
+      "code": 3522222003,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 3522222004,
+      "name": "Sumberjo"
+    },
+    {
+      "code": 3522222005,
+      "name": "Meduri"
+    },
+    {
+      "code": 3522222006,
+      "name": "Geneng"
+    }
+  ]
+}

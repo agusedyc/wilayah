@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7201211010,
+      "name": "Kilongan"
+    },
+    {
+      "code": 7201211011,
+      "name": "Kilongan Permai"
+    },
+    {
+      "code": 7201212001,
+      "name": "Biak"
+    },
+    {
+      "code": 7201212002,
+      "name": "Bunga"
+    },
+    {
+      "code": 7201212003,
+      "name": "Kamumu"
+    },
+    {
+      "code": 7201212004,
+      "name": "Salodik"
+    },
+    {
+      "code": 7201212005,
+      "name": "Lenyek"
+    },
+    {
+      "code": 7201212006,
+      "name": "Buon Mandiri"
+    },
+    {
+      "code": 7201212007,
+      "name": "Boyou"
+    },
+    {
+      "code": 7201212008,
+      "name": "Awu"
+    },
+    {
+      "code": 7201212009,
+      "name": "Bumi Beringin"
+    }
+  ]
+}

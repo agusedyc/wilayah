@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9504112001,
+      "name": "Aruku"
+    },
+    {
+      "code": 9504112002,
+      "name": "Kubugiwa"
+    },
+    {
+      "code": 9504112003,
+      "name": "Kubu"
+    },
+    {
+      "code": 9504112004,
+      "name": "Numbugawe"
+    },
+    {
+      "code": 9504112005,
+      "name": "Tiyenggupur"
+    },
+    {
+      "code": 9504112006,
+      "name": "Murik"
+    },
+    {
+      "code": 9504112007,
+      "name": "Minagi"
+    },
+    {
+      "code": 9504112008,
+      "name": "Kalewi"
+    },
+    {
+      "code": 9504112009,
+      "name": "Menggenagi"
+    }
+  ]
+}

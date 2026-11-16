@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7308071001,
+      "name": "Padaelo"
+    },
+    {
+      "code": 7308072002,
+      "name": "Mattirowalie"
+    },
+    {
+      "code": 7308072003,
+      "name": "Mario"
+    },
+    {
+      "code": 7308072004,
+      "name": "Ujung Salangketo"
+    },
+    {
+      "code": 7308072005,
+      "name": "Tellu Boccoe"
+    },
+    {
+      "code": 7308072006,
+      "name": "Mattampa Walie"
+    },
+    {
+      "code": 7308072007,
+      "name": "Ujung Tanah"
+    },
+    {
+      "code": 7308072008,
+      "name": "Sumaling"
+    },
+    {
+      "code": 7308072009,
+      "name": "Tellongeng"
+    },
+    {
+      "code": 7308072010,
+      "name": "Data"
+    },
+    {
+      "code": 7308072011,
+      "name": "Batu Gading"
+    },
+    {
+      "code": 7308072012,
+      "name": "Cege"
+    },
+    {
+      "code": 7308072013,
+      "name": "Kadai"
+    },
+    {
+      "code": 7308072014,
+      "name": "Lakukang"
+    },
+    {
+      "code": 7308072015,
+      "name": "Pattiro"
+    },
+    {
+      "code": 7308072016,
+      "name": "Lapasa"
+    },
+    {
+      "code": 7308072017,
+      "name": "Karella"
+    },
+    {
+      "code": 7308072018,
+      "name": "Lappa Upang"
+    }
+  ]
+}

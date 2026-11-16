@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9507222001,
+      "name": "Anitila"
+    },
+    {
+      "code": 9507222002,
+      "name": "Nanim"
+    },
+    {
+      "code": 9507222003,
+      "name": "Lubutini"
+    },
+    {
+      "code": 9507222004,
+      "name": "Tikome"
+    },
+    {
+      "code": 9507222005,
+      "name": "Tikoyowa"
+    },
+    {
+      "code": 9507222006,
+      "name": "Bogogunik"
+    },
+    {
+      "code": 9507222007,
+      "name": "Wanggunom"
+    },
+    {
+      "code": 9507222008,
+      "name": "Nindonak"
+    },
+    {
+      "code": 9507222009,
+      "name": "Luagame"
+    }
+  ]
+}

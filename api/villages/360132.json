@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601322001,
+      "name": "Koranji"
+    },
+    {
+      "code": 3601322002,
+      "name": "Banjarwangi"
+    },
+    {
+      "code": 3601322003,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3601322004,
+      "name": "Karyawangi"
+    },
+    {
+      "code": 3601322005,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3601322006,
+      "name": "Kaduhejo"
+    },
+    {
+      "code": 3601322007,
+      "name": "Banjarnegara"
+    },
+    {
+      "code": 3601322008,
+      "name": "Sanghiangdengdek"
+    },
+    {
+      "code": 3601322009,
+      "name": "Cilentung"
+    }
+  ]
+}

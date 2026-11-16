@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3205132001,
+      "name": "Kersamanah"
+    },
+    {
+      "code": 3205132002,
+      "name": "Nanjungjaya"
+    },
+    {
+      "code": 3205132003,
+      "name": "Sukamerang"
+    },
+    {
+      "code": 3205132004,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3205132005,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3205132006,
+      "name": "Mekarraya"
+    }
+  ]
+}

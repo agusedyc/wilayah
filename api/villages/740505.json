@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7405051001,
+      "name": "Landono"
+    },
+    {
+      "code": 7405052008,
+      "name": "Lalonggapu"
+    },
+    {
+      "code": 7405052009,
+      "name": "Watabenua"
+    },
+    {
+      "code": 7405052014,
+      "name": "Tridana Mulia"
+    },
+    {
+      "code": 7405052015,
+      "name": "Landono Dua"
+    },
+    {
+      "code": 7405052016,
+      "name": "Amotowo"
+    },
+    {
+      "code": 7405052022,
+      "name": "Abenggi"
+    },
+    {
+      "code": 7405052023,
+      "name": "Arongo"
+    },
+    {
+      "code": 7405052024,
+      "name": "Endanga"
+    },
+    {
+      "code": 7405052032,
+      "name": "Wonua Sangia"
+    },
+    {
+      "code": 7405052035,
+      "name": "Lakomea"
+    },
+    {
+      "code": 7405052042,
+      "name": "Morini Mulya"
+    }
+  ]
+}

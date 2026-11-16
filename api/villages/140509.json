@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1405091001,
+      "name": "Teluk Meranti"
+    },
+    {
+      "code": 1405092002,
+      "name": "Kuala Panduk"
+    },
+    {
+      "code": 1405092003,
+      "name": "Petodaan"
+    },
+    {
+      "code": 1405092004,
+      "name": "Teluk Binjai"
+    },
+    {
+      "code": 1405092005,
+      "name": "Pulau Muda"
+    },
+    {
+      "code": 1405092006,
+      "name": "Gambut Mutiara"
+    },
+    {
+      "code": 1405092007,
+      "name": "Labuhan Bilik"
+    },
+    {
+      "code": 1405092008,
+      "name": "Pangkalan Terap"
+    },
+    {
+      "code": 1405092009,
+      "name": "Segamai"
+    }
+  ]
+}

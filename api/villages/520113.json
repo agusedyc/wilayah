@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5201132001,
+      "name": "Lembar"
+    },
+    {
+      "code": 5201132002,
+      "name": "Jembatan Kembar"
+    },
+    {
+      "code": 5201132003,
+      "name": "Mareje"
+    },
+    {
+      "code": 5201132004,
+      "name": "Sekotong Timur"
+    },
+    {
+      "code": 5201132005,
+      "name": "Labuan Tereng"
+    },
+    {
+      "code": 5201132006,
+      "name": "Jembatan Gantung"
+    },
+    {
+      "code": 5201132007,
+      "name": "Lembar Selatan"
+    },
+    {
+      "code": 5201132008,
+      "name": "Mareje Timur"
+    },
+    {
+      "code": 5201132009,
+      "name": "Jembatan Kembar Timur"
+    },
+    {
+      "code": 5201132010,
+      "name": "Eyat Mayang"
+    }
+  ]
+}

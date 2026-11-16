@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3303142001,
+      "name": "Brobot"
+    },
+    {
+      "code": 3303142002,
+      "name": "Gembong"
+    },
+    {
+      "code": 3303142003,
+      "name": "Galuh"
+    },
+    {
+      "code": 3303142004,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3303142005,
+      "name": "Patemon"
+    },
+    {
+      "code": 3303142006,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3303142007,
+      "name": "Kajongan"
+    },
+    {
+      "code": 3303142008,
+      "name": "Karangbanjar"
+    },
+    {
+      "code": 3303142009,
+      "name": "Beji"
+    },
+    {
+      "code": 3303142010,
+      "name": "Pagedangan"
+    },
+    {
+      "code": 3303142011,
+      "name": "Pekalongan"
+    },
+    {
+      "code": 3303142012,
+      "name": "Metenggeng"
+    },
+    {
+      "code": 3303142013,
+      "name": "Bumisari"
+    }
+  ]
+}

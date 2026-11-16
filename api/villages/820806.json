@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8208062001,
+      "name": "Waikadai"
+    },
+    {
+      "code": 8208062002,
+      "name": "Losseng"
+    },
+    {
+      "code": 8208062003,
+      "name": "Kawadang"
+    },
+    {
+      "code": 8208062004,
+      "name": "Sofan"
+    },
+    {
+      "code": 8208062005,
+      "name": "Mantarara"
+    },
+    {
+      "code": 8208062006,
+      "name": "Belo"
+    },
+    {
+      "code": 8208062007,
+      "name": "Kamaya"
+    },
+    {
+      "code": 8208062008,
+      "name": "Waikoka"
+    },
+    {
+      "code": 8208062009,
+      "name": "Waikadai Sula"
+    }
+  ]
+}

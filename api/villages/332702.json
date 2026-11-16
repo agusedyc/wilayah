@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3327022001,
+      "name": "Clekatakan"
+    },
+    {
+      "code": 3327022002,
+      "name": "Batursari"
+    },
+    {
+      "code": 3327022003,
+      "name": "Penakir"
+    },
+    {
+      "code": 3327022004,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3327022005,
+      "name": "Jurangmangu"
+    },
+    {
+      "code": 3327022006,
+      "name": "Gambuhan"
+    },
+    {
+      "code": 3327022007,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3327022008,
+      "name": "Nyalembeng"
+    },
+    {
+      "code": 3327022009,
+      "name": "Pulosari"
+    },
+    {
+      "code": 3327022010,
+      "name": "Pagenteran"
+    },
+    {
+      "code": 3327022011,
+      "name": "Siremeng"
+    },
+    {
+      "code": 3327022012,
+      "name": "Cikendung"
+    }
+  ]
+}

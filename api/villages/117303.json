@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1173032001,
+      "name": "Kuala"
+    },
+    {
+      "code": 1173032002,
+      "name": "Blang Cut"
+    },
+    {
+      "code": 1173032003,
+      "name": "Jambo Mesjid"
+    },
+    {
+      "code": 1173032004,
+      "name": "Jambo Timu"
+    },
+    {
+      "code": 1173032005,
+      "name": "Tunong"
+    },
+    {
+      "code": 1173032006,
+      "name": "Blang Teue"
+    },
+    {
+      "code": 1173032007,
+      "name": "Teungoh"
+    },
+    {
+      "code": 1173032008,
+      "name": "Baloi"
+    },
+    {
+      "code": 1173032009,
+      "name": "Mane Kareung"
+    },
+    {
+      "code": 1173032010,
+      "name": "Asan Kareung"
+    },
+    {
+      "code": 1173032011,
+      "name": "Rayeuk Kareung"
+    },
+    {
+      "code": 1173032012,
+      "name": "Blang Punteuet"
+    },
+    {
+      "code": 1173032013,
+      "name": "Kumbang Punteuet"
+    },
+    {
+      "code": 1173032014,
+      "name": "Mesjid Punteuet"
+    },
+    {
+      "code": 1173032015,
+      "name": "Ulee Blang Mane"
+    },
+    {
+      "code": 1173032016,
+      "name": "Keude Punteuet"
+    },
+    {
+      "code": 1173032017,
+      "name": "Alue Lim"
+    },
+    {
+      "code": 1173032018,
+      "name": "Blang Buloh"
+    },
+    {
+      "code": 1173032019,
+      "name": "Blang Weu Panjoe"
+    },
+    {
+      "code": 1173032020,
+      "name": "Jeulikat"
+    },
+    {
+      "code": 1173032021,
+      "name": "Blang Weu Baroh"
+    },
+    {
+      "code": 1173032022,
+      "name": "Seuneubok"
+    }
+  ]
+}

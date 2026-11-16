@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7409101002,
+      "name": "Bende"
+    },
+    {
+      "code": 7409102001,
+      "name": "Tondowatu"
+    },
+    {
+      "code": 7409102003,
+      "name": "Matandahi"
+    },
+    {
+      "code": 7409102004,
+      "name": "Banggina"
+    },
+    {
+      "code": 7409102005,
+      "name": "Motui"
+    },
+    {
+      "code": 7409102006,
+      "name": "Wawoluri"
+    },
+    {
+      "code": 7409102007,
+      "name": "Lambuluo"
+    },
+    {
+      "code": 7409102008,
+      "name": "Poni Poniki"
+    },
+    {
+      "code": 7409102009,
+      "name": "Puuwonggia"
+    },
+    {
+      "code": 7409102010,
+      "name": "Punggulahi"
+    },
+    {
+      "code": 7409102011,
+      "name": "Sama Subur"
+    },
+    {
+      "code": 7409102012,
+      "name": "Ranombupulu"
+    },
+    {
+      "code": 7409102013,
+      "name": "Tobimeita"
+    },
+    {
+      "code": 7409102014,
+      "name": "Kapolano"
+    },
+    {
+      "code": 7409102015,
+      "name": "Sambasule"
+    }
+  ]
+}

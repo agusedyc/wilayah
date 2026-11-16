@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9203082001,
+      "name": "Kramongmongga"
+    },
+    {
+      "code": 9203082007,
+      "name": "Wargep"
+    },
+    {
+      "code": 9203082008,
+      "name": "Mamur"
+    },
+    {
+      "code": 9203082009,
+      "name": "Nembukteb"
+    },
+    {
+      "code": 9203082010,
+      "name": "Pikpik"
+    },
+    {
+      "code": 9203082011,
+      "name": "Kwamkwamur"
+    },
+    {
+      "code": 9203082012,
+      "name": "Bahbadan"
+    },
+    {
+      "code": 9203082016,
+      "name": "Gewab"
+    },
+    {
+      "code": 9203082017,
+      "name": "Tentreda"
+    },
+    {
+      "code": 9203082018,
+      "name": "Mbaham Ma Youn"
+    }
+  ]
+}

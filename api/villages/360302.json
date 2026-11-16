@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3603022001,
+      "name": "Pangkat"
+    },
+    {
+      "code": 3603022002,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3603022004,
+      "name": "Pasir Muncang"
+    },
+    {
+      "code": 3603022005,
+      "name": "Sumur Bandung"
+    },
+    {
+      "code": 3603022006,
+      "name": "Jayanti"
+    },
+    {
+      "code": 3603022007,
+      "name": "Dangdeur"
+    },
+    {
+      "code": 3603022008,
+      "name": "Cikande"
+    },
+    {
+      "code": 3603022009,
+      "name": "Pasir Gintung"
+    }
+  ]
+}

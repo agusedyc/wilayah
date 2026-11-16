@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9303041001,
+      "name": "Bade"
+    },
+    {
+      "code": 9303042002,
+      "name": "Geturki"
+    },
+    {
+      "code": 9303042003,
+      "name": "Mememu"
+    },
+    {
+      "code": 9303042004,
+      "name": "Gimikya"
+    },
+    {
+      "code": 9303042005,
+      "name": "Banamepe"
+    },
+    {
+      "code": 9303042006,
+      "name": "Yodom"
+    },
+    {
+      "code": 9303042007,
+      "name": "Isyaman"
+    }
+  ]
+}

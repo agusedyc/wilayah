@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 8102172001,
+      "name": "Weer Ohoinam"
+    },
+    {
+      "code": 8102172002,
+      "name": "Weer Ohoiker"
+    },
+    {
+      "code": 8102172003,
+      "name": "Weer Frawaf"
+    },
+    {
+      "code": 8102172004,
+      "name": "Faa"
+    },
+    {
+      "code": 8102172005,
+      "name": "Dangarat"
+    },
+    {
+      "code": 8102172006,
+      "name": "Ohoituf"
+    },
+    {
+      "code": 8102172007,
+      "name": "Hangur"
+    },
+    {
+      "code": 8102172008,
+      "name": "Ngurwalek"
+    },
+    {
+      "code": 8102172009,
+      "name": "Uwat"
+    },
+    {
+      "code": 8102172010,
+      "name": "Uwat Wear"
+    },
+    {
+      "code": 8102172011,
+      "name": "Uwat Reyaan"
+    },
+    {
+      "code": 8102172012,
+      "name": "Mun Ohoiir"
+    },
+    {
+      "code": 8102172013,
+      "name": "Mun Essoy"
+    },
+    {
+      "code": 8102172014,
+      "name": "Mun Kahar"
+    },
+    {
+      "code": 8102172015,
+      "name": "Mun Ngurditwain"
+    },
+    {
+      "code": 8102172016,
+      "name": "Mun Werfan"
+    },
+    {
+      "code": 8102172017,
+      "name": "Ad Ngurwul"
+    },
+    {
+      "code": 8102172018,
+      "name": "Ad Ohoiwaf"
+    },
+    {
+      "code": 8102172019,
+      "name": "Laar"
+    },
+    {
+      "code": 8102172020,
+      "name": "Hoor Islam"
+    },
+    {
+      "code": 8102172021,
+      "name": "Hoor Kristen"
+    },
+    {
+      "code": 8102172022,
+      "name": "Waer"
+    },
+    {
+      "code": 8102172023,
+      "name": "Waerat"
+    },
+    {
+      "code": 8102172024,
+      "name": "Mun Ohoitadiun"
+    },
+    {
+      "code": 8102172025,
+      "name": "Ad Wear Aur"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1111142001,
+      "name": "Cot Batee"
+    },
+    {
+      "code": 1111142002,
+      "name": "Cot Unoe"
+    },
+    {
+      "code": 1111142003,
+      "name": "Kuta Baro"
+    },
+    {
+      "code": 1111142004,
+      "name": "Cot Glumpang"
+    },
+    {
+      "code": 1111142005,
+      "name": "Cot Kuta"
+    },
+    {
+      "code": 1111142006,
+      "name": "Glumpang Baroh"
+    },
+    {
+      "code": 1111142007,
+      "name": "Krueng Juli Timu"
+    },
+    {
+      "code": 1111142008,
+      "name": "Krueng Juli Barat"
+    },
+    {
+      "code": 1111142009,
+      "name": "Cot Trieng"
+    },
+    {
+      "code": 1111142010,
+      "name": "Lhok Awe Awe"
+    },
+    {
+      "code": 1111142011,
+      "name": "Cot Laga Sawa"
+    },
+    {
+      "code": 1111142012,
+      "name": "Cot U Sibak"
+    },
+    {
+      "code": 1111142013,
+      "name": "Lancok Pante Ara"
+    },
+    {
+      "code": 1111142014,
+      "name": "Lancok-Lancok"
+    },
+    {
+      "code": 1111142015,
+      "name": "Kareung"
+    },
+    {
+      "code": 1111142016,
+      "name": "Balee Kuyun"
+    },
+    {
+      "code": 1111142017,
+      "name": "Ujong Blang"
+    },
+    {
+      "code": 1111142018,
+      "name": "Ujong Blang Mesjid"
+    },
+    {
+      "code": 1111142019,
+      "name": "Weu Jangka"
+    },
+    {
+      "code": 1111142020,
+      "name": "Kuala Raja"
+    }
+  ]
+}

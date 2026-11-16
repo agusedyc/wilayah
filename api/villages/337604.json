@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3376041001,
+      "name": "Kaligangsa"
+    },
+    {
+      "code": 3376041002,
+      "name": "Krandon"
+    },
+    {
+      "code": 3376041003,
+      "name": "Cabawan"
+    },
+    {
+      "code": 3376041004,
+      "name": "Kalinyamat Kulon"
+    },
+    {
+      "code": 3376041005,
+      "name": "Margadana"
+    },
+    {
+      "code": 3376041006,
+      "name": "Sumurpanggang"
+    },
+    {
+      "code": 3376041007,
+      "name": "Pesurungan Lor"
+    }
+  ]
+}

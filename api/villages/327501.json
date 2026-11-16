@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3275011001,
+      "name": "Bekasijaya"
+    },
+    {
+      "code": 3275011002,
+      "name": "Margahayu"
+    },
+    {
+      "code": 3275011003,
+      "name": "Durenjaya"
+    },
+    {
+      "code": 3275011004,
+      "name": "Arenjaya"
+    }
+  ]
+}

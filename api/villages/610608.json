@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6106082001,
+      "name": "Nanga Tepuai"
+    },
+    {
+      "code": 6106082002,
+      "name": "Landau Kumpang"
+    },
+    {
+      "code": 6106082003,
+      "name": "Nanga Yen"
+    },
+    {
+      "code": 6106082004,
+      "name": "Lubuk Antuk"
+    },
+    {
+      "code": 6106082005,
+      "name": "Parang"
+    },
+    {
+      "code": 6106082006,
+      "name": "Kelakar"
+    },
+    {
+      "code": 6106082007,
+      "name": "Bugang"
+    },
+    {
+      "code": 6106082008,
+      "name": "Mentawit"
+    },
+    {
+      "code": 6106082009,
+      "name": "Tani Makmur"
+    },
+    {
+      "code": 6106082010,
+      "name": "Simpang Senara"
+    },
+    {
+      "code": 6106082011,
+      "name": "Beringin"
+    },
+    {
+      "code": 6106082012,
+      "name": "Sejahtera Mandiri"
+    },
+    {
+      "code": 6106082013,
+      "name": "Mubung"
+    },
+    {
+      "code": 6106082014,
+      "name": "Tunas Muda"
+    },
+    {
+      "code": 6106082015,
+      "name": "Karya Mandiri"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3602102001,
+      "name": "Pasindangan"
+    },
+    {
+      "code": 3602102002,
+      "name": "Parungkujang"
+    },
+    {
+      "code": 3602102003,
+      "name": "Cileles"
+    },
+    {
+      "code": 3602102004,
+      "name": "Cikareo"
+    },
+    {
+      "code": 3602102005,
+      "name": "Cipadang"
+    },
+    {
+      "code": 3602102006,
+      "name": "Gumuruh"
+    },
+    {
+      "code": 3602102007,
+      "name": "Prabugantungan"
+    },
+    {
+      "code": 3602102008,
+      "name": "Daroyon"
+    },
+    {
+      "code": 3602102009,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3602102010,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3602102011,
+      "name": "Kujangsari"
+    },
+    {
+      "code": 3602102012,
+      "name": "Banjarsari"
+    }
+  ]
+}

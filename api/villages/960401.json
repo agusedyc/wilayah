@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604012001,
+      "name": "Fef"
+    },
+    {
+      "code": 9604012002,
+      "name": "Wayo"
+    },
+    {
+      "code": 9604012003,
+      "name": "Syubun"
+    },
+    {
+      "code": 9604012004,
+      "name": "Sikor"
+    },
+    {
+      "code": 9604012005,
+      "name": "Ibe"
+    },
+    {
+      "code": 9604012006,
+      "name": "Syunam"
+    },
+    {
+      "code": 9604012007,
+      "name": "Banfot"
+    },
+    {
+      "code": 9604012008,
+      "name": "Iwin"
+    },
+    {
+      "code": 9604012009,
+      "name": "Esyum"
+    },
+    {
+      "code": 9604012010,
+      "name": "Imor"
+    }
+  ]
+}

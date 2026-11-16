@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7210102001,
+      "name": "Lambara"
+    },
+    {
+      "code": 7210102002,
+      "name": "Sibalaya Selatan"
+    },
+    {
+      "code": 7210102003,
+      "name": "Sibalaya Utara"
+    },
+    {
+      "code": 7210102004,
+      "name": "Sibowi"
+    },
+    {
+      "code": 7210102005,
+      "name": "Sibalaya Barat"
+    }
+  ]
+}

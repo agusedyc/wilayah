@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7503132001,
+      "name": "Lompotoo"
+    },
+    {
+      "code": 7503132002,
+      "name": "Lombongo"
+    },
+    {
+      "code": 7503132003,
+      "name": "Duano"
+    },
+    {
+      "code": 7503132004,
+      "name": "Tolomato"
+    },
+    {
+      "code": 7503132005,
+      "name": "Alale"
+    },
+    {
+      "code": 7503132006,
+      "name": "Tapadaa"
+    }
+  ]
+}

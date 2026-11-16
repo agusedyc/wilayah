@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3601352001,
+      "name": "Cimanis"
+    },
+    {
+      "code": 3601352002,
+      "name": "Teluklada"
+    },
+    {
+      "code": 3601352003,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3601352004,
+      "name": "Bojen"
+    },
+    {
+      "code": 3601352005,
+      "name": "Kutamekar"
+    },
+    {
+      "code": 3601352006,
+      "name": "Sobang"
+    },
+    {
+      "code": 3601352007,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 3601352008,
+      "name": "Bojenwetan"
+    }
+  ]
+}

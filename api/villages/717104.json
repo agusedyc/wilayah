@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7171041001,
+      "name": "Tikala Kumaraka"
+    },
+    {
+      "code": 7171041002,
+      "name": "Mahakeret Timur"
+    },
+    {
+      "code": 7171041003,
+      "name": "Mahakeret Barat"
+    },
+    {
+      "code": 7171041004,
+      "name": "Teling Bawah"
+    },
+    {
+      "code": 7171041005,
+      "name": "Wenang Utara"
+    },
+    {
+      "code": 7171041006,
+      "name": "Wenang Selatan"
+    },
+    {
+      "code": 7171041007,
+      "name": "Pinaesaan"
+    },
+    {
+      "code": 7171041008,
+      "name": "Calaca"
+    },
+    {
+      "code": 7171041009,
+      "name": "Istiqlal"
+    },
+    {
+      "code": 7171041010,
+      "name": "Lawangirung"
+    },
+    {
+      "code": 7171041011,
+      "name": "Komo Luar"
+    },
+    {
+      "code": 7171041012,
+      "name": "Bumi Beringin"
+    }
+  ]
+}

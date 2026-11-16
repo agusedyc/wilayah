@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1205051001,
+      "name": "Kwala Begumit"
+    },
+    {
+      "code": 1205052002,
+      "name": "Sambi Rejo"
+    },
+    {
+      "code": 1205052003,
+      "name": "Sendang Rejo"
+    },
+    {
+      "code": 1205052004,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 1205052005,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1205052006,
+      "name": "Perdamaian"
+    },
+    {
+      "code": 1205052007,
+      "name": "Suka Makmur"
+    }
+  ]
+}

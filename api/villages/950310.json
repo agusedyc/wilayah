@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9503102001,
+      "name": "Apdagma"
+    },
+    {
+      "code": 9503102002,
+      "name": "Sabin"
+    },
+    {
+      "code": 9503102003,
+      "name": "Mugi"
+    },
+    {
+      "code": 9503102004,
+      "name": "Harap"
+    },
+    {
+      "code": 9503102005,
+      "name": "Suok"
+    },
+    {
+      "code": 9503102006,
+      "name": "Mul"
+    },
+    {
+      "code": 9503102007,
+      "name": "Kolodoma"
+    },
+    {
+      "code": 9503102008,
+      "name": "Sangatur"
+    },
+    {
+      "code": 9503102009,
+      "name": "Sowaling"
+    },
+    {
+      "code": 9503102010,
+      "name": "Yerekama"
+    },
+    {
+      "code": 9503102011,
+      "name": "Walkuma"
+    }
+  ]
+}

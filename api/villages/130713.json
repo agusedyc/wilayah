@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1307132001,
+      "name": "Sariak Laweh"
+    },
+    {
+      "code": 1307132002,
+      "name": "Koto Tangah Batu Ampa"
+    },
+    {
+      "code": 1307132003,
+      "name": "Batuhampar"
+    },
+    {
+      "code": 1307132004,
+      "name": "Suayan"
+    },
+    {
+      "code": 1307132005,
+      "name": "Sungai Balantiak"
+    },
+    {
+      "code": 1307132006,
+      "name": "Pauh Sangik"
+    },
+    {
+      "code": 1307132007,
+      "name": "Durian Gadang"
+    }
+  ]
+}

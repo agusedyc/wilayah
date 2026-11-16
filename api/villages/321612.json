@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216122001,
+      "name": "Karangsambung"
+    },
+    {
+      "code": 3216122002,
+      "name": "Waringinjaya"
+    },
+    {
+      "code": 3216122003,
+      "name": "Karangmekar"
+    },
+    {
+      "code": 3216122004,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3216122005,
+      "name": "Karangharum"
+    },
+    {
+      "code": 3216122006,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3216122007,
+      "name": "Kedungwaringin"
+    }
+  ]
+}

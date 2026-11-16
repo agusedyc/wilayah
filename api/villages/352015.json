@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3520152001,
+      "name": "Kartoharjo"
+    },
+    {
+      "code": 3520152002,
+      "name": "Mrahu"
+    },
+    {
+      "code": 3520152003,
+      "name": "Klurahan"
+    },
+    {
+      "code": 3520152004,
+      "name": "Pencol"
+    },
+    {
+      "code": 3520152005,
+      "name": "Sukowidi"
+    },
+    {
+      "code": 3520152006,
+      "name": "Ngelang"
+    },
+    {
+      "code": 3520152007,
+      "name": "Jajar"
+    },
+    {
+      "code": 3520152008,
+      "name": "Gunungan"
+    },
+    {
+      "code": 3520152009,
+      "name": "Jeruk"
+    },
+    {
+      "code": 3520152010,
+      "name": "Bayemwetan"
+    },
+    {
+      "code": 3520152011,
+      "name": "Bayemtaman"
+    },
+    {
+      "code": 3520152012,
+      "name": "Karangmojo"
+    }
+  ]
+}

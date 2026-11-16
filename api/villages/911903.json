@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9119032001,
+      "name": "Yawerma"
+    },
+    {
+      "code": 9119032002,
+      "name": "Wombonda"
+    },
+    {
+      "code": 9119032003,
+      "name": "Marsram"
+    },
+    {
+      "code": 9119032004,
+      "name": "Duber"
+    },
+    {
+      "code": 9119032005,
+      "name": "Sauyas"
+    },
+    {
+      "code": 9119032006,
+      "name": "Wafor"
+    },
+    {
+      "code": 9119032007,
+      "name": "Sorendidori"
+    },
+    {
+      "code": 9119032008,
+      "name": "Waryesi"
+    },
+    {
+      "code": 9119032009,
+      "name": "Syurdori"
+    },
+    {
+      "code": 9119032010,
+      "name": "Douwbo"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "message": "Showing 39 villages",
+  "data": [
+    {
+      "code": 1108202001,
+      "name": "Blang Ara"
+    },
+    {
+      "code": 1108202002,
+      "name": "Tgk.Dibanda Pirak"
+    },
+    {
+      "code": 1108202003,
+      "name": "Paya Meudru"
+    },
+    {
+      "code": 1108202004,
+      "name": "Blang Sialet"
+    },
+    {
+      "code": 1108202005,
+      "name": "Buket Guru"
+    },
+    {
+      "code": 1108202006,
+      "name": "Geulumpang Pirak"
+    },
+    {
+      "code": 1108202007,
+      "name": "Alue Lhok"
+    },
+    {
+      "code": 1108202008,
+      "name": "Seuneubok Aceh"
+    },
+    {
+      "code": 1108202009,
+      "name": "Buket Pidie"
+    },
+    {
+      "code": 1108202010,
+      "name": "Kebon Pirak"
+    },
+    {
+      "code": 1108202011,
+      "name": "Alue Leukot"
+    },
+    {
+      "code": 1108202012,
+      "name": "Blang Mane"
+    },
+    {
+      "code": 1108202013,
+      "name": "Peureupok"
+    },
+    {
+      "code": 1108202014,
+      "name": "Alue Bieng"
+    },
+    {
+      "code": 1108202015,
+      "name": "Pante Seuleumak"
+    },
+    {
+      "code": 1108202016,
+      "name": "Meuria Seuleumak"
+    },
+    {
+      "code": 1108202017,
+      "name": "Tunong Krueng"
+    },
+    {
+      "code": 1108202018,
+      "name": "Geureughek"
+    },
+    {
+      "code": 1108202019,
+      "name": "Meunye Seuleumak"
+    },
+    {
+      "code": 1108202020,
+      "name": "Simpang"
+    },
+    {
+      "code": 1108202021,
+      "name": "Tumpok Mesjid"
+    },
+    {
+      "code": 1108202022,
+      "name": "Jok"
+    },
+    {
+      "code": 1108202023,
+      "name": "Leuhong"
+    },
+    {
+      "code": 1108202024,
+      "name": "Tanjong Burunyong"
+    },
+    {
+      "code": 1108202025,
+      "name": "Keude Paya Bakong"
+    },
+    {
+      "code": 1108202026,
+      "name": "Blang Gunci"
+    },
+    {
+      "code": 1108202027,
+      "name": "Gampong Nga"
+    },
+    {
+      "code": 1108202028,
+      "name": "Mampree"
+    },
+    {
+      "code": 1108202029,
+      "name": "Matang Panyang"
+    },
+    {
+      "code": 1108202030,
+      "name": "Tanjong Drieng"
+    },
+    {
+      "code": 1108202031,
+      "name": "Asan Seuleumak"
+    },
+    {
+      "code": 1108202032,
+      "name": "Tgk. Dibanda Tek-Tek"
+    },
+    {
+      "code": 1108202033,
+      "name": "Cot Teufah"
+    },
+    {
+      "code": 1108202034,
+      "name": "Pucok Alue Seuleumak"
+    },
+    {
+      "code": 1108202035,
+      "name": "Lueng"
+    },
+    {
+      "code": 1108202036,
+      "name": "Cempeudak"
+    },
+    {
+      "code": 1108202037,
+      "name": "Blang Paku"
+    },
+    {
+      "code": 1108202038,
+      "name": "Blang Dalam"
+    },
+    {
+      "code": 1108202039,
+      "name": "Blang Pante"
+    }
+  ]
+}

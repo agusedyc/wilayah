@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3602052003,
+      "name": "Pasireurih"
+    },
+    {
+      "code": 3602052004,
+      "name": "Ciminyak"
+    },
+    {
+      "code": 3602052005,
+      "name": "Muncang"
+    },
+    {
+      "code": 3602052006,
+      "name": "Leuwicoo"
+    },
+    {
+      "code": 3602052007,
+      "name": "Sindangwangi"
+    },
+    {
+      "code": 3602052008,
+      "name": "Cikarang"
+    },
+    {
+      "code": 3602052012,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3602052013,
+      "name": "Pasirnangka"
+    },
+    {
+      "code": 3602052018,
+      "name": "Jagaraksa"
+    },
+    {
+      "code": 3602052019,
+      "name": "Tanjungwangi"
+    },
+    {
+      "code": 3602052020,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3602052021,
+      "name": "Girijagabaya"
+    }
+  ]
+}

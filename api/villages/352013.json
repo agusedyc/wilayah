@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3520131001,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3520131006,
+      "name": "Manisrejo"
+    },
+    {
+      "code": 3520132002,
+      "name": "Mantren"
+    },
+    {
+      "code": 3520132003,
+      "name": "Gondang"
+    },
+    {
+      "code": 3520132004,
+      "name": "Sambirembe"
+    },
+    {
+      "code": 3520132005,
+      "name": "Patihan"
+    },
+    {
+      "code": 3520132007,
+      "name": "Pelem"
+    },
+    {
+      "code": 3520132008,
+      "name": "Baluk"
+    },
+    {
+      "code": 3520132009,
+      "name": "Gebyog"
+    },
+    {
+      "code": 3520132010,
+      "name": "Maron"
+    },
+    {
+      "code": 3520132011,
+      "name": "Prampelan"
+    },
+    {
+      "code": 3520132012,
+      "name": "Grabahan"
+    },
+    {
+      "code": 3520132013,
+      "name": "Kauman"
+    }
+  ]
+}

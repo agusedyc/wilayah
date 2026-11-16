@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7409051001,
+      "name": "Tinobu"
+    },
+    {
+      "code": 7409052006,
+      "name": "Abola"
+    },
+    {
+      "code": 7409052007,
+      "name": "Belalo"
+    },
+    {
+      "code": 7409052008,
+      "name": "Andeo"
+    },
+    {
+      "code": 7409052009,
+      "name": "Matapila"
+    },
+    {
+      "code": 7409052010,
+      "name": "Andumowu"
+    },
+    {
+      "code": 7409052011,
+      "name": "Basule"
+    },
+    {
+      "code": 7409052012,
+      "name": "Waworaha"
+    },
+    {
+      "code": 7409052013,
+      "name": "Otole"
+    },
+    {
+      "code": 7409052016,
+      "name": "Watukila"
+    },
+    {
+      "code": 7409052017,
+      "name": "Lametono"
+    },
+    {
+      "code": 7409052020,
+      "name": "Larodangge"
+    },
+    {
+      "code": 7409052024,
+      "name": "Tetelupai"
+    },
+    {
+      "code": 7409052025,
+      "name": "Lalowaru"
+    },
+    {
+      "code": 7409052026,
+      "name": "Muara Tinobu"
+    },
+    {
+      "code": 7409052030,
+      "name": "Marombo Pantai"
+    },
+    {
+      "code": 7409052031,
+      "name": "Tokowuta"
+    }
+  ]
+}

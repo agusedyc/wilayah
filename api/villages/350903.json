@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3509032001,
+      "name": "Jamintoro"
+    },
+    {
+      "code": 3509032002,
+      "name": "Jatiroto"
+    },
+    {
+      "code": 3509032003,
+      "name": "Kaliglagah"
+    },
+    {
+      "code": 3509032004,
+      "name": "Jambesari"
+    },
+    {
+      "code": 3509032005,
+      "name": "Yosorati"
+    },
+    {
+      "code": 3509032006,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3509032007,
+      "name": "Gelang"
+    },
+    {
+      "code": 3509032008,
+      "name": "Rowotengah"
+    },
+    {
+      "code": 3509032009,
+      "name": "Pringgowirawan"
+    },
+    {
+      "code": 3509032010,
+      "name": "Karangbayat"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1472031001,
+      "name": "Bukit Nenas"
+    },
+    {
+      "code": 1472031002,
+      "name": "Bukit Kayu Kapur"
+    },
+    {
+      "code": 1472031003,
+      "name": "Gurun Panjang"
+    },
+    {
+      "code": 1472031004,
+      "name": "Bagan Besar"
+    },
+    {
+      "code": 1472031005,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1472031006,
+      "name": "Bagan Besar Timur"
+    },
+    {
+      "code": 1472031007,
+      "name": "Bukit Kapur"
+    }
+  ]
+}

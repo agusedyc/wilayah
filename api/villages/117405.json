@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1174052001,
+      "name": "Timbang Langsa"
+    },
+    {
+      "code": 1174052002,
+      "name": "Alue Dua"
+    },
+    {
+      "code": 1174052003,
+      "name": "Birem Puntong"
+    },
+    {
+      "code": 1174052004,
+      "name": "Paya Bujok Seuleumak"
+    },
+    {
+      "code": 1174052005,
+      "name": "Pondok Kelapa"
+    },
+    {
+      "code": 1174052006,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1174052007,
+      "name": "Paya Bujok Tunong"
+    },
+    {
+      "code": 1174052008,
+      "name": "Geudubang Jawa"
+    },
+    {
+      "code": 1174052009,
+      "name": "Geudubang Aceh"
+    },
+    {
+      "code": 1174052010,
+      "name": "Alue Dua Bakaran Batee"
+    },
+    {
+      "code": 1174052011,
+      "name": "Lengkong"
+    },
+    {
+      "code": 1174052012,
+      "name": "Sukajadi Makmur"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5302302001,
+      "name": "Oelbubuk"
+    },
+    {
+      "code": 5302302002,
+      "name": "Nekemunifeto"
+    },
+    {
+      "code": 5302302003,
+      "name": "Binaus"
+    },
+    {
+      "code": 5302302004,
+      "name": "Oel'Ekam"
+    },
+    {
+      "code": 5302302005,
+      "name": "Kualeu"
+    },
+    {
+      "code": 5302302006,
+      "name": "Pika"
+    }
+  ]
+}

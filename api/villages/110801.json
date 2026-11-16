@@ -1,0 +1,234 @@
+{
+  "success": true,
+  "message": "Showing 57 villages",
+  "data": [
+    {
+      "code": 1108012001,
+      "name": "Keude Alue Ie Puteh"
+    },
+    {
+      "code": 1108012002,
+      "name": "Meunasah Alue Ie Puteh"
+    },
+    {
+      "code": 1108012003,
+      "name": "Pucok Alue"
+    },
+    {
+      "code": 1108012004,
+      "name": "Alue Anoe Timu"
+    },
+    {
+      "code": 1108012005,
+      "name": "Alue Anoe Barat"
+    },
+    {
+      "code": 1108012006,
+      "name": "Pulo Seukee"
+    },
+    {
+      "code": 1108012007,
+      "name": "Alue Serdang"
+    },
+    {
+      "code": 1108012008,
+      "name": "Cot Mane"
+    },
+    {
+      "code": 1108012009,
+      "name": "Cot Kumbang"
+    },
+    {
+      "code": 1108012010,
+      "name": "Matang Kumbang"
+    },
+    {
+      "code": 1108012011,
+      "name": "Matang Kareung"
+    },
+    {
+      "code": 1108012012,
+      "name": "Cot Ulaya"
+    },
+    {
+      "code": 1108012013,
+      "name": "Alue Geudong"
+    },
+    {
+      "code": 1108012014,
+      "name": "Tanjong Glumpang"
+    },
+    {
+      "code": 1108012015,
+      "name": "Matang Raya Timu"
+    },
+    {
+      "code": 1108012016,
+      "name": "Matang Raya Barat"
+    },
+    {
+      "code": 1108012017,
+      "name": "Matang Kelayu"
+    },
+    {
+      "code": 1108012018,
+      "name": "Alue Buya"
+    },
+    {
+      "code": 1108012019,
+      "name": "Matang Cut"
+    },
+    {
+      "code": 1108012020,
+      "name": "Keude Panteu Breuh"
+    },
+    {
+      "code": 1108012021,
+      "name": "Meudang Ara"
+    },
+    {
+      "code": 1108012022,
+      "name": "Meunasah Bujok"
+    },
+    {
+      "code": 1108012023,
+      "name": "Alue Dama"
+    },
+    {
+      "code": 1108012024,
+      "name": "Cot Ara"
+    },
+    {
+      "code": 1108012025,
+      "name": "Rambong Dalam"
+    },
+    {
+      "code": 1108012026,
+      "name": "Meunasah Geudong"
+    },
+    {
+      "code": 1108012027,
+      "name": "Alue Keutapang"
+    },
+    {
+      "code": 1108012028,
+      "name": "Krueng Lingka Barat"
+    },
+    {
+      "code": 1108012029,
+      "name": "Krueng Lingka Timu"
+    },
+    {
+      "code": 1108012030,
+      "name": "Alue Jamok"
+    },
+    {
+      "code": 1108012031,
+      "name": "Alue Bili Geulumpang"
+    },
+    {
+      "code": 1108012032,
+      "name": "Lhok Seutuy"
+    },
+    {
+      "code": 1108012033,
+      "name": "Alue Bili Rayeuk"
+    },
+    {
+      "code": 1108012034,
+      "name": "Keude Menjee IV"
+    },
+    {
+      "code": 1108012035,
+      "name": "Glumpang Bungkok"
+    },
+    {
+      "code": 1108012036,
+      "name": "Matang Rawa"
+    },
+    {
+      "code": 1108012037,
+      "name": "Glumpang Samlakoe"
+    },
+    {
+      "code": 1108012038,
+      "name": "Arongan Lise"
+    },
+    {
+      "code": 1108012039,
+      "name": "Matang Reudeup"
+    },
+    {
+      "code": 1108012040,
+      "name": "Matang Manyam"
+    },
+    {
+      "code": 1108012041,
+      "name": "Matang Ulim"
+    },
+    {
+      "code": 1108012042,
+      "name": "Matang Beuringen"
+    },
+    {
+      "code": 1108012043,
+      "name": "Cot Manyang"
+    },
+    {
+      "code": 1108012044,
+      "name": "Alue Ie Tarek"
+    },
+    {
+      "code": 1108012045,
+      "name": "Alue Rambong"
+    },
+    {
+      "code": 1108012046,
+      "name": "Matang Linya"
+    },
+    {
+      "code": 1108012047,
+      "name": "Matang Lawang"
+    },
+    {
+      "code": 1108012048,
+      "name": "Glumpang payong"
+    },
+    {
+      "code": 1108012049,
+      "name": "Mon Sukon"
+    },
+    {
+      "code": 1108012050,
+      "name": "Lueng Bata"
+    },
+    {
+      "code": 1108012051,
+      "name": "Ceumpeudak"
+    },
+    {
+      "code": 1108012052,
+      "name": "Buket Dara Baro"
+    },
+    {
+      "code": 1108012053,
+      "name": "Matang Pineung"
+    },
+    {
+      "code": 1108012054,
+      "name": "Matang Baro"
+    },
+    {
+      "code": 1108012055,
+      "name": "Ujong Dama"
+    },
+    {
+      "code": 1108012056,
+      "name": "Babussalam"
+    },
+    {
+      "code": 1108012057,
+      "name": "Cinta Makmur"
+    }
+  ]
+}

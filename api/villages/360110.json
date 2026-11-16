@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3601102001,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3601102002,
+      "name": "Cijakan"
+    },
+    {
+      "code": 3601102003,
+      "name": "Geredug"
+    },
+    {
+      "code": 3601102004,
+      "name": "Bojong"
+    },
+    {
+      "code": 3601102005,
+      "name": "Banyumas"
+    },
+    {
+      "code": 3601102006,
+      "name": "Citumenggung"
+    },
+    {
+      "code": 3601102007,
+      "name": "Manggungjaya"
+    },
+    {
+      "code": 3601102008,
+      "name": "Cahayamekar"
+    }
+  ]
+}

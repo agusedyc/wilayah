@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1708082001,
+      "name": "Limbur Baru"
+    },
+    {
+      "code": 1708082002,
+      "name": "Batu Kalung"
+    },
+    {
+      "code": 1708082003,
+      "name": "Batu Bandung"
+    },
+    {
+      "code": 1708082004,
+      "name": "Sosokan Baru"
+    },
+    {
+      "code": 1708082005,
+      "name": "Sosokan Taba"
+    },
+    {
+      "code": 1708082006,
+      "name": "Talang Tige"
+    },
+    {
+      "code": 1708082007,
+      "name": "Renah Kurung"
+    },
+    {
+      "code": 1708082008,
+      "name": "Warung Pojok"
+    }
+  ]
+}

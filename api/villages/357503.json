@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3575031001,
+      "name": "Blandongan"
+    },
+    {
+      "code": 3575031002,
+      "name": "Kepel"
+    },
+    {
+      "code": 3575031003,
+      "name": "Tapa'an"
+    },
+    {
+      "code": 3575031005,
+      "name": "Bakalan"
+    },
+    {
+      "code": 3575031006,
+      "name": "Krampyangan"
+    },
+    {
+      "code": 3575031009,
+      "name": "Bugul Kidul"
+    }
+  ]
+}

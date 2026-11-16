@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 6503042001,
+      "name": "Deralon"
+    },
+    {
+      "code": 6503042002,
+      "name": "Liang"
+    },
+    {
+      "code": 6503042003,
+      "name": "Dabulon"
+    },
+    {
+      "code": 6503042004,
+      "name": "Taluan"
+    },
+    {
+      "code": 6503042005,
+      "name": "Podong"
+    },
+    {
+      "code": 6503042006,
+      "name": "Patal I"
+    },
+    {
+      "code": 6503042007,
+      "name": "Siawang"
+    },
+    {
+      "code": 6503042008,
+      "name": "Sapuyan"
+    },
+    {
+      "code": 6503042009,
+      "name": "Nainsid"
+    },
+    {
+      "code": 6503042010,
+      "name": "Sasibu"
+    },
+    {
+      "code": 6503042011,
+      "name": "Saludan"
+    },
+    {
+      "code": 6503042012,
+      "name": "Semalat"
+    },
+    {
+      "code": 6503042013,
+      "name": "Libang"
+    },
+    {
+      "code": 6503042014,
+      "name": "Sedongon"
+    },
+    {
+      "code": 6503042015,
+      "name": "Tanjung Hilir"
+    },
+    {
+      "code": 6503042016,
+      "name": "Sumalumung"
+    },
+    {
+      "code": 6503042017,
+      "name": "Lintong"
+    },
+    {
+      "code": 6503042018,
+      "name": "Pulu Bulawan"
+    },
+    {
+      "code": 6503042019,
+      "name": "Tanjung Hulu"
+    },
+    {
+      "code": 6503042020,
+      "name": "Patal II"
+    },
+    {
+      "code": 6503042021,
+      "name": "Pa'loo"
+    },
+    {
+      "code": 6503042022,
+      "name": "Sangkub"
+    },
+    {
+      "code": 6503042023,
+      "name": "Tubus"
+    },
+    {
+      "code": 6503042024,
+      "name": "Likos"
+    },
+    {
+      "code": 6503042025,
+      "name": "Bulan-Bulan"
+    },
+    {
+      "code": 6503042026,
+      "name": "Kalampising"
+    },
+    {
+      "code": 6503042027,
+      "name": "Pa'lemumut"
+    },
+    {
+      "code": 6503042028,
+      "name": "Mansalong"
+    }
+  ]
+}

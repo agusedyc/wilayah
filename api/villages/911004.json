@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9110042001,
+      "name": "Ansudu"
+    },
+    {
+      "code": 9110042002,
+      "name": "Betaf"
+    },
+    {
+      "code": 9110042003,
+      "name": "Yamben"
+    },
+    {
+      "code": 9110042010,
+      "name": "Sunum"
+    },
+    {
+      "code": 9110042011,
+      "name": "Komra"
+    },
+    {
+      "code": 9110042013,
+      "name": "Betaf Dua"
+    },
+    {
+      "code": 9110042014,
+      "name": "Ansudu Dua"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5272011001,
+      "name": "Paruga"
+    },
+    {
+      "code": 5272011002,
+      "name": "Nae"
+    },
+    {
+      "code": 5272011003,
+      "name": "Sarae"
+    },
+    {
+      "code": 5272011004,
+      "name": "Tanjung"
+    },
+    {
+      "code": 5272011013,
+      "name": "Pane"
+    },
+    {
+      "code": 5272011014,
+      "name": "Dara"
+    }
+  ]
+}

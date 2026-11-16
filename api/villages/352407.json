@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3524071010,
+      "name": "Brondong"
+    },
+    {
+      "code": 3524072001,
+      "name": "Lohgung"
+    },
+    {
+      "code": 3524072002,
+      "name": "Labuhan"
+    },
+    {
+      "code": 3524072003,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3524072004,
+      "name": "Brengkok"
+    },
+    {
+      "code": 3524072005,
+      "name": "Tlogoretno"
+    },
+    {
+      "code": 3524072006,
+      "name": "Sendangharjo"
+    },
+    {
+      "code": 3524072007,
+      "name": "Lembor"
+    },
+    {
+      "code": 3524072008,
+      "name": "Sedayulawas"
+    },
+    {
+      "code": 3524072009,
+      "name": "Sumberagung"
+    }
+  ]
+}

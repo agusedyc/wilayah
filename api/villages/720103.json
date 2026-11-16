@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7201031006,
+      "name": "Kintom"
+    },
+    {
+      "code": 7201031010,
+      "name": "Mendono"
+    },
+    {
+      "code": 7201031017,
+      "name": "Mondonun"
+    },
+    {
+      "code": 7201032001,
+      "name": "Kalolos"
+    },
+    {
+      "code": 7201032002,
+      "name": "Tangkiang"
+    },
+    {
+      "code": 7201032003,
+      "name": "Padang"
+    },
+    {
+      "code": 7201032004,
+      "name": "Manyula"
+    },
+    {
+      "code": 7201032005,
+      "name": "Uling"
+    },
+    {
+      "code": 7201032007,
+      "name": "Samadoya"
+    },
+    {
+      "code": 7201032008,
+      "name": "Dimpalon"
+    },
+    {
+      "code": 7201032009,
+      "name": "Solan"
+    },
+    {
+      "code": 7201032013,
+      "name": "Babang Buyangge"
+    },
+    {
+      "code": 7201032015,
+      "name": "Solan Baru"
+    },
+    {
+      "code": 7201032019,
+      "name": "Dimpalon Baru"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1610112001,
+      "name": "Kotadaro I"
+    },
+    {
+      "code": 1610112002,
+      "name": "Ketapang I"
+    },
+    {
+      "code": 1610112003,
+      "name": "Rantau Panjang Ilir"
+    },
+    {
+      "code": 1610112004,
+      "name": "Jagaraja"
+    },
+    {
+      "code": 1610112005,
+      "name": "Jagalano"
+    },
+    {
+      "code": 1610112006,
+      "name": "Sejangko I"
+    },
+    {
+      "code": 1610112007,
+      "name": "Kota Daro II"
+    },
+    {
+      "code": 1610112008,
+      "name": "Sungai Rotan"
+    },
+    {
+      "code": 1610112009,
+      "name": "Rantau Panjang Ulu"
+    },
+    {
+      "code": 1610112010,
+      "name": "Ketapang II"
+    },
+    {
+      "code": 1610112011,
+      "name": "Sejangko II"
+    },
+    {
+      "code": 1610112012,
+      "name": "Arisan Deras"
+    }
+  ]
+}

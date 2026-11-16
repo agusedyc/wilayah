@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1271141001,
+      "name": "Indra Kasih"
+    },
+    {
+      "code": 1271141002,
+      "name": "Sidorejo Hilir"
+    },
+    {
+      "code": 1271141003,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1271141004,
+      "name": "Bantan"
+    },
+    {
+      "code": 1271141005,
+      "name": "Tembung"
+    },
+    {
+      "code": 1271141006,
+      "name": "Bandar Selamat"
+    },
+    {
+      "code": 1271141007,
+      "name": "Bantan Timur"
+    }
+  ]
+}

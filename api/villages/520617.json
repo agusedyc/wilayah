@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5206172001,
+      "name": "Kaboro"
+    },
+    {
+      "code": 5206172002,
+      "name": "Kuta"
+    },
+    {
+      "code": 5206172003,
+      "name": "Sambori"
+    },
+    {
+      "code": 5206172004,
+      "name": "Teta"
+    },
+    {
+      "code": 5206172005,
+      "name": "Kaowa"
+    },
+    {
+      "code": 5206172006,
+      "name": "Londu"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7405161002,
+      "name": "Lalowaru"
+    },
+    {
+      "code": 7405162001,
+      "name": "Puasana"
+    },
+    {
+      "code": 7405162003,
+      "name": "Tanjung Tiram"
+    },
+    {
+      "code": 7405162004,
+      "name": "Wawatu"
+    },
+    {
+      "code": 7405162005,
+      "name": "Sanggula"
+    },
+    {
+      "code": 7405162006,
+      "name": "Lombuea"
+    },
+    {
+      "code": 7405162007,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7405162008,
+      "name": "Lamokula"
+    },
+    {
+      "code": 7405162009,
+      "name": "Mata Wawatu"
+    },
+    {
+      "code": 7405162010,
+      "name": "Mata Lamokula"
+    }
+  ]
+}

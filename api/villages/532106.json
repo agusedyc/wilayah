@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5321062001,
+      "name": "Biau"
+    },
+    {
+      "code": 5321062002,
+      "name": "Kufeu"
+    },
+    {
+      "code": 5321062003,
+      "name": "Tunmat"
+    },
+    {
+      "code": 5321062004,
+      "name": "Tunabesi"
+    },
+    {
+      "code": 5321062005,
+      "name": "Bani-Bani"
+    },
+    {
+      "code": 5321062006,
+      "name": "Fatoin"
+    },
+    {
+      "code": 5321062007,
+      "name": "Ikan Tuanbeis"
+    }
+  ]
+}

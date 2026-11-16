@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5105042001,
+      "name": "Paksebali"
+    },
+    {
+      "code": 5105042002,
+      "name": "Sampalan Tengah"
+    },
+    {
+      "code": 5105042003,
+      "name": "Sampalan Klod"
+    },
+    {
+      "code": 5105042004,
+      "name": "Sulang"
+    },
+    {
+      "code": 5105042005,
+      "name": "Gunaksa"
+    },
+    {
+      "code": 5105042006,
+      "name": "Kusamba"
+    },
+    {
+      "code": 5105042007,
+      "name": "Kampung Kusamba"
+    },
+    {
+      "code": 5105042008,
+      "name": "Pesinggahan"
+    },
+    {
+      "code": 5105042009,
+      "name": "Dawan Klod"
+    },
+    {
+      "code": 5105042010,
+      "name": "Pikat"
+    },
+    {
+      "code": 5105042011,
+      "name": "Dawan Kaler"
+    },
+    {
+      "code": 5105042012,
+      "name": "Besan"
+    }
+  ]
+}

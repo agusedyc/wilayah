@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9507312001,
+      "name": "Bonom"
+    },
+    {
+      "code": 9507312002,
+      "name": "Kuwanom"
+    },
+    {
+      "code": 9507312003,
+      "name": "Kumulume"
+    },
+    {
+      "code": 9507312004,
+      "name": "Uwagambur"
+    },
+    {
+      "code": 9507312005,
+      "name": "Lagame"
+    },
+    {
+      "code": 9507312006,
+      "name": "Kuwoge"
+    },
+    {
+      "code": 9507312007,
+      "name": "Laurapaga"
+    },
+    {
+      "code": 9507312008,
+      "name": "Bawi"
+    },
+    {
+      "code": 9507312009,
+      "name": "Yugimbo"
+    },
+    {
+      "code": 9507312010,
+      "name": "Tinggini"
+    },
+    {
+      "code": 9507312011,
+      "name": "Ogin"
+    }
+  ]
+}

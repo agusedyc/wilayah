@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 2104021010,
+      "name": "Daik"
+    },
+    {
+      "code": 2104021020,
+      "name": "Daik Sepincan"
+    },
+    {
+      "code": 2104022001,
+      "name": "Pekajang"
+    },
+    {
+      "code": 2104022002,
+      "name": "Kelombok"
+    },
+    {
+      "code": 2104022003,
+      "name": "Mepar"
+    },
+    {
+      "code": 2104022006,
+      "name": "Kelumu"
+    },
+    {
+      "code": 2104022007,
+      "name": "Mentuda"
+    },
+    {
+      "code": 2104022008,
+      "name": "Merawang"
+    },
+    {
+      "code": 2104022009,
+      "name": "Panggak Darat"
+    },
+    {
+      "code": 2104022011,
+      "name": "Panggak Laut"
+    },
+    {
+      "code": 2104022012,
+      "name": "Musai"
+    },
+    {
+      "code": 2104022019,
+      "name": "Nerekeh"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302142001,
+      "name": "Benlutu"
+    },
+    {
+      "code": 5302142002,
+      "name": "Boentuka"
+    },
+    {
+      "code": 5302142003,
+      "name": "Hane"
+    },
+    {
+      "code": 5302142004,
+      "name": "Oebobo"
+    },
+    {
+      "code": 5302142005,
+      "name": "Tupan"
+    },
+    {
+      "code": 5302142006,
+      "name": "Tuakole"
+    },
+    {
+      "code": 5302142007,
+      "name": "Oehela"
+    }
+  ]
+}

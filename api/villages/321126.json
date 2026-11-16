@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3211262001,
+      "name": "Cijeungjing"
+    },
+    {
+      "code": 3211262002,
+      "name": "Kadujaya"
+    },
+    {
+      "code": 3211262003,
+      "name": "Lebaksiuh"
+    },
+    {
+      "code": 3211262004,
+      "name": "Cintajaya"
+    },
+    {
+      "code": 3211262005,
+      "name": "Cipicung"
+    },
+    {
+      "code": 3211262006,
+      "name": "Mekarasih"
+    },
+    {
+      "code": 3211262008,
+      "name": "Ciranggem"
+    },
+    {
+      "code": 3211262009,
+      "name": "Cisampih"
+    },
+    {
+      "code": 3211262010,
+      "name": "Jemah"
+    },
+    {
+      "code": 3211262011,
+      "name": "Karedok"
+    },
+    {
+      "code": 3211262012,
+      "name": "Kadu"
+    }
+  ]
+}

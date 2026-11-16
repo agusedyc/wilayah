@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7317131001,
+      "name": "Cilallang"
+    },
+    {
+      "code": 7317132002,
+      "name": "Kamanre"
+    },
+    {
+      "code": 7317132003,
+      "name": "Tabbaja"
+    },
+    {
+      "code": 7317132004,
+      "name": "Libukang"
+    },
+    {
+      "code": 7317132005,
+      "name": "Wara"
+    },
+    {
+      "code": 7317132006,
+      "name": "Salu Paremang"
+    },
+    {
+      "code": 7317132007,
+      "name": "Salu Paremang Selatan"
+    },
+    {
+      "code": 7317132008,
+      "name": "Bunga Eja"
+    }
+  ]
+}

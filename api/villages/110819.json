@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1108192001,
+      "name": "Keude Sampoiniet"
+    },
+    {
+      "code": 1108192002,
+      "name": "Lhok Iboh"
+    },
+    {
+      "code": 1108192003,
+      "name": "Matang Bayu"
+    },
+    {
+      "code": 1108192004,
+      "name": "Lang Nibong"
+    },
+    {
+      "code": 1108192005,
+      "name": "Blang Seunong"
+    },
+    {
+      "code": 1108192006,
+      "name": "Singgah Mata"
+    },
+    {
+      "code": 1108192007,
+      "name": "Matang Panyang"
+    },
+    {
+      "code": 1108192008,
+      "name": "Matang Ceubrek"
+    },
+    {
+      "code": 1108192009,
+      "name": "Matang Teungoh"
+    },
+    {
+      "code": 1108192010,
+      "name": "Cot Paya"
+    },
+    {
+      "code": 1108192011,
+      "name": "Cot Kupok"
+    },
+    {
+      "code": 1108192012,
+      "name": "Matang Raya Blang Sialet"
+    },
+    {
+      "code": 1108192013,
+      "name": "Pucok Alue Buket"
+    },
+    {
+      "code": 1108192014,
+      "name": "Matang Sijuek Timu"
+    },
+    {
+      "code": 1108192015,
+      "name": "Matang Sijuek Teungoh"
+    },
+    {
+      "code": 1108192016,
+      "name": "Matang Sijuek Barat"
+    },
+    {
+      "code": 1108192017,
+      "name": "Cot Laba"
+    },
+    {
+      "code": 1108192018,
+      "name": "Meunasah Pante"
+    },
+    {
+      "code": 1108192019,
+      "name": "Meurandeh Paya"
+    },
+    {
+      "code": 1108192020,
+      "name": "Cot Murong"
+    },
+    {
+      "code": 1108192021,
+      "name": "Matang Paya"
+    },
+    {
+      "code": 1108192022,
+      "name": "Lhok Euncien"
+    },
+    {
+      "code": 1108192023,
+      "name": "Cot Usen"
+    },
+    {
+      "code": 1108192024,
+      "name": "Meunasah Hagu"
+    },
+    {
+      "code": 1108192025,
+      "name": "Blang Rheue"
+    },
+    {
+      "code": 1108192026,
+      "name": "Paya Bateung"
+    }
+  ]
+}

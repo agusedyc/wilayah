@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1272061001,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1272061003,
+      "name": "Tambun Nabolon"
+    },
+    {
+      "code": 1272061007,
+      "name": "Naga Pita"
+    },
+    {
+      "code": 1272061008,
+      "name": "Pondok Sayur"
+    },
+    {
+      "code": 1272061009,
+      "name": "Tanjung Tongah"
+    },
+    {
+      "code": 1272061010,
+      "name": "Naga Pitu"
+    },
+    {
+      "code": 1272061011,
+      "name": "Tanjung Pinggir"
+    }
+  ]
+}

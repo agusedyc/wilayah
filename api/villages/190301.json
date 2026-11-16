@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1903011001,
+      "name": "Toboali"
+    },
+    {
+      "code": 1903011002,
+      "name": "Teladan"
+    },
+    {
+      "code": 1903011003,
+      "name": "Tanjung Ketapang"
+    },
+    {
+      "code": 1903012004,
+      "name": "Serdang"
+    },
+    {
+      "code": 1903012005,
+      "name": "Jeriji"
+    },
+    {
+      "code": 1903012006,
+      "name": "Bikang"
+    },
+    {
+      "code": 1903012007,
+      "name": "Gadung"
+    },
+    {
+      "code": 1903012008,
+      "name": "Rias"
+    },
+    {
+      "code": 1903012010,
+      "name": "Kepoh"
+    },
+    {
+      "code": 1903012012,
+      "name": "Keposang"
+    },
+    {
+      "code": 1903012013,
+      "name": "Rindik"
+    }
+  ]
+}

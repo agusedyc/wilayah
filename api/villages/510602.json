@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5106021003,
+      "name": "Bebalang"
+    },
+    {
+      "code": 5106021004,
+      "name": "Kawan"
+    },
+    {
+      "code": 5106021005,
+      "name": "Cempaga"
+    },
+    {
+      "code": 5106021006,
+      "name": "Kubu"
+    },
+    {
+      "code": 5106022001,
+      "name": "Bunutin"
+    },
+    {
+      "code": 5106022002,
+      "name": "Tamanbali"
+    },
+    {
+      "code": 5106022007,
+      "name": "Kayubihi"
+    },
+    {
+      "code": 5106022008,
+      "name": "Pengotan"
+    },
+    {
+      "code": 5106022009,
+      "name": "Landih"
+    }
+  ]
+}

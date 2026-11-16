@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5102052001,
+      "name": "Sudimara"
+    },
+    {
+      "code": 5102052002,
+      "name": "Gubug"
+    },
+    {
+      "code": 5102052003,
+      "name": "Bongan"
+    },
+    {
+      "code": 5102052004,
+      "name": "Delod Peken"
+    },
+    {
+      "code": 5102052005,
+      "name": "Dauh Peken"
+    },
+    {
+      "code": 5102052006,
+      "name": "Dajan Peken"
+    },
+    {
+      "code": 5102052007,
+      "name": "Denbantas"
+    },
+    {
+      "code": 5102052008,
+      "name": "Subamia"
+    },
+    {
+      "code": 5102052009,
+      "name": "Wanasari"
+    },
+    {
+      "code": 5102052010,
+      "name": "Tunjuk"
+    },
+    {
+      "code": 5102052011,
+      "name": "Buahan"
+    },
+    {
+      "code": 5102052012,
+      "name": "Sesandan"
+    }
+  ]
+}

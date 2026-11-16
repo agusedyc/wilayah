@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1807162001,
+      "name": "Mataram Baru"
+    },
+    {
+      "code": 1807162002,
+      "name": "Rajabasa Baru"
+    },
+    {
+      "code": 1807162003,
+      "name": "Teluk Dalem"
+    },
+    {
+      "code": 1807162004,
+      "name": "Way Areng"
+    },
+    {
+      "code": 1807162005,
+      "name": "Tulung Pasik"
+    },
+    {
+      "code": 1807162006,
+      "name": "Mandala Sari"
+    },
+    {
+      "code": 1807162007,
+      "name": "Kebon Damar"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5206042001,
+      "name": "Ncera"
+    },
+    {
+      "code": 5206042002,
+      "name": "Lido"
+    },
+    {
+      "code": 5206042003,
+      "name": "Ngali"
+    },
+    {
+      "code": 5206042004,
+      "name": "Renda"
+    },
+    {
+      "code": 5206042005,
+      "name": "Cenggu"
+    },
+    {
+      "code": 5206042006,
+      "name": "Runggu"
+    },
+    {
+      "code": 5206042014,
+      "name": "Soki"
+    },
+    {
+      "code": 5206042015,
+      "name": "Roka"
+    },
+    {
+      "code": 5206042016,
+      "name": "Diha"
+    }
+  ]
+}

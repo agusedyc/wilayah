@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6171051001,
+      "name": "Sungaibangkong"
+    },
+    {
+      "code": 6171051002,
+      "name": "Daratsekip"
+    },
+    {
+      "code": 6171051003,
+      "name": "Tengah"
+    },
+    {
+      "code": 6171051004,
+      "name": "Mariana"
+    },
+    {
+      "code": 6171051005,
+      "name": "Sungaijawi"
+    }
+  ]
+}

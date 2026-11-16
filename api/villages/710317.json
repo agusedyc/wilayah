@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7103171006,
+      "name": "Sawang Bendar"
+    },
+    {
+      "code": 7103171007,
+      "name": "Soataloara I"
+    },
+    {
+      "code": 7103171008,
+      "name": "Apengsembeka"
+    },
+    {
+      "code": 7103171009,
+      "name": "Mahena"
+    },
+    {
+      "code": 7103171015,
+      "name": "Bungalawang"
+    },
+    {
+      "code": 7103171016,
+      "name": "Santiago"
+    },
+    {
+      "code": 7103171017,
+      "name": "Manente"
+    },
+    {
+      "code": 7103171018,
+      "name": "Soataloara II"
+    }
+  ]
+}

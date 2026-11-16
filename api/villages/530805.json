@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5308051001,
+      "name": "Onelako"
+    },
+    {
+      "code": 5308051002,
+      "name": "Lokoboko"
+    },
+    {
+      "code": 5308052003,
+      "name": "Wolotopo"
+    },
+    {
+      "code": 5308052004,
+      "name": "Wolotolo Timur"
+    },
+    {
+      "code": 5308052006,
+      "name": "Puutuga"
+    },
+    {
+      "code": 5308052007,
+      "name": "Ngalupolo"
+    },
+    {
+      "code": 5308052012,
+      "name": "Ngaluroga"
+    },
+    {
+      "code": 5308052013,
+      "name": "Nila"
+    },
+    {
+      "code": 5308052014,
+      "name": "Kekasewa"
+    },
+    {
+      "code": 5308052015,
+      "name": "Manulando"
+    },
+    {
+      "code": 5308052016,
+      "name": "Nanganesa"
+    },
+    {
+      "code": 5308052017,
+      "name": "Wolokota"
+    },
+    {
+      "code": 5308052018,
+      "name": "Kelikiku"
+    },
+    {
+      "code": 5308052020,
+      "name": "Reka"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3507312001,
+      "name": "Slorok"
+    },
+    {
+      "code": 3507312002,
+      "name": "Jatikerto"
+    },
+    {
+      "code": 3507312003,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3507312004,
+      "name": "Kromengan"
+    },
+    {
+      "code": 3507312005,
+      "name": "Peniwen"
+    },
+    {
+      "code": 3507312006,
+      "name": "Jambuwer"
+    },
+    {
+      "code": 3507312007,
+      "name": "Karangrejo"
+    }
+  ]
+}

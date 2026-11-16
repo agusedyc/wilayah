@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5206082005,
+      "name": "Doridungga"
+    },
+    {
+      "code": 5206082006,
+      "name": "Kala"
+    },
+    {
+      "code": 5206082007,
+      "name": "O'o"
+    },
+    {
+      "code": 5206082008,
+      "name": "Mbawa"
+    },
+    {
+      "code": 5206082009,
+      "name": "Palama"
+    },
+    {
+      "code": 5206082010,
+      "name": "Rora"
+    },
+    {
+      "code": 5206082012,
+      "name": "Mpili"
+    },
+    {
+      "code": 5206082013,
+      "name": "Bumi Pajo"
+    },
+    {
+      "code": 5206082014,
+      "name": "Ndano Na'e"
+    }
+  ]
+}

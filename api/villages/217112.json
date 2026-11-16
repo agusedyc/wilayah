@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 2171121001,
+      "name": "Tanjung Uncang"
+    },
+    {
+      "code": 2171121002,
+      "name": "Buliang"
+    },
+    {
+      "code": 2171121003,
+      "name": "Kibing"
+    },
+    {
+      "code": 2171121004,
+      "name": "Bukit Tempayan"
+    }
+  ]
+}

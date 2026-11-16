@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601152001,
+      "name": "Palanyar"
+    },
+    {
+      "code": 3601152002,
+      "name": "Baturanjang"
+    },
+    {
+      "code": 3601152003,
+      "name": "Cikadueun"
+    },
+    {
+      "code": 3601152004,
+      "name": "Koncang"
+    },
+    {
+      "code": 3601152005,
+      "name": "Kadugadung"
+    },
+    {
+      "code": 3601152006,
+      "name": "Parumasan"
+    },
+    {
+      "code": 3601152007,
+      "name": "Curugbarang"
+    },
+    {
+      "code": 3601152008,
+      "name": "Kalanggunung"
+    },
+    {
+      "code": 3601152009,
+      "name": "Pasireurih"
+    },
+    {
+      "code": 3601152010,
+      "name": "Pasirmae"
+    }
+  ]
+}

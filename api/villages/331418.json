@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3314182001,
+      "name": "Tanggan"
+    },
+    {
+      "code": 3314182002,
+      "name": "Pilangsari"
+    },
+    {
+      "code": 3314182003,
+      "name": "Blangu"
+    },
+    {
+      "code": 3314182004,
+      "name": "Gesi"
+    },
+    {
+      "code": 3314182005,
+      "name": "Srawung"
+    },
+    {
+      "code": 3314182006,
+      "name": "Poleng"
+    },
+    {
+      "code": 3314182007,
+      "name": "Slendro"
+    }
+  ]
+}

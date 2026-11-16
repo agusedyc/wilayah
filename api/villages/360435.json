@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3604352001,
+      "name": "Kamaruton"
+    },
+    {
+      "code": 3604352002,
+      "name": "Teras Bendung"
+    },
+    {
+      "code": 3604352003,
+      "name": "Lebak Wangi"
+    },
+    {
+      "code": 3604352004,
+      "name": "Lebak Kepuh"
+    },
+    {
+      "code": 3604352005,
+      "name": "Kencana Harapan"
+    },
+    {
+      "code": 3604352006,
+      "name": "Pegandikan"
+    },
+    {
+      "code": 3604352007,
+      "name": "Purwadadi"
+    },
+    {
+      "code": 3604352008,
+      "name": "Bolang"
+    },
+    {
+      "code": 3604352009,
+      "name": "Tirem"
+    },
+    {
+      "code": 3604352010,
+      "name": "Kebonratu"
+    }
+  ]
+}

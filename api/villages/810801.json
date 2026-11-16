@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8108011001,
+      "name": "Tiakur"
+    },
+    {
+      "code": 8108012001,
+      "name": "Klis"
+    },
+    {
+      "code": 8108012002,
+      "name": "Patti"
+    },
+    {
+      "code": 8108012003,
+      "name": "Wakarleli"
+    },
+    {
+      "code": 8108012004,
+      "name": "Kaiwatu"
+    },
+    {
+      "code": 8108012005,
+      "name": "Werwaru"
+    },
+    {
+      "code": 8108012006,
+      "name": "Tounwawan"
+    },
+    {
+      "code": 8108012007,
+      "name": "Moain"
+    }
+  ]
+}

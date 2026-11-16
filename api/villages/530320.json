@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5303202001,
+      "name": "Subun"
+    },
+    {
+      "code": 5303202002,
+      "name": "Usapinonot"
+    },
+    {
+      "code": 5303202003,
+      "name": "Lapeom"
+    },
+    {
+      "code": 5303202004,
+      "name": "Letneo"
+    },
+    {
+      "code": 5303202005,
+      "name": "Bannae"
+    },
+    {
+      "code": 5303202006,
+      "name": "Unini"
+    },
+    {
+      "code": 5303202007,
+      "name": "Atmen"
+    },
+    {
+      "code": 5303202008,
+      "name": "Letneo Selatan"
+    },
+    {
+      "code": 5303202009,
+      "name": "Oabikase"
+    },
+    {
+      "code": 5303202010,
+      "name": "Nifunenas"
+    },
+    {
+      "code": 5303202011,
+      "name": "Subun Bestobe"
+    },
+    {
+      "code": 5303202012,
+      "name": "Subun Tualele"
+    }
+  ]
+}

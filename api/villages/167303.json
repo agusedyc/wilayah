@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1673031001,
+      "name": "Lubuk Kupang"
+    },
+    {
+      "code": 1673031003,
+      "name": "Rahmah"
+    },
+    {
+      "code": 1673031008,
+      "name": "Jukung"
+    },
+    {
+      "code": 1673031009,
+      "name": "Air Kati"
+    },
+    {
+      "code": 1673031010,
+      "name": "Air Teman"
+    },
+    {
+      "code": 1673031011,
+      "name": "Perumnas Rahmah"
+    },
+    {
+      "code": 1673031012,
+      "name": "Lubuk Binjai"
+    }
+  ]
+}

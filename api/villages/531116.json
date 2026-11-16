@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5311161001,
+      "name": "Wangga"
+    },
+    {
+      "code": 5311161002,
+      "name": "Prailiu"
+    },
+    {
+      "code": 5311161003,
+      "name": "Kambaniru"
+    },
+    {
+      "code": 5311161004,
+      "name": "Mauliru"
+    },
+    {
+      "code": 5311161005,
+      "name": "Mau Hau"
+    },
+    {
+      "code": 5311161006,
+      "name": "Malumbi"
+    },
+    {
+      "code": 5311161007,
+      "name": "Lambanapu"
+    },
+    {
+      "code": 5311162008,
+      "name": "Kiritana"
+    }
+  ]
+}

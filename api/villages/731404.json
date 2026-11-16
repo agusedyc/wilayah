@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7314041001,
+      "name": "Baranti"
+    },
+    {
+      "code": 7314041002,
+      "name": "Duampanua"
+    },
+    {
+      "code": 7314041003,
+      "name": "Benteng"
+    },
+    {
+      "code": 7314041004,
+      "name": "Manisa"
+    },
+    {
+      "code": 7314041005,
+      "name": "Panreng"
+    },
+    {
+      "code": 7314042006,
+      "name": "Passeno"
+    },
+    {
+      "code": 7314042007,
+      "name": "Sipodeceng"
+    },
+    {
+      "code": 7314042008,
+      "name": "Tonrongnge"
+    },
+    {
+      "code": 7314042009,
+      "name": "Tonrong Rijang"
+    }
+  ]
+}

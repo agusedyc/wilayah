@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9202032001,
+      "name": "Dindey"
+    },
+    {
+      "code": 9202032002,
+      "name": "Indisey"
+    },
+    {
+      "code": 9202032003,
+      "name": "Hingk"
+    },
+    {
+      "code": 9202032004,
+      "name": "Warmare"
+    },
+    {
+      "code": 9202032005,
+      "name": "Nimbay"
+    },
+    {
+      "code": 9202032006,
+      "name": "Meny"
+    },
+    {
+      "code": 9202032007,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 9202032008,
+      "name": "Umcen"
+    },
+    {
+      "code": 9202032009,
+      "name": "Subsay"
+    },
+    {
+      "code": 9202032010,
+      "name": "Madrat"
+    },
+    {
+      "code": 9202032011,
+      "name": "Snaimboy"
+    },
+    {
+      "code": 9202032012,
+      "name": "Guentuy"
+    },
+    {
+      "code": 9202032013,
+      "name": "Ngungguen"
+    },
+    {
+      "code": 9202032014,
+      "name": "Sotea"
+    },
+    {
+      "code": 9202032015,
+      "name": "Duwin"
+    },
+    {
+      "code": 9202032016,
+      "name": "Ibuwau"
+    },
+    {
+      "code": 9202032017,
+      "name": "Iboisrati"
+    },
+    {
+      "code": 9202032018,
+      "name": "Sraindabey"
+    },
+    {
+      "code": 9202032023,
+      "name": "Indonbey"
+    }
+  ]
+}

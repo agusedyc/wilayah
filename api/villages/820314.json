@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8203142001,
+      "name": "Soatobaru"
+    },
+    {
+      "code": 8203142002,
+      "name": "Dokulamo"
+    },
+    {
+      "code": 8203142003,
+      "name": "Duma"
+    },
+    {
+      "code": 8203142004,
+      "name": "Gotalamo"
+    },
+    {
+      "code": 8203142005,
+      "name": "Makete"
+    },
+    {
+      "code": 8203142006,
+      "name": "Ngidiho"
+    },
+    {
+      "code": 8203142007,
+      "name": "Roko"
+    },
+    {
+      "code": 8203142008,
+      "name": "Samuda"
+    },
+    {
+      "code": 8203142009,
+      "name": "Kira"
+    }
+  ]
+}

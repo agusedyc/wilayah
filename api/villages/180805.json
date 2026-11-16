@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1808052001,
+      "name": "Tulang Bawang"
+    },
+    {
+      "code": 1808052002,
+      "name": "Mesir Udik"
+    },
+    {
+      "code": 1808052005,
+      "name": "Mesir Ilir"
+    },
+    {
+      "code": 1808052006,
+      "name": "Sapto Renggo"
+    },
+    {
+      "code": 1808052007,
+      "name": "Giri Harjo"
+    },
+    {
+      "code": 1808052009,
+      "name": "Bumi Agung Wates"
+    },
+    {
+      "code": 1808052017,
+      "name": "Serdang Kuring"
+    },
+    {
+      "code": 1808052024,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1808052025,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1808052026,
+      "name": "Kota Dewa"
+    },
+    {
+      "code": 1808052027,
+      "name": "Dewa Agung"
+    }
+  ]
+}

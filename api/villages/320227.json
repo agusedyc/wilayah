@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202272001,
+      "name": "Cikujang"
+    },
+    {
+      "code": 3202272002,
+      "name": "Gunungguruh"
+    },
+    {
+      "code": 3202272003,
+      "name": "Cibentang"
+    },
+    {
+      "code": 3202272004,
+      "name": "Sirnaresmi"
+    },
+    {
+      "code": 3202272005,
+      "name": "Kebonmanggu"
+    },
+    {
+      "code": 3202272006,
+      "name": "Cibolang"
+    },
+    {
+      "code": 3202272007,
+      "name": "Mangkalaya"
+    }
+  ]
+}

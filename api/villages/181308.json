@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1813082001,
+      "name": "Balai Kencana"
+    },
+    {
+      "code": 1813082002,
+      "name": "Way Suluh"
+    },
+    {
+      "code": 1813082003,
+      "name": "Way Napal"
+    },
+    {
+      "code": 1813082004,
+      "name": "Padang Haluan"
+    },
+    {
+      "code": 1813082005,
+      "name": "Lintik"
+    },
+    {
+      "code": 1813082006,
+      "name": "Walur"
+    },
+    {
+      "code": 1813082007,
+      "name": "Pemerihan"
+    },
+    {
+      "code": 1813082008,
+      "name": "Mandiri Sejati"
+    },
+    {
+      "code": 1813082009,
+      "name": "Padang Raya"
+    },
+    {
+      "code": 1813082010,
+      "name": "Suka Jadi"
+    }
+  ]
+}

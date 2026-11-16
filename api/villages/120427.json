@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1204272001,
+      "name": "Orahili"
+    },
+    {
+      "code": 1204272002,
+      "name": "Hiliweto Gela"
+    },
+    {
+      "code": 1204272003,
+      "name": "Lawa-lawa Luo"
+    },
+    {
+      "code": 1204272004,
+      "name": "Hilimbowo"
+    },
+    {
+      "code": 1204272005,
+      "name": "Hilibadalu"
+    },
+    {
+      "code": 1204272006,
+      "name": "Fatodano"
+    },
+    {
+      "code": 1204272007,
+      "name": "Fahandrona"
+    },
+    {
+      "code": 1204272008,
+      "name": "Onodalinga"
+    },
+    {
+      "code": 1204272009,
+      "name": "Holi"
+    },
+    {
+      "code": 1204272010,
+      "name": "Sisobahili Ulugawo"
+    },
+    {
+      "code": 1204272011,
+      "name": "Sifaoroasi Ulugawo"
+    },
+    {
+      "code": 1204272012,
+      "name": "Mohili"
+    },
+    {
+      "code": 1204272013,
+      "name": "Hiligafoa"
+    },
+    {
+      "code": 1204272014,
+      "name": "Sisarahili Soroma'asi"
+    }
+  ]
+}

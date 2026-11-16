@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9203142001,
+      "name": "Darembang"
+    },
+    {
+      "code": 9203142002,
+      "name": "Goras"
+    },
+    {
+      "code": 9203142003,
+      "name": "Mitimber"
+    },
+    {
+      "code": 9203142004,
+      "name": "Waremu"
+    },
+    {
+      "code": 9203142005,
+      "name": "Wos"
+    },
+    {
+      "code": 9203142006,
+      "name": "Mbahamdandra"
+    },
+    {
+      "code": 9203142007,
+      "name": "Goras Selatan"
+    }
+  ]
+}

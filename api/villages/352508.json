@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3525082001,
+      "name": "Mojowuku"
+    },
+    {
+      "code": 3525082002,
+      "name": "Glindah"
+    },
+    {
+      "code": 3525082003,
+      "name": "Sidoraharjo"
+    },
+    {
+      "code": 3525082004,
+      "name": "Tulung"
+    },
+    {
+      "code": 3525082005,
+      "name": "Cermen"
+    },
+    {
+      "code": 3525082006,
+      "name": "Lampah"
+    },
+    {
+      "code": 3525082007,
+      "name": "Slempit"
+    },
+    {
+      "code": 3525082008,
+      "name": "Turirejo"
+    },
+    {
+      "code": 3525082009,
+      "name": "Belahanrejo"
+    },
+    {
+      "code": 3525082010,
+      "name": "Menunggal"
+    },
+    {
+      "code": 3525082011,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3525082012,
+      "name": "Katimoho"
+    },
+    {
+      "code": 3525082013,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3525082014,
+      "name": "Kedamean"
+    },
+    {
+      "code": 3525082015,
+      "name": "Ngepung"
+    }
+  ]
+}

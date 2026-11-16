@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3507051007,
+      "name": "Dampit"
+    },
+    {
+      "code": 3507052001,
+      "name": "Sukodono"
+    },
+    {
+      "code": 3507052002,
+      "name": "Sumbersuko"
+    },
+    {
+      "code": 3507052003,
+      "name": "Srimulyo"
+    },
+    {
+      "code": 3507052004,
+      "name": "Baturetno"
+    },
+    {
+      "code": 3507052005,
+      "name": "Bumirejo"
+    },
+    {
+      "code": 3507052006,
+      "name": "Amadanom"
+    },
+    {
+      "code": 3507052008,
+      "name": "Pamotan"
+    },
+    {
+      "code": 3507052009,
+      "name": "Majangtengah"
+    },
+    {
+      "code": 3507052010,
+      "name": "Rembun"
+    },
+    {
+      "code": 3507052011,
+      "name": "Pojok"
+    },
+    {
+      "code": 3507052012,
+      "name": "Jambangan"
+    }
+  ]
+}

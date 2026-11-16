@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6304082001,
+      "name": "Murung Keramat"
+    },
+    {
+      "code": 6304082002,
+      "name": "Sungai Seluang"
+    },
+    {
+      "code": 6304082003,
+      "name": "Belawang"
+    },
+    {
+      "code": 6304082004,
+      "name": "Bambangin"
+    },
+    {
+      "code": 6304082005,
+      "name": "Sukaramai"
+    },
+    {
+      "code": 6304082006,
+      "name": "Sungai Seluang Pasar"
+    },
+    {
+      "code": 6304082007,
+      "name": "Samuda"
+    },
+    {
+      "code": 6304082008,
+      "name": "Parimata"
+    },
+    {
+      "code": 6304082009,
+      "name": "Karang Dukuh"
+    },
+    {
+      "code": 6304082010,
+      "name": "Patih Selera"
+    },
+    {
+      "code": 6304082011,
+      "name": "Karang Buah"
+    },
+    {
+      "code": 6304082012,
+      "name": "Binaan Baru"
+    },
+    {
+      "code": 6304082013,
+      "name": "Rangga Surya"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3309061007,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3309061009,
+      "name": "Mojosongo"
+    },
+    {
+      "code": 3309062001,
+      "name": "Madu"
+    },
+    {
+      "code": 3309062002,
+      "name": "Singosari"
+    },
+    {
+      "code": 3309062003,
+      "name": "Tambak"
+    },
+    {
+      "code": 3309062004,
+      "name": "Manggis"
+    },
+    {
+      "code": 3309062005,
+      "name": "Jurug"
+    },
+    {
+      "code": 3309062006,
+      "name": "Karangnongko"
+    },
+    {
+      "code": 3309062008,
+      "name": "Butuh"
+    },
+    {
+      "code": 3309062010,
+      "name": "Kragilan"
+    },
+    {
+      "code": 3309062011,
+      "name": "Brajan"
+    },
+    {
+      "code": 3309062012,
+      "name": "Metuk"
+    },
+    {
+      "code": 3309062013,
+      "name": "Dlingo"
+    }
+  ]
+}

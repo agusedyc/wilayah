@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7102132001,
+      "name": "Pineleng I"
+    },
+    {
+      "code": 7102132002,
+      "name": "Pineleng II"
+    },
+    {
+      "code": 7102132003,
+      "name": "Sea I"
+    },
+    {
+      "code": 7102132004,
+      "name": "Sea II"
+    },
+    {
+      "code": 7102132005,
+      "name": "Winagun Atas"
+    },
+    {
+      "code": 7102132006,
+      "name": "Warembungan"
+    },
+    {
+      "code": 7102132007,
+      "name": "Sea"
+    },
+    {
+      "code": 7102132014,
+      "name": "Kali"
+    },
+    {
+      "code": 7102132016,
+      "name": "Kali Selatan"
+    },
+    {
+      "code": 7102132020,
+      "name": "Pineleng Dua Indah"
+    },
+    {
+      "code": 7102132021,
+      "name": "Lotta"
+    },
+    {
+      "code": 7102132022,
+      "name": "Sea Mitra"
+    },
+    {
+      "code": 7102132023,
+      "name": "Sea Tumpengan"
+    },
+    {
+      "code": 7102132024,
+      "name": "Pineleng Satu Timur"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1211032001,
+      "name": "Sumbul Tengah"
+    },
+    {
+      "code": 1211032002,
+      "name": "Ujung Teran"
+    },
+    {
+      "code": 1211032003,
+      "name": "Juma Gerat"
+    },
+    {
+      "code": 1211032004,
+      "name": "Sarintonu"
+    },
+    {
+      "code": 1211032005,
+      "name": "Tigalingga"
+    },
+    {
+      "code": 1211032006,
+      "name": "Palding"
+    },
+    {
+      "code": 1211032007,
+      "name": "Lau Bagot"
+    },
+    {
+      "code": 1211032008,
+      "name": "Bertungen Julu"
+    },
+    {
+      "code": 1211032009,
+      "name": "Lau Molgap"
+    },
+    {
+      "code": 1211032010,
+      "name": "Lau Pak-Pak"
+    },
+    {
+      "code": 1211032012,
+      "name": "Sukandebi"
+    },
+    {
+      "code": 1211032013,
+      "name": "Lau Mil"
+    },
+    {
+      "code": 1211032014,
+      "name": "Lau Sireme"
+    },
+    {
+      "code": 1211032019,
+      "name": "Palding Jaya Sumbul"
+    }
+  ]
+}

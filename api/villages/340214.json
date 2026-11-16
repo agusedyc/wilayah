@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3402142001,
+      "name": "Sitimulyo"
+    },
+    {
+      "code": 3402142002,
+      "name": "Srimulyo"
+    },
+    {
+      "code": 3402142003,
+      "name": "Srimartani"
+    }
+  ]
+}

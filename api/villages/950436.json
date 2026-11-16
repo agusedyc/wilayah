@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504362001,
+      "name": "Anawi"
+    },
+    {
+      "code": 9504362002,
+      "name": "Yalipura"
+    },
+    {
+      "code": 9504362003,
+      "name": "Kotori"
+    },
+    {
+      "code": 9504362004,
+      "name": "Bieleme"
+    },
+    {
+      "code": 9504362005,
+      "name": "Yalokobak"
+    },
+    {
+      "code": 9504362006,
+      "name": "Linggira"
+    },
+    {
+      "code": 9504362007,
+      "name": "Aridunda"
+    },
+    {
+      "code": 9504362008,
+      "name": "Loguk"
+    },
+    {
+      "code": 9504362009,
+      "name": "Imurik"
+    },
+    {
+      "code": 9504362010,
+      "name": "Gineri"
+    }
+  ]
+}

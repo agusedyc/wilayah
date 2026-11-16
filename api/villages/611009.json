@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6110092001,
+      "name": "Manggala"
+    },
+    {
+      "code": 6110092002,
+      "name": "Senempak"
+    },
+    {
+      "code": 6110092003,
+      "name": "Nanga Pintas"
+    },
+    {
+      "code": 6110092004,
+      "name": "Landau Garong"
+    },
+    {
+      "code": 6110092005,
+      "name": "Bina Jaya"
+    },
+    {
+      "code": 6110092006,
+      "name": "Mandau Baru"
+    },
+    {
+      "code": 6110092007,
+      "name": "Pelinggang"
+    },
+    {
+      "code": 6110092008,
+      "name": "Nyanggai"
+    },
+    {
+      "code": 6110092009,
+      "name": "Sungai Bakah"
+    },
+    {
+      "code": 6110092010,
+      "name": "Bayur Raya"
+    },
+    {
+      "code": 6110092011,
+      "name": "Landau Tubun"
+    },
+    {
+      "code": 6110092012,
+      "name": "Nanga Kelawai"
+    }
+  ]
+}

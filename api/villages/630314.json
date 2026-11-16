@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6303142001,
+      "name": "Teluk Selong"
+    },
+    {
+      "code": 6303142002,
+      "name": "Sungai Batang"
+    },
+    {
+      "code": 6303142003,
+      "name": "Sungai Batang Ilir"
+    },
+    {
+      "code": 6303142004,
+      "name": "Sungai Rangas"
+    },
+    {
+      "code": 6303142005,
+      "name": "Penggalaman"
+    },
+    {
+      "code": 6303142006,
+      "name": "Keliling Benteng Ulu"
+    },
+    {
+      "code": 6303142007,
+      "name": "Antasan Sutun"
+    },
+    {
+      "code": 6303142008,
+      "name": "Sungai Rangas Ulu"
+    },
+    {
+      "code": 6303142009,
+      "name": "Sungai Rangas Hambuku"
+    },
+    {
+      "code": 6303142010,
+      "name": "Keliling Benteng Tengah"
+    },
+    {
+      "code": 6303142011,
+      "name": "Teluk Selong Ulu"
+    },
+    {
+      "code": 6303142012,
+      "name": "Tangkas"
+    },
+    {
+      "code": 6303142013,
+      "name": "Sungai Rangas Tengah"
+    }
+  ]
+}

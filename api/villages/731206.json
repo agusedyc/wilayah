@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7312062002,
+      "name": "Donri Donri"
+    },
+    {
+      "code": 7312062003,
+      "name": "Lalabatariaja"
+    },
+    {
+      "code": 7312062004,
+      "name": "Leworeng"
+    },
+    {
+      "code": 7312062005,
+      "name": "Labokong"
+    },
+    {
+      "code": 7312062006,
+      "name": "Sering"
+    },
+    {
+      "code": 7312062007,
+      "name": "Pesse"
+    },
+    {
+      "code": 7312062008,
+      "name": "Tottong"
+    },
+    {
+      "code": 7312062009,
+      "name": "Kessing"
+    },
+    {
+      "code": 7312062010,
+      "name": "Pising"
+    }
+  ]
+}

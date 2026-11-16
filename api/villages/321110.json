@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3211102001,
+      "name": "Buahdua"
+    },
+    {
+      "code": 3211102002,
+      "name": "Hariang"
+    },
+    {
+      "code": 3211102003,
+      "name": "Karangbungur"
+    },
+    {
+      "code": 3211102004,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3211102005,
+      "name": "Citaleus"
+    },
+    {
+      "code": 3211102006,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3211102007,
+      "name": "Cibitung"
+    },
+    {
+      "code": 3211102008,
+      "name": "Sekarwangi"
+    },
+    {
+      "code": 3211102009,
+      "name": "Gendereh"
+    },
+    {
+      "code": 3211102010,
+      "name": "Panyindangan"
+    },
+    {
+      "code": 3211102011,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3211102012,
+      "name": "Bojongloa"
+    },
+    {
+      "code": 3211102013,
+      "name": "Cikurubuk"
+    },
+    {
+      "code": 3211102014,
+      "name": "Ciawitali"
+    }
+  ]
+}

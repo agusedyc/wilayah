@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1810032001,
+      "name": "Ambarawa"
+    },
+    {
+      "code": 1810032002,
+      "name": "Ambarawa Barat"
+    },
+    {
+      "code": 1810032003,
+      "name": "Kresno Mulyo"
+    },
+    {
+      "code": 1810032004,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1810032005,
+      "name": "Tanjung Anom"
+    },
+    {
+      "code": 1810032006,
+      "name": "Jati Agung"
+    },
+    {
+      "code": 1810032007,
+      "name": "Margodadi"
+    },
+    {
+      "code": 1810032008,
+      "name": "Ambarawa Timur"
+    }
+  ]
+}

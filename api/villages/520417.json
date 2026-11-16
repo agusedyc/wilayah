@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5204172001,
+      "name": "Mapin Rea"
+    },
+    {
+      "code": 5204172002,
+      "name": "Mapin Kebak"
+    },
+    {
+      "code": 5204172003,
+      "name": "Labuhan Mapin"
+    },
+    {
+      "code": 5204172004,
+      "name": "Lekong"
+    },
+    {
+      "code": 5204172005,
+      "name": "Gontar"
+    },
+    {
+      "code": 5204172006,
+      "name": "Usar Mapin"
+    },
+    {
+      "code": 5204172007,
+      "name": "Gontar Baru"
+    },
+    {
+      "code": 5204172008,
+      "name": "Mapin Beru"
+    }
+  ]
+}

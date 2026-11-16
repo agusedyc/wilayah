@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5319102001,
+      "name": "Golo Tolang"
+    },
+    {
+      "code": 5319102002,
+      "name": "Mokel"
+    },
+    {
+      "code": 5319102003,
+      "name": "Paan Leleng"
+    },
+    {
+      "code": 5319102004,
+      "name": "Rana Mbeling"
+    },
+    {
+      "code": 5319102005,
+      "name": "Golo Meni"
+    },
+    {
+      "code": 5319102006,
+      "name": "Golo Nderu"
+    },
+    {
+      "code": 5319102007,
+      "name": "Golo Ndele"
+    },
+    {
+      "code": 5319102008,
+      "name": "Rana Mbata"
+    },
+    {
+      "code": 5319102009,
+      "name": "Mokel Morid"
+    },
+    {
+      "code": 5319102010,
+      "name": "Watu Pari"
+    },
+    {
+      "code": 5319102011,
+      "name": "Gunung Baru"
+    }
+  ]
+}

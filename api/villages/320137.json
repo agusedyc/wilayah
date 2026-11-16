@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3201372001,
+      "name": "Tajurhalang"
+    },
+    {
+      "code": 3201372002,
+      "name": "Citayam"
+    },
+    {
+      "code": 3201372003,
+      "name": "Sasak Panjang"
+    },
+    {
+      "code": 3201372004,
+      "name": "Nanggerang"
+    },
+    {
+      "code": 3201372005,
+      "name": "Sukmajaya"
+    },
+    {
+      "code": 3201372006,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3201372007,
+      "name": "Kalisuren"
+    }
+  ]
+}

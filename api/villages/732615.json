@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7326151003,
+      "name": "Ba'tan"
+    },
+    {
+      "code": 7326151004,
+      "name": "Pantanakan Lolo"
+    },
+    {
+      "code": 7326152001,
+      "name": "Tallu Lolo"
+    },
+    {
+      "code": 7326152002,
+      "name": "Rinding Batu"
+    },
+    {
+      "code": 7326152005,
+      "name": "Angin-angin"
+    },
+    {
+      "code": 7326152006,
+      "name": "Sangbua'"
+    },
+    {
+      "code": 7326152007,
+      "name": "Tadongkon"
+    }
+  ]
+}

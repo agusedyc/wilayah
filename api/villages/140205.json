@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1402051005,
+      "name": "Peranap"
+    },
+    {
+      "code": 1402051008,
+      "name": "Batu Rijal Hilir"
+    },
+    {
+      "code": 1402052003,
+      "name": "Semelinang Tebing"
+    },
+    {
+      "code": 1402052004,
+      "name": "Gumanti"
+    },
+    {
+      "code": 1402052007,
+      "name": "Batu Rijal Hulu"
+    },
+    {
+      "code": 1402052009,
+      "name": "Semelinang Darat"
+    },
+    {
+      "code": 1402052010,
+      "name": "Pauh Ranap"
+    },
+    {
+      "code": 1402052012,
+      "name": "Serai Wangi"
+    },
+    {
+      "code": 1402052013,
+      "name": "Pandan Wangi"
+    },
+    {
+      "code": 1402052017,
+      "name": "Katipo Pura"
+    },
+    {
+      "code": 1402052019,
+      "name": "Batu Rijal Barat"
+    },
+    {
+      "code": 1402052020,
+      "name": "Setako Raya"
+    }
+  ]
+}

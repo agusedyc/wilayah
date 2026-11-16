@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213112002,
+      "name": "Rancasari"
+    },
+    {
+      "code": 3213112003,
+      "name": "Rancahilir"
+    },
+    {
+      "code": 3213112004,
+      "name": "Pamanukan"
+    },
+    {
+      "code": 3213112006,
+      "name": "Pamanukan Hilir"
+    },
+    {
+      "code": 3213112007,
+      "name": "Pamanukan Sebrang"
+    },
+    {
+      "code": 3213112009,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3213112010,
+      "name": "Lengkongjaya"
+    },
+    {
+      "code": 3213112011,
+      "name": "Bongas"
+    }
+  ]
+}

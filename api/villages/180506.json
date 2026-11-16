@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1805062001,
+      "name": "Aji Jaya KNPI"
+    },
+    {
+      "code": 1805062002,
+      "name": "Kecubung Jaya"
+    },
+    {
+      "code": 1805062008,
+      "name": "Kecubung Mulya"
+    },
+    {
+      "code": 1805062015,
+      "name": "Gedung Aji"
+    },
+    {
+      "code": 1805062016,
+      "name": "Penawar"
+    },
+    {
+      "code": 1805062022,
+      "name": "Penawar Baru"
+    },
+    {
+      "code": 1805062023,
+      "name": "Aji Murni Jaya"
+    },
+    {
+      "code": 1805062024,
+      "name": "Aji Mesir"
+    },
+    {
+      "code": 1805062025,
+      "name": "Aji Permai Talang Buah"
+    },
+    {
+      "code": 1805062026,
+      "name": "Bandar Aji Jaya"
+    }
+  ]
+}

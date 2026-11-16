@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1104132001,
+      "name": "Arul Gading"
+    },
+    {
+      "code": 1104132002,
+      "name": "Belang Kekumur"
+    },
+    {
+      "code": 1104132003,
+      "name": "Berawang Gading"
+    },
+    {
+      "code": 1104132004,
+      "name": "Celala"
+    },
+    {
+      "code": 1104132005,
+      "name": "Cibro"
+    },
+    {
+      "code": 1104132006,
+      "name": "Kuyun"
+    },
+    {
+      "code": 1104132007,
+      "name": "Kuyun Toa"
+    },
+    {
+      "code": 1104132008,
+      "name": "Kuyun Uken"
+    },
+    {
+      "code": 1104132009,
+      "name": "Makmur"
+    },
+    {
+      "code": 1104132010,
+      "name": "Melala"
+    },
+    {
+      "code": 1104132011,
+      "name": "Paya Kolak"
+    },
+    {
+      "code": 1104132012,
+      "name": "Ramung Ara"
+    },
+    {
+      "code": 1104132013,
+      "name": "Sepakat"
+    },
+    {
+      "code": 1104132014,
+      "name": "Tanoh Depet"
+    },
+    {
+      "code": 1104132015,
+      "name": "Uning Berawang Ramung"
+    },
+    {
+      "code": 1104132016,
+      "name": "Blang Delem"
+    },
+    {
+      "code": 1104132017,
+      "name": "Depet Indah"
+    }
+  ]
+}

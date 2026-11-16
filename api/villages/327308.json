@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3273081001,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3273081002,
+      "name": "Ciumbuleuit"
+    },
+    {
+      "code": 3273081003,
+      "name": "Ledeng"
+    }
+  ]
+}

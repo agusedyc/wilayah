@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3213222001,
+      "name": "Kawunganten"
+    },
+    {
+      "code": 3213222002,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3213222003,
+      "name": "Cikaum Barat"
+    },
+    {
+      "code": 3213222004,
+      "name": "Cikaum Timur"
+    },
+    {
+      "code": 3213222005,
+      "name": "Tanjungsari Barat"
+    },
+    {
+      "code": 3213222006,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3213222007,
+      "name": "Tanjungsari Timur"
+    },
+    {
+      "code": 3213222008,
+      "name": "Gandasari"
+    },
+    {
+      "code": 3213222009,
+      "name": "Pasirmuncang"
+    }
+  ]
+}

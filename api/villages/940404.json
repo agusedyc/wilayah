@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9404042001,
+      "name": "Kokonao"
+    },
+    {
+      "code": 9404042002,
+      "name": "Migiwia"
+    },
+    {
+      "code": 9404042003,
+      "name": "Kiura"
+    },
+    {
+      "code": 9404042004,
+      "name": "Mimika"
+    },
+    {
+      "code": 9404042005,
+      "name": "Aparuka"
+    },
+    {
+      "code": 9404042006,
+      "name": "Atapo"
+    },
+    {
+      "code": 9404042007,
+      "name": "Apuri"
+    }
+  ]
+}

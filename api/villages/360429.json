@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3604292001,
+      "name": "Padarincang"
+    },
+    {
+      "code": 3604292002,
+      "name": "Bugel"
+    },
+    {
+      "code": 3604292003,
+      "name": "Cibojong"
+    },
+    {
+      "code": 3604292004,
+      "name": "Citasuk"
+    },
+    {
+      "code": 3604292005,
+      "name": "Cisaat"
+    },
+    {
+      "code": 3604292006,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3604292007,
+      "name": "Barugbug"
+    },
+    {
+      "code": 3604292008,
+      "name": "Batu Kuwung"
+    },
+    {
+      "code": 3604292009,
+      "name": "Kramatlaban"
+    },
+    {
+      "code": 3604292010,
+      "name": "Kalumpang"
+    },
+    {
+      "code": 3604292011,
+      "name": "Kadubeureum"
+    },
+    {
+      "code": 3604292012,
+      "name": "Cipayung"
+    },
+    {
+      "code": 3604292013,
+      "name": "Curug Goong"
+    },
+    {
+      "code": 3604292014,
+      "name": "Kadu Kempong"
+    }
+  ]
+}

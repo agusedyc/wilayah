@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9507342001,
+      "name": "Guna"
+    },
+    {
+      "code": 9507342002,
+      "name": "Gukopi"
+    },
+    {
+      "code": 9507342003,
+      "name": "Kori"
+    },
+    {
+      "code": 9507342004,
+      "name": "Keyagalo"
+    },
+    {
+      "code": 9507342005,
+      "name": "Nondinime"
+    },
+    {
+      "code": 9507342006,
+      "name": "Wigume"
+    },
+    {
+      "code": 9507342007,
+      "name": "Piwugun"
+    }
+  ]
+}

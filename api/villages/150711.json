@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1507111001,
+      "name": "Simpang"
+    },
+    {
+      "code": 1507112002,
+      "name": "Rantau Rasau"
+    },
+    {
+      "code": 1507112003,
+      "name": "Rantau Makmur"
+    },
+    {
+      "code": 1507112004,
+      "name": "Sungai Rambut"
+    },
+    {
+      "code": 1507112005,
+      "name": "Rawasari"
+    },
+    {
+      "code": 1507112006,
+      "name": "Telaga Limo"
+    }
+  ]
+}

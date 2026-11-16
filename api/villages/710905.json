@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7109052001,
+      "name": "Tanaki"
+    },
+    {
+      "code": 7109052002,
+      "name": "Kapeta"
+    },
+    {
+      "code": 7109052003,
+      "name": "Talawid"
+    },
+    {
+      "code": 7109052004,
+      "name": "Laghaeng"
+    },
+    {
+      "code": 7109052005,
+      "name": "Makoa"
+    },
+    {
+      "code": 7109052006,
+      "name": "Batusenggo"
+    },
+    {
+      "code": 7109052007,
+      "name": "Mahuneni"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6305062001,
+      "name": "Keladan"
+    },
+    {
+      "code": 6305062002,
+      "name": "Sungai Salai"
+    },
+    {
+      "code": 6305062003,
+      "name": "Pariok"
+    },
+    {
+      "code": 6305062004,
+      "name": "Margasari Hilir"
+    },
+    {
+      "code": 6305062005,
+      "name": "Batalas"
+    },
+    {
+      "code": 6305062006,
+      "name": "Rawana"
+    },
+    {
+      "code": 6305062007,
+      "name": "Buas-Buas"
+    },
+    {
+      "code": 6305062008,
+      "name": "Teluk Haur"
+    },
+    {
+      "code": 6305062009,
+      "name": "Sungai Puting"
+    },
+    {
+      "code": 6305062010,
+      "name": "Sawaja"
+    },
+    {
+      "code": 6305062011,
+      "name": "Sungai Salai Hilir"
+    },
+    {
+      "code": 6305062012,
+      "name": "Buas-Buas Hilir"
+    },
+    {
+      "code": 6305062013,
+      "name": "Rawana Hulu"
+    }
+  ]
+}

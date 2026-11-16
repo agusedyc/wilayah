@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3215252001,
+      "name": "Wancimekar"
+    },
+    {
+      "code": 3215252002,
+      "name": "Pangulah Selatan"
+    },
+    {
+      "code": 3215252003,
+      "name": "Pangulah Utara"
+    },
+    {
+      "code": 3215252004,
+      "name": "Pangulah Baru"
+    },
+    {
+      "code": 3215252005,
+      "name": "Pucung"
+    },
+    {
+      "code": 3215252006,
+      "name": "Jomin Timur"
+    },
+    {
+      "code": 3215252007,
+      "name": "Jomin Barat"
+    },
+    {
+      "code": 3215252008,
+      "name": "Sarimulya"
+    },
+    {
+      "code": 3215252009,
+      "name": "Cikampek Utara"
+    }
+  ]
+}

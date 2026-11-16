@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6212041004,
+      "name": "Muara Bakanon"
+    },
+    {
+      "code": 6212041006,
+      "name": "Tumbang Lahung"
+    },
+    {
+      "code": 6212042001,
+      "name": "Sungai Gula"
+    },
+    {
+      "code": 6212042002,
+      "name": "Sungai Batang"
+    },
+    {
+      "code": 6212042003,
+      "name": "Tumbang Salio"
+    },
+    {
+      "code": 6212042005,
+      "name": "Purnama"
+    },
+    {
+      "code": 6212042007,
+      "name": "Sungai Lobang"
+    },
+    {
+      "code": 6212042008,
+      "name": "Pantai Laga"
+    },
+    {
+      "code": 6212042009,
+      "name": "Baratu"
+    },
+    {
+      "code": 6212042010,
+      "name": "Juking Sopan"
+    },
+    {
+      "code": 6212042011,
+      "name": "Muara Babuat"
+    },
+    {
+      "code": 6212042018,
+      "name": "Sungai Bakanon"
+    }
+  ]
+}

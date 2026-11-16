@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5306142001,
+      "name": "Lamika"
+    },
+    {
+      "code": 5306142002,
+      "name": "Watotika Ile"
+    },
+    {
+      "code": 5306142003,
+      "name": "Lewokluok"
+    },
+    {
+      "code": 5306142004,
+      "name": "Blepanawa"
+    },
+    {
+      "code": 5306142005,
+      "name": "Kawalelo"
+    },
+    {
+      "code": 5306142006,
+      "name": "Bama"
+    },
+    {
+      "code": 5306142007,
+      "name": "Lewo Muda"
+    }
+  ]
+}

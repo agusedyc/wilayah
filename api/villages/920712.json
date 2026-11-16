@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9207122001,
+      "name": "Werabur"
+    },
+    {
+      "code": 9207122002,
+      "name": "Mamisi"
+    },
+    {
+      "code": 9207122003,
+      "name": "Werianggi"
+    },
+    {
+      "code": 9207122004,
+      "name": "Kurei"
+    },
+    {
+      "code": 9207122005,
+      "name": "Tamoge"
+    }
+  ]
+}

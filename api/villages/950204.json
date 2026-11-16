@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9502042001,
+      "name": "Iwur"
+    },
+    {
+      "code": 9502042002,
+      "name": "Kurumklin"
+    },
+    {
+      "code": 9502042003,
+      "name": "Walapkubun"
+    },
+    {
+      "code": 9502042004,
+      "name": "Dinmot Arim"
+    },
+    {
+      "code": 9502042005,
+      "name": "Ewenkatop"
+    },
+    {
+      "code": 9502042006,
+      "name": "Ulkubi"
+    },
+    {
+      "code": 9502042007,
+      "name": "Dipol"
+    },
+    {
+      "code": 9502042008,
+      "name": "Nenginum"
+    },
+    {
+      "code": 9502042009,
+      "name": "Narnger"
+    },
+    {
+      "code": 9502042010,
+      "name": "Kamyoim"
+    }
+  ]
+}

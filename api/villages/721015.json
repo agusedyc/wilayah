@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7210152001,
+      "name": "Wayu"
+    },
+    {
+      "code": 7210152002,
+      "name": "Taipanggabe"
+    },
+    {
+      "code": 7210152003,
+      "name": "Matantimali"
+    },
+    {
+      "code": 7210152004,
+      "name": "Lewara"
+    },
+    {
+      "code": 7210152005,
+      "name": "Dombu"
+    },
+    {
+      "code": 7210152006,
+      "name": "Soi"
+    },
+    {
+      "code": 7210152007,
+      "name": "Wugaga"
+    },
+    {
+      "code": 7210152008,
+      "name": "Panasibaja"
+    },
+    {
+      "code": 7210152009,
+      "name": "Ongulero"
+    },
+    {
+      "code": 7210152010,
+      "name": "Wiapore"
+    },
+    {
+      "code": 7210152011,
+      "name": "Wawujai"
+    },
+    {
+      "code": 7210152012,
+      "name": "Lemosiranindi"
+    }
+  ]
+}

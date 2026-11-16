@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3216131011,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3216132001,
+      "name": "Karangharja"
+    },
+    {
+      "code": 3216132002,
+      "name": "Karangsegar"
+    },
+    {
+      "code": 3216132003,
+      "name": "Sumberurip"
+    },
+    {
+      "code": 3216132004,
+      "name": "Sumbereja"
+    },
+    {
+      "code": 3216132005,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3216132006,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3216132007,
+      "name": "Sumbersari"
+    },
+    {
+      "code": 3216132008,
+      "name": "Karangpatri"
+    },
+    {
+      "code": 3216132009,
+      "name": "Karanghaur"
+    },
+    {
+      "code": 3216132010,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3216132012,
+      "name": "Bantarsari"
+    },
+    {
+      "code": 3216132013,
+      "name": "Bantarjaya"
+    }
+  ]
+}

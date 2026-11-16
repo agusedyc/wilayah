@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209222010,
+      "name": "Kertasura"
+    },
+    {
+      "code": 3209222011,
+      "name": "Pegagan Kidul"
+    },
+    {
+      "code": 3209222012,
+      "name": "Pegagan Lor"
+    },
+    {
+      "code": 3209222013,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3209222014,
+      "name": "Karangkendal"
+    },
+    {
+      "code": 3209222015,
+      "name": "Grogol"
+    },
+    {
+      "code": 3209222016,
+      "name": "Kapetakan"
+    },
+    {
+      "code": 3209222017,
+      "name": "Bungko"
+    },
+    {
+      "code": 3209222018,
+      "name": "Bungko Lor"
+    }
+  ]
+}

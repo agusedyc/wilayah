@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1206092001,
+      "name": "Martelu"
+    },
+    {
+      "code": 1206092002,
+      "name": "Mbal-Mbal Petarum"
+    },
+    {
+      "code": 1206092003,
+      "name": "Lau Peranggunen"
+    },
+    {
+      "code": 1206092004,
+      "name": "Tanjung Gunung"
+    },
+    {
+      "code": 1206092005,
+      "name": "Lau Baleng"
+    },
+    {
+      "code": 1206092006,
+      "name": "Durin Rugun"
+    },
+    {
+      "code": 1206092007,
+      "name": "Perbulan"
+    },
+    {
+      "code": 1206092008,
+      "name": "Kutambelin"
+    },
+    {
+      "code": 1206092009,
+      "name": "Lingga Muda"
+    },
+    {
+      "code": 1206092010,
+      "name": "Kinangkong"
+    },
+    {
+      "code": 1206092011,
+      "name": "Rambah Tampu"
+    },
+    {
+      "code": 1206092012,
+      "name": "Lau Peradep"
+    },
+    {
+      "code": 1206092013,
+      "name": "Buluh Pancur"
+    },
+    {
+      "code": 1206092014,
+      "name": "Batu Rongkam"
+    },
+    {
+      "code": 1206092015,
+      "name": "Pintu Angin"
+    }
+  ]
+}

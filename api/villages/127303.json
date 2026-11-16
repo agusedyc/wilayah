@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1273031001,
+      "name": "Aek Habil"
+    },
+    {
+      "code": 1273031002,
+      "name": "Aek Manis"
+    },
+    {
+      "code": 1273031003,
+      "name": "Aek Muara Pinang"
+    },
+    {
+      "code": 1273031004,
+      "name": "Aek Parombunan"
+    }
+  ]
+}

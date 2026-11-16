@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9302102001,
+      "name": "Sadar"
+    },
+    {
+      "code": 9302102002,
+      "name": "Bangun"
+    },
+    {
+      "code": 9302102003,
+      "name": "Makmur"
+    },
+    {
+      "code": 9302102004,
+      "name": "Sohokanggo"
+    },
+    {
+      "code": 9302102005,
+      "name": "Domo"
+    },
+    {
+      "code": 9302102006,
+      "name": "Hamkhu"
+    },
+    {
+      "code": 9302102007,
+      "name": "Hello"
+    },
+    {
+      "code": 9302102008,
+      "name": "Navini"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6104172001,
+      "name": "Sungai Awan Kanan"
+    },
+    {
+      "code": 6104172002,
+      "name": "Sungai Awan Kiri"
+    },
+    {
+      "code": 6104172003,
+      "name": "Tempurukan"
+    },
+    {
+      "code": 6104172004,
+      "name": "Ulak Medang"
+    },
+    {
+      "code": 6104172005,
+      "name": "Tanjung Pura"
+    },
+    {
+      "code": 6104172006,
+      "name": "Mayak"
+    },
+    {
+      "code": 6104172007,
+      "name": "Tanjung Pasar"
+    },
+    {
+      "code": 6104172008,
+      "name": "Suka Maju"
+    }
+  ]
+}

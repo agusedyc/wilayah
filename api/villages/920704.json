@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9207042002,
+      "name": "Wondiboy"
+    },
+    {
+      "code": 9207042009,
+      "name": "Kabouw"
+    },
+    {
+      "code": 9207042010,
+      "name": "Issui"
+    },
+    {
+      "code": 9207042015,
+      "name": "Kaibi"
+    }
+  ]
+}

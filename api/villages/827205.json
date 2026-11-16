@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8272051001,
+      "name": "Rum"
+    },
+    {
+      "code": 8272051002,
+      "name": "Fobaharu"
+    },
+    {
+      "code": 8272051003,
+      "name": "Jaya"
+    },
+    {
+      "code": 8272051004,
+      "name": "Ome"
+    },
+    {
+      "code": 8272051005,
+      "name": "Mareku"
+    },
+    {
+      "code": 8272051006,
+      "name": "Afa Afa"
+    },
+    {
+      "code": 8272051008,
+      "name": "Bobo"
+    },
+    {
+      "code": 8272051009,
+      "name": "Gubu Kusuma"
+    },
+    {
+      "code": 8272051010,
+      "name": "Sirongo Folaraha"
+    },
+    {
+      "code": 8272051011,
+      "name": "Rum Balibunga"
+    },
+    {
+      "code": 8272052007,
+      "name": "Maitara"
+    },
+    {
+      "code": 8272052012,
+      "name": "Maitara Selatan"
+    },
+    {
+      "code": 8272052013,
+      "name": "Maitara Utara"
+    },
+    {
+      "code": 8272052014,
+      "name": "Maitara Tengah"
+    }
+  ]
+}

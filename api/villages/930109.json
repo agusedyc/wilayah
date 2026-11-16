@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9301092001,
+      "name": "Selil"
+    },
+    {
+      "code": 9301092002,
+      "name": "Kindiki"
+    },
+    {
+      "code": 9301092003,
+      "name": "Kumaaf"
+    },
+    {
+      "code": 9301092004,
+      "name": "Nggayu"
+    },
+    {
+      "code": 9301092005,
+      "name": "Kafyamke"
+    },
+    {
+      "code": 9301092006,
+      "name": "Mandekman"
+    },
+    {
+      "code": 9301092007,
+      "name": "Rawahayu"
+    },
+    {
+      "code": 9301092008,
+      "name": "Belbeland"
+    },
+    {
+      "code": 9301092009,
+      "name": "Kir-ely"
+    },
+    {
+      "code": 9301092010,
+      "name": "Kandrakay"
+    },
+    {
+      "code": 9301092011,
+      "name": "Baidub"
+    }
+  ]
+}

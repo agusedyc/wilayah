@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6309082001,
+      "name": "Madang"
+    },
+    {
+      "code": 6309082002,
+      "name": "Tantaringin"
+    },
+    {
+      "code": 6309082003,
+      "name": "Murung Karangan"
+    },
+    {
+      "code": 6309082004,
+      "name": "Padangin"
+    },
+    {
+      "code": 6309082005,
+      "name": "Manduin"
+    },
+    {
+      "code": 6309082006,
+      "name": "Mantuil"
+    },
+    {
+      "code": 6309082007,
+      "name": "Harus"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507052001,
+      "name": "Dimba"
+    },
+    {
+      "code": 9507052002,
+      "name": "Yugwa"
+    },
+    {
+      "code": 9507052003,
+      "name": "Magegobak"
+    },
+    {
+      "code": 9507052004,
+      "name": "Nongopnage"
+    },
+    {
+      "code": 9507052005,
+      "name": "Wengenambur"
+    },
+    {
+      "code": 9507052006,
+      "name": "Wawiragi"
+    },
+    {
+      "code": 9507052007,
+      "name": "Mewilangun"
+    },
+    {
+      "code": 9507052008,
+      "name": "Talibarenak"
+    }
+  ]
+}

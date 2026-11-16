@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405132001,
+      "name": "Aguit"
+    },
+    {
+      "code": 9405132002,
+      "name": "Kembru"
+    },
+    {
+      "code": 9405132003,
+      "name": "Molu"
+    },
+    {
+      "code": 9405132004,
+      "name": "Belaba"
+    },
+    {
+      "code": 9405132005,
+      "name": "Makuma"
+    },
+    {
+      "code": 9405132006,
+      "name": "Tinoti"
+    },
+    {
+      "code": 9405132007,
+      "name": "Nilime"
+    }
+  ]
+}

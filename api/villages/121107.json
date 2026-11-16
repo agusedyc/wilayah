@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1211072001,
+      "name": "Tambahan"
+    },
+    {
+      "code": 1211072002,
+      "name": "Kuta Tengah"
+    },
+    {
+      "code": 1211072003,
+      "name": "Lae Nuaha"
+    },
+    {
+      "code": 1211072004,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 1211072005,
+      "name": "Gunung Meriah"
+    },
+    {
+      "code": 1211072006,
+      "name": "Silumboyah"
+    },
+    {
+      "code": 1211072007,
+      "name": "Pandan"
+    },
+    {
+      "code": 1211072008,
+      "name": "Tualang"
+    },
+    {
+      "code": 1211072009,
+      "name": "Pangaribuan"
+    },
+    {
+      "code": 1211072010,
+      "name": "Sigambir-gambir"
+    },
+    {
+      "code": 1211072011,
+      "name": "Bakal Julu"
+    },
+    {
+      "code": 1211072012,
+      "name": "Sipoltong"
+    }
+  ]
+}

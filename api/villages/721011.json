@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7210112001,
+      "name": "Sibonu"
+    },
+    {
+      "code": 7210112002,
+      "name": "Kaluku Tinggu"
+    },
+    {
+      "code": 7210112003,
+      "name": "Pewunu"
+    },
+    {
+      "code": 7210112004,
+      "name": "Kaleke"
+    },
+    {
+      "code": 7210112005,
+      "name": "Rarampadende"
+    },
+    {
+      "code": 7210112006,
+      "name": "Balumpewa"
+    },
+    {
+      "code": 7210112007,
+      "name": "Balamoa"
+    },
+    {
+      "code": 7210112008,
+      "name": "Pesaku"
+    },
+    {
+      "code": 7210112009,
+      "name": "Mantikole"
+    },
+    {
+      "code": 7210112010,
+      "name": "Bobo"
+    },
+    {
+      "code": 7210112011,
+      "name": "Balaroa Pewenu"
+    },
+    {
+      "code": 7210112012,
+      "name": "Luku"
+    }
+  ]
+}

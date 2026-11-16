@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 3524262001,
+      "name": "Soko"
+    },
+    {
+      "code": 3524262002,
+      "name": "Morocalan"
+    },
+    {
+      "code": 3524262003,
+      "name": "Gempolpendowo"
+    },
+    {
+      "code": 3524262004,
+      "name": "Pasi"
+    },
+    {
+      "code": 3524262005,
+      "name": "Rayunggumuk"
+    },
+    {
+      "code": 3524262006,
+      "name": "Menganti"
+    },
+    {
+      "code": 3524262007,
+      "name": "Margoanyar"
+    },
+    {
+      "code": 3524262008,
+      "name": "Began"
+    },
+    {
+      "code": 3524262009,
+      "name": "Mendogo"
+    },
+    {
+      "code": 3524262010,
+      "name": "Kentong"
+    },
+    {
+      "code": 3524262011,
+      "name": "Sudangan"
+    },
+    {
+      "code": 3524262012,
+      "name": "Medang"
+    },
+    {
+      "code": 3524262013,
+      "name": "Duduklor"
+    },
+    {
+      "code": 3524262014,
+      "name": "Glagah"
+    },
+    {
+      "code": 3524262015,
+      "name": "Wangen"
+    },
+    {
+      "code": 3524262016,
+      "name": "Tanggungprigel"
+    },
+    {
+      "code": 3524262017,
+      "name": "Karangagung"
+    },
+    {
+      "code": 3524262018,
+      "name": "Bangkok"
+    },
+    {
+      "code": 3524262019,
+      "name": "Jatirenggo"
+    },
+    {
+      "code": 3524262020,
+      "name": "Bapuhbaru"
+    },
+    {
+      "code": 3524262021,
+      "name": "Bapuhbandung"
+    },
+    {
+      "code": 3524262022,
+      "name": "Meluntur"
+    },
+    {
+      "code": 3524262023,
+      "name": "Konang"
+    },
+    {
+      "code": 3524262024,
+      "name": "Dukuhtunggal"
+    },
+    {
+      "code": 3524262025,
+      "name": "Panggang"
+    },
+    {
+      "code": 3524262026,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3524262027,
+      "name": "Wedoro"
+    },
+    {
+      "code": 3524262028,
+      "name": "Karangturi"
+    },
+    {
+      "code": 3524262029,
+      "name": "Meluwur"
+    }
+  ]
+}

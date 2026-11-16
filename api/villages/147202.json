@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1472021002,
+      "name": "Teluk Binjai"
+    },
+    {
+      "code": 1472021003,
+      "name": "Tanjung Palas"
+    },
+    {
+      "code": 1472021004,
+      "name": "Jaya Mukti"
+    },
+    {
+      "code": 1472021006,
+      "name": "Buluh Kasap"
+    },
+    {
+      "code": 1472021009,
+      "name": "Bukit Batrem"
+    }
+  ]
+}

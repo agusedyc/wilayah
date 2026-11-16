@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8204022004,
+      "name": "Siko"
+    },
+    {
+      "code": 8204022005,
+      "name": "Gafi"
+    },
+    {
+      "code": 8204022006,
+      "name": "Laigoma"
+    },
+    {
+      "code": 8204022016,
+      "name": "Ligua"
+    },
+    {
+      "code": 8204022017,
+      "name": "Kida"
+    },
+    {
+      "code": 8204022018,
+      "name": "Buli"
+    },
+    {
+      "code": 8204022019,
+      "name": "Talimau"
+    },
+    {
+      "code": 8204022020,
+      "name": "Gunange"
+    },
+    {
+      "code": 8204022021,
+      "name": "Lelei"
+    },
+    {
+      "code": 8204022022,
+      "name": "Bajo"
+    },
+    {
+      "code": 8204022023,
+      "name": "Guruapin"
+    },
+    {
+      "code": 8204022024,
+      "name": "Karamat"
+    },
+    {
+      "code": 8204022029,
+      "name": "Tawabi"
+    },
+    {
+      "code": 8204022030,
+      "name": "Dorolamo"
+    }
+  ]
+}

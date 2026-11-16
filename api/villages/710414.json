@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7104141001,
+      "name": "Makatara"
+    },
+    {
+      "code": 7104141002,
+      "name": "Makatara Timur"
+    },
+    {
+      "code": 7104142003,
+      "name": "Awit"
+    },
+    {
+      "code": 7104142004,
+      "name": "Awit Selatan"
+    },
+    {
+      "code": 7104142005,
+      "name": "Rae"
+    },
+    {
+      "code": 7104142006,
+      "name": "Rae Selatan"
+    },
+    {
+      "code": 7104142007,
+      "name": "Lobbo"
+    },
+    {
+      "code": 7104142008,
+      "name": "Lobbo I"
+    }
+  ]
+}

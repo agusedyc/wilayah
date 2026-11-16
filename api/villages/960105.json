@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9601051001,
+      "name": "Aimas"
+    },
+    {
+      "code": 9601051002,
+      "name": "Malawili"
+    },
+    {
+      "code": 9601051003,
+      "name": "Malawele"
+    },
+    {
+      "code": 9601051004,
+      "name": "Mariat Pantai"
+    },
+    {
+      "code": 9601051005,
+      "name": "Mariat Gunung"
+    },
+    {
+      "code": 9601051007,
+      "name": "Warmon"
+    },
+    {
+      "code": 9601051008,
+      "name": "Klabinain"
+    },
+    {
+      "code": 9601051009,
+      "name": "Malasom"
+    },
+    {
+      "code": 9601051010,
+      "name": "Klaigit"
+    },
+    {
+      "code": 9601051012,
+      "name": "Malagusa"
+    },
+    {
+      "code": 9601051013,
+      "name": "Klafma"
+    },
+    {
+      "code": 9601052006,
+      "name": "Maibo"
+    },
+    {
+      "code": 9601052011,
+      "name": "Aimo"
+    },
+    {
+      "code": 9601052014,
+      "name": "Malasaum"
+    }
+  ]
+}

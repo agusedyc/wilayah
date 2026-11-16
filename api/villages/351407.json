@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3514072001,
+      "name": "Karangmenggah"
+    },
+    {
+      "code": 3514072002,
+      "name": "Karang Jatianyar"
+    },
+    {
+      "code": 3514072003,
+      "name": "Pakijangan"
+    },
+    {
+      "code": 3514072004,
+      "name": "Cobanblimbing"
+    },
+    {
+      "code": 3514072005,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3514072006,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3514072007,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3514072008,
+      "name": "Jatigunting"
+    },
+    {
+      "code": 3514072009,
+      "name": "Rebono"
+    },
+    {
+      "code": 3514072010,
+      "name": "Karangsono"
+    },
+    {
+      "code": 3514072011,
+      "name": "Kendangdukuh"
+    },
+    {
+      "code": 3514072012,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3514072013,
+      "name": "Kluwut"
+    },
+    {
+      "code": 3514072014,
+      "name": "Sambisirah"
+    },
+    {
+      "code": 3514072015,
+      "name": "Lebaksari"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9404072001,
+      "name": "Ayuka"
+    },
+    {
+      "code": 9404072002,
+      "name": "Amamapare"
+    },
+    {
+      "code": 9404072003,
+      "name": "Ohotya"
+    },
+    {
+      "code": 9404072004,
+      "name": "Omawita"
+    },
+    {
+      "code": 9404072005,
+      "name": "Fanamo"
+    }
+  ]
+}

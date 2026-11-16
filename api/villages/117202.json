@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1172022004,
+      "name": "Jaboi"
+    },
+    {
+      "code": 1172022005,
+      "name": "Balohan"
+    },
+    {
+      "code": 1172022006,
+      "name": "Cot Abeuk"
+    },
+    {
+      "code": 1172022007,
+      "name": "Cot Ba U"
+    },
+    {
+      "code": 1172022008,
+      "name": "Ie Meulee"
+    },
+    {
+      "code": 1172022009,
+      "name": "Ujoeng Kareung"
+    },
+    {
+      "code": 1172022010,
+      "name": "Anoe Itam"
+    }
+  ]
+}

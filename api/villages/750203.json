@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7502032001,
+      "name": "Dulupi"
+    },
+    {
+      "code": 7502032002,
+      "name": "Tabongo"
+    },
+    {
+      "code": 7502032003,
+      "name": "Kotaraja"
+    },
+    {
+      "code": 7502032004,
+      "name": "Polohungo"
+    },
+    {
+      "code": 7502032005,
+      "name": "Pangi"
+    },
+    {
+      "code": 7502032006,
+      "name": "Tangga Jaya"
+    },
+    {
+      "code": 7502032007,
+      "name": "Tanah Putih"
+    },
+    {
+      "code": 7502032008,
+      "name": "Tangga Barito"
+    }
+  ]
+}

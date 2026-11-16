@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5306172001,
+      "name": "Sagu"
+    },
+    {
+      "code": 5306172002,
+      "name": "Kolimasang"
+    },
+    {
+      "code": 5306172003,
+      "name": "Kolilanang"
+    },
+    {
+      "code": 5306172004,
+      "name": "Tikatukang"
+    },
+    {
+      "code": 5306172005,
+      "name": "Nisanulan"
+    },
+    {
+      "code": 5306172006,
+      "name": "Lamahoda"
+    },
+    {
+      "code": 5306172007,
+      "name": "Adonara"
+    },
+    {
+      "code": 5306172008,
+      "name": "Kolipetung"
+    }
+  ]
+}

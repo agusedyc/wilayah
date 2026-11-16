@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3302152001,
+      "name": "Karangkemojing"
+    },
+    {
+      "code": 3302152002,
+      "name": "Paningkaban"
+    },
+    {
+      "code": 3302152003,
+      "name": "Cihonje"
+    },
+    {
+      "code": 3302152004,
+      "name": "Gancang"
+    },
+    {
+      "code": 3302152005,
+      "name": "Kedungurang"
+    },
+    {
+      "code": 3302152006,
+      "name": "Gumelar"
+    },
+    {
+      "code": 3302152007,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3302152008,
+      "name": "Tlaga"
+    },
+    {
+      "code": 3302152009,
+      "name": "Samudra"
+    },
+    {
+      "code": 3302152010,
+      "name": "Samudra Kulon"
+    }
+  ]
+}

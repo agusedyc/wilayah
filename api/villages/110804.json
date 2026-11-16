@@ -1,0 +1,306 @@
+{
+  "success": true,
+  "message": "Showing 75 villages",
+  "data": [
+    {
+      "code": 1108042001,
+      "name": "Kuta Lhoksukon"
+    },
+    {
+      "code": 1108042002,
+      "name": "Cot U Sibak"
+    },
+    {
+      "code": 1108042003,
+      "name": "Bintang Hu"
+    },
+    {
+      "code": 1108042004,
+      "name": "Blang Aman"
+    },
+    {
+      "code": 1108042005,
+      "name": "Cot Ara"
+    },
+    {
+      "code": 1108042006,
+      "name": "Blang Rubek"
+    },
+    {
+      "code": 1108042007,
+      "name": "Nga Matang Ubi"
+    },
+    {
+      "code": 1108042008,
+      "name": "Meunasah Reudeup"
+    },
+    {
+      "code": 1108042009,
+      "name": "Alue Buket"
+    },
+    {
+      "code": 1108042010,
+      "name": "Meunye Matang Ubi"
+    },
+    {
+      "code": 1108042011,
+      "name": "Trieng Matang Ubi"
+    },
+    {
+      "code": 1108042012,
+      "name": "Ceubrek"
+    },
+    {
+      "code": 1108042013,
+      "name": "Meunasah Blang"
+    },
+    {
+      "code": 1108042014,
+      "name": "Buket Seuntang"
+    },
+    {
+      "code": 1108042015,
+      "name": "Meunasah Arongan AB"
+    },
+    {
+      "code": 1108042016,
+      "name": "Trieng Pantang"
+    },
+    {
+      "code": 1108042017,
+      "name": "Meunasah Leubok AB"
+    },
+    {
+      "code": 1108042018,
+      "name": "Cot Glumpang AB"
+    },
+    {
+      "code": 1108042019,
+      "name": "Abeuk Leupon"
+    },
+    {
+      "code": 1108042020,
+      "name": "Ara AB"
+    },
+    {
+      "code": 1108042021,
+      "name": "Mancang"
+    },
+    {
+      "code": 1108042022,
+      "name": "Matang Pupanji AB"
+    },
+    {
+      "code": 1108042023,
+      "name": "Meunasah Asan AB"
+    },
+    {
+      "code": 1108042024,
+      "name": "Matang Teungoh AB"
+    },
+    {
+      "code": 1108042025,
+      "name": "Pante"
+    },
+    {
+      "code": 1108042026,
+      "name": "Rambot"
+    },
+    {
+      "code": 1108042027,
+      "name": "Meunasah Alue Drien LB"
+    },
+    {
+      "code": 1108042028,
+      "name": "Alue Mudem"
+    },
+    {
+      "code": 1108042029,
+      "name": "Meunasah Geulinggang"
+    },
+    {
+      "code": 1108042030,
+      "name": "Meunasah Asan LB"
+    },
+    {
+      "code": 1108042031,
+      "name": "Beringin LB"
+    },
+    {
+      "code": 1108042032,
+      "name": "Meunasah Teungoh LB"
+    },
+    {
+      "code": 1108042033,
+      "name": "Meunasah Rayeuk LB"
+    },
+    {
+      "code": 1108042034,
+      "name": "Meunasah Ulee Barat"
+    },
+    {
+      "code": 1108042035,
+      "name": "Meunasah Ranto"
+    },
+    {
+      "code": 1108042036,
+      "name": "Meunasah Tutong"
+    },
+    {
+      "code": 1108042037,
+      "name": "Meunasah Nga LB"
+    },
+    {
+      "code": 1108042038,
+      "name": "Keutapang"
+    },
+    {
+      "code": 1108042039,
+      "name": "Matang Munjee"
+    },
+    {
+      "code": 1108042040,
+      "name": "Pulo Dulang"
+    },
+    {
+      "code": 1108042041,
+      "name": "Dayah LB"
+    },
+    {
+      "code": 1108042042,
+      "name": "Meunasah Geumata"
+    },
+    {
+      "code": 1108042043,
+      "name": "Meunasah Meureubo"
+    },
+    {
+      "code": 1108042044,
+      "name": "Meunasah Dayah LT"
+    },
+    {
+      "code": 1108042045,
+      "name": "Arongan LT"
+    },
+    {
+      "code": 1108042046,
+      "name": "Meunasah Tuha"
+    },
+    {
+      "code": 1108042047,
+      "name": "Meunasah Krueng LT"
+    },
+    {
+      "code": 1108042048,
+      "name": "Babah Geudeubang"
+    },
+    {
+      "code": 1108042049,
+      "name": "Grong-grong"
+    },
+    {
+      "code": 1108042050,
+      "name": "Alue Itam Reudeup"
+    },
+    {
+      "code": 1108042051,
+      "name": "Teupin Keubeu"
+    },
+    {
+      "code": 1108042052,
+      "name": "Meunasah Nga LT"
+    },
+    {
+      "code": 1108042053,
+      "name": "Meunasah Meuria"
+    },
+    {
+      "code": 1108042054,
+      "name": "Kumbang LT"
+    },
+    {
+      "code": 1108042055,
+      "name": "Seuneubok Dalam"
+    },
+    {
+      "code": 1108042056,
+      "name": "Alue Eumpok"
+    },
+    {
+      "code": 1108042057,
+      "name": "Meunasah Jok"
+    },
+    {
+      "code": 1108042058,
+      "name": "Manyang"
+    },
+    {
+      "code": 1108042059,
+      "name": "Lhok Kareung"
+    },
+    {
+      "code": 1108042060,
+      "name": "Cot Asan"
+    },
+    {
+      "code": 1108042061,
+      "name": "Alue Abee"
+    },
+    {
+      "code": 1108042062,
+      "name": "Buloh LT"
+    },
+    {
+      "code": 1108042063,
+      "name": "Geulumpang"
+    },
+    {
+      "code": 1108042064,
+      "name": "Meunasah Teungoh LT"
+    },
+    {
+      "code": 1108042065,
+      "name": "Mata U"
+    },
+    {
+      "code": 1108042066,
+      "name": "Meucat"
+    },
+    {
+      "code": 1108042067,
+      "name": "Buket Mee LT"
+    },
+    {
+      "code": 1108042068,
+      "name": "Ulee Tanoh"
+    },
+    {
+      "code": 1108042069,
+      "name": "Buket Krueng"
+    },
+    {
+      "code": 1108042070,
+      "name": "Ulee Gunong"
+    },
+    {
+      "code": 1108042071,
+      "name": "Lhok Seuntang"
+    },
+    {
+      "code": 1108042072,
+      "name": "Alue Itam Baroh"
+    },
+    {
+      "code": 1108042073,
+      "name": "Mata Ie"
+    },
+    {
+      "code": 1108042074,
+      "name": "Rawa"
+    },
+    {
+      "code": 1108042075,
+      "name": "Buket Hagu"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3212112001,
+      "name": "Segeran Kidul"
+    },
+    {
+      "code": 3212112002,
+      "name": "Segeran Lor"
+    },
+    {
+      "code": 3212112003,
+      "name": "Juntiweden"
+    },
+    {
+      "code": 3212112004,
+      "name": "Dadap"
+    },
+    {
+      "code": 3212112005,
+      "name": "Juntinyuat"
+    },
+    {
+      "code": 3212112006,
+      "name": "Juntikedokan"
+    },
+    {
+      "code": 3212112007,
+      "name": "Pondoh"
+    },
+    {
+      "code": 3212112008,
+      "name": "Sambimaya"
+    },
+    {
+      "code": 3212112009,
+      "name": "Tinumpuk"
+    },
+    {
+      "code": 3212112010,
+      "name": "Juntikebon"
+    },
+    {
+      "code": 3212112011,
+      "name": "Lombang"
+    },
+    {
+      "code": 3212112012,
+      "name": "Limbangan"
+    }
+  ]
+}

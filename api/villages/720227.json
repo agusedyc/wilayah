@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7202271008,
+      "name": "Sawidago"
+    },
+    {
+      "code": 7202271009,
+      "name": "Petirodongi"
+    },
+    {
+      "code": 7202271010,
+      "name": "Tendeadongi"
+    },
+    {
+      "code": 7202272001,
+      "name": "Saojo"
+    },
+    {
+      "code": 7202272002,
+      "name": "Sulewana"
+    },
+    {
+      "code": 7202272003,
+      "name": "Sangira"
+    },
+    {
+      "code": 7202272004,
+      "name": "Kuku"
+    },
+    {
+      "code": 7202272005,
+      "name": "Panjoka"
+    },
+    {
+      "code": 7202272006,
+      "name": "Uelincu"
+    },
+    {
+      "code": 7202272007,
+      "name": "Lena"
+    }
+  ]
+}

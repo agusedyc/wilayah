@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8204172001,
+      "name": "Kampung Makian"
+    },
+    {
+      "code": 8204172002,
+      "name": "Mandaong"
+    },
+    {
+      "code": 8204172003,
+      "name": "Kupal"
+    },
+    {
+      "code": 8204172004,
+      "name": "Gandasuli"
+    },
+    {
+      "code": 8204172005,
+      "name": "Sawadai"
+    },
+    {
+      "code": 8204172006,
+      "name": "Tuokona"
+    },
+    {
+      "code": 8204172007,
+      "name": "Papaloang"
+    },
+    {
+      "code": 8204172008,
+      "name": "Tembal"
+    },
+    {
+      "code": 8204172009,
+      "name": "Kubung"
+    },
+    {
+      "code": 8204172010,
+      "name": "Panamboang"
+    }
+  ]
+}

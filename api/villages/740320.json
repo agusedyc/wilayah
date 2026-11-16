@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7403202001,
+      "name": "Liabalano"
+    },
+    {
+      "code": 7403202002,
+      "name": "Lapodidi"
+    },
+    {
+      "code": 7403202003,
+      "name": "Bungi"
+    },
+    {
+      "code": 7403202004,
+      "name": "Kontunaga"
+    },
+    {
+      "code": 7403202005,
+      "name": "Madodo"
+    },
+    {
+      "code": 7403202006,
+      "name": "Masalili"
+    }
+  ]
+}

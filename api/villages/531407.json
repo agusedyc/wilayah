@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5314072001,
+      "name": "Sedeoen"
+    },
+    {
+      "code": 5314072002,
+      "name": "Nemberala"
+    },
+    {
+      "code": 5314072003,
+      "name": "Oenggaut"
+    },
+    {
+      "code": 5314072004,
+      "name": "\"Bo\"\"a\""
+    },
+    {
+      "code": 5314072005,
+      "name": "Oenitas"
+    },
+    {
+      "code": 5314072006,
+      "name": "Oelolot"
+    },
+    {
+      "code": 5314072007,
+      "name": "Mbueain"
+    }
+  ]
+}

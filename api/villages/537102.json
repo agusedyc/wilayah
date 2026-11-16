@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5371021001,
+      "name": "Oepura"
+    },
+    {
+      "code": 5371021002,
+      "name": "Maulafa"
+    },
+    {
+      "code": 5371021003,
+      "name": "Penfui"
+    },
+    {
+      "code": 5371021004,
+      "name": "Naimata"
+    },
+    {
+      "code": 5371021005,
+      "name": "Bello"
+    },
+    {
+      "code": 5371021006,
+      "name": "Fatukoa"
+    },
+    {
+      "code": 5371021007,
+      "name": "Kolhua"
+    },
+    {
+      "code": 5371021008,
+      "name": "Sikumana"
+    },
+    {
+      "code": 5371021009,
+      "name": "Naikolan"
+    }
+  ]
+}

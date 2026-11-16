@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9212032001,
+      "name": "Inyebuow"
+    },
+    {
+      "code": 9212032002,
+      "name": "Imbeisba"
+    },
+    {
+      "code": 9212032003,
+      "name": "Usti"
+    },
+    {
+      "code": 9212032004,
+      "name": "Memti"
+    },
+    {
+      "code": 9212032005,
+      "name": "Koney"
+    },
+    {
+      "code": 9212032006,
+      "name": "Membey"
+    }
+  ]
+}

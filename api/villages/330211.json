@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3302112001,
+      "name": "Binangun"
+    },
+    {
+      "code": 3302112002,
+      "name": "Pasinggangan"
+    },
+    {
+      "code": 3302112003,
+      "name": "Kedunggede"
+    },
+    {
+      "code": 3302112004,
+      "name": "Karangrau"
+    },
+    {
+      "code": 3302112005,
+      "name": "Kejawar"
+    },
+    {
+      "code": 3302112006,
+      "name": "Danaraja"
+    },
+    {
+      "code": 3302112007,
+      "name": "Kedunguter"
+    },
+    {
+      "code": 3302112008,
+      "name": "Sudagaran"
+    },
+    {
+      "code": 3302112009,
+      "name": "Pekunden"
+    },
+    {
+      "code": 3302112010,
+      "name": "Kalisube"
+    },
+    {
+      "code": 3302112011,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3302112012,
+      "name": "Papringan"
+    }
+  ]
+}

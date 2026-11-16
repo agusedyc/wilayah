@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5371051001,
+      "name": "Bakunase"
+    },
+    {
+      "code": 5371051002,
+      "name": "Bakunase Dua"
+    },
+    {
+      "code": 5371051003,
+      "name": "Airnona"
+    },
+    {
+      "code": 5371051004,
+      "name": "Naikoten Satu"
+    },
+    {
+      "code": 5371051005,
+      "name": "Naikoten Dua"
+    },
+    {
+      "code": 5371051006,
+      "name": "Kuanino"
+    },
+    {
+      "code": 5371051007,
+      "name": "Nunleu"
+    },
+    {
+      "code": 5371051008,
+      "name": "Fontein"
+    }
+  ]
+}

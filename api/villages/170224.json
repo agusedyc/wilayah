@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1702242001,
+      "name": "Dataran Tapus"
+    },
+    {
+      "code": 1702242002,
+      "name": "Bandung Marga"
+    },
+    {
+      "code": 1702242003,
+      "name": "Pal Seratus"
+    },
+    {
+      "code": 1702242004,
+      "name": "Pal VII"
+    },
+    {
+      "code": 1702242005,
+      "name": "Pal VIII"
+    },
+    {
+      "code": 1702242006,
+      "name": "Tebat Tenong Luar"
+    },
+    {
+      "code": 1702242007,
+      "name": "Bangun Jaya"
+    },
+    {
+      "code": 1702242008,
+      "name": "Babakan Baru"
+    },
+    {
+      "code": 1702242009,
+      "name": "Sumberejo Transad"
+    },
+    {
+      "code": 1702242010,
+      "name": "Air Bening"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1702212001,
+      "name": "Apur"
+    },
+    {
+      "code": 1702212002,
+      "name": "Lawang Agung"
+    },
+    {
+      "code": 1702212003,
+      "name": "Lubuk Alai"
+    },
+    {
+      "code": 1702212004,
+      "name": "Karang Pinang"
+    },
+    {
+      "code": 1702212005,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1702212006,
+      "name": "Pengambang"
+    },
+    {
+      "code": 1702212007,
+      "name": "Jabi"
+    },
+    {
+      "code": 1702212008,
+      "name": "Tanjung Herang"
+    },
+    {
+      "code": 1702212009,
+      "name": "Air Nau"
+    }
+  ]
+}

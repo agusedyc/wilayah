@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1208122001,
+      "name": "Buntu Bayu"
+    },
+    {
+      "code": 1208122002,
+      "name": "Bosar Nauli"
+    },
+    {
+      "code": 1208122003,
+      "name": "Tangga Batu"
+    },
+    {
+      "code": 1208122004,
+      "name": "Buntu Turunan"
+    },
+    {
+      "code": 1208122005,
+      "name": "Saribu Asih"
+    },
+    {
+      "code": 1208122006,
+      "name": "Jawa Tongah"
+    },
+    {
+      "code": 1208122007,
+      "name": "Tonduhan"
+    },
+    {
+      "code": 1208122008,
+      "name": "Parhundalian Jawa Dipar"
+    },
+    {
+      "code": 1208122009,
+      "name": "Jawa Tongah II"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1705061006,
+      "name": "Dermayu"
+    },
+    {
+      "code": 1705062001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1705062002,
+      "name": "Talang Alai"
+    },
+    {
+      "code": 1705062003,
+      "name": "Talang Benuang"
+    },
+    {
+      "code": 1705062004,
+      "name": "Padang Pelasan"
+    },
+    {
+      "code": 1705062005,
+      "name": "Air Periukan"
+    },
+    {
+      "code": 1705062007,
+      "name": "Keban Agung"
+    },
+    {
+      "code": 1705062008,
+      "name": "Pasar Ngalam"
+    },
+    {
+      "code": 1705062009,
+      "name": "Sukasari"
+    },
+    {
+      "code": 1705062010,
+      "name": "Kungkai Baru"
+    },
+    {
+      "code": 1705062011,
+      "name": "Tawang Rejo"
+    },
+    {
+      "code": 1705062012,
+      "name": "Lawang Agung"
+    },
+    {
+      "code": 1705062013,
+      "name": "Taba Lubuk Puding"
+    },
+    {
+      "code": 1705062014,
+      "name": "Talang Sebaris"
+    },
+    {
+      "code": 1705062015,
+      "name": "Lubuk Gilang"
+    },
+    {
+      "code": 1705062016,
+      "name": "Lokasi Baru"
+    }
+  ]
+}

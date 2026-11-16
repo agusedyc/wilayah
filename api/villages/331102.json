@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3311022001,
+      "name": "Sanggang"
+    },
+    {
+      "code": 3311022002,
+      "name": "Kamal"
+    },
+    {
+      "code": 3311022003,
+      "name": "Gentan"
+    },
+    {
+      "code": 3311022004,
+      "name": "Kedungsono"
+    },
+    {
+      "code": 3311022005,
+      "name": "Tiyaran"
+    },
+    {
+      "code": 3311022006,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3311022007,
+      "name": "Bulu"
+    },
+    {
+      "code": 3311022008,
+      "name": "Kunden"
+    },
+    {
+      "code": 3311022009,
+      "name": "Puron"
+    },
+    {
+      "code": 3311022010,
+      "name": "Malangan"
+    },
+    {
+      "code": 3311022011,
+      "name": "Lengking"
+    },
+    {
+      "code": 3311022012,
+      "name": "Ngasinan"
+    }
+  ]
+}

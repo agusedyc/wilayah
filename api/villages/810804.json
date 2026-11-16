@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8108042001,
+      "name": "Tepa"
+    },
+    {
+      "code": 8108042002,
+      "name": "Imroing"
+    },
+    {
+      "code": 8108042003,
+      "name": "Tela"
+    },
+    {
+      "code": 8108042004,
+      "name": "Yaltubung"
+    },
+    {
+      "code": 8108042005,
+      "name": "Wanuwui"
+    },
+    {
+      "code": 8108042006,
+      "name": "Letsiara"
+    },
+    {
+      "code": 8108042015,
+      "name": "Lewah"
+    },
+    {
+      "code": 8108042016,
+      "name": "Hertuti"
+    },
+    {
+      "code": 8108042017,
+      "name": "Sinairusi"
+    }
+  ]
+}

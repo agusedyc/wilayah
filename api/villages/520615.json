@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5206152001,
+      "name": "Bajo"
+    },
+    {
+      "code": 5206152002,
+      "name": "Punti"
+    },
+    {
+      "code": 5206152003,
+      "name": "Wadukopa"
+    },
+    {
+      "code": 5206152004,
+      "name": "Kananta"
+    },
+    {
+      "code": 5206152005,
+      "name": "Sai"
+    },
+    {
+      "code": 5206152006,
+      "name": "Sampungu"
+    },
+    {
+      "code": 5206152007,
+      "name": "Lewintana"
+    }
+  ]
+}

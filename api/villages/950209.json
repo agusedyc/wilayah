@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502092001,
+      "name": "Pepera"
+    },
+    {
+      "code": 9502092002,
+      "name": "Okbon"
+    },
+    {
+      "code": 9502092003,
+      "name": "Yun Muku"
+    },
+    {
+      "code": 9502092004,
+      "name": "Denom"
+    },
+    {
+      "code": 9502092005,
+      "name": "Bon Yakwol"
+    },
+    {
+      "code": 9502092006,
+      "name": "Ok Telabe"
+    },
+    {
+      "code": 9502092007,
+      "name": "Wok Bakon"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8204262001,
+      "name": "Gaimu"
+    },
+    {
+      "code": 8204262002,
+      "name": "Gane Luar"
+    },
+    {
+      "code": 8204262003,
+      "name": "Kuwo"
+    },
+    {
+      "code": 8204262004,
+      "name": "Ranga Ranga"
+    },
+    {
+      "code": 8204262005,
+      "name": "Sawat"
+    }
+  ]
+}

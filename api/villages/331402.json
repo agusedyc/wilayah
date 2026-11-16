@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3314022001,
+      "name": "Karangwaru"
+    },
+    {
+      "code": 3314022002,
+      "name": "Ngrombo"
+    },
+    {
+      "code": 3314022003,
+      "name": "Sambirejo"
+    },
+    {
+      "code": 3314022004,
+      "name": "Somomorodukuh"
+    },
+    {
+      "code": 3314022005,
+      "name": "Cangkol"
+    },
+    {
+      "code": 3314022006,
+      "name": "Manyarejo"
+    },
+    {
+      "code": 3314022007,
+      "name": "Pungsari"
+    },
+    {
+      "code": 3314022008,
+      "name": "Jembangan"
+    },
+    {
+      "code": 3314022009,
+      "name": "Sidokerto"
+    },
+    {
+      "code": 3314022010,
+      "name": "Jabung"
+    },
+    {
+      "code": 3314022011,
+      "name": "Gedongan"
+    },
+    {
+      "code": 3314022012,
+      "name": "Plupuh"
+    },
+    {
+      "code": 3314022013,
+      "name": "Dari"
+    },
+    {
+      "code": 3314022014,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3314022015,
+      "name": "Karungan"
+    },
+    {
+      "code": 3314022016,
+      "name": "Gentanbanaran"
+    }
+  ]
+}

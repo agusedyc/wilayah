@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311132001,
+      "name": "Nggongi"
+    },
+    {
+      "code": 5311132002,
+      "name": "Praimadita"
+    },
+    {
+      "code": 5311132003,
+      "name": "Praisalura"
+    },
+    {
+      "code": 5311132004,
+      "name": "Tandula Jangga"
+    },
+    {
+      "code": 5311132005,
+      "name": "Nangga"
+    },
+    {
+      "code": 5311132006,
+      "name": "Janggamangu"
+    },
+    {
+      "code": 5311132011,
+      "name": "Ananjaki"
+    }
+  ]
+}

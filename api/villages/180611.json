@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 1806112001,
+      "name": "Rantau Tijang"
+    },
+    {
+      "code": 1806112002,
+      "name": "Tiuh Memon"
+    },
+    {
+      "code": 1806112003,
+      "name": "Banjar Agung Udik"
+    },
+    {
+      "code": 1806112004,
+      "name": "Tanjung Heran"
+    },
+    {
+      "code": 1806112005,
+      "name": "Sumanda"
+    },
+    {
+      "code": 1806112006,
+      "name": "Campang Way Handak"
+    },
+    {
+      "code": 1806112007,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 1806112008,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1806112009,
+      "name": "Binjai Wangi"
+    },
+    {
+      "code": 1806112010,
+      "name": "Tanjung Kemala"
+    },
+    {
+      "code": 1806112011,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1806112012,
+      "name": "Babakan"
+    },
+    {
+      "code": 1806112013,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1806112014,
+      "name": "Sinar Agung"
+    },
+    {
+      "code": 1806112015,
+      "name": "Tangkit Serdang"
+    },
+    {
+      "code": 1806112016,
+      "name": "Gunung Kasih"
+    },
+    {
+      "code": 1806112017,
+      "name": "Way Jaha"
+    },
+    {
+      "code": 1806112018,
+      "name": "Banjar Agung Ilir"
+    },
+    {
+      "code": 1806112019,
+      "name": "Gading"
+    },
+    {
+      "code": 1806112020,
+      "name": "Way Pring"
+    },
+    {
+      "code": 1806112021,
+      "name": "Pungkut"
+    },
+    {
+      "code": 1806112022,
+      "name": "Gunung Tiga"
+    },
+    {
+      "code": 1806112023,
+      "name": "Way Manak"
+    },
+    {
+      "code": 1806112024,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 1806112025,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 1806112026,
+      "name": "Kayuhubi"
+    },
+    {
+      "code": 1806112027,
+      "name": "Talang Lebar"
+    }
+  ]
+}

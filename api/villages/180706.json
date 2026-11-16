@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1807062001,
+      "name": "Banarjoyo"
+    },
+    {
+      "code": 1807062002,
+      "name": "Buana Sakti"
+    },
+    {
+      "code": 1807062003,
+      "name": "Balekencono"
+    },
+    {
+      "code": 1807062004,
+      "name": "Rejo Agung"
+    },
+    {
+      "code": 1807062005,
+      "name": "Adiwarno"
+    },
+    {
+      "code": 1807062006,
+      "name": "Telogorejo"
+    },
+    {
+      "code": 1807062007,
+      "name": "Nampirejo"
+    },
+    {
+      "code": 1807062008,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 1807062009,
+      "name": "Banjarejo"
+    },
+    {
+      "code": 1807062010,
+      "name": "Balerejo"
+    },
+    {
+      "code": 1807062011,
+      "name": "Batangharjo"
+    },
+    {
+      "code": 1807062012,
+      "name": "Bumi Harjo"
+    },
+    {
+      "code": 1807062013,
+      "name": "Bumi Mas"
+    },
+    {
+      "code": 1807062014,
+      "name": "Selorejo"
+    },
+    {
+      "code": 1807062015,
+      "name": "Sri Basuki"
+    },
+    {
+      "code": 1807062016,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1807062017,
+      "name": "Purwodadi Mekar"
+    }
+  ]
+}

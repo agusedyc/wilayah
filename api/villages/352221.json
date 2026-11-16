@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3522212001,
+      "name": "Kedungsumber"
+    },
+    {
+      "code": 3522212002,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3522212003,
+      "name": "Papringan"
+    },
+    {
+      "code": 3522212004,
+      "name": "Soko"
+    },
+    {
+      "code": 3522212005,
+      "name": "Pandantoyo"
+    },
+    {
+      "code": 3522212006,
+      "name": "Belun"
+    },
+    {
+      "code": 3522212007,
+      "name": "Temayang"
+    },
+    {
+      "code": 3522212008,
+      "name": "Bakulan"
+    },
+    {
+      "code": 3522212009,
+      "name": "Jono"
+    },
+    {
+      "code": 3522212010,
+      "name": "Ngujung"
+    },
+    {
+      "code": 3522212011,
+      "name": "Buntalan"
+    },
+    {
+      "code": 3522212012,
+      "name": "Pancur"
+    }
+  ]
+}

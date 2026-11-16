@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1401021027,
+      "name": "Air Tiris"
+    },
+    {
+      "code": 1401022001,
+      "name": "Batu Belah"
+    },
+    {
+      "code": 1401022003,
+      "name": "Tanjung Berulak"
+    },
+    {
+      "code": 1401022006,
+      "name": "Ranah"
+    },
+    {
+      "code": 1401022007,
+      "name": "Penyasawan"
+    },
+    {
+      "code": 1401022008,
+      "name": "Rumbio"
+    },
+    {
+      "code": 1401022013,
+      "name": "Padang Mutung"
+    },
+    {
+      "code": 1401022023,
+      "name": "Pulau Jambu"
+    },
+    {
+      "code": 1401022024,
+      "name": "Tanjung Rambutan"
+    },
+    {
+      "code": 1401022025,
+      "name": "Simpang Kubu"
+    },
+    {
+      "code": 1401022028,
+      "name": "Limau Manis"
+    },
+    {
+      "code": 1401022030,
+      "name": "Naumbai"
+    },
+    {
+      "code": 1401022031,
+      "name": "Pulau Tinggi"
+    },
+    {
+      "code": 1401022032,
+      "name": "Ranah Baru"
+    },
+    {
+      "code": 1401022033,
+      "name": "Bukit Ranah"
+    },
+    {
+      "code": 1401022034,
+      "name": "Pulau Sarak"
+    },
+    {
+      "code": 1401022035,
+      "name": "Koto Tibun"
+    },
+    {
+      "code": 1401022036,
+      "name": "Ranah Singkuang"
+    }
+  ]
+}

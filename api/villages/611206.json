@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6112062001,
+      "name": "Kubu"
+    },
+    {
+      "code": 6112062002,
+      "name": "Olak-Olak Kubu"
+    },
+    {
+      "code": 6112062003,
+      "name": "Sungai Selamat"
+    },
+    {
+      "code": 6112062004,
+      "name": "Sungai Bemban"
+    },
+    {
+      "code": 6112062005,
+      "name": "Pinang Luar"
+    },
+    {
+      "code": 6112062006,
+      "name": "Seruat Dua"
+    },
+    {
+      "code": 6112062007,
+      "name": "Seruat Tiga"
+    },
+    {
+      "code": 6112062008,
+      "name": "Dabong"
+    },
+    {
+      "code": 6112062009,
+      "name": "Ambawang"
+    },
+    {
+      "code": 6112062010,
+      "name": "Sepakat Baru"
+    },
+    {
+      "code": 6112062011,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6112062012,
+      "name": "Air Putih"
+    },
+    {
+      "code": 6112062013,
+      "name": "Teluk Nangka"
+    },
+    {
+      "code": 6112062014,
+      "name": "Jangkang Satu"
+    },
+    {
+      "code": 6112062015,
+      "name": "Jangkang Dua"
+    },
+    {
+      "code": 6112062016,
+      "name": "Pinang Dalam"
+    },
+    {
+      "code": 6112062017,
+      "name": "Sungai Terus"
+    },
+    {
+      "code": 6112062018,
+      "name": "Pelita Jaya"
+    },
+    {
+      "code": 6112062019,
+      "name": "Mengkalang"
+    },
+    {
+      "code": 6112062020,
+      "name": "Mengkalang Jambu"
+    }
+  ]
+}

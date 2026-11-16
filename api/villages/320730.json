@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3207302001,
+      "name": "Cisaga"
+    },
+    {
+      "code": 3207302002,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3207302003,
+      "name": "Kepel"
+    },
+    {
+      "code": 3207302004,
+      "name": "Wangunjaya"
+    },
+    {
+      "code": 3207302005,
+      "name": "Sukahurip"
+    },
+    {
+      "code": 3207302006,
+      "name": "Bangunharja"
+    },
+    {
+      "code": 3207302007,
+      "name": "Tanjungjaya"
+    },
+    {
+      "code": 3207302008,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3207302009,
+      "name": "Danasari"
+    },
+    {
+      "code": 3207302010,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3207302011,
+      "name": "Karyamulya"
+    }
+  ]
+}

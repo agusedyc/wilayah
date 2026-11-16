@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5103032001,
+      "name": "Darmasaba"
+    },
+    {
+      "code": 5103032002,
+      "name": "Sibangkaja"
+    },
+    {
+      "code": 5103032003,
+      "name": "Sibanggede"
+    },
+    {
+      "code": 5103032004,
+      "name": "Jagapati"
+    },
+    {
+      "code": 5103032005,
+      "name": "Angantaka"
+    },
+    {
+      "code": 5103032006,
+      "name": "Sedang"
+    },
+    {
+      "code": 5103032007,
+      "name": "Mambal"
+    },
+    {
+      "code": 5103032008,
+      "name": "Abiansemal"
+    },
+    {
+      "code": 5103032009,
+      "name": "Bongkasa"
+    },
+    {
+      "code": 5103032010,
+      "name": "Taman"
+    },
+    {
+      "code": 5103032011,
+      "name": "Blahkiuh"
+    },
+    {
+      "code": 5103032012,
+      "name": "Ayunan"
+    },
+    {
+      "code": 5103032013,
+      "name": "Sangeh"
+    },
+    {
+      "code": 5103032014,
+      "name": "Punggul"
+    },
+    {
+      "code": 5103032015,
+      "name": "Mekar Bhuwana"
+    },
+    {
+      "code": 5103032016,
+      "name": "Abiansemal Dauh Yeh Cani"
+    },
+    {
+      "code": 5103032017,
+      "name": "Selat"
+    },
+    {
+      "code": 5103032018,
+      "name": "Bongkasa Pertiwi"
+    }
+  ]
+}

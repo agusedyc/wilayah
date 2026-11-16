@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5306152001,
+      "name": "Ile Padung"
+    },
+    {
+      "code": 5306152002,
+      "name": "Bantala"
+    },
+    {
+      "code": 5306152003,
+      "name": "Sinar Hading"
+    },
+    {
+      "code": 5306152004,
+      "name": "Painapang"
+    },
+    {
+      "code": 5306152005,
+      "name": "Balukhering"
+    },
+    {
+      "code": 5306152006,
+      "name": "Riangkotek"
+    },
+    {
+      "code": 5306152007,
+      "name": "Lewobelen"
+    }
+  ]
+}

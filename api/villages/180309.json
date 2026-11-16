@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1803092001,
+      "name": "Madukoro"
+    },
+    {
+      "code": 1803092002,
+      "name": "Kali Cinta"
+    },
+    {
+      "code": 1803092003,
+      "name": "Wono Marto"
+    },
+    {
+      "code": 1803092004,
+      "name": "Talang Jali"
+    },
+    {
+      "code": 1803092005,
+      "name": "Margo Rejo"
+    },
+    {
+      "code": 1803092006,
+      "name": "Banjar Wangi"
+    },
+    {
+      "code": 1803092007,
+      "name": "Sawo Jajar"
+    },
+    {
+      "code": 1803092008,
+      "name": "Madokoro Baru"
+    }
+  ]
+}

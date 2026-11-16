@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7208032008,
+      "name": "Bainaa"
+    },
+    {
+      "code": 7208032009,
+      "name": "Dongkas"
+    },
+    {
+      "code": 7208032010,
+      "name": "Tinombo"
+    },
+    {
+      "code": 7208032011,
+      "name": "Lombok"
+    },
+    {
+      "code": 7208032012,
+      "name": "Dusunan"
+    },
+    {
+      "code": 7208032013,
+      "name": "Tibu"
+    },
+    {
+      "code": 7208032019,
+      "name": "Bainaa Barat"
+    },
+    {
+      "code": 7208032021,
+      "name": "Ogoalas"
+    },
+    {
+      "code": 7208032022,
+      "name": "Lombok Barat"
+    },
+    {
+      "code": 7208032027,
+      "name": "Silabia"
+    },
+    {
+      "code": 7208032028,
+      "name": "Siavu"
+    },
+    {
+      "code": 7208032029,
+      "name": "Ambason Mekar"
+    },
+    {
+      "code": 7208032030,
+      "name": "Dusunan Barat"
+    },
+    {
+      "code": 7208032031,
+      "name": "Patingke"
+    },
+    {
+      "code": 7208032033,
+      "name": "Taipaobal"
+    }
+  ]
+}

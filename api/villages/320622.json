@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3206222001,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3206222002,
+      "name": "Cilangkap"
+    },
+    {
+      "code": 3206222003,
+      "name": "Pasirpanjang"
+    },
+    {
+      "code": 3206222004,
+      "name": "Cibeber"
+    },
+    {
+      "code": 3206222005,
+      "name": "Kamulyan"
+    },
+    {
+      "code": 3206222006,
+      "name": "Manonjaya"
+    },
+    {
+      "code": 3206222007,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3206222008,
+      "name": "Pasirbatang"
+    },
+    {
+      "code": 3206222009,
+      "name": "Kalimanggis"
+    },
+    {
+      "code": 3206222010,
+      "name": "Margahayu"
+    },
+    {
+      "code": 3206222011,
+      "name": "Batusumur"
+    },
+    {
+      "code": 3206222012,
+      "name": "Gunajaya"
+    }
+  ]
+}

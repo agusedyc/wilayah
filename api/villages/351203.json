@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3512032001,
+      "name": "Cemara"
+    },
+    {
+      "code": 3512032002,
+      "name": "Mojodungkol"
+    },
+    {
+      "code": 3512032003,
+      "name": "Gunung Malang"
+    },
+    {
+      "code": 3512032004,
+      "name": "Gunung Putri"
+    },
+    {
+      "code": 3512032005,
+      "name": "Suboh"
+    },
+    {
+      "code": 3512032006,
+      "name": "Dawuan"
+    },
+    {
+      "code": 3512032007,
+      "name": "Buduan"
+    },
+    {
+      "code": 3512032008,
+      "name": "Ketah"
+    }
+  ]
+}

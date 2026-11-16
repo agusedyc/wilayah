@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3101011001,
+      "name": "Pulau Panggang"
+    },
+    {
+      "code": 3101011002,
+      "name": "Pulau Kelapa"
+    },
+    {
+      "code": 3101011003,
+      "name": "Pulau Harapan"
+    }
+  ]
+}

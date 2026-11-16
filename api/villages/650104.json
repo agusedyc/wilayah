@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6501042001,
+      "name": "Tanah Kuning"
+    },
+    {
+      "code": 6501042002,
+      "name": "Mangkupadi"
+    },
+    {
+      "code": 6501042003,
+      "name": "Sajau"
+    },
+    {
+      "code": 6501042004,
+      "name": "Wonomulyo"
+    },
+    {
+      "code": 6501042005,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 6501042006,
+      "name": "Binai"
+    },
+    {
+      "code": 6501042007,
+      "name": "Sajau Hilir"
+    },
+    {
+      "code": 6501042008,
+      "name": "Pura Sajau"
+    }
+  ]
+}

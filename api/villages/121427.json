@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1214272001,
+      "name": "Sifalago Gomo"
+    },
+    {
+      "code": 1214272002,
+      "name": "Balohili Gomo"
+    },
+    {
+      "code": 1214272003,
+      "name": "Bohalu"
+    },
+    {
+      "code": 1214272004,
+      "name": "Orsedes"
+    },
+    {
+      "code": 1214272005,
+      "name": "Sinar Helaowo"
+    },
+    {
+      "code": 1214272006,
+      "name": "Siholi"
+    },
+    {
+      "code": 1214272007,
+      "name": "Tuhegafoa"
+    },
+    {
+      "code": 1214272008,
+      "name": "Perjuangan"
+    },
+    {
+      "code": 1214272009,
+      "name": "Lewa-lewa"
+    },
+    {
+      "code": 1214272010,
+      "name": "Siraha"
+    }
+  ]
+}

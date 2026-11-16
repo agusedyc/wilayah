@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1471071005,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1471071006,
+      "name": "Tangkerang Selatan"
+    },
+    {
+      "code": 1471071008,
+      "name": "Tangkerang Utara"
+    },
+    {
+      "code": 1471071011,
+      "name": "Tangkerang Labuai"
+    },
+    {
+      "code": 1471071012,
+      "name": "Airdingin"
+    }
+  ]
+}

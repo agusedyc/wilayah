@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273191001,
+      "name": "Braga"
+    },
+    {
+      "code": 3273191002,
+      "name": "Merdeka"
+    },
+    {
+      "code": 3273191003,
+      "name": "Kebon Pisang"
+    },
+    {
+      "code": 3273191004,
+      "name": "Babakan Ciamis"
+    }
+  ]
+}

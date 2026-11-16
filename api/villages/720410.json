@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7204102001,
+      "name": "Galumpang"
+    },
+    {
+      "code": 7204102002,
+      "name": "Dungingis"
+    },
+    {
+      "code": 7204102003,
+      "name": "Kapas"
+    },
+    {
+      "code": 7204102004,
+      "name": "Lingadan"
+    }
+  ]
+}

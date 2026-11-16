@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 3524051001,
+      "name": "Banaran"
+    },
+    {
+      "code": 3524051003,
+      "name": "Babat"
+    },
+    {
+      "code": 3524052002,
+      "name": "Karangkembang"
+    },
+    {
+      "code": 3524052004,
+      "name": "Pucakwangi"
+    },
+    {
+      "code": 3524052005,
+      "name": "Sogo"
+    },
+    {
+      "code": 3524052006,
+      "name": "Bedahan"
+    },
+    {
+      "code": 3524052007,
+      "name": "Truni"
+    },
+    {
+      "code": 3524052008,
+      "name": "Gendongkulon"
+    },
+    {
+      "code": 3524052009,
+      "name": "Plaosan"
+    },
+    {
+      "code": 3524052010,
+      "name": "Trepan"
+    },
+    {
+      "code": 3524052011,
+      "name": "Kuripan"
+    },
+    {
+      "code": 3524052012,
+      "name": "Kebalanpelang"
+    },
+    {
+      "code": 3524052013,
+      "name": "Sumurgenuk"
+    },
+    {
+      "code": 3524052014,
+      "name": "Gembong"
+    },
+    {
+      "code": 3524052015,
+      "name": "Bulumargi"
+    },
+    {
+      "code": 3524052016,
+      "name": "Datinawong"
+    },
+    {
+      "code": 3524052017,
+      "name": "Kebalandono"
+    },
+    {
+      "code": 3524052018,
+      "name": "Patihan"
+    },
+    {
+      "code": 3524052019,
+      "name": "Moropelang"
+    },
+    {
+      "code": 3524052020,
+      "name": "Keyongan"
+    },
+    {
+      "code": 3524052021,
+      "name": "Sambangan"
+    },
+    {
+      "code": 3524052022,
+      "name": "Tritunggal"
+    },
+    {
+      "code": 3524052023,
+      "name": "Kebonagung"
+    }
+  ]
+}

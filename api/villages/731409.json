@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7314091001,
+      "name": "Tanru Tedong"
+    },
+    {
+      "code": 7314091002,
+      "name": "Salomalori"
+    },
+    {
+      "code": 7314092003,
+      "name": "Kalosi"
+    },
+    {
+      "code": 7314092004,
+      "name": "Padangloang"
+    },
+    {
+      "code": 7314092005,
+      "name": "Kalosi Alau"
+    },
+    {
+      "code": 7314092006,
+      "name": "Bila"
+    },
+    {
+      "code": 7314092007,
+      "name": "Padangloang Alau"
+    },
+    {
+      "code": 7314092008,
+      "name": "Salobukkang"
+    },
+    {
+      "code": 7314092009,
+      "name": "Taccimpo"
+    },
+    {
+      "code": 7314092010,
+      "name": "Kampale"
+    }
+  ]
+}

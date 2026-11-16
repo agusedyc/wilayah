@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3202292001,
+      "name": "Gunungjaya"
+    },
+    {
+      "code": 3202292002,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3202292003,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3202292004,
+      "name": "Cisaat"
+    },
+    {
+      "code": 3202292005,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3202292006,
+      "name": "Babakan"
+    },
+    {
+      "code": 3202292007,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3202292008,
+      "name": "Cibatu"
+    },
+    {
+      "code": 3202292009,
+      "name": "Selajambe"
+    },
+    {
+      "code": 3202292010,
+      "name": "Padaasih"
+    },
+    {
+      "code": 3202292011,
+      "name": "Cibolang Kaler"
+    },
+    {
+      "code": 3202292012,
+      "name": "Kutasirna"
+    },
+    {
+      "code": 3202292013,
+      "name": "Sukaresmi"
+    }
+  ]
+}

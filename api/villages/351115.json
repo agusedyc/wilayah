@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3511152001,
+      "name": "Solor"
+    },
+    {
+      "code": 3511152002,
+      "name": "Kladi"
+    },
+    {
+      "code": 3511152003,
+      "name": "Bercak"
+    },
+    {
+      "code": 3511152004,
+      "name": "Suling Wetan"
+    },
+    {
+      "code": 3511152005,
+      "name": "Suling Kulon"
+    },
+    {
+      "code": 3511152006,
+      "name": "Cermee"
+    },
+    {
+      "code": 3511152007,
+      "name": "Ramban Wetan"
+    },
+    {
+      "code": 3511152008,
+      "name": "Grujugan"
+    },
+    {
+      "code": 3511152009,
+      "name": "Ramban Kulon"
+    },
+    {
+      "code": 3511152010,
+      "name": "Bajuran"
+    },
+    {
+      "code": 3511152011,
+      "name": "Jirek Mas"
+    },
+    {
+      "code": 3511152012,
+      "name": "Batu Salang"
+    },
+    {
+      "code": 3511152013,
+      "name": "Palalangan"
+    },
+    {
+      "code": 3511152014,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 3511152015,
+      "name": "Bercak Asri"
+    }
+  ]
+}

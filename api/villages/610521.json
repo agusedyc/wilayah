@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6105212001,
+      "name": "Ampar Bedang"
+    },
+    {
+      "code": 6105212002,
+      "name": "Telaga Satu"
+    },
+    {
+      "code": 6105212003,
+      "name": "Telaga Dua"
+    },
+    {
+      "code": 6105212004,
+      "name": "Binjai Hilir"
+    },
+    {
+      "code": 6105212005,
+      "name": "Binjai Hulu"
+    },
+    {
+      "code": 6105212006,
+      "name": "Sungai Risap"
+    },
+    {
+      "code": 6105212007,
+      "name": "Dak Jaya"
+    },
+    {
+      "code": 6105212008,
+      "name": "Mensiku"
+    },
+    {
+      "code": 6105212009,
+      "name": "Empaka Kabiau Raya"
+    },
+    {
+      "code": 6105212010,
+      "name": "Sungai Risap Mensiku Bersatu"
+    },
+    {
+      "code": 6105212011,
+      "name": "Simba Raya"
+    }
+  ]
+}

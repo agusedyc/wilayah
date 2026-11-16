@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7603041001,
+      "name": "Pana"
+    },
+    {
+      "code": 7603042003,
+      "name": "Manipi"
+    },
+    {
+      "code": 7603042005,
+      "name": "Mamullu"
+    },
+    {
+      "code": 7603042006,
+      "name": "Sapan"
+    },
+    {
+      "code": 7603042009,
+      "name": "Datubaringan"
+    },
+    {
+      "code": 7603042010,
+      "name": "Panura"
+    },
+    {
+      "code": 7603042011,
+      "name": "Tallang Bulawan"
+    },
+    {
+      "code": 7603042012,
+      "name": "Karaka"
+    },
+    {
+      "code": 7603042013,
+      "name": "Ulusalu"
+    },
+    {
+      "code": 7603042014,
+      "name": "Weri"
+    },
+    {
+      "code": 7603042015,
+      "name": "Salutambun"
+    },
+    {
+      "code": 7603042016,
+      "name": "Saloan"
+    },
+    {
+      "code": 7603042017,
+      "name": "Ulusalu Indah"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5201022001,
+      "name": "Kediri"
+    },
+    {
+      "code": 5201022002,
+      "name": "Montong Are"
+    },
+    {
+      "code": 5201022003,
+      "name": "Jagaraga Indah"
+    },
+    {
+      "code": 5201022004,
+      "name": "Gelogor"
+    },
+    {
+      "code": 5201022005,
+      "name": "Rumak"
+    },
+    {
+      "code": 5201022006,
+      "name": "Banyumulek"
+    },
+    {
+      "code": 5201022007,
+      "name": "Ombe Baru"
+    },
+    {
+      "code": 5201022008,
+      "name": "Dasan Baru"
+    },
+    {
+      "code": 5201022009,
+      "name": "Kediri Selatan"
+    },
+    {
+      "code": 5201022010,
+      "name": "Lelede"
+    }
+  ]
+}

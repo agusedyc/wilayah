@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1110042001,
+      "name": "Pasar"
+    },
+    {
+      "code": 1110042002,
+      "name": "Ujung"
+    },
+    {
+      "code": 1110042003,
+      "name": "Pulo Sarok"
+    },
+    {
+      "code": 1110042004,
+      "name": "Kilangan"
+    },
+    {
+      "code": 1110042005,
+      "name": "Kuta Simboling"
+    },
+    {
+      "code": 1110042007,
+      "name": "Teluk Ambun"
+    },
+    {
+      "code": 1110042008,
+      "name": "Rantau Gedang"
+    },
+    {
+      "code": 1110042009,
+      "name": "Teluk Rumbia"
+    },
+    {
+      "code": 1110042010,
+      "name": "Pea Bumbung"
+    },
+    {
+      "code": 1110042011,
+      "name": "Pemuka"
+    },
+    {
+      "code": 1110042012,
+      "name": "Takal pasir"
+    },
+    {
+      "code": 1110042014,
+      "name": "Selok Aceh"
+    },
+    {
+      "code": 1110042016,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1110042017,
+      "name": "Ujung Bawang"
+    },
+    {
+      "code": 1110042019,
+      "name": "Siti Ambia"
+    },
+    {
+      "code": 1110042020,
+      "name": "Suka Damai"
+    }
+  ]
+}

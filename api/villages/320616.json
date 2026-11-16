@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3206162001,
+      "name": "Cikeusal"
+    },
+    {
+      "code": 3206162002,
+      "name": "Cibalanarik"
+    },
+    {
+      "code": 3206162003,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3206162004,
+      "name": "Tanjungjaya"
+    },
+    {
+      "code": 3206162005,
+      "name": "Cilolohan"
+    },
+    {
+      "code": 3206162006,
+      "name": "Cintajaya"
+    },
+    {
+      "code": 3206162007,
+      "name": "Sukasenang"
+    }
+  ]
+}

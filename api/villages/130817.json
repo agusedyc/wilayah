@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1308172001,
+      "name": "Padang Gelugur"
+    },
+    {
+      "code": 1308172002,
+      "name": "Sontang Cubadak"
+    },
+    {
+      "code": 1308172003,
+      "name": "Sitombol Padang Gelugua"
+    },
+    {
+      "code": 1308172004,
+      "name": "Bahagia Padang Gelugua"
+    }
+  ]
+}

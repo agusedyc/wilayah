@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604232001,
+      "name": "Inam"
+    },
+    {
+      "code": 9604232002,
+      "name": "Jandurauw"
+    },
+    {
+      "code": 9604232003,
+      "name": "Inambuari"
+    },
+    {
+      "code": 9604232004,
+      "name": "Sitori"
+    },
+    {
+      "code": 9604232005,
+      "name": "Untorey"
+    },
+    {
+      "code": 9604232006,
+      "name": "Nabisai"
+    },
+    {
+      "code": 9604232007,
+      "name": "Arumi"
+    },
+    {
+      "code": 9604232008,
+      "name": "Karawi"
+    },
+    {
+      "code": 9604232009,
+      "name": "Arampak"
+    },
+    {
+      "code": 9604232010,
+      "name": "Barona"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 1304112001,
+      "name": "Atar"
+    },
+    {
+      "code": 1304112002,
+      "name": "Padang Ganting"
+    }
+  ]
+}

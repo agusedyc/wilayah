@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9507132001,
+      "name": "Tepogi"
+    },
+    {
+      "code": 9507132002,
+      "name": "Ninabua"
+    },
+    {
+      "code": 9507132003,
+      "name": "Golikme"
+    },
+    {
+      "code": 9507132004,
+      "name": "Ninengwa"
+    },
+    {
+      "code": 9507132005,
+      "name": "Weri"
+    },
+    {
+      "code": 9507132006,
+      "name": "Gumagame"
+    },
+    {
+      "code": 9507132007,
+      "name": "Abua"
+    }
+  ]
+}

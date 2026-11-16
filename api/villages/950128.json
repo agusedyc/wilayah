@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9501282001,
+      "name": "Tanahmerah"
+    },
+    {
+      "code": 9501282002,
+      "name": "Towagame"
+    },
+    {
+      "code": 9501282003,
+      "name": "Molagalome"
+    },
+    {
+      "code": 9501282004,
+      "name": "Kwigiluk"
+    },
+    {
+      "code": 9501282005,
+      "name": "Mebunukme"
+    },
+    {
+      "code": 9501282006,
+      "name": "Okwa"
+    }
+  ]
+}

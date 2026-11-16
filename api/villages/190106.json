@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1901062001,
+      "name": "Bakam"
+    },
+    {
+      "code": 1901062002,
+      "name": "Kapuk"
+    },
+    {
+      "code": 1901062003,
+      "name": "Dalil"
+    },
+    {
+      "code": 1901062004,
+      "name": "Neknang"
+    },
+    {
+      "code": 1901062005,
+      "name": "Tiang Tarah"
+    },
+    {
+      "code": 1901062006,
+      "name": "Mangka"
+    },
+    {
+      "code": 1901062007,
+      "name": "Mabat"
+    },
+    {
+      "code": 1901062008,
+      "name": "Bukit Layang"
+    },
+    {
+      "code": 1901062009,
+      "name": "Maras Senang"
+    }
+  ]
+}

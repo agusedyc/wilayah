@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6105192001,
+      "name": "Nanga Lebang"
+    },
+    {
+      "code": 6105192002,
+      "name": "Merpak"
+    },
+    {
+      "code": 6105192003,
+      "name": "Kebong"
+    },
+    {
+      "code": 6105192004,
+      "name": "Baning Panjang"
+    },
+    {
+      "code": 6105192005,
+      "name": "Ensaid Panjang"
+    },
+    {
+      "code": 6105192006,
+      "name": "Bengkuang"
+    },
+    {
+      "code": 6105192007,
+      "name": "Pelimping"
+    },
+    {
+      "code": 6105192008,
+      "name": "Sungai Pukat"
+    },
+    {
+      "code": 6105192009,
+      "name": "Sungai Maram"
+    },
+    {
+      "code": 6105192010,
+      "name": "Sepan Lebang"
+    },
+    {
+      "code": 6105192011,
+      "name": "Gemba Raya"
+    },
+    {
+      "code": 6105192012,
+      "name": "Karya Jaya Bhakti"
+    },
+    {
+      "code": 6105192013,
+      "name": "Mandiri Jaya"
+    },
+    {
+      "code": 6105192014,
+      "name": "Landau Kodam"
+    },
+    {
+      "code": 6105192015,
+      "name": "Sungai Labi"
+    },
+    {
+      "code": 6105192016,
+      "name": "Sungai Lais"
+    },
+    {
+      "code": 6105192017,
+      "name": "Kelam Sejahtera"
+    }
+  ]
+}

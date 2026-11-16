@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9207052001,
+      "name": "Sabubar"
+    },
+    {
+      "code": 9207052002,
+      "name": "Ambuar"
+    },
+    {
+      "code": 9207052003,
+      "name": "Karuan"
+    },
+    {
+      "code": 9207052007,
+      "name": "Yarpate"
+    },
+    {
+      "code": 9207052009,
+      "name": "Nordiwar"
+    }
+  ]
+}

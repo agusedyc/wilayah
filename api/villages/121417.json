@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1214172001,
+      "name": "Tetegawa'ai"
+    },
+    {
+      "code": 1214172002,
+      "name": "Hilimbaruzo"
+    },
+    {
+      "code": 1214172003,
+      "name": "Luahandroito"
+    },
+    {
+      "code": 1214172005,
+      "name": "Orahuahili"
+    },
+    {
+      "code": 1214172006,
+      "name": "Ulu Mazo"
+    },
+    {
+      "code": 1214172007,
+      "name": "Guigui"
+    },
+    {
+      "code": 1214172009,
+      "name": "Hilimaufa"
+    },
+    {
+      "code": 1214172010,
+      "name": "Siofabanua"
+    },
+    {
+      "code": 1214172011,
+      "name": "Tetegawa'ai Ehomo"
+    },
+    {
+      "code": 1214172013,
+      "name": "Tafulu"
+    }
+  ]
+}

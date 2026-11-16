@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1708031008,
+      "name": "Tebat Karai"
+    },
+    {
+      "code": 1708032006,
+      "name": "Taba Santing"
+    },
+    {
+      "code": 1708032007,
+      "name": "Tertik"
+    },
+    {
+      "code": 1708032009,
+      "name": "Talang Karet"
+    },
+    {
+      "code": 1708032010,
+      "name": "Peraduan Binjai"
+    },
+    {
+      "code": 1708032011,
+      "name": "Penanjung Panjang"
+    },
+    {
+      "code": 1708032012,
+      "name": "Nanti Agung"
+    },
+    {
+      "code": 1708032013,
+      "name": "Taba Air Pauh"
+    },
+    {
+      "code": 1708032014,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 1708032019,
+      "name": "Tapak Gedung"
+    },
+    {
+      "code": 1708032020,
+      "name": "Tebing Penyamun"
+    },
+    {
+      "code": 1708032021,
+      "name": "Sinar Gunung"
+    },
+    {
+      "code": 1708032022,
+      "name": "Taba Saling"
+    },
+    {
+      "code": 1708032023,
+      "name": "Penanjung Panjang Atas"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9206102001,
+      "name": "Sarbe"
+    },
+    {
+      "code": 9206102002,
+      "name": "Wagura"
+    },
+    {
+      "code": 9206102003,
+      "name": "Refideso"
+    },
+    {
+      "code": 9206102004,
+      "name": "Naramasa"
+    },
+    {
+      "code": 9206102005,
+      "name": "Obo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9605242001,
+      "name": "Seni"
+    },
+    {
+      "code": 9605242002,
+      "name": "Renis"
+    },
+    {
+      "code": 9605242003,
+      "name": "Sire"
+    },
+    {
+      "code": 9605242004,
+      "name": "Fase"
+    },
+    {
+      "code": 9605242005,
+      "name": "Sabes"
+    },
+    {
+      "code": 9605242006,
+      "name": "Kuraso"
+    },
+    {
+      "code": 9605242007,
+      "name": "Sidi"
+    },
+    {
+      "code": 9605242008,
+      "name": "Osom"
+    },
+    {
+      "code": 9605242009,
+      "name": "Sire Timur"
+    }
+  ]
+}

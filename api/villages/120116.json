@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1201162001,
+      "name": "Suga Suga Hutagodang"
+    },
+    {
+      "code": 1201162002,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1201162003,
+      "name": "Makmur"
+    },
+    {
+      "code": 1201162004,
+      "name": "Pasaribu Tobing"
+    },
+    {
+      "code": 1201162005,
+      "name": "Aek Nadua"
+    },
+    {
+      "code": 1201162006,
+      "name": "Simargarap"
+    },
+    {
+      "code": 1201162007,
+      "name": "Sidaling"
+    },
+    {
+      "code": 1201162008,
+      "name": "Sipakpahi"
+    },
+    {
+      "code": 1201162009,
+      "name": "PO Simargarap"
+    }
+  ]
+}

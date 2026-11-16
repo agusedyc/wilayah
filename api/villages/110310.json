@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1103102001,
+      "name": "Paya Unou"
+    },
+    {
+      "code": 1103102002,
+      "name": "Seuneubok Johan"
+    },
+    {
+      "code": 1103102003,
+      "name": "Seuneubok Baro"
+    },
+    {
+      "code": 1103102004,
+      "name": "Pulo Blang"
+    },
+    {
+      "code": 1103102005,
+      "name": "Blang Barom"
+    },
+    {
+      "code": 1103102006,
+      "name": "Seuneubok Dalam"
+    },
+    {
+      "code": 1103102007,
+      "name": "Seuleumak Muda"
+    },
+    {
+      "code": 1103102008,
+      "name": "Bhom Lama"
+    },
+    {
+      "code": 1103102009,
+      "name": "Pasi Puteh"
+    },
+    {
+      "code": 1103102010,
+      "name": "Alue Dua"
+    },
+    {
+      "code": 1103102011,
+      "name": "Buket Pala"
+    },
+    {
+      "code": 1103102012,
+      "name": "Mata Ie"
+    },
+    {
+      "code": 1103102013,
+      "name": "Alue Udep"
+    },
+    {
+      "code": 1103102014,
+      "name": "Seumali"
+    },
+    {
+      "code": 1103102015,
+      "name": "Punti Payong"
+    },
+    {
+      "code": 1103102016,
+      "name": "Paya Palas"
+    },
+    {
+      "code": 1103102017,
+      "name": "Tampak"
+    },
+    {
+      "code": 1103102018,
+      "name": "Kliet"
+    },
+    {
+      "code": 1103102019,
+      "name": "Alue Geunteng"
+    },
+    {
+      "code": 1103102020,
+      "name": "Pertamina"
+    },
+    {
+      "code": 1103102021,
+      "name": "Alue Batee"
+    },
+    {
+      "code": 1103102022,
+      "name": "Beurandang"
+    },
+    {
+      "code": 1103102024,
+      "name": "Seumanah Jaya"
+    }
+  ]
+}

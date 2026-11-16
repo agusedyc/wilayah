@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3207152001,
+      "name": "Rancah"
+    },
+    {
+      "code": 3207152002,
+      "name": "Kiarapayung"
+    },
+    {
+      "code": 3207152003,
+      "name": "Cileungsir"
+    },
+    {
+      "code": 3207152004,
+      "name": "Cisontrol"
+    },
+    {
+      "code": 3207152005,
+      "name": "Situmandala"
+    },
+    {
+      "code": 3207152006,
+      "name": "Kawunglarang"
+    },
+    {
+      "code": 3207152007,
+      "name": "Patakaharja"
+    },
+    {
+      "code": 3207152008,
+      "name": "Bojonggedang"
+    },
+    {
+      "code": 3207152009,
+      "name": "Karangpari"
+    },
+    {
+      "code": 3207152010,
+      "name": "Dadiharja"
+    },
+    {
+      "code": 3207152011,
+      "name": "Jangalaharja"
+    },
+    {
+      "code": 3207152012,
+      "name": "Giriharja"
+    },
+    {
+      "code": 3207152013,
+      "name": "Wangunsari"
+    }
+  ]
+}

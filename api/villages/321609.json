@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3216092001,
+      "name": "Cikarangkota"
+    },
+    {
+      "code": 3216092002,
+      "name": "Karangbaru"
+    },
+    {
+      "code": 3216092003,
+      "name": "Karangasih"
+    },
+    {
+      "code": 3216092004,
+      "name": "Waluya"
+    },
+    {
+      "code": 3216092005,
+      "name": "Karangraharja"
+    },
+    {
+      "code": 3216092006,
+      "name": "Pasirgombong"
+    },
+    {
+      "code": 3216092007,
+      "name": "Simpangan"
+    },
+    {
+      "code": 3216092008,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3216092009,
+      "name": "Harjamekar"
+    },
+    {
+      "code": 3216092010,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3216092011,
+      "name": "Wangunharja"
+    }
+  ]
+}

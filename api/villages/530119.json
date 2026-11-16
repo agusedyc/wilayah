@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5301192001,
+      "name": "Oebesi"
+    },
+    {
+      "code": 5301192002,
+      "name": "Pakubaun"
+    },
+    {
+      "code": 5301192003,
+      "name": "Rabeka"
+    },
+    {
+      "code": 5301192004,
+      "name": "Enoraen"
+    }
+  ]
+}

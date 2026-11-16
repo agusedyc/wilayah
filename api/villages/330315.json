@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3303151004,
+      "name": "Karangsentul"
+    },
+    {
+      "code": 3303152001,
+      "name": "Karangpule"
+    },
+    {
+      "code": 3303152002,
+      "name": "Sokawera"
+    },
+    {
+      "code": 3303152003,
+      "name": "Karangjambe"
+    },
+    {
+      "code": 3303152005,
+      "name": "Bojanegara"
+    },
+    {
+      "code": 3303152006,
+      "name": "Gemuruh"
+    },
+    {
+      "code": 3303152007,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3303152008,
+      "name": "Prigi"
+    },
+    {
+      "code": 3303152009,
+      "name": "Padamara"
+    },
+    {
+      "code": 3303152010,
+      "name": "Purbayasa"
+    },
+    {
+      "code": 3303152011,
+      "name": "Kalitinggar"
+    },
+    {
+      "code": 3303152012,
+      "name": "Mipiran"
+    },
+    {
+      "code": 3303152013,
+      "name": "Karanggambas"
+    },
+    {
+      "code": 3303152014,
+      "name": "Kalitinggar Kidul"
+    }
+  ]
+}

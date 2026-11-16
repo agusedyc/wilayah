@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7202011001,
+      "name": "Moengko Lama"
+    },
+    {
+      "code": 7202011002,
+      "name": "Moengko Baru"
+    },
+    {
+      "code": 7202011003,
+      "name": "Kayamanya"
+    },
+    {
+      "code": 7202011007,
+      "name": "Gebangrejo"
+    },
+    {
+      "code": 7202011016,
+      "name": "Gebangrejo Timur"
+    },
+    {
+      "code": 7202011017,
+      "name": "Gebangrejo Barat"
+    },
+    {
+      "code": 7202011018,
+      "name": "Kayamanya Sentral"
+    }
+  ]
+}

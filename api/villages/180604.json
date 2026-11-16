@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1806042001,
+      "name": "Talang Beringin"
+    },
+    {
+      "code": 1806042002,
+      "name": "Gunung Megang"
+    },
+    {
+      "code": 1806042003,
+      "name": "Tanjung Rejo"
+    },
+    {
+      "code": 1806042004,
+      "name": "Tanjung Begelung"
+    },
+    {
+      "code": 1806042005,
+      "name": "Sinar Mulyo"
+    },
+    {
+      "code": 1806042006,
+      "name": "Kemuning"
+    },
+    {
+      "code": 1806042007,
+      "name": "Gedung Agung"
+    },
+    {
+      "code": 1806042008,
+      "name": "Penantian"
+    },
+    {
+      "code": 1806042009,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1806042010,
+      "name": "Tekad"
+    },
+    {
+      "code": 1806042011,
+      "name": "Pulau Panggung"
+    },
+    {
+      "code": 1806042012,
+      "name": "Gunung Meraksa"
+    },
+    {
+      "code": 1806042013,
+      "name": "Way Ilahan"
+    },
+    {
+      "code": 1806042014,
+      "name": "Batu Bedil"
+    },
+    {
+      "code": 1806042015,
+      "name": "Air Bakoman"
+    },
+    {
+      "code": 1806042025,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 1806042026,
+      "name": "Sindang Marga"
+    },
+    {
+      "code": 1806042027,
+      "name": "Talang Jawa"
+    },
+    {
+      "code": 1806042028,
+      "name": "Srimanganten"
+    },
+    {
+      "code": 1806042029,
+      "name": "Tanjung Gunung"
+    },
+    {
+      "code": 1806042030,
+      "name": "Sinar Mancak"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102242001,
+      "name": "Lemoh"
+    },
+    {
+      "code": 7102242002,
+      "name": "Lemoh Barat"
+    },
+    {
+      "code": 7102242003,
+      "name": "Lemoh Timur"
+    },
+    {
+      "code": 7102242004,
+      "name": "Lemoh Uner"
+    },
+    {
+      "code": 7102242005,
+      "name": "Lolah"
+    },
+    {
+      "code": 7102242006,
+      "name": "Lolah Satu"
+    },
+    {
+      "code": 7102242007,
+      "name": "Lolah Dua"
+    },
+    {
+      "code": 7102242008,
+      "name": "Lolah Tiga"
+    },
+    {
+      "code": 7102242009,
+      "name": "Ranotongkor"
+    },
+    {
+      "code": 7102242010,
+      "name": "Ranotongkor Timur"
+    }
+  ]
+}

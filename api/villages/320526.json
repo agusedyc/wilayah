@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3205262001,
+      "name": "Peundeuy"
+    },
+    {
+      "code": 3205262002,
+      "name": "Toblong"
+    },
+    {
+      "code": 3205262003,
+      "name": "Saribakti"
+    },
+    {
+      "code": 3205262004,
+      "name": "Pangrumasan"
+    },
+    {
+      "code": 3205262005,
+      "name": "Sukanagara"
+    },
+    {
+      "code": 3205262006,
+      "name": "Purwajaya"
+    }
+  ]
+}

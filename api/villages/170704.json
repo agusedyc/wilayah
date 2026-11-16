@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1707041002,
+      "name": "Tes"
+    },
+    {
+      "code": 1707041003,
+      "name": "Taba Anyar"
+    },
+    {
+      "code": 1707041004,
+      "name": "Mubai"
+    },
+    {
+      "code": 1707041005,
+      "name": "Turan Lalang"
+    },
+    {
+      "code": 1707042001,
+      "name": "Kutai Donok"
+    },
+    {
+      "code": 1707042013,
+      "name": "Turan Tiging"
+    },
+    {
+      "code": 1707042014,
+      "name": "Suka Sari"
+    },
+    {
+      "code": 1707042016,
+      "name": "Mangkurajo"
+    },
+    {
+      "code": 1707042018,
+      "name": "Tik Jeniak"
+    },
+    {
+      "code": 1707042019,
+      "name": "Manai Blau"
+    }
+  ]
+}

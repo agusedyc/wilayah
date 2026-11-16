@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3604242001,
+      "name": "Pamarayan"
+    },
+    {
+      "code": 3604242002,
+      "name": "Damping"
+    },
+    {
+      "code": 3604242003,
+      "name": "Wirana"
+    },
+    {
+      "code": 3604242004,
+      "name": "Keboncau"
+    },
+    {
+      "code": 3604242005,
+      "name": "Pudar"
+    },
+    {
+      "code": 3604242006,
+      "name": "Binong"
+    },
+    {
+      "code": 3604242007,
+      "name": "Sangiang"
+    },
+    {
+      "code": 3604242008,
+      "name": "Kampungbaru"
+    },
+    {
+      "code": 3604242010,
+      "name": "Pasirlimus"
+    },
+    {
+      "code": 3604242018,
+      "name": "Pasir Kembang"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3218102001,
+      "name": "Sidamulih"
+    },
+    {
+      "code": 3218102002,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3218102003,
+      "name": "Sukaresik"
+    },
+    {
+      "code": 3218102004,
+      "name": "Cikembulan"
+    },
+    {
+      "code": 3218102005,
+      "name": "Pajaten"
+    },
+    {
+      "code": 3218102006,
+      "name": "Kersaratu"
+    },
+    {
+      "code": 3218102007,
+      "name": "Kalijati"
+    }
+  ]
+}

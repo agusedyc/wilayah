@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3314142001,
+      "name": "Geneng"
+    },
+    {
+      "code": 3314142002,
+      "name": "Jeruk"
+    },
+    {
+      "code": 3314142003,
+      "name": "Sunggingan"
+    },
+    {
+      "code": 3314142004,
+      "name": "Girimargo"
+    },
+    {
+      "code": 3314142005,
+      "name": "Doyong"
+    },
+    {
+      "code": 3314142006,
+      "name": "Soko"
+    },
+    {
+      "code": 3314142007,
+      "name": "Brojol"
+    },
+    {
+      "code": 3314142008,
+      "name": "Bagor"
+    },
+    {
+      "code": 3314142009,
+      "name": "Gilirejo"
+    },
+    {
+      "code": 3314142010,
+      "name": "Gilirejo Baru"
+    }
+  ]
+}

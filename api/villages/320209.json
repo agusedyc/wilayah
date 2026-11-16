@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3202092001,
+      "name": "Warungkiara"
+    },
+    {
+      "code": 3202092002,
+      "name": "Bojongkerta"
+    },
+    {
+      "code": 3202092003,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3202092004,
+      "name": "Bantarkalong"
+    },
+    {
+      "code": 3202092005,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3202092006,
+      "name": "Ubrug"
+    },
+    {
+      "code": 3202092007,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3202092008,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3202092009,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3202092010,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3202092011,
+      "name": "Damarraja"
+    },
+    {
+      "code": 3202092012,
+      "name": "Tarisi"
+    }
+  ]
+}

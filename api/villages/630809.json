@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6308092001,
+      "name": "Paminggir"
+    },
+    {
+      "code": 6308092002,
+      "name": "Paminggir Seberang"
+    },
+    {
+      "code": 6308092003,
+      "name": "Ambahai"
+    },
+    {
+      "code": 6308092004,
+      "name": "Sapala"
+    },
+    {
+      "code": 6308092005,
+      "name": "Bararawa"
+    },
+    {
+      "code": 6308092006,
+      "name": "Pal Batu"
+    },
+    {
+      "code": 6308092007,
+      "name": "Tampakang"
+    }
+  ]
+}

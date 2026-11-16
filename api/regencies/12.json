@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "message": "Showing 33 regencies",
+  "data": [
+    {
+      "code": 1201,
+      "name": "Kabupaten Tapanuli Tengah"
+    },
+    {
+      "code": 1202,
+      "name": "Kabupaten Tapanuli Utara"
+    },
+    {
+      "code": 1203,
+      "name": "Kabupaten Tapanuli Selatan"
+    },
+    {
+      "code": 1204,
+      "name": "Kabupaten Nias"
+    },
+    {
+      "code": 1205,
+      "name": "Kabupaten Langkat"
+    },
+    {
+      "code": 1206,
+      "name": "Kabupaten Karo"
+    },
+    {
+      "code": 1207,
+      "name": "Kabupaten Deli Serdang"
+    },
+    {
+      "code": 1208,
+      "name": "Kabupaten Simalungun"
+    },
+    {
+      "code": 1209,
+      "name": "Kabupaten Asahan"
+    },
+    {
+      "code": 1210,
+      "name": "Kabupaten Labuhanbatu"
+    },
+    {
+      "code": 1211,
+      "name": "Kabupaten Dairi"
+    },
+    {
+      "code": 1212,
+      "name": "Kabupaten Toba"
+    },
+    {
+      "code": 1213,
+      "name": "Kabupaten Mandailing Natal"
+    },
+    {
+      "code": 1214,
+      "name": "Kabupaten Nias Selatan"
+    },
+    {
+      "code": 1215,
+      "name": "Kabupaten Pakpak Bharat"
+    },
+    {
+      "code": 1216,
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    {
+      "code": 1217,
+      "name": "Kabupaten Samosir"
+    },
+    {
+      "code": 1218,
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    {
+      "code": 1219,
+      "name": "Kabupaten Batu Bara"
+    },
+    {
+      "code": 1220,
+      "name": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "code": 1221,
+      "name": "Kabupaten Padang Lawas"
+    },
+    {
+      "code": 1222,
+      "name": "Kabupaten Labuhanbatu Selatan"
+    },
+    {
+      "code": 1223,
+      "name": "Kabupaten Labuhanbatu Utara"
+    },
+    {
+      "code": 1224,
+      "name": "Kabupaten Nias Utara"
+    },
+    {
+      "code": 1225,
+      "name": "Kabupaten Nias Barat"
+    },
+    {
+      "code": 1271,
+      "name": "Kota Medan"
+    },
+    {
+      "code": 1272,
+      "name": "Kota Pematangsiantar"
+    },
+    {
+      "code": 1273,
+      "name": "Kota Sibolga"
+    },
+    {
+      "code": 1274,
+      "name": "Kota Tanjungbalai"
+    },
+    {
+      "code": 1275,
+      "name": "Kota Binjai"
+    },
+    {
+      "code": 1276,
+      "name": "Kota Tebing Tinggi"
+    },
+    {
+      "code": 1277,
+      "name": "Kota Padangsidimpuan"
+    },
+    {
+      "code": 1278,
+      "name": "Kota Gunungsitoli"
+    }
+  ]
+}

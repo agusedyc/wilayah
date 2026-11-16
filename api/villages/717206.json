@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7172061001,
+      "name": "Girian Atas"
+    },
+    {
+      "code": 7172061002,
+      "name": "Girian Weru Satu"
+    },
+    {
+      "code": 7172061003,
+      "name": "Girian Bawah"
+    },
+    {
+      "code": 7172061004,
+      "name": "Girian Permai"
+    },
+    {
+      "code": 7172061005,
+      "name": "Girian Weru Dua"
+    },
+    {
+      "code": 7172061006,
+      "name": "Girian Indah"
+    },
+    {
+      "code": 7172061007,
+      "name": "Wangurer"
+    }
+  ]
+}

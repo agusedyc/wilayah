@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9402202001,
+      "name": "Amberiambut"
+    },
+    {
+      "code": 9402202002,
+      "name": "Kobarak"
+    },
+    {
+      "code": 9402202003,
+      "name": "Wugiwagi"
+    },
+    {
+      "code": 9402202004,
+      "name": "Yagaluk"
+    },
+    {
+      "code": 9402202005,
+      "name": "Moulo"
+    },
+    {
+      "code": 9402202006,
+      "name": "Jimbanime"
+    },
+    {
+      "code": 9402202007,
+      "name": "Jiguluk"
+    },
+    {
+      "code": 9402202008,
+      "name": "Yamoneri"
+    },
+    {
+      "code": 9402202009,
+      "name": "Gumawi"
+    },
+    {
+      "code": 9402202010,
+      "name": "Digolome"
+    },
+    {
+      "code": 9402202011,
+      "name": "Bunume"
+    },
+    {
+      "code": 9402202012,
+      "name": "Ngginigum"
+    },
+    {
+      "code": 9402202013,
+      "name": "Jimbeneri"
+    },
+    {
+      "code": 9402202014,
+      "name": "Jigelo"
+    },
+    {
+      "code": 9402202015,
+      "name": "Piyapigi"
+    },
+    {
+      "code": 9402202016,
+      "name": "Jibonok"
+    }
+  ]
+}

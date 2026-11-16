@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1902052001,
+      "name": "Badau"
+    },
+    {
+      "code": 1902052002,
+      "name": "Air Batu Buding"
+    },
+    {
+      "code": 1902052003,
+      "name": "Sungai Samak"
+    },
+    {
+      "code": 1902052004,
+      "name": "Kacang Butor"
+    },
+    {
+      "code": 1902052005,
+      "name": "Cerucuk"
+    },
+    {
+      "code": 1902052006,
+      "name": "Pegantungan"
+    },
+    {
+      "code": 1902052007,
+      "name": "Ibul"
+    }
+  ]
+}

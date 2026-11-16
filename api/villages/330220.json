@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3302202001,
+      "name": "Ledug"
+    },
+    {
+      "code": 3302202002,
+      "name": "Pliken"
+    },
+    {
+      "code": 3302202003,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3302202004,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 3302202005,
+      "name": "Kramat"
+    },
+    {
+      "code": 3302202006,
+      "name": "Sambeng Wetan"
+    },
+    {
+      "code": 3302202007,
+      "name": "Sambeng Kulon"
+    },
+    {
+      "code": 3302202008,
+      "name": "Purbadana"
+    },
+    {
+      "code": 3302202009,
+      "name": "Kembaran"
+    },
+    {
+      "code": 3302202010,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3302202011,
+      "name": "Karangsoka"
+    },
+    {
+      "code": 3302202012,
+      "name": "Dukuhwaluh"
+    },
+    {
+      "code": 3302202013,
+      "name": "Tambaksari Kidul"
+    },
+    {
+      "code": 3302202014,
+      "name": "Bantarwuni"
+    },
+    {
+      "code": 3302202015,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3302202016,
+      "name": "Linggasari"
+    }
+  ]
+}

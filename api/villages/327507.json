@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3275071003,
+      "name": "Bantargebang"
+    },
+    {
+      "code": 3275071004,
+      "name": "Cikiwul"
+    },
+    {
+      "code": 3275071007,
+      "name": "Ciketingudik"
+    },
+    {
+      "code": 3275071008,
+      "name": "Sumurbatu"
+    }
+  ]
+}

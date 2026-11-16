@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8203052004,
+      "name": "Gamsungi"
+    },
+    {
+      "code": 8203052005,
+      "name": "Gura"
+    },
+    {
+      "code": 8203052006,
+      "name": "Wari"
+    },
+    {
+      "code": 8203052012,
+      "name": "Kakara"
+    },
+    {
+      "code": 8203052013,
+      "name": "Kumo"
+    },
+    {
+      "code": 8203052014,
+      "name": "Gosoma"
+    },
+    {
+      "code": 8203052015,
+      "name": "Rawajaya"
+    },
+    {
+      "code": 8203052018,
+      "name": "MKCM"
+    },
+    {
+      "code": 8203052024,
+      "name": "Tagalaya"
+    },
+    {
+      "code": 8203052025,
+      "name": "Wari Ino"
+    }
+  ]
+}

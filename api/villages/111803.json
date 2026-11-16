@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1118032001,
+      "name": "Meuko Jurong"
+    },
+    {
+      "code": 1118032002,
+      "name": "Kuta Baroh"
+    },
+    {
+      "code": 1118032003,
+      "name": "Meuko Meugit"
+    },
+    {
+      "code": 1118032004,
+      "name": "Kiran Dayah"
+    },
+    {
+      "code": 1118032005,
+      "name": "Kiran Baroh"
+    },
+    {
+      "code": 1118032006,
+      "name": "Keurisi Meunasah Raya"
+    },
+    {
+      "code": 1118032007,
+      "name": "Keurisi Meunasah Lueng"
+    },
+    {
+      "code": 1118032008,
+      "name": "Keurisi Meunasah Beurembang"
+    },
+    {
+      "code": 1118032009,
+      "name": "Meunasah Mee"
+    },
+    {
+      "code": 1118032010,
+      "name": "Meunasah Kumbang"
+    },
+    {
+      "code": 1118032011,
+      "name": "Kiran Krueng"
+    },
+    {
+      "code": 1118032012,
+      "name": "Buket Teungoh"
+    },
+    {
+      "code": 1118032013,
+      "name": "Reului Mangat"
+    },
+    {
+      "code": 1118032014,
+      "name": "Gampong Cot"
+    },
+    {
+      "code": 1118032015,
+      "name": "Jurong Binje"
+    },
+    {
+      "code": 1118032016,
+      "name": "Jurong Teungoh"
+    },
+    {
+      "code": 1118032017,
+      "name": "Jurong Ara"
+    },
+    {
+      "code": 1118032018,
+      "name": "Keude Jangka Buya"
+    }
+  ]
+}

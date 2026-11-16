@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1603272001,
+      "name": "Lebak Budi"
+    },
+    {
+      "code": 1603272002,
+      "name": "Lambur"
+    },
+    {
+      "code": 1603272003,
+      "name": "Pagar Jati"
+    },
+    {
+      "code": 1603272004,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1603272005,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1603272006,
+      "name": "Pandan Dulang"
+    },
+    {
+      "code": 1603272007,
+      "name": "Muara Meo"
+    },
+    {
+      "code": 1603272008,
+      "name": "Sugih Waras"
+    },
+    {
+      "code": 1603272009,
+      "name": "Indramayu"
+    },
+    {
+      "code": 1603272010,
+      "name": "Bedegung"
+    },
+    {
+      "code": 1603272011,
+      "name": "Padang Bindu"
+    },
+    {
+      "code": 1603272012,
+      "name": "Lubuk Nipis"
+    }
+  ]
+}

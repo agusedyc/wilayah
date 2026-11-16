@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5306022001,
+      "name": "Kobasoma"
+    },
+    {
+      "code": 5306022002,
+      "name": "Lewolaga"
+    },
+    {
+      "code": 5306022003,
+      "name": "Lewoingu"
+    },
+    {
+      "code": 5306022004,
+      "name": "Tuakepa"
+    },
+    {
+      "code": 5306022005,
+      "name": "Tenawahang"
+    },
+    {
+      "code": 5306022006,
+      "name": "Leraboleng"
+    },
+    {
+      "code": 5306022007,
+      "name": "Serinuho"
+    },
+    {
+      "code": 5306022008,
+      "name": "Watowara"
+    },
+    {
+      "code": 5306022009,
+      "name": "Konga"
+    },
+    {
+      "code": 5306022010,
+      "name": "Ile Gerong"
+    },
+    {
+      "code": 5306022011,
+      "name": "Adabang"
+    },
+    {
+      "code": 5306022012,
+      "name": "Dun Tana Lewoingu"
+    },
+    {
+      "code": 5306022013,
+      "name": "Duli Jaya"
+    },
+    {
+      "code": 5306022014,
+      "name": "Bokang Wolomatang"
+    }
+  ]
+}

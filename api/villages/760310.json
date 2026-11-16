@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7603101001,
+      "name": "Tabang"
+    },
+    {
+      "code": 7603102003,
+      "name": "Tadokalua"
+    },
+    {
+      "code": 7603102004,
+      "name": "Tabang Barat"
+    },
+    {
+      "code": 7603102005,
+      "name": "Masupu"
+    },
+    {
+      "code": 7603102006,
+      "name": "Kalama"
+    },
+    {
+      "code": 7603102007,
+      "name": "Bakadisura"
+    },
+    {
+      "code": 7603102008,
+      "name": "Salukona"
+    }
+  ]
+}

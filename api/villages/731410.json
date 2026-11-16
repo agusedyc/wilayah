@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7314101001,
+      "name": "Lancirang"
+    },
+    {
+      "code": 7314101002,
+      "name": "PongrangaE"
+    },
+    {
+      "code": 7314102003,
+      "name": "Ajubissue"
+    },
+    {
+      "code": 7314102004,
+      "name": "Otting"
+    },
+    {
+      "code": 7314102005,
+      "name": "Bulucenrana"
+    },
+    {
+      "code": 7314102006,
+      "name": "Betao"
+    },
+    {
+      "code": 7314102007,
+      "name": "Anabannae"
+    },
+    {
+      "code": 7314102008,
+      "name": "Betao Riase"
+    },
+    {
+      "code": 7314102009,
+      "name": "Dongi"
+    },
+    {
+      "code": 7314102010,
+      "name": "Lasiwala"
+    },
+    {
+      "code": 7314102011,
+      "name": "Sumpang Mango"
+    },
+    {
+      "code": 7314102012,
+      "name": "Kalempang"
+    }
+  ]
+}

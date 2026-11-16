@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1807152001,
+      "name": "Sribhawono"
+    },
+    {
+      "code": 1807152002,
+      "name": "Sadar Sriwijaya"
+    },
+    {
+      "code": 1807152003,
+      "name": "Srimenanti"
+    },
+    {
+      "code": 1807152004,
+      "name": "Sripendowo"
+    },
+    {
+      "code": 1807152005,
+      "name": "Waringin Jaya"
+    },
+    {
+      "code": 1807152006,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1807152007,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

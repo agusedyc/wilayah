@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1206132001,
+      "name": "Negeri Jahe"
+    },
+    {
+      "code": 1206132002,
+      "name": "Kutabuluh Gugung"
+    },
+    {
+      "code": 1206132003,
+      "name": "Siabang-abang"
+    },
+    {
+      "code": 1206132004,
+      "name": "Lau Buluh"
+    },
+    {
+      "code": 1206132005,
+      "name": "Bintang Meriah"
+    },
+    {
+      "code": 1206132006,
+      "name": "Jinabun"
+    },
+    {
+      "code": 1206132007,
+      "name": "Kuta Male"
+    },
+    {
+      "code": 1206132008,
+      "name": "Ujung Deleng"
+    },
+    {
+      "code": 1206132009,
+      "name": "Gunung Meriah"
+    },
+    {
+      "code": 1206132010,
+      "name": "Buah Raya"
+    },
+    {
+      "code": 1206132011,
+      "name": "Tanjung Merahe"
+    },
+    {
+      "code": 1206132012,
+      "name": "Rih Tengah"
+    },
+    {
+      "code": 1206132013,
+      "name": "Kutabuluh"
+    },
+    {
+      "code": 1206132014,
+      "name": "Liang Merdeka"
+    },
+    {
+      "code": 1206132015,
+      "name": "Pola Tebu"
+    },
+    {
+      "code": 1206132016,
+      "name": "Mburidi"
+    }
+  ]
+}

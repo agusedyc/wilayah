@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3308032001,
+      "name": "Bligo"
+    },
+    {
+      "code": 3308032002,
+      "name": "Pakunden"
+    },
+    {
+      "code": 3308032003,
+      "name": "Somokaton"
+    },
+    {
+      "code": 3308032004,
+      "name": "Ngluwar"
+    },
+    {
+      "code": 3308032005,
+      "name": "Karangtalun"
+    },
+    {
+      "code": 3308032006,
+      "name": "Jamuskauman"
+    },
+    {
+      "code": 3308032007,
+      "name": "Plosogede"
+    },
+    {
+      "code": 3308032008,
+      "name": "Blongkeng"
+    }
+  ]
+}

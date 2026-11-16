@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7314011001,
+      "name": "Bilokka"
+    },
+    {
+      "code": 7314011002,
+      "name": "Wette'E"
+    },
+    {
+      "code": 7314011003,
+      "name": "Lajonga"
+    },
+    {
+      "code": 7314012004,
+      "name": "Wanio"
+    },
+    {
+      "code": 7314012005,
+      "name": "Wanio Timoreng"
+    },
+    {
+      "code": 7314012006,
+      "name": "Corawali"
+    },
+    {
+      "code": 7314012007,
+      "name": "Lise"
+    },
+    {
+      "code": 7314012008,
+      "name": "Bapangi"
+    },
+    {
+      "code": 7314012009,
+      "name": "Alesalewo"
+    },
+    {
+      "code": 7314012010,
+      "name": "Cenrana"
+    }
+  ]
+}

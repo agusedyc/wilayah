@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9203101001,
+      "name": "Wagom"
+    },
+    {
+      "code": 9203101002,
+      "name": "Wagom Utara"
+    },
+    {
+      "code": 9203101003,
+      "name": "Dulanpokpok"
+    },
+    {
+      "code": 9203102004,
+      "name": "Tanama"
+    },
+    {
+      "code": 9203102005,
+      "name": "Kapaurtutin"
+    },
+    {
+      "code": 9203102006,
+      "name": "Sekban"
+    },
+    {
+      "code": 9203102007,
+      "name": "Torea"
+    },
+    {
+      "code": 9203102008,
+      "name": "Sekru"
+    },
+    {
+      "code": 9203102009,
+      "name": "Sukuru Tuare"
+    }
+  ]
+}

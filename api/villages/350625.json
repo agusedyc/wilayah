@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3506252001,
+      "name": "Tugurejo"
+    },
+    {
+      "code": 3506252002,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3506252003,
+      "name": "Paron"
+    },
+    {
+      "code": 3506252004,
+      "name": "Gogorante"
+    },
+    {
+      "code": 3506252005,
+      "name": "Doko"
+    },
+    {
+      "code": 3506252006,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3506252007,
+      "name": "Ngasem"
+    },
+    {
+      "code": 3506252008,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3506252009,
+      "name": "Kwadungan"
+    },
+    {
+      "code": 3506252010,
+      "name": "Nambaan"
+    },
+    {
+      "code": 3506252011,
+      "name": "Toyoresmi"
+    },
+    {
+      "code": 3506252012,
+      "name": "Wonocatur"
+    }
+  ]
+}

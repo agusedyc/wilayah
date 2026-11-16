@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273051001,
+      "name": "Maleber"
+    },
+    {
+      "code": 3273051002,
+      "name": "Dungus Cariang"
+    },
+    {
+      "code": 3273051003,
+      "name": "Ciroyom"
+    },
+    {
+      "code": 3273051004,
+      "name": "Kebon Jeruk"
+    },
+    {
+      "code": 3273051005,
+      "name": "Garuda"
+    },
+    {
+      "code": 3273051006,
+      "name": "Campaka"
+    }
+  ]
+}

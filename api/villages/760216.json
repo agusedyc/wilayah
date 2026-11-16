@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 7602162001,
+      "name": "Bala Balakang"
+    },
+    {
+      "code": 7602162002,
+      "name": "Bala-Balakang Timur"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3401021008,
+      "name": "Wates"
+    },
+    {
+      "code": 3401022001,
+      "name": "Karangwuni"
+    },
+    {
+      "code": 3401022002,
+      "name": "Sogan"
+    },
+    {
+      "code": 3401022003,
+      "name": "Kulwaru"
+    },
+    {
+      "code": 3401022004,
+      "name": "Ngestiharjo"
+    },
+    {
+      "code": 3401022005,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3401022006,
+      "name": "Triharjo"
+    },
+    {
+      "code": 3401022007,
+      "name": "Giripeni"
+    }
+  ]
+}

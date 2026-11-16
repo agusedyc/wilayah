@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9304192001,
+      "name": "Biwar Laut"
+    },
+    {
+      "code": 9304192002,
+      "name": "Atambuts"
+    },
+    {
+      "code": 9304192003,
+      "name": "Omanesep"
+    },
+    {
+      "code": 9304192004,
+      "name": "Warkai"
+    },
+    {
+      "code": 9304192005,
+      "name": "You"
+    },
+    {
+      "code": 9304192006,
+      "name": "Pirpis"
+    },
+    {
+      "code": 9304192007,
+      "name": "Desep"
+    }
+  ]
+}

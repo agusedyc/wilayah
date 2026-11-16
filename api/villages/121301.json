@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "message": "Showing 39 villages",
+  "data": [
+    {
+      "code": 1213011011,
+      "name": "Kota Siantar"
+    },
+    {
+      "code": 1213011014,
+      "name": "Kayu Jati"
+    },
+    {
+      "code": 1213011022,
+      "name": "Pasar Hilir"
+    },
+    {
+      "code": 1213011023,
+      "name": "Pidoli Dolok"
+    },
+    {
+      "code": 1213011031,
+      "name": "Panyabungan II"
+    },
+    {
+      "code": 1213011032,
+      "name": "Panyabungan III"
+    },
+    {
+      "code": 1213011033,
+      "name": "Panyabungan I"
+    },
+    {
+      "code": 1213011035,
+      "name": "Sipolu-Polu"
+    },
+    {
+      "code": 1213011036,
+      "name": "Dalan Lidang"
+    },
+    {
+      "code": 1213012001,
+      "name": "Adian Jior"
+    },
+    {
+      "code": 1213012002,
+      "name": "Aek Banir"
+    },
+    {
+      "code": 1213012003,
+      "name": "Aek Mata"
+    },
+    {
+      "code": 1213012004,
+      "name": "Darussalam"
+    },
+    {
+      "code": 1213012005,
+      "name": "Gunung Barani"
+    },
+    {
+      "code": 1213012006,
+      "name": "Gunung Manaon"
+    },
+    {
+      "code": 1213012007,
+      "name": "Gunung Tua Jae"
+    },
+    {
+      "code": 1213012008,
+      "name": "Gunung Tua Julu"
+    },
+    {
+      "code": 1213012009,
+      "name": "Gunung Tua Tonga"
+    },
+    {
+      "code": 1213012010,
+      "name": "Huta Lombang Lubis"
+    },
+    {
+      "code": 1213012012,
+      "name": "Ipar Bondar"
+    },
+    {
+      "code": 1213012013,
+      "name": "Kampung Padang"
+    },
+    {
+      "code": 1213012015,
+      "name": "Lumban Pasir"
+    },
+    {
+      "code": 1213012016,
+      "name": "Manyabar"
+    },
+    {
+      "code": 1213012017,
+      "name": "Pagaran Tonga"
+    },
+    {
+      "code": 1213012018,
+      "name": "Panyabungan Jae"
+    },
+    {
+      "code": 1213012019,
+      "name": "Panyabungan Julu"
+    },
+    {
+      "code": 1213012020,
+      "name": "Panyabungan Tonga"
+    },
+    {
+      "code": 1213012021,
+      "name": "Perbangunan"
+    },
+    {
+      "code": 1213012024,
+      "name": "Pidoli Lombang"
+    },
+    {
+      "code": 1213012025,
+      "name": "Salam Bue"
+    },
+    {
+      "code": 1213012026,
+      "name": "Sarak Matua"
+    },
+    {
+      "code": 1213012027,
+      "name": "Sigalapang Julu"
+    },
+    {
+      "code": 1213012028,
+      "name": "Siobon Julu"
+    },
+    {
+      "code": 1213012029,
+      "name": "Sipapaga"
+    },
+    {
+      "code": 1213012030,
+      "name": "Sopobatu"
+    },
+    {
+      "code": 1213012037,
+      "name": "Siobon Jae"
+    },
+    {
+      "code": 1213012038,
+      "name": "Panggorengan"
+    },
+    {
+      "code": 1213012039,
+      "name": "Saba Jambu"
+    },
+    {
+      "code": 1213012040,
+      "name": "Manyabar Jae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3671021001,
+      "name": "Keroncong"
+    },
+    {
+      "code": 3671021002,
+      "name": "Jatake"
+    },
+    {
+      "code": 3671021003,
+      "name": "Pasir Jaya"
+    },
+    {
+      "code": 3671021004,
+      "name": "Gandasari"
+    },
+    {
+      "code": 3671021005,
+      "name": "Manis Jaya"
+    },
+    {
+      "code": 3671021006,
+      "name": "Alam Jaya"
+    }
+  ]
+}

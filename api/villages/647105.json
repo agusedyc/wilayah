@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6471051002,
+      "name": "Sepinggan"
+    },
+    {
+      "code": 6471051006,
+      "name": "Gunung Bahagia"
+    },
+    {
+      "code": 6471051008,
+      "name": "Sepinggan Baru"
+    },
+    {
+      "code": 6471051009,
+      "name": "Sepinggan Raya"
+    },
+    {
+      "code": 6471051010,
+      "name": "Sungainangka"
+    },
+    {
+      "code": 6471051011,
+      "name": "Damai Baru"
+    },
+    {
+      "code": 6471051012,
+      "name": "Damai Bahagia"
+    }
+  ]
+}

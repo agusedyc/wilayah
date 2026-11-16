@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9405242001,
+      "name": "Mundidok"
+    },
+    {
+      "code": 9405242002,
+      "name": "Yaiki Maiki"
+    },
+    {
+      "code": 9405242003,
+      "name": "Tobenggi"
+    },
+    {
+      "code": 9405242004,
+      "name": "Towenggi II"
+    },
+    {
+      "code": 9405242005,
+      "name": "Welenggaru"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3520041013,
+      "name": "Takeran"
+    },
+    {
+      "code": 3520042009,
+      "name": "Kiringan"
+    },
+    {
+      "code": 3520042010,
+      "name": "Duyung"
+    },
+    {
+      "code": 3520042011,
+      "name": "Tawangrejo"
+    },
+    {
+      "code": 3520042012,
+      "name": "Sawojajar"
+    },
+    {
+      "code": 3520042014,
+      "name": "Kuwonharjo"
+    },
+    {
+      "code": 3520042015,
+      "name": "Kepuhrejo"
+    },
+    {
+      "code": 3520042016,
+      "name": "Kerik"
+    },
+    {
+      "code": 3520042017,
+      "name": "Waduk"
+    },
+    {
+      "code": 3520042018,
+      "name": "Jomblang"
+    },
+    {
+      "code": 3520042019,
+      "name": "Kerang"
+    },
+    {
+      "code": 3520042020,
+      "name": "Madigondo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9502072001,
+      "name": "Okyop"
+    },
+    {
+      "code": 9502072002,
+      "name": "Oketur"
+    },
+    {
+      "code": 9502072003,
+      "name": "Ehipten"
+    },
+    {
+      "code": 9502072004,
+      "name": "Wantem"
+    },
+    {
+      "code": 9502072005,
+      "name": "Dikdon"
+    },
+    {
+      "code": 9502072006,
+      "name": "Okyako"
+    },
+    {
+      "code": 9502072007,
+      "name": "Okyaop"
+    },
+    {
+      "code": 9502072008,
+      "name": "Tatam"
+    },
+    {
+      "code": 9502072009,
+      "name": "Okhik"
+    }
+  ]
+}

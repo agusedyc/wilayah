@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1277041001,
+      "name": "Hutaimbaru"
+    },
+    {
+      "code": 1277041002,
+      "name": "Lubuk Raya"
+    },
+    {
+      "code": 1277041003,
+      "name": "Sabungan Jae"
+    },
+    {
+      "code": 1277041004,
+      "name": "Lembah Lubuk Manik"
+    },
+    {
+      "code": 1277041005,
+      "name": "Palopat Maria"
+    },
+    {
+      "code": 1277042006,
+      "name": "Sabungan Sipabangun"
+    },
+    {
+      "code": 1277042007,
+      "name": "Singali"
+    },
+    {
+      "code": 1277042008,
+      "name": "Huta Padang"
+    },
+    {
+      "code": 1277042009,
+      "name": "Partihaman Saroha"
+    },
+    {
+      "code": 1277042010,
+      "name": "Tinjoman Lama"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7414041001,
+      "name": "Watolo"
+    },
+    {
+      "code": 7414041002,
+      "name": "Mawasangka"
+    },
+    {
+      "code": 7414042003,
+      "name": "Oengkolaki"
+    },
+    {
+      "code": 7414042004,
+      "name": "Banga"
+    },
+    {
+      "code": 7414042005,
+      "name": "Tanailandu"
+    },
+    {
+      "code": 7414042006,
+      "name": "Polindu"
+    },
+    {
+      "code": 7414042007,
+      "name": "Kanapa Napa"
+    },
+    {
+      "code": 7414042008,
+      "name": "Terapung"
+    },
+    {
+      "code": 7414042009,
+      "name": "Wasilomata II"
+    },
+    {
+      "code": 7414042010,
+      "name": "Wasilotama I"
+    },
+    {
+      "code": 7414042011,
+      "name": "Matara"
+    },
+    {
+      "code": 7414042012,
+      "name": "Balobone"
+    },
+    {
+      "code": 7414042013,
+      "name": "Napa"
+    },
+    {
+      "code": 7414042014,
+      "name": "Wakambangura"
+    },
+    {
+      "code": 7414042015,
+      "name": "Kancebungi"
+    },
+    {
+      "code": 7414042016,
+      "name": "Gumanano"
+    },
+    {
+      "code": 7414042017,
+      "name": "Dahiango"
+    },
+    {
+      "code": 7414042018,
+      "name": "Air Bajo"
+    },
+    {
+      "code": 7414042019,
+      "name": "Wakambangura II"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7408011001,
+      "name": "Lasusua"
+    },
+    {
+      "code": 7408012002,
+      "name": "Pitulua"
+    },
+    {
+      "code": 7408012003,
+      "name": "Rante Limbong"
+    },
+    {
+      "code": 7408012006,
+      "name": "Totallang"
+    },
+    {
+      "code": 7408012007,
+      "name": "Tojabi"
+    },
+    {
+      "code": 7408012008,
+      "name": "Ponggiha"
+    },
+    {
+      "code": 7408012009,
+      "name": "Watuliwu"
+    },
+    {
+      "code": 7408012010,
+      "name": "Sulaho"
+    },
+    {
+      "code": 7408012015,
+      "name": "Patowonua"
+    },
+    {
+      "code": 7408012016,
+      "name": "Babussalam"
+    },
+    {
+      "code": 7408012017,
+      "name": "Batu Ganda Permai"
+    },
+    {
+      "code": 7408012018,
+      "name": "Puncak Monapa"
+    }
+  ]
+}

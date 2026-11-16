@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1707112001,
+      "name": "Embong"
+    },
+    {
+      "code": 1707112002,
+      "name": "Embong I"
+    },
+    {
+      "code": 1707112003,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1707112004,
+      "name": "Kota Agung"
+    },
+    {
+      "code": 1707112005,
+      "name": "Lemeu"
+    },
+    {
+      "code": 1707112006,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 1707112007,
+      "name": "Tangua"
+    }
+  ]
+}

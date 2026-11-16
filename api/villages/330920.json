@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3309202001,
+      "name": "Seboto"
+    },
+    {
+      "code": 3309202002,
+      "name": "Kaligentong"
+    },
+    {
+      "code": 3309202003,
+      "name": "Gladagsari"
+    },
+    {
+      "code": 3309202004,
+      "name": "Kembang"
+    },
+    {
+      "code": 3309202005,
+      "name": "Ngagrong"
+    },
+    {
+      "code": 3309202006,
+      "name": "Candisari"
+    },
+    {
+      "code": 3309202007,
+      "name": "Ngargoloka"
+    },
+    {
+      "code": 3309202008,
+      "name": "Sampetan"
+    },
+    {
+      "code": 3309202009,
+      "name": "Ngadirojo"
+    },
+    {
+      "code": 3309202010,
+      "name": "Jlarem"
+    }
+  ]
+}

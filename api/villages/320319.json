@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3203192001,
+      "name": "Tanggeung"
+    },
+    {
+      "code": 3203192002,
+      "name": "Rawagede"
+    },
+    {
+      "code": 3203192003,
+      "name": "Cilongsong"
+    },
+    {
+      "code": 3203192004,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3203192005,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3203192006,
+      "name": "Pagermaneuh"
+    },
+    {
+      "code": 3203192007,
+      "name": "Bojongpetir"
+    },
+    {
+      "code": 3203192009,
+      "name": "Pasirjambu"
+    },
+    {
+      "code": 3203192010,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3203192013,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3203192014,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3203192015,
+      "name": "Padaluyu"
+    }
+  ]
+}

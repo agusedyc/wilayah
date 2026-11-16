@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7316031001,
+      "name": "Baraka"
+    },
+    {
+      "code": 7316031002,
+      "name": "Tomenawa"
+    },
+    {
+      "code": 7316031021,
+      "name": "Balla"
+    },
+    {
+      "code": 7316032003,
+      "name": "Banti"
+    },
+    {
+      "code": 7316032005,
+      "name": "Bontongan"
+    },
+    {
+      "code": 7316032006,
+      "name": "Salukanan"
+    },
+    {
+      "code": 7316032007,
+      "name": "Parinding"
+    },
+    {
+      "code": 7316032010,
+      "name": "Tirowali"
+    },
+    {
+      "code": 7316032011,
+      "name": "Pepandungan"
+    },
+    {
+      "code": 7316032012,
+      "name": "Kendenan"
+    },
+    {
+      "code": 7316032015,
+      "name": "Perangian"
+    },
+    {
+      "code": 7316032019,
+      "name": "Janggurara"
+    },
+    {
+      "code": 7316032020,
+      "name": "Kadingeh"
+    },
+    {
+      "code": 7316032022,
+      "name": "Bonebone"
+    },
+    {
+      "code": 7316032023,
+      "name": "Pandung Batu"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1103132001,
+      "name": "Seuneubok Bayu"
+    },
+    {
+      "code": 1103132002,
+      "name": "Alue Ie Itam"
+    },
+    {
+      "code": 1103132003,
+      "name": "Blang Nisan"
+    },
+    {
+      "code": 1103132004,
+      "name": "Bandar Baro"
+    },
+    {
+      "code": 1103132005,
+      "name": "Alue Patong"
+    },
+    {
+      "code": 1103132006,
+      "name": "Alue Ie Mirah"
+    },
+    {
+      "code": 1103132007,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1103132008,
+      "name": "Jambo Balee"
+    },
+    {
+      "code": 1103132009,
+      "name": "Jambo Lubok"
+    },
+    {
+      "code": 1103132010,
+      "name": "Seuneubok Cina"
+    },
+    {
+      "code": 1103132011,
+      "name": "Pelita Sagop Jaya"
+    },
+    {
+      "code": 1103132012,
+      "name": "Perkebunan Julok Rayeuk Selatan"
+    },
+    {
+      "code": 1103132013,
+      "name": "Perkebunan Julok Rayeuk Utara"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206312001,
+      "name": "Linggajati"
+    },
+    {
+      "code": 3206312002,
+      "name": "Tawangbanteng"
+    },
+    {
+      "code": 3206312003,
+      "name": "Sinagar"
+    },
+    {
+      "code": 3206312004,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3206312005,
+      "name": "Sukamahi"
+    },
+    {
+      "code": 3206312006,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3206312007,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3206312008,
+      "name": "Indrajaya"
+    }
+  ]
+}

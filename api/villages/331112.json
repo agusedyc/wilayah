@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3311121002,
+      "name": "Kartasura"
+    },
+    {
+      "code": 3311121004,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3311122001,
+      "name": "Pucangan"
+    },
+    {
+      "code": 3311122003,
+      "name": "Ngemplak"
+    },
+    {
+      "code": 3311122005,
+      "name": "Gumpang"
+    },
+    {
+      "code": 3311122006,
+      "name": "Makamhaji"
+    },
+    {
+      "code": 3311122007,
+      "name": "Pabelan"
+    },
+    {
+      "code": 3311122008,
+      "name": "Gonilan"
+    },
+    {
+      "code": 3311122009,
+      "name": "Singopuran"
+    },
+    {
+      "code": 3311122010,
+      "name": "Ngabeyan"
+    },
+    {
+      "code": 3311122011,
+      "name": "Wirogunan"
+    },
+    {
+      "code": 3311122012,
+      "name": "Kertonatan"
+    }
+  ]
+}

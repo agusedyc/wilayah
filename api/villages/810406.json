@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8104062001,
+      "name": "Lamahang"
+    },
+    {
+      "code": 8104062002,
+      "name": "Waplau"
+    },
+    {
+      "code": 8104062003,
+      "name": "Waeura"
+    },
+    {
+      "code": 8104062004,
+      "name": "Samalagi"
+    },
+    {
+      "code": 8104062005,
+      "name": "Namsina"
+    },
+    {
+      "code": 8104062006,
+      "name": "Hatawano"
+    },
+    {
+      "code": 8104062007,
+      "name": "Waelihang"
+    },
+    {
+      "code": 8104062008,
+      "name": "Waprea"
+    },
+    {
+      "code": 8104062009,
+      "name": "Waepotih"
+    },
+    {
+      "code": 8104062010,
+      "name": "Skikilale"
+    }
+  ]
+}

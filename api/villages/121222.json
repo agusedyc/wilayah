@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1212222001,
+      "name": "Lintong Nihuta"
+    },
+    {
+      "code": 1212222002,
+      "name": "Tarabunga"
+    },
+    {
+      "code": 1212222003,
+      "name": "Meat"
+    },
+    {
+      "code": 1212222004,
+      "name": "Gurgur Aek Raja"
+    },
+    {
+      "code": 1212222005,
+      "name": "Tangga Batu Barat"
+    },
+    {
+      "code": 1212222006,
+      "name": "Tangga Batu Timur"
+    }
+  ]
+}

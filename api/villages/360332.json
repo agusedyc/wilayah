@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3603322001,
+      "name": "Gunung Kaler"
+    },
+    {
+      "code": 3603322002,
+      "name": "Sidoko"
+    },
+    {
+      "code": 3603322003,
+      "name": "Rancagede"
+    },
+    {
+      "code": 3603322004,
+      "name": "Kedung"
+    },
+    {
+      "code": 3603322005,
+      "name": "Cipaeh"
+    },
+    {
+      "code": 3603322006,
+      "name": "Onyam"
+    },
+    {
+      "code": 3603322007,
+      "name": "Tamiang"
+    },
+    {
+      "code": 3603322008,
+      "name": "Kandawati"
+    },
+    {
+      "code": 3603322009,
+      "name": "Cibetok"
+    }
+  ]
+}

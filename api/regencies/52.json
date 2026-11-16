@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 regencies",
+  "data": [
+    {
+      "code": 5201,
+      "name": "Kabupaten Lombok Barat"
+    },
+    {
+      "code": 5202,
+      "name": "Kabupaten Lombok Tengah"
+    },
+    {
+      "code": 5203,
+      "name": "Kabupaten Lombok Timur"
+    },
+    {
+      "code": 5204,
+      "name": "Kabupaten Sumbawa"
+    },
+    {
+      "code": 5205,
+      "name": "Kabupaten Dompu"
+    },
+    {
+      "code": 5206,
+      "name": "Kabupaten Bima"
+    },
+    {
+      "code": 5207,
+      "name": "Kabupaten Sumbawa Barat"
+    },
+    {
+      "code": 5208,
+      "name": "Kabupaten Lombok Utara"
+    },
+    {
+      "code": 5271,
+      "name": "Kota Mataram"
+    },
+    {
+      "code": 5272,
+      "name": "Kota Bima"
+    }
+  ]
+}

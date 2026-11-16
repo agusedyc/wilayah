@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3212142001,
+      "name": "Tegalsembadra"
+    },
+    {
+      "code": 3212142002,
+      "name": "Sukareja"
+    },
+    {
+      "code": 3212142003,
+      "name": "Sukaurip"
+    },
+    {
+      "code": 3212142004,
+      "name": "Rawadalem"
+    },
+    {
+      "code": 3212142005,
+      "name": "Gelarmendala"
+    },
+    {
+      "code": 3212142006,
+      "name": "Tegalurung"
+    },
+    {
+      "code": 3212142007,
+      "name": "Balongan"
+    },
+    {
+      "code": 3212142008,
+      "name": "Majakerta"
+    },
+    {
+      "code": 3212142009,
+      "name": "Sudimampir"
+    },
+    {
+      "code": 3212142010,
+      "name": "Sudimampir Lor"
+    }
+  ]
+}

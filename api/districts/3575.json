@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 districts",
+  "data": [
+    {
+      "code": 357501,
+      "name": "Gadingrejo"
+    },
+    {
+      "code": 357502,
+      "name": "Purworejo"
+    },
+    {
+      "code": 357503,
+      "name": "Bugul Kidul"
+    },
+    {
+      "code": 357504,
+      "name": "Panggungrejo"
+    }
+  ]
+}

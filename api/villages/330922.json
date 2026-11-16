@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3309222001,
+      "name": "Ngablak"
+    },
+    {
+      "code": 3309222002,
+      "name": "Kedungpilang"
+    },
+    {
+      "code": 3309222003,
+      "name": "Kalinanas"
+    },
+    {
+      "code": 3309222004,
+      "name": "Gilirejo"
+    },
+    {
+      "code": 3309222005,
+      "name": "Jatilawang"
+    },
+    {
+      "code": 3309222006,
+      "name": "Garangan"
+    },
+    {
+      "code": 3309222007,
+      "name": "Bercak"
+    },
+    {
+      "code": 3309222008,
+      "name": "Bengle"
+    },
+    {
+      "code": 3309222009,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3309222010,
+      "name": "Repaking"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9202332001,
+      "name": "Sibuni"
+    },
+    {
+      "code": 9202332002,
+      "name": "Kali Merah"
+    },
+    {
+      "code": 9202332003,
+      "name": "Prafi Barat"
+    },
+    {
+      "code": 9202332004,
+      "name": "Macuan"
+    },
+    {
+      "code": 9202332005,
+      "name": "Meiforga"
+    },
+    {
+      "code": 9202332006,
+      "name": "Muara Prafi"
+    },
+    {
+      "code": 9202332007,
+      "name": "Makwan"
+    },
+    {
+      "code": 9202332008,
+      "name": "Urey"
+    },
+    {
+      "code": 9202332009,
+      "name": "Mantedi"
+    },
+    {
+      "code": 9202332010,
+      "name": "Aska"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3207011001,
+      "name": "Ciamis"
+    },
+    {
+      "code": 3207011002,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3207011003,
+      "name": "Maleber"
+    },
+    {
+      "code": 3207011004,
+      "name": "Cigembor"
+    },
+    {
+      "code": 3207011005,
+      "name": "Benteng"
+    },
+    {
+      "code": 3207011006,
+      "name": "Linggasari"
+    },
+    {
+      "code": 3207011007,
+      "name": "Sindangrasa"
+    },
+    {
+      "code": 3207012008,
+      "name": "Pawindan"
+    },
+    {
+      "code": 3207012009,
+      "name": "Cisadap"
+    },
+    {
+      "code": 3207012010,
+      "name": "Imbanagara"
+    },
+    {
+      "code": 3207012011,
+      "name": "Imbanagara Raya"
+    },
+    {
+      "code": 3207012012,
+      "name": "Panyingkiran"
+    }
+  ]
+}

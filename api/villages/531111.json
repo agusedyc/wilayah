@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311112001,
+      "name": "Wulla"
+    },
+    {
+      "code": 5311112002,
+      "name": "Hadakamali"
+    },
+    {
+      "code": 5311112003,
+      "name": "Lumbu Manggit"
+    },
+    {
+      "code": 5311112004,
+      "name": "Latena"
+    },
+    {
+      "code": 5311112005,
+      "name": "Lainjanji"
+    },
+    {
+      "code": 5311112006,
+      "name": "Laipandak"
+    },
+    {
+      "code": 5311112008,
+      "name": "Paranda"
+    }
+  ]
+}

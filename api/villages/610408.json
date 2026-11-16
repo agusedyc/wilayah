@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6104082001,
+      "name": "Balai Pinang"
+    },
+    {
+      "code": 6104082002,
+      "name": "Semandang Kiri"
+    },
+    {
+      "code": 6104082003,
+      "name": "Kualan Hulu"
+    },
+    {
+      "code": 6104082005,
+      "name": "Semandang Hulu"
+    },
+    {
+      "code": 6104082006,
+      "name": "Merawa"
+    },
+    {
+      "code": 6104082009,
+      "name": "Kualan Tengah"
+    },
+    {
+      "code": 6104082010,
+      "name": "Kualan Hilir"
+    },
+    {
+      "code": 6104082011,
+      "name": "Sekucing Labai"
+    },
+    {
+      "code": 6104082012,
+      "name": "Paoh Concong"
+    },
+    {
+      "code": 6104082013,
+      "name": "Legong"
+    },
+    {
+      "code": 6104082014,
+      "name": "Kenanga"
+    },
+    {
+      "code": 6104082015,
+      "name": "Balai Pinang Hulu"
+    },
+    {
+      "code": 6104082016,
+      "name": "Sekucing Kualan"
+    },
+    {
+      "code": 6104082017,
+      "name": "Labai Hilir"
+    },
+    {
+      "code": 6104082018,
+      "name": "Botuh Bosi"
+    }
+  ]
+}

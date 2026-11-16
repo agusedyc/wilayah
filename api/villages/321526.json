@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3215261001,
+      "name": "Karawang Wetan"
+    },
+    {
+      "code": 3215261002,
+      "name": "Adiarsa Timur"
+    },
+    {
+      "code": 3215261003,
+      "name": "Palumbonsari"
+    },
+    {
+      "code": 3215261004,
+      "name": "Plawad"
+    },
+    {
+      "code": 3215262005,
+      "name": "Margasari"
+    },
+    {
+      "code": 3215262006,
+      "name": "Warungbambu"
+    },
+    {
+      "code": 3215262007,
+      "name": "Kondangjaya"
+    },
+    {
+      "code": 3215262008,
+      "name": "Tegal Sawah"
+    }
+  ]
+}

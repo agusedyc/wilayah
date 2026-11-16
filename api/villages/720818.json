@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7208182001,
+      "name": "Bobalo"
+    },
+    {
+      "code": 7208182002,
+      "name": "Dongkalan"
+    },
+    {
+      "code": 7208182003,
+      "name": "Eeya"
+    },
+    {
+      "code": 7208182004,
+      "name": "Ulatan"
+    },
+    {
+      "code": 7208182005,
+      "name": "Palasa Tangki"
+    },
+    {
+      "code": 7208182006,
+      "name": "Palasa Tengah"
+    },
+    {
+      "code": 7208182007,
+      "name": "Palasa Lambori"
+    },
+    {
+      "code": 7208182008,
+      "name": "Pebounang"
+    },
+    {
+      "code": 7208182009,
+      "name": "Bambasiang"
+    },
+    {
+      "code": 7208182010,
+      "name": "Beau"
+    },
+    {
+      "code": 7208182011,
+      "name": "Ogoansam"
+    }
+  ]
+}

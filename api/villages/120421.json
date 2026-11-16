@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1204212001,
+      "name": "Hiligodu Botomuzoi"
+    },
+    {
+      "code": 1204212002,
+      "name": "Lasara Botomuzoi"
+    },
+    {
+      "code": 1204212003,
+      "name": "Hiliwa'ele I"
+    },
+    {
+      "code": 1204212004,
+      "name": "Hilimbowo Botomuzoi"
+    },
+    {
+      "code": 1204212005,
+      "name": "Simanaere Botomuzoi"
+    },
+    {
+      "code": 1204212006,
+      "name": "Hiliwa'ele II"
+    },
+    {
+      "code": 1204212007,
+      "name": "Tuhegafoa I"
+    },
+    {
+      "code": 1204212008,
+      "name": "Balohili Botomuzoi"
+    },
+    {
+      "code": 1204212009,
+      "name": "Hilihambawa Botomuzoi"
+    },
+    {
+      "code": 1204212010,
+      "name": "Fulolo Botomuzoi"
+    },
+    {
+      "code": 1204212011,
+      "name": "Loloana'a"
+    },
+    {
+      "code": 1204212012,
+      "name": "Ononamolo Talafu"
+    },
+    {
+      "code": 1204212013,
+      "name": "Sisobahili Dola"
+    },
+    {
+      "code": 1204212014,
+      "name": "Banua Sibohou Botomuzoi"
+    },
+    {
+      "code": 1204212015,
+      "name": "Mohili Berua Botomuzoi"
+    },
+    {
+      "code": 1204212016,
+      "name": "Tetehosi Botomuzoi"
+    },
+    {
+      "code": 1204212017,
+      "name": "Talafu"
+    },
+    {
+      "code": 1204212018,
+      "name": "Ola Nori"
+    }
+  ]
+}

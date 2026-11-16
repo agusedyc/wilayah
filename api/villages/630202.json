@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6302022005,
+      "name": "Lontar Selatan"
+    },
+    {
+      "code": 6302022006,
+      "name": "Lontar Timur"
+    },
+    {
+      "code": 6302022007,
+      "name": "Sebanti"
+    },
+    {
+      "code": 6302022008,
+      "name": "Sepagar"
+    },
+    {
+      "code": 6302022009,
+      "name": "Semaras"
+    },
+    {
+      "code": 6302022012,
+      "name": "Terangkih"
+    },
+    {
+      "code": 6302022015,
+      "name": "Gemuruh"
+    },
+    {
+      "code": 6302022017,
+      "name": "Tapian Balai"
+    },
+    {
+      "code": 6302022018,
+      "name": "Lontar Utara"
+    },
+    {
+      "code": 6302022021,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6302022022,
+      "name": "Subur Makmur"
+    }
+  ]
+}

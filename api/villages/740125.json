@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7401251001,
+      "name": "Polinggona"
+    },
+    {
+      "code": 7401252002,
+      "name": "Puudongi"
+    },
+    {
+      "code": 7401252003,
+      "name": "Plasma Jaya"
+    },
+    {
+      "code": 7401252004,
+      "name": "Tanggeau"
+    },
+    {
+      "code": 7401252005,
+      "name": "Wulonggere"
+    },
+    {
+      "code": 7401252006,
+      "name": "Pondowae"
+    },
+    {
+      "code": 7401252007,
+      "name": "Lamondape"
+    }
+  ]
+}

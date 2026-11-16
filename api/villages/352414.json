@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3524141001,
+      "name": "Blimbing"
+    },
+    {
+      "code": 3524142002,
+      "name": "Kandangsemangkon"
+    },
+    {
+      "code": 3524142003,
+      "name": "Paciran"
+    },
+    {
+      "code": 3524142004,
+      "name": "Sumurgayam"
+    },
+    {
+      "code": 3524142005,
+      "name": "Sendangagung"
+    },
+    {
+      "code": 3524142006,
+      "name": "Sendangduwur"
+    },
+    {
+      "code": 3524142007,
+      "name": "Tunggul"
+    },
+    {
+      "code": 3524142008,
+      "name": "Kranji"
+    },
+    {
+      "code": 3524142009,
+      "name": "Drajat"
+    },
+    {
+      "code": 3524142010,
+      "name": "Banjarwati"
+    },
+    {
+      "code": 3524142011,
+      "name": "Kemantren"
+    },
+    {
+      "code": 3524142012,
+      "name": "Sidokelar"
+    },
+    {
+      "code": 3524142013,
+      "name": "Tlogosadang"
+    },
+    {
+      "code": 3524142014,
+      "name": "Paloh"
+    },
+    {
+      "code": 3524142015,
+      "name": "Weru"
+    },
+    {
+      "code": 3524142016,
+      "name": "Sidokumpul"
+    },
+    {
+      "code": 3524142017,
+      "name": "Warulor"
+    }
+  ]
+}

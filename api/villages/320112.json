@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3201121006,
+      "name": "Atang Senjaya"
+    },
+    {
+      "code": 3201122001,
+      "name": "Bojong"
+    },
+    {
+      "code": 3201122002,
+      "name": "Parakanjaya"
+    },
+    {
+      "code": 3201122003,
+      "name": "Kemang"
+    },
+    {
+      "code": 3201122004,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3201122005,
+      "name": "Semplak Barat"
+    },
+    {
+      "code": 3201122007,
+      "name": "Jampang"
+    },
+    {
+      "code": 3201122008,
+      "name": "Pondok Udik"
+    },
+    {
+      "code": 3201122009,
+      "name": "Tegal"
+    }
+  ]
+}

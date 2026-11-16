@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3503022001,
+      "name": "Ngulungkulon"
+    },
+    {
+      "code": 3503022002,
+      "name": "Sobo"
+    },
+    {
+      "code": 3503022003,
+      "name": "Ngulungwetan"
+    },
+    {
+      "code": 3503022004,
+      "name": "Craken"
+    },
+    {
+      "code": 3503022005,
+      "name": "Masaran"
+    },
+    {
+      "code": 3503022006,
+      "name": "Tawing"
+    },
+    {
+      "code": 3503022007,
+      "name": "Karangturi"
+    },
+    {
+      "code": 3503022008,
+      "name": "Munjungan"
+    },
+    {
+      "code": 3503022009,
+      "name": "Besuki"
+    },
+    {
+      "code": 3503022010,
+      "name": "Bendoroto"
+    },
+    {
+      "code": 3503022011,
+      "name": "Bangun"
+    }
+  ]
+}

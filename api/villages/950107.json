@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501072001,
+      "name": "Temia"
+    },
+    {
+      "code": 9501072002,
+      "name": "Anegera"
+    },
+    {
+      "code": 9501072003,
+      "name": "Elabukama"
+    },
+    {
+      "code": 9501072004,
+      "name": "Siapma"
+    },
+    {
+      "code": 9501072005,
+      "name": "Hamuhi"
+    },
+    {
+      "code": 9501072006,
+      "name": "Kosihave"
+    },
+    {
+      "code": 9501072007,
+      "name": "Mulupalek"
+    },
+    {
+      "code": 9501072008,
+      "name": "Pumasili"
+    },
+    {
+      "code": 9501072009,
+      "name": "Abulukmo"
+    },
+    {
+      "code": 9501072010,
+      "name": "Yumugima"
+    }
+  ]
+}

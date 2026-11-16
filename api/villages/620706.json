@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6207062001,
+      "name": "Mekar Indah"
+    },
+    {
+      "code": 6207062002,
+      "name": "Halimaung Jaya"
+    },
+    {
+      "code": 6207062003,
+      "name": "Bangun Harja"
+    },
+    {
+      "code": 6207062004,
+      "name": "Kartika Bhakti"
+    },
+    {
+      "code": 6207062005,
+      "name": "Pematang Panjang"
+    },
+    {
+      "code": 6207062006,
+      "name": "Sungai Bakau"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6310112001,
+      "name": "Saring Sungai Bubu"
+    },
+    {
+      "code": 6310112002,
+      "name": "Saring Sungai Binjai"
+    },
+    {
+      "code": 6310112003,
+      "name": "Sepunggur"
+    },
+    {
+      "code": 6310112004,
+      "name": "Serdangan"
+    },
+    {
+      "code": 6310112005,
+      "name": "Satiung"
+    },
+    {
+      "code": 6310112006,
+      "name": "Api-api"
+    },
+    {
+      "code": 6310112007,
+      "name": "Pakatellu"
+    },
+    {
+      "code": 6310112008,
+      "name": "Manurung"
+    },
+    {
+      "code": 6310112009,
+      "name": "Batarang"
+    },
+    {
+      "code": 6310112010,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6310112011,
+      "name": "Pulau Tanjung"
+    },
+    {
+      "code": 6310112012,
+      "name": "UPT Karya Bakti"
+    },
+    {
+      "code": 6310112013,
+      "name": "Salimuran"
+    }
+  ]
+}

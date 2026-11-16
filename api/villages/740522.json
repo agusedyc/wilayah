@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7405222001,
+      "name": "Amokuni"
+    },
+    {
+      "code": 7405222002,
+      "name": "Sindang Kasih"
+    },
+    {
+      "code": 7405222003,
+      "name": "Jati Bali"
+    },
+    {
+      "code": 7405222004,
+      "name": "Laikandonga"
+    },
+    {
+      "code": 7405222005,
+      "name": "Boro-Boro Lameuru"
+    },
+    {
+      "code": 7405222006,
+      "name": "Opaasi"
+    },
+    {
+      "code": 7405222007,
+      "name": "Lameuru"
+    },
+    {
+      "code": 7405222008,
+      "name": "Abeko"
+    },
+    {
+      "code": 7405222009,
+      "name": "Tunduno"
+    }
+  ]
+}

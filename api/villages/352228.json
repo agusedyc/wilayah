@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3522282001,
+      "name": "Gayam"
+    },
+    {
+      "code": 3522282002,
+      "name": "Begadon"
+    },
+    {
+      "code": 3522282003,
+      "name": "Ringintunggal"
+    },
+    {
+      "code": 3522282004,
+      "name": "Mojodelik"
+    },
+    {
+      "code": 3522282005,
+      "name": "Brabowan"
+    },
+    {
+      "code": 3522282006,
+      "name": "Bonorejo"
+    },
+    {
+      "code": 3522282007,
+      "name": "Beged"
+    },
+    {
+      "code": 3522282008,
+      "name": "Katur"
+    },
+    {
+      "code": 3522282009,
+      "name": "Ngraho"
+    },
+    {
+      "code": 3522282010,
+      "name": "Sudu"
+    },
+    {
+      "code": 3522282011,
+      "name": "Cengungklung"
+    },
+    {
+      "code": 3522282012,
+      "name": "Manukan"
+    }
+  ]
+}

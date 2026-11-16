@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7208212001,
+      "name": "Bolano"
+    },
+    {
+      "code": 7208212002,
+      "name": "Bolano Tengah"
+    },
+    {
+      "code": 7208212003,
+      "name": "Bolano Barat"
+    },
+    {
+      "code": 7208212004,
+      "name": "Bolano Utara"
+    },
+    {
+      "code": 7208212005,
+      "name": "Bajo"
+    },
+    {
+      "code": 7208212006,
+      "name": "Sritabaang"
+    },
+    {
+      "code": 7208212007,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 7208212008,
+      "name": "Wanamukti"
+    },
+    {
+      "code": 7208212009,
+      "name": "Wanamukti Utara"
+    },
+    {
+      "code": 7208212010,
+      "name": "Lembah Bomban"
+    },
+    {
+      "code": 7208212011,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 7208212012,
+      "name": "Wanamukti Barat"
+    },
+    {
+      "code": 7208212013,
+      "name": "Sama Bahari"
+    }
+  ]
+}

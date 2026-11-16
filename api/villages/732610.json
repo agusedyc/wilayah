@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7326101002,
+      "name": "Tagari"
+    },
+    {
+      "code": 7326101005,
+      "name": "Balusu"
+    },
+    {
+      "code": 7326102001,
+      "name": "Palangi'"
+    },
+    {
+      "code": 7326102003,
+      "name": "Lilikira Ao'gading"
+    },
+    {
+      "code": 7326102004,
+      "name": "Karua"
+    },
+    {
+      "code": 7326102006,
+      "name": "Awa' Kawasik"
+    },
+    {
+      "code": 7326102007,
+      "name": "Balusu Bangunlipu"
+    }
+  ]
+}

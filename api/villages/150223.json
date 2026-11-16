@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1502232001,
+      "name": "Muara Kibul"
+    },
+    {
+      "code": 1502232002,
+      "name": "Tanjung Putus"
+    },
+    {
+      "code": 1502232003,
+      "name": "Pulau Tebakar"
+    },
+    {
+      "code": 1502232004,
+      "name": "Batang Kibul"
+    },
+    {
+      "code": 1502232005,
+      "name": "Sungai Tabir"
+    },
+    {
+      "code": 1502232006,
+      "name": "Telentam"
+    },
+    {
+      "code": 1502232007,
+      "name": "Ngaol"
+    },
+    {
+      "code": 1502232008,
+      "name": "Air Liki"
+    },
+    {
+      "code": 1502232009,
+      "name": "Pulau Lebar"
+    },
+    {
+      "code": 1502232010,
+      "name": "Muara Langeh"
+    },
+    {
+      "code": 1502232011,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1502232012,
+      "name": "Baru Kibul"
+    },
+    {
+      "code": 1502232013,
+      "name": "Ngaol Ilir"
+    },
+    {
+      "code": 1502232014,
+      "name": "Air Liki Baru"
+    }
+  ]
+}

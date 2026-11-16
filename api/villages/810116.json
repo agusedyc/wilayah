@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8101162001,
+      "name": "Ameth"
+    },
+    {
+      "code": 8101162002,
+      "name": "Titawaai"
+    },
+    {
+      "code": 8101162003,
+      "name": "Abubu"
+    },
+    {
+      "code": 8101162004,
+      "name": "Akoon"
+    },
+    {
+      "code": 8101162005,
+      "name": "Nalahia"
+    },
+    {
+      "code": 8101162006,
+      "name": "Sila"
+    },
+    {
+      "code": 8101162007,
+      "name": "Leinitu"
+    }
+  ]
+}

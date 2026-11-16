@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7210082001,
+      "name": "Tuwa"
+    },
+    {
+      "code": 7210082002,
+      "name": "Omu"
+    },
+    {
+      "code": 7210082003,
+      "name": "Simoro"
+    },
+    {
+      "code": 7210082004,
+      "name": "Pakuli"
+    },
+    {
+      "code": 7210082005,
+      "name": "Pandere"
+    },
+    {
+      "code": 7210082006,
+      "name": "Kalawara"
+    },
+    {
+      "code": 7210082007,
+      "name": "Pakuli Utara"
+    }
+  ]
+}

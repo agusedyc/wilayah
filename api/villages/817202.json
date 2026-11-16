@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8172021003,
+      "name": "Ketsoblak"
+    },
+    {
+      "code": 8172021004,
+      "name": "Masrum"
+    },
+    {
+      "code": 8172021005,
+      "name": "Lodar El"
+    },
+    {
+      "code": 8172022001,
+      "name": "Tual"
+    },
+    {
+      "code": 8172022002,
+      "name": "Taar"
+    }
+  ]
+}

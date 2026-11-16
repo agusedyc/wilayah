@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3211242001,
+      "name": "Tomo"
+    },
+    {
+      "code": 3211242002,
+      "name": "Tolengas"
+    },
+    {
+      "code": 3211242003,
+      "name": "Darmawangi"
+    },
+    {
+      "code": 3211242004,
+      "name": "Marongge"
+    },
+    {
+      "code": 3211242005,
+      "name": "Jembarwangi"
+    },
+    {
+      "code": 3211242006,
+      "name": "Bugel"
+    },
+    {
+      "code": 3211242007,
+      "name": "Cipeles"
+    },
+    {
+      "code": 3211242008,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3211242010,
+      "name": "Mekarwangi"
+    }
+  ]
+}

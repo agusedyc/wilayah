@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7501202001,
+      "name": "Biluhu Barat"
+    },
+    {
+      "code": 7501202002,
+      "name": "Lobuto"
+    },
+    {
+      "code": 7501202003,
+      "name": "Biluhu Tengah"
+    },
+    {
+      "code": 7501202004,
+      "name": "Luluo"
+    },
+    {
+      "code": 7501202005,
+      "name": "Huwongo"
+    },
+    {
+      "code": 7501202006,
+      "name": "Lobuto Timur"
+    },
+    {
+      "code": 7501202007,
+      "name": "Botubolu'o"
+    },
+    {
+      "code": 7501202008,
+      "name": "Olimeyala"
+    }
+  ]
+}

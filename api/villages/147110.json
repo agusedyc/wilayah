@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1471101002,
+      "name": "Bencahlesung"
+    },
+    {
+      "code": 1471101003,
+      "name": "Tangkerang Timur"
+    },
+    {
+      "code": 1471101004,
+      "name": "Rejosari"
+    },
+    {
+      "code": 1471101005,
+      "name": "Bambukuning"
+    },
+    {
+      "code": 1471101010,
+      "name": "Melebung"
+    },
+    {
+      "code": 1471101011,
+      "name": "Industritenayan"
+    },
+    {
+      "code": 1471101012,
+      "name": "Sialangsakti"
+    },
+    {
+      "code": 1471101013,
+      "name": "Tuahnegeri"
+    }
+  ]
+}

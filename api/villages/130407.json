@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1304072001,
+      "name": "Sungai Patai"
+    },
+    {
+      "code": 1304072002,
+      "name": "Andaleh Baruh Bukik"
+    },
+    {
+      "code": 1304072003,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1304072004,
+      "name": "Sungayang"
+    },
+    {
+      "code": 1304072005,
+      "name": "Minang Kabau"
+    }
+  ]
+}

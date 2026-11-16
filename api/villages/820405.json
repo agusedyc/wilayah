@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8204052001,
+      "name": "Wayaloar"
+    },
+    {
+      "code": 8204052002,
+      "name": "Fluk"
+    },
+    {
+      "code": 8204052003,
+      "name": "Bobo"
+    },
+    {
+      "code": 8204052004,
+      "name": "Mano"
+    },
+    {
+      "code": 8204052005,
+      "name": "Loleo"
+    },
+    {
+      "code": 8204052007,
+      "name": "Soligi"
+    },
+    {
+      "code": 8204052008,
+      "name": "Gambaru"
+    },
+    {
+      "code": 8204052009,
+      "name": "Ocimaloleo"
+    }
+  ]
+}

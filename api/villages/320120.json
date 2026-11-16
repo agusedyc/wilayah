@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3201202001,
+      "name": "Jagabaya"
+    },
+    {
+      "code": 3201202002,
+      "name": "Gorowong"
+    },
+    {
+      "code": 3201202003,
+      "name": "Dago"
+    },
+    {
+      "code": 3201202004,
+      "name": "Pingku"
+    },
+    {
+      "code": 3201202005,
+      "name": "Cikuda"
+    },
+    {
+      "code": 3201202006,
+      "name": "Parungpanjang"
+    },
+    {
+      "code": 3201202007,
+      "name": "Lumpang"
+    },
+    {
+      "code": 3201202008,
+      "name": "Cibunar"
+    },
+    {
+      "code": 3201202009,
+      "name": "Jagabita"
+    },
+    {
+      "code": 3201202010,
+      "name": "Gintungcilejet"
+    },
+    {
+      "code": 3201202011,
+      "name": "Kabasiran"
+    }
+  ]
+}

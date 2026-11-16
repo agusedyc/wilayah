@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5318072001,
+      "name": "Bondo Kodi"
+    },
+    {
+      "code": 5318072002,
+      "name": "Ate Dalo"
+    },
+    {
+      "code": 5318072003,
+      "name": "Hamonggo Lele"
+    },
+    {
+      "code": 5318072004,
+      "name": "Homba Rande"
+    },
+    {
+      "code": 5318072005,
+      "name": "Pero Batang"
+    },
+    {
+      "code": 5318072006,
+      "name": "Wura Homba"
+    },
+    {
+      "code": 5318072007,
+      "name": "Koki"
+    },
+    {
+      "code": 5318072008,
+      "name": "Kapaka Madeta"
+    },
+    {
+      "code": 5318072009,
+      "name": "Kawango Hari"
+    },
+    {
+      "code": 5318072010,
+      "name": "Onggol"
+    },
+    {
+      "code": 5318072011,
+      "name": "Mali lha"
+    },
+    {
+      "code": 5318072012,
+      "name": "Watu Wona"
+    },
+    {
+      "code": 5318072013,
+      "name": "Tanjung Karoso"
+    },
+    {
+      "code": 5318072014,
+      "name": "Pero Konda"
+    },
+    {
+      "code": 5318072015,
+      "name": "Homba Rica"
+    },
+    {
+      "code": 5318072016,
+      "name": "Ana Kaka"
+    },
+    {
+      "code": 5318072017,
+      "name": "Ole Ate"
+    },
+    {
+      "code": 5318072018,
+      "name": "Kadoki Horo"
+    },
+    {
+      "code": 5318072019,
+      "name": "Ana Engge"
+    }
+  ]
+}

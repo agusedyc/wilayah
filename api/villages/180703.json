@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1807032001,
+      "name": "Negara Batin"
+    },
+    {
+      "code": 1807032002,
+      "name": "Asahan"
+    },
+    {
+      "code": 1807032003,
+      "name": "Adirejo"
+    },
+    {
+      "code": 1807032004,
+      "name": "Gunung Mekar"
+    },
+    {
+      "code": 1807032005,
+      "name": "Gunung Sugih Kecil"
+    },
+    {
+      "code": 1807032006,
+      "name": "Pematang Tahalo"
+    },
+    {
+      "code": 1807032007,
+      "name": "Jabung"
+    },
+    {
+      "code": 1807032008,
+      "name": "Negara Saka"
+    },
+    {
+      "code": 1807032014,
+      "name": "Betengsari"
+    },
+    {
+      "code": 1807032015,
+      "name": "Belimbing Sari"
+    },
+    {
+      "code": 1807032016,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1807032018,
+      "name": "Mumbang Jaya"
+    },
+    {
+      "code": 1807032019,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1807032020,
+      "name": "Adi Luhur"
+    },
+    {
+      "code": 1807032021,
+      "name": "Sambirejo"
+    }
+  ]
+}

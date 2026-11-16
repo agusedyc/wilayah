@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8206102001,
+      "name": "Wailukum"
+    },
+    {
+      "code": 8206102002,
+      "name": "Soalaipoh"
+    },
+    {
+      "code": 8206102003,
+      "name": "Soasangaji"
+    },
+    {
+      "code": 8206102004,
+      "name": "Soagimalaha"
+    },
+    {
+      "code": 8206102005,
+      "name": "Maba Sangaji"
+    },
+    {
+      "code": 8206102006,
+      "name": "Tewil"
+    }
+  ]
+}

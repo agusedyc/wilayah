@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8202082001,
+      "name": "Banemo"
+    },
+    {
+      "code": 8202082002,
+      "name": "Bobane Jaya"
+    },
+    {
+      "code": 8202082003,
+      "name": "Bobane Indah"
+    },
+    {
+      "code": 8202082004,
+      "name": "Mareala"
+    },
+    {
+      "code": 8202082005,
+      "name": "Sibenpope"
+    }
+  ]
+}

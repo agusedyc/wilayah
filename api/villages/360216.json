@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3602162004,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3602162006,
+      "name": "Cipalabuh"
+    },
+    {
+      "code": 3602162007,
+      "name": "Cijaku"
+    },
+    {
+      "code": 3602162008,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3602162012,
+      "name": "Ciapus"
+    },
+    {
+      "code": 3602162013,
+      "name": "Kandangsapi"
+    },
+    {
+      "code": 3602162014,
+      "name": "Cihujan"
+    },
+    {
+      "code": 3602162015,
+      "name": "Cimenga"
+    },
+    {
+      "code": 3602162016,
+      "name": "Kapunduhan"
+    },
+    {
+      "code": 3602162017,
+      "name": "Sukasenang"
+    }
+  ]
+}

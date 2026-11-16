@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1214152001,
+      "name": "Hilitotao"
+    },
+    {
+      "code": 1214152002,
+      "name": "Hiliorudua"
+    },
+    {
+      "code": 1214152003,
+      "name": "Sisobambowo"
+    },
+    {
+      "code": 1214152004,
+      "name": "Hiliamauzula"
+    },
+    {
+      "code": 1214152005,
+      "name": "Aramo"
+    },
+    {
+      "code": 1214152006,
+      "name": "Sikhorilafau"
+    },
+    {
+      "code": 1214152007,
+      "name": "Hilifadolo"
+    },
+    {
+      "code": 1214152008,
+      "name": "Hume"
+    },
+    {
+      "code": 1214152009,
+      "name": "Dao-dao"
+    },
+    {
+      "code": 1214152010,
+      "name": "Hilimagiao"
+    },
+    {
+      "code": 1214152011,
+      "name": "Hilisawato"
+    },
+    {
+      "code": 1214152012,
+      "name": "Balohao"
+    },
+    {
+      "code": 1214152013,
+      "name": "Hiligafoa"
+    },
+    {
+      "code": 1214152014,
+      "name": "Hilimbowo"
+    },
+    {
+      "code": 1214152015,
+      "name": "Hilimezaya"
+    },
+    {
+      "code": 1214152016,
+      "name": "Hiliadolowa"
+    },
+    {
+      "code": 1214152017,
+      "name": "Hiligumbu"
+    },
+    {
+      "code": 1214152018,
+      "name": "Bagoa"
+    }
+  ]
+}

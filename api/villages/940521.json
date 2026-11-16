@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405212001,
+      "name": "Tuput"
+    },
+    {
+      "code": 9405212002,
+      "name": "Wenggen'ambut"
+    },
+    {
+      "code": 9405212003,
+      "name": "Wamiru"
+    },
+    {
+      "code": 9405212004,
+      "name": "Piluwolu"
+    },
+    {
+      "code": 9405212005,
+      "name": "Tenawi"
+    },
+    {
+      "code": 9405212006,
+      "name": "Wanombut"
+    },
+    {
+      "code": 9405212007,
+      "name": "Pumbanak"
+    }
+  ]
+}

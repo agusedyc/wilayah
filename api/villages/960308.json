@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603082001,
+      "name": "Puper"
+    },
+    {
+      "code": 9603082002,
+      "name": "Yenbekaki"
+    },
+    {
+      "code": 9603082003,
+      "name": "Urbinasopen"
+    },
+    {
+      "code": 9603082004,
+      "name": "Yensner"
+    }
+  ]
+}

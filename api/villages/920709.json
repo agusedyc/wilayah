@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9207092001,
+      "name": "Ambumi"
+    },
+    {
+      "code": 9207092002,
+      "name": "Nanimori"
+    },
+    {
+      "code": 9207092003,
+      "name": "Dusner"
+    },
+    {
+      "code": 9207092004,
+      "name": "Yerenusi"
+    },
+    {
+      "code": 9207092005,
+      "name": "Sobiar"
+    },
+    {
+      "code": 9207092006,
+      "name": "Simei"
+    }
+  ]
+}

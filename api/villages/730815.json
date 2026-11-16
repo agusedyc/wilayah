@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7308152001,
+      "name": "Cinenung"
+    },
+    {
+      "code": 7308152002,
+      "name": "Siame"
+    },
+    {
+      "code": 7308152003,
+      "name": "Pasempe"
+    },
+    {
+      "code": 7308152004,
+      "name": "Ureng"
+    },
+    {
+      "code": 7308152005,
+      "name": "Usa"
+    },
+    {
+      "code": 7308152006,
+      "name": "Mico"
+    },
+    {
+      "code": 7308152007,
+      "name": "Bainang"
+    },
+    {
+      "code": 7308152008,
+      "name": "Passippo"
+    },
+    {
+      "code": 7308152009,
+      "name": "Tanah Tengnga"
+    },
+    {
+      "code": 7308152010,
+      "name": "Tirong"
+    },
+    {
+      "code": 7308152011,
+      "name": "Mattanete Bua"
+    },
+    {
+      "code": 7308152012,
+      "name": "Maduri"
+    },
+    {
+      "code": 7308152013,
+      "name": "Melle"
+    },
+    {
+      "code": 7308152014,
+      "name": "Lemoape"
+    },
+    {
+      "code": 7308152015,
+      "name": "Panyili"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6306072001,
+      "name": "Muning Baru"
+    },
+    {
+      "code": 6306072002,
+      "name": "Muning Dalam"
+    },
+    {
+      "code": 6306072003,
+      "name": "Muning Tengah"
+    },
+    {
+      "code": 6306072004,
+      "name": "Banjarbaru"
+    },
+    {
+      "code": 6306072005,
+      "name": "Bayanan"
+    },
+    {
+      "code": 6306072006,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 6306072007,
+      "name": "Pihanin Raya"
+    },
+    {
+      "code": 6306072008,
+      "name": "Tumbukan Banyu"
+    },
+    {
+      "code": 6306072009,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 6306072010,
+      "name": "Habirau"
+    },
+    {
+      "code": 6306072011,
+      "name": "Habirau Tengah"
+    },
+    {
+      "code": 6306072012,
+      "name": "Parigi"
+    },
+    {
+      "code": 6306072013,
+      "name": "Banua Hanyar"
+    },
+    {
+      "code": 6306072014,
+      "name": "Tambangan"
+    },
+    {
+      "code": 6306072015,
+      "name": "Baruh Jaya"
+    },
+    {
+      "code": 6306072016,
+      "name": "Samuda"
+    }
+  ]
+}

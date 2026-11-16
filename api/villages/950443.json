@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504432001,
+      "name": "Bogonuk"
+    },
+    {
+      "code": 9504432002,
+      "name": "Wisman"
+    },
+    {
+      "code": 9504432003,
+      "name": "Paba"
+    },
+    {
+      "code": 9504432004,
+      "name": "Ewan"
+    },
+    {
+      "code": 9504432005,
+      "name": "Wumelak"
+    },
+    {
+      "code": 9504432006,
+      "name": "Walelo"
+    },
+    {
+      "code": 9504432007,
+      "name": "Laura"
+    },
+    {
+      "code": 9504432008,
+      "name": "Talinamber"
+    },
+    {
+      "code": 9504432009,
+      "name": "Aliduda"
+    },
+    {
+      "code": 9504432010,
+      "name": "Andomak"
+    }
+  ]
+}

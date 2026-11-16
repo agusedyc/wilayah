@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3403112001,
+      "name": "Bohol"
+    },
+    {
+      "code": 3403112002,
+      "name": "Pringombo"
+    },
+    {
+      "code": 3403112003,
+      "name": "Botodayaan"
+    },
+    {
+      "code": 3403112004,
+      "name": "Petir"
+    },
+    {
+      "code": 3403112005,
+      "name": "Pucanganom"
+    },
+    {
+      "code": 3403112006,
+      "name": "Semugih"
+    },
+    {
+      "code": 3403112007,
+      "name": "Melikan"
+    },
+    {
+      "code": 3403112008,
+      "name": "Karangwuni"
+    }
+  ]
+}

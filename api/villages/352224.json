@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3522242001,
+      "name": "Semawot"
+    },
+    {
+      "code": 3522242002,
+      "name": "Kalicilik"
+    },
+    {
+      "code": 3522242003,
+      "name": "Sukosewu"
+    },
+    {
+      "code": 3522242004,
+      "name": "Klepek"
+    },
+    {
+      "code": 3522242005,
+      "name": "Tegalkodo"
+    },
+    {
+      "code": 3522242006,
+      "name": "Sitiaji"
+    },
+    {
+      "code": 3522242007,
+      "name": "Purwoasri"
+    },
+    {
+      "code": 3522242008,
+      "name": "Pacing"
+    },
+    {
+      "code": 3522242009,
+      "name": "Jumput"
+    },
+    {
+      "code": 3522242010,
+      "name": "Duyungan"
+    },
+    {
+      "code": 3522242011,
+      "name": "Semenkidul"
+    },
+    {
+      "code": 3522242012,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 3522242013,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3522242014,
+      "name": "Sumberjokidul"
+    }
+  ]
+}

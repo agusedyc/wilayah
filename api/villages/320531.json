@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3205312001,
+      "name": "Bungbulang"
+    },
+    {
+      "code": 3205312002,
+      "name": "Hanjuang"
+    },
+    {
+      "code": 3205312003,
+      "name": "Gunamekar"
+    },
+    {
+      "code": 3205312004,
+      "name": "Tegallega"
+    },
+    {
+      "code": 3205312005,
+      "name": "Mekarbakti"
+    },
+    {
+      "code": 3205312006,
+      "name": "Margalaksana"
+    },
+    {
+      "code": 3205312007,
+      "name": "Bojong"
+    },
+    {
+      "code": 3205312008,
+      "name": "Sinarjaya"
+    },
+    {
+      "code": 3205312009,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3205312010,
+      "name": "Cihikeu"
+    },
+    {
+      "code": 3205312011,
+      "name": "Wangunjaya"
+    },
+    {
+      "code": 3205312012,
+      "name": "Gunung Jampang"
+    },
+    {
+      "code": 3205312013,
+      "name": "Hegarmanah"
+    }
+  ]
+}

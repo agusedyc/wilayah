@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5301302001,
+      "name": "Fatumonas"
+    },
+    {
+      "code": 5301302002,
+      "name": "Binafun"
+    },
+    {
+      "code": 5301302003,
+      "name": "Bitobe"
+    },
+    {
+      "code": 5301302004,
+      "name": "Bonmuti"
+    }
+  ]
+}

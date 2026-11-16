@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3529152001,
+      "name": "Mandala"
+    },
+    {
+      "code": 3529152002,
+      "name": "Pakondang"
+    },
+    {
+      "code": 3529152003,
+      "name": "Matanair"
+    },
+    {
+      "code": 3529152004,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3529152005,
+      "name": "Banasare"
+    },
+    {
+      "code": 3529152006,
+      "name": "Bunbarat"
+    },
+    {
+      "code": 3529152007,
+      "name": "Karang Nangka"
+    },
+    {
+      "code": 3529152008,
+      "name": "Basoka"
+    },
+    {
+      "code": 3529152009,
+      "name": "Duko"
+    },
+    {
+      "code": 3529152010,
+      "name": "Rubaru"
+    },
+    {
+      "code": 3529152011,
+      "name": "Kalebengan"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 7301011001,
+      "name": "Benteng Utara"
+    },
+    {
+      "code": 7301011002,
+      "name": "Benteng"
+    },
+    {
+      "code": 7301011003,
+      "name": "Benteng Selatan"
+    }
+  ]
+}

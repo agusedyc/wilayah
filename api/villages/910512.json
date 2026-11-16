@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9105122001,
+      "name": "Kaonda"
+    },
+    {
+      "code": 9105122002,
+      "name": "Windesi"
+    },
+    {
+      "code": 9105122003,
+      "name": "Munggui"
+    },
+    {
+      "code": 9105122004,
+      "name": "Karawi"
+    },
+    {
+      "code": 9105122005,
+      "name": "Asai"
+    },
+    {
+      "code": 9105122006,
+      "name": "Rosbori"
+    },
+    {
+      "code": 9105122007,
+      "name": "Waisani"
+    },
+    {
+      "code": 9105122008,
+      "name": "Saruman"
+    },
+    {
+      "code": 9105122009,
+      "name": "Aryobu"
+    }
+  ]
+}

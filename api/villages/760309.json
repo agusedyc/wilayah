@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7603091011,
+      "name": "Minake"
+    },
+    {
+      "code": 7603092001,
+      "name": "Malabo"
+    },
+    {
+      "code": 7603092005,
+      "name": "Sindagamanik"
+    },
+    {
+      "code": 7603092006,
+      "name": "Parondobulawan"
+    },
+    {
+      "code": 7603092007,
+      "name": "Tamalantik"
+    },
+    {
+      "code": 7603092008,
+      "name": "Mannababa"
+    },
+    {
+      "code": 7603092009,
+      "name": "Mesakada"
+    },
+    {
+      "code": 7603092010,
+      "name": "Ballabatu"
+    },
+    {
+      "code": 7603092012,
+      "name": "Pambe"
+    },
+    {
+      "code": 7603092013,
+      "name": "Salurano"
+    },
+    {
+      "code": 7603092014,
+      "name": "Talimbung"
+    },
+    {
+      "code": 7603092015,
+      "name": "Kanan"
+    }
+  ]
+}

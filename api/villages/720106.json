@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7201061020,
+      "name": "Balantak"
+    },
+    {
+      "code": 7201061030,
+      "name": "Dale-Dale"
+    },
+    {
+      "code": 7201061031,
+      "name": "Talang Batu"
+    },
+    {
+      "code": 7201062009,
+      "name": "Talima A"
+    },
+    {
+      "code": 7201062010,
+      "name": "Talima B"
+    },
+    {
+      "code": 7201062013,
+      "name": "Dolom"
+    },
+    {
+      "code": 7201062014,
+      "name": "Kiloma"
+    },
+    {
+      "code": 7201062015,
+      "name": "Ra'u"
+    },
+    {
+      "code": 7201062016,
+      "name": "Tanotu"
+    },
+    {
+      "code": 7201062017,
+      "name": "Padang"
+    },
+    {
+      "code": 7201062018,
+      "name": "Mamping"
+    },
+    {
+      "code": 7201062021,
+      "name": "Luok"
+    },
+    {
+      "code": 7201062027,
+      "name": "Boloak"
+    }
+  ]
+}

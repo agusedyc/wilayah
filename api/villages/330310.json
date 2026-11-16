@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3303102001,
+      "name": "Serang"
+    },
+    {
+      "code": 3303102002,
+      "name": "Kutabawa"
+    },
+    {
+      "code": 3303102003,
+      "name": "Siwarak"
+    },
+    {
+      "code": 3303102004,
+      "name": "Tlahab Lor"
+    },
+    {
+      "code": 3303102005,
+      "name": "Tlahab Kidul"
+    },
+    {
+      "code": 3303102006,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3303102007,
+      "name": "Gondang"
+    }
+  ]
+}

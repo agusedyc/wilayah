@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3202011001,
+      "name": "Palabuhanratu"
+    },
+    {
+      "code": 3202012002,
+      "name": "Tonjong"
+    },
+    {
+      "code": 3202012003,
+      "name": "Citepus"
+    },
+    {
+      "code": 3202012004,
+      "name": "Buniwangi"
+    },
+    {
+      "code": 3202012005,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3202012006,
+      "name": "Pasirsuren"
+    },
+    {
+      "code": 3202012007,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3202012008,
+      "name": "Citarik"
+    },
+    {
+      "code": 3202012009,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3202012010,
+      "name": "Jayanti"
+    }
+  ]
+}

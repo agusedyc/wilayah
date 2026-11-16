@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9105052001,
+      "name": "Poom I"
+    },
+    {
+      "code": 9105052003,
+      "name": "Serewen"
+    },
+    {
+      "code": 9105052006,
+      "name": "Poom II"
+    },
+    {
+      "code": 9105052007,
+      "name": "Mokiroan"
+    },
+    {
+      "code": 9105052011,
+      "name": "Rarisi"
+    },
+    {
+      "code": 9105052012,
+      "name": "Warioi"
+    },
+    {
+      "code": 9105052015,
+      "name": "Humbe Awai"
+    },
+    {
+      "code": 9105052016,
+      "name": "Nurawi"
+    }
+  ]
+}

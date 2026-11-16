@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3310072001,
+      "name": "Gondang"
+    },
+    {
+      "code": 3310072002,
+      "name": "Basin"
+    },
+    {
+      "code": 3310072003,
+      "name": "Pluneng"
+    },
+    {
+      "code": 3310072004,
+      "name": "Ngrundul"
+    },
+    {
+      "code": 3310072005,
+      "name": "Malangjiwan"
+    },
+    {
+      "code": 3310072006,
+      "name": "Karangduren"
+    },
+    {
+      "code": 3310072007,
+      "name": "Menden"
+    }
+  ]
+}

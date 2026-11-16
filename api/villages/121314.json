@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1213141024,
+      "name": "Simpang Gambir"
+    },
+    {
+      "code": 1213141028,
+      "name": "Tapus"
+    },
+    {
+      "code": 1213142001,
+      "name": "Aek Garingging"
+    },
+    {
+      "code": 1213142002,
+      "name": "Aek Manyuruk"
+    },
+    {
+      "code": 1213142003,
+      "name": "Bandar Limabung"
+    },
+    {
+      "code": 1213142006,
+      "name": "Lancat"
+    },
+    {
+      "code": 1213142010,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1213142011,
+      "name": "Lobung"
+    },
+    {
+      "code": 1213142014,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 1213142015,
+      "name": "Perk. Simpang Gambir"
+    },
+    {
+      "code": 1213142019,
+      "name": "Sikumbu"
+    },
+    {
+      "code": 1213142021,
+      "name": "Simpang Bajole"
+    },
+    {
+      "code": 1213142022,
+      "name": "Simpang Duku"
+    },
+    {
+      "code": 1213142023,
+      "name": "Simpang Durian"
+    },
+    {
+      "code": 1213142025,
+      "name": "Simpang Koje"
+    },
+    {
+      "code": 1213142029,
+      "name": "Dalan Lidang"
+    },
+    {
+      "code": 1213142031,
+      "name": "Bonca Bayuon"
+    },
+    {
+      "code": 1213142034,
+      "name": "Perbatasan"
+    },
+    {
+      "code": 1213142035,
+      "name": "Tangsi Atas"
+    }
+  ]
+}

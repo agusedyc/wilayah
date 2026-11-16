@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5202101001,
+      "name": "Gerantung"
+    },
+    {
+      "code": 5202101002,
+      "name": "Jontlak"
+    },
+    {
+      "code": 5202101003,
+      "name": "Sasake"
+    },
+    {
+      "code": 5202102004,
+      "name": "Jurang Jaler"
+    },
+    {
+      "code": 5202102005,
+      "name": "Beraim"
+    },
+    {
+      "code": 5202102006,
+      "name": "Batunyala"
+    },
+    {
+      "code": 5202102007,
+      "name": "Lajut"
+    },
+    {
+      "code": 5202102008,
+      "name": "Pengadang"
+    },
+    {
+      "code": 5202102009,
+      "name": "Kelebuh"
+    },
+    {
+      "code": 5202102010,
+      "name": "Pejanggik"
+    },
+    {
+      "code": 5202102011,
+      "name": "Dakung"
+    },
+    {
+      "code": 5202102012,
+      "name": "Prai Meke"
+    },
+    {
+      "code": 5202102013,
+      "name": "Lelong"
+    }
+  ]
+}

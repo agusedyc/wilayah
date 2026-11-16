@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 6104142001,
+      "name": "Periangan"
+    },
+    {
+      "code": 6104142002,
+      "name": "Tanggerang"
+    },
+    {
+      "code": 6104142003,
+      "name": "Kesuma Jaya"
+    },
+    {
+      "code": 6104142004,
+      "name": "Penyarang"
+    },
+    {
+      "code": 6104142005,
+      "name": "Biku Sarana"
+    },
+    {
+      "code": 6104142006,
+      "name": "Semantun"
+    },
+    {
+      "code": 6104142007,
+      "name": "Riam Danau Kanan"
+    },
+    {
+      "code": 6104142008,
+      "name": "Limpang"
+    },
+    {
+      "code": 6104142009,
+      "name": "Pasir Mayang"
+    },
+    {
+      "code": 6104142010,
+      "name": "Tebing Berseri"
+    },
+    {
+      "code": 6104142011,
+      "name": "Deranuk"
+    },
+    {
+      "code": 6104142012,
+      "name": "Rangga Intan"
+    },
+    {
+      "code": 6104142013,
+      "name": "Pangkalan Suka"
+    },
+    {
+      "code": 6104142014,
+      "name": "Teluk Runjai"
+    },
+    {
+      "code": 6104142015,
+      "name": "Asam Jelai"
+    },
+    {
+      "code": 6104142016,
+      "name": "Air Dua"
+    },
+    {
+      "code": 6104142017,
+      "name": "Sidahari"
+    },
+    {
+      "code": 6104142018,
+      "name": "Kusik Batu Lapu"
+    },
+    {
+      "code": 6104142019,
+      "name": "Karang Dangin"
+    },
+    {
+      "code": 6104142020,
+      "name": "Perigi"
+    },
+    {
+      "code": 6104142021,
+      "name": "Bayam Raya"
+    },
+    {
+      "code": 6104142022,
+      "name": "Pangkalan Paket"
+    }
+  ]
+}

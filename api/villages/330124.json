@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3301242001,
+      "name": "Ujunggagak"
+    },
+    {
+      "code": 3301242002,
+      "name": "Ujungalang"
+    },
+    {
+      "code": 3301242003,
+      "name": "Panikel"
+    },
+    {
+      "code": 3301242004,
+      "name": "Klaces"
+    }
+  ]
+}

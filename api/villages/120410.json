@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1204102005,
+      "name": "Hilimoasio"
+    },
+    {
+      "code": 1204102006,
+      "name": "Tetegeona'ai"
+    },
+    {
+      "code": 1204102007,
+      "name": "Laowo Hilimbaruzo"
+    },
+    {
+      "code": 1204102008,
+      "name": "Hililawa'e"
+    },
+    {
+      "code": 1204102009,
+      "name": "Tuhewaebu"
+    },
+    {
+      "code": 1204102014,
+      "name": "Sisobahili Iraonohura"
+    },
+    {
+      "code": 1204102015,
+      "name": "Bozihona"
+    },
+    {
+      "code": 1204102016,
+      "name": "Oladano"
+    },
+    {
+      "code": 1204102017,
+      "name": "Ahedano"
+    },
+    {
+      "code": 1204102018,
+      "name": "Hilina'a Tafuo"
+    },
+    {
+      "code": 1204102019,
+      "name": "Hilionozega"
+    },
+    {
+      "code": 1204102020,
+      "name": "Mondrali"
+    },
+    {
+      "code": 1204102022,
+      "name": "Tetehosi"
+    },
+    {
+      "code": 1204102023,
+      "name": "Saiwahili Hiliadulo"
+    },
+    {
+      "code": 1204102024,
+      "name": "Maliwa'a"
+    },
+    {
+      "code": 1204102025,
+      "name": "Biouti"
+    },
+    {
+      "code": 1204102026,
+      "name": "Awoni Lauso"
+    },
+    {
+      "code": 1204102027,
+      "name": "Bobozioli Loloana'a"
+    },
+    {
+      "code": 1204102028,
+      "name": "Sandruta"
+    },
+    {
+      "code": 1204102029,
+      "name": "Laira"
+    },
+    {
+      "code": 1204102030,
+      "name": "Otalua"
+    },
+    {
+      "code": 1204102031,
+      "name": "Baruzo"
+    },
+    {
+      "code": 1204102032,
+      "name": "Orahili Zuzundrao"
+    },
+    {
+      "code": 1204102033,
+      "name": "Tiga Serangkai Maliwa'a"
+    },
+    {
+      "code": 1204102034,
+      "name": "Hiligogowaya Maliwa'a"
+    },
+    {
+      "code": 1204102035,
+      "name": "Hili'adulo"
+    },
+    {
+      "code": 1204102036,
+      "name": "Hilimoasio Dua"
+    },
+    {
+      "code": 1204102037,
+      "name": "Biouti Timur"
+    }
+  ]
+}

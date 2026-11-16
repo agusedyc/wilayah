@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1406072001,
+      "name": "Rambah Samo"
+    },
+    {
+      "code": 1406072002,
+      "name": "Rambah Samo Barat"
+    },
+    {
+      "code": 1406072003,
+      "name": "Rambah Baru"
+    },
+    {
+      "code": 1406072004,
+      "name": "Rambah Utama"
+    },
+    {
+      "code": 1406072005,
+      "name": "Pasir Makmur"
+    },
+    {
+      "code": 1406072006,
+      "name": "Karya Mulya"
+    },
+    {
+      "code": 1406072007,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1406072008,
+      "name": "Langkitin"
+    },
+    {
+      "code": 1406072009,
+      "name": "Masda Makmur"
+    },
+    {
+      "code": 1406072010,
+      "name": "Lubuk Napal"
+    },
+    {
+      "code": 1406072011,
+      "name": "Teluk Aur"
+    },
+    {
+      "code": 1406072012,
+      "name": "Sei Salak"
+    },
+    {
+      "code": 1406072013,
+      "name": "Sei Kuning"
+    },
+    {
+      "code": 1406072014,
+      "name": "Lubuk Bilang"
+    }
+  ]
+}

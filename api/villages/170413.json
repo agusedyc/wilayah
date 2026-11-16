@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1704132001,
+      "name": "Datar Lebar"
+    },
+    {
+      "code": 1704132002,
+      "name": "Tanjung Bunian"
+    },
+    {
+      "code": 1704132003,
+      "name": "Sinar Bulan"
+    },
+    {
+      "code": 1704132004,
+      "name": "Sukananti"
+    },
+    {
+      "code": 1704132005,
+      "name": "Lawang Agung"
+    },
+    {
+      "code": 1704132006,
+      "name": "Tanjung Kurung"
+    },
+    {
+      "code": 1704132007,
+      "name": "Senak"
+    },
+    {
+      "code": 1704132008,
+      "name": "Datar Lebar II"
+    },
+    {
+      "code": 1704132009,
+      "name": "Aur Gading"
+    }
+  ]
+}

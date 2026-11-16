@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3211022001,
+      "name": "Jatinunggal"
+    },
+    {
+      "code": 3211022002,
+      "name": "Tarikolot"
+    },
+    {
+      "code": 3211022003,
+      "name": "Pawenang"
+    },
+    {
+      "code": 3211022004,
+      "name": "Sarimekar"
+    },
+    {
+      "code": 3211022005,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3211022006,
+      "name": "Kirisik"
+    },
+    {
+      "code": 3211022007,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3211022008,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3211022009,
+      "name": "Cimanintin"
+    }
+  ]
+}

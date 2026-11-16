@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1304142001,
+      "name": "Batu Taba"
+    },
+    {
+      "code": 1304142002,
+      "name": "Sumpur"
+    },
+    {
+      "code": 1304142003,
+      "name": "Padang Laweh Malalo"
+    },
+    {
+      "code": 1304142004,
+      "name": "Guguak Malalo"
+    }
+  ]
+}

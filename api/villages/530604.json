@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5306042001,
+      "name": "Wailolong"
+    },
+    {
+      "code": 5306042002,
+      "name": "Lewoloba"
+    },
+    {
+      "code": 5306042003,
+      "name": "Tiwatobi"
+    },
+    {
+      "code": 5306042004,
+      "name": "Watotutu"
+    },
+    {
+      "code": 5306042005,
+      "name": "Riangkemie"
+    },
+    {
+      "code": 5306042006,
+      "name": "Lewohala"
+    },
+    {
+      "code": 5306042007,
+      "name": "Halakodanuan"
+    },
+    {
+      "code": 5306042008,
+      "name": "Mudakeputu"
+    }
+  ]
+}

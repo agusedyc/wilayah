@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8204082001,
+      "name": "Labuha"
+    },
+    {
+      "code": 8204082002,
+      "name": "Amasing Kota"
+    },
+    {
+      "code": 8204082003,
+      "name": "Amasing Kali"
+    },
+    {
+      "code": 8204082004,
+      "name": "Tomori"
+    },
+    {
+      "code": 8204082009,
+      "name": "Indomut"
+    },
+    {
+      "code": 8204082010,
+      "name": "Belang Belang"
+    },
+    {
+      "code": 8204082026,
+      "name": "Sumae"
+    },
+    {
+      "code": 8204082027,
+      "name": "Kaputusan"
+    },
+    {
+      "code": 8204082030,
+      "name": "Amasing Kota Barat"
+    },
+    {
+      "code": 8204082031,
+      "name": "Amasing Kota Utara"
+    },
+    {
+      "code": 8204082032,
+      "name": "Awanggoa"
+    },
+    {
+      "code": 8204082036,
+      "name": "Suma Tinggi"
+    },
+    {
+      "code": 8204082040,
+      "name": "Hidayat"
+    },
+    {
+      "code": 8204082041,
+      "name": "Marabose"
+    }
+  ]
+}

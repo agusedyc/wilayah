@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3211132001,
+      "name": "Cigendel"
+    },
+    {
+      "code": 3211132002,
+      "name": "Cijeruk"
+    },
+    {
+      "code": 3211132003,
+      "name": "Pamulihan"
+    },
+    {
+      "code": 3211132004,
+      "name": "Haurngombong"
+    },
+    {
+      "code": 3211132005,
+      "name": "Cilembu"
+    },
+    {
+      "code": 3211132006,
+      "name": "Cimarias"
+    },
+    {
+      "code": 3211132007,
+      "name": "Cinanggerang"
+    },
+    {
+      "code": 3211132008,
+      "name": "Mekarbakti"
+    },
+    {
+      "code": 3211132009,
+      "name": "Sukawangi"
+    },
+    {
+      "code": 3211132010,
+      "name": "Ciptasari"
+    },
+    {
+      "code": 3211132011,
+      "name": "Citali"
+    }
+  ]
+}

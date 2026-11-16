@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3201042001,
+      "name": "Gunung Geulis"
+    },
+    {
+      "code": 3201042002,
+      "name": "Cilebut Timur"
+    },
+    {
+      "code": 3201042003,
+      "name": "Cilebut Barat"
+    },
+    {
+      "code": 3201042004,
+      "name": "Cibanon"
+    },
+    {
+      "code": 3201042005,
+      "name": "Nagrak"
+    },
+    {
+      "code": 3201042006,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3201042007,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3201042008,
+      "name": "Cikeas"
+    },
+    {
+      "code": 3201042009,
+      "name": "Pasirjambu"
+    },
+    {
+      "code": 3201042010,
+      "name": "Cimandala"
+    },
+    {
+      "code": 3201042011,
+      "name": "Cijujung"
+    },
+    {
+      "code": 3201042012,
+      "name": "Cadasngampar"
+    },
+    {
+      "code": 3201042013,
+      "name": "Pasirlaja"
+    }
+  ]
+}

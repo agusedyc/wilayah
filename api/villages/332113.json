@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3321132001,
+      "name": "Wedung"
+    },
+    {
+      "code": 3321132002,
+      "name": "Ngawen"
+    },
+    {
+      "code": 3321132003,
+      "name": "Ruwit"
+    },
+    {
+      "code": 3321132004,
+      "name": "Kenduren"
+    },
+    {
+      "code": 3321132005,
+      "name": "Buko"
+    },
+    {
+      "code": 3321132006,
+      "name": "Mandung"
+    },
+    {
+      "code": 3321132007,
+      "name": "Berahan Kulon"
+    },
+    {
+      "code": 3321132008,
+      "name": "Berahan Wetan"
+    },
+    {
+      "code": 3321132009,
+      "name": "Bungo"
+    },
+    {
+      "code": 3321132010,
+      "name": "Tempel"
+    },
+    {
+      "code": 3321132011,
+      "name": "Jetak"
+    },
+    {
+      "code": 3321132012,
+      "name": "Jungsemi"
+    },
+    {
+      "code": 3321132013,
+      "name": "Jungpasir"
+    },
+    {
+      "code": 3321132014,
+      "name": "Mutihwetan"
+    },
+    {
+      "code": 3321132015,
+      "name": "Babalan"
+    },
+    {
+      "code": 3321132016,
+      "name": "Mutihkulon"
+    },
+    {
+      "code": 3321132017,
+      "name": "Tedunan"
+    },
+    {
+      "code": 3321132018,
+      "name": "Kendalasem"
+    },
+    {
+      "code": 3321132019,
+      "name": "Kedungmutih"
+    },
+    {
+      "code": 3321132020,
+      "name": "Kedungkarang"
+    }
+  ]
+}

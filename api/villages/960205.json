@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9602052001,
+      "name": "Moswaren"
+    },
+    {
+      "code": 9602052002,
+      "name": "Johsiro"
+    },
+    {
+      "code": 9602052003,
+      "name": "Hararo"
+    },
+    {
+      "code": 9602052004,
+      "name": "Bumi Ajo"
+    },
+    {
+      "code": 9602052005,
+      "name": "Hasik Jaya"
+    },
+    {
+      "code": 9602052006,
+      "name": "Kamisabe"
+    },
+    {
+      "code": 9602052007,
+      "name": "Tokass"
+    }
+  ]
+}

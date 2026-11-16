@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3674051001,
+      "name": "Cempaka Putih"
+    },
+    {
+      "code": 3674051002,
+      "name": "Pondok Ranji"
+    },
+    {
+      "code": 3674051003,
+      "name": "Pisangan"
+    },
+    {
+      "code": 3674051004,
+      "name": "Cireundeu"
+    },
+    {
+      "code": 3674051005,
+      "name": "Rempoa"
+    },
+    {
+      "code": 3674051006,
+      "name": "Rengas"
+    }
+  ]
+}

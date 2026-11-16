@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5303061015,
+      "name": "Boronubaen Timur"
+    },
+    {
+      "code": 5303062001,
+      "name": "Boronubaen"
+    },
+    {
+      "code": 5303062002,
+      "name": "Hautaes"
+    },
+    {
+      "code": 5303062003,
+      "name": "Tualena"
+    },
+    {
+      "code": 5303062004,
+      "name": "Biloe"
+    },
+    {
+      "code": 5303062005,
+      "name": "Taunbaen"
+    },
+    {
+      "code": 5303062006,
+      "name": "Sapaen"
+    },
+    {
+      "code": 5303062012,
+      "name": "Lokomea"
+    },
+    {
+      "code": 5303062013,
+      "name": "Taunbaen Timur"
+    },
+    {
+      "code": 5303062014,
+      "name": "Hauteas Barat"
+    }
+  ]
+}

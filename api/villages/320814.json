@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3208142001,
+      "name": "Cirea"
+    },
+    {
+      "code": 3208142002,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3208142003,
+      "name": "Seda"
+    },
+    {
+      "code": 3208142004,
+      "name": "Trijaya"
+    },
+    {
+      "code": 3208142005,
+      "name": "Randobawagirang"
+    },
+    {
+      "code": 3208142006,
+      "name": "Pakembangan"
+    },
+    {
+      "code": 3208142007,
+      "name": "Randobawailir"
+    },
+    {
+      "code": 3208142008,
+      "name": "Kertawinangun"
+    },
+    {
+      "code": 3208142009,
+      "name": "Mandirancan"
+    },
+    {
+      "code": 3208142010,
+      "name": "Nanggela"
+    },
+    {
+      "code": 3208142011,
+      "name": "Nanggerangjaya"
+    },
+    {
+      "code": 3208142012,
+      "name": "Salakadomas"
+    }
+  ]
+}

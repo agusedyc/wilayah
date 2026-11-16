@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3208312001,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3208312002,
+      "name": "Kaduagung"
+    },
+    {
+      "code": 3208312003,
+      "name": "Kertaungaran"
+    },
+    {
+      "code": 3208312004,
+      "name": "Sindangagung"
+    },
+    {
+      "code": 3208312005,
+      "name": "Balong"
+    },
+    {
+      "code": 3208312006,
+      "name": "Kertayasa"
+    },
+    {
+      "code": 3208312007,
+      "name": "Kertawangunan"
+    },
+    {
+      "code": 3208312008,
+      "name": "Babakanreuma"
+    },
+    {
+      "code": 3208312009,
+      "name": "Tirtawangunan"
+    },
+    {
+      "code": 3208312010,
+      "name": "Dukuhlor"
+    },
+    {
+      "code": 3208312011,
+      "name": "Taraju"
+    },
+    {
+      "code": 3208312012,
+      "name": "Mekarmukti"
+    }
+  ]
+}

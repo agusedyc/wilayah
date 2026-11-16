@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1103182001,
+      "name": "Beusa Seberang"
+    },
+    {
+      "code": 1103182002,
+      "name": "Mon Geudong"
+    },
+    {
+      "code": 1103182003,
+      "name": "Paya Seungat"
+    },
+    {
+      "code": 1103182004,
+      "name": "Teumpeun"
+    },
+    {
+      "code": 1103182005,
+      "name": "Alue Bu Tuha"
+    },
+    {
+      "code": 1103182006,
+      "name": "Alue Bu Jalan"
+    },
+    {
+      "code": 1103182007,
+      "name": "Tanjong Tualang"
+    },
+    {
+      "code": 1103182008,
+      "name": "Beringen"
+    },
+    {
+      "code": 1103182009,
+      "name": "Kebon Tempeun"
+    },
+    {
+      "code": 1103182010,
+      "name": "Paya Gajah"
+    },
+    {
+      "code": 1103182011,
+      "name": "Kabu"
+    },
+    {
+      "code": 1103182012,
+      "name": "Paya Biek"
+    },
+    {
+      "code": 1103182013,
+      "name": "Beusa Baroh"
+    },
+    {
+      "code": 1103182014,
+      "name": "Alue Bu Jalan Baroh"
+    },
+    {
+      "code": 1103182015,
+      "name": "Alue Bu Tunong"
+    }
+  ]
+}

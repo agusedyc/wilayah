@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1404021001,
+      "name": "Enok"
+    },
+    {
+      "code": 1404021002,
+      "name": "Pusaran"
+    },
+    {
+      "code": 1404021003,
+      "name": "Telukmedan"
+    },
+    {
+      "code": 1404021013,
+      "name": "Pantaiseberang Makmur"
+    },
+    {
+      "code": 1404022004,
+      "name": "Pengalihan"
+    },
+    {
+      "code": 1404022005,
+      "name": "Sungaiambat"
+    },
+    {
+      "code": 1404022006,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1404022007,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1404022008,
+      "name": "Sungairukam"
+    },
+    {
+      "code": 1404022009,
+      "name": "Bagan Jaya"
+    },
+    {
+      "code": 1404022010,
+      "name": "Suhada"
+    },
+    {
+      "code": 1404022011,
+      "name": "Jaya Bhakti"
+    },
+    {
+      "code": 1404022012,
+      "name": "Sungailokan"
+    },
+    {
+      "code": 1404022014,
+      "name": "Simpang Tiga Daratan"
+    }
+  ]
+}

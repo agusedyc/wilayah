@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9401142001,
+      "name": "Epouwa"
+    },
+    {
+      "code": 9401142002,
+      "name": "Dikiya"
+    },
+    {
+      "code": 9401142003,
+      "name": "Tagauto"
+    },
+    {
+      "code": 9401142004,
+      "name": "Jigikebo"
+    },
+    {
+      "code": 9401142005,
+      "name": "Jainoa"
+    }
+  ]
+}

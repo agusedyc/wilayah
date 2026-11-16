@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9502162001,
+      "name": "Kungulding"
+    },
+    {
+      "code": 9502162002,
+      "name": "Bulangkop"
+    },
+    {
+      "code": 9502162003,
+      "name": "Limarum"
+    },
+    {
+      "code": 9502162004,
+      "name": "Yumakot"
+    },
+    {
+      "code": 9502162005,
+      "name": "Aplim"
+    },
+    {
+      "code": 9502162006,
+      "name": "Okdo"
+    }
+  ]
+}

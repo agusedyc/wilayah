@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3402072001,
+      "name": "Triwidadi"
+    },
+    {
+      "code": 3402072002,
+      "name": "Sendangsari"
+    },
+    {
+      "code": 3402072003,
+      "name": "Guwosari"
+    }
+  ]
+}

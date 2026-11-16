@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5311152001,
+      "name": "Prai Bakul"
+    },
+    {
+      "code": 5311152002,
+      "name": "Katikutana"
+    },
+    {
+      "code": 5311152003,
+      "name": "Karipi"
+    },
+    {
+      "code": 5311152004,
+      "name": "Wangga Meti"
+    },
+    {
+      "code": 5311152005,
+      "name": "Katiku Wai"
+    },
+    {
+      "code": 5311152006,
+      "name": "Katiku Luku"
+    }
+  ]
+}

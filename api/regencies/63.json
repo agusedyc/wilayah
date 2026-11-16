@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 regencies",
+  "data": [
+    {
+      "code": 6301,
+      "name": "Kabupaten Tanah Laut"
+    },
+    {
+      "code": 6302,
+      "name": "Kabupaten Kotabaru"
+    },
+    {
+      "code": 6303,
+      "name": "Kabupaten Banjar"
+    },
+    {
+      "code": 6304,
+      "name": "Kabupaten Barito Kuala"
+    },
+    {
+      "code": 6305,
+      "name": "Kabupaten Tapin"
+    },
+    {
+      "code": 6306,
+      "name": "Kabupaten Hulu Sungai Selatan"
+    },
+    {
+      "code": 6307,
+      "name": "Kabupaten Hulu Sungai Tengah"
+    },
+    {
+      "code": 6308,
+      "name": "Kabupaten Hulu Sungai Utara"
+    },
+    {
+      "code": 6309,
+      "name": "Kabupaten Tabalong"
+    },
+    {
+      "code": 6310,
+      "name": "Kabupaten Tanah Bumbu"
+    },
+    {
+      "code": 6311,
+      "name": "Kabupaten Balangan"
+    },
+    {
+      "code": 6371,
+      "name": "Kota Banjarmasin"
+    },
+    {
+      "code": 6372,
+      "name": "Kota Banjarbaru"
+    }
+  ]
+}

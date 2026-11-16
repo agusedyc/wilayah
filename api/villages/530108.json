@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5301081007,
+      "name": "Tarus"
+    },
+    {
+      "code": 5301082006,
+      "name": "Oelnasi"
+    },
+    {
+      "code": 5301082008,
+      "name": "Noelbaki"
+    },
+    {
+      "code": 5301082009,
+      "name": "Oelpuah"
+    },
+    {
+      "code": 5301082010,
+      "name": "Oebelo"
+    },
+    {
+      "code": 5301082011,
+      "name": "Penfui Timur"
+    },
+    {
+      "code": 5301082012,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 5301082013,
+      "name": "Mata Air"
+    }
+  ]
+}

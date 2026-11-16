@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1609082001,
+      "name": "Kota Dalam"
+    },
+    {
+      "code": 1609082002,
+      "name": "Teluk Agung"
+    },
+    {
+      "code": 1609082003,
+      "name": "Pulau Duku"
+    },
+    {
+      "code": 1609082004,
+      "name": "Tanjung Besar"
+    },
+    {
+      "code": 1609082005,
+      "name": "Sinar Marga"
+    },
+    {
+      "code": 1609082006,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 1609082007,
+      "name": "Galang Tinggi"
+    },
+    {
+      "code": 1609082008,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1609082009,
+      "name": "Sri Menanti"
+    },
+    {
+      "code": 1609082010,
+      "name": "Kepayang"
+    },
+    {
+      "code": 1609082011,
+      "name": "Kemang Bandung"
+    },
+    {
+      "code": 1609082012,
+      "name": "Selabung Belimbing Jaya"
+    },
+    {
+      "code": 1609082013,
+      "name": "Bunut"
+    },
+    {
+      "code": 1609082014,
+      "name": "Air Baru"
+    },
+    {
+      "code": 1609082015,
+      "name": "Pere'an"
+    }
+  ]
+}

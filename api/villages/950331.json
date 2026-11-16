@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503312001,
+      "name": "Endomen"
+    },
+    {
+      "code": 9503312002,
+      "name": "Okloma"
+    },
+    {
+      "code": 9503312003,
+      "name": "Delon"
+    },
+    {
+      "code": 9503312004,
+      "name": "Suron"
+    },
+    {
+      "code": 9503312005,
+      "name": "Sentul"
+    },
+    {
+      "code": 9503312006,
+      "name": "Gidomen"
+    },
+    {
+      "code": 9503312007,
+      "name": "Galsin"
+    },
+    {
+      "code": 9503312008,
+      "name": "Kouwet"
+    }
+  ]
+}

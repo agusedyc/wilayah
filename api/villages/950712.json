@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507122001,
+      "name": "Yirene"
+    },
+    {
+      "code": 9507122002,
+      "name": "Yogobak"
+    },
+    {
+      "code": 9507122003,
+      "name": "Kwenukwi"
+    },
+    {
+      "code": 9507122004,
+      "name": "Libungga"
+    },
+    {
+      "code": 9507122005,
+      "name": "Unom"
+    },
+    {
+      "code": 9507122006,
+      "name": "Wimolome"
+    },
+    {
+      "code": 9507122007,
+      "name": "Weneogun"
+    },
+    {
+      "code": 9507122008,
+      "name": "Berangwi"
+    }
+  ]
+}

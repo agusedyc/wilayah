@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3215052001,
+      "name": "Duren"
+    },
+    {
+      "code": 3215052002,
+      "name": "Pancawati"
+    },
+    {
+      "code": 3215052003,
+      "name": "Walahar"
+    },
+    {
+      "code": 3215052004,
+      "name": "Kiarapayung"
+    },
+    {
+      "code": 3215052005,
+      "name": "Sumurkondang"
+    },
+    {
+      "code": 3215052006,
+      "name": "Cibalongsari"
+    },
+    {
+      "code": 3215052007,
+      "name": "Klari"
+    },
+    {
+      "code": 3215052008,
+      "name": "Belendung"
+    },
+    {
+      "code": 3215052016,
+      "name": "Anggadita"
+    },
+    {
+      "code": 3215052017,
+      "name": "Gintungkerta"
+    },
+    {
+      "code": 3215052018,
+      "name": "Curug"
+    },
+    {
+      "code": 3215052019,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3215052020,
+      "name": "Cimahi"
+    }
+  ]
+}

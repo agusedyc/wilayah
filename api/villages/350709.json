@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3507091008,
+      "name": "Sedayu"
+    },
+    {
+      "code": 3507091011,
+      "name": "Turen"
+    },
+    {
+      "code": 3507092001,
+      "name": "Tawangrejeni"
+    },
+    {
+      "code": 3507092002,
+      "name": "Kemulan"
+    },
+    {
+      "code": 3507092003,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3507092004,
+      "name": "Undaan"
+    },
+    {
+      "code": 3507092005,
+      "name": "Gedok Kulon"
+    },
+    {
+      "code": 3507092006,
+      "name": "Gedok Wetan"
+    },
+    {
+      "code": 3507092007,
+      "name": "Talok"
+    },
+    {
+      "code": 3507092009,
+      "name": "Tanggung"
+    },
+    {
+      "code": 3507092010,
+      "name": "Jeru"
+    },
+    {
+      "code": 3507092012,
+      "name": "Pagedangan"
+    },
+    {
+      "code": 3507092013,
+      "name": "Sanankerto"
+    },
+    {
+      "code": 3507092014,
+      "name": "Sananrejo"
+    },
+    {
+      "code": 3507092015,
+      "name": "Kedok"
+    },
+    {
+      "code": 3507092016,
+      "name": "Talangsuko"
+    },
+    {
+      "code": 3507092017,
+      "name": "Tumpukrenteng"
+    }
+  ]
+}

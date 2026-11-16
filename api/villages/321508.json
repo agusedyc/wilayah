@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3215082001,
+      "name": "Batujaya"
+    },
+    {
+      "code": 3215082002,
+      "name": "Telukambulu"
+    },
+    {
+      "code": 3215082003,
+      "name": "Telukbango"
+    },
+    {
+      "code": 3215082004,
+      "name": "Karyabhakti"
+    },
+    {
+      "code": 3215082005,
+      "name": "Baturaden"
+    },
+    {
+      "code": 3215082006,
+      "name": "Segaran"
+    },
+    {
+      "code": 3215082007,
+      "name": "Segarjaya"
+    },
+    {
+      "code": 3215082008,
+      "name": "Kutaampel"
+    },
+    {
+      "code": 3215082009,
+      "name": "Karyamulya"
+    },
+    {
+      "code": 3215082010,
+      "name": "Karyamakmur"
+    }
+  ]
+}

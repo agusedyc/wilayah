@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6111012001,
+      "name": "Sutera"
+    },
+    {
+      "code": 6111012002,
+      "name": "Pangkalan Buton"
+    },
+    {
+      "code": 6111012003,
+      "name": "Sejahtera"
+    },
+    {
+      "code": 6111012004,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 6111012005,
+      "name": "Benawai Agung"
+    },
+    {
+      "code": 6111012006,
+      "name": "Harapan Mulia"
+    },
+    {
+      "code": 6111012007,
+      "name": "Pampang Harapan"
+    },
+    {
+      "code": 6111012008,
+      "name": "Sedahan Jaya"
+    },
+    {
+      "code": 6111012009,
+      "name": "Gunungsembilan"
+    },
+    {
+      "code": 6111012010,
+      "name": "Riam Berasap Jaya"
+    }
+  ]
+}

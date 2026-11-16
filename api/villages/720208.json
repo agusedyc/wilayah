@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7202082001,
+      "name": "Hangira"
+    },
+    {
+      "code": 7202082002,
+      "name": "Lempe"
+    },
+    {
+      "code": 7202082003,
+      "name": "Doda"
+    },
+    {
+      "code": 7202082004,
+      "name": "Bariri"
+    },
+    {
+      "code": 7202082005,
+      "name": "Torire"
+    },
+    {
+      "code": 7202082006,
+      "name": "Katu"
+    },
+    {
+      "code": 7202082007,
+      "name": "Rompo"
+    },
+    {
+      "code": 7202082008,
+      "name": "Baleura"
+    }
+  ]
+}

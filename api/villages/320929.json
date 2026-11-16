@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209292001,
+      "name": "Kalideres"
+    },
+    {
+      "code": 3209292002,
+      "name": "Prajawinangun Kulon"
+    },
+    {
+      "code": 3209292003,
+      "name": "Prajawinangun Wetan"
+    },
+    {
+      "code": 3209292004,
+      "name": "Ujungsemi"
+    },
+    {
+      "code": 3209292005,
+      "name": "Wargabinangun"
+    },
+    {
+      "code": 3209292006,
+      "name": "Kaliwedi Lor"
+    },
+    {
+      "code": 3209292007,
+      "name": "Kaliwedi Kidul"
+    },
+    {
+      "code": 3209292008,
+      "name": "Guwa Kidul"
+    },
+    {
+      "code": 3209292009,
+      "name": "Guwa Lor"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5307122001,
+      "name": "Magepanda"
+    },
+    {
+      "code": 5307122002,
+      "name": "Reroroja"
+    },
+    {
+      "code": 5307122003,
+      "name": "Done"
+    },
+    {
+      "code": 5307122004,
+      "name": "Kolisia"
+    },
+    {
+      "code": 5307122005,
+      "name": "Kolisia B"
+    },
+    {
+      "code": 5307122006,
+      "name": "Woda Mude"
+    },
+    {
+      "code": 5307122007,
+      "name": "Legu Woda"
+    },
+    {
+      "code": 5307122008,
+      "name": "Waturia"
+    }
+  ]
+}

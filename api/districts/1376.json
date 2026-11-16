@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 districts",
+  "data": [
+    {
+      "code": 137601,
+      "name": "Payakumbuh Barat"
+    },
+    {
+      "code": 137602,
+      "name": "Payakumbuh Utara"
+    },
+    {
+      "code": 137603,
+      "name": "Payakumbuh Timur"
+    },
+    {
+      "code": 137604,
+      "name": "Lamposi Tigo Nagori"
+    },
+    {
+      "code": 137605,
+      "name": "Payakumbuh Selatan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1116072001,
+      "name": "Alur Tani Satu"
+    },
+    {
+      "code": 1116072002,
+      "name": "Alur Tani Dua"
+    },
+    {
+      "code": 1116072003,
+      "name": "Bandar Khalifah"
+    },
+    {
+      "code": 1116072004,
+      "name": "Kaloy"
+    },
+    {
+      "code": 1116072005,
+      "name": "Perkebunan Pulau Tiga"
+    },
+    {
+      "code": 1116072006,
+      "name": "Harum Sari"
+    },
+    {
+      "code": 1116072007,
+      "name": "Bandar Setia"
+    },
+    {
+      "code": 1116072008,
+      "name": "Rongoh"
+    },
+    {
+      "code": 1116072010,
+      "name": "Wono Sari"
+    }
+  ]
+}

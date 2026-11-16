@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1312082001,
+      "name": "Parit"
+    },
+    {
+      "code": 1312082002,
+      "name": "Koto Tangah"
+    },
+    {
+      "code": 1312082003,
+      "name": "Koto Tuo"
+    },
+    {
+      "code": 1312082004,
+      "name": "Koto Nan Duo"
+    },
+    {
+      "code": 1312082005,
+      "name": "Pematang Panjang"
+    },
+    {
+      "code": 1312082006,
+      "name": "Ranah Koto Tinggi"
+    }
+  ]
+}

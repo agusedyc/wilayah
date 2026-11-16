@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9105172001,
+      "name": "Saweru"
+    },
+    {
+      "code": 9105172002,
+      "name": "Umani"
+    },
+    {
+      "code": 9105172003,
+      "name": "Perea"
+    },
+    {
+      "code": 9105172004,
+      "name": "Nuniandei"
+    },
+    {
+      "code": 9105172005,
+      "name": "Dorau"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7103122001,
+      "name": "Nagha I"
+    },
+    {
+      "code": 7103122002,
+      "name": "Nagha II"
+    },
+    {
+      "code": 7103122003,
+      "name": "Pokol"
+    },
+    {
+      "code": 7103122004,
+      "name": "Balane"
+    },
+    {
+      "code": 7103122005,
+      "name": "Binala"
+    },
+    {
+      "code": 7103122006,
+      "name": "Ulung Peliang"
+    },
+    {
+      "code": 7103122007,
+      "name": "Menggawa"
+    },
+    {
+      "code": 7103122008,
+      "name": "Kalinda"
+    },
+    {
+      "code": 7103122009,
+      "name": "Bebu"
+    },
+    {
+      "code": 7103122010,
+      "name": "Makalekuhe"
+    },
+    {
+      "code": 7103122011,
+      "name": "Pananaru"
+    },
+    {
+      "code": 7103122012,
+      "name": "Dagho"
+    },
+    {
+      "code": 7103122013,
+      "name": "Mahumu"
+    },
+    {
+      "code": 7103122014,
+      "name": "Lelipang"
+    },
+    {
+      "code": 7103122015,
+      "name": "Menggawa II"
+    },
+    {
+      "code": 7103122016,
+      "name": "Kalama Darat"
+    },
+    {
+      "code": 7103122017,
+      "name": "Kalinda I"
+    },
+    {
+      "code": 7103122018,
+      "name": "Mahumu I"
+    },
+    {
+      "code": 7103122019,
+      "name": "Mahumu II"
+    },
+    {
+      "code": 7103122020,
+      "name": "Hesang"
+    }
+  ]
+}

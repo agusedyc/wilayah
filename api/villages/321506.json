@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3215062001,
+      "name": "Rengasdengklok Selatan"
+    },
+    {
+      "code": 3215062002,
+      "name": "Rengasdengklok Utara"
+    },
+    {
+      "code": 3215062003,
+      "name": "Kertasari"
+    },
+    {
+      "code": 3215062004,
+      "name": "Dewisari"
+    },
+    {
+      "code": 3215062005,
+      "name": "Amansari"
+    },
+    {
+      "code": 3215062006,
+      "name": "Karyasari"
+    },
+    {
+      "code": 3215062007,
+      "name": "Dukuhkarya"
+    },
+    {
+      "code": 3215062008,
+      "name": "Kalangsari"
+    },
+    {
+      "code": 3215062009,
+      "name": "Kalangsurya"
+    }
+  ]
+}

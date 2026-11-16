@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1274011001,
+      "name": "Tanjungbalai Kota I"
+    },
+    {
+      "code": 1274011002,
+      "name": "Tanjungbalai Kota II"
+    },
+    {
+      "code": 1274011003,
+      "name": "Perwira"
+    },
+    {
+      "code": 1274011004,
+      "name": "Karya"
+    },
+    {
+      "code": 1274011005,
+      "name": "Pantai Burung"
+    },
+    {
+      "code": 1274011006,
+      "name": "Indra Sakti"
+    }
+  ]
+}

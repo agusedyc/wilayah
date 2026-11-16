@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1205081001,
+      "name": "Bingai"
+    },
+    {
+      "code": 1205082002,
+      "name": "Gohor Lama"
+    },
+    {
+      "code": 1205082003,
+      "name": "Stabat Lama"
+    },
+    {
+      "code": 1205082004,
+      "name": "Besilam Bukit Lembasa"
+    },
+    {
+      "code": 1205082005,
+      "name": "Kebun Balok"
+    },
+    {
+      "code": 1205082006,
+      "name": "Bukit Melintang"
+    },
+    {
+      "code": 1205082007,
+      "name": "Gergas"
+    },
+    {
+      "code": 1205082008,
+      "name": "Stabat Lama Barat"
+    },
+    {
+      "code": 1205082009,
+      "name": "Sumber Mulyo"
+    },
+    {
+      "code": 1205082010,
+      "name": "Pertumbukan"
+    },
+    {
+      "code": 1205082011,
+      "name": "Paya Tusam"
+    },
+    {
+      "code": 1205082012,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1205082013,
+      "name": "Jentera Stabat"
+    },
+    {
+      "code": 1205082014,
+      "name": "Stungkit"
+    }
+  ]
+}

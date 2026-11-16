@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3272011001,
+      "name": "Gunung Puyuh"
+    },
+    {
+      "code": 3272011002,
+      "name": "Karamat"
+    },
+    {
+      "code": 3272011003,
+      "name": "Sriwidari"
+    },
+    {
+      "code": 3272011004,
+      "name": "Karang Tengah"
+    }
+  ]
+}

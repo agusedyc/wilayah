@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9502302001,
+      "name": "Jetfa"
+    },
+    {
+      "code": 9502302002,
+      "name": "Lulis"
+    },
+    {
+      "code": 9502302003,
+      "name": "Tupalma Satu"
+    },
+    {
+      "code": 9502302004,
+      "name": "Tupalma Dua"
+    },
+    {
+      "code": 9502302005,
+      "name": "Kalimbu"
+    },
+    {
+      "code": 9502302006,
+      "name": "Bris"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3512062001,
+      "name": "Paowan"
+    },
+    {
+      "code": 3512062002,
+      "name": "Sumberkolak"
+    },
+    {
+      "code": 3512062003,
+      "name": "Wringinanom"
+    },
+    {
+      "code": 3512062004,
+      "name": "Kilensari"
+    },
+    {
+      "code": 3512062005,
+      "name": "Peleyan"
+    },
+    {
+      "code": 3512062006,
+      "name": "Alasmalang"
+    },
+    {
+      "code": 3512062007,
+      "name": "Duwet"
+    },
+    {
+      "code": 3512062008,
+      "name": "Gelung"
+    }
+  ]
+}

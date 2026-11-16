@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1410082001,
+      "name": "Tanjung Padang"
+    },
+    {
+      "code": 1410082002,
+      "name": "Putri Puyu"
+    },
+    {
+      "code": 1410082003,
+      "name": "Mekar Delima"
+    },
+    {
+      "code": 1410082004,
+      "name": "Dedap"
+    },
+    {
+      "code": 1410082005,
+      "name": "Kudap"
+    },
+    {
+      "code": 1410082006,
+      "name": "Bandul"
+    },
+    {
+      "code": 1410082007,
+      "name": "Selat Akar"
+    },
+    {
+      "code": 1410082008,
+      "name": "Tanjung Pisang"
+    },
+    {
+      "code": 1410082009,
+      "name": "Mengkopot"
+    },
+    {
+      "code": 1410082010,
+      "name": "Mengkirau"
+    }
+  ]
+}

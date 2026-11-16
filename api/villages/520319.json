@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5203192001,
+      "name": "Sukarara"
+    },
+    {
+      "code": 5203192002,
+      "name": "Gunung Rajak"
+    },
+    {
+      "code": 5203192003,
+      "name": "Rensing"
+    },
+    {
+      "code": 5203192004,
+      "name": "Bungtiang"
+    },
+    {
+      "code": 5203192005,
+      "name": "Pengkelak Mas"
+    },
+    {
+      "code": 5203192006,
+      "name": "Borok Toyang"
+    },
+    {
+      "code": 5203192007,
+      "name": "Rensing Raya"
+    },
+    {
+      "code": 5203192008,
+      "name": "Pematung"
+    },
+    {
+      "code": 5203192009,
+      "name": "Jerogunung"
+    },
+    {
+      "code": 5203192010,
+      "name": "Pejaring"
+    },
+    {
+      "code": 5203192011,
+      "name": "Boyemare"
+    },
+    {
+      "code": 5203192012,
+      "name": "Montong Beter"
+    },
+    {
+      "code": 5203192013,
+      "name": "Mengkuru"
+    },
+    {
+      "code": 5203192014,
+      "name": "Gadungmas"
+    },
+    {
+      "code": 5203192015,
+      "name": "Kembang Are Sampai"
+    },
+    {
+      "code": 5203192016,
+      "name": "Rensing Bat"
+    },
+    {
+      "code": 5203192017,
+      "name": "Tanak Kaken"
+    },
+    {
+      "code": 5203192018,
+      "name": "Gerisak Semanggeleng"
+    }
+  ]
+}

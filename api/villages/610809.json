@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6108092001,
+      "name": "Semedang"
+    },
+    {
+      "code": 6108092002,
+      "name": "Kuala Behe"
+    },
+    {
+      "code": 6108092003,
+      "name": "Nyayum"
+    },
+    {
+      "code": 6108092004,
+      "name": "Paku Raya"
+    },
+    {
+      "code": 6108092005,
+      "name": "Permiit"
+    },
+    {
+      "code": 6108092006,
+      "name": "Tanjung Balai"
+    },
+    {
+      "code": 6108092007,
+      "name": "Angkanyar"
+    },
+    {
+      "code": 6108092008,
+      "name": "Kedama"
+    },
+    {
+      "code": 6108092009,
+      "name": "Bengawan Ampar"
+    },
+    {
+      "code": 6108092010,
+      "name": "Sehe Lusur"
+    },
+    {
+      "code": 6108092011,
+      "name": "Sejowet"
+    }
+  ]
+}

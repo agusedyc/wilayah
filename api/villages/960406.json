@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9604062001,
+      "name": "Wau"
+    },
+    {
+      "code": 9604062002,
+      "name": "Syukwo"
+    },
+    {
+      "code": 9604062003,
+      "name": "Waibem"
+    },
+    {
+      "code": 9604062004,
+      "name": "Weyaf"
+    },
+    {
+      "code": 9604062005,
+      "name": "Weprari"
+    }
+  ]
+}

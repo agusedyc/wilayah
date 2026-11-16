@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3301022001,
+      "name": "Menganti"
+    },
+    {
+      "code": 3301022002,
+      "name": "Slarang"
+    },
+    {
+      "code": 3301022003,
+      "name": "Kesugihan"
+    },
+    {
+      "code": 3301022004,
+      "name": "Kalisabuk"
+    },
+    {
+      "code": 3301022005,
+      "name": "Karangkandri"
+    },
+    {
+      "code": 3301022006,
+      "name": "Kuripan"
+    },
+    {
+      "code": 3301022007,
+      "name": "Dondong"
+    },
+    {
+      "code": 3301022008,
+      "name": "Planjan"
+    },
+    {
+      "code": 3301022009,
+      "name": "Ciwuni"
+    },
+    {
+      "code": 3301022010,
+      "name": "Karangjengkol"
+    },
+    {
+      "code": 3301022011,
+      "name": "Keleng"
+    },
+    {
+      "code": 3301022012,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3301022013,
+      "name": "Bulupayung"
+    },
+    {
+      "code": 3301022014,
+      "name": "Kuripan Kidul"
+    },
+    {
+      "code": 3301022015,
+      "name": "Jangrana"
+    },
+    {
+      "code": 3301022016,
+      "name": "Kesugihan Kidul"
+    }
+  ]
+}

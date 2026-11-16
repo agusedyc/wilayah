@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9103132002,
+      "name": "Doyo Lama"
+    },
+    {
+      "code": 9103132003,
+      "name": "Kwadeware"
+    },
+    {
+      "code": 9103132004,
+      "name": "Yakonde"
+    },
+    {
+      "code": 9103132005,
+      "name": "Sosiri"
+    },
+    {
+      "code": 9103132006,
+      "name": "Doyo Baru"
+    },
+    {
+      "code": 9103133001,
+      "name": "Desa Adat Dondai"
+    },
+    {
+      "code": 9103133007,
+      "name": "Desa Adat Bambar"
+    }
+  ]
+}

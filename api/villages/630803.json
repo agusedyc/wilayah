@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "message": "Showing 33 villages",
+  "data": [
+    {
+      "code": 6308032001,
+      "name": "Rantau Karau Hilir"
+    },
+    {
+      "code": 6308032002,
+      "name": "Rantau Karau Hulu"
+    },
+    {
+      "code": 6308032003,
+      "name": "Banyu Tajun Hilir"
+    },
+    {
+      "code": 6308032004,
+      "name": "Banyu Tajun Hulu"
+    },
+    {
+      "code": 6308032005,
+      "name": "Banyu Tajun Pangkalan"
+    },
+    {
+      "code": 6308032006,
+      "name": "Sungai Sandung"
+    },
+    {
+      "code": 6308032007,
+      "name": "Sungai Pandan Hilir"
+    },
+    {
+      "code": 6308032008,
+      "name": "Teluk Betung"
+    },
+    {
+      "code": 6308032009,
+      "name": "Tambalang"
+    },
+    {
+      "code": 6308032010,
+      "name": "Hambuku Hulu"
+    },
+    {
+      "code": 6308032011,
+      "name": "Hambuku Tengah"
+    },
+    {
+      "code": 6308032014,
+      "name": "Pandulangan"
+    },
+    {
+      "code": 6308032015,
+      "name": "Sungai Pandan Hulu"
+    },
+    {
+      "code": 6308032021,
+      "name": "Pondok Babaris"
+    },
+    {
+      "code": 6308032024,
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": 6308032025,
+      "name": "Tambalang Kecil"
+    },
+    {
+      "code": 6308032026,
+      "name": "Putat Atas"
+    },
+    {
+      "code": 6308032029,
+      "name": "Banyu Tajun Dalam"
+    },
+    {
+      "code": 6308032031,
+      "name": "Sungai Pandan Tengah"
+    },
+    {
+      "code": 6308032032,
+      "name": "Hambuku Raya"
+    },
+    {
+      "code": 6308032033,
+      "name": "Sungai Kuini"
+    },
+    {
+      "code": 6308032034,
+      "name": "Tapus Dalam"
+    },
+    {
+      "code": 6308032035,
+      "name": "Rantau KarauTengah"
+    },
+    {
+      "code": 6308032037,
+      "name": "Tambalang Tengah"
+    },
+    {
+      "code": 6308032038,
+      "name": "Teluk Mesjid"
+    },
+    {
+      "code": 6308032039,
+      "name": "Murung Asam"
+    },
+    {
+      "code": 6308032040,
+      "name": "Tatah Laban"
+    },
+    {
+      "code": 6308032041,
+      "name": "Jalan Lurus"
+    },
+    {
+      "code": 6308032042,
+      "name": "Teluk Sinar"
+    },
+    {
+      "code": 6308032043,
+      "name": "Padang Bangkal"
+    },
+    {
+      "code": 6308032044,
+      "name": "Hambuku Pasar"
+    },
+    {
+      "code": 6308032045,
+      "name": "Pangkalan Sari"
+    },
+    {
+      "code": 6308032046,
+      "name": "Rantau Karau Raya"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3312251002,
+      "name": "Giriharjo"
+    },
+    {
+      "code": 3312252001,
+      "name": "Puhpelem"
+    },
+    {
+      "code": 3312252003,
+      "name": "Nguneng"
+    },
+    {
+      "code": 3312252004,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3312252005,
+      "name": "Tengger"
+    },
+    {
+      "code": 3312252006,
+      "name": "Golo"
+    }
+  ]
+}

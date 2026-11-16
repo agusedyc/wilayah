@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7107122001,
+      "name": "Wioi"
+    },
+    {
+      "code": 7107122002,
+      "name": "Wioi Satu"
+    },
+    {
+      "code": 7107122003,
+      "name": "Wioi Dua"
+    },
+    {
+      "code": 7107122004,
+      "name": "Wioi Tiga"
+    },
+    {
+      "code": 7107122005,
+      "name": "Wioi Timur"
+    },
+    {
+      "code": 7107122006,
+      "name": "Pangu"
+    },
+    {
+      "code": 7107122007,
+      "name": "Pangu Satu"
+    },
+    {
+      "code": 7107122008,
+      "name": "Pangu Dua"
+    },
+    {
+      "code": 7107122009,
+      "name": "Wongkai"
+    },
+    {
+      "code": 7107122010,
+      "name": "Wongkai Satu"
+    }
+  ]
+}

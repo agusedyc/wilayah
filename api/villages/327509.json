@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3275091001,
+      "name": "Jatimekar"
+    },
+    {
+      "code": 3275091002,
+      "name": "Jatiasih"
+    },
+    {
+      "code": 3275091003,
+      "name": "Jatikramat"
+    },
+    {
+      "code": 3275091004,
+      "name": "Jatirasa"
+    },
+    {
+      "code": 3275091005,
+      "name": "Jatiluhur"
+    },
+    {
+      "code": 3275091006,
+      "name": "Jatisari"
+    }
+  ]
+}

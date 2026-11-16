@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5311172001,
+      "name": "Lukuwingir"
+    },
+    {
+      "code": 5311172002,
+      "name": "Waimbidi"
+    },
+    {
+      "code": 5311172003,
+      "name": "Laimeta"
+    },
+    {
+      "code": 5311172004,
+      "name": "Mahubokul"
+    },
+    {
+      "code": 5311172005,
+      "name": "Marada Mundi"
+    },
+    {
+      "code": 5311172006,
+      "name": "Maidang"
+    }
+  ]
+}

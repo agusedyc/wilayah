@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3603102001,
+      "name": "Sukadiri"
+    },
+    {
+      "code": 3603102002,
+      "name": "Buaran Jati"
+    },
+    {
+      "code": 3603102003,
+      "name": "Rawa Kidang"
+    },
+    {
+      "code": 3603102004,
+      "name": "Pekayon"
+    },
+    {
+      "code": 3603102005,
+      "name": "Karang Serang"
+    },
+    {
+      "code": 3603102006,
+      "name": "Kosambi"
+    },
+    {
+      "code": 3603102007,
+      "name": "Mekar Kondang"
+    },
+    {
+      "code": 3603102008,
+      "name": "Gintung"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3507131007,
+      "name": "Penarukan"
+    },
+    {
+      "code": 3507131009,
+      "name": "Cepokomulyo"
+    },
+    {
+      "code": 3507131010,
+      "name": "Kepanjen"
+    },
+    {
+      "code": 3507131013,
+      "name": "Ardirejo"
+    },
+    {
+      "code": 3507132001,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3507132002,
+      "name": "Sengguruh"
+    },
+    {
+      "code": 3507132003,
+      "name": "Mangunrejo"
+    },
+    {
+      "code": 3507132004,
+      "name": "Jenggolo"
+    },
+    {
+      "code": 3507132005,
+      "name": "Kedungpedaringan"
+    },
+    {
+      "code": 3507132006,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3507132008,
+      "name": "Panggungrejo"
+    },
+    {
+      "code": 3507132011,
+      "name": "Talangagung"
+    },
+    {
+      "code": 3507132012,
+      "name": "Dilem"
+    },
+    {
+      "code": 3507132014,
+      "name": "Sukoraharjo"
+    },
+    {
+      "code": 3507132015,
+      "name": "Curungrejo"
+    },
+    {
+      "code": 3507132016,
+      "name": "Jatirejoyoso"
+    },
+    {
+      "code": 3507132017,
+      "name": "Ngadilangkung"
+    },
+    {
+      "code": 3507132018,
+      "name": "Mojosari"
+    }
+  ]
+}

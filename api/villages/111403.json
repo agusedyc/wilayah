@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1114032001,
+      "name": "Sawang"
+    },
+    {
+      "code": 1114032002,
+      "name": "Lhok Geulumpang"
+    },
+    {
+      "code": 1114032003,
+      "name": "Padang"
+    },
+    {
+      "code": 1114032004,
+      "name": "Gunong Meunasah"
+    },
+    {
+      "code": 1114032005,
+      "name": "Sapek"
+    },
+    {
+      "code": 1114032006,
+      "name": "Pante Kuyun"
+    },
+    {
+      "code": 1114032007,
+      "name": "Glee Seubak"
+    },
+    {
+      "code": 1114032008,
+      "name": "Gampong Baroh"
+    },
+    {
+      "code": 1114032009,
+      "name": "Lhok Timon"
+    },
+    {
+      "code": 1114032010,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1114032011,
+      "name": "Lhok Buya"
+    },
+    {
+      "code": 1114032012,
+      "name": "Lhok Bot"
+    },
+    {
+      "code": 1114032013,
+      "name": "Paya Laot"
+    }
+  ]
+}

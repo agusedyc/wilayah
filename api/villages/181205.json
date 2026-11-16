@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1812052001,
+      "name": "Tunas Jaya"
+    },
+    {
+      "code": 1812052002,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1812052003,
+      "name": "Marga Jaya"
+    },
+    {
+      "code": 1812052004,
+      "name": "Jaya Murni"
+    },
+    {
+      "code": 1812052005,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1812052006,
+      "name": "Mulya Jaya"
+    },
+    {
+      "code": 1812052007,
+      "name": "Bangun Jaya"
+    },
+    {
+      "code": 1812052008,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 1812052009,
+      "name": "Wono Rejo"
+    },
+    {
+      "code": 1812052010,
+      "name": "Tri Tunggal Jaya"
+    },
+    {
+      "code": 1812052011,
+      "name": "Mulya Sari"
+    },
+    {
+      "code": 1812052012,
+      "name": "Dwikora Jaya"
+    },
+    {
+      "code": 1812052013,
+      "name": "Sumber Rejeki"
+    }
+  ]
+}

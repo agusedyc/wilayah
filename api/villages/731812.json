@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7318121002,
+      "name": "Rante Kalua'"
+    },
+    {
+      "code": 7318121016,
+      "name": "Tampo"
+    },
+    {
+      "code": 7318121023,
+      "name": "Lemo"
+    },
+    {
+      "code": 7318121024,
+      "name": "Tengan"
+    },
+    {
+      "code": 7318122004,
+      "name": "Gasing"
+    },
+    {
+      "code": 7318122006,
+      "name": "Uluway"
+    },
+    {
+      "code": 7318122012,
+      "name": "Randanan"
+    },
+    {
+      "code": 7318122015,
+      "name": "Buntu Tangti"
+    },
+    {
+      "code": 7318122017,
+      "name": "Rantedada"
+    },
+    {
+      "code": 7318122018,
+      "name": "Pa'tengko"
+    },
+    {
+      "code": 7318122019,
+      "name": "Simbuang"
+    },
+    {
+      "code": 7318122020,
+      "name": "Pakala"
+    },
+    {
+      "code": 7318122021,
+      "name": "Uluway Barat"
+    },
+    {
+      "code": 7318122022,
+      "name": "Marinding"
+    },
+    {
+      "code": 7318122025,
+      "name": "Palipu"
+    },
+    {
+      "code": 7318122026,
+      "name": "Ke'pe Tinoring"
+    },
+    {
+      "code": 7318122027,
+      "name": "Buntudatu"
+    }
+  ]
+}

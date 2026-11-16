@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8108152001,
+      "name": "Moning"
+    },
+    {
+      "code": 8108152002,
+      "name": "Arwala"
+    },
+    {
+      "code": 8108152003,
+      "name": "Ilway"
+    },
+    {
+      "code": 8108152004,
+      "name": "Kahilin"
+    },
+    {
+      "code": 8108152005,
+      "name": "Ilpokil"
+    },
+    {
+      "code": 8108152006,
+      "name": "Tomliapat"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3575011001,
+      "name": "Karangketug"
+    },
+    {
+      "code": 3575011002,
+      "name": "Gentong"
+    },
+    {
+      "code": 3575011003,
+      "name": "Sebani"
+    },
+    {
+      "code": 3575011004,
+      "name": "Petahunan"
+    },
+    {
+      "code": 3575011005,
+      "name": "Bukir"
+    },
+    {
+      "code": 3575011006,
+      "name": "Randusari"
+    },
+    {
+      "code": 3575011007,
+      "name": "Krapyakrejo"
+    },
+    {
+      "code": 3575011009,
+      "name": "Gadingrejo"
+    }
+  ]
+}

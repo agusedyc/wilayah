@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7413072001,
+      "name": "Wanseriwu"
+    },
+    {
+      "code": 7413072002,
+      "name": "Labukolo"
+    },
+    {
+      "code": 7413072003,
+      "name": "Langku-langku"
+    },
+    {
+      "code": 7413072004,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7413072005,
+      "name": "Wapae Jaya"
+    },
+    {
+      "code": 7413072006,
+      "name": "Momuntu"
+    },
+    {
+      "code": 7413072007,
+      "name": "Lakabu"
+    },
+    {
+      "code": 7413072008,
+      "name": "Suka Damai"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1205222001,
+      "name": "Namotogan"
+    },
+    {
+      "code": 1205222002,
+      "name": "Kuta Gajah"
+    },
+    {
+      "code": 1205222003,
+      "name": "Perkebunan Marike"
+    },
+    {
+      "code": 1205222004,
+      "name": "Kaperas"
+    },
+    {
+      "code": 1205222005,
+      "name": "Namoteras"
+    },
+    {
+      "code": 1205222006,
+      "name": "Rampah"
+    },
+    {
+      "code": 1205222007,
+      "name": "Sulkam"
+    },
+    {
+      "code": 1205222008,
+      "name": "Kutambaru"
+    }
+  ]
+}

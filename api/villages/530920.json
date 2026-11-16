@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5309202001,
+      "name": "Paupaga"
+    },
+    {
+      "code": 5309202002,
+      "name": "Sebowuli"
+    },
+    {
+      "code": 5309202003,
+      "name": "Inerie"
+    },
+    {
+      "code": 5309202004,
+      "name": "Warupele I"
+    },
+    {
+      "code": 5309202005,
+      "name": "Warupele II"
+    },
+    {
+      "code": 5309202006,
+      "name": "Kelitei"
+    },
+    {
+      "code": 5309202007,
+      "name": "Waebela"
+    },
+    {
+      "code": 5309202008,
+      "name": "Tiwurana"
+    },
+    {
+      "code": 5309202009,
+      "name": "Legeriwu"
+    },
+    {
+      "code": 5309202010,
+      "name": "Manubhara"
+    },
+    {
+      "code": 5309202011,
+      "name": "Ruto"
+    },
+    {
+      "code": 5309202012,
+      "name": "Enabhara"
+    },
+    {
+      "code": 5309202013,
+      "name": "Nagebaru"
+    }
+  ]
+}

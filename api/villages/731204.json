@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7312041001,
+      "name": "Lalabata Rilau"
+    },
+    {
+      "code": 7312041002,
+      "name": "Ompo"
+    },
+    {
+      "code": 7312041003,
+      "name": "Botto"
+    },
+    {
+      "code": 7312041004,
+      "name": "Lemba"
+    },
+    {
+      "code": 7312041005,
+      "name": "Bila"
+    },
+    {
+      "code": 7312041006,
+      "name": "Lapajung"
+    },
+    {
+      "code": 7312041007,
+      "name": "Salokaraja"
+    },
+    {
+      "code": 7312042008,
+      "name": "Maccile"
+    },
+    {
+      "code": 7312042009,
+      "name": "Umpungeng"
+    },
+    {
+      "code": 7312042010,
+      "name": "Mattabulu"
+    }
+  ]
+}

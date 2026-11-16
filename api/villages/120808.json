@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1208081013,
+      "name": "Bosar Maligas"
+    },
+    {
+      "code": 1208082001,
+      "name": "Parbutaran"
+    },
+    {
+      "code": 1208082002,
+      "name": "Mayang"
+    },
+    {
+      "code": 1208082003,
+      "name": "Boluk"
+    },
+    {
+      "code": 1208082004,
+      "name": "Sei Mangkei"
+    },
+    {
+      "code": 1208082005,
+      "name": "Gunung Bayu"
+    },
+    {
+      "code": 1208082006,
+      "name": "Talun Saragih"
+    },
+    {
+      "code": 1208082007,
+      "name": "Dusun Pengkolan"
+    },
+    {
+      "code": 1208082008,
+      "name": "Sei Torop"
+    },
+    {
+      "code": 1208082009,
+      "name": "Marihat Tanjung"
+    },
+    {
+      "code": 1208082010,
+      "name": "Marihat Butar"
+    },
+    {
+      "code": 1208082011,
+      "name": "Teladan"
+    },
+    {
+      "code": 1208082012,
+      "name": "Adil Makmur"
+    },
+    {
+      "code": 1208082014,
+      "name": "Tempel Jaya"
+    },
+    {
+      "code": 1208082015,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1208082016,
+      "name": "Mekar Rejo"
+    },
+    {
+      "code": 1208082017,
+      "name": "Nanggar Bayu"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1802071002,
+      "name": "Bandar Jaya Timur"
+    },
+    {
+      "code": 1802071003,
+      "name": "Bandar Jaya Barat"
+    },
+    {
+      "code": 1802071004,
+      "name": "Yukum Jaya"
+    },
+    {
+      "code": 1802072001,
+      "name": "Adi Jaya"
+    },
+    {
+      "code": 1802072005,
+      "name": "Indra Putra Subing"
+    },
+    {
+      "code": 1802072006,
+      "name": "Karang Endah"
+    },
+    {
+      "code": 1802072007,
+      "name": "Nambah Dadi"
+    },
+    {
+      "code": 1802072008,
+      "name": "Ono Harjo"
+    },
+    {
+      "code": 1802072009,
+      "name": "Terbanggi Besar"
+    },
+    {
+      "code": 1802072010,
+      "name": "Poncowati"
+    }
+  ]
+}

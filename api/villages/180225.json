@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1802252001,
+      "name": "Sido Binangun"
+    },
+    {
+      "code": 1802252002,
+      "name": "Sri Bawono"
+    },
+    {
+      "code": 1802252003,
+      "name": "Sri Budaya"
+    },
+    {
+      "code": 1802252004,
+      "name": "Suko Binangun"
+    },
+    {
+      "code": 1802252005,
+      "name": "Sri Busono"
+    },
+    {
+      "code": 1802252006,
+      "name": "Sangga Buana"
+    }
+  ]
+}

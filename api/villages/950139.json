@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9501392001,
+      "name": "Wame"
+    },
+    {
+      "code": 9501392002,
+      "name": "Dumapaga"
+    },
+    {
+      "code": 9501392003,
+      "name": "Yanenggame"
+    },
+    {
+      "code": 9501392004,
+      "name": "Dogoname"
+    }
+  ]
+}

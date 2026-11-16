@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7603051001,
+      "name": "Lakahang"
+    },
+    {
+      "code": 7603052002,
+      "name": "Periangan"
+    },
+    {
+      "code": 7603052003,
+      "name": "Malatiro"
+    },
+    {
+      "code": 7603052004,
+      "name": "Tabulahan"
+    },
+    {
+      "code": 7603052005,
+      "name": "Saluleang"
+    },
+    {
+      "code": 7603052007,
+      "name": "Tampak Kurra"
+    },
+    {
+      "code": 7603052008,
+      "name": "Gandang Dewata"
+    },
+    {
+      "code": 7603052009,
+      "name": "Burana"
+    },
+    {
+      "code": 7603052010,
+      "name": "Salubakka"
+    },
+    {
+      "code": 7603052011,
+      "name": "Pangandaran"
+    },
+    {
+      "code": 7603052012,
+      "name": "Talopak"
+    },
+    {
+      "code": 7603052013,
+      "name": "Peu'"
+    },
+    {
+      "code": 7603052014,
+      "name": "Timoro"
+    },
+    {
+      "code": 7603052015,
+      "name": "Lakahang Utama"
+    }
+  ]
+}

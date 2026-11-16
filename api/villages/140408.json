@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1404081001,
+      "name": "Tegaraja"
+    },
+    {
+      "code": 1404081009,
+      "name": "Amal Bakti"
+    },
+    {
+      "code": 1404081010,
+      "name": "Bandar Sri Gemilang"
+    },
+    {
+      "code": 1404082002,
+      "name": "Kuala Selat"
+    },
+    {
+      "code": 1404082003,
+      "name": "Sungaisimbar"
+    },
+    {
+      "code": 1404082004,
+      "name": "Penjuru"
+    },
+    {
+      "code": 1404082005,
+      "name": "Sari Mulia"
+    },
+    {
+      "code": 1404082006,
+      "name": "Air Tawar"
+    },
+    {
+      "code": 1404082007,
+      "name": "Tanjungraja"
+    },
+    {
+      "code": 1404082008,
+      "name": "Sungaiteritip"
+    },
+    {
+      "code": 1404082011,
+      "name": "Makmur Jaya"
+    }
+  ]
+}

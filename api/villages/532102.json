@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5321022001,
+      "name": "Motaulun"
+    },
+    {
+      "code": 5321022002,
+      "name": "Sikun"
+    },
+    {
+      "code": 5321022003,
+      "name": "Fafoe"
+    },
+    {
+      "code": 5321022004,
+      "name": "Lasaen"
+    },
+    {
+      "code": 5321022005,
+      "name": "Umatoos"
+    },
+    {
+      "code": 5321022006,
+      "name": "Rabasahain"
+    },
+    {
+      "code": 5321022007,
+      "name": "Umalor"
+    },
+    {
+      "code": 5321022008,
+      "name": "Besikama"
+    },
+    {
+      "code": 5321022009,
+      "name": "Maktihan"
+    },
+    {
+      "code": 5321022010,
+      "name": "Loofoun"
+    },
+    {
+      "code": 5321022011,
+      "name": "Rabasa"
+    },
+    {
+      "code": 5321022012,
+      "name": "Rabasa Haerain"
+    },
+    {
+      "code": 5321022013,
+      "name": "Motaain"
+    },
+    {
+      "code": 5321022014,
+      "name": "Oan Mane"
+    },
+    {
+      "code": 5321022015,
+      "name": "Raimataus"
+    },
+    {
+      "code": 5321022016,
+      "name": "Naas"
+    }
+  ]
+}

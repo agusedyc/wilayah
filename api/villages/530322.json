@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5303222001,
+      "name": "Teba"
+    },
+    {
+      "code": 5303222002,
+      "name": "Oerinbesi"
+    },
+    {
+      "code": 5303222003,
+      "name": "Oekopa"
+    },
+    {
+      "code": 5303222004,
+      "name": "T'Eba Timur"
+    }
+  ]
+}

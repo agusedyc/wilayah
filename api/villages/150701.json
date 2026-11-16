@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1507011010,
+      "name": "Muara Sabak Ilir"
+    },
+    {
+      "code": 1507011013,
+      "name": "Muara Sabak Ulu"
+    },
+    {
+      "code": 1507012001,
+      "name": "Alang-Alang"
+    },
+    {
+      "code": 1507012002,
+      "name": "Lambur"
+    },
+    {
+      "code": 1507012004,
+      "name": "Simbur Naik"
+    },
+    {
+      "code": 1507012011,
+      "name": "Lambur I"
+    },
+    {
+      "code": 1507012012,
+      "name": "Lambur II"
+    },
+    {
+      "code": 1507012014,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 1507012015,
+      "name": "Siau Dalam"
+    },
+    {
+      "code": 1507012016,
+      "name": "Sungai Ular"
+    },
+    {
+      "code": 1507012017,
+      "name": "Kota Harapan"
+    },
+    {
+      "code": 1507012018,
+      "name": "Kuala Simbur"
+    }
+  ]
+}

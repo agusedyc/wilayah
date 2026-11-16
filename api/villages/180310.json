@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1803101001,
+      "name": "Kelapa Tujuh"
+    },
+    {
+      "code": 1803101002,
+      "name": "Tanjung Aman"
+    },
+    {
+      "code": 1803101003,
+      "name": "Kota Alam"
+    },
+    {
+      "code": 1803101011,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1803101012,
+      "name": "Tanjung Senang"
+    },
+    {
+      "code": 1803102004,
+      "name": "Mulang Maya"
+    },
+    {
+      "code": 1803102005,
+      "name": "Bandar Putih"
+    },
+    {
+      "code": 1803102006,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1803102007,
+      "name": "Curup Guruh"
+    },
+    {
+      "code": 1803102008,
+      "name": "Jerangkang"
+    },
+    {
+      "code": 1803102009,
+      "name": "Way Melan"
+    },
+    {
+      "code": 1803102010,
+      "name": "Taman Jaya"
+    },
+    {
+      "code": 1803102013,
+      "name": "Alam Jaya"
+    },
+    {
+      "code": 1803102014,
+      "name": "Sinar Mas Alam"
+    }
+  ]
+}

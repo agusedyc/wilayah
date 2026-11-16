@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9110092001,
+      "name": "Wamariri"
+    },
+    {
+      "code": 9110092002,
+      "name": "Aurimi"
+    },
+    {
+      "code": 9110092003,
+      "name": "Tamaja"
+    },
+    {
+      "code": 9110092004,
+      "name": "Airoran"
+    },
+    {
+      "code": 9110092005,
+      "name": "Murara"
+    },
+    {
+      "code": 9110092006,
+      "name": "Sasawapece"
+    },
+    {
+      "code": 9110092011,
+      "name": "Maniwa"
+    },
+    {
+      "code": 9110092012,
+      "name": "Surimania"
+    },
+    {
+      "code": 9110092013,
+      "name": "Kwawitania"
+    },
+    {
+      "code": 9110092014,
+      "name": "Bina"
+    }
+  ]
+}

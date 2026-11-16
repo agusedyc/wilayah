@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1202112001,
+      "name": "Manalu"
+    },
+    {
+      "code": 1202112002,
+      "name": "Manalu Purba"
+    },
+    {
+      "code": 1202112003,
+      "name": "Manalu Dolok"
+    },
+    {
+      "code": 1202112004,
+      "name": "Hutajulu"
+    },
+    {
+      "code": 1202112005,
+      "name": "Aek Raja"
+    },
+    {
+      "code": 1202112006,
+      "name": "Hutatinggi"
+    },
+    {
+      "code": 1202112007,
+      "name": "Lobusunut"
+    },
+    {
+      "code": 1202112008,
+      "name": "Sisordak"
+    },
+    {
+      "code": 1202112009,
+      "name": "Pertengahan"
+    },
+    {
+      "code": 1202112010,
+      "name": "Hutatua"
+    },
+    {
+      "code": 1202112011,
+      "name": "Hutajulu Parbalik"
+    },
+    {
+      "code": 1202112012,
+      "name": "Horisan Ranggitgit"
+    },
+    {
+      "code": 1202112013,
+      "name": "Purba Dolok"
+    },
+    {
+      "code": 1202112014,
+      "name": "Batuarimo"
+    }
+  ]
+}

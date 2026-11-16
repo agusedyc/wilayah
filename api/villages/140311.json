@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1403112001,
+      "name": "Tanjung Medang"
+    },
+    {
+      "code": 1403112002,
+      "name": "Teluk Rhu"
+    },
+    {
+      "code": 1403112003,
+      "name": "Tanjung Punak"
+    },
+    {
+      "code": 1403112004,
+      "name": "Kadur"
+    },
+    {
+      "code": 1403112005,
+      "name": "Titi Akar"
+    },
+    {
+      "code": 1403112006,
+      "name": "Hutan Ayu"
+    },
+    {
+      "code": 1403112007,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1403112008,
+      "name": "Puteri Sembilan"
+    }
+  ]
+}

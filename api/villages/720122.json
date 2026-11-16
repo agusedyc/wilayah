@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201222001,
+      "name": "Pondan"
+    },
+    {
+      "code": 7201222002,
+      "name": "Sobol"
+    },
+    {
+      "code": 7201222003,
+      "name": "Sobol Baru"
+    },
+    {
+      "code": 7201222004,
+      "name": "Binotik"
+    },
+    {
+      "code": 7201222005,
+      "name": "Garuga"
+    },
+    {
+      "code": 7201222006,
+      "name": "Bollo"
+    },
+    {
+      "code": 7201222007,
+      "name": "Sulubombong"
+    },
+    {
+      "code": 7201222008,
+      "name": "Boras"
+    },
+    {
+      "code": 7201222009,
+      "name": "Lonas"
+    },
+    {
+      "code": 7201222010,
+      "name": "Bombongan"
+    }
+  ]
+}

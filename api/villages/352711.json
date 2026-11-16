@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3527112001,
+      "name": "Tobai Barat"
+    },
+    {
+      "code": 3527112002,
+      "name": "Tobai Tengah"
+    },
+    {
+      "code": 3527112003,
+      "name": "Tobai Timur"
+    },
+    {
+      "code": 3527112004,
+      "name": "Bira Tengah"
+    },
+    {
+      "code": 3527112005,
+      "name": "Bira Timur"
+    },
+    {
+      "code": 3527112006,
+      "name": "Sokobanah Laok"
+    },
+    {
+      "code": 3527112007,
+      "name": "Tamberu Laok"
+    },
+    {
+      "code": 3527112008,
+      "name": "Tamberu Daya"
+    },
+    {
+      "code": 3527112009,
+      "name": "Sokobanah Tengah"
+    },
+    {
+      "code": 3527112010,
+      "name": "Sokobanah Daya"
+    },
+    {
+      "code": 3527112011,
+      "name": "Tamberu Barat"
+    },
+    {
+      "code": 3527112012,
+      "name": "Tamberu Timur"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306142001,
+      "name": "Manuju"
+    },
+    {
+      "code": 7306142002,
+      "name": "Pattallikang"
+    },
+    {
+      "code": 7306142003,
+      "name": "Tamalatea"
+    },
+    {
+      "code": 7306142004,
+      "name": "Moncongloe"
+    },
+    {
+      "code": 7306142005,
+      "name": "Bilalang"
+    },
+    {
+      "code": 7306142006,
+      "name": "Tassese"
+    },
+    {
+      "code": 7306142007,
+      "name": "Tana Karaeng"
+    }
+  ]
+}

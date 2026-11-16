@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9503172001,
+      "name": "Lokon"
+    },
+    {
+      "code": 9503172002,
+      "name": "Luarima"
+    },
+    {
+      "code": 9503172003,
+      "name": "Werima"
+    },
+    {
+      "code": 9503172004,
+      "name": "Hanoasuok"
+    },
+    {
+      "code": 9503172005,
+      "name": "Wesagalep"
+    },
+    {
+      "code": 9503172006,
+      "name": "Wesama"
+    },
+    {
+      "code": 9503172007,
+      "name": "Weasi"
+    },
+    {
+      "code": 9503172008,
+      "name": "Weriaput"
+    },
+    {
+      "code": 9503172009,
+      "name": "Suesi"
+    },
+    {
+      "code": 9503172010,
+      "name": "Nesuwen"
+    },
+    {
+      "code": 9503172011,
+      "name": "Esema Husage"
+    },
+    {
+      "code": 9503172012,
+      "name": "Libuk"
+    },
+    {
+      "code": 9503172013,
+      "name": "Hagawen"
+    },
+    {
+      "code": 9503172014,
+      "name": "Hepia"
+    }
+  ]
+}

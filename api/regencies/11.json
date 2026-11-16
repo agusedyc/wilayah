@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 regencies",
+  "data": [
+    {
+      "code": 1101,
+      "name": "Kabupaten Aceh Selatan"
+    },
+    {
+      "code": 1102,
+      "name": "Kabupaten Aceh Tenggara"
+    },
+    {
+      "code": 1103,
+      "name": "Kabupaten Aceh Timur"
+    },
+    {
+      "code": 1104,
+      "name": "Kabupaten Aceh Tengah"
+    },
+    {
+      "code": 1105,
+      "name": "Kabupaten Aceh Barat"
+    },
+    {
+      "code": 1106,
+      "name": "Kabupaten Aceh Besar"
+    },
+    {
+      "code": 1107,
+      "name": "Kabupaten Pidie"
+    },
+    {
+      "code": 1108,
+      "name": "Kabupaten Aceh Utara"
+    },
+    {
+      "code": 1109,
+      "name": "Kabupaten Simeulue"
+    },
+    {
+      "code": 1110,
+      "name": "Kabupaten Aceh Singkil"
+    },
+    {
+      "code": 1111,
+      "name": "Kabupaten Bireuen"
+    },
+    {
+      "code": 1112,
+      "name": "Kabupaten Aceh Barat Daya"
+    },
+    {
+      "code": 1113,
+      "name": "Kabupaten Gayo Lues"
+    },
+    {
+      "code": 1114,
+      "name": "Kabupaten Aceh Jaya"
+    },
+    {
+      "code": 1115,
+      "name": "Kabupaten Nagan Raya"
+    },
+    {
+      "code": 1116,
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    {
+      "code": 1117,
+      "name": "Kabupaten Bener Meriah"
+    },
+    {
+      "code": 1118,
+      "name": "Kabupaten Pidie Jaya"
+    },
+    {
+      "code": 1171,
+      "name": "Kota Banda Aceh"
+    },
+    {
+      "code": 1172,
+      "name": "Kota Sabang"
+    },
+    {
+      "code": 1173,
+      "name": "Kota Lhokseumawe"
+    },
+    {
+      "code": 1174,
+      "name": "Kota Langsa"
+    },
+    {
+      "code": 1175,
+      "name": "Kota Subulussalam"
+    }
+  ]
+}

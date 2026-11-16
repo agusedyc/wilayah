@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5311062001,
+      "name": "Ramuk"
+    },
+    {
+      "code": 5311062002,
+      "name": "Wangga Mbewa"
+    },
+    {
+      "code": 5311062003,
+      "name": "Lailunggi"
+    },
+    {
+      "code": 5311062004,
+      "name": "Tawui"
+    },
+    {
+      "code": 5311062005,
+      "name": "Wahang"
+    },
+    {
+      "code": 5311062006,
+      "name": "Mahaniwa"
+    }
+  ]
+}

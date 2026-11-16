@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3513172001,
+      "name": "Brabe"
+    },
+    {
+      "code": 3513172002,
+      "name": "Gerongan"
+    },
+    {
+      "code": 3513172003,
+      "name": "Maron Kidul"
+    },
+    {
+      "code": 3513172004,
+      "name": "Sumberdawe"
+    },
+    {
+      "code": 3513172005,
+      "name": "Sumberpoh"
+    },
+    {
+      "code": 3513172006,
+      "name": "Kedungsari"
+    },
+    {
+      "code": 3513172007,
+      "name": "Maron Kulon"
+    },
+    {
+      "code": 3513172008,
+      "name": "Maron Wetan"
+    },
+    {
+      "code": 3513172009,
+      "name": "Brani Kulon"
+    },
+    {
+      "code": 3513172010,
+      "name": "Satreyan"
+    },
+    {
+      "code": 3513172011,
+      "name": "Brani Wetan"
+    },
+    {
+      "code": 3513172012,
+      "name": "Puspan"
+    },
+    {
+      "code": 3513172013,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3513172014,
+      "name": "Brumbungan Kidul"
+    },
+    {
+      "code": 3513172015,
+      "name": "Pegalangan Kidul"
+    },
+    {
+      "code": 3513172016,
+      "name": "Suko"
+    },
+    {
+      "code": 3513172017,
+      "name": "Ganting Kulon"
+    },
+    {
+      "code": 3513172018,
+      "name": "Ganting Wetan"
+    }
+  ]
+}

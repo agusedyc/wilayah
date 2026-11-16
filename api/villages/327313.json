@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3273131001,
+      "name": "Cijagra"
+    },
+    {
+      "code": 3273131002,
+      "name": "Lingkar Selatan"
+    },
+    {
+      "code": 3273131003,
+      "name": "Burangrang"
+    },
+    {
+      "code": 3273131004,
+      "name": "Paledang"
+    },
+    {
+      "code": 3273131005,
+      "name": "Turangga"
+    },
+    {
+      "code": 3273131006,
+      "name": "Malabar"
+    },
+    {
+      "code": 3273131007,
+      "name": "Cikawao"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7212052001,
+      "name": "Tomata"
+    },
+    {
+      "code": 7212052002,
+      "name": "Londi"
+    },
+    {
+      "code": 7212052003,
+      "name": "Taende"
+    },
+    {
+      "code": 7212052004,
+      "name": "Ensa"
+    },
+    {
+      "code": 7212052005,
+      "name": "Kolaka"
+    },
+    {
+      "code": 7212052006,
+      "name": "Peonea"
+    },
+    {
+      "code": 7212052007,
+      "name": "Lanumor"
+    },
+    {
+      "code": 7212052008,
+      "name": "Gontara"
+    },
+    {
+      "code": 7212052009,
+      "name": "Lee"
+    },
+    {
+      "code": 7212052010,
+      "name": "Saemba"
+    },
+    {
+      "code": 7212052011,
+      "name": "Kasingoli"
+    },
+    {
+      "code": 7212052012,
+      "name": "Tomui Karya"
+    },
+    {
+      "code": 7212052013,
+      "name": "Saemba Walati"
+    },
+    {
+      "code": 7212052014,
+      "name": "Pambarea"
+    }
+  ]
+}

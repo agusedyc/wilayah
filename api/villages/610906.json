@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6109062001,
+      "name": "Sebetung"
+    },
+    {
+      "code": 6109062002,
+      "name": "Seburuk Satu"
+    },
+    {
+      "code": 6109062003,
+      "name": "Sungai Tapah"
+    },
+    {
+      "code": 6109062004,
+      "name": "Ijuk"
+    },
+    {
+      "code": 6109062005,
+      "name": "Mengaret"
+    },
+    {
+      "code": 6109062006,
+      "name": "Kumpang Ilong"
+    },
+    {
+      "code": 6109062007,
+      "name": "Sungai Antu Hulu"
+    },
+    {
+      "code": 6109062008,
+      "name": "Terduk Dampak"
+    },
+    {
+      "code": 6109062009,
+      "name": "Pakit Mulau"
+    },
+    {
+      "code": 6109062010,
+      "name": "Tabuk Hulu"
+    },
+    {
+      "code": 6109062011,
+      "name": "Batuk Mulau"
+    },
+    {
+      "code": 6109062012,
+      "name": "Balai Sepuak"
+    },
+    {
+      "code": 6109062013,
+      "name": "Bukit Rambat"
+    }
+  ]
+}

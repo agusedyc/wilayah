@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6107041001,
+      "name": "Bumi Emas"
+    },
+    {
+      "code": 6107041010,
+      "name": "Sebalo"
+    },
+    {
+      "code": 6107042003,
+      "name": "Tirta Kencana"
+    },
+    {
+      "code": 6107042004,
+      "name": "Bhakti Mulya"
+    },
+    {
+      "code": 6107042006,
+      "name": "Bani Amas"
+    },
+    {
+      "code": 6107042009,
+      "name": "Setia Budi"
+    }
+  ]
+}

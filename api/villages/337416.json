@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3374161001,
+      "name": "Jerakah"
+    },
+    {
+      "code": 3374161002,
+      "name": "Tugurejo"
+    },
+    {
+      "code": 3374161003,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3374161004,
+      "name": "Randugarut"
+    },
+    {
+      "code": 3374161005,
+      "name": "Mangkang Wetan"
+    },
+    {
+      "code": 3374161006,
+      "name": "Mangkang Kulon"
+    },
+    {
+      "code": 3374161007,
+      "name": "Mangunharjo"
+    }
+  ]
+}

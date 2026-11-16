@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9303082001,
+      "name": "Sepoh"
+    },
+    {
+      "code": 9303082002,
+      "name": "Bagaram"
+    },
+    {
+      "code": 9303082003,
+      "name": "Passue/Taim"
+    },
+    {
+      "code": 9303082004,
+      "name": "Nohon"
+    },
+    {
+      "code": 9303082005,
+      "name": "Kotiak"
+    },
+    {
+      "code": 9303082006,
+      "name": "Menya"
+    },
+    {
+      "code": 9303082007,
+      "name": "Tokhompatu"
+    },
+    {
+      "code": 9303082008,
+      "name": "Kotup"
+    },
+    {
+      "code": 9303082009,
+      "name": "Rimba Jaya/Gayu"
+    },
+    {
+      "code": 9303082010,
+      "name": "Kaime"
+    },
+    {
+      "code": 9303082011,
+      "name": "Baitate"
+    },
+    {
+      "code": 9303082012,
+      "name": "Urufu"
+    },
+    {
+      "code": 9303082013,
+      "name": "Afogoma"
+    }
+  ]
+}

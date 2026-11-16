@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3309152001,
+      "name": "Kalangan"
+    },
+    {
+      "code": 3309152002,
+      "name": "Sendangrejo"
+    },
+    {
+      "code": 3309152003,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3309152004,
+      "name": "Jaten"
+    },
+    {
+      "code": 3309152005,
+      "name": "Blumbang"
+    },
+    {
+      "code": 3309152006,
+      "name": "Sangge"
+    },
+    {
+      "code": 3309152007,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3309152008,
+      "name": "Bade"
+    },
+    {
+      "code": 3309152009,
+      "name": "Klego"
+    },
+    {
+      "code": 3309152010,
+      "name": "Gondanglegi"
+    },
+    {
+      "code": 3309152011,
+      "name": "Karanggatak"
+    },
+    {
+      "code": 3309152012,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3309152013,
+      "name": "Karangmojo"
+    }
+  ]
+}

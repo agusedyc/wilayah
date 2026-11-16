@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7202021008,
+      "name": "Kasinguncu"
+    },
+    {
+      "code": 7202021009,
+      "name": "Mapane"
+    },
+    {
+      "code": 7202021031,
+      "name": "Tabalu"
+    },
+    {
+      "code": 7202022007,
+      "name": "Betania"
+    },
+    {
+      "code": 7202022010,
+      "name": "Toini"
+    },
+    {
+      "code": 7202022012,
+      "name": "Bega"
+    },
+    {
+      "code": 7202022013,
+      "name": "Masamba"
+    },
+    {
+      "code": 7202022014,
+      "name": "Saatu"
+    },
+    {
+      "code": 7202022015,
+      "name": "Pinedapa"
+    },
+    {
+      "code": 7202022016,
+      "name": "Masani"
+    },
+    {
+      "code": 7202022017,
+      "name": "Tokorondo"
+    },
+    {
+      "code": 7202022018,
+      "name": "Tiwaa"
+    },
+    {
+      "code": 7202022027,
+      "name": "Lanto Jaya"
+    },
+    {
+      "code": 7202022028,
+      "name": "Lape"
+    },
+    {
+      "code": 7202022029,
+      "name": "Towu"
+    },
+    {
+      "code": 7202022030,
+      "name": "Ueralulu"
+    }
+  ]
+}

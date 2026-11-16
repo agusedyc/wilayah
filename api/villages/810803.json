@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8108032001,
+      "name": "Luang Barat"
+    },
+    {
+      "code": 8108032002,
+      "name": "Luang Timur"
+    },
+    {
+      "code": 8108032003,
+      "name": "Elo"
+    },
+    {
+      "code": 8108032004,
+      "name": "Rumkisar"
+    },
+    {
+      "code": 8108032005,
+      "name": "Lelang"
+    },
+    {
+      "code": 8108032006,
+      "name": "Mahaleta"
+    },
+    {
+      "code": 8108032007,
+      "name": "Romdara"
+    },
+    {
+      "code": 8108032008,
+      "name": "Rotnama"
+    },
+    {
+      "code": 8108032009,
+      "name": "Batugajah"
+    },
+    {
+      "code": 8108032010,
+      "name": "Pupliora"
+    },
+    {
+      "code": 8108032011,
+      "name": "Regoha"
+    }
+  ]
+}

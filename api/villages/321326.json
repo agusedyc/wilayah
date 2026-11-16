@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213262001,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3213262002,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3213262003,
+      "name": "Bojongloa"
+    },
+    {
+      "code": 3213262004,
+      "name": "Sukamelang"
+    },
+    {
+      "code": 3213262005,
+      "name": "Tenjolaya"
+    },
+    {
+      "code": 3213262006,
+      "name": "Kasomalang Wetan"
+    },
+    {
+      "code": 3213262007,
+      "name": "Kasomalang Kulon"
+    },
+    {
+      "code": 3213262008,
+      "name": "Cimanglid"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7308221001,
+      "name": "Macege"
+    },
+    {
+      "code": 7308221002,
+      "name": "Matirro Walie"
+    },
+    {
+      "code": 7308221003,
+      "name": "Macanang"
+    },
+    {
+      "code": 7308221004,
+      "name": "Majang"
+    },
+    {
+      "code": 7308221005,
+      "name": "Bulu Tempe"
+    },
+    {
+      "code": 7308221006,
+      "name": "Jeppee"
+    },
+    {
+      "code": 7308221007,
+      "name": "Polewali"
+    },
+    {
+      "code": 7308221008,
+      "name": "Watang Palakka"
+    }
+  ]
+}

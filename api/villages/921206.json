@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9212062001,
+      "name": "Genyu"
+    },
+    {
+      "code": 9212062002,
+      "name": "Ansum"
+    },
+    {
+      "code": 9212062003,
+      "name": "Deurohu"
+    },
+    {
+      "code": 9212062004,
+      "name": "Horeta"
+    },
+    {
+      "code": 9212062005,
+      "name": "Ubeisa"
+    },
+    {
+      "code": 9212062006,
+      "name": "Taige"
+    },
+    {
+      "code": 9212062007,
+      "name": "Tridaga"
+    },
+    {
+      "code": 9212062008,
+      "name": "Disura"
+    },
+    {
+      "code": 9212062009,
+      "name": "Awigau"
+    },
+    {
+      "code": 9212062010,
+      "name": "Siskedowo"
+    },
+    {
+      "code": 9212062011,
+      "name": "Irbos"
+    }
+  ]
+}

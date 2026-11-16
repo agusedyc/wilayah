@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3324012001,
+      "name": "Blumah"
+    },
+    {
+      "code": 3324012002,
+      "name": "Kediten"
+    },
+    {
+      "code": 3324012003,
+      "name": "Tlogopayung"
+    },
+    {
+      "code": 3324012004,
+      "name": "Wonodadi"
+    },
+    {
+      "code": 3324012005,
+      "name": "Manggungmangu"
+    },
+    {
+      "code": 3324012006,
+      "name": "Tirtomulyo"
+    },
+    {
+      "code": 3324012007,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3324012008,
+      "name": "Jurangagung"
+    },
+    {
+      "code": 3324012009,
+      "name": "Jati"
+    },
+    {
+      "code": 3324012010,
+      "name": "Wadas"
+    },
+    {
+      "code": 3324012011,
+      "name": "Bendosari"
+    },
+    {
+      "code": 3324012012,
+      "name": "Mojoagung"
+    }
+  ]
+}

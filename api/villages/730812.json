@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7308122001,
+      "name": "Mattampawalie"
+    },
+    {
+      "code": 7308122002,
+      "name": "Lili Riattang"
+    },
+    {
+      "code": 7308122003,
+      "name": "Sengeng Palie"
+    },
+    {
+      "code": 7308122004,
+      "name": "Tenri Pakkua"
+    },
+    {
+      "code": 7308122005,
+      "name": "Patangkai"
+    },
+    {
+      "code": 7308122006,
+      "name": "Ujung Lamuru"
+    },
+    {
+      "code": 7308122007,
+      "name": "Pattuku Limpoe"
+    },
+    {
+      "code": 7308122008,
+      "name": "Waekeccee"
+    },
+    {
+      "code": 7308122009,
+      "name": "Tonronge"
+    }
+  ]
+}

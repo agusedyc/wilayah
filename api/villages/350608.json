@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3506082001,
+      "name": "Puncu"
+    },
+    {
+      "code": 3506082002,
+      "name": "Asmorobangun"
+    },
+    {
+      "code": 3506082003,
+      "name": "Manggis"
+    },
+    {
+      "code": 3506082004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3506082005,
+      "name": "Watugede"
+    },
+    {
+      "code": 3506082006,
+      "name": "Gadungan"
+    },
+    {
+      "code": 3506082007,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 3506082008,
+      "name": "Satak"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3321072001,
+      "name": "Merak"
+    },
+    {
+      "code": 3321072002,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3321072003,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3321072004,
+      "name": "Botosengon"
+    },
+    {
+      "code": 3321072005,
+      "name": "Jerukgulung"
+    },
+    {
+      "code": 3321072006,
+      "name": "Kunir"
+    },
+    {
+      "code": 3321072007,
+      "name": "Brakas"
+    },
+    {
+      "code": 3321072008,
+      "name": "Balerejo"
+    },
+    {
+      "code": 3321072009,
+      "name": "Baleromo"
+    },
+    {
+      "code": 3321072010,
+      "name": "Kedungori"
+    },
+    {
+      "code": 3321072011,
+      "name": "Kuwu"
+    },
+    {
+      "code": 3321072012,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3321072013,
+      "name": "Gempoldenok"
+    },
+    {
+      "code": 3321072015,
+      "name": "Harjowinangun"
+    },
+    {
+      "code": 3321072016,
+      "name": "Kramat"
+    },
+    {
+      "code": 3321072017,
+      "name": "Dempet"
+    }
+  ]
+}

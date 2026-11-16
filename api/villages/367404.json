@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3674041001,
+      "name": "Sawah Baru"
+    },
+    {
+      "code": 3674041002,
+      "name": "Serua"
+    },
+    {
+      "code": 3674041003,
+      "name": "Ciputat"
+    },
+    {
+      "code": 3674041004,
+      "name": "Sawah"
+    },
+    {
+      "code": 3674041005,
+      "name": "Serua Indah"
+    },
+    {
+      "code": 3674041006,
+      "name": "Jombang"
+    },
+    {
+      "code": 3674041007,
+      "name": "Cipayung"
+    }
+  ]
+}

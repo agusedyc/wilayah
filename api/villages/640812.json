@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6408121002,
+      "name": "Singa Geweh"
+    },
+    {
+      "code": 6408122001,
+      "name": "Sangatta Selatan"
+    },
+    {
+      "code": 6408122003,
+      "name": "Sangkima"
+    },
+    {
+      "code": 6408122004,
+      "name": "Teluk Singkama"
+    }
+  ]
+}

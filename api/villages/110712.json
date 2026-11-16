@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1107122001,
+      "name": "Cot"
+    },
+    {
+      "code": 1107122002,
+      "name": "Tgk Dilaweueng"
+    },
+    {
+      "code": 1107122003,
+      "name": "Mesjid"
+    },
+    {
+      "code": 1107122004,
+      "name": "Keupula"
+    },
+    {
+      "code": 1107122005,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1107122006,
+      "name": "Pawod"
+    },
+    {
+      "code": 1107122007,
+      "name": "Deyah"
+    },
+    {
+      "code": 1107122008,
+      "name": "Krueng"
+    },
+    {
+      "code": 1107122009,
+      "name": "Gle Cut"
+    },
+    {
+      "code": 1107122010,
+      "name": "IE Masen"
+    },
+    {
+      "code": 1107122011,
+      "name": "Sagoe"
+    },
+    {
+      "code": 1107122012,
+      "name": "Ujong Pie"
+    },
+    {
+      "code": 1107122013,
+      "name": "Blang Raya"
+    },
+    {
+      "code": 1107122014,
+      "name": "Batee"
+    },
+    {
+      "code": 1107122015,
+      "name": "Ingin Jaya"
+    },
+    {
+      "code": 1107122016,
+      "name": "Papeun"
+    },
+    {
+      "code": 1107122017,
+      "name": "Tuha Biheue"
+    },
+    {
+      "code": 1107122018,
+      "name": "Simpang Beutong"
+    }
+  ]
+}

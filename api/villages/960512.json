@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9605122001,
+      "name": "Mupas"
+    },
+    {
+      "code": 9605122002,
+      "name": "Kamat"
+    },
+    {
+      "code": 9605122003,
+      "name": "Frambu"
+    },
+    {
+      "code": 9605122004,
+      "name": "Ayata"
+    },
+    {
+      "code": 9605122005,
+      "name": "Aikus"
+    },
+    {
+      "code": 9605122006,
+      "name": "Aiwesa"
+    },
+    {
+      "code": 9605122007,
+      "name": "Pitor"
+    },
+    {
+      "code": 9605122008,
+      "name": "Aifam"
+    },
+    {
+      "code": 9605122009,
+      "name": "Saud"
+    },
+    {
+      "code": 9605122010,
+      "name": "Tiam"
+    },
+    {
+      "code": 9605122011,
+      "name": "Faan Kahrio"
+    },
+    {
+      "code": 9605122012,
+      "name": "Assem"
+    }
+  ]
+}

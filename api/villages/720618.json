@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7206182001,
+      "name": "Oneputeh Jaya"
+    },
+    {
+      "code": 7206182002,
+      "name": "Bahomotefe"
+    },
+    {
+      "code": 7206182003,
+      "name": "Bahomoahi"
+    },
+    {
+      "code": 7206182004,
+      "name": "Ululere"
+    },
+    {
+      "code": 7206182005,
+      "name": "Kolono"
+    },
+    {
+      "code": 7206182006,
+      "name": "Geresa"
+    },
+    {
+      "code": 7206182007,
+      "name": "Laroue"
+    },
+    {
+      "code": 7206182008,
+      "name": "Nambo"
+    },
+    {
+      "code": 7206182009,
+      "name": "Unsongi"
+    },
+    {
+      "code": 7206182010,
+      "name": "Lahuafu"
+    }
+  ]
+}

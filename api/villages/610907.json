@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6109072001,
+      "name": "Nanga Ansar"
+    },
+    {
+      "code": 6109072002,
+      "name": "Padak"
+    },
+    {
+      "code": 6109072003,
+      "name": "Setuntung"
+    },
+    {
+      "code": 6109072004,
+      "name": "Belitang Satu"
+    },
+    {
+      "code": 6109072005,
+      "name": "Belitang Dua"
+    },
+    {
+      "code": 6109072006,
+      "name": "Menua Prama"
+    },
+    {
+      "code": 6109072007,
+      "name": "Maboh Permai"
+    }
+  ]
+}

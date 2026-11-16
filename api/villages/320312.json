@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3203122001,
+      "name": "Sukagalih"
+    },
+    {
+      "code": 3203122002,
+      "name": "Gudang"
+    },
+    {
+      "code": 3203122003,
+      "name": "Cinangsi"
+    },
+    {
+      "code": 3203122004,
+      "name": "Cijagang"
+    },
+    {
+      "code": 3203122005,
+      "name": "Majalaya"
+    },
+    {
+      "code": 3203122006,
+      "name": "Kamurang"
+    },
+    {
+      "code": 3203122007,
+      "name": "Warudoyong"
+    },
+    {
+      "code": 3203122008,
+      "name": "Ciramagirang"
+    },
+    {
+      "code": 3203122009,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3203122010,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203122011,
+      "name": "Padajaya"
+    },
+    {
+      "code": 3203122012,
+      "name": "Cigunungherang"
+    },
+    {
+      "code": 3203122013,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3203122014,
+      "name": "Mekargalih"
+    },
+    {
+      "code": 3203122015,
+      "name": "Lembahsari"
+    },
+    {
+      "code": 3203122016,
+      "name": "Mentengsari"
+    },
+    {
+      "code": 3203122017,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3203122018,
+      "name": "Mekarmulya"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501362001,
+      "name": "Sogokmo"
+    },
+    {
+      "code": 9501362002,
+      "name": "Asotipo"
+    },
+    {
+      "code": 9501362003,
+      "name": "Putagaima"
+    },
+    {
+      "code": 9501362004,
+      "name": "Kuantapo"
+    },
+    {
+      "code": 9501362005,
+      "name": "Heberima"
+    },
+    {
+      "code": 9501362006,
+      "name": "Iwigima"
+    },
+    {
+      "code": 9501362007,
+      "name": "Pobiatma"
+    },
+    {
+      "code": 9501362008,
+      "name": "Hitigima"
+    },
+    {
+      "code": 9501362009,
+      "name": "Air Garam"
+    },
+    {
+      "code": 9501362010,
+      "name": "Hukulimo"
+    }
+  ]
+}

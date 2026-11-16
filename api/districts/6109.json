@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 districts",
+  "data": [
+    {
+      "code": 610901,
+      "name": "Sekadau Hilir"
+    },
+    {
+      "code": 610902,
+      "name": "Sekadau Hulu"
+    },
+    {
+      "code": 610903,
+      "name": "Nanga Taman"
+    },
+    {
+      "code": 610904,
+      "name": "Nanga Mahap"
+    },
+    {
+      "code": 610905,
+      "name": "Belitang Hilir"
+    },
+    {
+      "code": 610906,
+      "name": "Belitang Hulu"
+    },
+    {
+      "code": 610907,
+      "name": "Belitang"
+    }
+  ]
+}

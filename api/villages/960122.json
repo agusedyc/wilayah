@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9601222001,
+      "name": "Buk"
+    },
+    {
+      "code": 9601222002,
+      "name": "Mlakhan"
+    },
+    {
+      "code": 9601222003,
+      "name": "Klais"
+    },
+    {
+      "code": 9601222004,
+      "name": "Mimpe"
+    },
+    {
+      "code": 9601222005,
+      "name": "Tiklen"
+    },
+    {
+      "code": 9601222006,
+      "name": "Klahen"
+    },
+    {
+      "code": 9601222007,
+      "name": "Moos"
+    }
+  ]
+}

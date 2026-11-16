@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8272011001,
+      "name": "Soasio"
+    },
+    {
+      "code": 8272011002,
+      "name": "Gamtufkange"
+    },
+    {
+      "code": 8272011003,
+      "name": "Indonesiana"
+    },
+    {
+      "code": 8272011005,
+      "name": "Seli"
+    },
+    {
+      "code": 8272011006,
+      "name": "Soadara"
+    },
+    {
+      "code": 8272011007,
+      "name": "Topo"
+    },
+    {
+      "code": 8272011008,
+      "name": "Gurabunga"
+    },
+    {
+      "code": 8272011012,
+      "name": "Goto"
+    },
+    {
+      "code": 8272011013,
+      "name": "Tomagoba"
+    },
+    {
+      "code": 8272011014,
+      "name": "Folarora"
+    },
+    {
+      "code": 8272011015,
+      "name": "Topo Tiga"
+    },
+    {
+      "code": 8272011016,
+      "name": "Tambula"
+    },
+    {
+      "code": 8272011017,
+      "name": "Tuguwaji"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9206152001,
+      "name": "Sara"
+    },
+    {
+      "code": 9206152002,
+      "name": "Warga Nusa I"
+    },
+    {
+      "code": 9206152003,
+      "name": "Warga Nusa II"
+    },
+    {
+      "code": 9206152004,
+      "name": "Tugarama"
+    },
+    {
+      "code": 9206152005,
+      "name": "Suga"
+    }
+  ]
+}

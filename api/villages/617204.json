@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6172041001,
+      "name": "Sungai Garam Hilir"
+    },
+    {
+      "code": 6172041002,
+      "name": "Naram"
+    },
+    {
+      "code": 6172041003,
+      "name": "Sungai Bulan"
+    },
+    {
+      "code": 6172041004,
+      "name": "Sungai Rasau"
+    },
+    {
+      "code": 6172041005,
+      "name": "Setapuk Kecil"
+    },
+    {
+      "code": 6172041006,
+      "name": "Setapuk Besar"
+    },
+    {
+      "code": 6172041007,
+      "name": "Semelagi Kecil"
+    }
+  ]
+}

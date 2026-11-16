@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7402211003,
+      "name": "Laosu"
+    },
+    {
+      "code": 7402212002,
+      "name": "Pebunooha"
+    },
+    {
+      "code": 7402212004,
+      "name": "Lalonggalaku"
+    },
+    {
+      "code": 7402212009,
+      "name": "Diolo"
+    },
+    {
+      "code": 7402212018,
+      "name": "Pebunooha Dalam"
+    },
+    {
+      "code": 7402212023,
+      "name": "Rumbia"
+    },
+    {
+      "code": 7402212028,
+      "name": "Rambu Kongga"
+    },
+    {
+      "code": 7402212029,
+      "name": "Laosu Jaya"
+    },
+    {
+      "code": 7402212031,
+      "name": "Langgaluku Timur"
+    }
+  ]
+}

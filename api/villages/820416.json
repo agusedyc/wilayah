@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8204162001,
+      "name": "Loleo Jaya"
+    },
+    {
+      "code": 8204162002,
+      "name": "Tawa"
+    },
+    {
+      "code": 8204162003,
+      "name": "Marituso"
+    },
+    {
+      "code": 8204162004,
+      "name": "Kou Balabala"
+    },
+    {
+      "code": 8204162005,
+      "name": "Loleo Mekar"
+    },
+    {
+      "code": 8204162006,
+      "name": "Tutuhu"
+    },
+    {
+      "code": 8204162007,
+      "name": "Jeret"
+    },
+    {
+      "code": 8204162008,
+      "name": "Kasiruta Dalam"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6503212001,
+      "name": "Tau Lumbis"
+    },
+    {
+      "code": 6503212002,
+      "name": "Lipaga"
+    },
+    {
+      "code": 6503212003,
+      "name": "Bululaun Hulu"
+    },
+    {
+      "code": 6503212004,
+      "name": "Kalisun"
+    },
+    {
+      "code": 6503212005,
+      "name": "Mamasin"
+    },
+    {
+      "code": 6503212006,
+      "name": "Sibalu"
+    },
+    {
+      "code": 6503212007,
+      "name": "Duyan"
+    },
+    {
+      "code": 6503212008,
+      "name": "Tuntulibing"
+    },
+    {
+      "code": 6503212009,
+      "name": "Tetagas"
+    },
+    {
+      "code": 6503212010,
+      "name": "Kabungolor"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504212001,
+      "name": "Numba"
+    },
+    {
+      "code": 9504212002,
+      "name": "Baliminggi"
+    },
+    {
+      "code": 9504212003,
+      "name": "Kuma"
+    },
+    {
+      "code": 9504212004,
+      "name": "Yugumena"
+    },
+    {
+      "code": 9504212005,
+      "name": "Yalogo"
+    },
+    {
+      "code": 9504212006,
+      "name": "Yiragame"
+    },
+    {
+      "code": 9504212007,
+      "name": "Tingwineri"
+    },
+    {
+      "code": 9504212008,
+      "name": "Guniki"
+    },
+    {
+      "code": 9504212009,
+      "name": "Keragigelok"
+    },
+    {
+      "code": 9504212010,
+      "name": "Jinuwanu"
+    }
+  ]
+}

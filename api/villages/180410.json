@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1804102001,
+      "name": "Kembahang"
+    },
+    {
+      "code": 1804102002,
+      "name": "Negeri Ratu"
+    },
+    {
+      "code": 1804102003,
+      "name": "Kegeringan"
+    },
+    {
+      "code": 1804102004,
+      "name": "Gunung Sugih"
+    },
+    {
+      "code": 1804102005,
+      "name": "Pekon Balak"
+    },
+    {
+      "code": 1804102006,
+      "name": "Sukabumi"
+    },
+    {
+      "code": 1804102007,
+      "name": "Canggu"
+    },
+    {
+      "code": 1804102008,
+      "name": "Kotabesi"
+    },
+    {
+      "code": 1804102009,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1804102010,
+      "name": "Kerang"
+    },
+    {
+      "code": 1804102011,
+      "name": "Teba Liokh"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7322072001,
+      "name": "Tirobali"
+    },
+    {
+      "code": 7322072002,
+      "name": "Malimongan"
+    },
+    {
+      "code": 7322072003,
+      "name": "Tanamakaleang"
+    },
+    {
+      "code": 7322072004,
+      "name": "Padang Balua"
+    },
+    {
+      "code": 7322072005,
+      "name": "Padang Raya"
+    },
+    {
+      "code": 7322072006,
+      "name": "Embonatana"
+    },
+    {
+      "code": 7322072007,
+      "name": "Hono"
+    },
+    {
+      "code": 7322072008,
+      "name": "Beroppa"
+    },
+    {
+      "code": 7322072009,
+      "name": "Lodang"
+    },
+    {
+      "code": 7322072010,
+      "name": "Taloto"
+    },
+    {
+      "code": 7322072011,
+      "name": "Hoyane"
+    },
+    {
+      "code": 7322072012,
+      "name": "Marante"
+    }
+  ]
+}

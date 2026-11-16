@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6207082001,
+      "name": "Asam Baru"
+    },
+    {
+      "code": 6207082002,
+      "name": "Tanjung Hara"
+    },
+    {
+      "code": 6207082003,
+      "name": "Tanjung Paring"
+    },
+    {
+      "code": 6207082004,
+      "name": "Tanjung Rangas II"
+    },
+    {
+      "code": 6207082005,
+      "name": "Panimba Raya"
+    },
+    {
+      "code": 6207082006,
+      "name": "Rungau Raya"
+    }
+  ]
+}

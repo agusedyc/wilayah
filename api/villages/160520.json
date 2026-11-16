@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1605202001,
+      "name": "Banpres"
+    },
+    {
+      "code": 1605202002,
+      "name": "Jaya Tunggal"
+    },
+    {
+      "code": 1605202003,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 1605202004,
+      "name": "Darma Sakti"
+    },
+    {
+      "code": 1605202005,
+      "name": "Jaya Bhakti"
+    },
+    {
+      "code": 1605202006,
+      "name": "Remayu"
+    },
+    {
+      "code": 1605202007,
+      "name": "Petunang"
+    },
+    {
+      "code": 1605202008,
+      "name": "Lubuk Rumbai"
+    },
+    {
+      "code": 1605202009,
+      "name": "Air Beliti"
+    },
+    {
+      "code": 1605202010,
+      "name": "Leban Jaya"
+    },
+    {
+      "code": 1605202011,
+      "name": "Bamasco"
+    }
+  ]
+}

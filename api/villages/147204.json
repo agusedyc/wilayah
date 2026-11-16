@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1472041001,
+      "name": "Lubuk Gaung"
+    },
+    {
+      "code": 1472041002,
+      "name": "Tanjung Penyembal"
+    },
+    {
+      "code": 1472041003,
+      "name": "Bangsal Aceh"
+    },
+    {
+      "code": 1472041004,
+      "name": "Basilam Baru"
+    },
+    {
+      "code": 1472041005,
+      "name": "Batu Teritip"
+    },
+    {
+      "code": 1472041006,
+      "name": "Sungai Geniot"
+    }
+  ]
+}

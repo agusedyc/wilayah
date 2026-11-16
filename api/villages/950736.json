@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9507362001,
+      "name": "Wanggagome"
+    },
+    {
+      "code": 9507362002,
+      "name": "Langgime"
+    },
+    {
+      "code": 9507362003,
+      "name": "Wulawa"
+    },
+    {
+      "code": 9507362004,
+      "name": "Pindalo"
+    },
+    {
+      "code": 9507362005,
+      "name": "Kotorambur"
+    },
+    {
+      "code": 9507362006,
+      "name": "Ambime"
+    },
+    {
+      "code": 9507362007,
+      "name": "Wumbanakme"
+    },
+    {
+      "code": 9507362008,
+      "name": "Yimiribaga"
+    },
+    {
+      "code": 9507362009,
+      "name": "Elubaga"
+    }
+  ]
+}

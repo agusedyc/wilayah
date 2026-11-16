@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7208142001,
+      "name": "Karya Agung"
+    },
+    {
+      "code": 7208142002,
+      "name": "Nunurantai"
+    },
+    {
+      "code": 7208142003,
+      "name": "Palapi"
+    },
+    {
+      "code": 7208142004,
+      "name": "Taopa"
+    },
+    {
+      "code": 7208142005,
+      "name": "Tuladenggi Sibatang"
+    },
+    {
+      "code": 7208142006,
+      "name": "Tompo"
+    },
+    {
+      "code": 7208142007,
+      "name": "Taopa Utara"
+    },
+    {
+      "code": 7208142008,
+      "name": "Bilalea"
+    },
+    {
+      "code": 7208142009,
+      "name": "Taopa Barat"
+    },
+    {
+      "code": 7208142010,
+      "name": "Paria"
+    },
+    {
+      "code": 7208142011,
+      "name": "Karya Abadi"
+    }
+  ]
+}

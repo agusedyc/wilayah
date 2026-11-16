@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3321082001,
+      "name": "Surodadi"
+    },
+    {
+      "code": 3321082002,
+      "name": "Jatisono"
+    },
+    {
+      "code": 3321082003,
+      "name": "Kedondong"
+    },
+    {
+      "code": 3321082004,
+      "name": "Gedangalas"
+    },
+    {
+      "code": 3321082005,
+      "name": "Sambiroto"
+    },
+    {
+      "code": 3321082006,
+      "name": "Tanjunganyar"
+    },
+    {
+      "code": 3321082007,
+      "name": "Wilalung"
+    },
+    {
+      "code": 3321082008,
+      "name": "Medini"
+    },
+    {
+      "code": 3321082009,
+      "name": "Mlatiharjo"
+    },
+    {
+      "code": 3321082010,
+      "name": "Tambirejo"
+    },
+    {
+      "code": 3321082011,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3321082012,
+      "name": "Boyolali"
+    },
+    {
+      "code": 3321082013,
+      "name": "Gajah"
+    },
+    {
+      "code": 3321082014,
+      "name": "Sari"
+    },
+    {
+      "code": 3321082015,
+      "name": "Mlekang"
+    },
+    {
+      "code": 3321082016,
+      "name": "Sambung"
+    },
+    {
+      "code": 3321082017,
+      "name": "Mojosimo"
+    },
+    {
+      "code": 3321082018,
+      "name": "Tlogopandogan"
+    }
+  ]
+}

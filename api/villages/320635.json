@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206352001,
+      "name": "Condong"
+    },
+    {
+      "code": 3206352002,
+      "name": "Bojonggaok"
+    },
+    {
+      "code": 3206352003,
+      "name": "Sindangraja"
+    },
+    {
+      "code": 3206352004,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3206352005,
+      "name": "Geresik"
+    },
+    {
+      "code": 3206352006,
+      "name": "Karangsembung"
+    },
+    {
+      "code": 3206352007,
+      "name": "Tanjungmekar"
+    },
+    {
+      "code": 3206352008,
+      "name": "Karangresik"
+    }
+  ]
+}

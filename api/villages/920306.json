@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9203062001,
+      "name": "Malakuli"
+    },
+    {
+      "code": 9203062002,
+      "name": "Faur"
+    },
+    {
+      "code": 9203062003,
+      "name": "Kiaba"
+    },
+    {
+      "code": 9203062004,
+      "name": "Antalisa"
+    },
+    {
+      "code": 9203062005,
+      "name": "Tarak"
+    },
+    {
+      "code": 9203062006,
+      "name": "Tuberwasak"
+    },
+    {
+      "code": 9203062007,
+      "name": "Mas"
+    }
+  ]
+}

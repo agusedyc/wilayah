@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3578061001,
+      "name": "Petemon"
+    },
+    {
+      "code": 3578061002,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3578061003,
+      "name": "Banyu Urip"
+    },
+    {
+      "code": 3578061004,
+      "name": "Putat Jaya"
+    },
+    {
+      "code": 3578061005,
+      "name": "Kupang Krajan"
+    },
+    {
+      "code": 3578061006,
+      "name": "Pakis"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3175031001,
+      "name": "Kampung Melayu"
+    },
+    {
+      "code": 3175031002,
+      "name": "Bidara Cina"
+    },
+    {
+      "code": 3175031003,
+      "name": "Bali Mester"
+    },
+    {
+      "code": 3175031004,
+      "name": "Rawa Bunga"
+    },
+    {
+      "code": 3175031005,
+      "name": "Cipinang Cempedak"
+    },
+    {
+      "code": 3175031006,
+      "name": "Cipinang Muara"
+    },
+    {
+      "code": 3175031007,
+      "name": "Cipinang Besar Selatan"
+    },
+    {
+      "code": 3175031008,
+      "name": "Cipinang Besar Utara"
+    }
+  ]
+}

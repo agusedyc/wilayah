@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7603152001,
+      "name": "Salumokanan"
+    },
+    {
+      "code": 7603152003,
+      "name": "Salumokanan Barat"
+    },
+    {
+      "code": 7603152004,
+      "name": "Buangin"
+    },
+    {
+      "code": 7603152005,
+      "name": "Bambang Buda"
+    },
+    {
+      "code": 7603152006,
+      "name": "Leko"
+    },
+    {
+      "code": 7603152007,
+      "name": "Kirak"
+    },
+    {
+      "code": 7603152008,
+      "name": "Salumokanan Utara"
+    },
+    {
+      "code": 7603152009,
+      "name": "Sampale"
+    }
+  ]
+}

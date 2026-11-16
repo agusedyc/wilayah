@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3202432001,
+      "name": "Cidolog"
+    },
+    {
+      "code": 3202432002,
+      "name": "Cipamingkis"
+    },
+    {
+      "code": 3202432003,
+      "name": "Cikarang"
+    },
+    {
+      "code": 3202432004,
+      "name": "Tegallega"
+    },
+    {
+      "code": 3202432005,
+      "name": "Mekarjaya"
+    }
+  ]
+}

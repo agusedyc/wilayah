@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804192001,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1804192002,
+      "name": "Semarang Jaya"
+    },
+    {
+      "code": 1804192003,
+      "name": "Sumber Alam"
+    },
+    {
+      "code": 1804192004,
+      "name": "Gunungterang"
+    },
+    {
+      "code": 1804192005,
+      "name": "Suka Jadi"
+    },
+    {
+      "code": 1804192006,
+      "name": "Sri Menanti"
+    },
+    {
+      "code": 1804192007,
+      "name": "Sinar Jaya"
+    },
+    {
+      "code": 1804192008,
+      "name": "Rigis Jaya"
+    },
+    {
+      "code": 1804192009,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1804192010,
+      "name": "Manggarai"
+    }
+  ]
+}

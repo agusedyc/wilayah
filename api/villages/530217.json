@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5302172001,
+      "name": "OP"
+    },
+    {
+      "code": 5302172002,
+      "name": "Sahan"
+    },
+    {
+      "code": 5302172003,
+      "name": "Nenoat"
+    },
+    {
+      "code": 5302172004,
+      "name": "Haineno"
+    },
+    {
+      "code": 5302172005,
+      "name": "Nunkolo"
+    },
+    {
+      "code": 5302172006,
+      "name": "Saenam"
+    },
+    {
+      "code": 5302172007,
+      "name": "Fat"
+    },
+    {
+      "code": 5302172008,
+      "name": "Haumeni"
+    },
+    {
+      "code": 5302172009,
+      "name": "Putun"
+    }
+  ]
+}

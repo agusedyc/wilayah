@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3320112001,
+      "name": "Ngabul"
+    },
+    {
+      "code": 3320112002,
+      "name": "Langon"
+    },
+    {
+      "code": 3320112003,
+      "name": "Sukodono"
+    },
+    {
+      "code": 3320112004,
+      "name": "Petekeyan"
+    },
+    {
+      "code": 3320112005,
+      "name": "Mangunan"
+    },
+    {
+      "code": 3320112006,
+      "name": "Platar"
+    },
+    {
+      "code": 3320112007,
+      "name": "Semat"
+    },
+    {
+      "code": 3320112008,
+      "name": "Telukawur"
+    },
+    {
+      "code": 3320112009,
+      "name": "Demangan"
+    },
+    {
+      "code": 3320112010,
+      "name": "Tegalsambi"
+    },
+    {
+      "code": 3320112011,
+      "name": "Mantingan"
+    },
+    {
+      "code": 3320112012,
+      "name": "Tahunan"
+    },
+    {
+      "code": 3320112013,
+      "name": "Kecapi"
+    },
+    {
+      "code": 3320112014,
+      "name": "Senenan"
+    },
+    {
+      "code": 3320112015,
+      "name": "Krapyak"
+    }
+  ]
+}

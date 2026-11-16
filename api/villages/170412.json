@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1704122001,
+      "name": "Suka Banjar"
+    },
+    {
+      "code": 1704122002,
+      "name": "Tanjung Bunga"
+    },
+    {
+      "code": 1704122003,
+      "name": "Cucupan"
+    },
+    {
+      "code": 1704122004,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1704122005,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1704122006,
+      "name": "Babat"
+    },
+    {
+      "code": 1704122007,
+      "name": "Kepahyang"
+    },
+    {
+      "code": 1704122008,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1704122009,
+      "name": "Muara Tetap"
+    },
+    {
+      "code": 1704122010,
+      "name": "Kasuk Baru"
+    },
+    {
+      "code": 1704122011,
+      "name": "Padang Binjai"
+    },
+    {
+      "code": 1704122012,
+      "name": "Suka Raja"
+    }
+  ]
+}

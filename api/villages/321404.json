@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3214042001,
+      "name": "Plered"
+    },
+    {
+      "code": 3214042002,
+      "name": "Palinggihan"
+    },
+    {
+      "code": 3214042003,
+      "name": "Cibogohilir"
+    },
+    {
+      "code": 3214042004,
+      "name": "Linggarsari"
+    },
+    {
+      "code": 3214042005,
+      "name": "Gandasoli"
+    },
+    {
+      "code": 3214042006,
+      "name": "Citeko"
+    },
+    {
+      "code": 3214042007,
+      "name": "Liunggunung"
+    },
+    {
+      "code": 3214042008,
+      "name": "Rawasari"
+    },
+    {
+      "code": 3214042009,
+      "name": "Anjun"
+    },
+    {
+      "code": 3214042010,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3214042011,
+      "name": "Babakansari"
+    },
+    {
+      "code": 3214042012,
+      "name": "Gandamekar"
+    },
+    {
+      "code": 3214042013,
+      "name": "Citekokaler"
+    },
+    {
+      "code": 3214042014,
+      "name": "Pamoyanan"
+    },
+    {
+      "code": 3214042015,
+      "name": "Sempur"
+    },
+    {
+      "code": 3214042016,
+      "name": "Cibogo Girang"
+    }
+  ]
+}

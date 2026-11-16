@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1505031008,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1505032001,
+      "name": "Puding"
+    },
+    {
+      "code": 1505032002,
+      "name": "Pulau Mentaro"
+    },
+    {
+      "code": 1505032003,
+      "name": "Betung"
+    },
+    {
+      "code": 1505032004,
+      "name": "Pematang Raman"
+    },
+    {
+      "code": 1505032005,
+      "name": "Sungai Bungur"
+    },
+    {
+      "code": 1505032006,
+      "name": "Seponjen"
+    },
+    {
+      "code": 1505032007,
+      "name": "Sogo"
+    },
+    {
+      "code": 1505032009,
+      "name": "Sungai Aur"
+    },
+    {
+      "code": 1505032010,
+      "name": "Jebus"
+    },
+    {
+      "code": 1505032011,
+      "name": "Gedong Karya"
+    },
+    {
+      "code": 1505032013,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1505032014,
+      "name": "Londerang"
+    },
+    {
+      "code": 1505032016,
+      "name": "Petanang"
+    },
+    {
+      "code": 1505032017,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1505032018,
+      "name": "Rondang"
+    },
+    {
+      "code": 1505032019,
+      "name": "Maju Jaya"
+    }
+  ]
+}

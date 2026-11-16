@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6307042001,
+      "name": "Parumahan"
+    },
+    {
+      "code": 6307042002,
+      "name": "Kasarangan"
+    },
+    {
+      "code": 6307042003,
+      "name": "Banua Kupang"
+    },
+    {
+      "code": 6307042004,
+      "name": "Rantau Keminting"
+    },
+    {
+      "code": 6307042005,
+      "name": "Pemangkih"
+    },
+    {
+      "code": 6307042006,
+      "name": "Pemangkih Seberang"
+    },
+    {
+      "code": 6307042007,
+      "name": "Binjai Pemangkih"
+    },
+    {
+      "code": 6307042008,
+      "name": "Samhurang"
+    },
+    {
+      "code": 6307042009,
+      "name": "Pahalatan"
+    },
+    {
+      "code": 6307042010,
+      "name": "Mantaas"
+    },
+    {
+      "code": 6307042011,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 6307042012,
+      "name": "Kadundung"
+    },
+    {
+      "code": 6307042013,
+      "name": "Tungkup"
+    },
+    {
+      "code": 6307042014,
+      "name": "Tabat"
+    },
+    {
+      "code": 6307042015,
+      "name": "Rantau Bujur"
+    },
+    {
+      "code": 6307042016,
+      "name": "Binjai Pirua"
+    }
+  ]
+}

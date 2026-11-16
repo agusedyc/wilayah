@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273221001,
+      "name": "Sekejati"
+    },
+    {
+      "code": 3273221002,
+      "name": "Margasari"
+    },
+    {
+      "code": 3273221003,
+      "name": "Cijaura"
+    },
+    {
+      "code": 3273221004,
+      "name": "Jati Sari"
+    }
+  ]
+}

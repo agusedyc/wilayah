@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3671041001,
+      "name": "Belendung"
+    },
+    {
+      "code": 3671041002,
+      "name": "Jurumudi"
+    },
+    {
+      "code": 3671041003,
+      "name": "Benda"
+    },
+    {
+      "code": 3671041004,
+      "name": "Pajang"
+    },
+    {
+      "code": 3671041005,
+      "name": "Jurumudi Baru"
+    }
+  ]
+}

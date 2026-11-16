@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "Showing 28 villages",
+  "data": [
+    {
+      "code": 1107192001,
+      "name": "Keude Tangse"
+    },
+    {
+      "code": 1107192002,
+      "name": "Pulo Mesjid I"
+    },
+    {
+      "code": 1107192003,
+      "name": "Pulo Mesjid II"
+    },
+    {
+      "code": 1107192004,
+      "name": "Pulo Sejahtera"
+    },
+    {
+      "code": 1107192005,
+      "name": "Pulo Kawa"
+    },
+    {
+      "code": 1107192006,
+      "name": "Pulo Seunong"
+    },
+    {
+      "code": 1107192007,
+      "name": "Nubok Badeuk"
+    },
+    {
+      "code": 1107192008,
+      "name": "Blang Jeurat"
+    },
+    {
+      "code": 1107192009,
+      "name": "Pulo Baro"
+    },
+    {
+      "code": 1107192010,
+      "name": "Layan"
+    },
+    {
+      "code": 1107192011,
+      "name": "Blang Dalam"
+    },
+    {
+      "code": 1107192012,
+      "name": "Peunalom I"
+    },
+    {
+      "code": 1107192013,
+      "name": "Peunalom II"
+    },
+    {
+      "code": 1107192014,
+      "name": "Krueng Meuriam"
+    },
+    {
+      "code": 1107192015,
+      "name": "Blang Teungoh"
+    },
+    {
+      "code": 1107192016,
+      "name": "Blang Dhot"
+    },
+    {
+      "code": 1107192017,
+      "name": "Blang Bungong"
+    },
+    {
+      "code": 1107192018,
+      "name": "Ulee Gunong"
+    },
+    {
+      "code": 1107192019,
+      "name": "Keubon Nilam"
+    },
+    {
+      "code": 1107192020,
+      "name": "Paya Guci"
+    },
+    {
+      "code": 1107192021,
+      "name": "Ranto Panyang"
+    },
+    {
+      "code": 1107192022,
+      "name": "Blang Malo"
+    },
+    {
+      "code": 1107192023,
+      "name": "Krueng Seukeuek"
+    },
+    {
+      "code": 1107192024,
+      "name": "Beungga"
+    },
+    {
+      "code": 1107192025,
+      "name": "Alue Calong"
+    },
+    {
+      "code": 1107192026,
+      "name": "Pulo Ie"
+    },
+    {
+      "code": 1107192027,
+      "name": "Lhok Keutapang"
+    },
+    {
+      "code": 1107192028,
+      "name": "Blang Pandak"
+    }
+  ]
+}

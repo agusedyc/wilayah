@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6309122001,
+      "name": "Waling"
+    },
+    {
+      "code": 6309122002,
+      "name": "Usih"
+    },
+    {
+      "code": 6309122003,
+      "name": "Bintang Ara"
+    },
+    {
+      "code": 6309122004,
+      "name": "Burum"
+    },
+    {
+      "code": 6309122005,
+      "name": "Panaan"
+    },
+    {
+      "code": 6309122006,
+      "name": "Dambung Raya"
+    },
+    {
+      "code": 6309122007,
+      "name": "Argo Mulyo"
+    },
+    {
+      "code": 6309122008,
+      "name": "Bumi Makmur"
+    },
+    {
+      "code": 6309122009,
+      "name": "Hegarmanah"
+    }
+  ]
+}

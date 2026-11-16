@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1805252001,
+      "name": "Teladas"
+    },
+    {
+      "code": 1805252002,
+      "name": "Kekatung"
+    },
+    {
+      "code": 1805252003,
+      "name": "Kuala Teladas"
+    },
+    {
+      "code": 1805252004,
+      "name": "Mahabang"
+    },
+    {
+      "code": 1805252005,
+      "name": "Sungai Nibung"
+    },
+    {
+      "code": 1805252006,
+      "name": "Pasiran Jaya"
+    },
+    {
+      "code": 1805252007,
+      "name": "Bratasena Adiwarna"
+    },
+    {
+      "code": 1805252008,
+      "name": "Bratasena Mandiri"
+    },
+    {
+      "code": 1805252009,
+      "name": "Way Dente"
+    },
+    {
+      "code": 1805252010,
+      "name": "Dente Makmur"
+    },
+    {
+      "code": 1805252011,
+      "name": "Pendowo Asri"
+    },
+    {
+      "code": 1805252012,
+      "name": "Sungai Burung"
+    }
+  ]
+}

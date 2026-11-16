@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9601132001,
+      "name": "Luwelala"
+    },
+    {
+      "code": 9601132002,
+      "name": "Klatim"
+    },
+    {
+      "code": 9601132003,
+      "name": "Klaos"
+    },
+    {
+      "code": 9601132004,
+      "name": "Suluh"
+    },
+    {
+      "code": 9601132005,
+      "name": "Bousui"
+    },
+    {
+      "code": 9601132006,
+      "name": "Kamuyar"
+    },
+    {
+      "code": 9601132007,
+      "name": "Klaka"
+    },
+    {
+      "code": 9601132008,
+      "name": "Safdesa"
+    },
+    {
+      "code": 9601132009,
+      "name": "Klagen"
+    }
+  ]
+}

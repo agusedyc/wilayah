@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6310052001,
+      "name": "Lasung"
+    },
+    {
+      "code": 6310052002,
+      "name": "Manuntung"
+    },
+    {
+      "code": 6310052003,
+      "name": "Anjir Baru"
+    },
+    {
+      "code": 6310052004,
+      "name": "Binawara"
+    },
+    {
+      "code": 6310052005,
+      "name": "Pacakan"
+    },
+    {
+      "code": 6310052012,
+      "name": "Sungai Rukam"
+    },
+    {
+      "code": 6310052015,
+      "name": "Bakarangan"
+    },
+    {
+      "code": 6310052019,
+      "name": "Karang Mulya"
+    },
+    {
+      "code": 6310052020,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 6310052021,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 6310052022,
+      "name": "Karang Sari"
+    }
+  ]
+}

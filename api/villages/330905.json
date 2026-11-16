@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3309051001,
+      "name": "Pulisen"
+    },
+    {
+      "code": 3309051002,
+      "name": "Siswodipuran"
+    },
+    {
+      "code": 3309051004,
+      "name": "Banaran"
+    },
+    {
+      "code": 3309052003,
+      "name": "Karanggeneng"
+    },
+    {
+      "code": 3309052005,
+      "name": "Winong"
+    },
+    {
+      "code": 3309052006,
+      "name": "Penggung"
+    },
+    {
+      "code": 3309052007,
+      "name": "Kiringan"
+    },
+    {
+      "code": 3309052008,
+      "name": "Mudal"
+    },
+    {
+      "code": 3309052009,
+      "name": "Kebonbimo"
+    }
+  ]
+}

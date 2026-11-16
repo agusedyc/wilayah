@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9402122001,
+      "name": "Kulirik"
+    },
+    {
+      "code": 9402122002,
+      "name": "Doligobak"
+    },
+    {
+      "code": 9402122003,
+      "name": "Yalinggua"
+    },
+    {
+      "code": 9402122004,
+      "name": "Talilome"
+    },
+    {
+      "code": 9402122005,
+      "name": "Muara"
+    },
+    {
+      "code": 9402122006,
+      "name": "Karubate"
+    },
+    {
+      "code": 9402122007,
+      "name": "Dologobak"
+    },
+    {
+      "code": 9402122008,
+      "name": "Yambidugum"
+    }
+  ]
+}

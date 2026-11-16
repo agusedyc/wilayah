@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1603152001,
+      "name": "Baru Rambang"
+    },
+    {
+      "code": 1603152002,
+      "name": "Sugihan"
+    },
+    {
+      "code": 1603152003,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1603152004,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1603152005,
+      "name": "Sukarami"
+    },
+    {
+      "code": 1603152006,
+      "name": "Pagar Agung"
+    },
+    {
+      "code": 1603152007,
+      "name": "Sugih Waras"
+    },
+    {
+      "code": 1603152008,
+      "name": "Sumber Rahayu"
+    },
+    {
+      "code": 1603152009,
+      "name": "Marga Mulya"
+    },
+    {
+      "code": 1603152010,
+      "name": "Kencana Mulia"
+    },
+    {
+      "code": 1603152011,
+      "name": "Negeri Agung"
+    },
+    {
+      "code": 1603152012,
+      "name": "Sugihwaras Barat"
+    },
+    {
+      "code": 1603152013,
+      "name": "Air Keruh"
+    }
+  ]
+}

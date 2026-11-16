@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1204062006,
+      "name": "Hiliotalua"
+    },
+    {
+      "code": 1204062008,
+      "name": "Akhelauwe"
+    },
+    {
+      "code": 1204062016,
+      "name": "Hilisebua"
+    },
+    {
+      "code": 1204062017,
+      "name": "Somi"
+    },
+    {
+      "code": 1204062018,
+      "name": "Sirete"
+    },
+    {
+      "code": 1204062019,
+      "name": "Hiliweto Gido"
+    },
+    {
+      "code": 1204062020,
+      "name": "Loloana'a Gido"
+    },
+    {
+      "code": 1204062022,
+      "name": "Sisobahili"
+    },
+    {
+      "code": 1204062023,
+      "name": "Lahemo"
+    },
+    {
+      "code": 1204062024,
+      "name": "Ladea"
+    },
+    {
+      "code": 1204062027,
+      "name": "Umbu"
+    },
+    {
+      "code": 1204062028,
+      "name": "Soewe"
+    },
+    {
+      "code": 1204062029,
+      "name": "Lolozasai"
+    },
+    {
+      "code": 1204062030,
+      "name": "Lasara Idanoi"
+    },
+    {
+      "code": 1204062050,
+      "name": "Lasela"
+    },
+    {
+      "code": 1204062051,
+      "name": "Ladea Orahua"
+    },
+    {
+      "code": 1204062052,
+      "name": "Tulumbaho Salo'o"
+    },
+    {
+      "code": 1204062053,
+      "name": "Nifalo'olauru"
+    },
+    {
+      "code": 1204062054,
+      "name": "Hilizoi"
+    },
+    {
+      "code": 1204062055,
+      "name": "Somi Botogo'o"
+    },
+    {
+      "code": 1204062056,
+      "name": "Olindrawa Sisarahili"
+    }
+  ]
+}

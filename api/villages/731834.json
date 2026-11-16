@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7318341001,
+      "name": "Leatung"
+    },
+    {
+      "code": 7318341006,
+      "name": "Bebo'"
+    },
+    {
+      "code": 7318342002,
+      "name": "Rantela'bi Kambisa"
+    },
+    {
+      "code": 7318342003,
+      "name": "Leatung Matallo"
+    },
+    {
+      "code": 7318342004,
+      "name": "Saluallo"
+    },
+    {
+      "code": 7318342005,
+      "name": "Tumbang Datu"
+    }
+  ]
+}

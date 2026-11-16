@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7209012005,
+      "name": "Taningkola"
+    },
+    {
+      "code": 7209012006,
+      "name": "Bambu"
+    },
+    {
+      "code": 7209012007,
+      "name": "Wakai"
+    },
+    {
+      "code": 7209012008,
+      "name": "Una-Una"
+    },
+    {
+      "code": 7209012009,
+      "name": "Tanjung Pude"
+    },
+    {
+      "code": 7209012010,
+      "name": "Lembanya"
+    },
+    {
+      "code": 7209012014,
+      "name": "Cendana"
+    },
+    {
+      "code": 7209012015,
+      "name": "Binanguna"
+    },
+    {
+      "code": 7209012017,
+      "name": "Kavetan"
+    },
+    {
+      "code": 7209012018,
+      "name": "Tanimpo"
+    },
+    {
+      "code": 7209012019,
+      "name": "Luangon"
+    }
+  ]
+}

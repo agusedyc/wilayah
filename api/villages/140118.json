@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1401182001,
+      "name": "Muara Jalai"
+    },
+    {
+      "code": 1401182002,
+      "name": "Sawah"
+    },
+    {
+      "code": 1401182003,
+      "name": "Kampung Panjang"
+    },
+    {
+      "code": 1401182004,
+      "name": "Kayu Aro"
+    },
+    {
+      "code": 1401182005,
+      "name": "Sungai Tonang"
+    },
+    {
+      "code": 1401182006,
+      "name": "Sungai Jalau"
+    },
+    {
+      "code": 1401182007,
+      "name": "Sendayan"
+    },
+    {
+      "code": 1401182008,
+      "name": "Naga Beralih"
+    }
+  ]
+}

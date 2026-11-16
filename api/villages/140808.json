@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1408082001,
+      "name": "Bunga Raya"
+    },
+    {
+      "code": 1408082002,
+      "name": "Jati Baru"
+    },
+    {
+      "code": 1408082003,
+      "name": "Jayapura"
+    },
+    {
+      "code": 1408082011,
+      "name": "Kemuning Muda"
+    },
+    {
+      "code": 1408082012,
+      "name": "Buatan Lestari"
+    },
+    {
+      "code": 1408082013,
+      "name": "Tuah Indrapura"
+    },
+    {
+      "code": 1408082014,
+      "name": "Langsat Permai"
+    },
+    {
+      "code": 1408082015,
+      "name": "Temusai"
+    },
+    {
+      "code": 1408082016,
+      "name": "Dayang Suri"
+    },
+    {
+      "code": 1408082017,
+      "name": "Suak Merambai"
+    }
+  ]
+}

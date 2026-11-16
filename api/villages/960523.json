@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9605232001,
+      "name": "Jitmau"
+    },
+    {
+      "code": 9605232002,
+      "name": "Ikuf"
+    },
+    {
+      "code": 9605232003,
+      "name": "Isir"
+    },
+    {
+      "code": 9605232004,
+      "name": "Jitmau Timur"
+    },
+    {
+      "code": 9605232005,
+      "name": "Ikuf Utara"
+    },
+    {
+      "code": 9605232006,
+      "name": "Sarimo"
+    },
+    {
+      "code": 9605232007,
+      "name": "Kambusabo"
+    },
+    {
+      "code": 9605232008,
+      "name": "Srirtabam"
+    },
+    {
+      "code": 9605232009,
+      "name": "Faithowes"
+    },
+    {
+      "code": 9605232010,
+      "name": "Yumame"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3507162001,
+      "name": "Ngingit"
+    },
+    {
+      "code": 3507162002,
+      "name": "Kidal"
+    },
+    {
+      "code": 3507162003,
+      "name": "Kambingan"
+    },
+    {
+      "code": 3507162004,
+      "name": "Pandanajeng"
+    },
+    {
+      "code": 3507162005,
+      "name": "Pulungdowo"
+    },
+    {
+      "code": 3507162006,
+      "name": "Bokor"
+    },
+    {
+      "code": 3507162007,
+      "name": "Slamet"
+    },
+    {
+      "code": 3507162008,
+      "name": "Wringinsongo"
+    },
+    {
+      "code": 3507162009,
+      "name": "Jeru"
+    },
+    {
+      "code": 3507162010,
+      "name": "Malangsuko"
+    },
+    {
+      "code": 3507162011,
+      "name": "Tumpang"
+    },
+    {
+      "code": 3507162012,
+      "name": "Tulusbesar"
+    },
+    {
+      "code": 3507162013,
+      "name": "Duwet"
+    },
+    {
+      "code": 3507162014,
+      "name": "Benjor"
+    },
+    {
+      "code": 3507162015,
+      "name": "Duwet Krajan"
+    }
+  ]
+}

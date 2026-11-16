@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102252001,
+      "name": "Pinaesaan"
+    },
+    {
+      "code": 7102252002,
+      "name": "Tompaso Dua"
+    },
+    {
+      "code": 7102252003,
+      "name": "Tompaso II Utara"
+    },
+    {
+      "code": 7102252004,
+      "name": "Pinabetengan Utara"
+    },
+    {
+      "code": 7102252005,
+      "name": "Pinabetengan"
+    },
+    {
+      "code": 7102252006,
+      "name": "Pinabetengan Selatan"
+    },
+    {
+      "code": 7102252007,
+      "name": "Tonsewer"
+    },
+    {
+      "code": 7102252008,
+      "name": "Tonsewer Selatan"
+    },
+    {
+      "code": 7102252009,
+      "name": "Touure"
+    },
+    {
+      "code": 7102252010,
+      "name": "Touure Dua"
+    }
+  ]
+}

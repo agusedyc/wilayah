@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1702102001,
+      "name": "Air Mundu"
+    },
+    {
+      "code": 1702102002,
+      "name": "Tebat Tenong Dalam"
+    },
+    {
+      "code": 1702102003,
+      "name": "Baru Manis"
+    },
+    {
+      "code": 1702102012,
+      "name": "Kampung Melayu"
+    },
+    {
+      "code": 1702102013,
+      "name": "Sentral Baru"
+    },
+    {
+      "code": 1702102015,
+      "name": "Kampung Sajad"
+    },
+    {
+      "code": 1702102016,
+      "name": "Suka Rami"
+    },
+    {
+      "code": 1702102017,
+      "name": "Pagar Gunung"
+    },
+    {
+      "code": 1702102018,
+      "name": "Selamat Sudiarjo"
+    },
+    {
+      "code": 1702102019,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1702102020,
+      "name": "Air Pikat"
+    },
+    {
+      "code": 1702102021,
+      "name": "Tebat Pulau"
+    }
+  ]
+}

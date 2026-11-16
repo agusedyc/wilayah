@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601072001,
+      "name": "Angsana"
+    },
+    {
+      "code": 3601072002,
+      "name": "Padaherang"
+    },
+    {
+      "code": 3601072003,
+      "name": "Padamulya"
+    },
+    {
+      "code": 3601072004,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3601072005,
+      "name": "Cikayas"
+    },
+    {
+      "code": 3601072006,
+      "name": "Sumurlaban"
+    },
+    {
+      "code": 3601072007,
+      "name": "Kadubadak"
+    },
+    {
+      "code": 3601072009,
+      "name": "Cipinang"
+    },
+    {
+      "code": 3601072010,
+      "name": "Kramatmanik"
+    }
+  ]
+}

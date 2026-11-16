@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3402022001,
+      "name": "Gadingsari"
+    },
+    {
+      "code": 3402022002,
+      "name": "Gadingharjo"
+    },
+    {
+      "code": 3402022003,
+      "name": "Srigading"
+    },
+    {
+      "code": 3402022004,
+      "name": "Murtigading"
+    }
+  ]
+}

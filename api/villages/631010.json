@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6310102001,
+      "name": "Giri Mulya"
+    },
+    {
+      "code": 6310102002,
+      "name": "Kuranji"
+    },
+    {
+      "code": 6310102003,
+      "name": "Waringin Tunggal"
+    },
+    {
+      "code": 6310102004,
+      "name": "Mustika"
+    },
+    {
+      "code": 6310102005,
+      "name": "Indra Lokajaya"
+    },
+    {
+      "code": 6310102006,
+      "name": "Karang Intan"
+    },
+    {
+      "code": 6310102007,
+      "name": "Ringkit"
+    }
+  ]
+}

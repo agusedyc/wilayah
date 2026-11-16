@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8105032001,
+      "name": "Batuasa"
+    },
+    {
+      "code": 8105032002,
+      "name": "Hatuimeten"
+    },
+    {
+      "code": 8105032003,
+      "name": "Werinama"
+    },
+    {
+      "code": 8105032004,
+      "name": "Bemo"
+    },
+    {
+      "code": 8105032015,
+      "name": "Tum"
+    },
+    {
+      "code": 8105032016,
+      "name": "Gusalaut"
+    },
+    {
+      "code": 8105032017,
+      "name": "Osong"
+    },
+    {
+      "code": 8105032018,
+      "name": "Tobo"
+    },
+    {
+      "code": 8105032021,
+      "name": "Bemo Perak"
+    },
+    {
+      "code": 8105032022,
+      "name": "Funa Naibaya"
+    }
+  ]
+}

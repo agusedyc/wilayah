@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9508092001,
+      "name": "Kroptak"
+    },
+    {
+      "code": 9508092002,
+      "name": "Miniem"
+    },
+    {
+      "code": 9508092003,
+      "name": "Golparek"
+    },
+    {
+      "code": 9508092004,
+      "name": "Pesat"
+    },
+    {
+      "code": 9508092005,
+      "name": "Komoroam"
+    },
+    {
+      "code": 9508092006,
+      "name": "Gol"
+    }
+  ]
+}

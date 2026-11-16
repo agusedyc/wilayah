@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9502322001,
+      "name": "Eipumek"
+    },
+    {
+      "code": 9502322002,
+      "name": "Lalakon"
+    },
+    {
+      "code": 9502322003,
+      "name": "Londinin"
+    },
+    {
+      "code": 9502322004,
+      "name": "Talemu"
+    },
+    {
+      "code": 9502322005,
+      "name": "Wakidam"
+    },
+    {
+      "code": 9502322006,
+      "name": "Bunyirye"
+    },
+    {
+      "code": 9502322007,
+      "name": "Basiringe"
+    },
+    {
+      "code": 9502322008,
+      "name": "Barama"
+    },
+    {
+      "code": 9502322009,
+      "name": "Tanime"
+    },
+    {
+      "code": 9502322010,
+      "name": "Serabum"
+    },
+    {
+      "code": 9502322011,
+      "name": "Supleyu"
+    },
+    {
+      "code": 9502322012,
+      "name": "Kweredala"
+    },
+    {
+      "code": 9502322013,
+      "name": "Mungkona"
+    },
+    {
+      "code": 9502322014,
+      "name": "Malingdam"
+    }
+  ]
+}

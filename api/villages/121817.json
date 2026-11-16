@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1218172001,
+      "name": "Gudang Garam"
+    },
+    {
+      "code": 1218172002,
+      "name": "Dolok Masango"
+    },
+    {
+      "code": 1218172003,
+      "name": "Panombean"
+    },
+    {
+      "code": 1218172004,
+      "name": "Bandar Negeri"
+    },
+    {
+      "code": 1218172005,
+      "name": "Ujung Negeri Kahan"
+    },
+    {
+      "code": 1218172006,
+      "name": "Bandar Magodang"
+    },
+    {
+      "code": 1218172007,
+      "name": "Ujung Negeri Hulu"
+    },
+    {
+      "code": 1218172008,
+      "name": "Pegajahan Hulu"
+    },
+    {
+      "code": 1218172009,
+      "name": "Marihat Dolok"
+    },
+    {
+      "code": 1218172010,
+      "name": "Bintang Bayu"
+    },
+    {
+      "code": 1218172011,
+      "name": "Bandar Pinang Kebun"
+    },
+    {
+      "code": 1218172012,
+      "name": "Damak Tolong Buho"
+    },
+    {
+      "code": 1218172013,
+      "name": "Bandar Pinang Rambe"
+    },
+    {
+      "code": 1218172014,
+      "name": "Pegajahan Kahan"
+    },
+    {
+      "code": 1218172015,
+      "name": "Huta Durian"
+    },
+    {
+      "code": 1218172016,
+      "name": "Kampung Kristen"
+    },
+    {
+      "code": 1218172017,
+      "name": "Sarang Ginting Kahan"
+    },
+    {
+      "code": 1218172018,
+      "name": "Sarang Ginting Hulu"
+    },
+    {
+      "code": 1218172019,
+      "name": "Siahap"
+    }
+  ]
+}

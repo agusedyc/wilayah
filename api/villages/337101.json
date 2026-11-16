@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3371011003,
+      "name": "Rejowinangun Selatan"
+    },
+    {
+      "code": 3371011007,
+      "name": "Magersari"
+    },
+    {
+      "code": 3371011008,
+      "name": "Jurangombo Utara"
+    },
+    {
+      "code": 3371011009,
+      "name": "Jurangombo Selatan"
+    },
+    {
+      "code": 3371011010,
+      "name": "Tidar Utara"
+    },
+    {
+      "code": 3371011011,
+      "name": "Tidar Selatan"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3215242001,
+      "name": "Gembongan"
+    },
+    {
+      "code": 3215242002,
+      "name": "Gempol"
+    },
+    {
+      "code": 3215242003,
+      "name": "Gempol Kolot"
+    },
+    {
+      "code": 3215242004,
+      "name": "Banyuasih"
+    },
+    {
+      "code": 3215242005,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3215242006,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3215242007,
+      "name": "Jayamukti"
+    },
+    {
+      "code": 3215242008,
+      "name": "Cicinde Utara"
+    },
+    {
+      "code": 3215242009,
+      "name": "Cicinde Selatan"
+    },
+    {
+      "code": 3215242010,
+      "name": "Mekarasih"
+    },
+    {
+      "code": 3215242011,
+      "name": "Talunjaya"
+    },
+    {
+      "code": 3215242012,
+      "name": "Pamekaran"
+    }
+  ]
+}

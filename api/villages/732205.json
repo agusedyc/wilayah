@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7322052001,
+      "name": "Marampa"
+    },
+    {
+      "code": 7322052002,
+      "name": "Pengkendekan"
+    },
+    {
+      "code": 7322052003,
+      "name": "Kanandede"
+    },
+    {
+      "code": 7322052004,
+      "name": "Rinding Allo"
+    },
+    {
+      "code": 7322052005,
+      "name": "Minanga"
+    },
+    {
+      "code": 7322052006,
+      "name": "Komba"
+    },
+    {
+      "code": 7322052007,
+      "name": "Limbong"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1224042001,
+      "name": "Tetehosi Maziaya"
+    },
+    {
+      "code": 1224042002,
+      "name": "Umbubalodano"
+    },
+    {
+      "code": 1224042003,
+      "name": "Hilimbosi"
+    },
+    {
+      "code": 1224042004,
+      "name": "Hilisalo'o"
+    },
+    {
+      "code": 1224042005,
+      "name": "Fulolo Salo'o"
+    },
+    {
+      "code": 1224042006,
+      "name": "Botombawo"
+    }
+  ]
+}

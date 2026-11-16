@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5107022001,
+      "name": "Tangkup"
+    },
+    {
+      "code": 5107022002,
+      "name": "Talibeng"
+    },
+    {
+      "code": 5107022003,
+      "name": "Sidemen"
+    },
+    {
+      "code": 5107022004,
+      "name": "Sangkan Gunung"
+    },
+    {
+      "code": 5107022005,
+      "name": "Telagatawang"
+    },
+    {
+      "code": 5107022006,
+      "name": "Sinduwati"
+    },
+    {
+      "code": 5107022007,
+      "name": "Tri Eka Buana"
+    },
+    {
+      "code": 5107022008,
+      "name": "Kertha Buana"
+    },
+    {
+      "code": 5107022009,
+      "name": "Lokasari"
+    },
+    {
+      "code": 5107022010,
+      "name": "Wisma Kerta"
+    }
+  ]
+}

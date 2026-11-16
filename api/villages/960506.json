@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 9605062001,
+      "name": "Aitinyo"
+    },
+    {
+      "code": 9605062002,
+      "name": "Irohe"
+    },
+    {
+      "code": 9605062003,
+      "name": "Sris"
+    },
+    {
+      "code": 9605062004,
+      "name": "Kamro"
+    },
+    {
+      "code": 9605062005,
+      "name": "Karsu"
+    },
+    {
+      "code": 9605062006,
+      "name": "Tehak Kecil"
+    },
+    {
+      "code": 9605062007,
+      "name": "Sira Aya"
+    },
+    {
+      "code": 9605062008,
+      "name": "Korom"
+    },
+    {
+      "code": 9605062009,
+      "name": "Sumanis"
+    },
+    {
+      "code": 9605062010,
+      "name": "Ibasuf"
+    },
+    {
+      "code": 9605062011,
+      "name": "Sowai Sau"
+    },
+    {
+      "code": 9605062012,
+      "name": "Subin"
+    },
+    {
+      "code": 9605062013,
+      "name": "Irohmrar"
+    },
+    {
+      "code": 9605062014,
+      "name": "Bofait"
+    },
+    {
+      "code": 9605062015,
+      "name": "Afkrem"
+    },
+    {
+      "code": 9605062016,
+      "name": "Wiho"
+    },
+    {
+      "code": 9605062017,
+      "name": "Kamro Selatan"
+    }
+  ]
+}

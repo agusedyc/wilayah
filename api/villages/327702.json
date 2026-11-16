@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3277021001,
+      "name": "Baros"
+    },
+    {
+      "code": 3277021002,
+      "name": "Cigugur Tengah"
+    },
+    {
+      "code": 3277021003,
+      "name": "Karangmekar"
+    },
+    {
+      "code": 3277021004,
+      "name": "Setiamanah"
+    },
+    {
+      "code": 3277021005,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3277021006,
+      "name": "Cimahi"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8205072001,
+      "name": "Waiboga"
+    },
+    {
+      "code": 8205072002,
+      "name": "Soamole"
+    },
+    {
+      "code": 8205072003,
+      "name": "Waiman"
+    },
+    {
+      "code": 8205072004,
+      "name": "Fat Iba"
+    },
+    {
+      "code": 8205072005,
+      "name": "Bega"
+    },
+    {
+      "code": 8205072006,
+      "name": "Manaf"
+    }
+  ]
+}

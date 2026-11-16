@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1221082006,
+      "name": "Pasar Ujung Batu"
+    },
+    {
+      "code": 1221082008,
+      "name": "Plasma Mondang"
+    },
+    {
+      "code": 1221082011,
+      "name": "Hutaimbaru"
+    },
+    {
+      "code": 1221082012,
+      "name": "Mondang"
+    },
+    {
+      "code": 1221082013,
+      "name": "Sisoma"
+    },
+    {
+      "code": 1221082014,
+      "name": "Aek Tinga"
+    },
+    {
+      "code": 1221082015,
+      "name": "Gunung Baringin"
+    },
+    {
+      "code": 1221082016,
+      "name": "Simarancar"
+    },
+    {
+      "code": 1221082017,
+      "name": "Huta Raja Lamo"
+    },
+    {
+      "code": 1221082018,
+      "name": "Tanjung Botung Sosa Jae"
+    },
+    {
+      "code": 1221082019,
+      "name": "Ujung Batu"
+    },
+    {
+      "code": 1221082020,
+      "name": "Janjiraja"
+    },
+    {
+      "code": 1221082021,
+      "name": "Rao-Rao Dolok"
+    },
+    {
+      "code": 1221082022,
+      "name": "Parau Sorat"
+    },
+    {
+      "code": 1221082023,
+      "name": "Aer Bale"
+    },
+    {
+      "code": 1221082024,
+      "name": "Tanjung Bale"
+    }
+  ]
+}

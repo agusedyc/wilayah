@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1211082001,
+      "name": "Lae Itam"
+    },
+    {
+      "code": 1211082002,
+      "name": "Lae Luhung"
+    },
+    {
+      "code": 1211082003,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1211082004,
+      "name": "Lae Markelang"
+    },
+    {
+      "code": 1211082005,
+      "name": "Jambur Indonesia"
+    },
+    {
+      "code": 1211082006,
+      "name": "Simungun"
+    },
+    {
+      "code": 1211082007,
+      "name": "Janji"
+    },
+    {
+      "code": 1211082008,
+      "name": "Sopo Butar"
+    },
+    {
+      "code": 1211082009,
+      "name": "Lae Sering"
+    },
+    {
+      "code": 1211082010,
+      "name": "Lae Haporas"
+    }
+  ]
+}

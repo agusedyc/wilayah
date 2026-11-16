@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3210232001,
+      "name": "Sedareja"
+    },
+    {
+      "code": 3210232002,
+      "name": "Cidadap"
+    },
+    {
+      "code": 3210232003,
+      "name": "Maniis"
+    },
+    {
+      "code": 3210232004,
+      "name": "Nagarakembang"
+    },
+    {
+      "code": 3210232005,
+      "name": "Wangkelang"
+    },
+    {
+      "code": 3210232006,
+      "name": "Cimanggugirang"
+    },
+    {
+      "code": 3210232007,
+      "name": "Cingambul"
+    },
+    {
+      "code": 3210232008,
+      "name": "Cikondang"
+    },
+    {
+      "code": 3210232009,
+      "name": "Ciranjeng"
+    },
+    {
+      "code": 3210232010,
+      "name": "Rawa"
+    },
+    {
+      "code": 3210232011,
+      "name": "Kondangmekar"
+    },
+    {
+      "code": 3210232012,
+      "name": "Cintaasih"
+    },
+    {
+      "code": 3210232013,
+      "name": "Muktisari"
+    }
+  ]
+}

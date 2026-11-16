@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7503172001,
+      "name": "Mamungaa"
+    },
+    {
+      "code": 7503172002,
+      "name": "Kaidundu Barat"
+    },
+    {
+      "code": 7503172003,
+      "name": "Mopuya"
+    },
+    {
+      "code": 7503172004,
+      "name": "Kaidundu"
+    },
+    {
+      "code": 7503172005,
+      "name": "Bukit Hijau"
+    },
+    {
+      "code": 7503172006,
+      "name": "Mamungaa Timur"
+    },
+    {
+      "code": 7503172007,
+      "name": "Dunggilata"
+    },
+    {
+      "code": 7503172008,
+      "name": "Pinomotiga"
+    },
+    {
+      "code": 7503172009,
+      "name": "Patoa"
+    }
+  ]
+}

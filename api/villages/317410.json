@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3174101001,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3174101002,
+      "name": "Bintaro"
+    },
+    {
+      "code": 3174101003,
+      "name": "Petukangan Utara"
+    },
+    {
+      "code": 3174101004,
+      "name": "Petukangan Selatan"
+    },
+    {
+      "code": 3174101005,
+      "name": "Ulujami"
+    }
+  ]
+}

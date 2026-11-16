@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1218122010,
+      "name": "Tanjung Harap"
+    },
+    {
+      "code": 1218122011,
+      "name": "Kuala Bali"
+    },
+    {
+      "code": 1218122014,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 1218122015,
+      "name": "Kelapa Bajohom"
+    },
+    {
+      "code": 1218122018,
+      "name": "Manggis"
+    },
+    {
+      "code": 1218122020,
+      "name": "Pulau Gambar"
+    },
+    {
+      "code": 1218122021,
+      "name": "Pulau Tagor"
+    },
+    {
+      "code": 1218122032,
+      "name": "Serba Jadi"
+    },
+    {
+      "code": 1218122033,
+      "name": "Tambak Cekur"
+    },
+    {
+      "code": 1218122038,
+      "name": "Bah Sidua-dua"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3215222001,
+      "name": "Jayamakmur"
+    },
+    {
+      "code": 3215222002,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3215222003,
+      "name": "Makmurjaya"
+    },
+    {
+      "code": 3215222004,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3215222005,
+      "name": "Jayakerta"
+    },
+    {
+      "code": 3215222006,
+      "name": "Medangasem"
+    },
+    {
+      "code": 3215222007,
+      "name": "Ciptamarga"
+    },
+    {
+      "code": 3215222008,
+      "name": "Kampungsawah"
+    }
+  ]
+}

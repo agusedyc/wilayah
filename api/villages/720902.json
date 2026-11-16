@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7209022001,
+      "name": "Bungayo"
+    },
+    {
+      "code": 7209022002,
+      "name": "Benteng"
+    },
+    {
+      "code": 7209022003,
+      "name": "Bangkagi"
+    },
+    {
+      "code": 7209022004,
+      "name": "Tongkabo"
+    },
+    {
+      "code": 7209022005,
+      "name": "Pulau Enam"
+    },
+    {
+      "code": 7209022006,
+      "name": "Katupat"
+    },
+    {
+      "code": 7209022007,
+      "name": "Awo"
+    },
+    {
+      "code": 7209022008,
+      "name": "Kololio"
+    },
+    {
+      "code": 7209022009,
+      "name": "Urulepe"
+    },
+    {
+      "code": 7209022010,
+      "name": "Lembanato"
+    },
+    {
+      "code": 7209022011,
+      "name": "Lebiti"
+    },
+    {
+      "code": 7209022012,
+      "name": "Tobil"
+    },
+    {
+      "code": 7209022013,
+      "name": "Baulu"
+    },
+    {
+      "code": 7209022014,
+      "name": "Motobiai"
+    },
+    {
+      "code": 7209022015,
+      "name": "Sampobae"
+    },
+    {
+      "code": 7209022016,
+      "name": "Titiri'i"
+    }
+  ]
+}

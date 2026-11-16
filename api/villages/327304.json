@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3273041001,
+      "name": "Kopo"
+    },
+    {
+      "code": 3273041002,
+      "name": "Babakan Tarogong"
+    },
+    {
+      "code": 3273041003,
+      "name": "Jamika"
+    },
+    {
+      "code": 3273041004,
+      "name": "Babakan Asih"
+    },
+    {
+      "code": 3273041005,
+      "name": "Suka Asih"
+    }
+  ]
+}

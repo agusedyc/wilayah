@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7306111002,
+      "name": "Tonrorita"
+    },
+    {
+      "code": 7306111004,
+      "name": "Lauwa"
+    },
+    {
+      "code": 7306112001,
+      "name": "Taring"
+    },
+    {
+      "code": 7306112003,
+      "name": "Pencong"
+    },
+    {
+      "code": 7306112005,
+      "name": "Berutallasa"
+    },
+    {
+      "code": 7306112006,
+      "name": "Parangloe"
+    },
+    {
+      "code": 7306112007,
+      "name": "Baturappe"
+    },
+    {
+      "code": 7306112008,
+      "name": "Batumalonro"
+    },
+    {
+      "code": 7306112009,
+      "name": "Borimasunggu"
+    },
+    {
+      "code": 7306112010,
+      "name": "Lembangloe"
+    },
+    {
+      "code": 7306112011,
+      "name": "Julukanaya"
+    }
+  ]
+}

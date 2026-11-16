@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7326041002,
+      "name": "Pangala'"
+    },
+    {
+      "code": 7326041004,
+      "name": "Pangala' Utara"
+    },
+    {
+      "code": 7326042001,
+      "name": "Bululangkan"
+    },
+    {
+      "code": 7326042003,
+      "name": "Rindingallo"
+    },
+    {
+      "code": 7326042005,
+      "name": "Mai'ting"
+    },
+    {
+      "code": 7326042006,
+      "name": "Lo'ko'uru Tanetebatu"
+    },
+    {
+      "code": 7326042007,
+      "name": "Ampang Batu"
+    },
+    {
+      "code": 7326042008,
+      "name": "Lempo Poton"
+    },
+    {
+      "code": 7326042009,
+      "name": "Buntu Batu"
+    }
+  ]
+}

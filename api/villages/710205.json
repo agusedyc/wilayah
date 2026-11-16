@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7102052001,
+      "name": "Kapataran"
+    },
+    {
+      "code": 7102052002,
+      "name": "Seretan"
+    },
+    {
+      "code": 7102052003,
+      "name": "Atep Oki"
+    },
+    {
+      "code": 7102052004,
+      "name": "Karor"
+    },
+    {
+      "code": 7102052005,
+      "name": "Kaleosan"
+    },
+    {
+      "code": 7102052006,
+      "name": "Watulaney"
+    },
+    {
+      "code": 7102052007,
+      "name": "Kayuroya"
+    },
+    {
+      "code": 7102052008,
+      "name": "Seretan Timu"
+    },
+    {
+      "code": 7102052009,
+      "name": "Parentek"
+    },
+    {
+      "code": 7102052010,
+      "name": "Kapataran Satu"
+    },
+    {
+      "code": 7102052011,
+      "name": "Watulaney Amian"
+    }
+  ]
+}

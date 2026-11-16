@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6207102001,
+      "name": "Tumbang Magin"
+    },
+    {
+      "code": 6207102002,
+      "name": "Tumbang Setoli"
+    },
+    {
+      "code": 6207102003,
+      "name": "Tumbang Hentas"
+    },
+    {
+      "code": 6207102004,
+      "name": "Tumbang Langkai"
+    },
+    {
+      "code": 6207102005,
+      "name": "Tumbang Salau"
+    },
+    {
+      "code": 6207102006,
+      "name": "Tumbang Gugup"
+    },
+    {
+      "code": 6207102007,
+      "name": "Rangkang Munduk"
+    },
+    {
+      "code": 6207102008,
+      "name": "Tanjung Tukal"
+    },
+    {
+      "code": 6207102009,
+      "name": "Rantau Betung"
+    }
+  ]
+}

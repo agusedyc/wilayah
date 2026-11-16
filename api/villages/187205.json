@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1872051001,
+      "name": "Rejomulyo"
+    },
+    {
+      "code": 1872051002,
+      "name": "Margorejo"
+    },
+    {
+      "code": 1872051003,
+      "name": "Sumbersari Bantul"
+    },
+    {
+      "code": 1872051004,
+      "name": "Margodadi"
+    }
+  ]
+}

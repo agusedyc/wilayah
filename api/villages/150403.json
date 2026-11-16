@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1504031001,
+      "name": "Muara Bulian"
+    },
+    {
+      "code": 1504031002,
+      "name": "Teratai"
+    },
+    {
+      "code": 1504031003,
+      "name": "Sridadi"
+    },
+    {
+      "code": 1504031004,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1504031005,
+      "name": "Rengas Condong"
+    },
+    {
+      "code": 1504032006,
+      "name": "Pasar Terusan"
+    },
+    {
+      "code": 1504032007,
+      "name": "Simpang Terusan"
+    },
+    {
+      "code": 1504032008,
+      "name": "Malapari"
+    },
+    {
+      "code": 1504032009,
+      "name": "Napal Sisik"
+    },
+    {
+      "code": 1504032010,
+      "name": "Rambahan"
+    },
+    {
+      "code": 1504032011,
+      "name": "Olak"
+    },
+    {
+      "code": 1504032012,
+      "name": "Muaro Singoan"
+    },
+    {
+      "code": 1504032013,
+      "name": "Aro"
+    },
+    {
+      "code": 1504032014,
+      "name": "Rantau Puri"
+    },
+    {
+      "code": 1504032015,
+      "name": "Sungai Baung"
+    },
+    {
+      "code": 1504032016,
+      "name": "Bajubang Laut"
+    },
+    {
+      "code": 1504032017,
+      "name": "Singkawang"
+    },
+    {
+      "code": 1504032018,
+      "name": "Tenam"
+    },
+    {
+      "code": 1504032019,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 1504032020,
+      "name": "Kilangan"
+    },
+    {
+      "code": 1504032021,
+      "name": "Pelayangan"
+    }
+  ]
+}

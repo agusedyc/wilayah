@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5206022001,
+      "name": "Tambe"
+    },
+    {
+      "code": 5206022002,
+      "name": "Rasabou"
+    },
+    {
+      "code": 5206022003,
+      "name": "Rato"
+    },
+    {
+      "code": 5206022004,
+      "name": "Kananga"
+    },
+    {
+      "code": 5206022005,
+      "name": "Leu"
+    },
+    {
+      "code": 5206022006,
+      "name": "Timu"
+    },
+    {
+      "code": 5206022007,
+      "name": "Bontokape"
+    },
+    {
+      "code": 5206022008,
+      "name": "Sondosia"
+    },
+    {
+      "code": 5206022009,
+      "name": "Nggembe"
+    },
+    {
+      "code": 5206022010,
+      "name": "Sanolo"
+    },
+    {
+      "code": 5206022011,
+      "name": "Tumpu"
+    },
+    {
+      "code": 5206022012,
+      "name": "Rada"
+    },
+    {
+      "code": 5206022013,
+      "name": "Kara"
+    },
+    {
+      "code": 5206022014,
+      "name": "Darussalam"
+    }
+  ]
+}

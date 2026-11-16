@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3205252001,
+      "name": "Cihurip"
+    },
+    {
+      "code": 3205252002,
+      "name": "Cisangkal"
+    },
+    {
+      "code": 3205252003,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3205252004,
+      "name": "Jayamukti"
+    }
+  ]
+}

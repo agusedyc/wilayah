@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7109011009,
+      "name": "Bebali"
+    },
+    {
+      "code": 7109011010,
+      "name": "Tatahadeng"
+    },
+    {
+      "code": 7109011011,
+      "name": "Tarorane"
+    },
+    {
+      "code": 7109011012,
+      "name": "Akesimbeka"
+    },
+    {
+      "code": 7109011013,
+      "name": "Bahu"
+    },
+    {
+      "code": 7109012001,
+      "name": "Bukide"
+    },
+    {
+      "code": 7109012002,
+      "name": "Apelawo"
+    },
+    {
+      "code": 7109012003,
+      "name": "Deahe"
+    },
+    {
+      "code": 7109012004,
+      "name": "Lia"
+    },
+    {
+      "code": 7109012005,
+      "name": "Kanang"
+    },
+    {
+      "code": 7109012006,
+      "name": "Buise"
+    },
+    {
+      "code": 7109012007,
+      "name": "Karalung"
+    },
+    {
+      "code": 7109012008,
+      "name": "Dame"
+    },
+    {
+      "code": 7109012014,
+      "name": "Dame I"
+    },
+    {
+      "code": 7109012015,
+      "name": "Lia Satu"
+    },
+    {
+      "code": 7109012016,
+      "name": "Karalung Satu"
+    }
+  ]
+}

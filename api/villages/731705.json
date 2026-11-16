@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7317051001,
+      "name": "Noling"
+    },
+    {
+      "code": 7317052002,
+      "name": "Tanjong"
+    },
+    {
+      "code": 7317052003,
+      "name": "Buntu Batu"
+    },
+    {
+      "code": 7317052004,
+      "name": "Tampumia"
+    },
+    {
+      "code": 7317052005,
+      "name": "Padang Tuju"
+    },
+    {
+      "code": 7317052006,
+      "name": "Padang Kamburi"
+    },
+    {
+      "code": 7317052007,
+      "name": "Malenggang"
+    },
+    {
+      "code": 7317052008,
+      "name": "Balutan"
+    },
+    {
+      "code": 7317052009,
+      "name": "Padang Ma'bud"
+    },
+    {
+      "code": 7317052010,
+      "name": "Saluinduk"
+    }
+  ]
+}

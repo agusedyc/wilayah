@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1673081001,
+      "name": "Batu Urip"
+    },
+    {
+      "code": 1673081002,
+      "name": "Ulak Surung"
+    },
+    {
+      "code": 1673081003,
+      "name": "Kenanga"
+    },
+    {
+      "code": 1673081004,
+      "name": "Pasar Satelit"
+    },
+    {
+      "code": 1673081005,
+      "name": "Senalang"
+    },
+    {
+      "code": 1673081006,
+      "name": "Megang"
+    },
+    {
+      "code": 1673081007,
+      "name": "Jogoboyo"
+    },
+    {
+      "code": 1673081008,
+      "name": "Puncak Kemuning"
+    },
+    {
+      "code": 1673081009,
+      "name": "Ponorogo"
+    },
+    {
+      "code": 1673081010,
+      "name": "Kali Serayu"
+    }
+  ]
+}

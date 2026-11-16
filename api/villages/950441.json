@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504412001,
+      "name": "Kaiga"
+    },
+    {
+      "code": 9504412002,
+      "name": "Bawi"
+    },
+    {
+      "code": 9504412003,
+      "name": "Tina"
+    },
+    {
+      "code": 9504412004,
+      "name": "Kurbaya"
+    },
+    {
+      "code": 9504412005,
+      "name": "Wiyangger"
+    },
+    {
+      "code": 9504412006,
+      "name": "Again"
+    },
+    {
+      "code": 9504412007,
+      "name": "Piraleme"
+    },
+    {
+      "code": 9504412008,
+      "name": "Tunggunale"
+    },
+    {
+      "code": 9504412009,
+      "name": "Kotorambur"
+    },
+    {
+      "code": 9504412010,
+      "name": "Wolu"
+    }
+  ]
+}

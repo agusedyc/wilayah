@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504352001,
+      "name": "Telenggeme"
+    },
+    {
+      "code": 9504352002,
+      "name": "Aukuni"
+    },
+    {
+      "code": 9504352003,
+      "name": "Tenek"
+    },
+    {
+      "code": 9504352004,
+      "name": "Kimunuk"
+    },
+    {
+      "code": 9504352005,
+      "name": "Kimugu"
+    },
+    {
+      "code": 9504352006,
+      "name": "Yagagobak"
+    },
+    {
+      "code": 9504352007,
+      "name": "Linggira"
+    },
+    {
+      "code": 9504352008,
+      "name": "Wekaru"
+    },
+    {
+      "code": 9504352009,
+      "name": "Dolunggun"
+    },
+    {
+      "code": 9504352010,
+      "name": "Kagi"
+    }
+  ]
+}

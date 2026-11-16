@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3205021001,
+      "name": "Suci Kaler"
+    },
+    {
+      "code": 3205021002,
+      "name": "Lebakjaya"
+    },
+    {
+      "code": 3205021003,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3205021014,
+      "name": "Lengkongjaya"
+    },
+    {
+      "code": 3205022004,
+      "name": "Karangpawitan"
+    },
+    {
+      "code": 3205022005,
+      "name": "Situgede"
+    },
+    {
+      "code": 3205022006,
+      "name": "Cimurah"
+    },
+    {
+      "code": 3205022007,
+      "name": "Suci"
+    },
+    {
+      "code": 3205022008,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3205022009,
+      "name": "Godog"
+    },
+    {
+      "code": 3205022010,
+      "name": "Situsari"
+    },
+    {
+      "code": 3205022011,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3205022012,
+      "name": "Sindangpalay"
+    },
+    {
+      "code": 3205022013,
+      "name": "Lebakagung"
+    },
+    {
+      "code": 3205022015,
+      "name": "Sindanggalih"
+    },
+    {
+      "code": 3205022016,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3205022017,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3205022018,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3205022019,
+      "name": "Situsaeur"
+    },
+    {
+      "code": 3205022020,
+      "name": "Situjaya"
+    }
+  ]
+}

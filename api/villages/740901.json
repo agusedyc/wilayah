@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7409011005,
+      "name": "Wanggudu"
+    },
+    {
+      "code": 7409011009,
+      "name": "Asera"
+    },
+    {
+      "code": 7409012006,
+      "name": "Wanggudu Raya"
+    },
+    {
+      "code": 7409012007,
+      "name": "Walalindu"
+    },
+    {
+      "code": 7409012008,
+      "name": "Tangguluri"
+    },
+    {
+      "code": 7409012010,
+      "name": "Amorome"
+    },
+    {
+      "code": 7409012016,
+      "name": "Wawolimbue"
+    },
+    {
+      "code": 7409012017,
+      "name": "Walasolo"
+    },
+    {
+      "code": 7409012020,
+      "name": "Wunduhaka"
+    },
+    {
+      "code": 7409012024,
+      "name": "Tapuwatu"
+    },
+    {
+      "code": 7409012027,
+      "name": "Aseminunulai"
+    },
+    {
+      "code": 7409012030,
+      "name": "Puunggomosi"
+    },
+    {
+      "code": 7409012031,
+      "name": "Puuwanggudu"
+    },
+    {
+      "code": 7409012032,
+      "name": "Longeo Utama"
+    },
+    {
+      "code": 7409012033,
+      "name": "Kota Mulya"
+    },
+    {
+      "code": 7409012034,
+      "name": "Amorome Utama"
+    },
+    {
+      "code": 7409012035,
+      "name": "Andedao"
+    },
+    {
+      "code": 7409012036,
+      "name": "Alaa Wanggudu"
+    },
+    {
+      "code": 7409012037,
+      "name": "Oheo Trans"
+    }
+  ]
+}

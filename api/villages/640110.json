@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6401102001,
+      "name": "Tanjung Pinang"
+    },
+    {
+      "code": 6401102002,
+      "name": "Rantau Atas"
+    },
+    {
+      "code": 6401102003,
+      "name": "Libur Dinding"
+    },
+    {
+      "code": 6401102004,
+      "name": "Luan"
+    },
+    {
+      "code": 6401102005,
+      "name": "Suweto"
+    },
+    {
+      "code": 6401102006,
+      "name": "Muser"
+    },
+    {
+      "code": 6401102007,
+      "name": "Biu"
+    },
+    {
+      "code": 6401102008,
+      "name": "Rantau Bintungan"
+    },
+    {
+      "code": 6401102009,
+      "name": "Muara Andeh"
+    }
+  ]
+}

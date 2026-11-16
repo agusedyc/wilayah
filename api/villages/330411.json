@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3304112001,
+      "name": "Pingit"
+    },
+    {
+      "code": 3304112002,
+      "name": "Situwangi"
+    },
+    {
+      "code": 3304112003,
+      "name": "Gelang"
+    },
+    {
+      "code": 3304112004,
+      "name": "Rakit"
+    },
+    {
+      "code": 3304112005,
+      "name": "Adipasir"
+    },
+    {
+      "code": 3304112006,
+      "name": "Bandingan"
+    },
+    {
+      "code": 3304112007,
+      "name": "Kincang"
+    },
+    {
+      "code": 3304112008,
+      "name": "Badamita"
+    },
+    {
+      "code": 3304112009,
+      "name": "Tanjunganom"
+    },
+    {
+      "code": 3304112010,
+      "name": "Luwung"
+    },
+    {
+      "code": 3304112011,
+      "name": "Lengkong"
+    }
+  ]
+}

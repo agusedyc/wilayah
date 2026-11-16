@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9603012001,
+      "name": "Waigama"
+    },
+    {
+      "code": 9603012002,
+      "name": "Salafen"
+    },
+    {
+      "code": 9603012003,
+      "name": "Aduwei"
+    },
+    {
+      "code": 9603012004,
+      "name": "Atkari"
+    },
+    {
+      "code": 9603012005,
+      "name": "Solal"
+    }
+  ]
+}

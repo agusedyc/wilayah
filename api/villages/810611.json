@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106112002,
+      "name": "Sanahu"
+    },
+    {
+      "code": 8106112003,
+      "name": "Wasia"
+    },
+    {
+      "code": 8106112004,
+      "name": "Sumeith Pasinaro"
+    },
+    {
+      "code": 8106112005,
+      "name": "Watui"
+    },
+    {
+      "code": 8106112006,
+      "name": "Abio Ahiolo"
+    },
+    {
+      "code": 8106112007,
+      "name": "Huku Kecil"
+    },
+    {
+      "code": 8106112008,
+      "name": "Elpaputih"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9203011001,
+      "name": "Fak Fak Selatan"
+    },
+    {
+      "code": 9203011002,
+      "name": "Fak Fak Utara"
+    },
+    {
+      "code": 9203012007,
+      "name": "Gewerpe"
+    },
+    {
+      "code": 9203012011,
+      "name": "Lusi Peri"
+    },
+    {
+      "code": 9203012012,
+      "name": "Wrikapal"
+    }
+  ]
+}

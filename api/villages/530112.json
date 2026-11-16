@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5301121003,
+      "name": "Lelogama"
+    },
+    {
+      "code": 5301122001,
+      "name": "Fatusuki"
+    },
+    {
+      "code": 5301122002,
+      "name": "Oelbanu"
+    },
+    {
+      "code": 5301122004,
+      "name": "Fatumetan"
+    },
+    {
+      "code": 5301122005,
+      "name": "Oh'aem"
+    },
+    {
+      "code": 5301122008,
+      "name": "Leloboko"
+    },
+    {
+      "code": 5301122011,
+      "name": "Oh'aem II"
+    }
+  ]
+}

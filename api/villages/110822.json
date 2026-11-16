@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1108222001,
+      "name": "Keude Simpang Empat"
+    },
+    {
+      "code": 1108222002,
+      "name": "Seunebok Punti"
+    },
+    {
+      "code": 1108222003,
+      "name": "Paya Leupah"
+    },
+    {
+      "code": 1108222004,
+      "name": "Paya Teungoh"
+    },
+    {
+      "code": 1108222005,
+      "name": "Keubon Baro"
+    },
+    {
+      "code": 1108222006,
+      "name": "Meunasah Teungoh"
+    },
+    {
+      "code": 1108222007,
+      "name": "Meunasah Baroh"
+    },
+    {
+      "code": 1108222008,
+      "name": "Mancang"
+    },
+    {
+      "code": 1108222009,
+      "name": "Alue Bade"
+    },
+    {
+      "code": 1108222010,
+      "name": "Meunasah Dayah SPK"
+    },
+    {
+      "code": 1108222011,
+      "name": "Kilometer VI"
+    },
+    {
+      "code": 1108222012,
+      "name": "Kilometer VIII"
+    },
+    {
+      "code": 1108222013,
+      "name": "Ie Tarek I"
+    },
+    {
+      "code": 1108222014,
+      "name": "Ie Tarek II"
+    },
+    {
+      "code": 1108222015,
+      "name": "Pase Sentosa"
+    },
+    {
+      "code": 1108222016,
+      "name": "Blang Raleue"
+    }
+  ]
+}

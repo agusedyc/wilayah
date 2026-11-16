@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9203132001,
+      "name": "Andamata"
+    },
+    {
+      "code": 9203132002,
+      "name": "Taver"
+    },
+    {
+      "code": 9203132003,
+      "name": "Arguni"
+    },
+    {
+      "code": 9203132004,
+      "name": "Fior"
+    },
+    {
+      "code": 9203132005,
+      "name": "Furir"
+    }
+  ]
+}

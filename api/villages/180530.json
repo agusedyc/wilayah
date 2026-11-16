@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1805302001,
+      "name": "Lebuh Dalem"
+    },
+    {
+      "code": 1805302002,
+      "name": "Menggala"
+    },
+    {
+      "code": 1805302003,
+      "name": "Lingai"
+    },
+    {
+      "code": 1805302004,
+      "name": "Kibang Pacing"
+    },
+    {
+      "code": 1805302005,
+      "name": "Sungai Luar"
+    },
+    {
+      "code": 1805302006,
+      "name": "Kahuripan Dalam"
+    },
+    {
+      "code": 1805302007,
+      "name": "Cempaka Dalem"
+    },
+    {
+      "code": 1805302008,
+      "name": "Bedaro Indah"
+    },
+    {
+      "code": 1805302009,
+      "name": "Tri Makmur Jaya"
+    },
+    {
+      "code": 1805302010,
+      "name": "Cempaka Jaya"
+    }
+  ]
+}

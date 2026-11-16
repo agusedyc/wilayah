@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3202352001,
+      "name": "Cireunghas"
+    },
+    {
+      "code": 3202352002,
+      "name": "Cipurut"
+    },
+    {
+      "code": 3202352003,
+      "name": "Bencoy"
+    },
+    {
+      "code": 3202352004,
+      "name": "Cikurutug"
+    },
+    {
+      "code": 3202352005,
+      "name": "Tegalpanjang"
+    }
+  ]
+}

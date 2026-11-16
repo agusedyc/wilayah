@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9401092001,
+      "name": "Samabusa"
+    },
+    {
+      "code": 9401092002,
+      "name": "Waharia"
+    },
+    {
+      "code": 9401092003,
+      "name": "Kimi"
+    },
+    {
+      "code": 9401092004,
+      "name": "Lani"
+    },
+    {
+      "code": 9401092005,
+      "name": "Air Mandidi"
+    }
+  ]
+}

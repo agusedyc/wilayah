@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9505052001,
+      "name": "Kalarin"
+    },
+    {
+      "code": 9505052002,
+      "name": "Melenggama"
+    },
+    {
+      "code": 9505052003,
+      "name": "Ilugwa"
+    },
+    {
+      "code": 9505052004,
+      "name": "Wirima"
+    },
+    {
+      "code": 9505052005,
+      "name": "Danama"
+    },
+    {
+      "code": 9505052006,
+      "name": "Illusilimo"
+    }
+  ]
+}

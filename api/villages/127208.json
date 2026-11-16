@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1272081001,
+      "name": "Simarimbun"
+    },
+    {
+      "code": 1272081002,
+      "name": "Tong Marimbun"
+    },
+    {
+      "code": 1272081003,
+      "name": "Naga Huta"
+    },
+    {
+      "code": 1272081004,
+      "name": "Naga Huta Timur"
+    },
+    {
+      "code": 1272081005,
+      "name": "Pematang Marihat"
+    },
+    {
+      "code": 1272081006,
+      "name": "Marihat Jaya"
+    }
+  ]
+}

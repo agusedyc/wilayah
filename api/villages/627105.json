@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6271051001,
+      "name": "Petuk Bukit"
+    },
+    {
+      "code": 6271051002,
+      "name": "Panjehang"
+    },
+    {
+      "code": 6271051003,
+      "name": "Petuk Barunai"
+    },
+    {
+      "code": 6271051004,
+      "name": "Mungku Baru"
+    },
+    {
+      "code": 6271051005,
+      "name": "Pager"
+    },
+    {
+      "code": 6271051006,
+      "name": "Gaung Baru"
+    },
+    {
+      "code": 6271051007,
+      "name": "Bukit Sua"
+    }
+  ]
+}

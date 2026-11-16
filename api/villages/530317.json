@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5303172001,
+      "name": "Faenake"
+    },
+    {
+      "code": 5303172002,
+      "name": "Banain A"
+    },
+    {
+      "code": 5303172003,
+      "name": "Banain B"
+    },
+    {
+      "code": 5303172004,
+      "name": "Banain C"
+    },
+    {
+      "code": 5303172005,
+      "name": "Sainoni"
+    },
+    {
+      "code": 5303172006,
+      "name": "Tes"
+    },
+    {
+      "code": 5303172007,
+      "name": "Napan"
+    },
+    {
+      "code": 5303172008,
+      "name": "Haumeni"
+    },
+    {
+      "code": 5303172009,
+      "name": "Baas"
+    }
+  ]
+}

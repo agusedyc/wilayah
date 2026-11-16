@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6107152001,
+      "name": "Rukma Jaya"
+    },
+    {
+      "code": 6107152002,
+      "name": "Sungai Keran"
+    },
+    {
+      "code": 6107152003,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 6107152004,
+      "name": "Karimunting"
+    },
+    {
+      "code": 6107152005,
+      "name": "Pulau Lemukutan"
+    }
+  ]
+}

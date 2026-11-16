@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503342001,
+      "name": "Holuwon"
+    },
+    {
+      "code": 9503342002,
+      "name": "Danggema"
+    },
+    {
+      "code": 9503342003,
+      "name": "Weni"
+    },
+    {
+      "code": 9503342004,
+      "name": "Sosi"
+    },
+    {
+      "code": 9503342005,
+      "name": "Sia"
+    },
+    {
+      "code": 9503342006,
+      "name": "Bineleruk"
+    },
+    {
+      "code": 9503342007,
+      "name": "Sohonggik"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9304112001,
+      "name": "Yamas"
+    },
+    {
+      "code": 9304112002,
+      "name": "Yeni"
+    },
+    {
+      "code": 9304112003,
+      "name": "Omor"
+    },
+    {
+      "code": 9304112004,
+      "name": "Jufri"
+    },
+    {
+      "code": 9304112005,
+      "name": "Yaun"
+    },
+    {
+      "code": 9304112006,
+      "name": "Onavai"
+    }
+  ]
+}

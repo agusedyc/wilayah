@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3304182001,
+      "name": "Kalibening"
+    },
+    {
+      "code": 3304182002,
+      "name": "Asinan"
+    },
+    {
+      "code": 3304182003,
+      "name": "Sembawa"
+    },
+    {
+      "code": 3304182004,
+      "name": "Kalibombong"
+    },
+    {
+      "code": 3304182005,
+      "name": "Majatengah"
+    },
+    {
+      "code": 3304182006,
+      "name": "Kalisat Kidul"
+    },
+    {
+      "code": 3304182007,
+      "name": "Sirukem"
+    },
+    {
+      "code": 3304182008,
+      "name": "Kertosari"
+    },
+    {
+      "code": 3304182009,
+      "name": "Sidakangen"
+    },
+    {
+      "code": 3304182010,
+      "name": "Sikumpul"
+    },
+    {
+      "code": 3304182011,
+      "name": "Gununglangit"
+    },
+    {
+      "code": 3304182012,
+      "name": "Bedana"
+    },
+    {
+      "code": 3304182013,
+      "name": "Sirukun"
+    },
+    {
+      "code": 3304182014,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3304182015,
+      "name": "Plorengan"
+    },
+    {
+      "code": 3304182016,
+      "name": "Kasinoman"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7310081001,
+      "name": "Bonto-Bonto"
+    },
+    {
+      "code": 7310081002,
+      "name": "Talaka"
+    },
+    {
+      "code": 7310081003,
+      "name": "Ma'rang"
+    },
+    {
+      "code": 7310081004,
+      "name": "Attang Salo"
+    },
+    {
+      "code": 7310082005,
+      "name": "Padang Lampe"
+    },
+    {
+      "code": 7310082006,
+      "name": "Tamangapa"
+    },
+    {
+      "code": 7310082007,
+      "name": "Pitusunggu"
+    },
+    {
+      "code": 7310082008,
+      "name": "Pitue"
+    },
+    {
+      "code": 7310082009,
+      "name": "Punranga"
+    },
+    {
+      "code": 7310082010,
+      "name": "Alesipitto"
+    }
+  ]
+}

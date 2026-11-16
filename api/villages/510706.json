@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5107062001,
+      "name": "Bungaya"
+    },
+    {
+      "code": 5107062002,
+      "name": "Budakeling"
+    },
+    {
+      "code": 5107062003,
+      "name": "Bebandem"
+    },
+    {
+      "code": 5107062004,
+      "name": "Sibetan"
+    },
+    {
+      "code": 5107062005,
+      "name": "Jungutan"
+    },
+    {
+      "code": 5107062006,
+      "name": "Bungaya Kangin"
+    },
+    {
+      "code": 5107062007,
+      "name": "Bhuana Giri"
+    },
+    {
+      "code": 5107062008,
+      "name": "Macang"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9402032001,
+      "name": "Fawi"
+    },
+    {
+      "code": 9402032002,
+      "name": "Bakusi"
+    },
+    {
+      "code": 9402032003,
+      "name": "Turumo"
+    },
+    {
+      "code": 9402032004,
+      "name": "Kaho"
+    },
+    {
+      "code": 9402032005,
+      "name": "Biricare"
+    },
+    {
+      "code": 9402032006,
+      "name": "Dorey"
+    },
+    {
+      "code": 9402032007,
+      "name": "Fii"
+    },
+    {
+      "code": 9402032008,
+      "name": "Evo"
+    },
+    {
+      "code": 9402032009,
+      "name": "Yerei"
+    }
+  ]
+}

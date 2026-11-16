@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3504142001,
+      "name": "Kalibatur"
+    },
+    {
+      "code": 3504142002,
+      "name": "Rejosari"
+    },
+    {
+      "code": 3504142003,
+      "name": "Sukorejo Kulon"
+    },
+    {
+      "code": 3504142004,
+      "name": "Kalidawir"
+    },
+    {
+      "code": 3504142005,
+      "name": "Karangtalun"
+    },
+    {
+      "code": 3504142006,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3504142007,
+      "name": "Winong"
+    },
+    {
+      "code": 3504142008,
+      "name": "Joho"
+    },
+    {
+      "code": 3504142009,
+      "name": "Pakisaji"
+    },
+    {
+      "code": 3504142010,
+      "name": "Jabon"
+    },
+    {
+      "code": 3504142011,
+      "name": "Tunggangri"
+    },
+    {
+      "code": 3504142012,
+      "name": "Salakkembang"
+    },
+    {
+      "code": 3504142013,
+      "name": "Ngubalan"
+    },
+    {
+      "code": 3504142014,
+      "name": "Domasan"
+    },
+    {
+      "code": 3504142015,
+      "name": "Tanjung"
+    },
+    {
+      "code": 3504142016,
+      "name": "Betak"
+    },
+    {
+      "code": 3504142017,
+      "name": "Pagersari"
+    }
+  ]
+}

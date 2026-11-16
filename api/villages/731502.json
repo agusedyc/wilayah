@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7315021001,
+      "name": "Watang Suppa"
+    },
+    {
+      "code": 7315021002,
+      "name": "Tellumpanua"
+    },
+    {
+      "code": 7315022003,
+      "name": "Lero"
+    },
+    {
+      "code": 7315022004,
+      "name": "Watang Pulu"
+    },
+    {
+      "code": 7315022005,
+      "name": "Maritengngae"
+    },
+    {
+      "code": 7315022006,
+      "name": "Tasiwalie"
+    },
+    {
+      "code": 7315022007,
+      "name": "Wiring Tasi"
+    },
+    {
+      "code": 7315022008,
+      "name": "Lotang Salo"
+    },
+    {
+      "code": 7315022009,
+      "name": "Ujung Labuang"
+    },
+    {
+      "code": 7315022010,
+      "name": "Polewali"
+    }
+  ]
+}

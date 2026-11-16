@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9406032001,
+      "name": "Apogomakida"
+    },
+    {
+      "code": 9406032002,
+      "name": "Deneiode"
+    },
+    {
+      "code": 9406032003,
+      "name": "Yegiyepa"
+    },
+    {
+      "code": 9406032004,
+      "name": "Ideduwa"
+    },
+    {
+      "code": 9406032005,
+      "name": "Kegata"
+    },
+    {
+      "code": 9406032006,
+      "name": "Egipa"
+    },
+    {
+      "code": 9406032007,
+      "name": "Ukagu"
+    },
+    {
+      "code": 9406032008,
+      "name": "Tibaugi"
+    }
+  ]
+}

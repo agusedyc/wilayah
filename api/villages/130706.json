@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1307062001,
+      "name": "Manggilang"
+    },
+    {
+      "code": 1307062002,
+      "name": "Tanjuang Balik"
+    },
+    {
+      "code": 1307062003,
+      "name": "Gunuang Malintang"
+    },
+    {
+      "code": 1307062004,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 1307062005,
+      "name": "Koto Alam"
+    },
+    {
+      "code": 1307062006,
+      "name": "Tanjung Pauh"
+    }
+  ]
+}

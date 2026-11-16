@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6306022001,
+      "name": "Karang Jawa Muka"
+    },
+    {
+      "code": 6306022002,
+      "name": "Karang Jawa"
+    },
+    {
+      "code": 6306022003,
+      "name": "Tabihi"
+    },
+    {
+      "code": 6306022004,
+      "name": "Pandulangan"
+    },
+    {
+      "code": 6306022005,
+      "name": "Kaliring"
+    },
+    {
+      "code": 6306022006,
+      "name": "Jambu Hulu"
+    },
+    {
+      "code": 6306022007,
+      "name": "Pahampangan"
+    },
+    {
+      "code": 6306022008,
+      "name": "Padang Batung"
+    },
+    {
+      "code": 6306022009,
+      "name": "Jembatan Merah"
+    },
+    {
+      "code": 6306022010,
+      "name": "Batu Bini"
+    },
+    {
+      "code": 6306022011,
+      "name": "Mawangi"
+    },
+    {
+      "code": 6306022012,
+      "name": "Madang"
+    },
+    {
+      "code": 6306022013,
+      "name": "Durian Rabung"
+    },
+    {
+      "code": 6306022014,
+      "name": "Jelatang"
+    },
+    {
+      "code": 6306022015,
+      "name": "Batu Laki"
+    },
+    {
+      "code": 6306022016,
+      "name": "Malutu"
+    },
+    {
+      "code": 6306022017,
+      "name": "Malilingin"
+    }
+  ]
+}

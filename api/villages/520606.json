@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 5206062001,
+      "name": "Sari"
+    },
+    {
+      "code": 5206062002,
+      "name": "Boke"
+    },
+    {
+      "code": 5206062003,
+      "name": "Jia"
+    },
+    {
+      "code": 5206062004,
+      "name": "Bugis"
+    },
+    {
+      "code": 5206062005,
+      "name": "Naru"
+    },
+    {
+      "code": 5206062006,
+      "name": "Rasabou"
+    },
+    {
+      "code": 5206062007,
+      "name": "Sangia"
+    },
+    {
+      "code": 5206062008,
+      "name": "Na'e"
+    },
+    {
+      "code": 5206062009,
+      "name": "Rai Oi"
+    },
+    {
+      "code": 5206062010,
+      "name": "Parangina"
+    },
+    {
+      "code": 5206062011,
+      "name": "Kowo"
+    },
+    {
+      "code": 5206062012,
+      "name": "Buncu"
+    },
+    {
+      "code": 5206062013,
+      "name": "Poja"
+    },
+    {
+      "code": 5206062014,
+      "name": "Bajo Pulau"
+    },
+    {
+      "code": 5206062015,
+      "name": "Naru Barat"
+    },
+    {
+      "code": 5206062016,
+      "name": "Tanah Putih"
+    },
+    {
+      "code": 5206062017,
+      "name": "Lamere"
+    },
+    {
+      "code": 5206062018,
+      "name": "Oi Maci"
+    }
+  ]
+}

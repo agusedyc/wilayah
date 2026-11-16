@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1404201001,
+      "name": "Benteng"
+    },
+    {
+      "code": 1404202002,
+      "name": "Benteng Utara"
+    },
+    {
+      "code": 1404202003,
+      "name": "Pasenggerahan"
+    },
+    {
+      "code": 1404202004,
+      "name": "Kuala Sungai Batang"
+    },
+    {
+      "code": 1404202005,
+      "name": "Kuala Patah Parang"
+    },
+    {
+      "code": 1404202006,
+      "name": "Benteng Barat"
+    },
+    {
+      "code": 1404202007,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 1404202008,
+      "name": "Mugo Mulyo"
+    }
+  ]
+}

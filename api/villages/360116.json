@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3601162001,
+      "name": "Pamarayan"
+    },
+    {
+      "code": 3601162002,
+      "name": "Jiput"
+    },
+    {
+      "code": 3601162003,
+      "name": "Sukacai"
+    },
+    {
+      "code": 3601162004,
+      "name": "Tenjolahang"
+    },
+    {
+      "code": 3601162005,
+      "name": "Janaka"
+    },
+    {
+      "code": 3601162006,
+      "name": "Sikulan"
+    },
+    {
+      "code": 3601162007,
+      "name": "Citaman"
+    },
+    {
+      "code": 3601162008,
+      "name": "Jayamekar"
+    },
+    {
+      "code": 3601162011,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3601162012,
+      "name": "Salapraya"
+    },
+    {
+      "code": 3601162013,
+      "name": "Banyuresmi"
+    },
+    {
+      "code": 3601162014,
+      "name": "Sampang Bitung"
+    },
+    {
+      "code": 3601162015,
+      "name": "Babadsari"
+    }
+  ]
+}

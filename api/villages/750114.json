@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7501142001,
+      "name": "Paris"
+    },
+    {
+      "code": 7501142002,
+      "name": "Helumo"
+    },
+    {
+      "code": 7501142003,
+      "name": "Pilomonu"
+    },
+    {
+      "code": 7501142004,
+      "name": "Satria"
+    },
+    {
+      "code": 7501142005,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 7501142006,
+      "name": "Talumopatu"
+    },
+    {
+      "code": 7501142007,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 7501142008,
+      "name": "Payu"
+    },
+    {
+      "code": 7501142009,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 7501142010,
+      "name": "Huyula"
+    }
+  ]
+}

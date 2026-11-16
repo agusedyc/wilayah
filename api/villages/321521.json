@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3215212001,
+      "name": "Majalaya"
+    },
+    {
+      "code": 3215212002,
+      "name": "Ciranggon"
+    },
+    {
+      "code": 3215212003,
+      "name": "Pasirjengkol"
+    },
+    {
+      "code": 3215212005,
+      "name": "Sarijaya"
+    },
+    {
+      "code": 3215212006,
+      "name": "Pasirmulya"
+    },
+    {
+      "code": 3215212007,
+      "name": "Lemahmulya"
+    },
+    {
+      "code": 3215212008,
+      "name": "Bengle"
+    }
+  ]
+}

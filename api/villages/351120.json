@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3511202001,
+      "name": "Gadingsari"
+    },
+    {
+      "code": 3511202002,
+      "name": "Sumber Waru"
+    },
+    {
+      "code": 3511202003,
+      "name": "Kembangan"
+    },
+    {
+      "code": 3511202004,
+      "name": "Baratan"
+    },
+    {
+      "code": 3511202005,
+      "name": "Binakal"
+    },
+    {
+      "code": 3511202006,
+      "name": "Jeruksoksok"
+    },
+    {
+      "code": 3511202007,
+      "name": "Sumber Tengah"
+    },
+    {
+      "code": 3511202008,
+      "name": "Bendelan"
+    }
+  ]
+}

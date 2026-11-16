@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8101202001,
+      "name": "Saleman"
+    },
+    {
+      "code": 8101202002,
+      "name": "Horale"
+    },
+    {
+      "code": 8101202003,
+      "name": "Wailulu"
+    },
+    {
+      "code": 8101202004,
+      "name": "Paa"
+    },
+    {
+      "code": 8101202005,
+      "name": "Karlutu Kara"
+    },
+    {
+      "code": 8101202006,
+      "name": "Pasanea"
+    },
+    {
+      "code": 8101202007,
+      "name": "Labuan"
+    },
+    {
+      "code": 8101202008,
+      "name": "Gale-gale"
+    },
+    {
+      "code": 8101202009,
+      "name": "Latea"
+    },
+    {
+      "code": 8101202010,
+      "name": "Lisabata Timur"
+    },
+    {
+      "code": 8101202011,
+      "name": "Rumahwey"
+    },
+    {
+      "code": 8101202012,
+      "name": "Warasiwa"
+    },
+    {
+      "code": 8101202013,
+      "name": "Herlau Pauni"
+    }
+  ]
+}

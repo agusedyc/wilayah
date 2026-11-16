@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7303021001,
+      "name": "Tappanjeng"
+    },
+    {
+      "code": 7303021002,
+      "name": "Pallantikang"
+    },
+    {
+      "code": 7303021003,
+      "name": "Letta"
+    },
+    {
+      "code": 7303021004,
+      "name": "Mallilingi"
+    },
+    {
+      "code": 7303021005,
+      "name": "Lembang"
+    },
+    {
+      "code": 7303021006,
+      "name": "Lamalaka"
+    },
+    {
+      "code": 7303021007,
+      "name": "Karatuang"
+    },
+    {
+      "code": 7303021008,
+      "name": "Onto"
+    },
+    {
+      "code": 7303022009,
+      "name": "Kayu Loe"
+    }
+  ]
+}

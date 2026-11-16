@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5201032001,
+      "name": "Lembuak"
+    },
+    {
+      "code": 5201032002,
+      "name": "Nyur Lembang"
+    },
+    {
+      "code": 5201032003,
+      "name": "Peresak"
+    },
+    {
+      "code": 5201032004,
+      "name": "Keru"
+    },
+    {
+      "code": 5201032005,
+      "name": "Batu Kuta"
+    },
+    {
+      "code": 5201032006,
+      "name": "Tanak Beak"
+    },
+    {
+      "code": 5201032007,
+      "name": "Sedau"
+    },
+    {
+      "code": 5201032008,
+      "name": "Suranadi"
+    },
+    {
+      "code": 5201032009,
+      "name": "Selat"
+    },
+    {
+      "code": 5201032010,
+      "name": "Lebah Sempage"
+    },
+    {
+      "code": 5201032011,
+      "name": "Sesaot"
+    },
+    {
+      "code": 5201032012,
+      "name": "Dasan Tereng"
+    },
+    {
+      "code": 5201032013,
+      "name": "Badrain"
+    },
+    {
+      "code": 5201032014,
+      "name": "Sembung"
+    },
+    {
+      "code": 5201032015,
+      "name": "Krama Jaya"
+    },
+    {
+      "code": 5201032016,
+      "name": "Gerimax Indah"
+    },
+    {
+      "code": 5201032017,
+      "name": "Pakuan"
+    },
+    {
+      "code": 5201032018,
+      "name": "Golong"
+    },
+    {
+      "code": 5201032019,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 5201032020,
+      "name": "Buwun Sejati"
+    },
+    {
+      "code": 5201032021,
+      "name": "Narmada"
+    }
+  ]
+}

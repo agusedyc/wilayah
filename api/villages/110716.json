@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "Showing 64 villages",
+  "data": [
+    {
+      "code": 1107162001,
+      "name": "Tijue"
+    },
+    {
+      "code": 1107162002,
+      "name": "Lampeudeu Tunong"
+    },
+    {
+      "code": 1107162003,
+      "name": "Puuk"
+    },
+    {
+      "code": 1107162004,
+      "name": "Lampeudue Baroh"
+    },
+    {
+      "code": 1107162005,
+      "name": "Paya"
+    },
+    {
+      "code": 1107162006,
+      "name": "Mesjid Runtoh"
+    },
+    {
+      "code": 1107162007,
+      "name": "Dayah Teungoh"
+    },
+    {
+      "code": 1107162008,
+      "name": "Baroh"
+    },
+    {
+      "code": 1107162009,
+      "name": "Dayah Tanoh"
+    },
+    {
+      "code": 1107162010,
+      "name": "Cot Geunduek"
+    },
+    {
+      "code": 1107162011,
+      "name": "Tumpok Laweung"
+    },
+    {
+      "code": 1107162012,
+      "name": "Ulee Ceue Keulibeut"
+    },
+    {
+      "code": 1107162013,
+      "name": "Keudee"
+    },
+    {
+      "code": 1107162014,
+      "name": "Ulee Tutue"
+    },
+    {
+      "code": 1107162015,
+      "name": "Dayah Tutong"
+    },
+    {
+      "code": 1107162016,
+      "name": "Lampoh Lada"
+    },
+    {
+      "code": 1107162017,
+      "name": "Keuniree"
+    },
+    {
+      "code": 1107162018,
+      "name": "Tumpok 40"
+    },
+    {
+      "code": 1107162019,
+      "name": "Cot Teungoh"
+    },
+    {
+      "code": 1107162020,
+      "name": "Cot Rheng"
+    },
+    {
+      "code": 1107162021,
+      "name": "Labui"
+    },
+    {
+      "code": 1107162022,
+      "name": "Gampong"
+    },
+    {
+      "code": 1107162023,
+      "name": "Pulo Pisang"
+    },
+    {
+      "code": 1107162024,
+      "name": "Lamkuta"
+    },
+    {
+      "code": 1107162025,
+      "name": "Kampong Pukat"
+    },
+    {
+      "code": 1107162026,
+      "name": "Kampong Barat"
+    },
+    {
+      "code": 1107162027,
+      "name": "Paloh"
+    },
+    {
+      "code": 1107162028,
+      "name": "Kampong Baro"
+    },
+    {
+      "code": 1107162029,
+      "name": "Pulo Bubee"
+    },
+    {
+      "code": 1107162030,
+      "name": "Tibang"
+    },
+    {
+      "code": 1107162031,
+      "name": "Rawa"
+    },
+    {
+      "code": 1107162032,
+      "name": "Peukan Baro"
+    },
+    {
+      "code": 1107162033,
+      "name": "Mancang"
+    },
+    {
+      "code": 1107162034,
+      "name": "Gajah Ayee"
+    },
+    {
+      "code": 1107162035,
+      "name": "Lhok Keutapang"
+    },
+    {
+      "code": 1107162036,
+      "name": "Dalueng"
+    },
+    {
+      "code": 1107162037,
+      "name": "Ulee Ceue Teubeng"
+    },
+    {
+      "code": 1107162038,
+      "name": "Meucat Teubeng"
+    },
+    {
+      "code": 1107162039,
+      "name": "Dayah Teubeng"
+    },
+    {
+      "code": 1107162040,
+      "name": "Tanjong Teubeng"
+    },
+    {
+      "code": 1107162041,
+      "name": "Jawa Teubeng"
+    },
+    {
+      "code": 1107162042,
+      "name": "Bayu Teubeng"
+    },
+    {
+      "code": 1107162043,
+      "name": "Abo Teubeng"
+    },
+    {
+      "code": 1107162044,
+      "name": "Keutapang Sanggeue"
+    },
+    {
+      "code": 1107162045,
+      "name": "Krueng Dhoe"
+    },
+    {
+      "code": 1107162046,
+      "name": "Sirong"
+    },
+    {
+      "code": 1107162047,
+      "name": "Keutumbu"
+    },
+    {
+      "code": 1107162048,
+      "name": "Jeumpa"
+    },
+    {
+      "code": 1107162049,
+      "name": "Raya sanggeue"
+    },
+    {
+      "code": 1107162050,
+      "name": "Jeuleupee"
+    },
+    {
+      "code": 1107162051,
+      "name": "Ujong Langgo"
+    },
+    {
+      "code": 1107162052,
+      "name": "Cot Glumpang"
+    },
+    {
+      "code": 1107162053,
+      "name": "Seuriweuk"
+    },
+    {
+      "code": 1107162054,
+      "name": "Mesjid Utue"
+    },
+    {
+      "code": 1107162055,
+      "name": "Leubue"
+    },
+    {
+      "code": 1107162056,
+      "name": "Batee"
+    },
+    {
+      "code": 1107162057,
+      "name": "Raya Uteu"
+    },
+    {
+      "code": 1107162058,
+      "name": "Seukeumbrok"
+    },
+    {
+      "code": 1107162059,
+      "name": "Bie"
+    },
+    {
+      "code": 1107162060,
+      "name": "Blang Kula"
+    },
+    {
+      "code": 1107162061,
+      "name": "ALue"
+    },
+    {
+      "code": 1107162062,
+      "name": "Seukee"
+    },
+    {
+      "code": 1107162063,
+      "name": "Paya Linteung"
+    },
+    {
+      "code": 1107162064,
+      "name": "Puli"
+    }
+  ]
+}

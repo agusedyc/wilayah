@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3512081002,
+      "name": "Ardirejo"
+    },
+    {
+      "code": 3512081007,
+      "name": "Mimbaan"
+    },
+    {
+      "code": 3512082001,
+      "name": "Sliwung"
+    },
+    {
+      "code": 3512082003,
+      "name": "Battal"
+    },
+    {
+      "code": 3512082004,
+      "name": "Klampokan"
+    },
+    {
+      "code": 3512082005,
+      "name": "Juglangan"
+    },
+    {
+      "code": 3512082006,
+      "name": "Panji Kidul"
+    },
+    {
+      "code": 3512082008,
+      "name": "Panji Lor"
+    },
+    {
+      "code": 3512082009,
+      "name": "Tokelan"
+    },
+    {
+      "code": 3512082010,
+      "name": "Curah Jeru"
+    },
+    {
+      "code": 3512082011,
+      "name": "Tenggir"
+    },
+    {
+      "code": 3512082012,
+      "name": "Kayu Putih"
+    }
+  ]
+}

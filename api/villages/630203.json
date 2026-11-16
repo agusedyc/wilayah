@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6302032006,
+      "name": "Teluk Sirih"
+    },
+    {
+      "code": 6302032007,
+      "name": "Sungai Bahim"
+    },
+    {
+      "code": 6302032008,
+      "name": "Tanjung Seloka"
+    },
+    {
+      "code": 6302032009,
+      "name": "Tanjung Serudung"
+    },
+    {
+      "code": 6302032011,
+      "name": "Alle-Alle"
+    },
+    {
+      "code": 6302032013,
+      "name": "Sungai Bulan"
+    },
+    {
+      "code": 6302032015,
+      "name": "Labuan Mas"
+    },
+    {
+      "code": 6302032016,
+      "name": "Tanjung Seloka Utara"
+    }
+  ]
+}

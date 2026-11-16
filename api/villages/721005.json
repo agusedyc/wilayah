@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7210052001,
+      "name": "Siwongi"
+    },
+    {
+      "code": 7210052002,
+      "name": "Banggaiba"
+    },
+    {
+      "code": 7210052003,
+      "name": "Tangkulowi"
+    },
+    {
+      "code": 7210052004,
+      "name": "Boladangko"
+    },
+    {
+      "code": 7210052005,
+      "name": "Lonca"
+    },
+    {
+      "code": 7210052006,
+      "name": "Rantewulu"
+    },
+    {
+      "code": 7210052007,
+      "name": "Towulu"
+    },
+    {
+      "code": 7210052008,
+      "name": "Winatu"
+    },
+    {
+      "code": 7210052009,
+      "name": "Sungku"
+    },
+    {
+      "code": 7210052010,
+      "name": "Bolapapu"
+    },
+    {
+      "code": 7210052011,
+      "name": "Mataue"
+    },
+    {
+      "code": 7210052012,
+      "name": "Toro"
+    },
+    {
+      "code": 7210052013,
+      "name": "Salua"
+    },
+    {
+      "code": 7210052014,
+      "name": "Namo"
+    },
+    {
+      "code": 7210052015,
+      "name": "Marena"
+    },
+    {
+      "code": 7210052016,
+      "name": "Poleroa Makuhi"
+    }
+  ]
+}

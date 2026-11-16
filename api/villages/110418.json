@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1104182001,
+      "name": "Atu Lintang"
+    },
+    {
+      "code": 1104182002,
+      "name": "Merah Mege"
+    },
+    {
+      "code": 1104182003,
+      "name": "Merah Pupuk"
+    },
+    {
+      "code": 1104182004,
+      "name": "Merah Muyang"
+    },
+    {
+      "code": 1104182005,
+      "name": "Gayo Murni"
+    },
+    {
+      "code": 1104182006,
+      "name": "Kepala Akal"
+    },
+    {
+      "code": 1104182007,
+      "name": "Tanoh Abu"
+    },
+    {
+      "code": 1104182008,
+      "name": "Bintang Kekelip"
+    },
+    {
+      "code": 1104182009,
+      "name": "Merah Jernang"
+    },
+    {
+      "code": 1104182010,
+      "name": "Damar Mulyo"
+    },
+    {
+      "code": 1104182011,
+      "name": "Pantan Damar"
+    }
+  ]
+}

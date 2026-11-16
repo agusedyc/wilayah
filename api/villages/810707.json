@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8107072001,
+      "name": "Koijabi"
+    },
+    {
+      "code": 8107072002,
+      "name": "Balatan"
+    },
+    {
+      "code": 8107072003,
+      "name": "Warloy"
+    },
+    {
+      "code": 8107072004,
+      "name": "Warjukur"
+    },
+    {
+      "code": 8107072005,
+      "name": "Kobror"
+    },
+    {
+      "code": 8107072006,
+      "name": "Basada"
+    },
+    {
+      "code": 8107072007,
+      "name": "Wailay"
+    },
+    {
+      "code": 8107072008,
+      "name": "Kaiwabar"
+    },
+    {
+      "code": 8107072009,
+      "name": "Ponom"
+    },
+    {
+      "code": 8107072010,
+      "name": "Lola"
+    },
+    {
+      "code": 8107072011,
+      "name": "Mariri"
+    },
+    {
+      "code": 8107072012,
+      "name": "Dosinamalau"
+    },
+    {
+      "code": 8107072013,
+      "name": "Karawai"
+    }
+  ]
+}

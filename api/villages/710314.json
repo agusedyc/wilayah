@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7103142001,
+      "name": "Bowongkali"
+    },
+    {
+      "code": 7103142002,
+      "name": "Kulur I"
+    },
+    {
+      "code": 7103142003,
+      "name": "Kulur II"
+    },
+    {
+      "code": 7103142004,
+      "name": "Bira"
+    },
+    {
+      "code": 7103142005,
+      "name": "Kuma"
+    },
+    {
+      "code": 7103142006,
+      "name": "Bungalawang"
+    },
+    {
+      "code": 7103142007,
+      "name": "Miulu"
+    },
+    {
+      "code": 7103142008,
+      "name": "Gunung"
+    },
+    {
+      "code": 7103142009,
+      "name": "Talengen"
+    },
+    {
+      "code": 7103142010,
+      "name": "Biru"
+    },
+    {
+      "code": 7103142011,
+      "name": "Tariang Baru"
+    },
+    {
+      "code": 7103142012,
+      "name": "Sensong"
+    },
+    {
+      "code": 7103142013,
+      "name": "Rendingan"
+    },
+    {
+      "code": 7103142014,
+      "name": "Palahanaeng"
+    },
+    {
+      "code": 7103142015,
+      "name": "Timbelang"
+    },
+    {
+      "code": 7103142016,
+      "name": "Pelelangen"
+    },
+    {
+      "code": 7103142017,
+      "name": "Malueng"
+    },
+    {
+      "code": 7103142018,
+      "name": "Kuma I"
+    }
+  ]
+}

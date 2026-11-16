@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7601062001,
+      "name": "Tammarunang"
+    },
+    {
+      "code": 7601062002,
+      "name": "Saptanajaya"
+    },
+    {
+      "code": 7601062003,
+      "name": "Taranggi"
+    },
+    {
+      "code": 7601062004,
+      "name": "Sipakainga"
+    }
+  ]
+}

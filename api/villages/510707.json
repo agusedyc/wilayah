@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5107072001,
+      "name": "Muncan"
+    },
+    {
+      "code": 5107072002,
+      "name": "Selat"
+    },
+    {
+      "code": 5107072003,
+      "name": "Duda"
+    },
+    {
+      "code": 5107072004,
+      "name": "Sebudi"
+    },
+    {
+      "code": 5107072005,
+      "name": "Duda Utara"
+    },
+    {
+      "code": 5107072006,
+      "name": "Duda Timur"
+    },
+    {
+      "code": 5107072007,
+      "name": "Peringsari"
+    },
+    {
+      "code": 5107072008,
+      "name": "Amerta Bhuana"
+    }
+  ]
+}

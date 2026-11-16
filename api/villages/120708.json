@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1207082001,
+      "name": "Talun Kenas"
+    },
+    {
+      "code": 1207082002,
+      "name": "Gunung Rintih"
+    },
+    {
+      "code": 1207082003,
+      "name": "Sumbul"
+    },
+    {
+      "code": 1207082004,
+      "name": "Tadukan Raga"
+    },
+    {
+      "code": 1207082005,
+      "name": "Limau Mungkur"
+    },
+    {
+      "code": 1207082006,
+      "name": "Negara Beringin"
+    },
+    {
+      "code": 1207082007,
+      "name": "Lau Barus Baru"
+    },
+    {
+      "code": 1207082008,
+      "name": "Juma Tombak"
+    },
+    {
+      "code": 1207082009,
+      "name": "Siguci"
+    },
+    {
+      "code": 1207082010,
+      "name": "Kuta Jurung"
+    },
+    {
+      "code": 1207082011,
+      "name": "Tala Peta"
+    },
+    {
+      "code": 1207082012,
+      "name": "Lau Rakit"
+    },
+    {
+      "code": 1207082013,
+      "name": "Penungkiren"
+    },
+    {
+      "code": 1207082014,
+      "name": "Rambai"
+    },
+    {
+      "code": 1207082015,
+      "name": "Lau Rempak"
+    }
+  ]
+}

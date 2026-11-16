@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 3305042001,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3305042002,
+      "name": "Karanggadung"
+    },
+    {
+      "code": 3305042003,
+      "name": "Tegalretno"
+    },
+    {
+      "code": 3305042004,
+      "name": "Ampelsari"
+    },
+    {
+      "code": 3305042005,
+      "name": "Munggu"
+    },
+    {
+      "code": 3305042006,
+      "name": "Kewangunan"
+    },
+    {
+      "code": 3305042007,
+      "name": "Karangduwur"
+    },
+    {
+      "code": 3305042008,
+      "name": "Petanahan"
+    },
+    {
+      "code": 3305042009,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3305042010,
+      "name": "Grogolpenatus"
+    },
+    {
+      "code": 3305042011,
+      "name": "Grogolbeningsari"
+    },
+    {
+      "code": 3305042012,
+      "name": "Jogomertan"
+    },
+    {
+      "code": 3305042013,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3305042014,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3305042015,
+      "name": "Grujugan"
+    },
+    {
+      "code": 3305042016,
+      "name": "Kritig"
+    },
+    {
+      "code": 3305042017,
+      "name": "Nampudadi"
+    },
+    {
+      "code": 3305042018,
+      "name": "Tresnorejo"
+    },
+    {
+      "code": 3305042019,
+      "name": "Podourip"
+    },
+    {
+      "code": 3305042020,
+      "name": "Jatimulyo"
+    },
+    {
+      "code": 3305042021,
+      "name": "Banjarwinangun"
+    }
+  ]
+}

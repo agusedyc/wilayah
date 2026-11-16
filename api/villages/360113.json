@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3601132001,
+      "name": "Alaswangi"
+    },
+    {
+      "code": 3601132002,
+      "name": "Tegalwangi"
+    },
+    {
+      "code": 3601132003,
+      "name": "Kananga"
+    },
+    {
+      "code": 3601132004,
+      "name": "Cigandeng"
+    },
+    {
+      "code": 3601132005,
+      "name": "Menes"
+    },
+    {
+      "code": 3601132006,
+      "name": "Muruy"
+    },
+    {
+      "code": 3601132010,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3601132011,
+      "name": "Purwaraja"
+    },
+    {
+      "code": 3601132012,
+      "name": "Sindangkarya"
+    },
+    {
+      "code": 3601132013,
+      "name": "Cilabanbulan"
+    },
+    {
+      "code": 3601132015,
+      "name": "Kadupayung"
+    },
+    {
+      "code": 3601132016,
+      "name": "Ramaya"
+    }
+  ]
+}

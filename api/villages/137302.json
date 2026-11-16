@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1373021001,
+      "name": "Saringan"
+    },
+    {
+      "code": 1373021002,
+      "name": "Lubang Panjang"
+    },
+    {
+      "code": 1373021003,
+      "name": "Durian I"
+    },
+    {
+      "code": 1373021004,
+      "name": "Durian II"
+    },
+    {
+      "code": 1373022005,
+      "name": "Santur"
+    },
+    {
+      "code": 1373022006,
+      "name": "Kolok Mudiak"
+    },
+    {
+      "code": 1373022007,
+      "name": "Kolok Nan Tuo"
+    },
+    {
+      "code": 1373022008,
+      "name": "Talago Gunung"
+    },
+    {
+      "code": 1373022009,
+      "name": "Lumindai"
+    },
+    {
+      "code": 1373022010,
+      "name": "Balai Batu Sandaran"
+    }
+  ]
+}

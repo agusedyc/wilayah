@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3173081001,
+      "name": "Kembangan Utara"
+    },
+    {
+      "code": 3173081002,
+      "name": "Meruya Utara"
+    },
+    {
+      "code": 3173081003,
+      "name": "Meruya Selatan"
+    },
+    {
+      "code": 3173081004,
+      "name": "Srengseng"
+    },
+    {
+      "code": 3173081005,
+      "name": "Joglo"
+    },
+    {
+      "code": 3173081006,
+      "name": "Kembangan Selatan"
+    }
+  ]
+}

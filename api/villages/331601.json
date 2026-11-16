@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3316012001,
+      "name": "Bangkleyan"
+    },
+    {
+      "code": 3316012002,
+      "name": "Gempol"
+    },
+    {
+      "code": 3316012003,
+      "name": "Kepoh"
+    },
+    {
+      "code": 3316012004,
+      "name": "Pelem"
+    },
+    {
+      "code": 3316012005,
+      "name": "Jegong"
+    },
+    {
+      "code": 3316012006,
+      "name": "Jati"
+    },
+    {
+      "code": 3316012007,
+      "name": "Singget"
+    },
+    {
+      "code": 3316012008,
+      "name": "Gabusan"
+    },
+    {
+      "code": 3316012009,
+      "name": "Doplang"
+    },
+    {
+      "code": 3316012010,
+      "name": "Randulawang"
+    },
+    {
+      "code": 3316012011,
+      "name": "Tobo"
+    },
+    {
+      "code": 3316012012,
+      "name": "Pengkoljagong"
+    }
+  ]
+}

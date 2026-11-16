@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6408041010,
+      "name": "Teluk Lingga"
+    },
+    {
+      "code": 6408042001,
+      "name": "Sangatta Utara"
+    },
+    {
+      "code": 6408042011,
+      "name": "Singa Gembara"
+    },
+    {
+      "code": 6408042012,
+      "name": "Swarga Bara"
+    }
+  ]
+}

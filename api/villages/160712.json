@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1607122001,
+      "name": "Telang Sari"
+    },
+    {
+      "code": 1607122002,
+      "name": "Mulya Sari"
+    },
+    {
+      "code": 1607122003,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1607122004,
+      "name": "Sri Menanti"
+    },
+    {
+      "code": 1607122005,
+      "name": "Sebalik"
+    },
+    {
+      "code": 1607122006,
+      "name": "Tanjung Lago"
+    },
+    {
+      "code": 1607122007,
+      "name": "Kuala Puntian"
+    },
+    {
+      "code": 1607122008,
+      "name": "Sukatani"
+    },
+    {
+      "code": 1607122009,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 1607122010,
+      "name": "Banyu Urip"
+    },
+    {
+      "code": 1607122011,
+      "name": "Bangun Sari"
+    },
+    {
+      "code": 1607122012,
+      "name": "Sumber Mekar Mukti"
+    },
+    {
+      "code": 1607122013,
+      "name": "Muara Sugih"
+    },
+    {
+      "code": 1607122014,
+      "name": "Manggar Raya"
+    },
+    {
+      "code": 1607122015,
+      "name": "Bunga Karang"
+    }
+  ]
+}

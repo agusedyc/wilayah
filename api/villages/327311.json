@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3273111001,
+      "name": "Cigereleng"
+    },
+    {
+      "code": 3273111002,
+      "name": "Ancol"
+    },
+    {
+      "code": 3273111003,
+      "name": "Pungkur"
+    },
+    {
+      "code": 3273111004,
+      "name": "Balong Gede"
+    },
+    {
+      "code": 3273111005,
+      "name": "Ciseureuh"
+    },
+    {
+      "code": 3273111006,
+      "name": "Ciateul"
+    },
+    {
+      "code": 3273111007,
+      "name": "Pasirluyu"
+    }
+  ]
+}

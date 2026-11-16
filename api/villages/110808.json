@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Showing 40 villages",
+  "data": [
+    {
+      "code": 1108082001,
+      "name": "Pie"
+    },
+    {
+      "code": 1108082002,
+      "name": "Asan"
+    },
+    {
+      "code": 1108082003,
+      "name": "Murong"
+    },
+    {
+      "code": 1108082004,
+      "name": "Blang Kabu"
+    },
+    {
+      "code": 1108082005,
+      "name": "Mancang"
+    },
+    {
+      "code": 1108082006,
+      "name": "Keude Geudong"
+    },
+    {
+      "code": 1108082007,
+      "name": "Blang Peuria"
+    },
+    {
+      "code": 1108082008,
+      "name": "Teupin Ara"
+    },
+    {
+      "code": 1108082009,
+      "name": "Teupin Beulangan"
+    },
+    {
+      "code": 1108082010,
+      "name": "Krueng Baro Langgahan"
+    },
+    {
+      "code": 1108082011,
+      "name": "Pusong"
+    },
+    {
+      "code": 1108082012,
+      "name": "Tanjong Kleng"
+    },
+    {
+      "code": 1108082013,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1108082014,
+      "name": "Beuringen"
+    },
+    {
+      "code": 1108082015,
+      "name": "Kuta Krueng"
+    },
+    {
+      "code": 1108082016,
+      "name": "Kuta Glumpang"
+    },
+    {
+      "code": 1108082017,
+      "name": "Meucat"
+    },
+    {
+      "code": 1108082018,
+      "name": "Krueng Baro Blang Mee"
+    },
+    {
+      "code": 1108082019,
+      "name": "Ujong"
+    },
+    {
+      "code": 1108082020,
+      "name": "Mesjid"
+    },
+    {
+      "code": 1108082021,
+      "name": "Teungoh"
+    },
+    {
+      "code": 1108082022,
+      "name": "Keude Blang Mee Pulo Klat"
+    },
+    {
+      "code": 1108082023,
+      "name": "Puuk"
+    },
+    {
+      "code": 1108082024,
+      "name": "Lancang"
+    },
+    {
+      "code": 1108082025,
+      "name": "Matang Ulim"
+    },
+    {
+      "code": 1108082026,
+      "name": "Sawang"
+    },
+    {
+      "code": 1108082027,
+      "name": "Laga Baro"
+    },
+    {
+      "code": 1108082028,
+      "name": "Pulo"
+    },
+    {
+      "code": 1108082029,
+      "name": "Matang Tunong"
+    },
+    {
+      "code": 1108082030,
+      "name": "Matang Puntong"
+    },
+    {
+      "code": 1108082031,
+      "name": "Blang Nibong"
+    },
+    {
+      "code": 1108082032,
+      "name": "Tanjong Baroh"
+    },
+    {
+      "code": 1108082033,
+      "name": "Tanjong Hagu"
+    },
+    {
+      "code": 1108082034,
+      "name": "Tanjong Reungkam"
+    },
+    {
+      "code": 1108082035,
+      "name": "Tanjong Mesjid"
+    },
+    {
+      "code": 1108082036,
+      "name": "Paya Terbang"
+    },
+    {
+      "code": 1108082037,
+      "name": "Madan"
+    },
+    {
+      "code": 1108082038,
+      "name": "Tanjong Awe"
+    },
+    {
+      "code": 1108082039,
+      "name": "Kitou"
+    },
+    {
+      "code": 1108082040,
+      "name": "Krueng Matee"
+    }
+  ]
+}

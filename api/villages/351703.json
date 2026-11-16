@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3517032001,
+      "name": "Jombok"
+    },
+    {
+      "code": 3517032002,
+      "name": "Genukwatu"
+    },
+    {
+      "code": 3517032003,
+      "name": "Rejoagung"
+    },
+    {
+      "code": 3517032004,
+      "name": "Kauman"
+    },
+    {
+      "code": 3517032005,
+      "name": "Ngoro"
+    },
+    {
+      "code": 3517032006,
+      "name": "Badang"
+    },
+    {
+      "code": 3517032007,
+      "name": "Pulorejo"
+    },
+    {
+      "code": 3517032008,
+      "name": "Banyuarang"
+    },
+    {
+      "code": 3517032009,
+      "name": "Sidowarek"
+    },
+    {
+      "code": 3517032010,
+      "name": "Gajah"
+    },
+    {
+      "code": 3517032011,
+      "name": "Kesamben"
+    },
+    {
+      "code": 3517032012,
+      "name": "Kertorejo"
+    },
+    {
+      "code": 3517032013,
+      "name": "Sugihwaras"
+    }
+  ]
+}

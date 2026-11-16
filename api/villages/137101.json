@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1371011001,
+      "name": "Belakang Pondok"
+    },
+    {
+      "code": 1371011002,
+      "name": "Alang Laweh"
+    },
+    {
+      "code": 1371011003,
+      "name": "Ranah Parak Rumbio"
+    },
+    {
+      "code": 1371011004,
+      "name": "Pasa Gadang"
+    },
+    {
+      "code": 1371011005,
+      "name": "Batang Arau"
+    },
+    {
+      "code": 1371011006,
+      "name": "Seberang Palinggam"
+    },
+    {
+      "code": 1371011007,
+      "name": "Seberang Padang"
+    },
+    {
+      "code": 1371011008,
+      "name": "Mata Air"
+    },
+    {
+      "code": 1371011009,
+      "name": "Rawang"
+    },
+    {
+      "code": 1371011010,
+      "name": "Teluk Bayur"
+    },
+    {
+      "code": 1371011011,
+      "name": "Air Manis"
+    },
+    {
+      "code": 1371011012,
+      "name": "Bukit Gado-gado"
+    }
+  ]
+}

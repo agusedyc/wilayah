@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1807222001,
+      "name": "Braja Harjosari"
+    },
+    {
+      "code": 1807222002,
+      "name": "Braja Gemilang"
+    },
+    {
+      "code": 1807222003,
+      "name": "Braja Indah"
+    },
+    {
+      "code": 1807222004,
+      "name": "Braja Yekti"
+    },
+    {
+      "code": 1807222005,
+      "name": "Braja Kencana"
+    },
+    {
+      "code": 1807222006,
+      "name": "Braja Luhur"
+    },
+    {
+      "code": 1807222007,
+      "name": "Braja Mulya"
+    }
+  ]
+}

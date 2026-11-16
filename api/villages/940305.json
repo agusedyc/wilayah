@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9403051001,
+      "name": "Bibida"
+    },
+    {
+      "code": 9403052002,
+      "name": "Ugidimi"
+    },
+    {
+      "code": 9403052003,
+      "name": "Odiyai"
+    },
+    {
+      "code": 9403052004,
+      "name": "Tuwaktu"
+    },
+    {
+      "code": 9403052005,
+      "name": "Kugaisiga"
+    },
+    {
+      "code": 9403052006,
+      "name": "Kolaitaga"
+    },
+    {
+      "code": 9403052007,
+      "name": "Dama-dama"
+    }
+  ]
+}

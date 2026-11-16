@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1103222001,
+      "name": "Tunong Bugeng"
+    },
+    {
+      "code": 1103222002,
+      "name": "Cempeudak"
+    },
+    {
+      "code": 1103222003,
+      "name": "Buket Tufah"
+    },
+    {
+      "code": 1103222004,
+      "name": "Tunong Ulee Gajah"
+    },
+    {
+      "code": 1103222005,
+      "name": "Keudondong"
+    },
+    {
+      "code": 1103222006,
+      "name": "Seuneubok Panton"
+    },
+    {
+      "code": 1103222007,
+      "name": "Buket Teumpeun"
+    },
+    {
+      "code": 1103222008,
+      "name": "Keude Blang"
+    },
+    {
+      "code": 1103222009,
+      "name": "Paya Kruep"
+    },
+    {
+      "code": 1103222010,
+      "name": "Tunong Paya Kruep"
+    },
+    {
+      "code": 1103222011,
+      "name": "Alue Siwah"
+    }
+  ]
+}

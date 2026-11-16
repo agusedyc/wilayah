@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 1304122001,
+      "name": "Tanjuang Alam"
+    },
+    {
+      "code": 1304122002,
+      "name": "Barulak"
+    }
+  ]
+}

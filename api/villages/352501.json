@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 3525012001,
+      "name": "Sawo"
+    },
+    {
+      "code": 3525012002,
+      "name": "Karangcangkring"
+    },
+    {
+      "code": 3525012003,
+      "name": "Gedongkedo'an"
+    },
+    {
+      "code": 3525012004,
+      "name": "Bulangan"
+    },
+    {
+      "code": 3525012005,
+      "name": "Wonokerto"
+    },
+    {
+      "code": 3525012006,
+      "name": "Bangeran"
+    },
+    {
+      "code": 3525012007,
+      "name": "Lowayu"
+    },
+    {
+      "code": 3525012008,
+      "name": "Petiyin Tunggal"
+    },
+    {
+      "code": 3525012009,
+      "name": "Tirem Enggal"
+    },
+    {
+      "code": 3525012010,
+      "name": "Tebuwung"
+    },
+    {
+      "code": 3525012011,
+      "name": "Dukuh Kembar"
+    },
+    {
+      "code": 3525012012,
+      "name": "Madumulyorejo"
+    },
+    {
+      "code": 3525012013,
+      "name": "Mentaras"
+    },
+    {
+      "code": 3525012014,
+      "name": "Baron"
+    },
+    {
+      "code": 3525012015,
+      "name": "Jrebeng"
+    },
+    {
+      "code": 3525012016,
+      "name": "Mojopetung"
+    },
+    {
+      "code": 3525012017,
+      "name": "Sekargadung"
+    },
+    {
+      "code": 3525012018,
+      "name": "\"Ima\"\"an\""
+    },
+    {
+      "code": 3525012019,
+      "name": "Babakbawo"
+    },
+    {
+      "code": 3525012020,
+      "name": "Babaksari"
+    },
+    {
+      "code": 3525012021,
+      "name": "Sambogunung"
+    },
+    {
+      "code": 3525012022,
+      "name": "Sembungan Kidul"
+    },
+    {
+      "code": 3525012023,
+      "name": "Sembunganyar"
+    },
+    {
+      "code": 3525012024,
+      "name": "Kalirejo"
+    },
+    {
+      "code": 3525012025,
+      "name": "Padang Bandung"
+    },
+    {
+      "code": 3525012026,
+      "name": "Dukunanyar"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1208022001,
+      "name": "Dolog Malela"
+    },
+    {
+      "code": 1208022002,
+      "name": "Senio"
+    },
+    {
+      "code": 1208022003,
+      "name": "Pamatang Asilom"
+    },
+    {
+      "code": 1208022004,
+      "name": "Serapuh"
+    },
+    {
+      "code": 1208022005,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 1208022006,
+      "name": "Silulu"
+    },
+    {
+      "code": 1208022007,
+      "name": "Silou Malela"
+    },
+    {
+      "code": 1208022008,
+      "name": "Bandar Siantar"
+    },
+    {
+      "code": 1208022009,
+      "name": "Pamatang Gajing"
+    },
+    {
+      "code": 1208022010,
+      "name": "Bangun"
+    },
+    {
+      "code": 1208022011,
+      "name": "Malela"
+    },
+    {
+      "code": 1208022012,
+      "name": "Bukit Maraja"
+    },
+    {
+      "code": 1208022013,
+      "name": "Pamatang Sahkuda"
+    },
+    {
+      "code": 1208022014,
+      "name": "Marihat Bukit"
+    },
+    {
+      "code": 1208022015,
+      "name": "Sahkuda Bayu"
+    },
+    {
+      "code": 1208022016,
+      "name": "Lingga"
+    }
+  ]
+}

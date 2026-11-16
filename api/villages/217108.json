@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 2171081001,
+      "name": "Sijantung"
+    },
+    {
+      "code": 2171081002,
+      "name": "Karas"
+    },
+    {
+      "code": 2171081003,
+      "name": "Galang Baru"
+    },
+    {
+      "code": 2171081004,
+      "name": "Sembulang"
+    },
+    {
+      "code": 2171081005,
+      "name": "Rempang Cate"
+    },
+    {
+      "code": 2171081006,
+      "name": "Subang Mas"
+    },
+    {
+      "code": 2171081007,
+      "name": "Pulau Abang"
+    },
+    {
+      "code": 2171081008,
+      "name": "Air Raja"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5303022001,
+      "name": "Noepesu"
+    },
+    {
+      "code": 5303022002,
+      "name": "Fatuneno"
+    },
+    {
+      "code": 5303022003,
+      "name": "Suanae"
+    },
+    {
+      "code": 5303022004,
+      "name": "Lemon"
+    },
+    {
+      "code": 5303022005,
+      "name": "Fatunisuan"
+    },
+    {
+      "code": 5303022006,
+      "name": "Haulasi"
+    },
+    {
+      "code": 5303022018,
+      "name": "Neotoko"
+    },
+    {
+      "code": 5303022019,
+      "name": "Fatutasu"
+    },
+    {
+      "code": 5303022020,
+      "name": "Manusasi"
+    },
+    {
+      "code": 5303022025,
+      "name": "Saenam"
+    },
+    {
+      "code": 5303022026,
+      "name": "Eban"
+    },
+    {
+      "code": 5303022027,
+      "name": "Sallu"
+    },
+    {
+      "code": 5303022028,
+      "name": "Sa'tab"
+    }
+  ]
+}

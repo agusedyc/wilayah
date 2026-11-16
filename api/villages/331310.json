@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3313102001,
+      "name": "Buran"
+    },
+    {
+      "code": 3313102002,
+      "name": "Papahan"
+    },
+    {
+      "code": 3313102003,
+      "name": "Ngijo"
+    },
+    {
+      "code": 3313102004,
+      "name": "Gaum"
+    },
+    {
+      "code": 3313102005,
+      "name": "Suruh"
+    },
+    {
+      "code": 3313102006,
+      "name": "Pandeyan"
+    },
+    {
+      "code": 3313102007,
+      "name": "Karangmojo"
+    },
+    {
+      "code": 3313102008,
+      "name": "Kaling"
+    },
+    {
+      "code": 3313102009,
+      "name": "Wonolopo"
+    },
+    {
+      "code": 3313102010,
+      "name": "Kalijirak"
+    }
+  ]
+}

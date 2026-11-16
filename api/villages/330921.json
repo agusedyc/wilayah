@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3309212001,
+      "name": "Lampar"
+    },
+    {
+      "code": 3309212002,
+      "name": "Dragan"
+    },
+    {
+      "code": 3309212003,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3309212004,
+      "name": "Jemowo"
+    },
+    {
+      "code": 3309212005,
+      "name": "Sumur"
+    },
+    {
+      "code": 3309212006,
+      "name": "Sangup"
+    },
+    {
+      "code": 3309212007,
+      "name": "Mriyan"
+    },
+    {
+      "code": 3309212008,
+      "name": "Lanjaran"
+    },
+    {
+      "code": 3309212009,
+      "name": "Karangkendal"
+    },
+    {
+      "code": 3309212010,
+      "name": "Keposong"
+    }
+  ]
+}

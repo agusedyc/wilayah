@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3512052001,
+      "name": "Bugeman"
+    },
+    {
+      "code": 3512052002,
+      "name": "Kendit"
+    },
+    {
+      "code": 3512052003,
+      "name": "Balung"
+    },
+    {
+      "code": 3512052004,
+      "name": "Tambak Ukir"
+    },
+    {
+      "code": 3512052005,
+      "name": "Rajekwesi"
+    },
+    {
+      "code": 3512052006,
+      "name": "Kukusan"
+    },
+    {
+      "code": 3512052007,
+      "name": "Klatakan"
+    }
+  ]
+}

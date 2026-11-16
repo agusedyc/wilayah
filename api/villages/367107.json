@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3671071001,
+      "name": "Karawaci"
+    },
+    {
+      "code": 3671071002,
+      "name": "Bojong Jaya"
+    },
+    {
+      "code": 3671071003,
+      "name": "Karawaci Baru"
+    },
+    {
+      "code": 3671071004,
+      "name": "Nusa Jaya"
+    },
+    {
+      "code": 3671071005,
+      "name": "Cimone"
+    },
+    {
+      "code": 3671071006,
+      "name": "Cimone Jaya"
+    },
+    {
+      "code": 3671071007,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3671071008,
+      "name": "Sumur Pacing"
+    },
+    {
+      "code": 3671071009,
+      "name": "Bugel"
+    },
+    {
+      "code": 3671071010,
+      "name": "Marga Sari"
+    },
+    {
+      "code": 3671071011,
+      "name": "Pabuaran Tumpeng"
+    },
+    {
+      "code": 3671071012,
+      "name": "Nambo Jaya"
+    },
+    {
+      "code": 3671071013,
+      "name": "Gerendeng"
+    },
+    {
+      "code": 3671071014,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3671071015,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 3671071016,
+      "name": "Koang Jaya"
+    }
+  ]
+}

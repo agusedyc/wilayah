@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7107112001,
+      "name": "Towuntu"
+    },
+    {
+      "code": 7107112002,
+      "name": "Towuntu Timur"
+    },
+    {
+      "code": 7107112003,
+      "name": "Towuntu Barat"
+    },
+    {
+      "code": 7107112004,
+      "name": "Tolombukan"
+    },
+    {
+      "code": 7107112005,
+      "name": "Tolombukan Satu"
+    },
+    {
+      "code": 7107112006,
+      "name": "Tolombukan Barat"
+    },
+    {
+      "code": 7107112007,
+      "name": "Liwutung"
+    },
+    {
+      "code": 7107112008,
+      "name": "Liwutung Satu"
+    },
+    {
+      "code": 7107112009,
+      "name": "Liwutung Dua"
+    },
+    {
+      "code": 7107112010,
+      "name": "Poniki"
+    },
+    {
+      "code": 7107112011,
+      "name": "Maulit"
+    }
+  ]
+}

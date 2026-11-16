@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1609052001,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1609052007,
+      "name": "Lubar"
+    },
+    {
+      "code": 1609052008,
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": 1609052009,
+      "name": "Simpangan"
+    },
+    {
+      "code": 1609052010,
+      "name": "Bungin Campang"
+    },
+    {
+      "code": 1609052029,
+      "name": "Simpang Agung"
+    },
+    {
+      "code": 1609052030,
+      "name": "Sinar Mulyo"
+    }
+  ]
+}

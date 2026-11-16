@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504262001,
+      "name": "Gagulineri"
+    },
+    {
+      "code": 9504262002,
+      "name": "Telekonok"
+    },
+    {
+      "code": 9504262003,
+      "name": "Kuoklanggunik"
+    },
+    {
+      "code": 9504262004,
+      "name": "Bogokila"
+    },
+    {
+      "code": 9504262005,
+      "name": "Mabuk"
+    },
+    {
+      "code": 9504262006,
+      "name": "Nogari"
+    },
+    {
+      "code": 9504262007,
+      "name": "Genage"
+    },
+    {
+      "code": 9504262008,
+      "name": "Tigir"
+    },
+    {
+      "code": 9504262009,
+      "name": "Gindugunik"
+    },
+    {
+      "code": 9504262010,
+      "name": "Konengga"
+    }
+  ]
+}

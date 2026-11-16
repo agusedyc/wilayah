@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1607091012,
+      "name": "Makarti Jaya"
+    },
+    {
+      "code": 1607092002,
+      "name": "Delta Upang"
+    },
+    {
+      "code": 1607092006,
+      "name": "Pendowo Harjo"
+    },
+    {
+      "code": 1607092007,
+      "name": "Pangestu"
+    },
+    {
+      "code": 1607092008,
+      "name": "Tirta Kencana"
+    },
+    {
+      "code": 1607092010,
+      "name": "Upang Makmur"
+    },
+    {
+      "code": 1607092013,
+      "name": "Upang Mulya"
+    },
+    {
+      "code": 1607092017,
+      "name": "Purwosari"
+    },
+    {
+      "code": 1607092019,
+      "name": "Tanjung Mas"
+    },
+    {
+      "code": 1607092020,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 1607092021,
+      "name": "Sungai Semut"
+    },
+    {
+      "code": 1607092022,
+      "name": "Muara Baru"
+    }
+  ]
+}

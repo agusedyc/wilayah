@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1704082001,
+      "name": "Bunga Melur"
+    },
+    {
+      "code": 1704082002,
+      "name": "Karang Dapo"
+    },
+    {
+      "code": 1704082003,
+      "name": "Lubuk Gung"
+    },
+    {
+      "code": 1704082004,
+      "name": "Gunung Tiga"
+    },
+    {
+      "code": 1704082005,
+      "name": "Suka Merindu"
+    },
+    {
+      "code": 1704082006,
+      "name": "Mentiring"
+    },
+    {
+      "code": 1704082007,
+      "name": "Cahaya Batin"
+    },
+    {
+      "code": 1704082008,
+      "name": "Awat Mata"
+    },
+    {
+      "code": 1704082009,
+      "name": "Nusuk"
+    },
+    {
+      "code": 1704082010,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1704082011,
+      "name": "Gunung Tiga II"
+    },
+    {
+      "code": 1704082012,
+      "name": "Padang Panjang"
+    },
+    {
+      "code": 1704082013,
+      "name": "Masria Baru"
+    }
+  ]
+}

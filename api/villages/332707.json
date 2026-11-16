@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3327072001,
+      "name": "Kecepit"
+    },
+    {
+      "code": 3327072002,
+      "name": "Gembyang"
+    },
+    {
+      "code": 3327072003,
+      "name": "Mejagong"
+    },
+    {
+      "code": 3327072004,
+      "name": "Penusupan"
+    },
+    {
+      "code": 3327072005,
+      "name": "Banjaranyar"
+    },
+    {
+      "code": 3327072006,
+      "name": "Randudongkal"
+    },
+    {
+      "code": 3327072007,
+      "name": "Karangmoncol"
+    },
+    {
+      "code": 3327072008,
+      "name": "Semingkir"
+    },
+    {
+      "code": 3327072009,
+      "name": "Semaya"
+    },
+    {
+      "code": 3327072010,
+      "name": "Tanahbaya"
+    },
+    {
+      "code": 3327072011,
+      "name": "Lodaya"
+    },
+    {
+      "code": 3327072012,
+      "name": "Rembul"
+    },
+    {
+      "code": 3327072013,
+      "name": "Kreyo"
+    },
+    {
+      "code": 3327072014,
+      "name": "Kalimas"
+    },
+    {
+      "code": 3327072015,
+      "name": "Mangli"
+    },
+    {
+      "code": 3327072016,
+      "name": "Kalitorong"
+    },
+    {
+      "code": 3327072017,
+      "name": "Kejene"
+    },
+    {
+      "code": 3327072018,
+      "name": "Gongseng"
+    }
+  ]
+}

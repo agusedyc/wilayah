@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1215072001,
+      "name": "Kuta Babo"
+    },
+    {
+      "code": 1215072002,
+      "name": "Tinada"
+    },
+    {
+      "code": 1215072003,
+      "name": "Silima Kuta"
+    },
+    {
+      "code": 1215072004,
+      "name": "Mahala"
+    },
+    {
+      "code": 1215072005,
+      "name": "Prongil"
+    },
+    {
+      "code": 1215072006,
+      "name": "Buluh Tellang"
+    }
+  ]
+}

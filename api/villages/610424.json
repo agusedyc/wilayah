@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6104242001,
+      "name": "Pebihingan"
+    },
+    {
+      "code": 6104242002,
+      "name": "Lalang Panjang"
+    },
+    {
+      "code": 6104242003,
+      "name": "Semayok Baru"
+    },
+    {
+      "code": 6104242004,
+      "name": "Muara Gerunggang"
+    },
+    {
+      "code": 6104242005,
+      "name": "Usaha Baru"
+    },
+    {
+      "code": 6104242006,
+      "name": "Kerta Baru"
+    },
+    {
+      "code": 6104242007,
+      "name": "Muara Semayok"
+    }
+  ]
+}

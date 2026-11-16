@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Showing 40 villages",
+  "data": [
+    {
+      "code": 1117052001,
+      "name": "Bale Atu"
+    },
+    {
+      "code": 1117052002,
+      "name": "Bale Redelong"
+    },
+    {
+      "code": 1117052003,
+      "name": "Batin Wih Pongas"
+    },
+    {
+      "code": 1117052004,
+      "name": "Blang Ara"
+    },
+    {
+      "code": 1117052005,
+      "name": "Blang Sentang"
+    },
+    {
+      "code": 1117052006,
+      "name": "Blang Tampu"
+    },
+    {
+      "code": 1117052007,
+      "name": "Bujang"
+    },
+    {
+      "code": 1117052009,
+      "name": "Delung Tue"
+    },
+    {
+      "code": 1117052010,
+      "name": "Hakim Tungul Naru"
+    },
+    {
+      "code": 1117052011,
+      "name": "Isaq Busur"
+    },
+    {
+      "code": 1117052012,
+      "name": "Kenawat Redelong"
+    },
+    {
+      "code": 1117052013,
+      "name": "Kute Lintang"
+    },
+    {
+      "code": 1117052014,
+      "name": "Panji Mulia I"
+    },
+    {
+      "code": 1117052015,
+      "name": "Panji Mulia II"
+    },
+    {
+      "code": 1117052016,
+      "name": "Pasar Simpang Tiga"
+    },
+    {
+      "code": 1117052017,
+      "name": "Reje Guru"
+    },
+    {
+      "code": 1117052018,
+      "name": "Rembele"
+    },
+    {
+      "code": 1117052019,
+      "name": "Sedie Jadi"
+    },
+    {
+      "code": 1117052020,
+      "name": "Tingkem Asli"
+    },
+    {
+      "code": 1117052021,
+      "name": "Tingkem Benyer"
+    },
+    {
+      "code": 1117052022,
+      "name": "Tingkem Bersatu"
+    },
+    {
+      "code": 1117052023,
+      "name": "Ujung Gele"
+    },
+    {
+      "code": 1117052024,
+      "name": "Uning Bersah"
+    },
+    {
+      "code": 1117052025,
+      "name": "Uning Teritit"
+    },
+    {
+      "code": 1117052026,
+      "name": "Waq Pondok Sayur"
+    },
+    {
+      "code": 1117052027,
+      "name": "Babussalam"
+    },
+    {
+      "code": 1117052028,
+      "name": "Paya Gajah"
+    },
+    {
+      "code": 1117052029,
+      "name": "Kute Tanyung"
+    },
+    {
+      "code": 1117052030,
+      "name": "Meluem"
+    },
+    {
+      "code": 1117052031,
+      "name": "Delung Asli"
+    },
+    {
+      "code": 1117052032,
+      "name": "Pilar Jaya"
+    },
+    {
+      "code": 1117052033,
+      "name": "Serule Kayu"
+    },
+    {
+      "code": 1117052034,
+      "name": "Uring"
+    },
+    {
+      "code": 1117052035,
+      "name": "Mupakat Jadi"
+    },
+    {
+      "code": 1117052036,
+      "name": "Kute Kering"
+    },
+    {
+      "code": 1117052037,
+      "name": "Blang Panas"
+    },
+    {
+      "code": 1117052038,
+      "name": "Mutiara Baru"
+    },
+    {
+      "code": 1117052039,
+      "name": "Bukit Bersatu"
+    },
+    {
+      "code": 1117052040,
+      "name": "Godang"
+    },
+    {
+      "code": 1117052041,
+      "name": "Karang Rejo"
+    }
+  ]
+}

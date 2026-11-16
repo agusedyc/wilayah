@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9110022001,
+      "name": "Bota-Bora"
+    },
+    {
+      "code": 9110022002,
+      "name": "Toganto"
+    },
+    {
+      "code": 9110022003,
+      "name": "Samanente"
+    },
+    {
+      "code": 9110022004,
+      "name": "Kanderjan"
+    },
+    {
+      "code": 9110022005,
+      "name": "Omte"
+    },
+    {
+      "code": 9110022006,
+      "name": "Safrom Tane"
+    },
+    {
+      "code": 9110022007,
+      "name": "Denender"
+    },
+    {
+      "code": 9110022009,
+      "name": "Safron Tane"
+    },
+    {
+      "code": 9110022010,
+      "name": "Denander"
+    },
+    {
+      "code": 9110022011,
+      "name": "Waaf"
+    }
+  ]
+}

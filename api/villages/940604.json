@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9406042001,
+      "name": "Idakebo"
+    },
+    {
+      "code": 9406042002,
+      "name": "Pugatadi I"
+    },
+    {
+      "code": 9406042003,
+      "name": "Pugatadi II"
+    },
+    {
+      "code": 9406042004,
+      "name": "Ikrar"
+    },
+    {
+      "code": 9406042005,
+      "name": "Obayo"
+    },
+    {
+      "code": 9406042006,
+      "name": "Kuyakago"
+    },
+    {
+      "code": 9406042007,
+      "name": "Mogou"
+    },
+    {
+      "code": 9406042008,
+      "name": "Yametadi"
+    },
+    {
+      "code": 9406042009,
+      "name": "Duntek"
+    },
+    {
+      "code": 9406042010,
+      "name": "Ekimani"
+    }
+  ]
+}

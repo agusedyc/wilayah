@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604102001,
+      "name": "Saukorem"
+    },
+    {
+      "code": 9604102002,
+      "name": "Wefiani"
+    },
+    {
+      "code": 9604102003,
+      "name": "Wasarak"
+    },
+    {
+      "code": 9604102004,
+      "name": "Binasi"
+    },
+    {
+      "code": 9604102005,
+      "name": "Kabibwan"
+    },
+    {
+      "code": 9604102006,
+      "name": "Binmaks"
+    },
+    {
+      "code": 9604102007,
+      "name": "Manggapnut"
+    },
+    {
+      "code": 9604102008,
+      "name": "Waramui"
+    },
+    {
+      "code": 9604102009,
+      "name": "Warpaperi"
+    }
+  ]
+}

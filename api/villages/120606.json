@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1206062001,
+      "name": "Nageri"
+    },
+    {
+      "code": 1206062002,
+      "name": "Munte"
+    },
+    {
+      "code": 1206062003,
+      "name": "Kineppen"
+    },
+    {
+      "code": 1206062004,
+      "name": "Bandar Meriah"
+    },
+    {
+      "code": 1206062005,
+      "name": "Barung Kersap"
+    },
+    {
+      "code": 1206062006,
+      "name": "Kutambaru"
+    },
+    {
+      "code": 1206062007,
+      "name": "Buluhnaman"
+    },
+    {
+      "code": 1206062008,
+      "name": "Singgamanik"
+    },
+    {
+      "code": 1206062009,
+      "name": "Kuta Gerat"
+    },
+    {
+      "code": 1206062010,
+      "name": "Pertumbungen"
+    },
+    {
+      "code": 1206062011,
+      "name": "Sarimunte"
+    },
+    {
+      "code": 1206062012,
+      "name": "Kaban Tua"
+    },
+    {
+      "code": 1206062013,
+      "name": "Gunung Manumpak"
+    },
+    {
+      "code": 1206062014,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1206062015,
+      "name": "Kuta Suah"
+    },
+    {
+      "code": 1206062016,
+      "name": "Sarinembah"
+    },
+    {
+      "code": 1206062017,
+      "name": "Selakkar"
+    },
+    {
+      "code": 1206062018,
+      "name": "Parimbalang"
+    },
+    {
+      "code": 1206062019,
+      "name": "Gunung Saribu"
+    },
+    {
+      "code": 1206062020,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1206062021,
+      "name": "Gurubenua"
+    },
+    {
+      "code": 1206062022,
+      "name": "Biaknampe"
+    }
+  ]
+}

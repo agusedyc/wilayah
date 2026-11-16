@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7203252001,
+      "name": "Sikara Tobata"
+    },
+    {
+      "code": 7203252002,
+      "name": "Alindau"
+    },
+    {
+      "code": 7203252003,
+      "name": "Oti"
+    },
+    {
+      "code": 7203252004,
+      "name": "Tamarenja"
+    },
+    {
+      "code": 7203252005,
+      "name": "Sipeso"
+    },
+    {
+      "code": 7203252006,
+      "name": "Sindosa"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408032001,
+      "name": "Senambah"
+    },
+    {
+      "code": 6408032002,
+      "name": "Ngayau"
+    },
+    {
+      "code": 6408032003,
+      "name": "Muara Bengkal Ilir"
+    },
+    {
+      "code": 6408032004,
+      "name": "Muara Bengkal Ulu"
+    },
+    {
+      "code": 6408032005,
+      "name": "Benua Baru"
+    },
+    {
+      "code": 6408032013,
+      "name": "Mulupan"
+    },
+    {
+      "code": 6408032014,
+      "name": "Batu Balai"
+    }
+  ]
+}

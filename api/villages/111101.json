@@ -1,0 +1,190 @@
+{
+  "success": true,
+  "message": "Showing 46 villages",
+  "data": [
+    {
+      "code": 1111012001,
+      "name": "Keude Aceh"
+    },
+    {
+      "code": 1111012002,
+      "name": "Sangso"
+    },
+    {
+      "code": 1111012003,
+      "name": "Pante Rheng"
+    },
+    {
+      "code": 1111012004,
+      "name": "Meuliek"
+    },
+    {
+      "code": 1111012005,
+      "name": "Namploh Baro"
+    },
+    {
+      "code": 1111012006,
+      "name": "Namploh Manyang"
+    },
+    {
+      "code": 1111012007,
+      "name": "Namploh Blanggarang"
+    },
+    {
+      "code": 1111012008,
+      "name": "Namploh Krueng"
+    },
+    {
+      "code": 1111012009,
+      "name": "Namploh Papeun"
+    },
+    {
+      "code": 1111012010,
+      "name": "Meunasah Lueng"
+    },
+    {
+      "code": 1111012011,
+      "name": "Lhok Seumira"
+    },
+    {
+      "code": 1111012012,
+      "name": "Ulee Jeumatan"
+    },
+    {
+      "code": 1111012013,
+      "name": "Lancok"
+    },
+    {
+      "code": 1111012014,
+      "name": "Paloh"
+    },
+    {
+      "code": 1111012015,
+      "name": "Mesjid Baro"
+    },
+    {
+      "code": 1111012016,
+      "name": "Batee Iliek"
+    },
+    {
+      "code": 1111012017,
+      "name": "Pulo Baroh"
+    },
+    {
+      "code": 1111012018,
+      "name": "Matang Wakeuh"
+    },
+    {
+      "code": 1111012019,
+      "name": "Darussalam"
+    },
+    {
+      "code": 1111012020,
+      "name": "Matang Jareung"
+    },
+    {
+      "code": 1111012021,
+      "name": "Matang"
+    },
+    {
+      "code": 1111012022,
+      "name": "Cot Mane"
+    },
+    {
+      "code": 1111012023,
+      "name": "Alue Barat"
+    },
+    {
+      "code": 1111012024,
+      "name": "Cot Siren"
+    },
+    {
+      "code": 1111012025,
+      "name": "Ulee Alue"
+    },
+    {
+      "code": 1111012026,
+      "name": "Pineung Siribee"
+    },
+    {
+      "code": 1111012027,
+      "name": "Gampong Baro"
+    },
+    {
+      "code": 1111012028,
+      "name": "Kandang"
+    },
+    {
+      "code": 1111012029,
+      "name": "Gampong Putoh"
+    },
+    {
+      "code": 1111012030,
+      "name": "Mideun Jok"
+    },
+    {
+      "code": 1111012031,
+      "name": "Mideun Geudong"
+    },
+    {
+      "code": 1111012032,
+      "name": "Lueng Keubeu"
+    },
+    {
+      "code": 1111012033,
+      "name": "Glumpang Bungkok"
+    },
+    {
+      "code": 1111012034,
+      "name": "Gampong Meulum"
+    },
+    {
+      "code": 1111012035,
+      "name": "Cot Meurak Baroh"
+    },
+    {
+      "code": 1111012036,
+      "name": "Cot Meurak Blang"
+    },
+    {
+      "code": 1111012037,
+      "name": "Meurah"
+    },
+    {
+      "code": 1111012038,
+      "name": "Ulee Ue"
+    },
+    {
+      "code": 1111012039,
+      "name": "Matang Teungoh"
+    },
+    {
+      "code": 1111012040,
+      "name": "Tanjong Baro"
+    },
+    {
+      "code": 1111012041,
+      "name": "Angkieng Barat"
+    },
+    {
+      "code": 1111012042,
+      "name": "Meunasah Lincah"
+    },
+    {
+      "code": 1111012043,
+      "name": "Meunasah Lancok"
+    },
+    {
+      "code": 1111012044,
+      "name": "Meunasah Puuk"
+    },
+    {
+      "code": 1111012045,
+      "name": "Tanjongan Idem"
+    },
+    {
+      "code": 1111012084,
+      "name": "Geulumpang Payong"
+    }
+  ]
+}

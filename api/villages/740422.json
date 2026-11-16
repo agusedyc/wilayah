@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7404221005,
+      "name": "Watumotobe"
+    },
+    {
+      "code": 7404221006,
+      "name": "Wakangka"
+    },
+    {
+      "code": 7404222001,
+      "name": "Barangka"
+    },
+    {
+      "code": 7404222002,
+      "name": "Wakalambe"
+    },
+    {
+      "code": 7404222003,
+      "name": "Boneatiro"
+    },
+    {
+      "code": 7404222004,
+      "name": "Lambusango"
+    },
+    {
+      "code": 7404222007,
+      "name": "Todanga"
+    },
+    {
+      "code": 7404222008,
+      "name": "Tuangila"
+    },
+    {
+      "code": 7404222009,
+      "name": "Waondo Wolio"
+    },
+    {
+      "code": 7404222010,
+      "name": "Bukit Asri"
+    },
+    {
+      "code": 7404222011,
+      "name": "Kamelanta"
+    },
+    {
+      "code": 7404222012,
+      "name": "Lambusango Timur"
+    },
+    {
+      "code": 7404222013,
+      "name": "Wakuli"
+    },
+    {
+      "code": 7404222014,
+      "name": "Mabulugo"
+    },
+    {
+      "code": 7404222015,
+      "name": "Wambulu"
+    },
+    {
+      "code": 7404222016,
+      "name": "Tumada"
+    },
+    {
+      "code": 7404222017,
+      "name": "Boneatiro Barat"
+    }
+  ]
+}

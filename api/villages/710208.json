@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7102082001,
+      "name": "Kasuratan"
+    },
+    {
+      "code": 7102082002,
+      "name": "Parepei"
+    },
+    {
+      "code": 7102082003,
+      "name": "Pulutan"
+    },
+    {
+      "code": 7102082004,
+      "name": "Sinuian"
+    },
+    {
+      "code": 7102082005,
+      "name": "Kaima"
+    },
+    {
+      "code": 7102082006,
+      "name": "Sendangan"
+    },
+    {
+      "code": 7102082007,
+      "name": "Timu"
+    },
+    {
+      "code": 7102082008,
+      "name": "Talikuran"
+    },
+    {
+      "code": 7102082009,
+      "name": "Tampusu"
+    },
+    {
+      "code": 7102082010,
+      "name": "Paslaten"
+    },
+    {
+      "code": 7102082011,
+      "name": "Leleko"
+    }
+  ]
+}

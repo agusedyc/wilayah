@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3215122001,
+      "name": "Tanjungmekar"
+    },
+    {
+      "code": 3215122002,
+      "name": "Telagajaya"
+    },
+    {
+      "code": 3215122003,
+      "name": "Telukbuyung"
+    },
+    {
+      "code": 3215122004,
+      "name": "Tanahbaru"
+    },
+    {
+      "code": 3215122005,
+      "name": "Solokan"
+    },
+    {
+      "code": 3215122006,
+      "name": "Tanjungbungin"
+    },
+    {
+      "code": 3215122007,
+      "name": "Telukjaya"
+    },
+    {
+      "code": 3215122008,
+      "name": "Tanjungpakis"
+    }
+  ]
+}

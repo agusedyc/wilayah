@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3508032001,
+      "name": "Jugosari"
+    },
+    {
+      "code": 3508032002,
+      "name": "Jarit"
+    },
+    {
+      "code": 3508032003,
+      "name": "Candipuro"
+    },
+    {
+      "code": 3508032004,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3508032005,
+      "name": "Sumberwuluh"
+    },
+    {
+      "code": 3508032006,
+      "name": "Sumbermujur"
+    },
+    {
+      "code": 3508032007,
+      "name": "Penanggal"
+    },
+    {
+      "code": 3508032008,
+      "name": "Tambahrejo"
+    },
+    {
+      "code": 3508032009,
+      "name": "Kloposawit"
+    },
+    {
+      "code": 3508032010,
+      "name": "Tumpeng"
+    }
+  ]
+}

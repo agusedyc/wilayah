@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8101222001,
+      "name": "Larike"
+    },
+    {
+      "code": 8101222002,
+      "name": "Wakasihu"
+    },
+    {
+      "code": 8101222003,
+      "name": "Allang"
+    },
+    {
+      "code": 8101222004,
+      "name": "Liliboy"
+    },
+    {
+      "code": 8101222005,
+      "name": "Hatu"
+    }
+  ]
+}

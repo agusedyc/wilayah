@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 6108102001,
+      "name": "Sebangki"
+    },
+    {
+      "code": 6108102002,
+      "name": "Kumpang Tengah"
+    },
+    {
+      "code": 6108102003,
+      "name": "Agak"
+    },
+    {
+      "code": 6108102004,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 6108102005,
+      "name": "Sungai Segak"
+    }
+  ]
+}

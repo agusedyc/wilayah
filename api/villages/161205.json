@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1612052001,
+      "name": "Bumi Ayu"
+    },
+    {
+      "code": 1612052002,
+      "name": "Muara Sungai"
+    },
+    {
+      "code": 1612052003,
+      "name": "Tanah Abang Utara"
+    },
+    {
+      "code": 1612052004,
+      "name": "Sedupi"
+    },
+    {
+      "code": 1612052005,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1612052006,
+      "name": "Curup"
+    },
+    {
+      "code": 1612052007,
+      "name": "Raja"
+    },
+    {
+      "code": 1612052008,
+      "name": "Pandan"
+    },
+    {
+      "code": 1612052009,
+      "name": "Modong"
+    },
+    {
+      "code": 1612052010,
+      "name": "Tanah Abang Selatan"
+    },
+    {
+      "code": 1612052011,
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": 1612052012,
+      "name": "Tanjung Dalam"
+    },
+    {
+      "code": 1612052013,
+      "name": "Lunas Jaya"
+    },
+    {
+      "code": 1612052014,
+      "name": "Raja Barat"
+    },
+    {
+      "code": 1612052015,
+      "name": "Tanah Abang Jaya"
+    },
+    {
+      "code": 1612052016,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1612052017,
+      "name": "Sukamanis"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7207052001,
+      "name": "Tangkop"
+    },
+    {
+      "code": 7207052002,
+      "name": "Binuntuli"
+    },
+    {
+      "code": 7207052003,
+      "name": "Popidolon"
+    },
+    {
+      "code": 7207052004,
+      "name": "Okumel"
+    },
+    {
+      "code": 7207052005,
+      "name": "Tomboniki"
+    },
+    {
+      "code": 7207052006,
+      "name": "Kindandal"
+    },
+    {
+      "code": 7207052007,
+      "name": "Mamulusan"
+    },
+    {
+      "code": 7207052010,
+      "name": "Saleati"
+    },
+    {
+      "code": 7207052011,
+      "name": "Liang"
+    },
+    {
+      "code": 7207052012,
+      "name": "Bajo"
+    },
+    {
+      "code": 7207052013,
+      "name": "Balayon"
+    },
+    {
+      "code": 7207052016,
+      "name": "Basosol"
+    },
+    {
+      "code": 7207052017,
+      "name": "Boyoumoute"
+    },
+    {
+      "code": 7207052018,
+      "name": "Apal"
+    },
+    {
+      "code": 7207052025,
+      "name": "Selekan"
+    },
+    {
+      "code": 7207052026,
+      "name": "Loolong"
+    }
+  ]
+}

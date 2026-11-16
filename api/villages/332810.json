@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3328101006,
+      "name": "Pakembaran"
+    },
+    {
+      "code": 3328101007,
+      "name": "Kagok"
+    },
+    {
+      "code": 3328101008,
+      "name": "Procot"
+    },
+    {
+      "code": 3328101009,
+      "name": "Kudaile"
+    },
+    {
+      "code": 3328101010,
+      "name": "Slawi Wetan"
+    },
+    {
+      "code": 3328102001,
+      "name": "Kalisapu"
+    },
+    {
+      "code": 3328102002,
+      "name": "Dukuhwringin"
+    },
+    {
+      "code": 3328102003,
+      "name": "Dukuhsalam"
+    },
+    {
+      "code": 3328102004,
+      "name": "Slawi Kulon"
+    },
+    {
+      "code": 3328102005,
+      "name": "Trayeman"
+    }
+  ]
+}

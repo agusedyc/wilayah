@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1509092001,
+      "name": "Muara Kilis"
+    },
+    {
+      "code": 1509092002,
+      "name": "Penapalan"
+    },
+    {
+      "code": 1509092003,
+      "name": "Mengupeh"
+    },
+    {
+      "code": 1509092004,
+      "name": "Rantau Api"
+    },
+    {
+      "code": 1509092005,
+      "name": "Lubuk Mandarsah"
+    },
+    {
+      "code": 1509092006,
+      "name": "Lubuk Mandarsah Ulu"
+    }
+  ]
+}

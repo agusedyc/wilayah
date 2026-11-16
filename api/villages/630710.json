@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6307102001,
+      "name": "Batu Tangga"
+    },
+    {
+      "code": 6307102002,
+      "name": "Hinas Kiri"
+    },
+    {
+      "code": 6307102003,
+      "name": "Pembakulan"
+    },
+    {
+      "code": 6307102004,
+      "name": "Nateh"
+    },
+    {
+      "code": 6307102005,
+      "name": "Tandilang"
+    },
+    {
+      "code": 6307102006,
+      "name": "Muara Hungi"
+    },
+    {
+      "code": 6307102007,
+      "name": "Atiran"
+    },
+    {
+      "code": 6307102008,
+      "name": "Batu Perahu"
+    },
+    {
+      "code": 6307102009,
+      "name": "Aing Bantai"
+    },
+    {
+      "code": 6307102010,
+      "name": "Juhu"
+    },
+    {
+      "code": 6307102011,
+      "name": "Datar Batung"
+    }
+  ]
+}

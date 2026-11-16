@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3217012001,
+      "name": "Pagerwangi"
+    },
+    {
+      "code": 3217012002,
+      "name": "Kayuambon"
+    },
+    {
+      "code": 3217012003,
+      "name": "Lembang"
+    },
+    {
+      "code": 3217012004,
+      "name": "Cikidang"
+    },
+    {
+      "code": 3217012005,
+      "name": "Cikahuripan"
+    },
+    {
+      "code": 3217012006,
+      "name": "Cikole"
+    },
+    {
+      "code": 3217012007,
+      "name": "Gudangkahuripan"
+    },
+    {
+      "code": 3217012008,
+      "name": "Jayagiri"
+    },
+    {
+      "code": 3217012009,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3217012010,
+      "name": "Langensari"
+    },
+    {
+      "code": 3217012011,
+      "name": "Mekarwangi"
+    },
+    {
+      "code": 3217012012,
+      "name": "Cibogo"
+    },
+    {
+      "code": 3217012013,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3217012014,
+      "name": "Suntenjaya"
+    },
+    {
+      "code": 3217012015,
+      "name": "Wangunharja"
+    },
+    {
+      "code": 3217012016,
+      "name": "Wangunsari"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8105132001,
+      "name": "Kian Darat"
+    },
+    {
+      "code": 8105132002,
+      "name": "Artafela"
+    },
+    {
+      "code": 8105132003,
+      "name": "Angar"
+    },
+    {
+      "code": 8105132004,
+      "name": "Watu Watu"
+    },
+    {
+      "code": 8105132005,
+      "name": "Kelaba"
+    },
+    {
+      "code": 8105132006,
+      "name": "Kilga Kilwouw"
+    },
+    {
+      "code": 8105132007,
+      "name": "Kilga Watubau"
+    },
+    {
+      "code": 8105132008,
+      "name": "Rumfakar"
+    },
+    {
+      "code": 8105132009,
+      "name": "Kileser"
+    },
+    {
+      "code": 8105132010,
+      "name": "Rumoga"
+    }
+  ]
+}

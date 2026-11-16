@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9103112001,
+      "name": "Lapua"
+    },
+    {
+      "code": 9103112002,
+      "name": "Sebum"
+    },
+    {
+      "code": 9103112003,
+      "name": "Soskotek"
+    },
+    {
+      "code": 9103112004,
+      "name": "Yadauw"
+    },
+    {
+      "code": 9103112006,
+      "name": "Umbron"
+    }
+  ]
+}

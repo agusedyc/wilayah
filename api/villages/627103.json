@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6271031001,
+      "name": "Palangka"
+    },
+    {
+      "code": 6271031002,
+      "name": "Menteng"
+    },
+    {
+      "code": 6271031003,
+      "name": "Bukit Tunggal"
+    },
+    {
+      "code": 6271031004,
+      "name": "Petuk Katimpun"
+    }
+  ]
+}

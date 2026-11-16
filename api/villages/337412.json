@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3374121001,
+      "name": "Pakintelan"
+    },
+    {
+      "code": 3374121002,
+      "name": "Mangunsari"
+    },
+    {
+      "code": 3374121003,
+      "name": "Plalangan"
+    },
+    {
+      "code": 3374121004,
+      "name": "Gunungpati"
+    },
+    {
+      "code": 3374121005,
+      "name": "Nongkosawit"
+    },
+    {
+      "code": 3374121006,
+      "name": "Pongangan"
+    },
+    {
+      "code": 3374121007,
+      "name": "Ngijo"
+    },
+    {
+      "code": 3374121008,
+      "name": "Patemon"
+    },
+    {
+      "code": 3374121009,
+      "name": "Sekaran"
+    },
+    {
+      "code": 3374121010,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3374121011,
+      "name": "Sadeng"
+    },
+    {
+      "code": 3374121012,
+      "name": "Cepoko"
+    },
+    {
+      "code": 3374121013,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3374121014,
+      "name": "Sumurrejo"
+    },
+    {
+      "code": 3374121015,
+      "name": "Kalisegoro"
+    },
+    {
+      "code": 3374121016,
+      "name": "Kandri"
+    }
+  ]
+}

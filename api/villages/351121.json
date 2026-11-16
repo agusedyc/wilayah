@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3511212001,
+      "name": "Taman"
+    },
+    {
+      "code": 3511212002,
+      "name": "Gentong"
+    },
+    {
+      "code": 3511212003,
+      "name": "Kemuningan"
+    },
+    {
+      "code": 3511212004,
+      "name": "Trebungan"
+    },
+    {
+      "code": 3511212005,
+      "name": "Sumberkokap"
+    },
+    {
+      "code": 3511212006,
+      "name": "Paguan"
+    },
+    {
+      "code": 3511212007,
+      "name": "Kretek"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1209292001,
+      "name": "Rawang Lama"
+    },
+    {
+      "code": 1209292002,
+      "name": "Rawang Baru"
+    },
+    {
+      "code": 1209292003,
+      "name": "Rawang Pasar IV"
+    },
+    {
+      "code": 1209292004,
+      "name": "Rawang Pasar V"
+    },
+    {
+      "code": 1209292005,
+      "name": "Pondok Bungur"
+    },
+    {
+      "code": 1209292006,
+      "name": "Panca Arga"
+    },
+    {
+      "code": 1209292007,
+      "name": "Rawang Pasar VI"
+    }
+  ]
+}

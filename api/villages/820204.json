@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8202042001,
+      "name": "Gemaf"
+    },
+    {
+      "code": 8202042002,
+      "name": "Sagea"
+    },
+    {
+      "code": 8202042003,
+      "name": "Fritu"
+    },
+    {
+      "code": 8202042004,
+      "name": "Waleh"
+    },
+    {
+      "code": 8202042008,
+      "name": "Kiya"
+    }
+  ]
+}

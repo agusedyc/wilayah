@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3374131001,
+      "name": "Ngemplak Simongan"
+    },
+    {
+      "code": 3374131002,
+      "name": "Manyaran"
+    },
+    {
+      "code": 3374131003,
+      "name": "Krapyak"
+    },
+    {
+      "code": 3374131004,
+      "name": "Tambakharjo"
+    },
+    {
+      "code": 3374131005,
+      "name": "Kalibanteng Kulon"
+    },
+    {
+      "code": 3374131006,
+      "name": "Kalibanteng Kidul"
+    },
+    {
+      "code": 3374131007,
+      "name": "Gisikdrono"
+    },
+    {
+      "code": 3374131008,
+      "name": "Bongsari"
+    },
+    {
+      "code": 3374131009,
+      "name": "Bojongsalaman"
+    },
+    {
+      "code": 3374131010,
+      "name": "Salamanmloyo"
+    },
+    {
+      "code": 3374131011,
+      "name": "Cabean"
+    },
+    {
+      "code": 3374131012,
+      "name": "Karangayu"
+    },
+    {
+      "code": 3374131013,
+      "name": "Krobokan"
+    },
+    {
+      "code": 3374131014,
+      "name": "Tawangsari"
+    },
+    {
+      "code": 3374131015,
+      "name": "Tawangmas"
+    },
+    {
+      "code": 3374131016,
+      "name": "Kembangarum"
+    }
+  ]
+}

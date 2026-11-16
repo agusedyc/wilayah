@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3276111001,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3276111002,
+      "name": "Bojongsari Baru"
+    },
+    {
+      "code": 3276111003,
+      "name": "Serua"
+    },
+    {
+      "code": 3276111004,
+      "name": "Pondok Petir"
+    },
+    {
+      "code": 3276111005,
+      "name": "Curug"
+    },
+    {
+      "code": 3276111006,
+      "name": "Duren Mekar"
+    },
+    {
+      "code": 3276111007,
+      "name": "Duren Seribu"
+    }
+  ]
+}

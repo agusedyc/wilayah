@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3519152001,
+      "name": "Ngadirejo"
+    },
+    {
+      "code": 3519152002,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3519152003,
+      "name": "Banyukambang"
+    },
+    {
+      "code": 3519152004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3519152005,
+      "name": "Wonoasri"
+    },
+    {
+      "code": 3519152006,
+      "name": "Plumpungrejo"
+    },
+    {
+      "code": 3519152007,
+      "name": "Bancong"
+    },
+    {
+      "code": 3519152008,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3519152009,
+      "name": "Klitik"
+    },
+    {
+      "code": 3519152010,
+      "name": "Buduran"
+    }
+  ]
+}

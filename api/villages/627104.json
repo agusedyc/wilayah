@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6271041001,
+      "name": "Bereng Bengkel"
+    },
+    {
+      "code": 6271041002,
+      "name": "Kalampangan"
+    },
+    {
+      "code": 6271041003,
+      "name": "Kereng Bangkirai"
+    },
+    {
+      "code": 6271041004,
+      "name": "Kameloh Baru"
+    },
+    {
+      "code": 6271041005,
+      "name": "Danau Tundai"
+    },
+    {
+      "code": 6271041006,
+      "name": "Sabaru"
+    }
+  ]
+}

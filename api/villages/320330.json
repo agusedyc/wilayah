@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3203302001,
+      "name": "Pusakasari"
+    },
+    {
+      "code": 3203302002,
+      "name": "Walahir"
+    },
+    {
+      "code": 3203302003,
+      "name": "Purabaya"
+    },
+    {
+      "code": 3203302004,
+      "name": "Puncakwangi"
+    },
+    {
+      "code": 3203302005,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3203302006,
+      "name": "Nagasari"
+    },
+    {
+      "code": 3203302007,
+      "name": "Sukasirna"
+    },
+    {
+      "code": 3203302008,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203302009,
+      "name": "Sirnasari"
+    },
+    {
+      "code": 3203302010,
+      "name": "Karyamukti"
+    },
+    {
+      "code": 3203302011,
+      "name": "Mandalawangi"
+    },
+    {
+      "code": 3203302012,
+      "name": "Sindangsari"
+    }
+  ]
+}

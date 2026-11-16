@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7314051001,
+      "name": "Rappang"
+    },
+    {
+      "code": 7314051002,
+      "name": "Lalebata"
+    },
+    {
+      "code": 7314051003,
+      "name": "Maccorawalie"
+    },
+    {
+      "code": 7314051004,
+      "name": "Kadidi"
+    },
+    {
+      "code": 7314052005,
+      "name": "Timoreng Panua"
+    },
+    {
+      "code": 7314052006,
+      "name": "Bulo Wattang"
+    },
+    {
+      "code": 7314052007,
+      "name": "Bulo"
+    },
+    {
+      "code": 7314052008,
+      "name": "Cipotakari"
+    }
+  ]
+}

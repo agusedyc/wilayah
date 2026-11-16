@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3671031001,
+      "name": "Batuceper"
+    },
+    {
+      "code": 3671031002,
+      "name": "Batu Jaya"
+    },
+    {
+      "code": 3671031003,
+      "name": "Poris Gaga"
+    },
+    {
+      "code": 3671031004,
+      "name": "Poris Gaga Baru"
+    },
+    {
+      "code": 3671031005,
+      "name": "Kebon Besar"
+    },
+    {
+      "code": 3671031006,
+      "name": "Batu Sari"
+    },
+    {
+      "code": 3671031007,
+      "name": "Poris Jaya"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7324081003,
+      "name": "Tomoni"
+    },
+    {
+      "code": 7324082001,
+      "name": "Bayondo"
+    },
+    {
+      "code": 7324082002,
+      "name": "Mulyasri"
+    },
+    {
+      "code": 7324082007,
+      "name": "Lestari"
+    },
+    {
+      "code": 7324082008,
+      "name": "Kalpataru"
+    },
+    {
+      "code": 7324082011,
+      "name": "Tadulako"
+    },
+    {
+      "code": 7324082012,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 7324082015,
+      "name": "Bangun Jaya"
+    },
+    {
+      "code": 7324082016,
+      "name": "Mandiri"
+    },
+    {
+      "code": 7324082017,
+      "name": "Sumber Alam"
+    },
+    {
+      "code": 7324082018,
+      "name": "Ujung Baru"
+    },
+    {
+      "code": 7324082019,
+      "name": "Bangun Karya"
+    },
+    {
+      "code": 7324082020,
+      "name": "Rante Mario"
+    }
+  ]
+}

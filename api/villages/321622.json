@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216222001,
+      "name": "Sirnajati"
+    },
+    {
+      "code": 3216222002,
+      "name": "Ridogalih"
+    },
+    {
+      "code": 3216222003,
+      "name": "Ridomanah"
+    },
+    {
+      "code": 3216222004,
+      "name": "Wibawamulya"
+    },
+    {
+      "code": 3216222005,
+      "name": "Cibarusah Kota"
+    },
+    {
+      "code": 3216222006,
+      "name": "Cibarusah Jaya"
+    },
+    {
+      "code": 3216222007,
+      "name": "Sindangmulya"
+    }
+  ]
+}

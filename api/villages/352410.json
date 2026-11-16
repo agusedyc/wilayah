@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3524102001,
+      "name": "Duriwetan"
+    },
+    {
+      "code": 3524102002,
+      "name": "Taji"
+    },
+    {
+      "code": 3524102003,
+      "name": "Brumbun"
+    },
+    {
+      "code": 3524102004,
+      "name": "Siwuran"
+    },
+    {
+      "code": 3524102005,
+      "name": "Klagensrampat"
+    },
+    {
+      "code": 3524102006,
+      "name": "Pangean"
+    },
+    {
+      "code": 3524102007,
+      "name": "Maduran"
+    },
+    {
+      "code": 3524102008,
+      "name": "Jangkungsomo"
+    },
+    {
+      "code": 3524102009,
+      "name": "Parengan"
+    },
+    {
+      "code": 3524102010,
+      "name": "Pangkatrejo"
+    },
+    {
+      "code": 3524102011,
+      "name": "Kanugrahan"
+    },
+    {
+      "code": 3524102012,
+      "name": "Gumantuk"
+    },
+    {
+      "code": 3524102013,
+      "name": "Ngayung"
+    },
+    {
+      "code": 3524102014,
+      "name": "Pringgoboyo"
+    },
+    {
+      "code": 3524102015,
+      "name": "Gedangan"
+    },
+    {
+      "code": 3524102016,
+      "name": "Turi"
+    },
+    {
+      "code": 3524102017,
+      "name": "Blumbang"
+    }
+  ]
+}

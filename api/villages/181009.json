@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1810092001,
+      "name": "Fajar Baru"
+    },
+    {
+      "code": 1810092002,
+      "name": "Kemilin"
+    },
+    {
+      "code": 1810092003,
+      "name": "Neglasari"
+    },
+    {
+      "code": 1810092004,
+      "name": "Fajar Mulia"
+    },
+    {
+      "code": 1810092005,
+      "name": "Margosari"
+    },
+    {
+      "code": 1810092006,
+      "name": "Giri Tunggal"
+    },
+    {
+      "code": 1810092007,
+      "name": "Sumber Bandung"
+    },
+    {
+      "code": 1810092008,
+      "name": "Madaraya"
+    },
+    {
+      "code": 1810092009,
+      "name": "Way Kunir"
+    },
+    {
+      "code": 1810092010,
+      "name": "Gunung Raya"
+    }
+  ]
+}

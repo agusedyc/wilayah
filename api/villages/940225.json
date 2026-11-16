@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9402252001,
+      "name": "Dagai"
+    },
+    {
+      "code": 9402252002,
+      "name": "Dagai 2"
+    },
+    {
+      "code": 9402252003,
+      "name": "Deide"
+    },
+    {
+      "code": 9402252004,
+      "name": "Faride"
+    },
+    {
+      "code": 9402252005,
+      "name": "Soi"
+    },
+    {
+      "code": 9402252006,
+      "name": "Mbomban"
+    },
+    {
+      "code": 9402252007,
+      "name": "Yeihneri"
+    },
+    {
+      "code": 9402252008,
+      "name": "Mandara Lani"
+    },
+    {
+      "code": 9402252009,
+      "name": "Debite"
+    },
+    {
+      "code": 9402252010,
+      "name": "Gueri"
+    }
+  ]
+}

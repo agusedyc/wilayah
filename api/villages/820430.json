@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8204302001,
+      "name": "Cap"
+    },
+    {
+      "code": 8204302002,
+      "name": "Madopolo"
+    },
+    {
+      "code": 8204302003,
+      "name": "Galala"
+    },
+    {
+      "code": 8204302004,
+      "name": "Madopolo Barat"
+    },
+    {
+      "code": 8204302005,
+      "name": "Waringi"
+    },
+    {
+      "code": 8204302006,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 8204302007,
+      "name": "Madopolo Timur"
+    }
+  ]
+}

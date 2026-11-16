@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3212272001,
+      "name": "Cibeber"
+    },
+    {
+      "code": 3212272002,
+      "name": "Bondan"
+    },
+    {
+      "code": 3212272003,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3212272004,
+      "name": "Sukagumiwang"
+    },
+    {
+      "code": 3212272005,
+      "name": "Tersana"
+    },
+    {
+      "code": 3212272006,
+      "name": "Cadang Pinggan"
+    },
+    {
+      "code": 3212272007,
+      "name": "Gedangan"
+    }
+  ]
+}

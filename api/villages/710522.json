@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7105222001,
+      "name": "Karimbow"
+    },
+    {
+      "code": 7105222002,
+      "name": "Karimbow Talikuran"
+    },
+    {
+      "code": 7105222003,
+      "name": "Tokin"
+    },
+    {
+      "code": 7105222004,
+      "name": "Tokin Baru"
+    },
+    {
+      "code": 7105222005,
+      "name": "Wanga Amongena"
+    },
+    {
+      "code": 7105222006,
+      "name": "Wanga"
+    },
+    {
+      "code": 7105222007,
+      "name": "Picuan"
+    },
+    {
+      "code": 7105222008,
+      "name": "Picuan Satu"
+    }
+  ]
+}

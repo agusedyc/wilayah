@@ -1,0 +1,146 @@
+{
+  "success": true,
+  "message": "Showing 35 regencies",
+  "data": [
+    {
+      "code": 3301,
+      "name": "Kabupaten Cilacap"
+    },
+    {
+      "code": 3302,
+      "name": "Kabupaten Banyumas"
+    },
+    {
+      "code": 3303,
+      "name": "Kabupaten Purbalingga"
+    },
+    {
+      "code": 3304,
+      "name": "Kabupaten Banjarnegara"
+    },
+    {
+      "code": 3305,
+      "name": "Kabupaten Kebumen"
+    },
+    {
+      "code": 3306,
+      "name": "Kabupaten Purworejo"
+    },
+    {
+      "code": 3307,
+      "name": "Kabupaten Wonosobo"
+    },
+    {
+      "code": 3308,
+      "name": "Kabupaten Magelang"
+    },
+    {
+      "code": 3309,
+      "name": "Kabupaten Boyolali"
+    },
+    {
+      "code": 3310,
+      "name": "Kabupaten Klaten"
+    },
+    {
+      "code": 3311,
+      "name": "Kabupaten Sukoharjo"
+    },
+    {
+      "code": 3312,
+      "name": "Kabupaten Wonogiri"
+    },
+    {
+      "code": 3313,
+      "name": "Kabupaten Karanganyar"
+    },
+    {
+      "code": 3314,
+      "name": "Kabupaten Sragen"
+    },
+    {
+      "code": 3315,
+      "name": "Kabupaten Grobogan"
+    },
+    {
+      "code": 3316,
+      "name": "Kabupaten Blora"
+    },
+    {
+      "code": 3317,
+      "name": "Kabupaten Rembang"
+    },
+    {
+      "code": 3318,
+      "name": "Kabupaten Pati"
+    },
+    {
+      "code": 3319,
+      "name": "Kabupaten Kudus"
+    },
+    {
+      "code": 3320,
+      "name": "Kabupaten Jepara"
+    },
+    {
+      "code": 3321,
+      "name": "Kabupaten Demak"
+    },
+    {
+      "code": 3322,
+      "name": "Kabupaten Semarang"
+    },
+    {
+      "code": 3323,
+      "name": "Kabupaten Temanggung"
+    },
+    {
+      "code": 3324,
+      "name": "Kabupaten Kendal"
+    },
+    {
+      "code": 3325,
+      "name": "Kabupaten Batang"
+    },
+    {
+      "code": 3326,
+      "name": "Kabupaten Pekalongan"
+    },
+    {
+      "code": 3327,
+      "name": "Kabupaten Pemalang"
+    },
+    {
+      "code": 3328,
+      "name": "Kabupaten Tegal"
+    },
+    {
+      "code": 3329,
+      "name": "Kabupaten Brebes"
+    },
+    {
+      "code": 3371,
+      "name": "Kota Magelang"
+    },
+    {
+      "code": 3372,
+      "name": "Kota Surakarta"
+    },
+    {
+      "code": 3373,
+      "name": "Kota Salatiga"
+    },
+    {
+      "code": 3374,
+      "name": "Kota Semarang"
+    },
+    {
+      "code": 3375,
+      "name": "Kota Pekalongan"
+    },
+    {
+      "code": 3376,
+      "name": "Kota Tegal"
+    }
+  ]
+}

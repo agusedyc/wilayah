@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1408021001,
+      "name": "Sungai Apit"
+    },
+    {
+      "code": 1408022002,
+      "name": "Teluk Lanus"
+    },
+    {
+      "code": 1408022003,
+      "name": "Tanjung Kuras"
+    },
+    {
+      "code": 1408022004,
+      "name": "Parit I/II"
+    },
+    {
+      "code": 1408022005,
+      "name": "Teluk Mesjid"
+    },
+    {
+      "code": 1408022008,
+      "name": "Sungai Kayu Ara"
+    },
+    {
+      "code": 1408022009,
+      "name": "Lalang"
+    },
+    {
+      "code": 1408022010,
+      "name": "Mengkapan"
+    },
+    {
+      "code": 1408022011,
+      "name": "Sungai Rawa"
+    },
+    {
+      "code": 1408022012,
+      "name": "Penyengat"
+    },
+    {
+      "code": 1408022014,
+      "name": "Teluk Batil"
+    },
+    {
+      "code": 1408022016,
+      "name": "Bunsur"
+    },
+    {
+      "code": 1408022017,
+      "name": "Harapan"
+    },
+    {
+      "code": 1408022019,
+      "name": "Kayu Ara Permai"
+    },
+    {
+      "code": 1408022020,
+      "name": "Rawa Mekar Jaya"
+    }
+  ]
+}

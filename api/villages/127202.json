@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1272021001,
+      "name": "Dwikora"
+    },
+    {
+      "code": 1272021002,
+      "name": "Proklamasi"
+    },
+    {
+      "code": 1272021003,
+      "name": "Bantan"
+    },
+    {
+      "code": 1272021004,
+      "name": "Timbang Galung"
+    },
+    {
+      "code": 1272021005,
+      "name": "Simarito"
+    },
+    {
+      "code": 1272021006,
+      "name": "Sipinggolpinggol"
+    },
+    {
+      "code": 1272021007,
+      "name": "Banjar"
+    },
+    {
+      "code": 1272021008,
+      "name": "Teladan"
+    }
+  ]
+}

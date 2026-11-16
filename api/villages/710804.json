@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7108042001,
+      "name": "Paku"
+    },
+    {
+      "code": 7108042002,
+      "name": "Ollot"
+    },
+    {
+      "code": 7108042003,
+      "name": "Sonuo"
+    },
+    {
+      "code": 7108042004,
+      "name": "Jambusarang"
+    },
+    {
+      "code": 7108042005,
+      "name": "Talaga Tomoagu"
+    },
+    {
+      "code": 7108042006,
+      "name": "Bolangitang"
+    },
+    {
+      "code": 7108042007,
+      "name": "Langi"
+    },
+    {
+      "code": 7108042008,
+      "name": "Iyok"
+    },
+    {
+      "code": 7108042009,
+      "name": "Tote"
+    },
+    {
+      "code": 7108042010,
+      "name": "Wakat"
+    },
+    {
+      "code": 7108042011,
+      "name": "Ollot I"
+    },
+    {
+      "code": 7108042012,
+      "name": "Ollot II"
+    },
+    {
+      "code": 7108042013,
+      "name": "Bolangitang I"
+    },
+    {
+      "code": 7108042014,
+      "name": "Bolangitang II"
+    },
+    {
+      "code": 7108042015,
+      "name": "Talaga"
+    },
+    {
+      "code": 7108042016,
+      "name": "Tanjung Buaya"
+    },
+    {
+      "code": 7108042017,
+      "name": "Keimanga"
+    },
+    {
+      "code": 7108042018,
+      "name": "Paku Selatan"
+    }
+  ]
+}

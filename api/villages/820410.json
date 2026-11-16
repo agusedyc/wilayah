@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8204102001,
+      "name": "Malapat"
+    },
+    {
+      "code": 8204102002,
+      "name": "Bobawae"
+    },
+    {
+      "code": 8204102003,
+      "name": "Ombawa"
+    },
+    {
+      "code": 8204102004,
+      "name": "Tegono"
+    },
+    {
+      "code": 8204102005,
+      "name": "Mateketen"
+    },
+    {
+      "code": 8204102006,
+      "name": "Talapaon"
+    },
+    {
+      "code": 8204102007,
+      "name": "Sebelei"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3209372001,
+      "name": "Cikeusal"
+    },
+    {
+      "code": 3209372002,
+      "name": "Palimanan Barat"
+    },
+    {
+      "code": 3209372003,
+      "name": "Kedungbunder"
+    },
+    {
+      "code": 3209372004,
+      "name": "Cupang"
+    },
+    {
+      "code": 3209372005,
+      "name": "Gempol"
+    },
+    {
+      "code": 3209372006,
+      "name": "Walahar"
+    },
+    {
+      "code": 3209372007,
+      "name": "Kempek"
+    },
+    {
+      "code": 3209372008,
+      "name": "Winong"
+    }
+  ]
+}

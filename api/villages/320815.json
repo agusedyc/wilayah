@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3208152001,
+      "name": "Selajambe"
+    },
+    {
+      "code": 3208152002,
+      "name": "Cantilan"
+    },
+    {
+      "code": 3208152003,
+      "name": "Ciberung"
+    },
+    {
+      "code": 3208152004,
+      "name": "Kutawaringin"
+    },
+    {
+      "code": 3208152005,
+      "name": "Jamberama"
+    },
+    {
+      "code": 3208152006,
+      "name": "Bagawat"
+    },
+    {
+      "code": 3208152007,
+      "name": "Padahurip"
+    }
+  ]
+}

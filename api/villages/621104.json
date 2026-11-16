@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6211042001,
+      "name": "Manen Paduran"
+    },
+    {
+      "code": 6211042002,
+      "name": "Manen Kaleka"
+    },
+    {
+      "code": 6211042003,
+      "name": "Lawang Uru"
+    },
+    {
+      "code": 6211042004,
+      "name": "Hurung"
+    },
+    {
+      "code": 6211042005,
+      "name": "Hanua"
+    },
+    {
+      "code": 6211042006,
+      "name": "Ramang"
+    },
+    {
+      "code": 6211042007,
+      "name": "Tambak"
+    },
+    {
+      "code": 6211042008,
+      "name": "Pahawan"
+    },
+    {
+      "code": 6211042009,
+      "name": "Goha"
+    },
+    {
+      "code": 6211042010,
+      "name": "Bawan"
+    },
+    {
+      "code": 6211042011,
+      "name": "Tumbang Tarusan"
+    },
+    {
+      "code": 6211042012,
+      "name": "Pandawei"
+    },
+    {
+      "code": 6211042013,
+      "name": "Pangi"
+    },
+    {
+      "code": 6211042014,
+      "name": "Tangkahen"
+    },
+    {
+      "code": 6211042015,
+      "name": "Kasali Baru"
+    }
+  ]
+}

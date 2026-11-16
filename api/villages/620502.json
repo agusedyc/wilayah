@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6205022001,
+      "name": "Malungai"
+    },
+    {
+      "code": 6205022002,
+      "name": "Rarawa"
+    },
+    {
+      "code": 6205022003,
+      "name": "Ketapang"
+    },
+    {
+      "code": 6205022004,
+      "name": "Walur"
+    },
+    {
+      "code": 6205022005,
+      "name": "Baliti"
+    },
+    {
+      "code": 6205022006,
+      "name": "Majangkan"
+    },
+    {
+      "code": 6205022007,
+      "name": "Kandui"
+    },
+    {
+      "code": 6205022008,
+      "name": "Payang Ara"
+    },
+    {
+      "code": 6205022009,
+      "name": "Jaman"
+    },
+    {
+      "code": 6205022010,
+      "name": "Pelari"
+    },
+    {
+      "code": 6205022011,
+      "name": "Sangkorang"
+    },
+    {
+      "code": 6205022012,
+      "name": "Siwau"
+    },
+    {
+      "code": 6205022013,
+      "name": "Tongka"
+    },
+    {
+      "code": 6205022014,
+      "name": "Batu Raya I"
+    },
+    {
+      "code": 6205022015,
+      "name": "Batu Raya II"
+    },
+    {
+      "code": 6205022016,
+      "name": "Tapen Raya"
+    }
+  ]
+}

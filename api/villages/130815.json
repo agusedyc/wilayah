@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 1308152001,
+      "name": "Silayang"
+    },
+    {
+      "code": 1308152002,
+      "name": "Muaro Sungai Lolo"
+    }
+  ]
+}

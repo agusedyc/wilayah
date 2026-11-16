@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9605112001,
+      "name": "Suswa"
+    },
+    {
+      "code": 9605112002,
+      "name": "Seya"
+    },
+    {
+      "code": 9605112003,
+      "name": "Waban"
+    },
+    {
+      "code": 9605112004,
+      "name": "Kombif"
+    },
+    {
+      "code": 9605112005,
+      "name": "Rufases"
+    },
+    {
+      "code": 9605112006,
+      "name": "Bakrabi"
+    },
+    {
+      "code": 9605112007,
+      "name": "Nafasi"
+    },
+    {
+      "code": 9605112008,
+      "name": "Mahos"
+    },
+    {
+      "code": 9605112009,
+      "name": "Sawo"
+    }
+  ]
+}

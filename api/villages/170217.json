@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1702171001,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1702171002,
+      "name": "Kesambe Baru"
+    },
+    {
+      "code": 1702171003,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1702171004,
+      "name": "Talang Ulu"
+    },
+    {
+      "code": 1702172005,
+      "name": "Duku Ulu"
+    },
+    {
+      "code": 1702172006,
+      "name": "Duku Ilir"
+    },
+    {
+      "code": 1702172007,
+      "name": "Air Meles Bawah"
+    },
+    {
+      "code": 1702172008,
+      "name": "Kampung Delima"
+    },
+    {
+      "code": 1702172009,
+      "name": "Kesambe Lama"
+    }
+  ]
+}

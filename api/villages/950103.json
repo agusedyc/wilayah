@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501032001,
+      "name": "Kimbin"
+    },
+    {
+      "code": 9501032002,
+      "name": "Walak"
+    },
+    {
+      "code": 9501032003,
+      "name": "Araboda"
+    },
+    {
+      "code": 9501032004,
+      "name": "Logotpaga"
+    },
+    {
+      "code": 9501032005,
+      "name": "Wawanca"
+    },
+    {
+      "code": 9501032006,
+      "name": "Miligatnem"
+    },
+    {
+      "code": 9501032007,
+      "name": "Loki"
+    },
+    {
+      "code": 9501032008,
+      "name": "Tikawo"
+    },
+    {
+      "code": 9501032009,
+      "name": "Kombagwe"
+    },
+    {
+      "code": 9501032010,
+      "name": "Wanggonoma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7306161009,
+      "name": "Bontoramba"
+    },
+    {
+      "code": 7306162001,
+      "name": "Sengka"
+    },
+    {
+      "code": 7306162002,
+      "name": "Tanrara"
+    },
+    {
+      "code": 7306162003,
+      "name": "Tindang"
+    },
+    {
+      "code": 7306162004,
+      "name": "Pa'bundukang"
+    },
+    {
+      "code": 7306162005,
+      "name": "Bontosunggu"
+    },
+    {
+      "code": 7306162006,
+      "name": "Salajangki"
+    },
+    {
+      "code": 7306162007,
+      "name": "Salajo"
+    },
+    {
+      "code": 7306162008,
+      "name": "Jipang"
+    }
+  ]
+}

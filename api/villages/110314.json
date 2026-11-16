@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1103142001,
+      "name": "Seuneubok Buloh"
+    },
+    {
+      "code": 1103142002,
+      "name": "Seuneubok Baro"
+    },
+    {
+      "code": 1103142003,
+      "name": "Seuneubok Meureudu"
+    },
+    {
+      "code": 1103142004,
+      "name": "Seuneubok Teupin Panah"
+    },
+    {
+      "code": 1103142005,
+      "name": "Teupin Panah"
+    },
+    {
+      "code": 1103142006,
+      "name": "Gampong Keumuneng"
+    },
+    {
+      "code": 1103142007,
+      "name": "Keude Keumuneng"
+    },
+    {
+      "code": 1103142008,
+      "name": "Keumuneng Lhok"
+    },
+    {
+      "code": 1103142009,
+      "name": "Paya Awee"
+    },
+    {
+      "code": 1103142010,
+      "name": "Paya Gaboh"
+    },
+    {
+      "code": 1103142011,
+      "name": "Padang Kasah"
+    },
+    {
+      "code": 1103142012,
+      "name": "Buket Teukuh"
+    },
+    {
+      "code": 1103142013,
+      "name": "Buket Pu'uk"
+    },
+    {
+      "code": 1103142014,
+      "name": "Blang Minjei"
+    },
+    {
+      "code": 1103142015,
+      "name": "Alue Kumbang A"
+    },
+    {
+      "code": 1103142016,
+      "name": "Alue Kumbang M"
+    },
+    {
+      "code": 1103142017,
+      "name": "Alue Lhok"
+    },
+    {
+      "code": 1103142018,
+      "name": "Seuneubok Buya"
+    },
+    {
+      "code": 1103142019,
+      "name": "Seuneubok Drien"
+    },
+    {
+      "code": 1103142020,
+      "name": "Bantayan Barat"
+    },
+    {
+      "code": 1103142021,
+      "name": "Blang Guci"
+    },
+    {
+      "code": 1103142022,
+      "name": "Buket Rumiya"
+    },
+    {
+      "code": 1103142023,
+      "name": "Seuneubok Punti"
+    },
+    {
+      "code": 1103142024,
+      "name": "Seuneubok Jalan"
+    },
+    {
+      "code": 1103142025,
+      "name": "Seuneubok Dalam"
+    }
+  ]
+}

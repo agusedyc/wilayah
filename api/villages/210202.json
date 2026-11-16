@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2102021001,
+      "name": "Tanjung Batu Barat"
+    },
+    {
+      "code": 2102021002,
+      "name": "Tanjung Batu Kota"
+    },
+    {
+      "code": 2102021009,
+      "name": "Gading Sari"
+    },
+    {
+      "code": 2102022004,
+      "name": "Sungai Sebesi"
+    },
+    {
+      "code": 2102022005,
+      "name": "Sungai Ungar"
+    },
+    {
+      "code": 2102022006,
+      "name": "Lubuk"
+    }
+  ]
+}

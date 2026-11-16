@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1810042001,
+      "name": "Kedaung"
+    },
+    {
+      "code": 1810042002,
+      "name": "Pardasuka"
+    },
+    {
+      "code": 1810042003,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1810042004,
+      "name": "Tanjung Rusia"
+    },
+    {
+      "code": 1810042005,
+      "name": "Warga Mulyo"
+    },
+    {
+      "code": 1810042006,
+      "name": "Pujodadi"
+    },
+    {
+      "code": 1810042007,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 1810042008,
+      "name": "Selapan"
+    },
+    {
+      "code": 1810042009,
+      "name": "Rantau Tijang"
+    },
+    {
+      "code": 1810042010,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1810042011,
+      "name": "Pardasuka Timur"
+    },
+    {
+      "code": 1810042012,
+      "name": "Tanjung Rusia Timur"
+    },
+    {
+      "code": 1810042013,
+      "name": "Pardasuka Selatan"
+    }
+  ]
+}

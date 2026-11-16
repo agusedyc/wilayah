@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7306182001,
+      "name": "Borimatangkasa"
+    },
+    {
+      "code": 7306182002,
+      "name": "Mandalle"
+    },
+    {
+      "code": 7306182003,
+      "name": "Manjalling"
+    },
+    {
+      "code": 7306182004,
+      "name": "Gentungang"
+    },
+    {
+      "code": 7306182005,
+      "name": "Tanabangka"
+    },
+    {
+      "code": 7306182006,
+      "name": "Kalemandalle"
+    },
+    {
+      "code": 7306182007,
+      "name": "Bontomanai"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3304102001,
+      "name": "Kasilib"
+    },
+    {
+      "code": 3304102002,
+      "name": "Tapen"
+    },
+    {
+      "code": 3304102003,
+      "name": "Karangjambe"
+    },
+    {
+      "code": 3304102004,
+      "name": "Wanadadi"
+    },
+    {
+      "code": 3304102005,
+      "name": "Wanakarsa"
+    },
+    {
+      "code": 3304102006,
+      "name": "Lemahjaya"
+    },
+    {
+      "code": 3304102007,
+      "name": "Karangkemiri"
+    },
+    {
+      "code": 3304102008,
+      "name": "Kandangwangi"
+    },
+    {
+      "code": 3304102009,
+      "name": "Medayu"
+    },
+    {
+      "code": 3304102010,
+      "name": "Linggasari"
+    },
+    {
+      "code": 3304102011,
+      "name": "Gumingsir"
+    }
+  ]
+}

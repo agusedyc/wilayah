@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7104071001,
+      "name": "Melonguane"
+    },
+    {
+      "code": 7104071009,
+      "name": "Melonguane Timur"
+    },
+    {
+      "code": 7104071010,
+      "name": "Melonguane Barat"
+    },
+    {
+      "code": 7104072002,
+      "name": "Mala"
+    },
+    {
+      "code": 7104072003,
+      "name": "Kiama"
+    },
+    {
+      "code": 7104072006,
+      "name": "Tarun"
+    },
+    {
+      "code": 7104072007,
+      "name": "Sawang"
+    },
+    {
+      "code": 7104072008,
+      "name": "Ambela"
+    },
+    {
+      "code": 7104072011,
+      "name": "Tarun Selatan"
+    },
+    {
+      "code": 7104072012,
+      "name": "Kiama Barat"
+    },
+    {
+      "code": 7104072015,
+      "name": "Maredaren Kiama"
+    },
+    {
+      "code": 7104072016,
+      "name": "Sawang Utara"
+    },
+    {
+      "code": 7104072017,
+      "name": "Mala Timur"
+    }
+  ]
+}

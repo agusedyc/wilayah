@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3602232001,
+      "name": "Guradog"
+    },
+    {
+      "code": 3602232002,
+      "name": "Curugbitung"
+    },
+    {
+      "code": 3602232003,
+      "name": "Candi"
+    },
+    {
+      "code": 3602232004,
+      "name": "Mayak"
+    },
+    {
+      "code": 3602232005,
+      "name": "Cipining"
+    },
+    {
+      "code": 3602232006,
+      "name": "Cilayang"
+    },
+    {
+      "code": 3602232007,
+      "name": "Ciburuy"
+    },
+    {
+      "code": 3602232008,
+      "name": "Sekarwangi"
+    },
+    {
+      "code": 3602232009,
+      "name": "Cidadap"
+    },
+    {
+      "code": 3602232010,
+      "name": "Lebakasih"
+    }
+  ]
+}

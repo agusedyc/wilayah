@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3207332001,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3207332002,
+      "name": "Tenggerraharja"
+    },
+    {
+      "code": 3207332003,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3207332004,
+      "name": "Sindanglaya"
+    },
+    {
+      "code": 3207332005,
+      "name": "Mekarwangi"
+    }
+  ]
+}

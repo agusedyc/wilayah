@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Showing 32 villages",
+  "data": [
+    {
+      "code": 1106072001,
+      "name": "Lampeuneurut Ujong Blang"
+    },
+    {
+      "code": 1106072002,
+      "name": "Lampeuneurut Gampong"
+    },
+    {
+      "code": 1106072003,
+      "name": "Lamreung"
+    },
+    {
+      "code": 1106072004,
+      "name": "Lamcot"
+    },
+    {
+      "code": 1106072005,
+      "name": "Lam Blang Trieng"
+    },
+    {
+      "code": 1106072006,
+      "name": "Lam Blang Mayang"
+    },
+    {
+      "code": 1106072007,
+      "name": "Bayu"
+    },
+    {
+      "code": 1106072008,
+      "name": "Lagang"
+    },
+    {
+      "code": 1106072009,
+      "name": "Lamsiteh"
+    },
+    {
+      "code": 1106072010,
+      "name": "Lamkawe"
+    },
+    {
+      "code": 1106072011,
+      "name": "Lheu Blang"
+    },
+    {
+      "code": 1106072012,
+      "name": "Payaroh"
+    },
+    {
+      "code": 1106072013,
+      "name": "Lamsidaya"
+    },
+    {
+      "code": 1106072014,
+      "name": "Kuta Karang"
+    },
+    {
+      "code": 1106072015,
+      "name": "Leu Geu"
+    },
+    {
+      "code": 1106072016,
+      "name": "Lampeuneun"
+    },
+    {
+      "code": 1106072017,
+      "name": "Lamtheun"
+    },
+    {
+      "code": 1106072018,
+      "name": "Deunong"
+    },
+    {
+      "code": 1106072019,
+      "name": "Tingkuem"
+    },
+    {
+      "code": 1106072020,
+      "name": "Kandang"
+    },
+    {
+      "code": 1106072021,
+      "name": "Lam Bheu"
+    },
+    {
+      "code": 1106072022,
+      "name": "Daroy Kameu"
+    },
+    {
+      "code": 1106072023,
+      "name": "Geundrieng"
+    },
+    {
+      "code": 1106072024,
+      "name": "Garot"
+    },
+    {
+      "code": 1106072025,
+      "name": "Pasheu Beutong"
+    },
+    {
+      "code": 1106072026,
+      "name": "Lampasi Engking"
+    },
+    {
+      "code": 1106072027,
+      "name": "Jeumpet Ajun"
+    },
+    {
+      "code": 1106072028,
+      "name": "Gue Gajah"
+    },
+    {
+      "code": 1106072029,
+      "name": "Leu Ue"
+    },
+    {
+      "code": 1106072030,
+      "name": "Ulee Lueng"
+    },
+    {
+      "code": 1106072031,
+      "name": "Punie"
+    },
+    {
+      "code": 1106072032,
+      "name": "Ulee Tuy"
+    }
+  ]
+}

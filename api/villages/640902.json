@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6409021003,
+      "name": "Waru"
+    },
+    {
+      "code": 6409022001,
+      "name": "Api-api"
+    },
+    {
+      "code": 6409022002,
+      "name": "Sesulu"
+    },
+    {
+      "code": 6409022004,
+      "name": "Bangun Mulya"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9304152001,
+      "name": "Kawem"
+    },
+    {
+      "code": 9304152002,
+      "name": "Hahare"
+    },
+    {
+      "code": 9304152003,
+      "name": "Aikut"
+    },
+    {
+      "code": 9304152004,
+      "name": "Sanem"
+    },
+    {
+      "code": 9304152005,
+      "name": "Kaipom"
+    },
+    {
+      "code": 9304152006,
+      "name": "Airo Sapem"
+    },
+    {
+      "code": 9304152007,
+      "name": "Simipit"
+    },
+    {
+      "code": 9304152008,
+      "name": "Heiyaram"
+    },
+    {
+      "code": 9304152009,
+      "name": "Wagasu"
+    },
+    {
+      "code": 9304152010,
+      "name": "Sasime"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7206102001,
+      "name": "Bete-Bete"
+    },
+    {
+      "code": 7206102002,
+      "name": "Padabahao"
+    },
+    {
+      "code": 7206102003,
+      "name": "Labota"
+    },
+    {
+      "code": 7206102004,
+      "name": "Fatufia"
+    },
+    {
+      "code": 7206102005,
+      "name": "Keurea"
+    },
+    {
+      "code": 7206102006,
+      "name": "Bahodopi"
+    },
+    {
+      "code": 7206102007,
+      "name": "Lalampu"
+    },
+    {
+      "code": 7206102008,
+      "name": "Siumbatu"
+    },
+    {
+      "code": 7206102009,
+      "name": "Dampala"
+    },
+    {
+      "code": 7206102010,
+      "name": "Le-Le"
+    },
+    {
+      "code": 7206102011,
+      "name": "Baho Makmur"
+    },
+    {
+      "code": 7206102012,
+      "name": "Makartijaya"
+    }
+  ]
+}

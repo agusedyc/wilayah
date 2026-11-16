@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9502212001,
+      "name": "Okma"
+    },
+    {
+      "code": 9502212002,
+      "name": "Oktae"
+    },
+    {
+      "code": 9502212003,
+      "name": "Tinibil"
+    },
+    {
+      "code": 9502212004,
+      "name": "Okdilam"
+    },
+    {
+      "code": 9502212005,
+      "name": "Autpahik"
+    },
+    {
+      "code": 9502212006,
+      "name": "Tomka"
+    },
+    {
+      "code": 9502212007,
+      "name": "Okpa"
+    },
+    {
+      "code": 9502212008,
+      "name": "Okhaka"
+    },
+    {
+      "code": 9502212009,
+      "name": "Honkuding"
+    },
+    {
+      "code": 9502212010,
+      "name": "Bomding"
+    },
+    {
+      "code": 9502212011,
+      "name": "Okdunam"
+    },
+    {
+      "code": 9502212012,
+      "name": "Paune"
+    }
+  ]
+}

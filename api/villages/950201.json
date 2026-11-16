@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9502012001,
+      "name": "Kabiding"
+    },
+    {
+      "code": 9502012002,
+      "name": "Aldom"
+    },
+    {
+      "code": 9502012003,
+      "name": "Kutdol"
+    },
+    {
+      "code": 9502012004,
+      "name": "Polsam"
+    },
+    {
+      "code": 9502012005,
+      "name": "Akmakot"
+    },
+    {
+      "code": 9502012006,
+      "name": "Mabilabol"
+    },
+    {
+      "code": 9502012007,
+      "name": "Bunamdol"
+    },
+    {
+      "code": 9502012008,
+      "name": "Molbib Silibib"
+    }
+  ]
+}

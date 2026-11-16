@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6107082002,
+      "name": "Gerantung"
+    },
+    {
+      "code": 6107082003,
+      "name": "Monterado"
+    },
+    {
+      "code": 6107082004,
+      "name": "Goa Boma"
+    },
+    {
+      "code": 6107082006,
+      "name": "Nek Ginap"
+    },
+    {
+      "code": 6107082007,
+      "name": "Beringin Baru"
+    },
+    {
+      "code": 6107082008,
+      "name": "Sendoreng"
+    },
+    {
+      "code": 6107082009,
+      "name": "Rantau"
+    },
+    {
+      "code": 6107082010,
+      "name": "Mekar Baru"
+    },
+    {
+      "code": 6107082011,
+      "name": "Jahandung"
+    },
+    {
+      "code": 6107082012,
+      "name": "Serindu"
+    },
+    {
+      "code": 6107082013,
+      "name": "Siaga"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6309092001,
+      "name": "Pugaan"
+    },
+    {
+      "code": 6309092002,
+      "name": "Pampanan"
+    },
+    {
+      "code": 6309092003,
+      "name": "Sungai Rukam II"
+    },
+    {
+      "code": 6309092004,
+      "name": "Sungai Rukam I"
+    },
+    {
+      "code": 6309092005,
+      "name": "Jirak"
+    },
+    {
+      "code": 6309092006,
+      "name": "Halangan"
+    },
+    {
+      "code": 6309092007,
+      "name": "Tamunti"
+    }
+  ]
+}

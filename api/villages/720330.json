@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7203302001,
+      "name": "Ogoamas I"
+    },
+    {
+      "code": 7203302002,
+      "name": "Ogoamas II"
+    },
+    {
+      "code": 7203302003,
+      "name": "Lenju"
+    },
+    {
+      "code": 7203302004,
+      "name": "Pesik"
+    },
+    {
+      "code": 7203302005,
+      "name": "Bengkoli"
+    }
+  ]
+}

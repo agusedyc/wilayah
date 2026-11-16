@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1607022001,
+      "name": "Sungsang I"
+    },
+    {
+      "code": 1607022002,
+      "name": "Sungsang II"
+    },
+    {
+      "code": 1607022003,
+      "name": "Sungsang III"
+    },
+    {
+      "code": 1607022004,
+      "name": "Sungsang IV"
+    },
+    {
+      "code": 1607022010,
+      "name": "Teluk Payo"
+    },
+    {
+      "code": 1607022013,
+      "name": "Tanah Pilih"
+    },
+    {
+      "code": 1607022015,
+      "name": "Perajen Jaya"
+    },
+    {
+      "code": 1607022016,
+      "name": "Rimau Sungsang"
+    },
+    {
+      "code": 1607022018,
+      "name": "Marga Sungsang"
+    },
+    {
+      "code": 1607022019,
+      "name": "Muara Sungsang"
+    }
+  ]
+}

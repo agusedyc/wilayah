@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3510211001,
+      "name": "Kalipuro"
+    },
+    {
+      "code": 3510211002,
+      "name": "Klatak"
+    },
+    {
+      "code": 3510211006,
+      "name": "Gombengsari"
+    },
+    {
+      "code": 3510211007,
+      "name": "Bulusan"
+    },
+    {
+      "code": 3510212003,
+      "name": "Ketapang"
+    },
+    {
+      "code": 3510212004,
+      "name": "Pesucen"
+    },
+    {
+      "code": 3510212005,
+      "name": "Kelir"
+    },
+    {
+      "code": 3510212008,
+      "name": "Telemung"
+    },
+    {
+      "code": 3510212009,
+      "name": "Bulusari"
+    }
+  ]
+}

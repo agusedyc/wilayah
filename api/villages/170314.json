@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1703142007,
+      "name": "Talang Arah"
+    },
+    {
+      "code": 1703142008,
+      "name": "Pasar Sebelat"
+    },
+    {
+      "code": 1703142009,
+      "name": "Kota Bani"
+    },
+    {
+      "code": 1703142013,
+      "name": "Air Muring"
+    },
+    {
+      "code": 1703142014,
+      "name": "Air Pandan"
+    },
+    {
+      "code": 1703142015,
+      "name": "Cipta Mulya"
+    },
+    {
+      "code": 1703142017,
+      "name": "Air Petai"
+    },
+    {
+      "code": 1703142018,
+      "name": "Karang Tengah"
+    },
+    {
+      "code": 1703142019,
+      "name": "Karang Pulau"
+    }
+  ]
+}

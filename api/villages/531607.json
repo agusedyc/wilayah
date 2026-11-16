@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5316072001,
+      "name": "Rendubutowe"
+    },
+    {
+      "code": 5316072002,
+      "name": "Tengatiba"
+    },
+    {
+      "code": 5316072003,
+      "name": "Langedhawe"
+    },
+    {
+      "code": 5316072004,
+      "name": "Renduteno"
+    },
+    {
+      "code": 5316072005,
+      "name": "Renduwawo"
+    },
+    {
+      "code": 5316072006,
+      "name": "Wajomara"
+    },
+    {
+      "code": 5316072007,
+      "name": "Rendut Tutubhada"
+    }
+  ]
+}

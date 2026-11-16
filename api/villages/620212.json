@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6202121001,
+      "name": "Mentaya Seberang"
+    },
+    {
+      "code": 6202122002,
+      "name": "Terantang"
+    },
+    {
+      "code": 6202122003,
+      "name": "Batuah"
+    },
+    {
+      "code": 6202122004,
+      "name": "Terantang Hilir"
+    },
+    {
+      "code": 6202122005,
+      "name": "Ganepo"
+    },
+    {
+      "code": 6202122006,
+      "name": "Seragam Jaya"
+    }
+  ]
+}

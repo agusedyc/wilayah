@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7317091001,
+      "name": "Lamasi"
+    },
+    {
+      "code": 7317092007,
+      "name": "Salujambu"
+    },
+    {
+      "code": 7317092008,
+      "name": "Wiwitan"
+    },
+    {
+      "code": 7317092010,
+      "name": "Setiarejo"
+    },
+    {
+      "code": 7317092011,
+      "name": "Pongsamelung"
+    },
+    {
+      "code": 7317092014,
+      "name": "Padang Kalua"
+    },
+    {
+      "code": 7317092020,
+      "name": "To'pongo"
+    },
+    {
+      "code": 7317092022,
+      "name": "Se'pon"
+    },
+    {
+      "code": 7317092024,
+      "name": "Awo' Gading"
+    },
+    {
+      "code": 7317092026,
+      "name": "Wiwitan Timur"
+    }
+  ]
+}

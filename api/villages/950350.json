@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503502001,
+      "name": "Kayo"
+    },
+    {
+      "code": 9503502002,
+      "name": "Molama"
+    },
+    {
+      "code": 9503502003,
+      "name": "Sebu"
+    },
+    {
+      "code": 9503502004,
+      "name": "Walet"
+    },
+    {
+      "code": 9503502005,
+      "name": "Hombesaloma"
+    },
+    {
+      "code": 9503502006,
+      "name": "Alhai"
+    },
+    {
+      "code": 9503502007,
+      "name": "Uase"
+    }
+  ]
+}

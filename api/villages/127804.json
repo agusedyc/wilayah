@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1278042001,
+      "name": "Sifalaete"
+    },
+    {
+      "code": 1278042002,
+      "name": "Hilimbawodesolo"
+    },
+    {
+      "code": 1278042003,
+      "name": "Dahana"
+    },
+    {
+      "code": 1278042004,
+      "name": "Bawodesolo"
+    },
+    {
+      "code": 1278042005,
+      "name": "Tuhegeo I"
+    },
+    {
+      "code": 1278042006,
+      "name": "Simanaere"
+    },
+    {
+      "code": 1278042007,
+      "name": "Humene"
+    },
+    {
+      "code": 1278042008,
+      "name": "Siwalubanua II"
+    },
+    {
+      "code": 1278042009,
+      "name": "Helefanikha"
+    },
+    {
+      "code": 1278042010,
+      "name": "Tetehosi I"
+    },
+    {
+      "code": 1278042011,
+      "name": "Fowa"
+    },
+    {
+      "code": 1278042012,
+      "name": "Binaka"
+    },
+    {
+      "code": 1278042013,
+      "name": "Idanotae"
+    },
+    {
+      "code": 1278042014,
+      "name": "Tetehosi II"
+    },
+    {
+      "code": 1278042015,
+      "name": "Lolo'ana'a Idanoi"
+    },
+    {
+      "code": 1278042016,
+      "name": "Siwalubanua I"
+    },
+    {
+      "code": 1278042017,
+      "name": "Hilihambawa"
+    },
+    {
+      "code": 1278042018,
+      "name": "Awa'ai"
+    },
+    {
+      "code": 1278042019,
+      "name": "Lewuoguru Idanoi"
+    },
+    {
+      "code": 1278042020,
+      "name": "Fadoro"
+    },
+    {
+      "code": 1278042021,
+      "name": "Hiliweto Idanoi"
+    },
+    {
+      "code": 1278042022,
+      "name": "Hilimbowo Idanoi"
+    },
+    {
+      "code": 1278042023,
+      "name": "Onowaembo"
+    },
+    {
+      "code": 1278042024,
+      "name": "Ombolata"
+    },
+    {
+      "code": 1278042025,
+      "name": "Samasi"
+    },
+    {
+      "code": 1278042026,
+      "name": "Tuhegeo II"
+    }
+  ]
+}

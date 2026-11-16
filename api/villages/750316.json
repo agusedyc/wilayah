@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7503162001,
+      "name": "Bulotalangi"
+    },
+    {
+      "code": 7503162002,
+      "name": "Toluwaya"
+    },
+    {
+      "code": 7503162003,
+      "name": "Popodu"
+    },
+    {
+      "code": 7503162004,
+      "name": "Bulotalangi Timur"
+    },
+    {
+      "code": 7503162005,
+      "name": "Bulotalangi Barat"
+    }
+  ]
+}

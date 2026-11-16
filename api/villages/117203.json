@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1172032001,
+      "name": "Iboih"
+    },
+    {
+      "code": 1172032002,
+      "name": "Batee Shok"
+    },
+    {
+      "code": 1172032003,
+      "name": "Paya Seunara"
+    },
+    {
+      "code": 1172032004,
+      "name": "Paya"
+    },
+    {
+      "code": 1172032005,
+      "name": "Keunekai"
+    },
+    {
+      "code": 1172032006,
+      "name": "Beurawang"
+    }
+  ]
+}

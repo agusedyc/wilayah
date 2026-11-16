@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1707101009,
+      "name": "Amen"
+    },
+    {
+      "code": 1707102001,
+      "name": "Nangai Tayau"
+    },
+    {
+      "code": 1707102002,
+      "name": "Nangai Tayau I"
+    },
+    {
+      "code": 1707102003,
+      "name": "Pyang Mbik"
+    },
+    {
+      "code": 1707102004,
+      "name": "Sukau Mergo"
+    },
+    {
+      "code": 1707102005,
+      "name": "Sukau Rajo"
+    },
+    {
+      "code": 1707102006,
+      "name": "Talang Bunut"
+    },
+    {
+      "code": 1707102007,
+      "name": "Selebar Jaya"
+    },
+    {
+      "code": 1707102008,
+      "name": "Garut"
+    },
+    {
+      "code": 1707102010,
+      "name": "Sungai Gerong"
+    }
+  ]
+}

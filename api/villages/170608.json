@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1706082001,
+      "name": "Pasar Bantal"
+    },
+    {
+      "code": 1706082002,
+      "name": "Nenggalo"
+    },
+    {
+      "code": 1706082003,
+      "name": "Pondok Baru"
+    },
+    {
+      "code": 1706082004,
+      "name": "Bunga Tanjung"
+    },
+    {
+      "code": 1706082005,
+      "name": "Bandar Jaya"
+    },
+    {
+      "code": 1706082006,
+      "name": "Teramang Jaya"
+    },
+    {
+      "code": 1706082007,
+      "name": "Brangan Mulya"
+    },
+    {
+      "code": 1706082008,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 1706082009,
+      "name": "Lubuk Selandak"
+    },
+    {
+      "code": 1706082010,
+      "name": "Nelan Indah"
+    },
+    {
+      "code": 1706082011,
+      "name": "Mandi Angin Jaya"
+    },
+    {
+      "code": 1706082012,
+      "name": "Batu Ejung"
+    },
+    {
+      "code": 1706082013,
+      "name": "Pernyah"
+    }
+  ]
+}

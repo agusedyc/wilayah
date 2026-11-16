@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 7210072001,
+      "name": "Koja"
+    },
+    {
+      "code": 7210072002,
+      "name": "Kalamanta"
+    },
+    {
+      "code": 7210072003,
+      "name": "Mamu"
+    },
+    {
+      "code": 7210072004,
+      "name": "Peana"
+    },
+    {
+      "code": 7210072005,
+      "name": "Kantewu"
+    },
+    {
+      "code": 7210072006,
+      "name": "Onu"
+    },
+    {
+      "code": 7210072007,
+      "name": "Mapahi"
+    },
+    {
+      "code": 7210072008,
+      "name": "Banasu"
+    },
+    {
+      "code": 7210072009,
+      "name": "Lonebasa"
+    },
+    {
+      "code": 7210072010,
+      "name": "Lawe"
+    },
+    {
+      "code": 7210072011,
+      "name": "Morui"
+    },
+    {
+      "code": 7210072012,
+      "name": "Kantewu II"
+    },
+    {
+      "code": 7210072013,
+      "name": "Porelea"
+    },
+    {
+      "code": 7210072014,
+      "name": "Tuwo Tanijaya"
+    },
+    {
+      "code": 7210072015,
+      "name": "Pelempea"
+    },
+    {
+      "code": 7210072016,
+      "name": "Morui II"
+    },
+    {
+      "code": 7210072017,
+      "name": "Poluroa"
+    },
+    {
+      "code": 7210072018,
+      "name": "Masewo"
+    },
+    {
+      "code": 7210072019,
+      "name": "Porelea II"
+    }
+  ]
+}

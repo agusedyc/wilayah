@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9304222001,
+      "name": "Yerfum"
+    },
+    {
+      "code": 9304222002,
+      "name": "Suagai"
+    },
+    {
+      "code": 9304222003,
+      "name": "Sohomane"
+    },
+    {
+      "code": 9304222004,
+      "name": "Sagare"
+    },
+    {
+      "code": 9304222005,
+      "name": "Yefuwagi"
+    },
+    {
+      "code": 9304222006,
+      "name": "Wagi"
+    }
+  ]
+}

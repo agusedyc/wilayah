@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 1609031023,
+      "name": "Bandar Agung Ranau"
+    },
+    {
+      "code": 1609032020,
+      "name": "Way Timah"
+    },
+    {
+      "code": 1609032021,
+      "name": "Sipatuhu"
+    },
+    {
+      "code": 1609032022,
+      "name": "Banding Agung"
+    },
+    {
+      "code": 1609032024,
+      "name": "Surabaya"
+    },
+    {
+      "code": 1609032025,
+      "name": "Sugih Waras"
+    },
+    {
+      "code": 1609032026,
+      "name": "Suka Negeri"
+    },
+    {
+      "code": 1609032027,
+      "name": "Rantau Nipis"
+    },
+    {
+      "code": 1609032028,
+      "name": "Air Rupik"
+    },
+    {
+      "code": 1609032031,
+      "name": "Talang Merbau"
+    },
+    {
+      "code": 1609032032,
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": 1609032033,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1609032034,
+      "name": "Telanai"
+    },
+    {
+      "code": 1609032035,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 1609032036,
+      "name": "Karang Indah"
+    },
+    {
+      "code": 1609032037,
+      "name": "Tangsi Agung"
+    },
+    {
+      "code": 1609032038,
+      "name": "Penantian"
+    },
+    {
+      "code": 1609032039,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1609032040,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1609032041,
+      "name": "Sipatuhu II"
+    },
+    {
+      "code": 1609032042,
+      "name": "Terap Mulia"
+    },
+    {
+      "code": 1609032043,
+      "name": "Surabaya Timur"
+    }
+  ]
+}

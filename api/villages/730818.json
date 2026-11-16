@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7308181001,
+      "name": "Pompanua"
+    },
+    {
+      "code": 7308181002,
+      "name": "Pompanua Riattang"
+    },
+    {
+      "code": 7308182003,
+      "name": "Welado"
+    },
+    {
+      "code": 7308182004,
+      "name": "Pinceng Pute"
+    },
+    {
+      "code": 7308182005,
+      "name": "Opo"
+    },
+    {
+      "code": 7308182006,
+      "name": "Labissa"
+    },
+    {
+      "code": 7308182007,
+      "name": "Timurung"
+    },
+    {
+      "code": 7308182008,
+      "name": "Leppangeng"
+    },
+    {
+      "code": 7308182009,
+      "name": "Allamungeng Patue"
+    },
+    {
+      "code": 7308182010,
+      "name": "Amessangeng"
+    },
+    {
+      "code": 7308182011,
+      "name": "Lebbae"
+    },
+    {
+      "code": 7308182012,
+      "name": "Manciri"
+    },
+    {
+      "code": 7308182013,
+      "name": "Telle"
+    },
+    {
+      "code": 7308182014,
+      "name": "Pacciro"
+    }
+  ]
+}

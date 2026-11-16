@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1701062001,
+      "name": "Selali"
+    },
+    {
+      "code": 1701062002,
+      "name": "Air Kemang"
+    },
+    {
+      "code": 1701062003,
+      "name": "Pasar Pino"
+    },
+    {
+      "code": 1701062004,
+      "name": "Tanggo Raso"
+    },
+    {
+      "code": 1701062005,
+      "name": "Talang Padang"
+    },
+    {
+      "code": 1701062006,
+      "name": "Tungkal I"
+    },
+    {
+      "code": 1701062007,
+      "name": "Tungkal II"
+    },
+    {
+      "code": 1701062008,
+      "name": "Bandung Ayu"
+    },
+    {
+      "code": 1701062009,
+      "name": "Napal Melintang"
+    },
+    {
+      "code": 1701062010,
+      "name": "Serang Bulan"
+    },
+    {
+      "code": 1701062011,
+      "name": "Suka Bandung"
+    },
+    {
+      "code": 1701062012,
+      "name": "Pagar Gading"
+    },
+    {
+      "code": 1701062013,
+      "name": "Cinto Mandi"
+    },
+    {
+      "code": 1701062014,
+      "name": "Kembang Seri"
+    },
+    {
+      "code": 1701062015,
+      "name": "Karang Cayo"
+    },
+    {
+      "code": 1701062016,
+      "name": "Tanjung Aur II"
+    },
+    {
+      "code": 1701062017,
+      "name": "Nanjungan"
+    },
+    {
+      "code": 1701062018,
+      "name": "Kemang Manis"
+    },
+    {
+      "code": 1701062019,
+      "name": "Padang Beriang"
+    },
+    {
+      "code": 1701062020,
+      "name": "Padang Serasan"
+    },
+    {
+      "code": 1701062021,
+      "name": "Telaga Dalam"
+    }
+  ]
+}

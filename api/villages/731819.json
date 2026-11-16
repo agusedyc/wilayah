@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7318191002,
+      "name": "Benteng Ambeso"
+    },
+    {
+      "code": 7318191004,
+      "name": "Salubarani"
+    },
+    {
+      "code": 7318191012,
+      "name": "Mebali"
+    },
+    {
+      "code": 7318192001,
+      "name": "Buntu Limbong"
+    },
+    {
+      "code": 7318192003,
+      "name": "Sillanan"
+    },
+    {
+      "code": 7318192005,
+      "name": "Gandangbatu"
+    },
+    {
+      "code": 7318192006,
+      "name": "Kaduaja"
+    },
+    {
+      "code": 7318192007,
+      "name": "Garassik"
+    },
+    {
+      "code": 7318192008,
+      "name": "Pemanukan"
+    },
+    {
+      "code": 7318192009,
+      "name": "Perindingan"
+    },
+    {
+      "code": 7318192010,
+      "name": "Buntu Tabang"
+    },
+    {
+      "code": 7318192011,
+      "name": "Betteng Deata"
+    }
+  ]
+}

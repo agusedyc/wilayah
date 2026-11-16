@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1271191001,
+      "name": "Petisah Tengah"
+    },
+    {
+      "code": 1271191002,
+      "name": "Sekip"
+    },
+    {
+      "code": 1271191003,
+      "name": "Sei Sikambing D"
+    },
+    {
+      "code": 1271191004,
+      "name": "Sei Putih Barat"
+    },
+    {
+      "code": 1271191005,
+      "name": "Sei Putih Tengah"
+    },
+    {
+      "code": 1271191006,
+      "name": "Sei Putih Timur I"
+    },
+    {
+      "code": 1271191007,
+      "name": "Sei Putih Timur II"
+    }
+  ]
+}

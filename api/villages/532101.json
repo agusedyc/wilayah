@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5321012001,
+      "name": "Barene"
+    },
+    {
+      "code": 5321012002,
+      "name": "Kakaniuk"
+    },
+    {
+      "code": 5321012003,
+      "name": "Kateri"
+    },
+    {
+      "code": 5321012004,
+      "name": "Bakiruk"
+    },
+    {
+      "code": 5321012005,
+      "name": "Kamanasa"
+    },
+    {
+      "code": 5321012006,
+      "name": "Wehali"
+    },
+    {
+      "code": 5321012007,
+      "name": "Umakatahan"
+    },
+    {
+      "code": 5321012008,
+      "name": "Umanen Lawalu"
+    },
+    {
+      "code": 5321012009,
+      "name": "Kletek"
+    },
+    {
+      "code": 5321012010,
+      "name": "Naimana"
+    },
+    {
+      "code": 5321012011,
+      "name": "Fahiluka"
+    },
+    {
+      "code": 5321012012,
+      "name": "Lawalu"
+    },
+    {
+      "code": 5321012013,
+      "name": "Harekakae"
+    },
+    {
+      "code": 5321012014,
+      "name": "Barada"
+    },
+    {
+      "code": 5321012015,
+      "name": "Bereliku"
+    },
+    {
+      "code": 5321012016,
+      "name": "Railor Tahak"
+    },
+    {
+      "code": 5321012017,
+      "name": "Suai"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7326081002,
+      "name": "Nonongan Utara"
+    },
+    {
+      "code": 7326082001,
+      "name": "Salu"
+    },
+    {
+      "code": 7326082003,
+      "name": "Salu Sopai"
+    },
+    {
+      "code": 7326082004,
+      "name": "Tombang Langda"
+    },
+    {
+      "code": 7326082005,
+      "name": "Marante"
+    },
+    {
+      "code": 7326082006,
+      "name": "Langda"
+    },
+    {
+      "code": 7326082007,
+      "name": "Nonongan Selatan"
+    },
+    {
+      "code": 7326082008,
+      "name": "Salu Sarre"
+    }
+  ]
+}

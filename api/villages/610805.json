@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6108052001,
+      "name": "Serimbu"
+    },
+    {
+      "code": 6108052002,
+      "name": "Engkangin"
+    },
+    {
+      "code": 6108052003,
+      "name": "Jambu Tembawang"
+    },
+    {
+      "code": 6108052004,
+      "name": "Sepangah"
+    },
+    {
+      "code": 6108052005,
+      "name": "Merayuh"
+    },
+    {
+      "code": 6108052006,
+      "name": "Nyari"
+    },
+    {
+      "code": 6108052007,
+      "name": "Sekendal"
+    },
+    {
+      "code": 6108052008,
+      "name": "Semuntik"
+    },
+    {
+      "code": 6108052009,
+      "name": "Temoyok"
+    },
+    {
+      "code": 6108052010,
+      "name": "Engkadik Pade"
+    },
+    {
+      "code": 6108052011,
+      "name": "Dange Aji"
+    },
+    {
+      "code": 6108052012,
+      "name": "Tenguwe"
+    },
+    {
+      "code": 6108052013,
+      "name": "Parek"
+    },
+    {
+      "code": 6108052014,
+      "name": "Bentiang Madomang"
+    },
+    {
+      "code": 6108052015,
+      "name": "Tengon"
+    },
+    {
+      "code": 6108052016,
+      "name": "Sempatung Lawek"
+    }
+  ]
+}

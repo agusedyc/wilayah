@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204082001,
+      "name": "Lengkong"
+    },
+    {
+      "code": 3204082002,
+      "name": "Bojongsoang"
+    },
+    {
+      "code": 3204082003,
+      "name": "Buahbatu"
+    },
+    {
+      "code": 3204082004,
+      "name": "Cipagalo"
+    },
+    {
+      "code": 3204082005,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3204082006,
+      "name": "Tegalluar"
+    }
+  ]
+}

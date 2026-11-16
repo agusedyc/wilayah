@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1503102001,
+      "name": "Kampung Tujuh"
+    },
+    {
+      "code": 1503102002,
+      "name": "Lubuk Resam"
+    },
+    {
+      "code": 1503102003,
+      "name": "Teluk Rendah"
+    },
+    {
+      "code": 1503102004,
+      "name": "Teluk Tigo"
+    },
+    {
+      "code": 1503102005,
+      "name": "Lubuk Resam Hilir"
+    },
+    {
+      "code": 1503102006,
+      "name": "Pemuncak"
+    },
+    {
+      "code": 1503102007,
+      "name": "Tambang Tinggi"
+    },
+    {
+      "code": 1503102008,
+      "name": "Tendah"
+    },
+    {
+      "code": 1503102009,
+      "name": "Sungai Keramat"
+    },
+    {
+      "code": 1503102010,
+      "name": "Sekamis"
+    }
+  ]
+}

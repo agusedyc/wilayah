@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216032001,
+      "name": "Sukaringin"
+    },
+    {
+      "code": 3216032002,
+      "name": "Sukabudi"
+    },
+    {
+      "code": 3216032003,
+      "name": "Sukadaya"
+    },
+    {
+      "code": 3216032004,
+      "name": "Sukawangi"
+    },
+    {
+      "code": 3216032005,
+      "name": "Sukakerta"
+    },
+    {
+      "code": 3216032006,
+      "name": "Sukatenang"
+    },
+    {
+      "code": 3216032007,
+      "name": "Sukamekar"
+    }
+  ]
+}

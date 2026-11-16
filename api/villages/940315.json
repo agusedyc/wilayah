@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9403152001,
+      "name": "Okaitadi"
+    },
+    {
+      "code": 9403152002,
+      "name": "Kito"
+    },
+    {
+      "code": 9403152003,
+      "name": "Geiketago"
+    },
+    {
+      "code": 9403152004,
+      "name": "Kadiyai"
+    },
+    {
+      "code": 9403152005,
+      "name": "Uwodege"
+    },
+    {
+      "code": 9403152006,
+      "name": "Digiyo Tuwataida"
+    },
+    {
+      "code": 9403152007,
+      "name": "Itoka"
+    }
+  ]
+}

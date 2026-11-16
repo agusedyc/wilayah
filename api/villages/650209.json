@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6502092001,
+      "name": "Dumu Mahak"
+    },
+    {
+      "code": 6502092002,
+      "name": "Long Lebusan"
+    },
+    {
+      "code": 6502092003,
+      "name": "Mahak Baru"
+    },
+    {
+      "code": 6502092004,
+      "name": "Long Top"
+    },
+    {
+      "code": 6502092005,
+      "name": "Agung Baru"
+    },
+    {
+      "code": 6502092006,
+      "name": "Data Baru"
+    }
+  ]
+}

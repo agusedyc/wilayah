@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3528082001,
+      "name": "Peltong"
+    },
+    {
+      "code": 3528082002,
+      "name": "Blumbungan"
+    },
+    {
+      "code": 3528082003,
+      "name": "Trasak"
+    },
+    {
+      "code": 3528082004,
+      "name": "Tentenan Barat"
+    },
+    {
+      "code": 3528082005,
+      "name": "Tentenan Timur"
+    },
+    {
+      "code": 3528082006,
+      "name": "Grujugan"
+    },
+    {
+      "code": 3528082007,
+      "name": "Larangan Luar"
+    },
+    {
+      "code": 3528082008,
+      "name": "Larangan Dalam"
+    },
+    {
+      "code": 3528082009,
+      "name": "Panaguan"
+    },
+    {
+      "code": 3528082010,
+      "name": "Montok"
+    },
+    {
+      "code": 3528082011,
+      "name": "Taraban"
+    },
+    {
+      "code": 3528082012,
+      "name": "Duko Timur"
+    },
+    {
+      "code": 3528082013,
+      "name": "Lancar"
+    },
+    {
+      "code": 3528082014,
+      "name": "Kaduara Barat"
+    }
+  ]
+}

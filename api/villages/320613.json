@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3206132001,
+      "name": "Taraju"
+    },
+    {
+      "code": 3206132002,
+      "name": "Cikubang"
+    },
+    {
+      "code": 3206132003,
+      "name": "Deudeul"
+    },
+    {
+      "code": 3206132004,
+      "name": "Purwarahayu"
+    },
+    {
+      "code": 3206132005,
+      "name": "Singasari"
+    },
+    {
+      "code": 3206132006,
+      "name": "Banyuasih"
+    },
+    {
+      "code": 3206132007,
+      "name": "Raksasari"
+    },
+    {
+      "code": 3206132008,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3206132009,
+      "name": "Pageralam"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7310101001,
+      "name": "Minasa Te'ne"
+    },
+    {
+      "code": 7310101002,
+      "name": "Kalabbirang"
+    },
+    {
+      "code": 7310101003,
+      "name": "Biraeng"
+    },
+    {
+      "code": 7310101004,
+      "name": "Bonto Kio"
+    },
+    {
+      "code": 7310101005,
+      "name": "Bontoa"
+    },
+    {
+      "code": 7310101006,
+      "name": "Bonto Langkasa"
+    },
+    {
+      "code": 7310102007,
+      "name": "Kabba"
+    },
+    {
+      "code": 7310102008,
+      "name": "Panaikang"
+    }
+  ]
+}

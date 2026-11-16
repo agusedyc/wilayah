@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3471091001,
+      "name": "Patehan"
+    },
+    {
+      "code": 3471091002,
+      "name": "Panembahan"
+    },
+    {
+      "code": 3471091003,
+      "name": "Kadipaten"
+    }
+  ]
+}

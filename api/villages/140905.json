@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1409051001,
+      "name": "Pasar Cerenti"
+    },
+    {
+      "code": 1409051002,
+      "name": "Koto Peraku"
+    },
+    {
+      "code": 1409052003,
+      "name": "Kompe Berangin"
+    },
+    {
+      "code": 1409052004,
+      "name": "Sikakak"
+    },
+    {
+      "code": 1409052005,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1409052006,
+      "name": "Pulaujambu"
+    },
+    {
+      "code": 1409052007,
+      "name": "Koto Cerenti"
+    },
+    {
+      "code": 1409052008,
+      "name": "Pulaubayur"
+    },
+    {
+      "code": 1409052009,
+      "name": "Pulau Panjang Cerenti"
+    },
+    {
+      "code": 1409052010,
+      "name": "Pesikaian"
+    },
+    {
+      "code": 1409052011,
+      "name": "Telukpauh"
+    },
+    {
+      "code": 1409052012,
+      "name": "Tanjungmedan"
+    },
+    {
+      "code": 1409052013,
+      "name": "Kampung Baru Timur"
+    }
+  ]
+}

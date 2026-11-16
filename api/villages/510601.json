@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5106012001,
+      "name": "Apuan"
+    },
+    {
+      "code": 5106012002,
+      "name": "Demulih"
+    },
+    {
+      "code": 5106012003,
+      "name": "Abuan"
+    },
+    {
+      "code": 5106012004,
+      "name": "Susut"
+    },
+    {
+      "code": 5106012005,
+      "name": "Sulahan"
+    },
+    {
+      "code": 5106012006,
+      "name": "Penglumbaran"
+    },
+    {
+      "code": 5106012007,
+      "name": "Tiga"
+    },
+    {
+      "code": 5106012008,
+      "name": "Selat"
+    },
+    {
+      "code": 5106012009,
+      "name": "Pengiangan"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 5204212001,
+      "name": "Rhee"
+    },
+    {
+      "code": 5204212002,
+      "name": "Sampe"
+    },
+    {
+      "code": 5204212003,
+      "name": "Luk"
+    },
+    {
+      "code": 5204212004,
+      "name": "Rhee Loka"
+    }
+  ]
+}

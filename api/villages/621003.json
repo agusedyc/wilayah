@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6210031005,
+      "name": "Tewah"
+    },
+    {
+      "code": 6210032001,
+      "name": "Sare Rangan"
+    },
+    {
+      "code": 6210032002,
+      "name": "Tumbang Pajangei"
+    },
+    {
+      "code": 6210032003,
+      "name": "Kasintu"
+    },
+    {
+      "code": 6210032004,
+      "name": "Batu Nyiwuh"
+    },
+    {
+      "code": 6210032006,
+      "name": "Tumbang Habaon"
+    },
+    {
+      "code": 6210032007,
+      "name": "Sei Riang"
+    },
+    {
+      "code": 6210032008,
+      "name": "Sandung Tambun"
+    },
+    {
+      "code": 6210032009,
+      "name": "Tanjung Untung"
+    },
+    {
+      "code": 6210032010,
+      "name": "Upon Batu"
+    },
+    {
+      "code": 6210032011,
+      "name": "Sumur Mas"
+    },
+    {
+      "code": 6210032012,
+      "name": "Batu Nyapau"
+    },
+    {
+      "code": 6210032013,
+      "name": "Taja Urap"
+    },
+    {
+      "code": 6210032014,
+      "name": "Teluk Lawah"
+    },
+    {
+      "code": 6210032015,
+      "name": "Karason Raya"
+    },
+    {
+      "code": 6210032016,
+      "name": "Rangan Mihing"
+    }
+  ]
+}

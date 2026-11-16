@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1802242001,
+      "name": "Sri Kencono"
+    },
+    {
+      "code": 1802242002,
+      "name": "Bumi Nabung Ilir"
+    },
+    {
+      "code": 1802242003,
+      "name": "Bumi Nabung Utara"
+    },
+    {
+      "code": 1802242004,
+      "name": "Bumi Nabung Selatan"
+    },
+    {
+      "code": 1802242005,
+      "name": "Bumi Nabung Timur"
+    },
+    {
+      "code": 1802242006,
+      "name": "Bumi Nabung Baru"
+    },
+    {
+      "code": 1802242007,
+      "name": "Sri Kencono Baru"
+    }
+  ]
+}

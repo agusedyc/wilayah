@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1771031001,
+      "name": "Berkas"
+    },
+    {
+      "code": 1771031002,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1771031003,
+      "name": "Jitra"
+    },
+    {
+      "code": 1771031004,
+      "name": "Pasar Melintang"
+    },
+    {
+      "code": 1771031005,
+      "name": "Kebun Roos"
+    },
+    {
+      "code": 1771031007,
+      "name": "Tengah Padang"
+    },
+    {
+      "code": 1771031008,
+      "name": "Bajak"
+    },
+    {
+      "code": 1771031010,
+      "name": "Pondok Besi"
+    },
+    {
+      "code": 1771031011,
+      "name": "Kebun Keling"
+    },
+    {
+      "code": 1771031013,
+      "name": "Sumur Meleleh"
+    },
+    {
+      "code": 1771031014,
+      "name": "Malabero"
+    },
+    {
+      "code": 1771031018,
+      "name": "Pintu Batu"
+    },
+    {
+      "code": 1771031019,
+      "name": "Kampung Bali"
+    }
+  ]
+}

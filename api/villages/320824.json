@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208242003,
+      "name": "Cileuya"
+    },
+    {
+      "code": 3208242004,
+      "name": "Margamukti"
+    },
+    {
+      "code": 3208242005,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3208242006,
+      "name": "Cimahi"
+    },
+    {
+      "code": 3208242007,
+      "name": "Kananga"
+    },
+    {
+      "code": 3208242008,
+      "name": "Cikeusal"
+    },
+    {
+      "code": 3208242009,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3208242010,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3208242011,
+      "name": "Mulyajaya"
+    },
+    {
+      "code": 3208242012,
+      "name": "Cimulya"
+    }
+  ]
+}

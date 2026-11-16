@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7318372001,
+      "name": "Rano"
+    },
+    {
+      "code": 7318372002,
+      "name": "Rano Utara"
+    },
+    {
+      "code": 7318372003,
+      "name": "Rumandan"
+    },
+    {
+      "code": 7318372004,
+      "name": "Rano Tengah"
+    },
+    {
+      "code": 7318372005,
+      "name": "Rano Timur"
+    }
+  ]
+}

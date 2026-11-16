@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3171051001,
+      "name": "Cempaka Putih Timur"
+    },
+    {
+      "code": 3171051002,
+      "name": "Cempaka Putih Barat"
+    },
+    {
+      "code": 3171051003,
+      "name": "Rawasari"
+    }
+  ]
+}

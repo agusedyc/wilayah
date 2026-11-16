@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9304052001,
+      "name": "Basim"
+    },
+    {
+      "code": 9304052002,
+      "name": "Waras"
+    },
+    {
+      "code": 9304052003,
+      "name": "Biopis"
+    },
+    {
+      "code": 9304052004,
+      "name": "Nanai"
+    },
+    {
+      "code": 9304052005,
+      "name": "Pirien"
+    },
+    {
+      "code": 9304052006,
+      "name": "Ocenep"
+    },
+    {
+      "code": 9304052007,
+      "name": "Ais"
+    },
+    {
+      "code": 9304052008,
+      "name": "Yawas"
+    },
+    {
+      "code": 9304052009,
+      "name": "Bakyor"
+    },
+    {
+      "code": 9304052010,
+      "name": "Isar"
+    },
+    {
+      "code": 9304052011,
+      "name": "Kayarpis"
+    },
+    {
+      "code": 9304052012,
+      "name": "Sayoa"
+    },
+    {
+      "code": 9304052013,
+      "name": "Bora"
+    }
+  ]
+}

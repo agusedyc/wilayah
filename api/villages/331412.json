@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3314122001,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3314122002,
+      "name": "Slogo"
+    },
+    {
+      "code": 3314122003,
+      "name": "Jono"
+    },
+    {
+      "code": 3314122004,
+      "name": "Gawan"
+    },
+    {
+      "code": 3314122005,
+      "name": "Kecik"
+    },
+    {
+      "code": 3314122006,
+      "name": "Pengkol"
+    },
+    {
+      "code": 3314122007,
+      "name": "Suwatu"
+    },
+    {
+      "code": 3314122008,
+      "name": "Ketro"
+    },
+    {
+      "code": 3314122009,
+      "name": "Padas"
+    },
+    {
+      "code": 3314122010,
+      "name": "Tanon"
+    },
+    {
+      "code": 3314122011,
+      "name": "Gabugan"
+    },
+    {
+      "code": 3314122012,
+      "name": "Sambiduwur"
+    },
+    {
+      "code": 3314122013,
+      "name": "Karangtalun"
+    },
+    {
+      "code": 3314122014,
+      "name": "Bonagung"
+    },
+    {
+      "code": 3314122015,
+      "name": "Kalikobok"
+    },
+    {
+      "code": 3314122016,
+      "name": "Gading"
+    }
+  ]
+}

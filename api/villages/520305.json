@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5203052001,
+      "name": "Kesik"
+    },
+    {
+      "code": 5203052002,
+      "name": "Paokmotong"
+    },
+    {
+      "code": 5203052003,
+      "name": "Masbagik Selatan"
+    },
+    {
+      "code": 5203052004,
+      "name": "Masbagik Timur"
+    },
+    {
+      "code": 5203052005,
+      "name": "Masbagik Utara"
+    },
+    {
+      "code": 5203052006,
+      "name": "Danger"
+    },
+    {
+      "code": 5203052007,
+      "name": "Lendang Nangka"
+    },
+    {
+      "code": 5203052008,
+      "name": "Masbagik Utara Baru"
+    },
+    {
+      "code": 5203052009,
+      "name": "Lendang Nangka Utara"
+    },
+    {
+      "code": 5203052010,
+      "name": "Kumbang"
+    }
+  ]
+}

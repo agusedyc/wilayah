@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1117102001,
+      "name": "Simpang Rahmat"
+    },
+    {
+      "code": 1117102002,
+      "name": "Gajah Putih"
+    },
+    {
+      "code": 1117102003,
+      "name": "Gayo Setie"
+    },
+    {
+      "code": 1117102004,
+      "name": "Umah Besi"
+    },
+    {
+      "code": 1117102005,
+      "name": "Pante Karya"
+    },
+    {
+      "code": 1117102006,
+      "name": "Meriah Jaya"
+    },
+    {
+      "code": 1117102007,
+      "name": "Timang Gajah"
+    },
+    {
+      "code": 1117102008,
+      "name": "Pantan Lues"
+    },
+    {
+      "code": 1117102009,
+      "name": "Alam Jaya"
+    },
+    {
+      "code": 1117102010,
+      "name": "Reronga"
+    }
+  ]
+}

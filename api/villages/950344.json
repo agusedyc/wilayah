@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503442001,
+      "name": "Kabianggama"
+    },
+    {
+      "code": 9503442002,
+      "name": "Sohobma"
+    },
+    {
+      "code": 9503442003,
+      "name": "Sohal"
+    },
+    {
+      "code": 9503442004,
+      "name": "Bahabolma"
+    },
+    {
+      "code": 9503442005,
+      "name": "Subayo"
+    },
+    {
+      "code": 9503442006,
+      "name": "Buahun"
+    },
+    {
+      "code": 9503442007,
+      "name": "Domul"
+    }
+  ]
+}

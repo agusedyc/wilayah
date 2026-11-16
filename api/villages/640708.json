@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6407082001,
+      "name": "Besiq"
+    },
+    {
+      "code": 6407082002,
+      "name": "Bermai"
+    },
+    {
+      "code": 6407082003,
+      "name": "Muara Niliq"
+    },
+    {
+      "code": 6407082004,
+      "name": "Mantar"
+    },
+    {
+      "code": 6407082005,
+      "name": "Muara Bomboy"
+    },
+    {
+      "code": 6407082006,
+      "name": "Damai Seberang"
+    },
+    {
+      "code": 6407082007,
+      "name": "Mendika"
+    },
+    {
+      "code": 6407082008,
+      "name": "Damai Kota"
+    },
+    {
+      "code": 6407082009,
+      "name": "Lumpat Dahuq"
+    },
+    {
+      "code": 6407082010,
+      "name": "Muara Tokong"
+    },
+    {
+      "code": 6407082011,
+      "name": "Jengan Danum"
+    },
+    {
+      "code": 6407082012,
+      "name": "Keay"
+    },
+    {
+      "code": 6407082013,
+      "name": "Tepulang"
+    },
+    {
+      "code": 6407082014,
+      "name": "Benung"
+    },
+    {
+      "code": 6407082020,
+      "name": "Muara Nyahing"
+    },
+    {
+      "code": 6407082021,
+      "name": "Sempatn"
+    },
+    {
+      "code": 6407082022,
+      "name": "Kelian"
+    }
+  ]
+}

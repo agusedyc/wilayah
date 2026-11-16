@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3603312001,
+      "name": "Solear"
+    },
+    {
+      "code": 3603312002,
+      "name": "Cikuya"
+    },
+    {
+      "code": 3603312003,
+      "name": "Cikasungka"
+    },
+    {
+      "code": 3603312004,
+      "name": "Cireundeu"
+    },
+    {
+      "code": 3603312005,
+      "name": "Cikareo"
+    },
+    {
+      "code": 3603312006,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3603312007,
+      "name": "Munjul"
+    }
+  ]
+}

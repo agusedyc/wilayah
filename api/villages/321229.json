@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3212292001,
+      "name": "Brondong"
+    },
+    {
+      "code": 3212292002,
+      "name": "Pabeanilir"
+    },
+    {
+      "code": 3212292003,
+      "name": "Pagirikan"
+    },
+    {
+      "code": 3212292004,
+      "name": "Pasekan"
+    },
+    {
+      "code": 3212292005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3212292006,
+      "name": "Totoran"
+    }
+  ]
+}

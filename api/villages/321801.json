@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3218012001,
+      "name": "Parigi"
+    },
+    {
+      "code": 3218012002,
+      "name": "Karangbenda"
+    },
+    {
+      "code": 3218012003,
+      "name": "Ciliang"
+    },
+    {
+      "code": 3218012004,
+      "name": "Bojong"
+    },
+    {
+      "code": 3218012005,
+      "name": "Cintaratu"
+    },
+    {
+      "code": 3218012006,
+      "name": "Selasari"
+    },
+    {
+      "code": 3218012007,
+      "name": "Karangjaladri"
+    },
+    {
+      "code": 3218012008,
+      "name": "Cibenda"
+    },
+    {
+      "code": 3218012009,
+      "name": "Cintakarya"
+    },
+    {
+      "code": 3218012010,
+      "name": "Parakanmanggu"
+    }
+  ]
+}

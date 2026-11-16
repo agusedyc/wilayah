@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3215092001,
+      "name": "Sabajaya"
+    },
+    {
+      "code": 3215092002,
+      "name": "Pisangsambo"
+    },
+    {
+      "code": 3215092003,
+      "name": "Gempolkarya"
+    },
+    {
+      "code": 3215092004,
+      "name": "Medankarya"
+    },
+    {
+      "code": 3215092005,
+      "name": "Tambaksumur"
+    },
+    {
+      "code": 3215092006,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3215092007,
+      "name": "Sumurlaban"
+    },
+    {
+      "code": 3215092008,
+      "name": "Srijaya"
+    },
+    {
+      "code": 3215092009,
+      "name": "Kutamakmur"
+    },
+    {
+      "code": 3215092010,
+      "name": "Bolang"
+    },
+    {
+      "code": 3215092011,
+      "name": "Srikamulyan"
+    }
+  ]
+}

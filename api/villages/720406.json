@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7204062001,
+      "name": "Janja"
+    },
+    {
+      "code": 7204062002,
+      "name": "Oyom"
+    },
+    {
+      "code": 7204062003,
+      "name": "Salugan"
+    },
+    {
+      "code": 7204062004,
+      "name": "Lampasio"
+    },
+    {
+      "code": 7204062005,
+      "name": "Tinading"
+    },
+    {
+      "code": 7204062006,
+      "name": "Sibea"
+    },
+    {
+      "code": 7204062007,
+      "name": "Maibua"
+    },
+    {
+      "code": 7204062008,
+      "name": "Mulya Sari"
+    },
+    {
+      "code": 7204062009,
+      "name": "Ogomatanang"
+    }
+  ]
+}

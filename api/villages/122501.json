@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1225012001,
+      "name": "Sisobaoho"
+    },
+    {
+      "code": 1225012002,
+      "name": "Bawozamaiwo"
+    },
+    {
+      "code": 1225012003,
+      "name": "Sitolubanua"
+    },
+    {
+      "code": 1225012004,
+      "name": "Lologundre"
+    },
+    {
+      "code": 1225012005,
+      "name": "Iraonogaila"
+    },
+    {
+      "code": 1225012006,
+      "name": "Tigaserangkai"
+    },
+    {
+      "code": 1225012007,
+      "name": "Onowaembo"
+    },
+    {
+      "code": 1225012008,
+      "name": "Onolimbu"
+    },
+    {
+      "code": 1225012009,
+      "name": "Haliadulo"
+    },
+    {
+      "code": 1225012010,
+      "name": "Sisobambowo"
+    },
+    {
+      "code": 1225012011,
+      "name": "Lolowau"
+    }
+  ]
+}

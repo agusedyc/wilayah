@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6402131007,
+      "name": "Sungai Seluang"
+    },
+    {
+      "code": 6402131008,
+      "name": "Wonotirto"
+    },
+    {
+      "code": 6402131009,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6402131010,
+      "name": "Samboja Kuala"
+    },
+    {
+      "code": 6402131011,
+      "name": "Sanipah"
+    },
+    {
+      "code": 6402131012,
+      "name": "Handil Baru"
+    },
+    {
+      "code": 6402131013,
+      "name": "Muara Sembilang"
+    },
+    {
+      "code": 6402131021,
+      "name": "Teluk Pemedas"
+    },
+    {
+      "code": 6402131022,
+      "name": "Kampung Lama"
+    },
+    {
+      "code": 6402131023,
+      "name": "Handil Baru Darat"
+    },
+    {
+      "code": 6402132014,
+      "name": "Karya Jaya"
+    },
+    {
+      "code": 6402132016,
+      "name": "Bukit Raya"
+    },
+    {
+      "code": 6402132019,
+      "name": "Beringin Agung"
+    }
+  ]
+}

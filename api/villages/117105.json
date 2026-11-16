@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1171052001,
+      "name": "Lueng Bata"
+    },
+    {
+      "code": 1171052002,
+      "name": "Cot Mesjid"
+    },
+    {
+      "code": 1171052003,
+      "name": "Panteriek"
+    },
+    {
+      "code": 1171052004,
+      "name": "Blang Cut"
+    },
+    {
+      "code": 1171052005,
+      "name": "Lamseupeung"
+    },
+    {
+      "code": 1171052006,
+      "name": "Batoh"
+    },
+    {
+      "code": 1171052007,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 1171052008,
+      "name": "Lamdom"
+    },
+    {
+      "code": 1171052009,
+      "name": "Lampaloh"
+    }
+  ]
+}

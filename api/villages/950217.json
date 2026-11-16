@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9502172001,
+      "name": "Arintap"
+    },
+    {
+      "code": 9502172002,
+      "name": "Tarngop"
+    },
+    {
+      "code": 9502172003,
+      "name": "Kawor"
+    },
+    {
+      "code": 9502172004,
+      "name": "Sakup"
+    },
+    {
+      "code": 9502172005,
+      "name": "Umding"
+    },
+    {
+      "code": 9502172006,
+      "name": "Nanum"
+    },
+    {
+      "code": 9502172007,
+      "name": "Ater"
+    }
+  ]
+}

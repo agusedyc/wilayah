@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9501082001,
+      "name": "Wolo"
+    },
+    {
+      "code": 9501082002,
+      "name": "Kukurima"
+    },
+    {
+      "code": 9501082003,
+      "name": "Pirambot"
+    },
+    {
+      "code": 9501082004,
+      "name": "Tegabaga"
+    },
+    {
+      "code": 9501082005,
+      "name": "Wollo Timur"
+    },
+    {
+      "code": 9501082006,
+      "name": "Alugi"
+    },
+    {
+      "code": 9501082007,
+      "name": "Wunan"
+    },
+    {
+      "code": 9501082008,
+      "name": "Wodloma"
+    }
+  ]
+}

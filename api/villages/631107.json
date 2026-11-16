@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6311071001,
+      "name": "Batu Piring"
+    },
+    {
+      "code": 6311072002,
+      "name": "Baruh Bahinu Luar"
+    },
+    {
+      "code": 6311072003,
+      "name": "Inan"
+    },
+    {
+      "code": 6311072004,
+      "name": "Baruh Bahinu Dalam"
+    },
+    {
+      "code": 6311072005,
+      "name": "Panggung"
+    },
+    {
+      "code": 6311072006,
+      "name": "Galumbang"
+    },
+    {
+      "code": 6311072007,
+      "name": "Halubau"
+    },
+    {
+      "code": 6311072008,
+      "name": "Binjai"
+    },
+    {
+      "code": 6311072009,
+      "name": "Murung Abuin"
+    },
+    {
+      "code": 6311072010,
+      "name": "Bungin"
+    },
+    {
+      "code": 6311072011,
+      "name": "Maradap"
+    },
+    {
+      "code": 6311072012,
+      "name": "Halubau Utara"
+    },
+    {
+      "code": 6311072013,
+      "name": "Murung Jambu"
+    },
+    {
+      "code": 6311072014,
+      "name": "Telaga Purun"
+    },
+    {
+      "code": 6311072015,
+      "name": "Lingsir"
+    },
+    {
+      "code": 6311072016,
+      "name": "Tarangan"
+    }
+  ]
+}

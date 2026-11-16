@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 5318082001,
+      "name": "Hoha Wungo"
+    },
+    {
+      "code": 5318082002,
+      "name": "Homba Karipit"
+    },
+    {
+      "code": 5318082003,
+      "name": "Wailabubur"
+    },
+    {
+      "code": 5318082004,
+      "name": "Kori"
+    },
+    {
+      "code": 5318082005,
+      "name": "Kalena Rongo"
+    },
+    {
+      "code": 5318082006,
+      "name": "Waiholo"
+    },
+    {
+      "code": 5318082007,
+      "name": "Noha"
+    },
+    {
+      "code": 5318082008,
+      "name": "Mangganipi"
+    },
+    {
+      "code": 5318082009,
+      "name": "Kendu Wela"
+    },
+    {
+      "code": 5318082010,
+      "name": "Bila Cenge"
+    },
+    {
+      "code": 5318082011,
+      "name": "Bukambero"
+    },
+    {
+      "code": 5318082013,
+      "name": "Homba Pare"
+    },
+    {
+      "code": 5318082014,
+      "name": "Magho Linyo"
+    },
+    {
+      "code": 5318082015,
+      "name": "Wee Wella"
+    },
+    {
+      "code": 5318082016,
+      "name": "Kadu Eta"
+    },
+    {
+      "code": 5318082017,
+      "name": "Kadaghu Tana"
+    },
+    {
+      "code": 5318082018,
+      "name": "Hameli Ate"
+    },
+    {
+      "code": 5318082019,
+      "name": "Waitaru"
+    },
+    {
+      "code": 5318082020,
+      "name": "Nangga Mutu"
+    },
+    {
+      "code": 5318082021,
+      "name": "Limbu Kembe"
+    },
+    {
+      "code": 5318082022,
+      "name": "Moro Manduyo"
+    }
+  ]
+}

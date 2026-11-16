@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5310172001,
+      "name": "Bere"
+    },
+    {
+      "code": 5310172002,
+      "name": "Wae Codi"
+    },
+    {
+      "code": 5310172003,
+      "name": "Golo Woi"
+    },
+    {
+      "code": 5310172004,
+      "name": "Golo Lanak"
+    },
+    {
+      "code": 5310172005,
+      "name": "Latung"
+    },
+    {
+      "code": 5310172006,
+      "name": "Wae Renca"
+    },
+    {
+      "code": 5310172007,
+      "name": "Timbu"
+    },
+    {
+      "code": 5310172008,
+      "name": "Bangka Ara"
+    },
+    {
+      "code": 5310172009,
+      "name": "Compang Cibal"
+    },
+    {
+      "code": 5310172010,
+      "name": "Lenda"
+    }
+  ]
+}

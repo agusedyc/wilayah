@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3318122001,
+      "name": "Jambean Kidul"
+    },
+    {
+      "code": 3318122002,
+      "name": "Wangunrejo"
+    },
+    {
+      "code": 3318122003,
+      "name": "Bumirejo"
+    },
+    {
+      "code": 3318122004,
+      "name": "Sokokulon"
+    },
+    {
+      "code": 3318122005,
+      "name": "Jimbaran"
+    },
+    {
+      "code": 3318122006,
+      "name": "Ngawen"
+    },
+    {
+      "code": 3318122007,
+      "name": "Margorejo"
+    },
+    {
+      "code": 3318122008,
+      "name": "Penambuhan"
+    },
+    {
+      "code": 3318122009,
+      "name": "Langenharjo"
+    },
+    {
+      "code": 3318122010,
+      "name": "Dadirejo"
+    },
+    {
+      "code": 3318122011,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3318122012,
+      "name": "Badegan"
+    },
+    {
+      "code": 3318122013,
+      "name": "Pegandan"
+    },
+    {
+      "code": 3318122014,
+      "name": "Sokobubuk"
+    },
+    {
+      "code": 3318122015,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3318122016,
+      "name": "Mataraman"
+    },
+    {
+      "code": 3318122017,
+      "name": "Langse"
+    },
+    {
+      "code": 3318122018,
+      "name": "Muktiharjo"
+    }
+  ]
+}

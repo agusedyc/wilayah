@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 8109052001,
+      "name": "Waemulang"
+    },
+    {
+      "code": 8109052002,
+      "name": "Waeturen"
+    },
+    {
+      "code": 8109052003,
+      "name": "Waehaka"
+    },
+    {
+      "code": 8109052004,
+      "name": "Waemala"
+    },
+    {
+      "code": 8109052005,
+      "name": "Erwiri"
+    },
+    {
+      "code": 8109052006,
+      "name": "Tifu"
+    },
+    {
+      "code": 8109052007,
+      "name": "Mepa"
+    },
+    {
+      "code": 8109052008,
+      "name": "Leksula"
+    },
+    {
+      "code": 8109052009,
+      "name": "Nalbessy"
+    },
+    {
+      "code": 8109052010,
+      "name": "Kase"
+    },
+    {
+      "code": 8109052015,
+      "name": "Neath"
+    },
+    {
+      "code": 8109052016,
+      "name": "Liang"
+    },
+    {
+      "code": 8109052018,
+      "name": "Slealale"
+    },
+    {
+      "code": 8109052023,
+      "name": "Walunhelat"
+    },
+    {
+      "code": 8109052024,
+      "name": "Wahaolon"
+    },
+    {
+      "code": 8109052025,
+      "name": "Waewali"
+    },
+    {
+      "code": 8109052026,
+      "name": "Waenamaolon"
+    },
+    {
+      "code": 8109052029,
+      "name": "Grahwaen"
+    },
+    {
+      "code": 8109052030,
+      "name": "Terkuri"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 regencies",
+  "data": [
+    {
+      "code": 1901,
+      "name": "Kabupaten Bangka"
+    },
+    {
+      "code": 1902,
+      "name": "Kabupaten Belitung"
+    },
+    {
+      "code": 1903,
+      "name": "Kabupaten Bangka Selatan"
+    },
+    {
+      "code": 1904,
+      "name": "Kabupaten Bangka Tengah"
+    },
+    {
+      "code": 1905,
+      "name": "Kabupaten Bangka Barat"
+    },
+    {
+      "code": 1906,
+      "name": "Kabupaten Belitung Timur"
+    },
+    {
+      "code": 1971,
+      "name": "Kota Pangkal Pinang"
+    }
+  ]
+}

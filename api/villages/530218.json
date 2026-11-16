@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302182001,
+      "name": "Neke"
+    },
+    {
+      "code": 5302182002,
+      "name": "Pene Utara"
+    },
+    {
+      "code": 5302182003,
+      "name": "Noenoni"
+    },
+    {
+      "code": 5302182004,
+      "name": "Hoi"
+    },
+    {
+      "code": 5302182005,
+      "name": "Niki Niki Un"
+    },
+    {
+      "code": 5302182006,
+      "name": "Oenino"
+    },
+    {
+      "code": 5302182007,
+      "name": "Abi"
+    }
+  ]
+}

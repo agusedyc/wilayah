@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3516072001,
+      "name": "Payungrejo"
+    },
+    {
+      "code": 3516072002,
+      "name": "Simbaringin"
+    },
+    {
+      "code": 3516072003,
+      "name": "Sampangagung"
+    },
+    {
+      "code": 3516072004,
+      "name": "Jiyu"
+    },
+    {
+      "code": 3516072005,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3516072006,
+      "name": "Windurejo"
+    },
+    {
+      "code": 3516072007,
+      "name": "Kertosari"
+    },
+    {
+      "code": 3516072008,
+      "name": "Kepuharum"
+    },
+    {
+      "code": 3516072009,
+      "name": "Gedangan"
+    },
+    {
+      "code": 3516072010,
+      "name": "Kutorejo"
+    },
+    {
+      "code": 3516072011,
+      "name": "Karangdiyeng"
+    },
+    {
+      "code": 3516072012,
+      "name": "Sawo"
+    },
+    {
+      "code": 3516072013,
+      "name": "Wonodadi"
+    },
+    {
+      "code": 3516072014,
+      "name": "Singowangi"
+    },
+    {
+      "code": 3516072015,
+      "name": "Kepuhpandak"
+    },
+    {
+      "code": 3516072016,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3516072017,
+      "name": "Kaligoro"
+    }
+  ]
+}

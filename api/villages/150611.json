@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1506111001,
+      "name": "Bram Itam Kiri"
+    },
+    {
+      "code": 1506112002,
+      "name": "Bram Itam Kanan"
+    },
+    {
+      "code": 1506112003,
+      "name": "Tanjung Senjulang"
+    },
+    {
+      "code": 1506112004,
+      "name": "Pembengis"
+    },
+    {
+      "code": 1506112005,
+      "name": "Bram Itam Raya"
+    },
+    {
+      "code": 1506112006,
+      "name": "Pantai Gading"
+    },
+    {
+      "code": 1506112007,
+      "name": "Jati Emas"
+    },
+    {
+      "code": 1506112008,
+      "name": "Kemuning"
+    },
+    {
+      "code": 1506112009,
+      "name": "Mekar Tanjung"
+    },
+    {
+      "code": 1506112010,
+      "name": "Semau"
+    }
+  ]
+}

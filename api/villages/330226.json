@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3302261001,
+      "name": "Sokanegara"
+    },
+    {
+      "code": 3302261002,
+      "name": "Kranji"
+    },
+    {
+      "code": 3302261003,
+      "name": "Purwokerto Lor"
+    },
+    {
+      "code": 3302261004,
+      "name": "Purwokerto Wetan"
+    },
+    {
+      "code": 3302261005,
+      "name": "Mersi"
+    },
+    {
+      "code": 3302261006,
+      "name": "Arcawinangun"
+    }
+  ]
+}

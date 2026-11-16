@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5302322001,
+      "name": "Lill ana"
+    },
+    {
+      "code": 5302322002,
+      "name": "Nunbena"
+    },
+    {
+      "code": 5302322003,
+      "name": "Noebesi"
+    },
+    {
+      "code": 5302322004,
+      "name": "Taneotob"
+    },
+    {
+      "code": 5302322005,
+      "name": "Feto Mone"
+    },
+    {
+      "code": 5302322006,
+      "name": "Tunbes"
+    }
+  ]
+}

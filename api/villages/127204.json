@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1272041001,
+      "name": "Toba"
+    },
+    {
+      "code": 1272041002,
+      "name": "Karo"
+    },
+    {
+      "code": 1272041003,
+      "name": "Simalungun"
+    },
+    {
+      "code": 1272041004,
+      "name": "Martimbang"
+    },
+    {
+      "code": 1272041005,
+      "name": "Kristen"
+    },
+    {
+      "code": 1272041006,
+      "name": "Aek Nauli"
+    }
+  ]
+}

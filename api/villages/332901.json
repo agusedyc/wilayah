@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 3329012001,
+      "name": "Banjaran"
+    },
+    {
+      "code": 3329012002,
+      "name": "Bentar"
+    },
+    {
+      "code": 3329012003,
+      "name": "Bentarsari"
+    },
+    {
+      "code": 3329012004,
+      "name": "Capar"
+    },
+    {
+      "code": 3329012005,
+      "name": "Ciputih"
+    },
+    {
+      "code": 3329012006,
+      "name": "Citimbang"
+    },
+    {
+      "code": 3329012007,
+      "name": "Ganggawang"
+    },
+    {
+      "code": 3329012008,
+      "name": "Gandoang"
+    },
+    {
+      "code": 3329012009,
+      "name": "Gunungjaya"
+    },
+    {
+      "code": 3329012010,
+      "name": "Gununglarang"
+    },
+    {
+      "code": 3329012011,
+      "name": "Gunungsugih"
+    },
+    {
+      "code": 3329012012,
+      "name": "Gunungtajem"
+    },
+    {
+      "code": 3329012013,
+      "name": "Indrajaya"
+    },
+    {
+      "code": 3329012014,
+      "name": "Kadumanis"
+    },
+    {
+      "code": 3329012015,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3329012016,
+      "name": "Pasirpanjang"
+    },
+    {
+      "code": 3329012017,
+      "name": "Salem"
+    },
+    {
+      "code": 3329012018,
+      "name": "Tembongraja"
+    },
+    {
+      "code": 3329012019,
+      "name": "Wanoja"
+    },
+    {
+      "code": 3329012020,
+      "name": "Winduasri"
+    },
+    {
+      "code": 3329012021,
+      "name": "Windusakti"
+    }
+  ]
+}

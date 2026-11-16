@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7111072001,
+      "name": "Botuliodu"
+    },
+    {
+      "code": 7111072002,
+      "name": "Nunuka Raya"
+    },
+    {
+      "code": 7111072003,
+      "name": "Tolutu"
+    },
+    {
+      "code": 7111072004,
+      "name": "Milangodaa"
+    },
+    {
+      "code": 7111072005,
+      "name": "Milangodaa Barat"
+    },
+    {
+      "code": 7111072006,
+      "name": "Milangodaa Utara"
+    },
+    {
+      "code": 7111072007,
+      "name": "Pakuku Jaya"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7405071001,
+      "name": "Konda"
+    },
+    {
+      "code": 7405072002,
+      "name": "Puosu Jaya"
+    },
+    {
+      "code": 7405072003,
+      "name": "Lamomea"
+    },
+    {
+      "code": 7405072004,
+      "name": "Alebo"
+    },
+    {
+      "code": 7405072005,
+      "name": "Morome"
+    },
+    {
+      "code": 7405072006,
+      "name": "Lebo Jaya"
+    },
+    {
+      "code": 7405072007,
+      "name": "Lambusa"
+    },
+    {
+      "code": 7405072008,
+      "name": "Pombula Jaya"
+    },
+    {
+      "code": 7405072009,
+      "name": "Ambololi"
+    },
+    {
+      "code": 7405072010,
+      "name": "Tanea"
+    },
+    {
+      "code": 7405072011,
+      "name": "Masagena"
+    },
+    {
+      "code": 7405072012,
+      "name": "Cialam Jaya"
+    },
+    {
+      "code": 7405072013,
+      "name": "Wonua"
+    },
+    {
+      "code": 7405072014,
+      "name": "Lawoila"
+    },
+    {
+      "code": 7405072019,
+      "name": "Lalowiu"
+    },
+    {
+      "code": 7405072020,
+      "name": "Amohalo"
+    },
+    {
+      "code": 7405072024,
+      "name": "Konda Satu"
+    }
+  ]
+}

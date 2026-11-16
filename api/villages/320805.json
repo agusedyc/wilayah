@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208052001,
+      "name": "Cipondok"
+    },
+    {
+      "code": 3208052002,
+      "name": "Sindangjawa"
+    },
+    {
+      "code": 3208052003,
+      "name": "Ciangir"
+    },
+    {
+      "code": 3208052004,
+      "name": "Cibingbin"
+    },
+    {
+      "code": 3208052005,
+      "name": "Citenjo"
+    },
+    {
+      "code": 3208052006,
+      "name": "Dukuhbadag"
+    },
+    {
+      "code": 3208052007,
+      "name": "Bantarpanjang"
+    },
+    {
+      "code": 3208052008,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3208052009,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3208052010,
+      "name": "Cisaat"
+    }
+  ]
+}

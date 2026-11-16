@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7505072001,
+      "name": "Dambalo"
+    },
+    {
+      "code": 7505072002,
+      "name": "Milango"
+    },
+    {
+      "code": 7505072003,
+      "name": "Jembatan Merah"
+    },
+    {
+      "code": 7505072004,
+      "name": "Bubode"
+    },
+    {
+      "code": 7505072005,
+      "name": "Leyao"
+    },
+    {
+      "code": 7505072006,
+      "name": "Molantadu"
+    },
+    {
+      "code": 7505072007,
+      "name": "Huidu Melito"
+    },
+    {
+      "code": 7505072008,
+      "name": "Bulango Raya"
+    },
+    {
+      "code": 7505072009,
+      "name": "Tanjung Karang"
+    },
+    {
+      "code": 7505072010,
+      "name": "Mutiara Laut"
+    }
+  ]
+}

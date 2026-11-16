@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 8108162001,
+      "name": "Hila"
+    },
+    {
+      "code": 8108162002,
+      "name": "Jerusu"
+    },
+    {
+      "code": 8108162003,
+      "name": "Solath"
+    }
+  ]
+}

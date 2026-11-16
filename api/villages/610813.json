@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6108132001,
+      "name": "Sompak"
+    },
+    {
+      "code": 6108132002,
+      "name": "Pauh"
+    },
+    {
+      "code": 6108132003,
+      "name": "Lingkonong"
+    },
+    {
+      "code": 6108132004,
+      "name": "Galar"
+    },
+    {
+      "code": 6108132005,
+      "name": "Amawakng"
+    },
+    {
+      "code": 6108132006,
+      "name": "Tapakng"
+    },
+    {
+      "code": 6108132007,
+      "name": "Pakumbang"
+    }
+  ]
+}

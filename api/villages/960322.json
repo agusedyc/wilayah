@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603222001,
+      "name": "Rauki"
+    },
+    {
+      "code": 9603222002,
+      "name": "Urai"
+    },
+    {
+      "code": 9603222003,
+      "name": "Duber"
+    },
+    {
+      "code": 9603222004,
+      "name": "Kapadiri"
+    }
+  ]
+}

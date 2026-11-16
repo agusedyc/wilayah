@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2105022002,
+      "name": "Tebang"
+    },
+    {
+      "code": 2105022003,
+      "name": "Ladan"
+    },
+    {
+      "code": 2105022005,
+      "name": "Piabung"
+    },
+    {
+      "code": 2105022006,
+      "name": "Langir"
+    },
+    {
+      "code": 2105022007,
+      "name": "Candi"
+    },
+    {
+      "code": 2105022008,
+      "name": "Putik"
+    },
+    {
+      "code": 2105022015,
+      "name": "Belibak"
+    }
+  ]
+}

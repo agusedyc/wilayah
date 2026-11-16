@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3208252001,
+      "name": "Legokherang"
+    },
+    {
+      "code": 3208252002,
+      "name": "Bungurberes"
+    },
+    {
+      "code": 3208252003,
+      "name": "Cilebak"
+    },
+    {
+      "code": 3208252004,
+      "name": "Jalatrang"
+    },
+    {
+      "code": 3208252005,
+      "name": "Patala"
+    },
+    {
+      "code": 3208252006,
+      "name": "Mandapajaya"
+    },
+    {
+      "code": 3208252007,
+      "name": "Cilimusari"
+    }
+  ]
+}

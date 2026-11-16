@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9406092001,
+      "name": "Piyakunu"
+    },
+    {
+      "code": 9406092002,
+      "name": "Diyeugi"
+    },
+    {
+      "code": 9406092003,
+      "name": "Putaapa"
+    },
+    {
+      "code": 9406092004,
+      "name": "Atou"
+    },
+    {
+      "code": 9406092005,
+      "name": "Modio"
+    },
+    {
+      "code": 9406092006,
+      "name": "Upibega"
+    },
+    {
+      "code": 9406092007,
+      "name": "Timepa"
+    },
+    {
+      "code": 9406092008,
+      "name": "Gabaikunu"
+    },
+    {
+      "code": 9406092009,
+      "name": "Adauwo"
+    },
+    {
+      "code": 9406092010,
+      "name": "Megaikebo"
+    }
+  ]
+}

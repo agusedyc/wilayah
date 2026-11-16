@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 9106121001,
+      "name": "Samofa"
+    },
+    {
+      "code": 9106121002,
+      "name": "Brambaken"
+    },
+    {
+      "code": 9106121010,
+      "name": "Karang Mulia"
+    },
+    {
+      "code": 9106121011,
+      "name": "Yafdas"
+    },
+    {
+      "code": 9106121012,
+      "name": "Mansinyas"
+    },
+    {
+      "code": 9106121013,
+      "name": "Snerbo"
+    },
+    {
+      "code": 9106121014,
+      "name": "Anjareuw"
+    },
+    {
+      "code": 9106122003,
+      "name": "Mandouw"
+    },
+    {
+      "code": 9106122004,
+      "name": "Sumberker"
+    },
+    {
+      "code": 9106122006,
+      "name": "Maryendi"
+    },
+    {
+      "code": 9106122007,
+      "name": "Sambawofuar"
+    },
+    {
+      "code": 9106122008,
+      "name": "Adainasnosen"
+    },
+    {
+      "code": 9106122009,
+      "name": "Darmopis"
+    },
+    {
+      "code": 9106122015,
+      "name": "Kamorfuar"
+    },
+    {
+      "code": 9106122016,
+      "name": "Anjareuw"
+    },
+    {
+      "code": 9106122017,
+      "name": "Wisata Binsari"
+    },
+    {
+      "code": 9106122018,
+      "name": "Kinmom"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7318091008,
+      "name": "Sima"
+    },
+    {
+      "code": 7318092003,
+      "name": "Simbuang"
+    },
+    {
+      "code": 7318092004,
+      "name": "Pongbembe"
+    },
+    {
+      "code": 7318092006,
+      "name": "Simbuang Batutallu"
+    },
+    {
+      "code": 7318092009,
+      "name": "Makkodo"
+    },
+    {
+      "code": 7318092010,
+      "name": "Puangbembe Mesakada"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3601022001,
+      "name": "Rancapinang"
+    },
+    {
+      "code": 3601022002,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3601022003,
+      "name": "Tugu"
+    },
+    {
+      "code": 3601022004,
+      "name": "Batuhideung"
+    },
+    {
+      "code": 3601022005,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3601022006,
+      "name": "Ciburial"
+    },
+    {
+      "code": 3601022007,
+      "name": "Cijaralang"
+    },
+    {
+      "code": 3601022008,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3601022009,
+      "name": "Mangkualam"
+    },
+    {
+      "code": 3601022010,
+      "name": "Tangkil Sari"
+    },
+    {
+      "code": 3601022011,
+      "name": "Waringin Kurung"
+    },
+    {
+      "code": 3601022012,
+      "name": "Kramatjaya"
+    }
+  ]
+}

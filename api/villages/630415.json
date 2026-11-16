@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6304151001,
+      "name": "Marabahan Kota"
+    },
+    {
+      "code": 6304151002,
+      "name": "Ulu Benteng"
+    },
+    {
+      "code": 6304152003,
+      "name": "Penghulu"
+    },
+    {
+      "code": 6304152004,
+      "name": "Bagus"
+    },
+    {
+      "code": 6304152005,
+      "name": "Baliuk"
+    },
+    {
+      "code": 6304152006,
+      "name": "Antar Baru"
+    },
+    {
+      "code": 6304152007,
+      "name": "Antar Jaya"
+    },
+    {
+      "code": 6304152008,
+      "name": "Antar Raya"
+    },
+    {
+      "code": 6304152009,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 6304152010,
+      "name": "Karya Maju"
+    }
+  ]
+}

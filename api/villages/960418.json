@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9604182001,
+      "name": "Syumbab"
+    },
+    {
+      "code": 9604182002,
+      "name": "Krisnos"
+    },
+    {
+      "code": 9604182003,
+      "name": "Syukwes"
+    },
+    {
+      "code": 9604182004,
+      "name": "Sunggak"
+    },
+    {
+      "code": 9604182005,
+      "name": "Wowom"
+    },
+    {
+      "code": 9604182006,
+      "name": "Resye"
+    }
+  ]
+}

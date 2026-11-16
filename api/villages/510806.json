@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Showing 29 villages",
+  "data": [
+    {
+      "code": 5108061006,
+      "name": "Banyuasri"
+    },
+    {
+      "code": 5108061007,
+      "name": "Banjar Tegal"
+    },
+    {
+      "code": 5108061008,
+      "name": "Kendran"
+    },
+    {
+      "code": 5108061009,
+      "name": "Paket Agung"
+    },
+    {
+      "code": 5108061010,
+      "name": "Kampung Singaraja"
+    },
+    {
+      "code": 5108061011,
+      "name": "Liligundi"
+    },
+    {
+      "code": 5108061012,
+      "name": "Beratan"
+    },
+    {
+      "code": 5108061019,
+      "name": "Banyuning"
+    },
+    {
+      "code": 5108061020,
+      "name": "Penarukan"
+    },
+    {
+      "code": 5108061021,
+      "name": "Kampung Kajanan"
+    },
+    {
+      "code": 5108061022,
+      "name": "Astina"
+    },
+    {
+      "code": 5108061023,
+      "name": "Banjar Jawa"
+    },
+    {
+      "code": 5108061024,
+      "name": "Kaliuntu"
+    },
+    {
+      "code": 5108061025,
+      "name": "Kampung Anyar"
+    },
+    {
+      "code": 5108061026,
+      "name": "Kampung Bugis"
+    },
+    {
+      "code": 5108061027,
+      "name": "Banjar Bali"
+    },
+    {
+      "code": 5108061029,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 5108062001,
+      "name": "Kalibukbuk"
+    },
+    {
+      "code": 5108062002,
+      "name": "Anturan"
+    },
+    {
+      "code": 5108062003,
+      "name": "Tukadmungga"
+    },
+    {
+      "code": 5108062004,
+      "name": "Pemaron"
+    },
+    {
+      "code": 5108062005,
+      "name": "Baktiseraga"
+    },
+    {
+      "code": 5108062013,
+      "name": "Sarimekar"
+    },
+    {
+      "code": 5108062014,
+      "name": "Nagasepaha"
+    },
+    {
+      "code": 5108062015,
+      "name": "Petandakan"
+    },
+    {
+      "code": 5108062016,
+      "name": "Alasangker"
+    },
+    {
+      "code": 5108062017,
+      "name": "Poh Bergong"
+    },
+    {
+      "code": 5108062018,
+      "name": "Jinengdalem"
+    },
+    {
+      "code": 5108062028,
+      "name": "Penglatan"
+    }
+  ]
+}

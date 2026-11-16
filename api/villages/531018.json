@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5310182001,
+      "name": "Renda"
+    },
+    {
+      "code": 5310182002,
+      "name": "Todo"
+    },
+    {
+      "code": 5310182003,
+      "name": "Gulung"
+    },
+    {
+      "code": 5310182004,
+      "name": "Popo"
+    },
+    {
+      "code": 5310182005,
+      "name": "Lia"
+    },
+    {
+      "code": 5310182006,
+      "name": "Kole"
+    },
+    {
+      "code": 5310182007,
+      "name": "Ling"
+    },
+    {
+      "code": 5310182008,
+      "name": "Nao"
+    },
+    {
+      "code": 5310182009,
+      "name": "Cireng"
+    },
+    {
+      "code": 5310182010,
+      "name": "Ruang"
+    },
+    {
+      "code": 5310182011,
+      "name": "Mata Wae"
+    }
+  ]
+}

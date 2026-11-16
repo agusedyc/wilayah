@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8101232001,
+      "name": "Ulahahan"
+    },
+    {
+      "code": 8101232002,
+      "name": "Laha Kaba"
+    },
+    {
+      "code": 8101232003,
+      "name": "Lafa"
+    },
+    {
+      "code": 8101232004,
+      "name": "Yamalatu"
+    },
+    {
+      "code": 8101232005,
+      "name": "Hunisi"
+    },
+    {
+      "code": 8101232006,
+      "name": "Laimu"
+    },
+    {
+      "code": 8101232007,
+      "name": "Maneoratu"
+    },
+    {
+      "code": 8101232008,
+      "name": "Tehua"
+    },
+    {
+      "code": 8101232009,
+      "name": "Laha"
+    },
+    {
+      "code": 8101232010,
+      "name": "Wolu"
+    }
+  ]
+}

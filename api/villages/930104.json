@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9301042001,
+      "name": "Kimaam"
+    },
+    {
+      "code": 9301042002,
+      "name": "Komolom"
+    },
+    {
+      "code": 9301042003,
+      "name": "Kumbis"
+    },
+    {
+      "code": 9301042004,
+      "name": "Kalilam"
+    },
+    {
+      "code": 9301042005,
+      "name": "Teri"
+    },
+    {
+      "code": 9301042006,
+      "name": "Mambum"
+    },
+    {
+      "code": 9301042007,
+      "name": "Kiworo"
+    },
+    {
+      "code": 9301042008,
+      "name": "Woner"
+    },
+    {
+      "code": 9301042009,
+      "name": "Deka"
+    },
+    {
+      "code": 9301042010,
+      "name": "Turiram"
+    },
+    {
+      "code": 9301042011,
+      "name": "Purawanderu"
+    },
+    {
+      "code": 9301042012,
+      "name": "Umanderu"
+    },
+    {
+      "code": 9301042013,
+      "name": "Webu"
+    }
+  ]
+}

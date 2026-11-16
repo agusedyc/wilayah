@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604112001,
+      "name": "Senopi"
+    },
+    {
+      "code": 9604112002,
+      "name": "Arapi"
+    },
+    {
+      "code": 9604112003,
+      "name": "Srurem"
+    },
+    {
+      "code": 9604112004,
+      "name": "Sumo"
+    },
+    {
+      "code": 9604112005,
+      "name": "Ifat Mitu"
+    },
+    {
+      "code": 9604112006,
+      "name": "Povokek Ania"
+    },
+    {
+      "code": 9604112007,
+      "name": "Thomas"
+    },
+    {
+      "code": 9604112008,
+      "name": "Tintum Araw"
+    },
+    {
+      "code": 9604112009,
+      "name": "Hobiah"
+    }
+  ]
+}

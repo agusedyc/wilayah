@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603132001,
+      "name": "Warwanai"
+    },
+    {
+      "code": 9603132002,
+      "name": "Mnier"
+    },
+    {
+      "code": 9603132003,
+      "name": "Boni"
+    },
+    {
+      "code": 9603132004,
+      "name": "Warkori"
+    }
+  ]
+}

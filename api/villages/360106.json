@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3601062001,
+      "name": "Panimbangjaya"
+    },
+    {
+      "code": 3601062002,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3601062004,
+      "name": "Gombong"
+    },
+    {
+      "code": 3601062009,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3601062011,
+      "name": "Citeureup"
+    },
+    {
+      "code": 3601062012,
+      "name": "Tanjungjaya"
+    }
+  ]
+}

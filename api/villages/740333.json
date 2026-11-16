@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7403332001,
+      "name": "Kolese"
+    },
+    {
+      "code": 7403332002,
+      "name": "Tampunabale"
+    },
+    {
+      "code": 7403332003,
+      "name": "Mata Indaha"
+    },
+    {
+      "code": 7403332004,
+      "name": "Lambelu"
+    }
+  ]
+}

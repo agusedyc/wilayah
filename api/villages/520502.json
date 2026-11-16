@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5205022001,
+      "name": "Kempo"
+    },
+    {
+      "code": 5205022002,
+      "name": "Ta'a"
+    },
+    {
+      "code": 5205022003,
+      "name": "Soro"
+    },
+    {
+      "code": 5205022004,
+      "name": "Konte"
+    },
+    {
+      "code": 5205022005,
+      "name": "Tolo Kalo"
+    },
+    {
+      "code": 5205022006,
+      "name": "Songgaja"
+    },
+    {
+      "code": 5205022007,
+      "name": "Doro Kobo"
+    },
+    {
+      "code": 5205022008,
+      "name": "Soro Barat"
+    }
+  ]
+}

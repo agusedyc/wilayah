@@ -1,0 +1,158 @@
+{
+  "success": true,
+  "message": "Showing 38 villages",
+  "data": [
+    {
+      "code": 6105142001,
+      "name": "Nanga Serawai"
+    },
+    {
+      "code": 6105142002,
+      "name": "Nanga Mentatai"
+    },
+    {
+      "code": 6105142003,
+      "name": "Bedaha"
+    },
+    {
+      "code": 6105142004,
+      "name": "Begori"
+    },
+    {
+      "code": 6105142005,
+      "name": "Pagar Lebata"
+    },
+    {
+      "code": 6105142006,
+      "name": "Tontang"
+    },
+    {
+      "code": 6105142007,
+      "name": "Karya Jaya"
+    },
+    {
+      "code": 6105142008,
+      "name": "Nanga Riyoi"
+    },
+    {
+      "code": 6105142009,
+      "name": "Buntut Ponte"
+    },
+    {
+      "code": 6105142010,
+      "name": "Nanga Segulang"
+    },
+    {
+      "code": 6105142011,
+      "name": "Baras Nabun"
+    },
+    {
+      "code": 6105142012,
+      "name": "Nanga Jelundung"
+    },
+    {
+      "code": 6105142013,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 6105142014,
+      "name": "Tahai Permai"
+    },
+    {
+      "code": 6105142015,
+      "name": "Merako Jaya"
+    },
+    {
+      "code": 6105142016,
+      "name": "Sawang Senghiang"
+    },
+    {
+      "code": 6105142017,
+      "name": "Tunas Harapan"
+    },
+    {
+      "code": 6105142018,
+      "name": "Teluk Harapan"
+    },
+    {
+      "code": 6105142019,
+      "name": "Gurung Senghiang"
+    },
+    {
+      "code": 6105142020,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6105142021,
+      "name": "Rantau Malam"
+    },
+    {
+      "code": 6105142022,
+      "name": "Mentajoi"
+    },
+    {
+      "code": 6105142023,
+      "name": "Nanga Bihe"
+    },
+    {
+      "code": 6105142024,
+      "name": "Nanga Tekungai"
+    },
+    {
+      "code": 6105142025,
+      "name": "Talian Sahabung"
+    },
+    {
+      "code": 6105142026,
+      "name": "Batu Ketebung"
+    },
+    {
+      "code": 6105142027,
+      "name": "Muara Kota"
+    },
+    {
+      "code": 6105142028,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 6105142029,
+      "name": "Tanjung Baru"
+    },
+    {
+      "code": 6105142030,
+      "name": "Nusa Tujuh"
+    },
+    {
+      "code": 6105142031,
+      "name": "Nanga Ruhan"
+    },
+    {
+      "code": 6105142032,
+      "name": "Meroboi"
+    },
+    {
+      "code": 6105142033,
+      "name": "Panekasan"
+    },
+    {
+      "code": 6105142034,
+      "name": "Tamakung"
+    },
+    {
+      "code": 6105142035,
+      "name": "Limbur Bernaung Lestari"
+    },
+    {
+      "code": 6105142036,
+      "name": "Mensulung Bio"
+    },
+    {
+      "code": 6105142037,
+      "name": "Sabhang Landan"
+    },
+    {
+      "code": 6105142038,
+      "name": "Nanga Tangoi"
+    }
+  ]
+}

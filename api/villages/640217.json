@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6402172001,
+      "name": "Sebuntal"
+    },
+    {
+      "code": 6402172002,
+      "name": "Santan Ulu"
+    },
+    {
+      "code": 6402172003,
+      "name": "Santan Tengah"
+    },
+    {
+      "code": 6402172004,
+      "name": "Santan Ilir"
+    },
+    {
+      "code": 6402172005,
+      "name": "Kersik"
+    },
+    {
+      "code": 6402172006,
+      "name": "Bunga Putih"
+    },
+    {
+      "code": 6402172007,
+      "name": "Makarti"
+    },
+    {
+      "code": 6402172008,
+      "name": "Prangat Selatan"
+    },
+    {
+      "code": 6402172009,
+      "name": "Prangat Baru"
+    },
+    {
+      "code": 6402172010,
+      "name": "Semangko"
+    },
+    {
+      "code": 6402172011,
+      "name": "Sambera Baru"
+    }
+  ]
+}

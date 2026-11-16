@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9111092001,
+      "name": "Yamara"
+    },
+    {
+      "code": 9111092002,
+      "name": "Wembi"
+    },
+    {
+      "code": 9111092003,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 9111092004,
+      "name": "Pyawi"
+    },
+    {
+      "code": 9111092005,
+      "name": "Sawyatami"
+    },
+    {
+      "code": 9111092006,
+      "name": "Wambes"
+    },
+    {
+      "code": 9111092007,
+      "name": "Uskwar"
+    }
+  ]
+}

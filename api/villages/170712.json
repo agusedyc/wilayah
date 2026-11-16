@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1707122001,
+      "name": "Ketenong I"
+    },
+    {
+      "code": 1707122002,
+      "name": "Ketenong II"
+    },
+    {
+      "code": 1707122003,
+      "name": "Ketenong Jaya"
+    },
+    {
+      "code": 1707122004,
+      "name": "Tambang Saweak"
+    },
+    {
+      "code": 1707122005,
+      "name": "Air Kopras"
+    },
+    {
+      "code": 1707122006,
+      "name": "Bioa Putiak"
+    },
+    {
+      "code": 1707122007,
+      "name": "Sebelat"
+    },
+    {
+      "code": 1707122008,
+      "name": "Sungai Lisai"
+    }
+  ]
+}

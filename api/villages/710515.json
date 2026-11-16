@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7105152002,
+      "name": "Kumelembuai"
+    },
+    {
+      "code": 7105152003,
+      "name": "Kumelembuai Atas"
+    },
+    {
+      "code": 7105152004,
+      "name": "Kumelembuai Satu"
+    },
+    {
+      "code": 7105152005,
+      "name": "Malola"
+    },
+    {
+      "code": 7105152006,
+      "name": "Malola I"
+    },
+    {
+      "code": 7105152007,
+      "name": "Makasili"
+    },
+    {
+      "code": 7105152011,
+      "name": "Kumelembuai Dua"
+    },
+    {
+      "code": 7105152015,
+      "name": "Lolombulan Makasili"
+    }
+  ]
+}

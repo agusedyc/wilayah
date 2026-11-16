@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3211142001,
+      "name": "Cimanggung"
+    },
+    {
+      "code": 3211142002,
+      "name": "Sindangpakuon"
+    },
+    {
+      "code": 3211142003,
+      "name": "Tegalmanggung"
+    },
+    {
+      "code": 3211142004,
+      "name": "Sindulang"
+    },
+    {
+      "code": 3211142005,
+      "name": "Sindanggalih"
+    },
+    {
+      "code": 3211142006,
+      "name": "Sawahdadap"
+    },
+    {
+      "code": 3211142007,
+      "name": "Cikahuripan"
+    },
+    {
+      "code": 3211142008,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3211142009,
+      "name": "Mangunarga"
+    },
+    {
+      "code": 3211142010,
+      "name": "Cihanjuang"
+    },
+    {
+      "code": 3211142011,
+      "name": "Pasirnanjung"
+    }
+  ]
+}

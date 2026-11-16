@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8171031018,
+      "name": "Lateri"
+    },
+    {
+      "code": 8171032001,
+      "name": "Passo"
+    },
+    {
+      "code": 8171032002,
+      "name": "Halong"
+    },
+    {
+      "code": 8171032003,
+      "name": "Latta"
+    },
+    {
+      "code": 8171032004,
+      "name": "Negeri Lama"
+    },
+    {
+      "code": 8171032005,
+      "name": "Nania"
+    },
+    {
+      "code": 8171032006,
+      "name": "Waiheru"
+    }
+  ]
+}

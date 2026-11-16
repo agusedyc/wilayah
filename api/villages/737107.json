@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7371071001,
+      "name": "Pannampu"
+    },
+    {
+      "code": 7371071002,
+      "name": "Kalukuang"
+    },
+    {
+      "code": 7371071003,
+      "name": "Kaluku Bodoa"
+    },
+    {
+      "code": 7371071004,
+      "name": "Rappojawa"
+    },
+    {
+      "code": 7371071005,
+      "name": "Rappokalling"
+    },
+    {
+      "code": 7371071006,
+      "name": "Lakkang"
+    },
+    {
+      "code": 7371071007,
+      "name": "Tallo"
+    },
+    {
+      "code": 7371071008,
+      "name": "La'latang"
+    },
+    {
+      "code": 7371071009,
+      "name": "Wala-Walaya"
+    },
+    {
+      "code": 7371071010,
+      "name": "Tammua"
+    },
+    {
+      "code": 7371071011,
+      "name": "Buloa"
+    },
+    {
+      "code": 7371071012,
+      "name": "Suangga"
+    },
+    {
+      "code": 7371071013,
+      "name": "Ujung Pandang Baru"
+    },
+    {
+      "code": 7371071014,
+      "name": "Lembo"
+    },
+    {
+      "code": 7371071015,
+      "name": "Bunga Eja Beru"
+    }
+  ]
+}

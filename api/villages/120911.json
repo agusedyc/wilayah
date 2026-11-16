@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1209112008,
+      "name": "Sei Kepayang Tengah"
+    },
+    {
+      "code": 1209112010,
+      "name": "Sei Kepayang Kanan"
+    },
+    {
+      "code": 1209112011,
+      "name": "Sei Paham"
+    },
+    {
+      "code": 1209112014,
+      "name": "Pertahanan"
+    },
+    {
+      "code": 1209112015,
+      "name": "Perbangunan"
+    },
+    {
+      "code": 1209112016,
+      "name": "Bangun Baru"
+    }
+  ]
+}

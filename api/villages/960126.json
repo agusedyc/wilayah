@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9601262001,
+      "name": "Maladuk"
+    },
+    {
+      "code": 9601262002,
+      "name": "Klamono Olie"
+    },
+    {
+      "code": 9601262003,
+      "name": "Barros"
+    },
+    {
+      "code": 9601262004,
+      "name": "Pusu Tiligum"
+    },
+    {
+      "code": 9601262005,
+      "name": "Klawilibe"
+    }
+  ]
+}

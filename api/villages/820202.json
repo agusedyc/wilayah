@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 8202022004,
+      "name": "Wailegi"
+    },
+    {
+      "code": 8202022005,
+      "name": "Kipai"
+    },
+    {
+      "code": 8202022006,
+      "name": "Yeisowo"
+    },
+    {
+      "code": 8202022012,
+      "name": "Yondeliu"
+    },
+    {
+      "code": 8202022013,
+      "name": "Baka Jaya"
+    }
+  ]
+}

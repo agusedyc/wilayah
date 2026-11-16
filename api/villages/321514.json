@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3215142001,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3215142002,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3215142003,
+      "name": "Barugbug"
+    },
+    {
+      "code": 3215142004,
+      "name": "Cikalongsari"
+    },
+    {
+      "code": 3215142005,
+      "name": "Cirejag"
+    },
+    {
+      "code": 3215142006,
+      "name": "Jatibaru"
+    },
+    {
+      "code": 3215142007,
+      "name": "Jatiragas"
+    },
+    {
+      "code": 3215142008,
+      "name": "Jatiwangi"
+    },
+    {
+      "code": 3215142009,
+      "name": "Kalijati"
+    },
+    {
+      "code": 3215142010,
+      "name": "Balonggandu"
+    },
+    {
+      "code": 3215142011,
+      "name": "Pacing"
+    },
+    {
+      "code": 3215142012,
+      "name": "Situdam"
+    },
+    {
+      "code": 3215142013,
+      "name": "Sukamekar"
+    },
+    {
+      "code": 3215142014,
+      "name": "Telarsari"
+    }
+  ]
+}

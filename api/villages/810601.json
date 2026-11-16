@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106012008,
+      "name": "Kamarian"
+    },
+    {
+      "code": 8106012009,
+      "name": "Seruawan"
+    },
+    {
+      "code": 8106012010,
+      "name": "Kairatu"
+    },
+    {
+      "code": 8106012011,
+      "name": "Waimital"
+    },
+    {
+      "code": 8106012012,
+      "name": "Hatusua"
+    },
+    {
+      "code": 8106012014,
+      "name": "Waipirit"
+    },
+    {
+      "code": 8106012015,
+      "name": "Uraur"
+    }
+  ]
+}

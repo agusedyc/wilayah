@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1308142002,
+      "name": "Taruang Taruang"
+    },
+    {
+      "code": 1308142005,
+      "name": "Padang Mantinggi"
+    },
+    {
+      "code": 1308142008,
+      "name": "Taruang Taruang Selatan"
+    },
+    {
+      "code": 1308142009,
+      "name": "Taruang Taruang Utara"
+    },
+    {
+      "code": 1308142010,
+      "name": "Padang Mantinggi Utara"
+    }
+  ]
+}

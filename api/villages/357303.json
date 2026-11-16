@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3573031001,
+      "name": "Kotalama"
+    },
+    {
+      "code": 3573031002,
+      "name": "Mergosono"
+    },
+    {
+      "code": 3573031003,
+      "name": "Bumiayu"
+    },
+    {
+      "code": 3573031004,
+      "name": "Wonokoyo"
+    },
+    {
+      "code": 3573031005,
+      "name": "Buring"
+    },
+    {
+      "code": 3573031006,
+      "name": "Kedungkandang"
+    },
+    {
+      "code": 3573031007,
+      "name": "Lesanpuro"
+    },
+    {
+      "code": 3573031008,
+      "name": "Sawojajar"
+    },
+    {
+      "code": 3573031009,
+      "name": "Madyopuro"
+    },
+    {
+      "code": 3573031010,
+      "name": "Cemorokandang"
+    },
+    {
+      "code": 3573031011,
+      "name": "Arjowinangun"
+    },
+    {
+      "code": 3573031012,
+      "name": "Tlogowaru"
+    }
+  ]
+}

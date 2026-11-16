@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 8102162001,
+      "name": "Tetoat"
+    },
+    {
+      "code": 8102162002,
+      "name": "Dian Pulau"
+    },
+    {
+      "code": 8102162003,
+      "name": "Letvuan"
+    },
+    {
+      "code": 8102162004,
+      "name": "Evu"
+    },
+    {
+      "code": 8102162005,
+      "name": "Warwut"
+    },
+    {
+      "code": 8102162006,
+      "name": "Wab"
+    },
+    {
+      "code": 8102162007,
+      "name": "Dian Darat"
+    },
+    {
+      "code": 8102162008,
+      "name": "Wirin"
+    },
+    {
+      "code": 8102162009,
+      "name": "Ngursit"
+    },
+    {
+      "code": 8102162010,
+      "name": "Madwat"
+    },
+    {
+      "code": 8102162011,
+      "name": "Ohoibadar"
+    },
+    {
+      "code": 8102162012,
+      "name": "Watngil"
+    },
+    {
+      "code": 8102162013,
+      "name": "Arso"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503062001,
+      "name": "Nalca"
+    },
+    {
+      "code": 9503062002,
+      "name": "Cenderawasih"
+    },
+    {
+      "code": 9503062003,
+      "name": "Manggona"
+    },
+    {
+      "code": 9503062004,
+      "name": "Bolda"
+    },
+    {
+      "code": 9503062005,
+      "name": "Emm"
+    },
+    {
+      "code": 9503062006,
+      "name": "Imsekla"
+    },
+    {
+      "code": 9503062007,
+      "name": "Hein"
+    },
+    {
+      "code": 9503062008,
+      "name": "Luwemna"
+    }
+  ]
+}

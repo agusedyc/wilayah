@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5314021008,
+      "name": "Busalangga"
+    },
+    {
+      "code": 5314022004,
+      "name": "Temas"
+    },
+    {
+      "code": 5314022007,
+      "name": "Modosinal"
+    },
+    {
+      "code": 5314022009,
+      "name": "Netenaen"
+    },
+    {
+      "code": 5314022012,
+      "name": "Ingguinak"
+    },
+    {
+      "code": 5314022013,
+      "name": "Oetutulu"
+    },
+    {
+      "code": 5314022014,
+      "name": "Daudolu"
+    },
+    {
+      "code": 5314022017,
+      "name": "Tualima"
+    },
+    {
+      "code": 5314022019,
+      "name": "Hundihuk"
+    },
+    {
+      "code": 5314022021,
+      "name": "Saindule"
+    },
+    {
+      "code": 5314022025,
+      "name": "Busalangga Timur"
+    },
+    {
+      "code": 5314022026,
+      "name": "Busalangga Barat"
+    }
+  ]
+}

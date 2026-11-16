@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9206182001,
+      "name": "Jahabra"
+    },
+    {
+      "code": 9206182002,
+      "name": "Ibori"
+    },
+    {
+      "code": 9206182003,
+      "name": "Menyembru"
+    },
+    {
+      "code": 9206182004,
+      "name": "Meyorga"
+    },
+    {
+      "code": 9206182005,
+      "name": "Laudoho"
+    },
+    {
+      "code": 9206182006,
+      "name": "Eniba"
+    },
+    {
+      "code": 9206182007,
+      "name": "Mowitka"
+    }
+  ]
+}

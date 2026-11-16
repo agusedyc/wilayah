@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7603122001,
+      "name": "Balla"
+    },
+    {
+      "code": 7603122002,
+      "name": "Balla Barat"
+    },
+    {
+      "code": 7603122003,
+      "name": "Balla Satanetean"
+    },
+    {
+      "code": 7603122004,
+      "name": "Balla Tumuka"
+    },
+    {
+      "code": 7603122005,
+      "name": "Sepakuan"
+    },
+    {
+      "code": 7603122006,
+      "name": "Pidara"
+    },
+    {
+      "code": 7603122007,
+      "name": "Bambapuang"
+    },
+    {
+      "code": 7603122008,
+      "name": "Balla Timur"
+    }
+  ]
+}

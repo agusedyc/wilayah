@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1809052001,
+      "name": "Banjaran"
+    },
+    {
+      "code": 1809052004,
+      "name": "Durian"
+    },
+    {
+      "code": 1809052009,
+      "name": "Hanau Berak"
+    },
+    {
+      "code": 1809052010,
+      "name": "Paya"
+    },
+    {
+      "code": 1809052011,
+      "name": "Padang Cermin"
+    },
+    {
+      "code": 1809052012,
+      "name": "Sanggi"
+    },
+    {
+      "code": 1809052016,
+      "name": "Tambangan"
+    },
+    {
+      "code": 1809052017,
+      "name": "Way Urang"
+    },
+    {
+      "code": 1809052025,
+      "name": "Khepong Jaya"
+    },
+    {
+      "code": 1809052026,
+      "name": "Trimulyo"
+    },
+    {
+      "code": 1809052031,
+      "name": "Gayau"
+    },
+    {
+      "code": 1809052032,
+      "name": "Dantar"
+    }
+  ]
+}

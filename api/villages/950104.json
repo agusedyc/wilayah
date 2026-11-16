@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9501042001,
+      "name": "Hubikosi"
+    },
+    {
+      "code": 9501042002,
+      "name": "Kosimeage"
+    },
+    {
+      "code": 9501042003,
+      "name": "Kosihilapok"
+    },
+    {
+      "code": 9501042004,
+      "name": "Meagama"
+    },
+    {
+      "code": 9501042005,
+      "name": "Pipukmo"
+    },
+    {
+      "code": 9501042006,
+      "name": "Isakusa"
+    },
+    {
+      "code": 9501042007,
+      "name": "Pelima"
+    },
+    {
+      "code": 9501042008,
+      "name": "Kikhumo"
+    },
+    {
+      "code": 9501042009,
+      "name": "Jibilabaga"
+    },
+    {
+      "code": 9501042010,
+      "name": "Ikilumo"
+    },
+    {
+      "code": 9501042011,
+      "name": "Sunili"
+    }
+  ]
+}

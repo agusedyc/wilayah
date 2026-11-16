@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9503072001,
+      "name": "Dekai"
+    },
+    {
+      "code": 9503072002,
+      "name": "Kuaserama"
+    },
+    {
+      "code": 9503072003,
+      "name": "Moruku"
+    },
+    {
+      "code": 9503072004,
+      "name": "Massi"
+    },
+    {
+      "code": 9503072005,
+      "name": "Keikey"
+    },
+    {
+      "code": 9503072006,
+      "name": "Kuari"
+    },
+    {
+      "code": 9503072007,
+      "name": "Muara"
+    },
+    {
+      "code": 9503072008,
+      "name": "Kiribun"
+    },
+    {
+      "code": 9503072009,
+      "name": "Kokamu"
+    },
+    {
+      "code": 9503072010,
+      "name": "Tomon I"
+    },
+    {
+      "code": 9503072011,
+      "name": "Sokamu"
+    },
+    {
+      "code": 9503072012,
+      "name": "Tomon II"
+    }
+  ]
+}

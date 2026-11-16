@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7372011004,
+      "name": "Lompoe"
+    },
+    {
+      "code": 7372011005,
+      "name": "Watang Bacukiki"
+    },
+    {
+      "code": 7372011009,
+      "name": "Lemoe"
+    },
+    {
+      "code": 7372011010,
+      "name": "Galung Maloang"
+    }
+  ]
+}

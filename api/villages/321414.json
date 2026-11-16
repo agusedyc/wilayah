@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3214142001,
+      "name": "Cibatu"
+    },
+    {
+      "code": 3214142002,
+      "name": "Cilandak"
+    },
+    {
+      "code": 3214142003,
+      "name": "Karyamekar"
+    },
+    {
+      "code": 3214142004,
+      "name": "Cipinang"
+    },
+    {
+      "code": 3214142005,
+      "name": "Ciparungsari"
+    },
+    {
+      "code": 3214142006,
+      "name": "Cirangkong"
+    },
+    {
+      "code": 3214142007,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3214142008,
+      "name": "Cibukamanah"
+    },
+    {
+      "code": 3214142009,
+      "name": "Wanawali"
+    },
+    {
+      "code": 3214142010,
+      "name": "Cipancur"
+    }
+  ]
+}

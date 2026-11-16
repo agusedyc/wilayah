@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9507302001,
+      "name": "Indugu"
+    },
+    {
+      "code": 9507302002,
+      "name": "Guburini"
+    },
+    {
+      "code": 9507302003,
+      "name": "Jiwikelanny"
+    },
+    {
+      "code": 9507302004,
+      "name": "Nisimok"
+    },
+    {
+      "code": 9507302005,
+      "name": "Yugume"
+    },
+    {
+      "code": 9507302006,
+      "name": "Piname"
+    },
+    {
+      "code": 9507302007,
+      "name": "Londu"
+    },
+    {
+      "code": 9507302008,
+      "name": "Kagaluwi"
+    }
+  ]
+}

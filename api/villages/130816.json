@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1308162001,
+      "name": "Alahan Mati"
+    },
+    {
+      "code": 1308162002,
+      "name": "Simpang"
+    },
+    {
+      "code": 1308162003,
+      "name": "Alahan Mati Hilia"
+    },
+    {
+      "code": 1308162004,
+      "name": "Simpang Utara"
+    }
+  ]
+}

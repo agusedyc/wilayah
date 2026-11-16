@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3529242001,
+      "name": "Pajanangger"
+    },
+    {
+      "code": 3529242008,
+      "name": "Sawah Sumur"
+    },
+    {
+      "code": 3529242009,
+      "name": "Paseraman"
+    },
+    {
+      "code": 3529242010,
+      "name": "Gelaman"
+    },
+    {
+      "code": 3529242011,
+      "name": "Buddi"
+    },
+    {
+      "code": 3529242012,
+      "name": "Kolo-kolo"
+    },
+    {
+      "code": 3529242013,
+      "name": "Angkatan"
+    },
+    {
+      "code": 3529242014,
+      "name": "Kalisangka"
+    },
+    {
+      "code": 3529242015,
+      "name": "Bilis-bilis"
+    },
+    {
+      "code": 3529242016,
+      "name": "Laok Jang-Jang"
+    },
+    {
+      "code": 3529242017,
+      "name": "Sumbernangka"
+    },
+    {
+      "code": 3529242018,
+      "name": "Duko"
+    },
+    {
+      "code": 3529242019,
+      "name": "Kalikatak"
+    },
+    {
+      "code": 3529242020,
+      "name": "Arjasa"
+    },
+    {
+      "code": 3529242021,
+      "name": "Kalinganyar"
+    },
+    {
+      "code": 3529242022,
+      "name": "Angon-angon"
+    },
+    {
+      "code": 3529242023,
+      "name": "Sambakati"
+    },
+    {
+      "code": 3529242024,
+      "name": "Pandeman"
+    },
+    {
+      "code": 3529242025,
+      "name": "Pabean"
+    }
+  ]
+}

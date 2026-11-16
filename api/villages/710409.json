@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7104092001,
+      "name": "Peret"
+    },
+    {
+      "code": 7104092002,
+      "name": "Ighik"
+    },
+    {
+      "code": 7104092003,
+      "name": "Birang"
+    },
+    {
+      "code": 7104092004,
+      "name": "Akas"
+    },
+    {
+      "code": 7104092005,
+      "name": "Damau"
+    },
+    {
+      "code": 7104092006,
+      "name": "Damau Bowone"
+    },
+    {
+      "code": 7104092007,
+      "name": "Taduwale"
+    },
+    {
+      "code": 7104092008,
+      "name": "Akas Balane"
+    }
+  ]
+}

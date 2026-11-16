@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3203022002,
+      "name": "Jambudipa"
+    },
+    {
+      "code": 3203022006,
+      "name": "Cisarandi"
+    },
+    {
+      "code": 3203022007,
+      "name": "Cikaroya"
+    },
+    {
+      "code": 3203022008,
+      "name": "Bunikasih"
+    },
+    {
+      "code": 3203022009,
+      "name": "Ciwalen"
+    },
+    {
+      "code": 3203022010,
+      "name": "Tegallega"
+    },
+    {
+      "code": 3203022011,
+      "name": "Sukawangi"
+    },
+    {
+      "code": 3203022014,
+      "name": "Bunisari"
+    },
+    {
+      "code": 3203022016,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203022017,
+      "name": "Cieundeur"
+    },
+    {
+      "code": 3203022018,
+      "name": "Mekarwangi"
+    }
+  ]
+}

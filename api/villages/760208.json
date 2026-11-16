@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7602082001,
+      "name": "Bunde"
+    },
+    {
+      "code": 7602082002,
+      "name": "Kalonding"
+    },
+    {
+      "code": 7602082003,
+      "name": "Tarailu"
+    },
+    {
+      "code": 7602082004,
+      "name": "Sampaga"
+    },
+    {
+      "code": 7602082005,
+      "name": "Tanambuah"
+    },
+    {
+      "code": 7602082006,
+      "name": "Salubarana"
+    },
+    {
+      "code": 7602082007,
+      "name": "Losso"
+    }
+  ]
+}

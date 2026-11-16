@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7309092001,
+      "name": "Jenetaesa"
+    },
+    {
+      "code": 7309092002,
+      "name": "Bonto Tallasa"
+    },
+    {
+      "code": 7309092003,
+      "name": "Sambueja"
+    },
+    {
+      "code": 7309092004,
+      "name": "Tanete"
+    },
+    {
+      "code": 7309092005,
+      "name": "Samangki"
+    },
+    {
+      "code": 7309092006,
+      "name": "Simbang"
+    }
+  ]
+}

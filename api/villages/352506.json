@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3525062001,
+      "name": "Kepuhklagen"
+    },
+    {
+      "code": 3525062002,
+      "name": "Sumbergede"
+    },
+    {
+      "code": 3525062003,
+      "name": "Mondoluku"
+    },
+    {
+      "code": 3525062004,
+      "name": "Kedunganyar"
+    },
+    {
+      "code": 3525062005,
+      "name": "Sumberwaru"
+    },
+    {
+      "code": 3525062006,
+      "name": "Kesambenkulon"
+    },
+    {
+      "code": 3525062007,
+      "name": "Sumberame"
+    },
+    {
+      "code": 3525062008,
+      "name": "Sembung"
+    },
+    {
+      "code": 3525062009,
+      "name": "Sooko"
+    },
+    {
+      "code": 3525062010,
+      "name": "Wringinanom"
+    },
+    {
+      "code": 3525062011,
+      "name": "Pedagangan"
+    },
+    {
+      "code": 3525062012,
+      "name": "Lebanisuko"
+    },
+    {
+      "code": 3525062013,
+      "name": "Lebaniwaras"
+    },
+    {
+      "code": 3525062014,
+      "name": "Watestanjung"
+    },
+    {
+      "code": 3525062015,
+      "name": "Sumengko"
+    },
+    {
+      "code": 3525062016,
+      "name": "Pasinanlemahputih"
+    }
+  ]
+}

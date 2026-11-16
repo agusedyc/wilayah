@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9120012001,
+      "name": "Burmeso"
+    },
+    {
+      "code": 9120012002,
+      "name": "Anggreso"
+    },
+    {
+      "code": 9120012003,
+      "name": "Kasonaweja"
+    },
+    {
+      "code": 9120012004,
+      "name": "Metaweja"
+    },
+    {
+      "code": 9120012005,
+      "name": "Namunaweja"
+    },
+    {
+      "code": 9120012006,
+      "name": "Danau Bira"
+    },
+    {
+      "code": 9120012007,
+      "name": "Muru Mare"
+    },
+    {
+      "code": 9120012008,
+      "name": "Kwerba"
+    },
+    {
+      "code": 9120012009,
+      "name": "Sasakwesar"
+    },
+    {
+      "code": 9120012010,
+      "name": "Babija"
+    },
+    {
+      "code": 9120012011,
+      "name": "Marina Valen"
+    }
+  ]
+}

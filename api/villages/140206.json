@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1402061001,
+      "name": "Pangkalan Kasai"
+    },
+    {
+      "code": 1402062002,
+      "name": "Kelesa"
+    },
+    {
+      "code": 1402062003,
+      "name": "Beligan"
+    },
+    {
+      "code": 1402062004,
+      "name": "Seresam"
+    },
+    {
+      "code": 1402062005,
+      "name": "Paya Rumbai"
+    },
+    {
+      "code": 1402062006,
+      "name": "Bukit Meranti"
+    },
+    {
+      "code": 1402062007,
+      "name": "Buluh Rampai"
+    },
+    {
+      "code": 1402062008,
+      "name": "Titian Resak"
+    },
+    {
+      "code": 1402062009,
+      "name": "Petala Bumi"
+    },
+    {
+      "code": 1402062010,
+      "name": "Sibabat"
+    },
+    {
+      "code": 1402062011,
+      "name": "Bandar Padang"
+    }
+  ]
+}

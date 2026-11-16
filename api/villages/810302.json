@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8103022001,
+      "name": "Adaut"
+    },
+    {
+      "code": 8103022002,
+      "name": "Namtabung"
+    },
+    {
+      "code": 8103022003,
+      "name": "Kandar"
+    },
+    {
+      "code": 8103022004,
+      "name": "Lingat"
+    },
+    {
+      "code": 8103022005,
+      "name": "Fursuy"
+    },
+    {
+      "code": 8103022006,
+      "name": "Werain"
+    },
+    {
+      "code": 8103022007,
+      "name": "Eliasa"
+    }
+  ]
+}

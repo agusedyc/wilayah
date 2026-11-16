@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3315182001,
+      "name": "Kebonagung"
+    },
+    {
+      "code": 3315182002,
+      "name": "Tlogorejo"
+    },
+    {
+      "code": 3315182003,
+      "name": "Medani"
+    },
+    {
+      "code": 3315182004,
+      "name": "Sukorejo"
+    },
+    {
+      "code": 3315182005,
+      "name": "Tanggirejo"
+    },
+    {
+      "code": 3315182006,
+      "name": "Mangunsari"
+    },
+    {
+      "code": 3315182007,
+      "name": "Gebangan"
+    },
+    {
+      "code": 3315182008,
+      "name": "Kejawan"
+    },
+    {
+      "code": 3315182009,
+      "name": "Tegowanuwetan"
+    },
+    {
+      "code": 3315182010,
+      "name": "Tegowanukulon"
+    },
+    {
+      "code": 3315182011,
+      "name": "Tajemsari"
+    },
+    {
+      "code": 3315182012,
+      "name": "Karangpasar"
+    },
+    {
+      "code": 3315182013,
+      "name": "Kedungwungu"
+    },
+    {
+      "code": 3315182014,
+      "name": "Pepe"
+    },
+    {
+      "code": 3315182015,
+      "name": "Curug"
+    },
+    {
+      "code": 3315182016,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3315182017,
+      "name": "Gaji"
+    },
+    {
+      "code": 3315182018,
+      "name": "Tunjungharjo"
+    }
+  ]
+}

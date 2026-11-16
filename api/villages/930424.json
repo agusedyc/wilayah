@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9304242001,
+      "name": "Tomor"
+    },
+    {
+      "code": 9304242002,
+      "name": "Munu"
+    },
+    {
+      "code": 9304242003,
+      "name": "Abamu"
+    },
+    {
+      "code": 9304242004,
+      "name": "Tie"
+    },
+    {
+      "code": 9304242005,
+      "name": "Koba"
+    },
+    {
+      "code": 9304242006,
+      "name": "Sagapu"
+    },
+    {
+      "code": 9304242007,
+      "name": "Jifak"
+    },
+    {
+      "code": 9304242008,
+      "name": "Yensuku"
+    }
+  ]
+}

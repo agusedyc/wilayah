@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1605081006,
+      "name": "Marga Tunggal"
+    },
+    {
+      "code": 1605082001,
+      "name": "Giri Yoso"
+    },
+    {
+      "code": 1605082002,
+      "name": "Kertosono"
+    },
+    {
+      "code": 1605082003,
+      "name": "Margoyoso"
+    },
+    {
+      "code": 1605082004,
+      "name": "Bumi Rejo"
+    },
+    {
+      "code": 1605082005,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1605082007,
+      "name": "Marga Tani"
+    },
+    {
+      "code": 1605082008,
+      "name": "Sukowono"
+    },
+    {
+      "code": 1605082010,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1605082012,
+      "name": "Dono Rejo"
+    },
+    {
+      "code": 1605082015,
+      "name": "Ngesti Boga I"
+    },
+    {
+      "code": 1605082016,
+      "name": "Ngesti Boga II"
+    },
+    {
+      "code": 1605082020,
+      "name": "Ngestikarya"
+    }
+  ]
+}

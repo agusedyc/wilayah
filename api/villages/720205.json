@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7202052001,
+      "name": "Taripa"
+    },
+    {
+      "code": 7202052002,
+      "name": "Tiu"
+    },
+    {
+      "code": 7202052003,
+      "name": "Petiro"
+    },
+    {
+      "code": 7202052004,
+      "name": "Pancasila"
+    },
+    {
+      "code": 7202052005,
+      "name": "Olumokunde"
+    },
+    {
+      "code": 7202052006,
+      "name": "Kamba"
+    },
+    {
+      "code": 7202052007,
+      "name": "Didiri"
+    },
+    {
+      "code": 7202052008,
+      "name": "Kelei"
+    },
+    {
+      "code": 7202052009,
+      "name": "Poleganyara"
+    },
+    {
+      "code": 7202052010,
+      "name": "Masewe"
+    },
+    {
+      "code": 7202052011,
+      "name": "Matialemba"
+    },
+    {
+      "code": 7202052012,
+      "name": "Kancuu"
+    },
+    {
+      "code": 7202052013,
+      "name": "Magapu"
+    }
+  ]
+}

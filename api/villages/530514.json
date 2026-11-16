@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5305142001,
+      "name": "Nule"
+    },
+    {
+      "code": 5305142002,
+      "name": "Kaleb"
+    },
+    {
+      "code": 5305142003,
+      "name": "Batu"
+    },
+    {
+      "code": 5305142004,
+      "name": "Kaera"
+    },
+    {
+      "code": 5305142005,
+      "name": "Mawar"
+    },
+    {
+      "code": 5305142006,
+      "name": "Merdeka"
+    },
+    {
+      "code": 5305142007,
+      "name": "Ombay"
+    },
+    {
+      "code": 5305142008,
+      "name": "Lekom"
+    },
+    {
+      "code": 5305142009,
+      "name": "Bungabali"
+    },
+    {
+      "code": 5305142010,
+      "name": "Tereweng"
+    },
+    {
+      "code": 5305142011,
+      "name": "Lalafang"
+    }
+  ]
+}

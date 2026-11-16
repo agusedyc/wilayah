@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202042001,
+      "name": "Bantargadung"
+    },
+    {
+      "code": 3202042002,
+      "name": "Mangunjaya"
+    },
+    {
+      "code": 3202042003,
+      "name": "Bojonggaling"
+    },
+    {
+      "code": 3202042004,
+      "name": "Limusnunggal"
+    },
+    {
+      "code": 3202042005,
+      "name": "Bantargebang"
+    },
+    {
+      "code": 3202042006,
+      "name": "Buanajaya"
+    },
+    {
+      "code": 3202042007,
+      "name": "Boyongsari"
+    }
+  ]
+}

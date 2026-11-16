@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9604082001,
+      "name": "Mega"
+    },
+    {
+      "code": 9604082002,
+      "name": "Selewok"
+    },
+    {
+      "code": 9604082003,
+      "name": "Malaworsai"
+    },
+    {
+      "code": 9604082004,
+      "name": "Kwade"
+    },
+    {
+      "code": 9604082005,
+      "name": "Bonem"
+    },
+    {
+      "code": 9604082006,
+      "name": "Warafor"
+    },
+    {
+      "code": 9604082007,
+      "name": "Warmasi"
+    },
+    {
+      "code": 9604082008,
+      "name": "Warmanen"
+    },
+    {
+      "code": 9604082009,
+      "name": "Namuas"
+    }
+  ]
+}

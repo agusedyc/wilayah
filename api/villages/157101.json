@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1571011001,
+      "name": "Simpang IV Sipin"
+    },
+    {
+      "code": 1571011002,
+      "name": "Buluran Kenali"
+    },
+    {
+      "code": 1571011003,
+      "name": "Teluk Kenali"
+    },
+    {
+      "code": 1571011004,
+      "name": "Telanaipura"
+    },
+    {
+      "code": 1571011010,
+      "name": "Penyengat Rendah"
+    },
+    {
+      "code": 1571011011,
+      "name": "Pematang Sulur"
+    },
+    {
+      "code": 1571011012,
+      "name": "Aur Kenali"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 9508062001,
+      "name": "Mugi"
+    },
+    {
+      "code": 9508062002,
+      "name": "Dondoklema"
+    },
+    {
+      "code": 9508062003,
+      "name": "Dobopem"
+    },
+    {
+      "code": 9508062004,
+      "name": "Paru"
+    },
+    {
+      "code": 9508062005,
+      "name": "Wundui"
+    },
+    {
+      "code": 9508062006,
+      "name": "Kemamburu"
+    },
+    {
+      "code": 9508062007,
+      "name": "Womsit"
+    },
+    {
+      "code": 9508062008,
+      "name": "Delit"
+    },
+    {
+      "code": 9508062009,
+      "name": "Keret Anggoma"
+    },
+    {
+      "code": 9508062010,
+      "name": "Manet"
+    },
+    {
+      "code": 9508062011,
+      "name": "Miri"
+    },
+    {
+      "code": 9508062012,
+      "name": "Yelsengge"
+    },
+    {
+      "code": 9508062013,
+      "name": "Sarit"
+    },
+    {
+      "code": 9508062014,
+      "name": "Unue"
+    },
+    {
+      "code": 9508062015,
+      "name": "Mirikil"
+    },
+    {
+      "code": 9508062016,
+      "name": "Sambua"
+    },
+    {
+      "code": 9508062017,
+      "name": "Gisarok"
+    },
+    {
+      "code": 9508062018,
+      "name": "Isiklak"
+    }
+  ]
+}

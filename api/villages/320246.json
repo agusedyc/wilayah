@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202462001,
+      "name": "Cimanggu"
+    },
+    {
+      "code": 3202462002,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3202462003,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 3202462004,
+      "name": "Karangmekar"
+    },
+    {
+      "code": 3202462005,
+      "name": "Boregahindah"
+    },
+    {
+      "code": 3202462006,
+      "name": "Sukamanah"
+    }
+  ]
+}

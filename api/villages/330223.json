@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3302232001,
+      "name": "Karangsalam Kidul"
+    },
+    {
+      "code": 3302232002,
+      "name": "Kebocoran"
+    },
+    {
+      "code": 3302232003,
+      "name": "Kedungbanteng"
+    },
+    {
+      "code": 3302232004,
+      "name": "Beji"
+    },
+    {
+      "code": 3302232005,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3302232006,
+      "name": "Keniten"
+    },
+    {
+      "code": 3302232007,
+      "name": "Dawuhan Wetan"
+    },
+    {
+      "code": 3302232008,
+      "name": "Dawuhan Kulon"
+    },
+    {
+      "code": 3302232009,
+      "name": "Baseh"
+    },
+    {
+      "code": 3302232010,
+      "name": "Kalisalak"
+    },
+    {
+      "code": 3302232011,
+      "name": "Windujaya"
+    },
+    {
+      "code": 3302232012,
+      "name": "Kalikesur"
+    },
+    {
+      "code": 3302232013,
+      "name": "Kutaliman"
+    },
+    {
+      "code": 3302232014,
+      "name": "Melung"
+    }
+  ]
+}

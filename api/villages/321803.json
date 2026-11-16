@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3218032001,
+      "name": "Kertaharja"
+    },
+    {
+      "code": 3218032002,
+      "name": "Ciparanti"
+    },
+    {
+      "code": 3218032003,
+      "name": "Legokjawa"
+    },
+    {
+      "code": 3218032004,
+      "name": "Masawah"
+    },
+    {
+      "code": 3218032005,
+      "name": "Cimerak"
+    },
+    {
+      "code": 3218032006,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3218032007,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3218032008,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3218032009,
+      "name": "Batumalang"
+    },
+    {
+      "code": 3218032010,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3218032011,
+      "name": "Limusgede"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7311051001,
+      "name": "Palanro"
+    },
+    {
+      "code": 7311051002,
+      "name": "Mallawa"
+    },
+    {
+      "code": 7311051003,
+      "name": "Bojo Baru"
+    },
+    {
+      "code": 7311052004,
+      "name": "Cilellang"
+    },
+    {
+      "code": 7311052005,
+      "name": "Manuba"
+    },
+    {
+      "code": 7311052006,
+      "name": "Nepo"
+    },
+    {
+      "code": 7311052007,
+      "name": "Kupa"
+    },
+    {
+      "code": 7311052008,
+      "name": "Bojo"
+    }
+  ]
+}

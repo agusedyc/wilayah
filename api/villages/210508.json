@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2105082001,
+      "name": "Mubur"
+    },
+    {
+      "code": 2105082002,
+      "name": "Piasan"
+    },
+    {
+      "code": 2105082003,
+      "name": "Bayat"
+    }
+  ]
+}

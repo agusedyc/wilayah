@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9171041004,
+      "name": "Koya Barat"
+    },
+    {
+      "code": 9171041005,
+      "name": "Koya Timur"
+    },
+    {
+      "code": 9171042001,
+      "name": "Skouw Mabo"
+    },
+    {
+      "code": 9171042002,
+      "name": "Skouw Yambe"
+    },
+    {
+      "code": 9171042003,
+      "name": "Skouw Sae"
+    },
+    {
+      "code": 9171042006,
+      "name": "Holtekamp"
+    },
+    {
+      "code": 9171042007,
+      "name": "Koya Tengah"
+    },
+    {
+      "code": 9171042008,
+      "name": "Mosso"
+    }
+  ]
+}

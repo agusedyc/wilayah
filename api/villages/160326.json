@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1603262001,
+      "name": "Muara Niru"
+    },
+    {
+      "code": 1603262002,
+      "name": "Kahuripan Baru"
+    },
+    {
+      "code": 1603262003,
+      "name": "Pangkalan Babat"
+    },
+    {
+      "code": 1603262004,
+      "name": "Gunung Raja"
+    },
+    {
+      "code": 1603262005,
+      "name": "Banuayu"
+    },
+    {
+      "code": 1603262006,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1603262007,
+      "name": "Kuripan Selatan"
+    },
+    {
+      "code": 1603262008,
+      "name": "Batu Raja"
+    },
+    {
+      "code": 1603262009,
+      "name": "Dangku"
+    },
+    {
+      "code": 1603262010,
+      "name": "Siku"
+    }
+  ]
+}

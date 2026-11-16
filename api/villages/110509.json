@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1105092001,
+      "name": "Ranto Panyang Barat"
+    },
+    {
+      "code": 1105092002,
+      "name": "Ranto Panyang Timur"
+    },
+    {
+      "code": 1105092003,
+      "name": "Mesjid Tuha"
+    },
+    {
+      "code": 1105092004,
+      "name": "Ujong Tanoh Darat"
+    },
+    {
+      "code": 1105092005,
+      "name": "Pasi Aceh Tunong"
+    },
+    {
+      "code": 1105092006,
+      "name": "Pasi Aceh Baroh"
+    },
+    {
+      "code": 1105092007,
+      "name": "Buloh"
+    },
+    {
+      "code": 1105092008,
+      "name": "Pulo Teungoh"
+    },
+    {
+      "code": 1105092009,
+      "name": "Paya Baro Ranto P"
+    },
+    {
+      "code": 1105092010,
+      "name": "Ranub Dong"
+    },
+    {
+      "code": 1105092011,
+      "name": "Pasi Pinang"
+    },
+    {
+      "code": 1105092012,
+      "name": "Pasi Mesjid"
+    },
+    {
+      "code": 1105092013,
+      "name": "Meureubo"
+    },
+    {
+      "code": 1105092014,
+      "name": "Langung"
+    },
+    {
+      "code": 1105092015,
+      "name": "Gunong Kleng"
+    },
+    {
+      "code": 1105092016,
+      "name": "Ujong Drien"
+    },
+    {
+      "code": 1105092017,
+      "name": "Peunaga Rayeuk"
+    },
+    {
+      "code": 1105092018,
+      "name": "Peunaga Pasi"
+    },
+    {
+      "code": 1105092019,
+      "name": "Peunaga Cut Ujong"
+    },
+    {
+      "code": 1105092020,
+      "name": "Reudeup"
+    },
+    {
+      "code": 1105092021,
+      "name": "Balee"
+    },
+    {
+      "code": 1105092022,
+      "name": "Paya Peunaga"
+    },
+    {
+      "code": 1105092023,
+      "name": "Ujong Tanjong"
+    },
+    {
+      "code": 1105092024,
+      "name": "Pucok Reudeup"
+    },
+    {
+      "code": 1105092025,
+      "name": "Sumber Batu"
+    },
+    {
+      "code": 1105092026,
+      "name": "Bukit Jaya"
+    }
+  ]
+}

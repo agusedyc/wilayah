@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6307022001,
+      "name": "Murung A."
+    },
+    {
+      "code": 6307022002,
+      "name": "Pagat"
+    },
+    {
+      "code": 6307022003,
+      "name": "Kalibaru"
+    },
+    {
+      "code": 6307022004,
+      "name": "Kahakan"
+    },
+    {
+      "code": 6307022005,
+      "name": "Aluan Sumur"
+    },
+    {
+      "code": 6307022006,
+      "name": "Aluan Besar"
+    },
+    {
+      "code": 6307022007,
+      "name": "Paya Besar"
+    },
+    {
+      "code": 6307022008,
+      "name": "Bakti"
+    },
+    {
+      "code": 6307022009,
+      "name": "Aluan"
+    },
+    {
+      "code": 6307022010,
+      "name": "Aluan Mati"
+    },
+    {
+      "code": 6307022011,
+      "name": "Baru"
+    },
+    {
+      "code": 6307022013,
+      "name": "Pantai Batung"
+    },
+    {
+      "code": 6307022014,
+      "name": "Layuh"
+    },
+    {
+      "code": 6307022015,
+      "name": "Haliau"
+    }
+  ]
+}

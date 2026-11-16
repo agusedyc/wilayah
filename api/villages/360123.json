@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601232001,
+      "name": "Rawasari"
+    },
+    {
+      "code": 3601232002,
+      "name": "Pasireurih"
+    },
+    {
+      "code": 3601232003,
+      "name": "Kaduronyok"
+    },
+    {
+      "code": 3601232004,
+      "name": "Cibarani"
+    },
+    {
+      "code": 3601232005,
+      "name": "Cisereh"
+    },
+    {
+      "code": 3601232006,
+      "name": "Kubangkondang"
+    },
+    {
+      "code": 3601232007,
+      "name": "Kondangjaya"
+    },
+    {
+      "code": 3601232008,
+      "name": "Ciherangjaya"
+    },
+    {
+      "code": 3601232009,
+      "name": "Palembang"
+    }
+  ]
+}

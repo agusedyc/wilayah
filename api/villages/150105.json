@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1501052002,
+      "name": "Koto Baru Semurup"
+    },
+    {
+      "code": 1501052004,
+      "name": "Koto Dua Lama"
+    },
+    {
+      "code": 1501052012,
+      "name": "Koto Di Air"
+    },
+    {
+      "code": 1501052013,
+      "name": "Pasar Semurup"
+    },
+    {
+      "code": 1501052014,
+      "name": "Balai"
+    },
+    {
+      "code": 1501052015,
+      "name": "Koto Majidin Hilir"
+    },
+    {
+      "code": 1501052016,
+      "name": "Pendung Hilir"
+    },
+    {
+      "code": 1501052018,
+      "name": "Pendung Mudik"
+    },
+    {
+      "code": 1501052022,
+      "name": "Air Tenang"
+    },
+    {
+      "code": 1501052024,
+      "name": "Muara Semerah"
+    },
+    {
+      "code": 1501052029,
+      "name": "Koto Majidin Mudik"
+    },
+    {
+      "code": 1501052035,
+      "name": "Muara Semerah Mudik"
+    },
+    {
+      "code": 1501052036,
+      "name": "Sawahan Koto Majidin"
+    },
+    {
+      "code": 1501052037,
+      "name": "Sawahan Jaya"
+    },
+    {
+      "code": 1501052038,
+      "name": "Koto Majidin Di Air"
+    },
+    {
+      "code": 1501052039,
+      "name": "Pendung Tengah"
+    }
+  ]
+}

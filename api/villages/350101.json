@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3501012001,
+      "name": "Widoro"
+    },
+    {
+      "code": 3501012002,
+      "name": "Sawahan"
+    },
+    {
+      "code": 3501012003,
+      "name": "Kalak"
+    },
+    {
+      "code": 3501012004,
+      "name": "Sendang"
+    },
+    {
+      "code": 3501012005,
+      "name": "Klepu"
+    },
+    {
+      "code": 3501012006,
+      "name": "Gedompol"
+    },
+    {
+      "code": 3501012007,
+      "name": "Cemeng"
+    },
+    {
+      "code": 3501012008,
+      "name": "Gendaran"
+    },
+    {
+      "code": 3501012009,
+      "name": "Sukodono"
+    },
+    {
+      "code": 3501012010,
+      "name": "Sekar"
+    },
+    {
+      "code": 3501012011,
+      "name": "Donorojo"
+    },
+    {
+      "code": 3501012012,
+      "name": "Belah"
+    }
+  ]
+}

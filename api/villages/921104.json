@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9211042001,
+      "name": "Isim"
+    },
+    {
+      "code": 9211042002,
+      "name": "Duhugesa"
+    },
+    {
+      "code": 9211042003,
+      "name": "Tubes"
+    },
+    {
+      "code": 9211042004,
+      "name": "Umohousi"
+    },
+    {
+      "code": 9211042005,
+      "name": "Tohosta"
+    },
+    {
+      "code": 9211042006,
+      "name": "Hugomot"
+    },
+    {
+      "code": 9211042007,
+      "name": "Dihisu"
+    },
+    {
+      "code": 9211042008,
+      "name": "Inyuara"
+    },
+    {
+      "code": 9211042009,
+      "name": "Desra"
+    },
+    {
+      "code": 9211042010,
+      "name": "Mindermes"
+    },
+    {
+      "code": 9211042011,
+      "name": "Sibjo"
+    },
+    {
+      "code": 9211042012,
+      "name": "Dibera"
+    }
+  ]
+}

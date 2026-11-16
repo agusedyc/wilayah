@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9605192001,
+      "name": "Mapura"
+    },
+    {
+      "code": 9605192002,
+      "name": "Suwiam"
+    },
+    {
+      "code": 9605192003,
+      "name": "Tomase"
+    },
+    {
+      "code": 9605192004,
+      "name": "Frabo"
+    },
+    {
+      "code": 9605192005,
+      "name": "Karfa"
+    },
+    {
+      "code": 9605192006,
+      "name": "Kona"
+    },
+    {
+      "code": 9605192007,
+      "name": "Kosah"
+    }
+  ]
+}

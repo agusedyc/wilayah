@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9407032001,
+      "name": "Sabisa"
+    },
+    {
+      "code": 9407032002,
+      "name": "Dubandoga"
+    },
+    {
+      "code": 9407032003,
+      "name": "Debasiga I"
+    },
+    {
+      "code": 9407032004,
+      "name": "Debasiga II"
+    },
+    {
+      "code": 9407032005,
+      "name": "Isandoga"
+    },
+    {
+      "code": 9407032006,
+      "name": "Mogalo"
+    },
+    {
+      "code": 9407032007,
+      "name": "Jae"
+    },
+    {
+      "code": 9407032008,
+      "name": "Mbugulo"
+    },
+    {
+      "code": 9407032009,
+      "name": "Hulagupa"
+    }
+  ]
+}

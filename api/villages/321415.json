@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3214152001,
+      "name": "Kutamanah"
+    },
+    {
+      "code": 3214152002,
+      "name": "Kertamanah"
+    },
+    {
+      "code": 3214152003,
+      "name": "Ciririp"
+    },
+    {
+      "code": 3214152004,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3214152005,
+      "name": "Parungbanteng"
+    }
+  ]
+}

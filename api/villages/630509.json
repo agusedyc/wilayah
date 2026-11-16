@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6305092001,
+      "name": "Kalumpang"
+    },
+    {
+      "code": 6305092002,
+      "name": "Banua Padang"
+    },
+    {
+      "code": 6305092003,
+      "name": "Bungur"
+    },
+    {
+      "code": 6305092004,
+      "name": "Banua Padang Hilir"
+    },
+    {
+      "code": 6305092005,
+      "name": "Shabah"
+    },
+    {
+      "code": 6305092006,
+      "name": "Hangui"
+    },
+    {
+      "code": 6305092007,
+      "name": "Rantau Bujur"
+    },
+    {
+      "code": 6305092008,
+      "name": "Purut"
+    },
+    {
+      "code": 6305092009,
+      "name": "Bungur Baru"
+    },
+    {
+      "code": 6305092010,
+      "name": "Timbung"
+    },
+    {
+      "code": 6305092011,
+      "name": "Paring Guling"
+    },
+    {
+      "code": 6305092012,
+      "name": "Linuh"
+    }
+  ]
+}

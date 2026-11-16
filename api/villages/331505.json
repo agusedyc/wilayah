@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3315052001,
+      "name": "Rambat"
+    },
+    {
+      "code": 3315052002,
+      "name": "Kalangbancar"
+    },
+    {
+      "code": 3315052003,
+      "name": "Juworo"
+    },
+    {
+      "code": 3315052004,
+      "name": "Monggot"
+    },
+    {
+      "code": 3315052005,
+      "name": "Ngrandu"
+    },
+    {
+      "code": 3315052006,
+      "name": "Bangsri"
+    },
+    {
+      "code": 3315052007,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3315052008,
+      "name": "Asemrudung"
+    },
+    {
+      "code": 3315052009,
+      "name": "Jambangan"
+    },
+    {
+      "code": 3315052010,
+      "name": "Geyer"
+    },
+    {
+      "code": 3315052011,
+      "name": "Ledokdawan"
+    },
+    {
+      "code": 3315052012,
+      "name": "Sobo"
+    },
+    {
+      "code": 3315052013,
+      "name": "Suru"
+    }
+  ]
+}

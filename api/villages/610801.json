@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 6108012001,
+      "name": "Hilir Kantor"
+    },
+    {
+      "code": 6108012002,
+      "name": "Hilir Tengah"
+    },
+    {
+      "code": 6108012003,
+      "name": "Raja"
+    },
+    {
+      "code": 6108012004,
+      "name": "Mungguk"
+    },
+    {
+      "code": 6108012005,
+      "name": "Amboyo Utara"
+    },
+    {
+      "code": 6108012006,
+      "name": "Sungai Keli"
+    },
+    {
+      "code": 6108012007,
+      "name": "Rasan"
+    },
+    {
+      "code": 6108012008,
+      "name": "Mu'un"
+    },
+    {
+      "code": 6108012009,
+      "name": "Ambarang"
+    },
+    {
+      "code": 6108012010,
+      "name": "Engkadu"
+    },
+    {
+      "code": 6108012011,
+      "name": "Amang"
+    },
+    {
+      "code": 6108012012,
+      "name": "Penyaho Dangku"
+    },
+    {
+      "code": 6108012013,
+      "name": "Antan Rayan"
+    },
+    {
+      "code": 6108012014,
+      "name": "Amboyo Inti"
+    },
+    {
+      "code": 6108012015,
+      "name": "Tebedak"
+    },
+    {
+      "code": 6108012016,
+      "name": "Temiang Sawi"
+    },
+    {
+      "code": 6108012017,
+      "name": "Amboyo Selatan"
+    },
+    {
+      "code": 6108012018,
+      "name": "Sebirang"
+    },
+    {
+      "code": 6108012019,
+      "name": "Pak Mayam"
+    }
+  ]
+}

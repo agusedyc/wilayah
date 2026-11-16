@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1809062001,
+      "name": "Bawang"
+    },
+    {
+      "code": 1809062002,
+      "name": "Banding Agung"
+    },
+    {
+      "code": 1809062003,
+      "name": "Batu Raja"
+    },
+    {
+      "code": 1809062004,
+      "name": "Sukajaya Pidada"
+    },
+    {
+      "code": 1809062005,
+      "name": "Rusaba"
+    },
+    {
+      "code": 1809062006,
+      "name": "Kota Jawa"
+    },
+    {
+      "code": 1809062016,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1809062017,
+      "name": "Pagar Jaya"
+    },
+    {
+      "code": 1809062019,
+      "name": "Pulau Legundi"
+    },
+    {
+      "code": 1809062020,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1809062021,
+      "name": "Bangun Rejo"
+    }
+  ]
+}

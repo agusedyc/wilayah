@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7310091001,
+      "name": "Bonto Matene"
+    },
+    {
+      "code": 7310091002,
+      "name": "Segeri"
+    },
+    {
+      "code": 7310091003,
+      "name": "Bone"
+    },
+    {
+      "code": 7310091004,
+      "name": "Bawasalo"
+    },
+    {
+      "code": 7310092005,
+      "name": "Baring"
+    },
+    {
+      "code": 7310092006,
+      "name": "Parenreng"
+    }
+  ]
+}

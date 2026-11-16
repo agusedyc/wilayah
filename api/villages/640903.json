@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6409032001,
+      "name": "Babulu Darat"
+    },
+    {
+      "code": 6409032002,
+      "name": "Labangka"
+    },
+    {
+      "code": 6409032003,
+      "name": "Babulu Laut"
+    },
+    {
+      "code": 6409032004,
+      "name": "Gunung Intan"
+    },
+    {
+      "code": 6409032005,
+      "name": "Gunung Makmur"
+    },
+    {
+      "code": 6409032006,
+      "name": "Sebakung Jaya"
+    },
+    {
+      "code": 6409032007,
+      "name": "Rawa Mulia"
+    },
+    {
+      "code": 6409032008,
+      "name": "Sri Raharja"
+    },
+    {
+      "code": 6409032009,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6409032010,
+      "name": "Rintik"
+    },
+    {
+      "code": 6409032011,
+      "name": "Gunung Mulia"
+    },
+    {
+      "code": 6409032012,
+      "name": "Labangka Barat"
+    }
+  ]
+}

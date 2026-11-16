@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5206162001,
+      "name": "Paradowane"
+    },
+    {
+      "code": 5206162002,
+      "name": "Paradorato"
+    },
+    {
+      "code": 5206162003,
+      "name": "Kuta"
+    },
+    {
+      "code": 5206162004,
+      "name": "Kanca"
+    },
+    {
+      "code": 5206162005,
+      "name": "Lere"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1802092001,
+      "name": "Teluk Dalem Ilir"
+    },
+    {
+      "code": 1802092002,
+      "name": "Rekso Binangun"
+    },
+    {
+      "code": 1802092003,
+      "name": "Rukti Basuki"
+    },
+    {
+      "code": 1802092004,
+      "name": "Restu Baru"
+    },
+    {
+      "code": 1802092005,
+      "name": "Restu Buana"
+    },
+    {
+      "code": 1802092006,
+      "name": "Reno Basuki"
+    },
+    {
+      "code": 1802092013,
+      "name": "Bina Karya Putra"
+    },
+    {
+      "code": 1802092014,
+      "name": "Bina Karya Buana"
+    },
+    {
+      "code": 1802092015,
+      "name": "Bina Karya mandiri"
+    }
+  ]
+}

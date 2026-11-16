@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8272072001,
+      "name": "Maidi"
+    },
+    {
+      "code": 8272072002,
+      "name": "Lifofa"
+    },
+    {
+      "code": 8272072003,
+      "name": "Hager"
+    },
+    {
+      "code": 8272072004,
+      "name": "Wama"
+    },
+    {
+      "code": 8272072005,
+      "name": "Selamalofo"
+    },
+    {
+      "code": 8272072006,
+      "name": "Tagalaya"
+    },
+    {
+      "code": 8272072007,
+      "name": "Nuku"
+    }
+  ]
+}

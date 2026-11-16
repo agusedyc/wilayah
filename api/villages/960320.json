@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603202001,
+      "name": "Waibon"
+    },
+    {
+      "code": 9603202002,
+      "name": "Solol"
+    },
+    {
+      "code": 9603202003,
+      "name": "Kaliam"
+    },
+    {
+      "code": 9603202004,
+      "name": "Kalwal"
+    }
+  ]
+}

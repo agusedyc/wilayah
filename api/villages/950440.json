@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504402001,
+      "name": "Peyola"
+    },
+    {
+      "code": 9504402002,
+      "name": "Kogotime"
+    },
+    {
+      "code": 9504402003,
+      "name": "Gabunam"
+    },
+    {
+      "code": 9504402004,
+      "name": "Gulak"
+    },
+    {
+      "code": 9504402005,
+      "name": "Melaga"
+    },
+    {
+      "code": 9504402006,
+      "name": "Ekoni"
+    },
+    {
+      "code": 9504402007,
+      "name": "Minggen"
+    },
+    {
+      "code": 9504402008,
+      "name": "Kandimbaga"
+    },
+    {
+      "code": 9504402009,
+      "name": "Kinebe"
+    },
+    {
+      "code": 9504402010,
+      "name": "Belela"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3206182001,
+      "name": "Mandalahayu"
+    },
+    {
+      "code": 3206182002,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3206182003,
+      "name": "Kawitan"
+    },
+    {
+      "code": 3206182004,
+      "name": "Mandalawangi"
+    },
+    {
+      "code": 3206182005,
+      "name": "Karyawangi"
+    },
+    {
+      "code": 3206182006,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3206182007,
+      "name": "Mandalaguna"
+    },
+    {
+      "code": 3206182008,
+      "name": "Karyamandala"
+    },
+    {
+      "code": 3206182009,
+      "name": "Banjarwaringin"
+    }
+  ]
+}

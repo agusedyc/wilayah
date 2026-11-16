@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1206172001,
+      "name": "Sukatendel"
+    },
+    {
+      "code": 1206172002,
+      "name": "Mardingding"
+    },
+    {
+      "code": 1206172003,
+      "name": "Kutagaluh"
+    },
+    {
+      "code": 1206172004,
+      "name": "Kutambaru"
+    },
+    {
+      "code": 1206172005,
+      "name": "Jandimeriah"
+    },
+    {
+      "code": 1206172006,
+      "name": "Tiganderket"
+    },
+    {
+      "code": 1206172007,
+      "name": "Tanjung Pulo"
+    },
+    {
+      "code": 1206172008,
+      "name": "Tanjung Merawa"
+    },
+    {
+      "code": 1206172009,
+      "name": "Perbaji"
+    },
+    {
+      "code": 1206172010,
+      "name": "Temburun"
+    },
+    {
+      "code": 1206172011,
+      "name": "Kutakepar"
+    },
+    {
+      "code": 1206172012,
+      "name": "Penampen"
+    },
+    {
+      "code": 1206172013,
+      "name": "Tanjung Mbelang"
+    },
+    {
+      "code": 1206172014,
+      "name": "Narigunung I"
+    },
+    {
+      "code": 1206172015,
+      "name": "Narigunung II"
+    },
+    {
+      "code": 1206172016,
+      "name": "Gunung Merlawan"
+    },
+    {
+      "code": 1206172017,
+      "name": "Susuk"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6302152001,
+      "name": "Buluh Kuning"
+    },
+    {
+      "code": 6302152002,
+      "name": "Gendang Timburu"
+    },
+    {
+      "code": 6302152004,
+      "name": "Manunggul Lama"
+    },
+    {
+      "code": 6302152006,
+      "name": "Rantau Buda"
+    },
+    {
+      "code": 6302152007,
+      "name": "Manunggul Baru"
+    },
+    {
+      "code": 6302152008,
+      "name": "Terombong Sari"
+    },
+    {
+      "code": 6302152009,
+      "name": "Rantau Jaya"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9501222001,
+      "name": "Korma"
+    },
+    {
+      "code": 9501222002,
+      "name": "Tulem"
+    },
+    {
+      "code": 9501222003,
+      "name": "Alula"
+    },
+    {
+      "code": 9501222004,
+      "name": "Arogolik"
+    },
+    {
+      "code": 9501222005,
+      "name": "Wiligima"
+    }
+  ]
+}

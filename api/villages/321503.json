@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3215032001,
+      "name": "Telukjambe"
+    },
+    {
+      "code": 3215032002,
+      "name": "Sukaharja"
+    },
+    {
+      "code": 3215032003,
+      "name": "Sirnabaya"
+    },
+    {
+      "code": 3215032004,
+      "name": "Puseurjaya"
+    },
+    {
+      "code": 3215032005,
+      "name": "Sukaluyu"
+    },
+    {
+      "code": 3215032006,
+      "name": "Wadas"
+    },
+    {
+      "code": 3215032011,
+      "name": "Purwadana"
+    },
+    {
+      "code": 3215032012,
+      "name": "Sukamakmur"
+    },
+    {
+      "code": 3215032019,
+      "name": "Pinayungan"
+    }
+  ]
+}

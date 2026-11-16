@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1611062001,
+      "name": "Karang Are"
+    },
+    {
+      "code": 1611062002,
+      "name": "Padang Titiran"
+    },
+    {
+      "code": 1611062003,
+      "name": "Kembahang Lama"
+    },
+    {
+      "code": 1611062004,
+      "name": "Pasar Tl. Padang"
+    },
+    {
+      "code": 1611062005,
+      "name": "Macang Manis"
+    },
+    {
+      "code": 1611062006,
+      "name": "Lubuk Buntak"
+    },
+    {
+      "code": 1611062007,
+      "name": "Talang Durian"
+    },
+    {
+      "code": 1611062008,
+      "name": "Talang Padang"
+    },
+    {
+      "code": 1611062009,
+      "name": "Kembahang Baru"
+    },
+    {
+      "code": 1611062010,
+      "name": "Canggu"
+    },
+    {
+      "code": 1611062011,
+      "name": "Remantai"
+    },
+    {
+      "code": 1611062012,
+      "name": "Ulak Dabuk"
+    },
+    {
+      "code": 1611062013,
+      "name": "Lampar Baru"
+    }
+  ]
+}

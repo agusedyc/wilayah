@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6107052001,
+      "name": "Seluas"
+    },
+    {
+      "code": 6107052002,
+      "name": "Bengkawan"
+    },
+    {
+      "code": 6107052003,
+      "name": "Sahan"
+    },
+    {
+      "code": 6107052004,
+      "name": "Mayak"
+    },
+    {
+      "code": 6107052005,
+      "name": "Kalon"
+    },
+    {
+      "code": 6107052006,
+      "name": "Sentangau Jaya"
+    }
+  ]
+}

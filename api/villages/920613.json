@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9206132001,
+      "name": "Horna"
+    },
+    {
+      "code": 9206132002,
+      "name": "Cumnaji"
+    },
+    {
+      "code": 9206132003,
+      "name": "Menci"
+    },
+    {
+      "code": 9206132004,
+      "name": "Sir"
+    },
+    {
+      "code": 9206132005,
+      "name": "Huss"
+    },
+    {
+      "code": 9206132006,
+      "name": "Ugdohop"
+    }
+  ]
+}

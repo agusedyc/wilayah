@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7207061018,
+      "name": "Bulagi I"
+    },
+    {
+      "code": 7207062014,
+      "name": "Tolo"
+    },
+    {
+      "code": 7207062015,
+      "name": "Lalandai"
+    },
+    {
+      "code": 7207062016,
+      "name": "Montomisan"
+    },
+    {
+      "code": 7207062017,
+      "name": "Sosom"
+    },
+    {
+      "code": 7207062019,
+      "name": "Bulagi II"
+    },
+    {
+      "code": 7207062020,
+      "name": "Boloy"
+    },
+    {
+      "code": 7207062021,
+      "name": "Meselesek"
+    },
+    {
+      "code": 7207062022,
+      "name": "Oluno"
+    },
+    {
+      "code": 7207062023,
+      "name": "Sumondung"
+    },
+    {
+      "code": 7207062024,
+      "name": "Pelingseasa"
+    },
+    {
+      "code": 7207062025,
+      "name": "Komba-komba"
+    },
+    {
+      "code": 7207062035,
+      "name": "Alul"
+    },
+    {
+      "code": 7207062038,
+      "name": "Toolon"
+    },
+    {
+      "code": 7207062039,
+      "name": "Kambal"
+    },
+    {
+      "code": 7207062040,
+      "name": "Kayubet"
+    }
+  ]
+}

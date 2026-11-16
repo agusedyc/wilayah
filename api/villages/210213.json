@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 2102132001,
+      "name": "Parit"
+    },
+    {
+      "code": 2102132002,
+      "name": "Tulang"
+    },
+    {
+      "code": 2102132003,
+      "name": "Selat Mendaun"
+    }
+  ]
+}

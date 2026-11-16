@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5303051001,
+      "name": "Kefamenanu Utara"
+    },
+    {
+      "code": 5303051002,
+      "name": "Aplasi"
+    },
+    {
+      "code": 5303051003,
+      "name": "Kefamenanu Tengah"
+    },
+    {
+      "code": 5303051004,
+      "name": "Bansone"
+    },
+    {
+      "code": 5303051005,
+      "name": "Benpasi"
+    },
+    {
+      "code": 5303051006,
+      "name": "Kefamenanu Selatan"
+    },
+    {
+      "code": 5303051007,
+      "name": "Tubuhue"
+    },
+    {
+      "code": 5303051008,
+      "name": "Maubeli"
+    },
+    {
+      "code": 5303051009,
+      "name": "Sasi"
+    }
+  ]
+}

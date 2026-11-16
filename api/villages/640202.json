@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6402022001,
+      "name": "Jonggon Desa"
+    },
+    {
+      "code": 6402022002,
+      "name": "Sungai Payang"
+    },
+    {
+      "code": 6402022003,
+      "name": "Jembayan"
+    },
+    {
+      "code": 6402022004,
+      "name": "Loa Kulu Kota"
+    },
+    {
+      "code": 6402022005,
+      "name": "Loh Sumber"
+    },
+    {
+      "code": 6402022006,
+      "name": "Ponoragan"
+    },
+    {
+      "code": 6402022007,
+      "name": "Rempanga"
+    },
+    {
+      "code": 6402022008,
+      "name": "Margahayu"
+    },
+    {
+      "code": 6402022009,
+      "name": "Jonggon Jaya"
+    },
+    {
+      "code": 6402022010,
+      "name": "Lung Anai"
+    },
+    {
+      "code": 6402022011,
+      "name": "Jembayan Tengah"
+    },
+    {
+      "code": 6402022012,
+      "name": "Jembayan Dalam"
+    },
+    {
+      "code": 6402022013,
+      "name": "Sepakat"
+    },
+    {
+      "code": 6402022014,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6402022015,
+      "name": "Jongkang"
+    }
+  ]
+}

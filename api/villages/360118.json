@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3601182001,
+      "name": "Cimanuk"
+    },
+    {
+      "code": 3601182002,
+      "name": "Batubantar"
+    },
+    {
+      "code": 3601182003,
+      "name": "Kadubungbang"
+    },
+    {
+      "code": 3601182004,
+      "name": "Kupahandap"
+    },
+    {
+      "code": 3601182005,
+      "name": "Dalembalar"
+    },
+    {
+      "code": 3601182006,
+      "name": "Kadumadang"
+    },
+    {
+      "code": 3601182007,
+      "name": "Rocek"
+    },
+    {
+      "code": 3601182008,
+      "name": "Kadudodol"
+    },
+    {
+      "code": 3601182010,
+      "name": "Gunungdatar"
+    },
+    {
+      "code": 3601182013,
+      "name": "Sekong"
+    },
+    {
+      "code": 3601182015,
+      "name": "Gunungcupu"
+    }
+  ]
+}

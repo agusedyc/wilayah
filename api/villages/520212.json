@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5202122001,
+      "name": "Lantan"
+    },
+    {
+      "code": 5202122002,
+      "name": "Setiling"
+    },
+    {
+      "code": 5202122003,
+      "name": "Tanak Beak"
+    },
+    {
+      "code": 5202122004,
+      "name": "Aik Bukaq"
+    },
+    {
+      "code": 5202122005,
+      "name": "Teratak"
+    },
+    {
+      "code": 5202122006,
+      "name": "Aik Berik"
+    },
+    {
+      "code": 5202122007,
+      "name": "Mas-mas"
+    },
+    {
+      "code": 5202122008,
+      "name": "Karang Sidemen"
+    }
+  ]
+}

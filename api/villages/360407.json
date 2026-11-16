@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3604072001,
+      "name": "Bojonegara"
+    },
+    {
+      "code": 3604072002,
+      "name": "Mangkunegara"
+    },
+    {
+      "code": 3604072003,
+      "name": "Wanakarta"
+    },
+    {
+      "code": 3604072004,
+      "name": "Karang Kepuh"
+    },
+    {
+      "code": 3604072005,
+      "name": "Lambangsari"
+    },
+    {
+      "code": 3604072006,
+      "name": "Kertasana"
+    },
+    {
+      "code": 3604072007,
+      "name": "Margagiri"
+    },
+    {
+      "code": 3604072008,
+      "name": "Ukirsari"
+    },
+    {
+      "code": 3604072009,
+      "name": "Pakuncen"
+    },
+    {
+      "code": 3604072010,
+      "name": "Pangarengan"
+    },
+    {
+      "code": 3604072011,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

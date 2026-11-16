@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3211202001,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3211202002,
+      "name": "Cipanas"
+    },
+    {
+      "code": 3211202003,
+      "name": "Gunturmekar"
+    },
+    {
+      "code": 3211202004,
+      "name": "Mulyamekar"
+    },
+    {
+      "code": 3211202005,
+      "name": "Banyuasih"
+    },
+    {
+      "code": 3211202006,
+      "name": "Kertamekar"
+    },
+    {
+      "code": 3211202007,
+      "name": "Kertaharja"
+    },
+    {
+      "code": 3211202008,
+      "name": "Cigentur"
+    },
+    {
+      "code": 3211202009,
+      "name": "Tanjungmekar"
+    },
+    {
+      "code": 3211202010,
+      "name": "Tanjungmulya"
+    },
+    {
+      "code": 3211202011,
+      "name": "Boros"
+    },
+    {
+      "code": 3211202012,
+      "name": "Awilega"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7403302001,
+      "name": "Kafo Foo"
+    },
+    {
+      "code": 7403302002,
+      "name": "Lembo"
+    },
+    {
+      "code": 7403302003,
+      "name": "Kilambibito"
+    },
+    {
+      "code": 7403302004,
+      "name": "Bahutara"
+    },
+    {
+      "code": 7403302005,
+      "name": "Kontu Kowuna"
+    },
+    {
+      "code": 7403302006,
+      "name": "Lahorio"
+    }
+  ]
+}

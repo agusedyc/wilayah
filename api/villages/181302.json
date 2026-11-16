@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1813022001,
+      "name": "Negeri Ratu Tenumbang"
+    },
+    {
+      "code": 1813022002,
+      "name": "Sukarame"
+    },
+    {
+      "code": 1813022003,
+      "name": "Pelita Jaya"
+    },
+    {
+      "code": 1813022004,
+      "name": "Sumur Jaya"
+    },
+    {
+      "code": 1813022005,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 1813022006,
+      "name": "Pagar Dalam"
+    },
+    {
+      "code": 1813022007,
+      "name": "Tanjung Setia"
+    },
+    {
+      "code": 1813022008,
+      "name": "Biha"
+    },
+    {
+      "code": 1813022009,
+      "name": "Way Jambu"
+    },
+    {
+      "code": 1813022010,
+      "name": "Marang"
+    },
+    {
+      "code": 1813022011,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1813022012,
+      "name": "Bangun Negara"
+    },
+    {
+      "code": 1813022013,
+      "name": "Ulok Manik"
+    },
+    {
+      "code": 1813022014,
+      "name": "Paku Negara"
+    },
+    {
+      "code": 1813022015,
+      "name": "Tulung Bamban"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1809092001,
+      "name": "Penengahan"
+    },
+    {
+      "code": 1809092002,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1809092003,
+      "name": "Padang Cermin"
+    },
+    {
+      "code": 1809092004,
+      "name": "Bayas Jaya"
+    },
+    {
+      "code": 1809092005,
+      "name": "Tanjung Kerta"
+    },
+    {
+      "code": 1809092006,
+      "name": "Kota Jawa"
+    },
+    {
+      "code": 1809092007,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1809092008,
+      "name": "Mada Jaya"
+    },
+    {
+      "code": 1809092009,
+      "name": "Kubu Batu"
+    },
+    {
+      "code": 1809092010,
+      "name": "Tanjung Rejo"
+    }
+  ]
+}

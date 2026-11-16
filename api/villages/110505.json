@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Showing 32 villages",
+  "data": [
+    {
+      "code": 1105052001,
+      "name": "Alue Raya"
+    },
+    {
+      "code": 1105052002,
+      "name": "Cot Darat"
+    },
+    {
+      "code": 1105052003,
+      "name": "Cot Pluh"
+    },
+    {
+      "code": 1105052004,
+      "name": "Cot Seumeureung"
+    },
+    {
+      "code": 1105052005,
+      "name": "Cot Mesjid"
+    },
+    {
+      "code": 1105052006,
+      "name": "Cot Lampise"
+    },
+    {
+      "code": 1105052007,
+      "name": "Cot Seulamat"
+    },
+    {
+      "code": 1105052008,
+      "name": "Cot Amun"
+    },
+    {
+      "code": 1105052009,
+      "name": "Deuah"
+    },
+    {
+      "code": 1105052010,
+      "name": "Gampong Teungoh"
+    },
+    {
+      "code": 1105052011,
+      "name": "Gampong Ladang"
+    },
+    {
+      "code": 1105052012,
+      "name": "Gampong Cot"
+    },
+    {
+      "code": 1105052013,
+      "name": "Keureuseng"
+    },
+    {
+      "code": 1105052014,
+      "name": "Krueng Tinggai"
+    },
+    {
+      "code": 1105052015,
+      "name": "Kuala Bubon"
+    },
+    {
+      "code": 1105052016,
+      "name": "Leubok"
+    },
+    {
+      "code": 1105052017,
+      "name": "Lhok Bubon"
+    },
+    {
+      "code": 1105052018,
+      "name": "Leukeun"
+    },
+    {
+      "code": 1105052019,
+      "name": "Mesjid baro"
+    },
+    {
+      "code": 1105052020,
+      "name": "Paya Lumpat"
+    },
+    {
+      "code": 1105052021,
+      "name": "Pinem"
+    },
+    {
+      "code": 1105052022,
+      "name": "Pange"
+    },
+    {
+      "code": 1105052023,
+      "name": "Pucok Lueng"
+    },
+    {
+      "code": 1105052024,
+      "name": "Rangkileh"
+    },
+    {
+      "code": 1105052025,
+      "name": "Reusak"
+    },
+    {
+      "code": 1105052026,
+      "name": "Suak Pandan"
+    },
+    {
+      "code": 1105052027,
+      "name": "Suak Seuke"
+    },
+    {
+      "code": 1105052028,
+      "name": "Suak Pante Breuh"
+    },
+    {
+      "code": 1105052029,
+      "name": "Suak Geudeubang"
+    },
+    {
+      "code": 1105052030,
+      "name": "Suak Seumaseh"
+    },
+    {
+      "code": 1105052031,
+      "name": "Suak Timah"
+    },
+    {
+      "code": 1105052032,
+      "name": "Ujong Nga"
+    }
+  ]
+}

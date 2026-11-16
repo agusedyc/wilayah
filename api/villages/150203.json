@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1502032004,
+      "name": "Durian Rambun"
+    },
+    {
+      "code": 1502032007,
+      "name": "Lubuk Birah"
+    },
+    {
+      "code": 1502032008,
+      "name": "Lubuk Beringin"
+    },
+    {
+      "code": 1502032009,
+      "name": "Rantau Macang"
+    },
+    {
+      "code": 1502032010,
+      "name": "Peradun Temeras"
+    },
+    {
+      "code": 1502032011,
+      "name": "Teluk Sikumbang"
+    },
+    {
+      "code": 1502032012,
+      "name": "Muara Siau"
+    },
+    {
+      "code": 1502032013,
+      "name": "Tiaro"
+    },
+    {
+      "code": 1502032015,
+      "name": "Air Lago"
+    },
+    {
+      "code": 1502032016,
+      "name": "Badak Tekurung"
+    },
+    {
+      "code": 1502032017,
+      "name": "Rantau Bidaro"
+    },
+    {
+      "code": 1502032018,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1502032021,
+      "name": "Pulau Raman"
+    },
+    {
+      "code": 1502032024,
+      "name": "Pasar Muara Siau"
+    },
+    {
+      "code": 1502032027,
+      "name": "Sepantai Renah"
+    },
+    {
+      "code": 1502032028,
+      "name": "Sungai Ulas"
+    },
+    {
+      "code": 1502032029,
+      "name": "Rantau Bayur"
+    }
+  ]
+}

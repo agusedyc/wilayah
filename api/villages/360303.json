@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3603031001,
+      "name": "Tigaraksa"
+    },
+    {
+      "code": 3603031007,
+      "name": "Kadu Agung"
+    },
+    {
+      "code": 3603032002,
+      "name": "Pasir Bolang"
+    },
+    {
+      "code": 3603032003,
+      "name": "Matagara"
+    },
+    {
+      "code": 3603032004,
+      "name": "Pasir Nangka"
+    },
+    {
+      "code": 3603032005,
+      "name": "Pete"
+    },
+    {
+      "code": 3603032006,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3603032008,
+      "name": "Pematang"
+    },
+    {
+      "code": 3603032009,
+      "name": "Cisereh"
+    },
+    {
+      "code": 3603032010,
+      "name": "Margasari"
+    },
+    {
+      "code": 3603032011,
+      "name": "Cileles"
+    },
+    {
+      "code": 3603032012,
+      "name": "Sodong"
+    },
+    {
+      "code": 3603032013,
+      "name": "Tapos"
+    },
+    {
+      "code": 3603032014,
+      "name": "Bantar Panjang"
+    }
+  ]
+}

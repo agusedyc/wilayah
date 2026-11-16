@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7271061001,
+      "name": "Nunu"
+    },
+    {
+      "code": 7271061002,
+      "name": "Palupi"
+    },
+    {
+      "code": 7271061003,
+      "name": "Tawanjuka"
+    },
+    {
+      "code": 7271061004,
+      "name": "Pengawu"
+    },
+    {
+      "code": 7271061005,
+      "name": "Duyu"
+    },
+    {
+      "code": 7271061006,
+      "name": "Boyaoge"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3511172001,
+      "name": "Andungsari"
+    },
+    {
+      "code": 3511172002,
+      "name": "Ardisaeng"
+    },
+    {
+      "code": 3511172003,
+      "name": "Kupang"
+    },
+    {
+      "code": 3511172004,
+      "name": "Gadingsari"
+    },
+    {
+      "code": 3511172005,
+      "name": "Pakem"
+    },
+    {
+      "code": 3511172006,
+      "name": "Sumberdumpyong"
+    },
+    {
+      "code": 3511172007,
+      "name": "Patemon"
+    },
+    {
+      "code": 3511172008,
+      "name": "Petung"
+    }
+  ]
+}

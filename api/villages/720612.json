@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7206122001,
+      "name": "Sampeantaba"
+    },
+    {
+      "code": 7206122002,
+      "name": "Emea"
+    },
+    {
+      "code": 7206122006,
+      "name": "Moahino"
+    },
+    {
+      "code": 7206122007,
+      "name": "Solonsa"
+    },
+    {
+      "code": 7206122008,
+      "name": "Lantula Jaya"
+    },
+    {
+      "code": 7206122009,
+      "name": "Puntari Makmur"
+    },
+    {
+      "code": 7206122010,
+      "name": "Bumi Harapan"
+    },
+    {
+      "code": 7206122011,
+      "name": "Solonsa Jaya"
+    },
+    {
+      "code": 7206122012,
+      "name": "Ungkaya"
+    }
+  ]
+}

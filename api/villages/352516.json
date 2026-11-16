@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 3525161001,
+      "name": "Ngipik"
+    },
+    {
+      "code": 3525161002,
+      "name": "Tlogo Pojok"
+    },
+    {
+      "code": 3525161003,
+      "name": "Karang Turi"
+    },
+    {
+      "code": 3525161004,
+      "name": "Tlogo Patut"
+    },
+    {
+      "code": 3525161005,
+      "name": "Sukorame"
+    },
+    {
+      "code": 3525161006,
+      "name": "Lumpur"
+    },
+    {
+      "code": 3525161007,
+      "name": "Karang Poh"
+    },
+    {
+      "code": 3525161008,
+      "name": "Trate"
+    },
+    {
+      "code": 3525161010,
+      "name": "Sido Kumpul"
+    },
+    {
+      "code": 3525161011,
+      "name": "Bedilan"
+    },
+    {
+      "code": 3525161012,
+      "name": "Sukodono"
+    },
+    {
+      "code": 3525161013,
+      "name": "Kemuteran"
+    },
+    {
+      "code": 3525161014,
+      "name": "Pekelingan"
+    },
+    {
+      "code": 3525161015,
+      "name": "Kroman"
+    },
+    {
+      "code": 3525161016,
+      "name": "Kebungson"
+    },
+    {
+      "code": 3525161017,
+      "name": "Pekauman"
+    },
+    {
+      "code": 3525162009,
+      "name": "Tlogobendung"
+    },
+    {
+      "code": 3525162018,
+      "name": "Gapuro Sukolilo"
+    },
+    {
+      "code": 3525162019,
+      "name": "Pulopancikan"
+    },
+    {
+      "code": 3525162020,
+      "name": "Kramatinggil"
+    },
+    {
+      "code": 3525162021,
+      "name": "Sidorukun"
+    }
+  ]
+}

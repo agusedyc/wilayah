@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9301112001,
+      "name": "Harapan Makmur"
+    },
+    {
+      "code": 9301112002,
+      "name": "Kurik"
+    },
+    {
+      "code": 9301112003,
+      "name": "Telaga Sari"
+    },
+    {
+      "code": 9301112004,
+      "name": "Sumber Rejeki"
+    },
+    {
+      "code": 9301112005,
+      "name": "Jaya Makmur"
+    },
+    {
+      "code": 9301112006,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 9301112007,
+      "name": "Kaliki"
+    },
+    {
+      "code": 9301112008,
+      "name": "Ivimahad"
+    },
+    {
+      "code": 9301112009,
+      "name": "Salor Indah"
+    },
+    {
+      "code": 9301112010,
+      "name": "Candra Jaya"
+    },
+    {
+      "code": 9301112011,
+      "name": "Wonorejo"
+    },
+    {
+      "code": 9301112012,
+      "name": "Anum Bob"
+    },
+    {
+      "code": 9301112013,
+      "name": "Wapeko"
+    }
+  ]
+}

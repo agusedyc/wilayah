@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3205212001,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3205212002,
+      "name": "Cintadamai"
+    },
+    {
+      "code": 3205212003,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3205212004,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3205212005,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3205212006,
+      "name": "Padamukti"
+    },
+    {
+      "code": 3205212007,
+      "name": "Sukalilah"
+    }
+  ]
+}

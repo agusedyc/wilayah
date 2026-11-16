@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1303102001,
+      "name": "Batu Manjulur"
+    },
+    {
+      "code": 1303102002,
+      "name": "Pamuatan"
+    },
+    {
+      "code": 1303102003,
+      "name": "Padang Sibusuk"
+    },
+    {
+      "code": 1303102004,
+      "name": "Desa Kampung Baru"
+    }
+  ]
+}

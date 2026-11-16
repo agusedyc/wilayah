@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5271031004,
+      "name": "Cakranegara Selatan"
+    },
+    {
+      "code": 5271031005,
+      "name": "Cakranegara Barat"
+    },
+    {
+      "code": 5271031006,
+      "name": "Cakranegara Timur"
+    },
+    {
+      "code": 5271031007,
+      "name": "Cakranegara Utara"
+    },
+    {
+      "code": 5271031009,
+      "name": "Sayang-sayang"
+    },
+    {
+      "code": 5271031010,
+      "name": "Cakranegara Selatan Baru"
+    },
+    {
+      "code": 5271031011,
+      "name": "Sapta Marga"
+    },
+    {
+      "code": 5271031012,
+      "name": "Cilinaya"
+    },
+    {
+      "code": 5271031013,
+      "name": "Mayura"
+    },
+    {
+      "code": 5271031014,
+      "name": "Karang Taliwang"
+    }
+  ]
+}

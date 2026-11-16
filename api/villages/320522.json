@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3205222001,
+      "name": "Cikajang"
+    },
+    {
+      "code": 3205222002,
+      "name": "Simpang"
+    },
+    {
+      "code": 3205222003,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3205222004,
+      "name": "Girijaya"
+    },
+    {
+      "code": 3205222005,
+      "name": "Giriawas"
+    },
+    {
+      "code": 3205222006,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3205222007,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3205222008,
+      "name": "Cikandang"
+    },
+    {
+      "code": 3205222009,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3205222010,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3205222011,
+      "name": "Cipangramatan"
+    },
+    {
+      "code": 3205222012,
+      "name": "Karamatwangi"
+    }
+  ]
+}

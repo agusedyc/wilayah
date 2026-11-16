@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7305112001,
+      "name": "Ko'mara"
+    },
+    {
+      "code": 7305112002,
+      "name": "Kale Ko'mara"
+    },
+    {
+      "code": 7305112003,
+      "name": "Barugaya"
+    },
+    {
+      "code": 7305112004,
+      "name": "Parang Baddo"
+    },
+    {
+      "code": 7305112005,
+      "name": "Massamaturu"
+    },
+    {
+      "code": 7305112006,
+      "name": "Timbuseng"
+    },
+    {
+      "code": 7305112007,
+      "name": "Balangtanaya"
+    },
+    {
+      "code": 7305112008,
+      "name": "Kampung Beru"
+    }
+  ]
+}

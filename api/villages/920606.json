@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206062001,
+      "name": "Moyeba"
+    },
+    {
+      "code": 9206062004,
+      "name": "Merestim"
+    },
+    {
+      "code": 9206062005,
+      "name": "Inofina"
+    },
+    {
+      "code": 9206062006,
+      "name": "Mosum"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7207162001,
+      "name": "Patukuki"
+    },
+    {
+      "code": 7207162002,
+      "name": "Balombong"
+    },
+    {
+      "code": 7207162003,
+      "name": "Kolak"
+    },
+    {
+      "code": 7207162004,
+      "name": "Koyobunga"
+    },
+    {
+      "code": 7207162005,
+      "name": "Alakasing"
+    },
+    {
+      "code": 7207162006,
+      "name": "Tombos"
+    },
+    {
+      "code": 7207162007,
+      "name": "Luk"
+    },
+    {
+      "code": 7207162008,
+      "name": "Labibi"
+    },
+    {
+      "code": 7207162009,
+      "name": "Popisi"
+    },
+    {
+      "code": 7207162010,
+      "name": "Tolulos"
+    },
+    {
+      "code": 7207162011,
+      "name": "Tunggaling"
+    }
+  ]
+}

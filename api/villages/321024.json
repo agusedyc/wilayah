@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3210242001,
+      "name": "Jatisawit"
+    },
+    {
+      "code": 3210242002,
+      "name": "Leuwikidang"
+    },
+    {
+      "code": 3210242003,
+      "name": "Ranji Kulon"
+    },
+    {
+      "code": 3210242004,
+      "name": "Ranji Wetan"
+    },
+    {
+      "code": 3210242005,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3210242006,
+      "name": "Kasokandel"
+    },
+    {
+      "code": 3210242007,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3210242008,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3210242009,
+      "name": "Wanajaya"
+    },
+    {
+      "code": 3210242010,
+      "name": "Gandasari"
+    }
+  ]
+}

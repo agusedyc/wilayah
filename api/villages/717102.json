@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7171021001,
+      "name": "Bitung Karangria"
+    },
+    {
+      "code": 7171021002,
+      "name": "Tuminting"
+    },
+    {
+      "code": 7171021003,
+      "name": "Tumumpa Satu"
+    },
+    {
+      "code": 7171021004,
+      "name": "Maasing"
+    },
+    {
+      "code": 7171021005,
+      "name": "Sindulang Satu"
+    },
+    {
+      "code": 7171021006,
+      "name": "Sindulang Dua"
+    },
+    {
+      "code": 7171021007,
+      "name": "Islam"
+    },
+    {
+      "code": 7171021008,
+      "name": "Tumumpa Dua"
+    },
+    {
+      "code": 7171021009,
+      "name": "Sumompo"
+    },
+    {
+      "code": 7171021010,
+      "name": "Mahawu"
+    }
+  ]
+}

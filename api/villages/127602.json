@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1276021004,
+      "name": "Rantau Laban"
+    },
+    {
+      "code": 1276021007,
+      "name": "Karya Jaya"
+    },
+    {
+      "code": 1276021009,
+      "name": "Lalang"
+    },
+    {
+      "code": 1276021010,
+      "name": "Tanjung Marulak"
+    },
+    {
+      "code": 1276021011,
+      "name": "Sri Padang"
+    },
+    {
+      "code": 1276021012,
+      "name": "Tanjung Marulak Hilir"
+    },
+    {
+      "code": 1276021013,
+      "name": "Mekar Sentosa"
+    }
+  ]
+}

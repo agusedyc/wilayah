@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1208322001,
+      "name": "Raya Huluan"
+    },
+    {
+      "code": 1208322002,
+      "name": "Dolog Huluan"
+    },
+    {
+      "code": 1208322003,
+      "name": "Bintang Mariah"
+    },
+    {
+      "code": 1208322004,
+      "name": "Bah Bolon"
+    },
+    {
+      "code": 1208322005,
+      "name": "Raya Usang"
+    },
+    {
+      "code": 1208322006,
+      "name": "Bangun Pane"
+    },
+    {
+      "code": 1208322007,
+      "name": "Parjalangan"
+    },
+    {
+      "code": 1208322008,
+      "name": "Partuahan"
+    },
+    {
+      "code": 1208322009,
+      "name": "Sinaman Labah"
+    },
+    {
+      "code": 1208322010,
+      "name": "Pamatang Sinaman"
+    }
+  ]
+}

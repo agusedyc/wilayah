@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5203152001,
+      "name": "Sembalun Bumbung"
+    },
+    {
+      "code": 5203152002,
+      "name": "Sembalun Lawang"
+    },
+    {
+      "code": 5203152003,
+      "name": "Sajang"
+    },
+    {
+      "code": 5203152004,
+      "name": "Bilok Petung"
+    },
+    {
+      "code": 5203152005,
+      "name": "Sembalun"
+    },
+    {
+      "code": 5203152006,
+      "name": "Sembalun Timba Gading"
+    }
+  ]
+}

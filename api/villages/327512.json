@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3275121001,
+      "name": "Jatirahayu"
+    },
+    {
+      "code": 3275121002,
+      "name": "Jatiwarna"
+    },
+    {
+      "code": 3275121003,
+      "name": "Jatimelati"
+    },
+    {
+      "code": 3275121004,
+      "name": "Jatimurni"
+    }
+  ]
+}

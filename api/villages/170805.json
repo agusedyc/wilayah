@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1708051002,
+      "name": "Durian Depun"
+    },
+    {
+      "code": 1708052001,
+      "name": "Pulo Geto"
+    },
+    {
+      "code": 1708052003,
+      "name": "Taba Mulan"
+    },
+    {
+      "code": 1708052004,
+      "name": "Lubuk Penyamun"
+    },
+    {
+      "code": 1708052005,
+      "name": "SP. Kota Bingin"
+    },
+    {
+      "code": 1708052006,
+      "name": "Bukit Barisan"
+    },
+    {
+      "code": 1708052007,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 1708052008,
+      "name": "Pulo Geto Baru"
+    }
+  ]
+}

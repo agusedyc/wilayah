@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3203112001,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3203112002,
+      "name": "Gasol"
+    },
+    {
+      "code": 3203112003,
+      "name": "Cijedil"
+    },
+    {
+      "code": 3203112004,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3203112005,
+      "name": "Nyalindung"
+    },
+    {
+      "code": 3203112006,
+      "name": "Mangunkerta"
+    },
+    {
+      "code": 3203112007,
+      "name": "Sarampad"
+    },
+    {
+      "code": 3203112008,
+      "name": "Talaga"
+    },
+    {
+      "code": 3203112009,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3203112010,
+      "name": "Cibulakan"
+    },
+    {
+      "code": 3203112011,
+      "name": "Benjot"
+    },
+    {
+      "code": 3203112012,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3203112013,
+      "name": "Wangunjaya"
+    },
+    {
+      "code": 3203112014,
+      "name": "Cirumput"
+    },
+    {
+      "code": 3203112015,
+      "name": "Padaluyu"
+    },
+    {
+      "code": 3203112016,
+      "name": "Galudra"
+    }
+  ]
+}

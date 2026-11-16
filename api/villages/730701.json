@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7307011001,
+      "name": "Tassililu"
+    },
+    {
+      "code": 7307011002,
+      "name": "Balakia"
+    },
+    {
+      "code": 7307012003,
+      "name": "Gunung Perak"
+    },
+    {
+      "code": 7307012004,
+      "name": "Arabika"
+    },
+    {
+      "code": 7307012005,
+      "name": "Bonto Salama"
+    },
+    {
+      "code": 7307012006,
+      "name": "Turungan Baji"
+    },
+    {
+      "code": 7307012007,
+      "name": "Barania"
+    },
+    {
+      "code": 7307012008,
+      "name": "Boto Lempangan"
+    },
+    {
+      "code": 7307012009,
+      "name": "Terasa"
+    }
+  ]
+}

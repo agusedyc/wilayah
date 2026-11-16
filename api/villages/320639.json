@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206392001,
+      "name": "Cipondok"
+    },
+    {
+      "code": 3206392002,
+      "name": "Sukamenak"
+    },
+    {
+      "code": 3206392003,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3206392004,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3206392005,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3206392006,
+      "name": "Sukapancar"
+    },
+    {
+      "code": 3206392007,
+      "name": "Sukaresik"
+    },
+    {
+      "code": 3206392008,
+      "name": "Margamulya"
+    }
+  ]
+}

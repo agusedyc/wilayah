@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7371121001,
+      "name": "Manggala"
+    },
+    {
+      "code": 7371121002,
+      "name": "Bangkala"
+    },
+    {
+      "code": 7371121003,
+      "name": "Tamangapa"
+    },
+    {
+      "code": 7371121004,
+      "name": "Antang"
+    },
+    {
+      "code": 7371121005,
+      "name": "Batua"
+    },
+    {
+      "code": 7371121006,
+      "name": "Borong"
+    },
+    {
+      "code": 7371121007,
+      "name": "Biring Romang"
+    },
+    {
+      "code": 7371121008,
+      "name": "Bitowa"
+    }
+  ]
+}

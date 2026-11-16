@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7102142001,
+      "name": "Kembes II"
+    },
+    {
+      "code": 7102142002,
+      "name": "Kembes I"
+    },
+    {
+      "code": 7102142003,
+      "name": "Toumbuluan"
+    },
+    {
+      "code": 7102142004,
+      "name": "Koka"
+    },
+    {
+      "code": 7102142005,
+      "name": "Suluan"
+    },
+    {
+      "code": 7102142006,
+      "name": "Kamangta"
+    },
+    {
+      "code": 7102142007,
+      "name": "Sawangan"
+    },
+    {
+      "code": 7102142008,
+      "name": "Rumengkor"
+    },
+    {
+      "code": 7102142009,
+      "name": "Tikela"
+    },
+    {
+      "code": 7102142010,
+      "name": "Rumengkor Satu"
+    },
+    {
+      "code": 7102142011,
+      "name": "Rumengkor Dua"
+    }
+  ]
+}

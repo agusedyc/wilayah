@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201242001,
+      "name": "Tolisu"
+    },
+    {
+      "code": 7201242002,
+      "name": "Mekar Kencana"
+    },
+    {
+      "code": 7201242003,
+      "name": "Marga Kencana"
+    },
+    {
+      "code": 7201242004,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 7201242005,
+      "name": "Tirta Jaya"
+    },
+    {
+      "code": 7201242006,
+      "name": "Saribuana"
+    },
+    {
+      "code": 7201242007,
+      "name": "Tohitisari"
+    },
+    {
+      "code": 7201242008,
+      "name": "Sindang Baru"
+    },
+    {
+      "code": 7201242009,
+      "name": "Bukit Jaya"
+    },
+    {
+      "code": 7201242010,
+      "name": "Piondo"
+    }
+  ]
+}

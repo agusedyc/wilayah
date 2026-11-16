@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 8201042001,
+      "name": "Susupu"
+    },
+    {
+      "code": 8201042002,
+      "name": "Lako Akelamo"
+    },
+    {
+      "code": 8201042003,
+      "name": "Taruba"
+    },
+    {
+      "code": 8201042004,
+      "name": "Todahe"
+    },
+    {
+      "code": 8201042005,
+      "name": "Peot"
+    },
+    {
+      "code": 8201042006,
+      "name": "Sasur"
+    },
+    {
+      "code": 8201042007,
+      "name": "Goro goro"
+    },
+    {
+      "code": 8201042008,
+      "name": "Tacim"
+    },
+    {
+      "code": 8201042009,
+      "name": "Balisoang"
+    },
+    {
+      "code": 8201042010,
+      "name": "Worat-worat"
+    },
+    {
+      "code": 8201042011,
+      "name": "Tacici"
+    },
+    {
+      "code": 8201042012,
+      "name": "Taraudu"
+    },
+    {
+      "code": 8201042013,
+      "name": "Golo"
+    },
+    {
+      "code": 8201042028,
+      "name": "Lako Akederi"
+    },
+    {
+      "code": 8201042029,
+      "name": "Jara Kore"
+    },
+    {
+      "code": 8201042030,
+      "name": "Ropu Tengah Balu"
+    },
+    {
+      "code": 8201042033,
+      "name": "Dere"
+    },
+    {
+      "code": 8201042034,
+      "name": "Balisoan Utara"
+    },
+    {
+      "code": 8201042035,
+      "name": "Sasur Pantai"
+    }
+  ]
+}

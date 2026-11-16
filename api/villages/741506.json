@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7415062001,
+      "name": "Biwinapada"
+    },
+    {
+      "code": 7415062002,
+      "name": "Kaimbulawa"
+    },
+    {
+      "code": 7415062003,
+      "name": "Wakinamboro"
+    },
+    {
+      "code": 7415062004,
+      "name": "Tongali"
+    },
+    {
+      "code": 7415062005,
+      "name": "Lontoi"
+    },
+    {
+      "code": 7415062006,
+      "name": "Karae"
+    },
+    {
+      "code": 7415062007,
+      "name": "Batuawu"
+    },
+    {
+      "code": 7415062008,
+      "name": "Nggulanggula"
+    },
+    {
+      "code": 7415062009,
+      "name": "Waindawula"
+    },
+    {
+      "code": 7415062010,
+      "name": "Lapara"
+    }
+  ]
+}

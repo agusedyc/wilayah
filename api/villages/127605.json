@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1276051001,
+      "name": "Mandailing"
+    },
+    {
+      "code": 1276051002,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1276051003,
+      "name": "Pasar Gambir"
+    },
+    {
+      "code": 1276051004,
+      "name": "Badak Bejuang"
+    },
+    {
+      "code": 1276051005,
+      "name": "Bandar Utama"
+    },
+    {
+      "code": 1276051006,
+      "name": "Rambung"
+    },
+    {
+      "code": 1276051007,
+      "name": "Tebing Tinggi Lama"
+    }
+  ]
+}

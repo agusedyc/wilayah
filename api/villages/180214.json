@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1802142001,
+      "name": "Suka Jawa"
+    },
+    {
+      "code": 1802142002,
+      "name": "Sidokerto"
+    },
+    {
+      "code": 1802142003,
+      "name": "Suka Jadi"
+    },
+    {
+      "code": 1802142004,
+      "name": "Bumi Raharjo"
+    },
+    {
+      "code": 1802142005,
+      "name": "Wates"
+    },
+    {
+      "code": 1802142006,
+      "name": "Bumi Ratu"
+    },
+    {
+      "code": 1802142007,
+      "name": "Bulu Sari"
+    },
+    {
+      "code": 1802142008,
+      "name": "Bumi Rahayu"
+    },
+    {
+      "code": 1802142009,
+      "name": "Sido Waras"
+    },
+    {
+      "code": 1802142010,
+      "name": "Tulung Kakan"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5318012001,
+      "name": "Bondo Boghila"
+    },
+    {
+      "code": 5318012002,
+      "name": "Lete Konda"
+    },
+    {
+      "code": 5318012003,
+      "name": "Karuni"
+    },
+    {
+      "code": 5318012004,
+      "name": "Totok"
+    },
+    {
+      "code": 5318012009,
+      "name": "Rama Dana"
+    },
+    {
+      "code": 5318012010,
+      "name": "Wee Mananda"
+    },
+    {
+      "code": 5318012013,
+      "name": "Pogo Tena"
+    },
+    {
+      "code": 5318012014,
+      "name": "Payola Umbu"
+    },
+    {
+      "code": 5318012015,
+      "name": "Wee Kambala"
+    },
+    {
+      "code": 5318012016,
+      "name": "Loko Kalada"
+    },
+    {
+      "code": 5318012017,
+      "name": "Lete Konda Selatan"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6309072001,
+      "name": "Kupang Nunding"
+    },
+    {
+      "code": 6309072002,
+      "name": "Mangkupum"
+    },
+    {
+      "code": 6309072003,
+      "name": "Pasar Batu"
+    },
+    {
+      "code": 6309072004,
+      "name": "Uwie"
+    },
+    {
+      "code": 6309072005,
+      "name": "Muara Uya"
+    },
+    {
+      "code": 6309072006,
+      "name": "Lumbang"
+    },
+    {
+      "code": 6309072007,
+      "name": "Santuun"
+    },
+    {
+      "code": 6309072008,
+      "name": "Simpung Layung"
+    },
+    {
+      "code": 6309072009,
+      "name": "Binjai"
+    },
+    {
+      "code": 6309072010,
+      "name": "Palapi"
+    },
+    {
+      "code": 6309072011,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6309072012,
+      "name": "Salikung"
+    },
+    {
+      "code": 6309072013,
+      "name": "Ribang"
+    },
+    {
+      "code": 6309072014,
+      "name": "Sungai Kumap"
+    }
+  ]
+}

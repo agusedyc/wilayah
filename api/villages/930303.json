@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9303032001,
+      "name": "Bidnew"
+    },
+    {
+      "code": 9303032002,
+      "name": "Senggo"
+    },
+    {
+      "code": 9303032003,
+      "name": "Kumasma"
+    },
+    {
+      "code": 9303032004,
+      "name": "Womin"
+    },
+    {
+      "code": 9303032005,
+      "name": "Tamanin"
+    },
+    {
+      "code": 9303032006,
+      "name": "Epem"
+    },
+    {
+      "code": 9303032007,
+      "name": "Abau"
+    }
+  ]
+}

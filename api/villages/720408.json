@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7204082001,
+      "name": "Ogomoli"
+    },
+    {
+      "code": 7204082002,
+      "name": "Sandana"
+    },
+    {
+      "code": 7204082003,
+      "name": "Kalangkangan"
+    },
+    {
+      "code": 7204082004,
+      "name": "Lantapan"
+    },
+    {
+      "code": 7204082005,
+      "name": "Lakatan"
+    },
+    {
+      "code": 7204082006,
+      "name": "Tinigi"
+    },
+    {
+      "code": 7204082007,
+      "name": "Ginunggung"
+    },
+    {
+      "code": 7204082008,
+      "name": "Lalos"
+    },
+    {
+      "code": 7204082009,
+      "name": "Tende"
+    },
+    {
+      "code": 7204082010,
+      "name": "Sabang"
+    },
+    {
+      "code": 7204082011,
+      "name": "Bajugan"
+    },
+    {
+      "code": 7204082012,
+      "name": "Aung"
+    },
+    {
+      "code": 7204082013,
+      "name": "Malangga"
+    },
+    {
+      "code": 7204082014,
+      "name": "Kinopasan"
+    }
+  ]
+}

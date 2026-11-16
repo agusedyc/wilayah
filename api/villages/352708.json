@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3527082001,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3527082002,
+      "name": "Baturasang"
+    },
+    {
+      "code": 3527082003,
+      "name": "Mambulu Barat"
+    },
+    {
+      "code": 3527082004,
+      "name": "Bringin"
+    },
+    {
+      "code": 3527082005,
+      "name": "Samaran"
+    },
+    {
+      "code": 3527082006,
+      "name": "Tambelangan"
+    },
+    {
+      "code": 3527082007,
+      "name": "Barunggagah"
+    },
+    {
+      "code": 3527082008,
+      "name": "Banjarbillah"
+    },
+    {
+      "code": 3527082009,
+      "name": "Somber"
+    },
+    {
+      "code": 3527082010,
+      "name": "Birem"
+    }
+  ]
+}

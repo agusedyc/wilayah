@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3517172001,
+      "name": "Sidokaton"
+    },
+    {
+      "code": 3517172002,
+      "name": "Tapen"
+    },
+    {
+      "code": 3517172003,
+      "name": "Bakalanrayung"
+    },
+    {
+      "code": 3517172004,
+      "name": "Randuwatang"
+    },
+    {
+      "code": 3517172005,
+      "name": "Sumberteguh"
+    },
+    {
+      "code": 3517172006,
+      "name": "Menturus"
+    },
+    {
+      "code": 3517172007,
+      "name": "Kudubanjar"
+    },
+    {
+      "code": 3517172008,
+      "name": "Made"
+    },
+    {
+      "code": 3517172009,
+      "name": "Kepuhrejo"
+    },
+    {
+      "code": 3517172010,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3517172011,
+      "name": "Katemas"
+    }
+  ]
+}

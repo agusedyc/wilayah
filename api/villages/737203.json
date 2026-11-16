@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7372031001,
+      "name": "Lakessi"
+    },
+    {
+      "code": 7372031002,
+      "name": "Ujung Baru"
+    },
+    {
+      "code": 7372031003,
+      "name": "Watang Soreang"
+    },
+    {
+      "code": 7372031004,
+      "name": "Kampung Pisang"
+    },
+    {
+      "code": 7372031005,
+      "name": "Ujung Lare"
+    },
+    {
+      "code": 7372031006,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 7372031007,
+      "name": "Bukit Harapan"
+    }
+  ]
+}

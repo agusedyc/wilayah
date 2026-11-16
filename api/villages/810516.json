@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8105162001,
+      "name": "Urung"
+    },
+    {
+      "code": 8105162002,
+      "name": "Kwamor Kecil Mata Ata"
+    },
+    {
+      "code": 8105162003,
+      "name": "Kwamor Kecil Mata Wawa"
+    },
+    {
+      "code": 8105162004,
+      "name": "Kwamor Besar Ena"
+    },
+    {
+      "code": 8105162005,
+      "name": "Kwamor Besar Witau"
+    },
+    {
+      "code": 8105162006,
+      "name": "Guli-Guli"
+    },
+    {
+      "code": 8105162007,
+      "name": "Manggis"
+    },
+    {
+      "code": 8105162008,
+      "name": "Ainena"
+    },
+    {
+      "code": 8105162009,
+      "name": "Mugusinis"
+    },
+    {
+      "code": 8105162010,
+      "name": "Akat Fadedo"
+    }
+  ]
+}

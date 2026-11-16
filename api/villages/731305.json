@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7313051001,
+      "name": "Paria"
+    },
+    {
+      "code": 7313051002,
+      "name": "Limpomajang"
+    },
+    {
+      "code": 7313051003,
+      "name": "Macanang"
+    },
+    {
+      "code": 7313051004,
+      "name": "Uraiyang"
+    },
+    {
+      "code": 7313052005,
+      "name": "Tosora"
+    },
+    {
+      "code": 7313052006,
+      "name": "Cinnong Tabi"
+    },
+    {
+      "code": 7313052007,
+      "name": "Rumpia"
+    },
+    {
+      "code": 7313052008,
+      "name": "Laerung"
+    },
+    {
+      "code": 7313052009,
+      "name": "Lamiku"
+    },
+    {
+      "code": 7313052010,
+      "name": "Bottobenteng"
+    },
+    {
+      "code": 7313052011,
+      "name": "Bottotanre"
+    },
+    {
+      "code": 7313052012,
+      "name": "Tua"
+    },
+    {
+      "code": 7313052013,
+      "name": "Tajo"
+    },
+    {
+      "code": 7313052014,
+      "name": "Tengnga"
+    },
+    {
+      "code": 7313052015,
+      "name": "Liu"
+    },
+    {
+      "code": 7313052016,
+      "name": "Tellulimpoe"
+    },
+    {
+      "code": 7313052017,
+      "name": "Bottopenno"
+    },
+    {
+      "code": 7313052018,
+      "name": "Watanrumpia"
+    }
+  ]
+}

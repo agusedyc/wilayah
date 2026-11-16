@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1214142001,
+      "name": "Lawindra"
+    },
+    {
+      "code": 1214142003,
+      "name": "Sifaoro'asi Mola"
+    },
+    {
+      "code": 1214142004,
+      "name": "Hiliuso"
+    },
+    {
+      "code": 1214142005,
+      "name": "Balohili Mola"
+    },
+    {
+      "code": 1214142006,
+      "name": "Ambukha"
+    },
+    {
+      "code": 1214142007,
+      "name": "Tobualo"
+    },
+    {
+      "code": 1214142008,
+      "name": "Hilibadalu"
+    },
+    {
+      "code": 1214142009,
+      "name": "Foikhugaga"
+    },
+    {
+      "code": 1214142010,
+      "name": "Orlin"
+    },
+    {
+      "code": 1214142011,
+      "name": "Orahili Mola"
+    },
+    {
+      "code": 1214142012,
+      "name": "Umbunasi"
+    }
+  ]
+}

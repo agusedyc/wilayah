@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5204262001,
+      "name": "Pungkit"
+    },
+    {
+      "code": 5204262002,
+      "name": "Berora"
+    },
+    {
+      "code": 5204262003,
+      "name": "Lopok"
+    },
+    {
+      "code": 5204262004,
+      "name": "Langam"
+    },
+    {
+      "code": 5204262005,
+      "name": "Mama"
+    },
+    {
+      "code": 5204262006,
+      "name": "Lopok Beru"
+    },
+    {
+      "code": 5204262007,
+      "name": "Tatede"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5311212001,
+      "name": "Praiwitu"
+    },
+    {
+      "code": 5311212002,
+      "name": "Kakaha"
+    },
+    {
+      "code": 5311212003,
+      "name": "Hambawutang"
+    },
+    {
+      "code": 5311212004,
+      "name": "Kabanda"
+    },
+    {
+      "code": 5311212005,
+      "name": "Prauraming"
+    }
+  ]
+}

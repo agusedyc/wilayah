@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1471051001,
+      "name": "Padang Bulan"
+    },
+    {
+      "code": 1471051002,
+      "name": "Sago"
+    },
+    {
+      "code": 1471051003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1471051004,
+      "name": "Kampung Dalam"
+    },
+    {
+      "code": 1471051005,
+      "name": "Kampung Bandar"
+    },
+    {
+      "code": 1471051006,
+      "name": "Padang Terubuk"
+    }
+  ]
+}

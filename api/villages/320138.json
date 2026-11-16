@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3201382001,
+      "name": "Cigombong"
+    },
+    {
+      "code": 3201382002,
+      "name": "Wates Jaya"
+    },
+    {
+      "code": 3201382003,
+      "name": "Ciburuy"
+    },
+    {
+      "code": 3201382004,
+      "name": "Srogol"
+    },
+    {
+      "code": 3201382005,
+      "name": "Cisalada"
+    },
+    {
+      "code": 3201382006,
+      "name": "Tugujaya"
+    },
+    {
+      "code": 3201382007,
+      "name": "Pasirjaya"
+    },
+    {
+      "code": 3201382008,
+      "name": "Ciburayut"
+    },
+    {
+      "code": 3201382009,
+      "name": "Ciadeg"
+    }
+  ]
+}

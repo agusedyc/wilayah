@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7202092005,
+      "name": "Gintu"
+    },
+    {
+      "code": 7202092006,
+      "name": "Runde"
+    },
+    {
+      "code": 7202092007,
+      "name": "Badangkaia"
+    },
+    {
+      "code": 7202092008,
+      "name": "Bakekau"
+    },
+    {
+      "code": 7202092009,
+      "name": "Bulili"
+    },
+    {
+      "code": 7202092010,
+      "name": "Bewa"
+    },
+    {
+      "code": 7202092011,
+      "name": "Pada"
+    },
+    {
+      "code": 7202092012,
+      "name": "Bomba"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1208251012,
+      "name": "Saribu Dolok"
+    },
+    {
+      "code": 1208252003,
+      "name": "Bangun Mariah"
+    },
+    {
+      "code": 1208252004,
+      "name": "Purba Sinombah"
+    },
+    {
+      "code": 1208252006,
+      "name": "Purba Tua"
+    },
+    {
+      "code": 1208252009,
+      "name": "Purba Tua Baru"
+    },
+    {
+      "code": 1208252014,
+      "name": "Sinar Baru"
+    },
+    {
+      "code": 1208252016,
+      "name": "Purba Tua Etek"
+    }
+  ]
+}

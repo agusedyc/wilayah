@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3513242001,
+      "name": "Sapih"
+    },
+    {
+      "code": 3513242002,
+      "name": "Negororejo"
+    },
+    {
+      "code": 3513242003,
+      "name": "Branggah"
+    },
+    {
+      "code": 3513242004,
+      "name": "Lambangkuning"
+    },
+    {
+      "code": 3513242005,
+      "name": "Wonogoro"
+    },
+    {
+      "code": 3513242006,
+      "name": "Palangbesi"
+    },
+    {
+      "code": 3513242007,
+      "name": "Boto"
+    },
+    {
+      "code": 3513242008,
+      "name": "Lumbang"
+    },
+    {
+      "code": 3513242009,
+      "name": "Tandonsentul"
+    },
+    {
+      "code": 3513242010,
+      "name": "Purut"
+    }
+  ]
+}

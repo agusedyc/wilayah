@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3522042001,
+      "name": "Butoh"
+    },
+    {
+      "code": 3522042002,
+      "name": "Trenggulunan"
+    },
+    {
+      "code": 3522042003,
+      "name": "Setren"
+    },
+    {
+      "code": 3522042004,
+      "name": "Mediyunan"
+    },
+    {
+      "code": 3522042005,
+      "name": "Kolong"
+    },
+    {
+      "code": 3522042006,
+      "name": "Sendangharjo"
+    },
+    {
+      "code": 3522042007,
+      "name": "Ngadiluwih"
+    },
+    {
+      "code": 3522042008,
+      "name": "Ngasem"
+    },
+    {
+      "code": 3522042009,
+      "name": "Bandungrejo"
+    },
+    {
+      "code": 3522042010,
+      "name": "Tengger"
+    },
+    {
+      "code": 3522042011,
+      "name": "Ngantru"
+    },
+    {
+      "code": 3522042012,
+      "name": "Sambong"
+    },
+    {
+      "code": 3522042013,
+      "name": "Dukohkidul"
+    },
+    {
+      "code": 3522042014,
+      "name": "Wadang"
+    },
+    {
+      "code": 3522042015,
+      "name": "Jampet"
+    },
+    {
+      "code": 3522042016,
+      "name": "Bareng"
+    },
+    {
+      "code": 3522042017,
+      "name": "Jelu"
+    }
+  ]
+}

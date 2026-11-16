@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7271051001,
+      "name": "Buluri"
+    },
+    {
+      "code": 7271051002,
+      "name": "Donggala Kodi"
+    },
+    {
+      "code": 7271051003,
+      "name": "Kabonena"
+    },
+    {
+      "code": 7271051004,
+      "name": "Silae"
+    },
+    {
+      "code": 7271051005,
+      "name": "Watusampu"
+    },
+    {
+      "code": 7271051006,
+      "name": "Tipo"
+    }
+  ]
+}

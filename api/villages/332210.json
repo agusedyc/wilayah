@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3322101001,
+      "name": "Ngampin"
+    },
+    {
+      "code": 3322101002,
+      "name": "Pojoksari"
+    },
+    {
+      "code": 3322101004,
+      "name": "Tambakboyo"
+    },
+    {
+      "code": 3322101005,
+      "name": "Lodoyong"
+    },
+    {
+      "code": 3322101006,
+      "name": "Kupang"
+    },
+    {
+      "code": 3322101007,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3322101008,
+      "name": "Panjang"
+    },
+    {
+      "code": 3322101010,
+      "name": "Baran"
+    },
+    {
+      "code": 3322102003,
+      "name": "Bejalen"
+    },
+    {
+      "code": 3322102009,
+      "name": "Pasekan"
+    }
+  ]
+}

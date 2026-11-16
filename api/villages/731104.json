@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7311041001,
+      "name": "Kiru Kiru"
+    },
+    {
+      "code": 7311041002,
+      "name": "Mangkoso"
+    },
+    {
+      "code": 7311042003,
+      "name": "Lawallu"
+    },
+    {
+      "code": 7311042004,
+      "name": "Paccekke"
+    },
+    {
+      "code": 7311042005,
+      "name": "Ajakkang"
+    },
+    {
+      "code": 7311042006,
+      "name": "Siddo"
+    },
+    {
+      "code": 7311042007,
+      "name": "Batupute"
+    }
+  ]
+}

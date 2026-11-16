@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5207082001,
+      "name": "Maluk"
+    },
+    {
+      "code": 5207082002,
+      "name": "Benete"
+    },
+    {
+      "code": 5207082003,
+      "name": "Bukit Damai"
+    },
+    {
+      "code": 5207082004,
+      "name": "Mantun"
+    },
+    {
+      "code": 5207082005,
+      "name": "Pasir Putih"
+    }
+  ]
+}

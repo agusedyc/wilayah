@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9303022001,
+      "name": "Mur"
+    },
+    {
+      "code": 9303022002,
+      "name": "Agham"
+    },
+    {
+      "code": 9303022003,
+      "name": "Waghien/Koba"
+    },
+    {
+      "code": 9303022004,
+      "name": "Khatan"
+    },
+    {
+      "code": 9303022005,
+      "name": "Monana"
+    },
+    {
+      "code": 9303022006,
+      "name": "Wagin"
+    },
+    {
+      "code": 9303022007,
+      "name": "Waman"
+    },
+    {
+      "code": 9303022008,
+      "name": "Ima"
+    },
+    {
+      "code": 9303022009,
+      "name": "Kogoyaman"
+    },
+    {
+      "code": 9303022010,
+      "name": "Magabag"
+    },
+    {
+      "code": 9303022011,
+      "name": "Tereyemu"
+    },
+    {
+      "code": 9303022012,
+      "name": "Yatan"
+    },
+    {
+      "code": 9303022013,
+      "name": "Linggua"
+    },
+    {
+      "code": 9303022014,
+      "name": "Waruwe"
+    },
+    {
+      "code": 9303022015,
+      "name": "Ghanu"
+    }
+  ]
+}

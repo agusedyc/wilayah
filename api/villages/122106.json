@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1221062001,
+      "name": "Simanuldang Jae"
+    },
+    {
+      "code": 1221062002,
+      "name": "Simanuldang Julu"
+    },
+    {
+      "code": 1221062003,
+      "name": "Tapian Nauli"
+    },
+    {
+      "code": 1221062004,
+      "name": "Handang Kopo"
+    },
+    {
+      "code": 1221062005,
+      "name": "Subulussalam"
+    },
+    {
+      "code": 1221062006,
+      "name": "Pintu Padang"
+    },
+    {
+      "code": 1221062007,
+      "name": "Matondang"
+    },
+    {
+      "code": 1221062008,
+      "name": "Pasar Ipuh"
+    },
+    {
+      "code": 1221062009,
+      "name": "Paringgonan"
+    },
+    {
+      "code": 1221062010,
+      "name": "Paringgonan Julu"
+    },
+    {
+      "code": 1221062011,
+      "name": "Paran Batu"
+    },
+    {
+      "code": 1221062012,
+      "name": "Sibual Buali"
+    },
+    {
+      "code": 1221062013,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1221062014,
+      "name": "Siraisan"
+    },
+    {
+      "code": 1221062015,
+      "name": "Aek Haruaya"
+    }
+  ]
+}

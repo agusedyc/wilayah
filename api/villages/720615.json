@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7206152001,
+      "name": "Puungkeu"
+    },
+    {
+      "code": 7206152002,
+      "name": "Tangofa"
+    },
+    {
+      "code": 7206152003,
+      "name": "One Ete"
+    },
+    {
+      "code": 7206152004,
+      "name": "Tandaoleo"
+    },
+    {
+      "code": 7206152005,
+      "name": "Lafeu"
+    },
+    {
+      "code": 7206152006,
+      "name": "Torete"
+    },
+    {
+      "code": 7206152007,
+      "name": "Buleleng"
+    },
+    {
+      "code": 7206152008,
+      "name": "Laroenai"
+    },
+    {
+      "code": 7206152009,
+      "name": "Sambalagi"
+    },
+    {
+      "code": 7206152010,
+      "name": "Were'a"
+    }
+  ]
+}

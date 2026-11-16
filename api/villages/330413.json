@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3304132001,
+      "name": "Paweden"
+    },
+    {
+      "code": 3304132002,
+      "name": "Gumelar"
+    },
+    {
+      "code": 3304132003,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3304132004,
+      "name": "Sampang"
+    },
+    {
+      "code": 3304132005,
+      "name": "Slatri"
+    },
+    {
+      "code": 3304132006,
+      "name": "Pagerpelah"
+    },
+    {
+      "code": 3304132007,
+      "name": "Pasuruhan"
+    },
+    {
+      "code": 3304132008,
+      "name": "Karanggondang"
+    },
+    {
+      "code": 3304132009,
+      "name": "Jlegong"
+    },
+    {
+      "code": 3304132010,
+      "name": "Ambal"
+    },
+    {
+      "code": 3304132011,
+      "name": "Binangun"
+    },
+    {
+      "code": 3304132012,
+      "name": "Karangkobar"
+    },
+    {
+      "code": 3304132013,
+      "name": "Leksana"
+    }
+  ]
+}

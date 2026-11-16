@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5303232001,
+      "name": "Tunbes"
+    },
+    {
+      "code": 5303232002,
+      "name": "Luniup"
+    },
+    {
+      "code": 5303232003,
+      "name": "Matabesi"
+    },
+    {
+      "code": 5303232004,
+      "name": "Oepuah"
+    },
+    {
+      "code": 5303232005,
+      "name": "Kaubele"
+    },
+    {
+      "code": 5303232006,
+      "name": "Oepuah Utara"
+    },
+    {
+      "code": 5303232007,
+      "name": "Oepuah Selatan"
+    }
+  ]
+}

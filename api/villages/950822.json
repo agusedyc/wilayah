@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9508222001,
+      "name": "Uburu"
+    },
+    {
+      "code": 9508222002,
+      "name": "Kabolilangen"
+    },
+    {
+      "code": 9508222003,
+      "name": "Kolma"
+    },
+    {
+      "code": 9508222004,
+      "name": "Brambel"
+    },
+    {
+      "code": 9508222005,
+      "name": "Kiabypma"
+    },
+    {
+      "code": 9508222006,
+      "name": "Kibisim"
+    },
+    {
+      "code": 9508222007,
+      "name": "Labrik"
+    }
+  ]
+}

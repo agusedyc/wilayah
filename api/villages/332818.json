@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3328182001,
+      "name": "Slaranglor"
+    },
+    {
+      "code": 3328182002,
+      "name": "Selapura"
+    },
+    {
+      "code": 3328182003,
+      "name": "Blubuk"
+    },
+    {
+      "code": 3328182004,
+      "name": "Gumayun"
+    },
+    {
+      "code": 3328182005,
+      "name": "Kabunan"
+    },
+    {
+      "code": 3328182006,
+      "name": "Pedagangan"
+    },
+    {
+      "code": 3328182007,
+      "name": "Kalisoka"
+    },
+    {
+      "code": 3328182008,
+      "name": "Sindang"
+    },
+    {
+      "code": 3328182009,
+      "name": "Dukuhwaru"
+    },
+    {
+      "code": 3328182010,
+      "name": "Bulakpacing"
+    }
+  ]
+}

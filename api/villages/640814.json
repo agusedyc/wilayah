@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6408142001,
+      "name": "Mukti Jaya"
+    },
+    {
+      "code": 6408142002,
+      "name": "Pulung Sari"
+    },
+    {
+      "code": 6408142003,
+      "name": "Margo Mulyo"
+    },
+    {
+      "code": 6408142004,
+      "name": "Rantau Makmur"
+    },
+    {
+      "code": 6408142005,
+      "name": "Manunggal Jaya"
+    },
+    {
+      "code": 6408142006,
+      "name": "Tanjung Labu"
+    },
+    {
+      "code": 6408142007,
+      "name": "Kebon Agung"
+    },
+    {
+      "code": 6408142008,
+      "name": "Tepian Makmur"
+    },
+    {
+      "code": 6408142009,
+      "name": "Masalap Raya"
+    }
+  ]
+}

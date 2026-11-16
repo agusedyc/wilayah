@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8101262001,
+      "name": "Ouw"
+    },
+    {
+      "code": 8101262002,
+      "name": "Ullath"
+    },
+    {
+      "code": 8101262003,
+      "name": "Siri Sori Islam"
+    },
+    {
+      "code": 8101262004,
+      "name": "Siri Sori Amalatu"
+    },
+    {
+      "code": 8101262005,
+      "name": "Mahu"
+    },
+    {
+      "code": 8101262006,
+      "name": "Tuhaha"
+    },
+    {
+      "code": 8101262007,
+      "name": "Ihamahu"
+    },
+    {
+      "code": 8101262008,
+      "name": "Iha"
+    },
+    {
+      "code": 8101262009,
+      "name": "Nolloth"
+    },
+    {
+      "code": 8101262010,
+      "name": "Itawaka"
+    }
+  ]
+}

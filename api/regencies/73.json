@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 regencies",
+  "data": [
+    {
+      "code": 7301,
+      "name": "Kabupaten Kepulauan Selayar"
+    },
+    {
+      "code": 7302,
+      "name": "Kabupaten Bulukumba"
+    },
+    {
+      "code": 7303,
+      "name": "Kabupaten Bantaeng"
+    },
+    {
+      "code": 7304,
+      "name": "Kabupaten Jeneponto"
+    },
+    {
+      "code": 7305,
+      "name": "Kabupaten Takalar"
+    },
+    {
+      "code": 7306,
+      "name": "Kabupaten Gowa"
+    },
+    {
+      "code": 7307,
+      "name": "Kabupaten Sinjai"
+    },
+    {
+      "code": 7308,
+      "name": "Kabupaten Bone"
+    },
+    {
+      "code": 7309,
+      "name": "Kabupaten Maros"
+    },
+    {
+      "code": 7310,
+      "name": "Kabupaten Pangkajene dan Kepulauan"
+    },
+    {
+      "code": 7311,
+      "name": "Kabupaten Barru"
+    },
+    {
+      "code": 7312,
+      "name": "Kabupaten Soppeng"
+    },
+    {
+      "code": 7313,
+      "name": "Kabupaten Wajo"
+    },
+    {
+      "code": 7314,
+      "name": "Kabupaten Sidenreng Rappang"
+    },
+    {
+      "code": 7315,
+      "name": "Kabupaten Pinrang"
+    },
+    {
+      "code": 7316,
+      "name": "Kabupaten Enrekang"
+    },
+    {
+      "code": 7317,
+      "name": "Kabupaten Luwu"
+    },
+    {
+      "code": 7318,
+      "name": "Kabupaten Tana Toraja"
+    },
+    {
+      "code": 7322,
+      "name": "Kabupaten Luwu Utara"
+    },
+    {
+      "code": 7324,
+      "name": "Kabupaten Luwu Timur"
+    },
+    {
+      "code": 7326,
+      "name": "Kabupaten Toraja Utara"
+    },
+    {
+      "code": 7371,
+      "name": "Kota Makassar"
+    },
+    {
+      "code": 7372,
+      "name": "Kota Parepare"
+    },
+    {
+      "code": 7373,
+      "name": "Kota Palopo"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9212082001,
+      "name": "Testega"
+    },
+    {
+      "code": 9212082002,
+      "name": "Meidogda"
+    },
+    {
+      "code": 9212082003,
+      "name": "Meifekeni"
+    },
+    {
+      "code": 9212082004,
+      "name": "Demuora"
+    },
+    {
+      "code": 9212082005,
+      "name": "Jigja"
+    },
+    {
+      "code": 9212082006,
+      "name": "Meigehenawu"
+    },
+    {
+      "code": 9212082007,
+      "name": "Morumfeyi"
+    },
+    {
+      "code": 9212082008,
+      "name": "Iba"
+    },
+    {
+      "code": 9212082009,
+      "name": "Meimersa"
+    },
+    {
+      "code": 9212082010,
+      "name": "Meifowoska"
+    },
+    {
+      "code": 9212082011,
+      "name": "Meijugjijigja"
+    },
+    {
+      "code": 9212082012,
+      "name": "Meifokeda"
+    },
+    {
+      "code": 9212082013,
+      "name": "Dumbrey"
+    },
+    {
+      "code": 9212082014,
+      "name": "Meksi"
+    },
+    {
+      "code": 9212082015,
+      "name": "Asai Dua"
+    }
+  ]
+}

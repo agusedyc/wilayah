@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6310011007,
+      "name": "Batulicin"
+    },
+    {
+      "code": 6310011028,
+      "name": "Gunungtinggi"
+    },
+    {
+      "code": 6310012005,
+      "name": "Segumbang"
+    },
+    {
+      "code": 6310012006,
+      "name": "Kersik Putih"
+    },
+    {
+      "code": 6310012029,
+      "name": "Maju Makmur"
+    },
+    {
+      "code": 6310012030,
+      "name": "Maju Bersama"
+    },
+    {
+      "code": 6310012031,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 6310012032,
+      "name": "Polewali Marajae"
+    },
+    {
+      "code": 6310012033,
+      "name": "Danauindah"
+    }
+  ]
+}

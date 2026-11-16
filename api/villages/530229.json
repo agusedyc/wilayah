@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302292001,
+      "name": "Fatukopa"
+    },
+    {
+      "code": 5302292002,
+      "name": "Besnam"
+    },
+    {
+      "code": 5302292003,
+      "name": "Taebone"
+    },
+    {
+      "code": 5302292004,
+      "name": "Nunfutu"
+    },
+    {
+      "code": 5302292005,
+      "name": "Kiki"
+    },
+    {
+      "code": 5302292006,
+      "name": "Ello"
+    },
+    {
+      "code": 5302292007,
+      "name": "Nifulinah"
+    }
+  ]
+}

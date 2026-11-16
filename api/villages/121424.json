@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1214242001,
+      "name": "Fondrakoraya"
+    },
+    {
+      "code": 1214242002,
+      "name": "Orudua Sibohou"
+    },
+    {
+      "code": 1214242003,
+      "name": "Sisarahili Susua"
+    },
+    {
+      "code": 1214242004,
+      "name": "Susua"
+    },
+    {
+      "code": 1214242005,
+      "name": "Lahusa Susua"
+    },
+    {
+      "code": 1214242006,
+      "name": "Ramba-ramba"
+    },
+    {
+      "code": 1214242007,
+      "name": "Hilinifaoso"
+    },
+    {
+      "code": 1214242008,
+      "name": "Sifaoroasi"
+    },
+    {
+      "code": 1214242009,
+      "name": "Amandraya"
+    },
+    {
+      "code": 1214242010,
+      "name": "Foikhu Fondrako"
+    },
+    {
+      "code": 1214242011,
+      "name": "Hiliwosi"
+    },
+    {
+      "code": 1214242012,
+      "name": "Orahili Fondrako"
+    }
+  ]
+}

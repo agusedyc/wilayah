@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8205082001,
+      "name": "Waigoiyofa"
+    },
+    {
+      "code": 8205082002,
+      "name": "Baleha"
+    },
+    {
+      "code": 8205082003,
+      "name": "Fatkauyon"
+    },
+    {
+      "code": 8205082004,
+      "name": "Wailia"
+    },
+    {
+      "code": 8205082005,
+      "name": "Sama"
+    },
+    {
+      "code": 8205082006,
+      "name": "Waisepa"
+    }
+  ]
+}

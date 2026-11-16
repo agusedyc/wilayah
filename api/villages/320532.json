@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3205322001,
+      "name": "Mekarmukti"
+    },
+    {
+      "code": 3205322002,
+      "name": "Karangwangi"
+    },
+    {
+      "code": 3205322003,
+      "name": "Jagabaya"
+    },
+    {
+      "code": 3205322004,
+      "name": "Cijayana"
+    },
+    {
+      "code": 3205322005,
+      "name": "Mekarsari"
+    }
+  ]
+}

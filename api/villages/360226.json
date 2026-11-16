@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3602262001,
+      "name": "Panyaungan"
+    },
+    {
+      "code": 3602262002,
+      "name": "Cihara"
+    },
+    {
+      "code": 3602262003,
+      "name": "Ciparahu"
+    },
+    {
+      "code": 3602262004,
+      "name": "Pondokpanjang"
+    },
+    {
+      "code": 3602262005,
+      "name": "Citeupuseun"
+    },
+    {
+      "code": 3602262006,
+      "name": "Lebakpeundeuy"
+    },
+    {
+      "code": 3602262007,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3602262008,
+      "name": "Karangkamulyan"
+    },
+    {
+      "code": 3602262009,
+      "name": "Barunai"
+    }
+  ]
+}

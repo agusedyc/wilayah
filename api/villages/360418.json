@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3604182001,
+      "name": "Binuang"
+    },
+    {
+      "code": 3604182002,
+      "name": "Cakung"
+    },
+    {
+      "code": 3604182003,
+      "name": "Renged"
+    },
+    {
+      "code": 3604182004,
+      "name": "Gembor"
+    },
+    {
+      "code": 3604182005,
+      "name": "Warakas"
+    },
+    {
+      "code": 3604182006,
+      "name": "Sukamampir"
+    },
+    {
+      "code": 3604182007,
+      "name": "Lamaran"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3202142001,
+      "name": "Bojonggenteng"
+    },
+    {
+      "code": 3202142002,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3202142003,
+      "name": "Berekah"
+    },
+    {
+      "code": 3202142004,
+      "name": "Cipanengah"
+    },
+    {
+      "code": 3202142005,
+      "name": "Bojonggaling"
+    }
+  ]
+}

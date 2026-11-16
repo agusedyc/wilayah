@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7472031001,
+      "name": "Kaisabu Baru"
+    },
+    {
+      "code": 7472031002,
+      "name": "Karya Baru"
+    },
+    {
+      "code": 7472031003,
+      "name": "Gonda Baru"
+    },
+    {
+      "code": 7472031004,
+      "name": "Bugi"
+    }
+  ]
+}

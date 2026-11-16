@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7316102001,
+      "name": "Pasui"
+    },
+    {
+      "code": 7316102002,
+      "name": "Eran Batu"
+    },
+    {
+      "code": 7316102003,
+      "name": "Latimojong"
+    },
+    {
+      "code": 7316102004,
+      "name": "Buntu Mondong"
+    },
+    {
+      "code": 7316102005,
+      "name": "Ledan"
+    },
+    {
+      "code": 7316102006,
+      "name": "Lunjen"
+    },
+    {
+      "code": 7316102007,
+      "name": "Langda"
+    },
+    {
+      "code": 7316102008,
+      "name": "Potok Ullin"
+    }
+  ]
+}

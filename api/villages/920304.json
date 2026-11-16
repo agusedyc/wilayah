@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 9203041001,
+      "name": "Kokas Kota"
+    },
+    {
+      "code": 9203042003,
+      "name": "Mandoni"
+    },
+    {
+      "code": 9203042008,
+      "name": "Sekar"
+    },
+    {
+      "code": 9203042009,
+      "name": "Ugar"
+    },
+    {
+      "code": 9203042010,
+      "name": "Sisir"
+    },
+    {
+      "code": 9203042011,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 9203042012,
+      "name": "Patimburak"
+    },
+    {
+      "code": 9203042013,
+      "name": "Batufiafas"
+    },
+    {
+      "code": 9203042014,
+      "name": "Kinam"
+    },
+    {
+      "code": 9203042021,
+      "name": "Mambunibuni"
+    },
+    {
+      "code": 9203042024,
+      "name": "Kriawaswas"
+    },
+    {
+      "code": 9203042028,
+      "name": "Sosar"
+    },
+    {
+      "code": 9203042029,
+      "name": "Pang Wadar"
+    },
+    {
+      "code": 9203042030,
+      "name": "Masina"
+    },
+    {
+      "code": 9203042031,
+      "name": "Kimina Kra"
+    }
+  ]
+}

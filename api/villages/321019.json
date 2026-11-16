@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3210192001,
+      "name": "Majasuka"
+    },
+    {
+      "code": 3210192002,
+      "name": "Cisambeng"
+    },
+    {
+      "code": 3210192003,
+      "name": "Palasah"
+    },
+    {
+      "code": 3210192004,
+      "name": "Weragati"
+    },
+    {
+      "code": 3210192005,
+      "name": "Trajaya"
+    },
+    {
+      "code": 3210192006,
+      "name": "Tarikolot"
+    },
+    {
+      "code": 3210192007,
+      "name": "Buniwangi"
+    },
+    {
+      "code": 3210192008,
+      "name": "Sindanghaji"
+    },
+    {
+      "code": 3210192009,
+      "name": "Waringin"
+    },
+    {
+      "code": 3210192010,
+      "name": "Pasir"
+    },
+    {
+      "code": 3210192011,
+      "name": "Karamat"
+    },
+    {
+      "code": 3210192012,
+      "name": "Enggalwangi"
+    },
+    {
+      "code": 3210192013,
+      "name": "Sindangwasa"
+    }
+  ]
+}

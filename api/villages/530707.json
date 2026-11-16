@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5307072002,
+      "name": "Nelle Urung"
+    },
+    {
+      "code": 5307072003,
+      "name": "Nelle Wutung"
+    },
+    {
+      "code": 5307072004,
+      "name": "Nelle Barat"
+    },
+    {
+      "code": 5307072005,
+      "name": "Nella Lorang"
+    },
+    {
+      "code": 5307072006,
+      "name": "Manubura"
+    }
+  ]
+}

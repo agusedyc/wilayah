@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3304202001,
+      "name": "Pagedongan"
+    },
+    {
+      "code": 3304202002,
+      "name": "Gunungjati"
+    },
+    {
+      "code": 3304202003,
+      "name": "Twelagiri"
+    },
+    {
+      "code": 3304202004,
+      "name": "Kebutuhduwur"
+    },
+    {
+      "code": 3304202005,
+      "name": "Kebutuhjurang"
+    },
+    {
+      "code": 3304202006,
+      "name": "Pesangkalan"
+    },
+    {
+      "code": 3304202007,
+      "name": "Duren"
+    },
+    {
+      "code": 3304202008,
+      "name": "Lebakwangi"
+    },
+    {
+      "code": 3304202009,
+      "name": "Gentansari"
+    }
+  ]
+}

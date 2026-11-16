@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9508132001,
+      "name": "Yenggelo"
+    },
+    {
+      "code": 9508132002,
+      "name": "Maima"
+    },
+    {
+      "code": 9508132003,
+      "name": "Nolo"
+    },
+    {
+      "code": 9508132004,
+      "name": "Wuarem"
+    }
+  ]
+}

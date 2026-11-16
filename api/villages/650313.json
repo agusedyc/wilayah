@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6503132001,
+      "name": "Srinanti"
+    },
+    {
+      "code": 6503132002,
+      "name": "Tabur Lestari"
+    },
+    {
+      "code": 6503132003,
+      "name": "Samaenre Semaja"
+    },
+    {
+      "code": 6503132004,
+      "name": "Sekaduyan Taka"
+    }
+  ]
+}

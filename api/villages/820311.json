@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 8203112001,
+      "name": "Upa"
+    },
+    {
+      "code": 8203112002,
+      "name": "Pitu"
+    },
+    {
+      "code": 8203112003,
+      "name": "Wosia"
+    },
+    {
+      "code": 8203112004,
+      "name": "WKO"
+    },
+    {
+      "code": 8203112005,
+      "name": "Kalipitu"
+    },
+    {
+      "code": 8203112006,
+      "name": "Kali Upa"
+    },
+    {
+      "code": 8203112007,
+      "name": "Lina Ino"
+    },
+    {
+      "code": 8203112008,
+      "name": "Mahia (Wosia Tengah)"
+    },
+    {
+      "code": 8203112009,
+      "name": "Tanjung Niara (Wosia Selatan)"
+    }
+  ]
+}

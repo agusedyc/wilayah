@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6209052001,
+      "name": "Melata"
+    },
+    {
+      "code": 6209052002,
+      "name": "Nanuah"
+    },
+    {
+      "code": 6209052003,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6209052004,
+      "name": "Lubuk Hiju"
+    },
+    {
+      "code": 6209052005,
+      "name": "Topalan"
+    },
+    {
+      "code": 6209052006,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 6209052007,
+      "name": "Modang Mas"
+    },
+    {
+      "code": 6209052008,
+      "name": "Bukit Raya"
+    },
+    {
+      "code": 6209052009,
+      "name": "Mukti Manunggal"
+    },
+    {
+      "code": 6209052010,
+      "name": "Sumber Jaya"
+    },
+    {
+      "code": 6209052011,
+      "name": "Bukit Harum"
+    }
+  ]
+}

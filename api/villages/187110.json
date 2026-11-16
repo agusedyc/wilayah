@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1871101001,
+      "name": "Rajabasa"
+    },
+    {
+      "code": 1871101002,
+      "name": "Gedong Meneng"
+    },
+    {
+      "code": 1871101005,
+      "name": "Rajabasa Nunyai"
+    },
+    {
+      "code": 1871101006,
+      "name": "Rajabasa Pemuka"
+    },
+    {
+      "code": 1871101007,
+      "name": "Gedong Meneng Baru"
+    },
+    {
+      "code": 1871101008,
+      "name": "Rajabasa Raya"
+    },
+    {
+      "code": 1871101009,
+      "name": "Rajabasa Jaya"
+    }
+  ]
+}

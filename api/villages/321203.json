@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3212032001,
+      "name": "Kedungdawa"
+    },
+    {
+      "code": 3212032002,
+      "name": "Babakanjaya"
+    },
+    {
+      "code": 3212032003,
+      "name": "Gabus Kulon"
+    },
+    {
+      "code": 3212032004,
+      "name": "Sekarmulya"
+    },
+    {
+      "code": 3212032005,
+      "name": "Kedokangabus"
+    },
+    {
+      "code": 3212032006,
+      "name": "Rancamulya"
+    },
+    {
+      "code": 3212032007,
+      "name": "Rancahan"
+    },
+    {
+      "code": 3212032008,
+      "name": "Gabuswetan"
+    },
+    {
+      "code": 3212032009,
+      "name": "Drunten Wetan"
+    },
+    {
+      "code": 3212032010,
+      "name": "Drunten Kulon"
+    }
+  ]
+}

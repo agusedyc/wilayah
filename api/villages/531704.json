@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5317042001,
+      "name": "Mbilur Pangadu"
+    },
+    {
+      "code": 5317042002,
+      "name": "Soru"
+    },
+    {
+      "code": 5317042003,
+      "name": "Praikoruku Jangga"
+    },
+    {
+      "code": 5317042007,
+      "name": "Lenang"
+    },
+    {
+      "code": 5317042008,
+      "name": "Tana Mbanas"
+    },
+    {
+      "code": 5317042009,
+      "name": "Padira Tana"
+    },
+    {
+      "code": 5317042010,
+      "name": "Ngadu Bolu"
+    },
+    {
+      "code": 5317042014,
+      "name": "Tana Mbanas Selatan"
+    },
+    {
+      "code": 5317042015,
+      "name": "Tana Mbanas Barat"
+    },
+    {
+      "code": 5317042016,
+      "name": "Ngadu Olu"
+    },
+    {
+      "code": 5317042017,
+      "name": "Lenang Selatan"
+    }
+  ]
+}

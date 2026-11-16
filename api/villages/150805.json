@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1508052001,
+      "name": "Teluk Pandak"
+    },
+    {
+      "code": 1508052003,
+      "name": "Empelu"
+    },
+    {
+      "code": 1508052006,
+      "name": "Pasar Lubuk Landai"
+    },
+    {
+      "code": 1508052007,
+      "name": "Sungai Gambir"
+    },
+    {
+      "code": 1508052009,
+      "name": "Candi"
+    },
+    {
+      "code": 1508052010,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1508052012,
+      "name": "Tanah Bekali"
+    },
+    {
+      "code": 1508052015,
+      "name": "Telentam"
+    },
+    {
+      "code": 1508052017,
+      "name": "Pasar Rantau Embacang"
+    },
+    {
+      "code": 1508052019,
+      "name": "Tenam"
+    }
+  ]
+}

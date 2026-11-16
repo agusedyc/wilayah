@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1602132005,
+      "name": "Tebing Suluh"
+    },
+    {
+      "code": 1602132006,
+      "name": "Cahya Bumi"
+    },
+    {
+      "code": 1602132007,
+      "name": "Kutapandan"
+    },
+    {
+      "code": 1602132008,
+      "name": "Cahaya Maju"
+    },
+    {
+      "code": 1602132009,
+      "name": "Bumiagung"
+    },
+    {
+      "code": 1602132010,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 1602132011,
+      "name": "Tugumulyo"
+    },
+    {
+      "code": 1602132013,
+      "name": "Dabuk Rejo"
+    },
+    {
+      "code": 1602132014,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 1602132015,
+      "name": "Bumi Arjo"
+    },
+    {
+      "code": 1602132016,
+      "name": "Tulung Harapan"
+    },
+    {
+      "code": 1602132017,
+      "name": "Kepayang"
+    },
+    {
+      "code": 1602132025,
+      "name": "Tugu Jaya"
+    },
+    {
+      "code": 1602132026,
+      "name": "Tugu Agung"
+    },
+    {
+      "code": 1602132027,
+      "name": "Sindang Sari"
+    },
+    {
+      "code": 1602132028,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 1602132034,
+      "name": "Bumiarjo Makmur"
+    },
+    {
+      "code": 1602132035,
+      "name": "Cahaya Makmur"
+    },
+    {
+      "code": 1602132036,
+      "name": "Sumber Makmur"
+    }
+  ]
+}

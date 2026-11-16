@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9504272001,
+      "name": "Berembanak"
+    },
+    {
+      "code": 9504272002,
+      "name": "Habag"
+    },
+    {
+      "code": 9504272003,
+      "name": "Kekoli"
+    },
+    {
+      "code": 9504272004,
+      "name": "Kamboniki"
+    },
+    {
+      "code": 9504272005,
+      "name": "Kaloniki"
+    },
+    {
+      "code": 9504272006,
+      "name": "Tari"
+    },
+    {
+      "code": 9504272007,
+      "name": "Marbuna"
+    },
+    {
+      "code": 9504272008,
+      "name": "Malta"
+    }
+  ]
+}

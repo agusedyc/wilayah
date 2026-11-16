@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1217072001,
+      "name": "Salaon Toba"
+    },
+    {
+      "code": 1217072002,
+      "name": "Lintong Nihuta"
+    },
+    {
+      "code": 1217072003,
+      "name": "Salaon Tonga Tonga"
+    },
+    {
+      "code": 1217072004,
+      "name": "Salaon Dolok"
+    },
+    {
+      "code": 1217072005,
+      "name": "Ronggur Nihuta"
+    },
+    {
+      "code": 1217072006,
+      "name": "Sabungan Nihuta"
+    },
+    {
+      "code": 1217072007,
+      "name": "Paraduan"
+    },
+    {
+      "code": 1217072008,
+      "name": "Sijambur"
+    }
+  ]
+}

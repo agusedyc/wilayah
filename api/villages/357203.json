@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3572031001,
+      "name": "Gedog"
+    },
+    {
+      "code": 3572031002,
+      "name": "Plosokerep"
+    },
+    {
+      "code": 3572031003,
+      "name": "Klampok"
+    },
+    {
+      "code": 3572031004,
+      "name": "Sananwetan"
+    },
+    {
+      "code": 3572031005,
+      "name": "Rembang"
+    },
+    {
+      "code": 3572031006,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3572031007,
+      "name": "Bendogerit"
+    }
+  ]
+}

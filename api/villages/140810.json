@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1408101001,
+      "name": "Simpang Belutu"
+    },
+    {
+      "code": 1408101002,
+      "name": "Telaga Sam-sam"
+    },
+    {
+      "code": 1408101003,
+      "name": "Kandis Kota"
+    },
+    {
+      "code": 1408102004,
+      "name": "Belutu"
+    },
+    {
+      "code": 1408102005,
+      "name": "Kandis"
+    },
+    {
+      "code": 1408102006,
+      "name": "Sam-Sam"
+    },
+    {
+      "code": 1408102007,
+      "name": "Bekalar"
+    },
+    {
+      "code": 1408102008,
+      "name": "Jambai Makmur"
+    },
+    {
+      "code": 1408102009,
+      "name": "Sungai Gondang"
+    },
+    {
+      "code": 1408102010,
+      "name": "Pencing Bekulo"
+    },
+    {
+      "code": 1408102011,
+      "name": "Libo Jaya"
+    }
+  ]
+}

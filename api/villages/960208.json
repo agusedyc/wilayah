@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9602082001,
+      "name": "Kais"
+    },
+    {
+      "code": 9602082002,
+      "name": "Tapuri"
+    },
+    {
+      "code": 9602082003,
+      "name": "Yahadian"
+    },
+    {
+      "code": 9602082004,
+      "name": "Benawa I"
+    },
+    {
+      "code": 9602082005,
+      "name": "Sumano"
+    }
+  ]
+}

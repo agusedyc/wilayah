@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9501401001,
+      "name": "Ilokama"
+    },
+    {
+      "code": 9501402002,
+      "name": "Kama"
+    },
+    {
+      "code": 9501402003,
+      "name": "Yaloaput"
+    },
+    {
+      "code": 9501402004,
+      "name": "Mawampi"
+    },
+    {
+      "code": 9501402005,
+      "name": "Parema"
+    },
+    {
+      "code": 9501402006,
+      "name": "Agamoa"
+    },
+    {
+      "code": 9501402007,
+      "name": "Silumarek"
+    },
+    {
+      "code": 9501402008,
+      "name": "Wesaganya"
+    }
+  ]
+}

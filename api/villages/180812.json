@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1808122001,
+      "name": "Negeri Besar"
+    },
+    {
+      "code": 1808122002,
+      "name": "Kiling-kiling"
+    },
+    {
+      "code": 1808122003,
+      "name": "Kali Awi"
+    },
+    {
+      "code": 1808122004,
+      "name": "Tiuh Baru"
+    },
+    {
+      "code": 1808122005,
+      "name": "Bima Sakti"
+    },
+    {
+      "code": 1808122006,
+      "name": "Tegal Mukti"
+    },
+    {
+      "code": 1808122007,
+      "name": "Negara Jaya"
+    },
+    {
+      "code": 1808122008,
+      "name": "Pagar Iman"
+    },
+    {
+      "code": 1808122009,
+      "name": "Sri Basuki"
+    },
+    {
+      "code": 1808122010,
+      "name": "Kali Awi Indah"
+    },
+    {
+      "code": 1808122011,
+      "name": "Negeri Jaya"
+    },
+    {
+      "code": 1808122012,
+      "name": "Tanjung Mas"
+    },
+    {
+      "code": 1808122013,
+      "name": "Negeri Kasih"
+    }
+  ]
+}

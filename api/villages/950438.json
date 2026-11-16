@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504382001,
+      "name": "Wugi"
+    },
+    {
+      "code": 9504382002,
+      "name": "Loma"
+    },
+    {
+      "code": 9504382003,
+      "name": "Gitar"
+    },
+    {
+      "code": 9504382004,
+      "name": "Gilime"
+    },
+    {
+      "code": 9504382005,
+      "name": "Lena"
+    },
+    {
+      "code": 9504382006,
+      "name": "Timoneri"
+    },
+    {
+      "code": 9504382007,
+      "name": "Kuagembur"
+    },
+    {
+      "code": 9504382008,
+      "name": "Wuronggi"
+    },
+    {
+      "code": 9504382009,
+      "name": "Buangludah"
+    },
+    {
+      "code": 9504382010,
+      "name": "Pindelo"
+    },
+    {
+      "code": 9504382011,
+      "name": "Koli"
+    }
+  ]
+}

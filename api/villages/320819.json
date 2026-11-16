@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3208192001,
+      "name": "Padabeunghar"
+    },
+    {
+      "code": 3208192002,
+      "name": "Kaduela"
+    },
+    {
+      "code": 3208192003,
+      "name": "Pasawahan"
+    },
+    {
+      "code": 3208192004,
+      "name": "Ciwiru"
+    },
+    {
+      "code": 3208192005,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3208192006,
+      "name": "Cimara"
+    },
+    {
+      "code": 3208192007,
+      "name": "Paniis"
+    },
+    {
+      "code": 3208192008,
+      "name": "Cibuntu"
+    },
+    {
+      "code": 3208192009,
+      "name": "Singkup"
+    },
+    {
+      "code": 3208192010,
+      "name": "Padamatang"
+    }
+  ]
+}

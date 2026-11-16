@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3525182001,
+      "name": "Gelam"
+    },
+    {
+      "code": 3525182002,
+      "name": "Sukaoneng"
+    },
+    {
+      "code": 3525182003,
+      "name": "Sukalela"
+    },
+    {
+      "code": 3525182004,
+      "name": "Pekalongan"
+    },
+    {
+      "code": 3525182005,
+      "name": "Tambak"
+    },
+    {
+      "code": 3525182006,
+      "name": "Telukjatidawang"
+    },
+    {
+      "code": 3525182007,
+      "name": "Klumpanggubug"
+    },
+    {
+      "code": 3525182008,
+      "name": "Grejeg"
+    },
+    {
+      "code": 3525182009,
+      "name": "Tanjungori"
+    },
+    {
+      "code": 3525182010,
+      "name": "Peromaan"
+    },
+    {
+      "code": 3525182011,
+      "name": "Diponggo"
+    },
+    {
+      "code": 3525182012,
+      "name": "Kepuhteluk"
+    },
+    {
+      "code": 3525182013,
+      "name": "Kepuhlegundi"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3203042001,
+      "name": "Rancagoong"
+    },
+    {
+      "code": 3203042002,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3203042003,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3203042004,
+      "name": "Sukakerta"
+    },
+    {
+      "code": 3203042005,
+      "name": "Cibinonghilir"
+    },
+    {
+      "code": 3203042006,
+      "name": "Rahong"
+    },
+    {
+      "code": 3203042007,
+      "name": "Munjul"
+    },
+    {
+      "code": 3203042008,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3203042009,
+      "name": "Ciharashas"
+    },
+    {
+      "code": 3203042010,
+      "name": "Mulyasari"
+    }
+  ]
+}

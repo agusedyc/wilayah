@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9202212001,
+      "name": "Kaironi"
+    },
+    {
+      "code": 9202212002,
+      "name": "Sidey"
+    },
+    {
+      "code": 9202212003,
+      "name": "Waramui"
+    },
+    {
+      "code": 9202212004,
+      "name": "Kassi"
+    },
+    {
+      "code": 9202212005,
+      "name": "Saray"
+    },
+    {
+      "code": 9202212006,
+      "name": "Sidey Baru"
+    },
+    {
+      "code": 9202212007,
+      "name": "Sidey Makmur"
+    },
+    {
+      "code": 9202212008,
+      "name": "Meyof I"
+    },
+    {
+      "code": 9202212009,
+      "name": "Wariki"
+    },
+    {
+      "code": 9202212010,
+      "name": "Womnowi"
+    },
+    {
+      "code": 9202212011,
+      "name": "Manggupi"
+    },
+    {
+      "code": 9202212012,
+      "name": "Sidey Jaya"
+    }
+  ]
+}

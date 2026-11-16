@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 5307082001,
+      "name": "Darat Gunung"
+    },
+    {
+      "code": 5307082002,
+      "name": "Ojang"
+    },
+    {
+      "code": 5307082003,
+      "name": "Hikong"
+    },
+    {
+      "code": 5307082006,
+      "name": "Nebe"
+    },
+    {
+      "code": 5307082007,
+      "name": "Wailamung"
+    },
+    {
+      "code": 5307082008,
+      "name": "Lewomada"
+    },
+    {
+      "code": 5307082010,
+      "name": "Nangahale"
+    },
+    {
+      "code": 5307082011,
+      "name": "Darat Pantai"
+    },
+    {
+      "code": 5307082013,
+      "name": "Talibura"
+    },
+    {
+      "code": 5307082014,
+      "name": "Kringa"
+    },
+    {
+      "code": 5307082015,
+      "name": "Bangkoor"
+    },
+    {
+      "code": 5307082017,
+      "name": "Timutawa"
+    },
+    {
+      "code": 5307082019,
+      "name": "Udek Du’en"
+    },
+    {
+      "code": 5307082020,
+      "name": "Watu Omok"
+    },
+    {
+      "code": 5307082021,
+      "name": "Waipaar"
+    },
+    {
+      "code": 5307082022,
+      "name": "Baokremot"
+    },
+    {
+      "code": 5307082023,
+      "name": "Henga"
+    },
+    {
+      "code": 5307082024,
+      "name": "Likonggete"
+    },
+    {
+      "code": 5307082025,
+      "name": "Watubaing"
+    },
+    {
+      "code": 5307082026,
+      "name": "Mamai"
+    }
+  ]
+}

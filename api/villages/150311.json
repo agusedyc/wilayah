@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1503112001,
+      "name": "Guruh Baru"
+    },
+    {
+      "code": 1503112002,
+      "name": "Petiduran Baru"
+    },
+    {
+      "code": 1503112003,
+      "name": "Sungai Butang"
+    },
+    {
+      "code": 1503112004,
+      "name": "Butang Baru"
+    },
+    {
+      "code": 1503112005,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 1503112006,
+      "name": "Jati Baru"
+    },
+    {
+      "code": 1503112007,
+      "name": "Jati Baru Mudo"
+    },
+    {
+      "code": 1503112008,
+      "name": "Meranti Baru"
+    },
+    {
+      "code": 1503112009,
+      "name": "Meranti Jaya"
+    },
+    {
+      "code": 1503112010,
+      "name": "Jernang Baru"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1802272001,
+      "name": "Gedung Sari"
+    },
+    {
+      "code": 1802272002,
+      "name": "Srimulyo"
+    },
+    {
+      "code": 1802272003,
+      "name": "Gedung Ratu"
+    },
+    {
+      "code": 1802272004,
+      "name": "Bandar Putih Tua"
+    },
+    {
+      "code": 1802272005,
+      "name": "Karang Jawa"
+    },
+    {
+      "code": 1802272006,
+      "name": "Sukajaya"
+    }
+  ]
+}

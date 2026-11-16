@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7102021001,
+      "name": "Luaan"
+    },
+    {
+      "code": 7102021005,
+      "name": "Ranowangko"
+    },
+    {
+      "code": 7102021006,
+      "name": "Wengkol"
+    },
+    {
+      "code": 7102021007,
+      "name": "Kendis"
+    },
+    {
+      "code": 7102021008,
+      "name": "Katinggolan"
+    },
+    {
+      "code": 7102021009,
+      "name": "Liningaan"
+    },
+    {
+      "code": 7102021010,
+      "name": "Taler"
+    },
+    {
+      "code": 7102021011,
+      "name": "Kiniar"
+    },
+    {
+      "code": 7102021012,
+      "name": "Touluor"
+    },
+    {
+      "code": 7102021013,
+      "name": "Papakelan"
+    },
+    {
+      "code": 7102021014,
+      "name": "Makalounsow"
+    }
+  ]
+}

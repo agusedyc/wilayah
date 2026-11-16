@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 1102062001,
+      "name": "Pardomuan II"
+    },
+    {
+      "code": 1102062002,
+      "name": "Lawe Desky I"
+    },
+    {
+      "code": 1102062003,
+      "name": "Lawe Desky Sabas"
+    },
+    {
+      "code": 1102062004,
+      "name": "Pardomuan I"
+    },
+    {
+      "code": 1102062005,
+      "name": "Cinta Damai"
+    },
+    {
+      "code": 1102062006,
+      "name": "Lawe Perbunga"
+    },
+    {
+      "code": 1102062007,
+      "name": "Lawe Desky Tongah"
+    },
+    {
+      "code": 1102062008,
+      "name": "Kute Bakti"
+    },
+    {
+      "code": 1102062010,
+      "name": "Muara Situlen"
+    },
+    {
+      "code": 1102062011,
+      "name": "Sejahtera"
+    },
+    {
+      "code": 1102062012,
+      "name": "Kute Makmur"
+    },
+    {
+      "code": 1102062013,
+      "name": "Pardamean"
+    },
+    {
+      "code": 1102062014,
+      "name": "Lawe Mantik"
+    },
+    {
+      "code": 1102062015,
+      "name": "Cinta Makmur"
+    },
+    {
+      "code": 1102062016,
+      "name": "Muara Setia"
+    },
+    {
+      "code": 1102062017,
+      "name": "Tanoh Alas"
+    },
+    {
+      "code": 1102062018,
+      "name": "Sejahtera Baru"
+    },
+    {
+      "code": 1102062024,
+      "name": "Lawe Tawakh"
+    },
+    {
+      "code": 1102062025,
+      "name": "Sabilussalam"
+    },
+    {
+      "code": 1102062026,
+      "name": "Lawe Desky Jaya"
+    },
+    {
+      "code": 1102062027,
+      "name": "Pintu Alas"
+    }
+  ]
+}

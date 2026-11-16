@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202192001,
+      "name": "Kabandungan"
+    },
+    {
+      "code": 3202192002,
+      "name": "Cipeuteuy"
+    },
+    {
+      "code": 3202192003,
+      "name": "Cihamerang"
+    },
+    {
+      "code": 3202192004,
+      "name": "Tugubandung"
+    },
+    {
+      "code": 3202192005,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3202192006,
+      "name": "Cianaga"
+    }
+  ]
+}

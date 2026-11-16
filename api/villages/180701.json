@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1807012001,
+      "name": "Sukadana"
+    },
+    {
+      "code": 1807012002,
+      "name": "Pakuan Aji"
+    },
+    {
+      "code": 1807012003,
+      "name": "Bumi Nabung Udik"
+    },
+    {
+      "code": 1807012004,
+      "name": "Rajabasa Batanghari"
+    },
+    {
+      "code": 1807012005,
+      "name": "Negara Nabung"
+    },
+    {
+      "code": 1807012006,
+      "name": "Terbangi Marga"
+    },
+    {
+      "code": 1807012007,
+      "name": "Mataram Marga"
+    },
+    {
+      "code": 1807012008,
+      "name": "Pasar Sukadana"
+    },
+    {
+      "code": 1807012009,
+      "name": "Surabaya Udik"
+    },
+    {
+      "code": 1807012010,
+      "name": "Rantau Jaya Udik"
+    },
+    {
+      "code": 1807012011,
+      "name": "Muara Jaya"
+    },
+    {
+      "code": 1807012012,
+      "name": "Sukadana Ilir"
+    },
+    {
+      "code": 1807012013,
+      "name": "Bumi Ayu"
+    },
+    {
+      "code": 1807012014,
+      "name": "Sukadana Timur"
+    },
+    {
+      "code": 1807012015,
+      "name": "Rantau Jaya Udik II"
+    },
+    {
+      "code": 1807012016,
+      "name": "Putra Aji II"
+    },
+    {
+      "code": 1807012017,
+      "name": "Putra Aji I"
+    },
+    {
+      "code": 1807012018,
+      "name": "Sukadana Selatan"
+    },
+    {
+      "code": 1807012019,
+      "name": "Sukadana Jaya"
+    },
+    {
+      "code": 1807012020,
+      "name": "Sukadana Tengah"
+    }
+  ]
+}

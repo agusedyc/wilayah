@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1117082001,
+      "name": "Bandar Jaya"
+    },
+    {
+      "code": 1117082002,
+      "name": "Jongok Meluem"
+    },
+    {
+      "code": 1117082003,
+      "name": "Suku Bener"
+    },
+    {
+      "code": 1117082004,
+      "name": "Bener Lukup II"
+    },
+    {
+      "code": 1117082005,
+      "name": "Gunung Musara"
+    },
+    {
+      "code": 1117082006,
+      "name": "Bener Kelipah Selatan"
+    },
+    {
+      "code": 1117082007,
+      "name": "Bintang Musara"
+    },
+    {
+      "code": 1117082008,
+      "name": "Kala Tenang"
+    },
+    {
+      "code": 1117082009,
+      "name": "Bener Kelipah Utara"
+    },
+    {
+      "code": 1117082010,
+      "name": "Lot Bener Kelipah"
+    },
+    {
+      "code": 1117082011,
+      "name": "Nosar Tawar Jaya"
+    },
+    {
+      "code": 1117082012,
+      "name": "Nosar Baru"
+    }
+  ]
+}

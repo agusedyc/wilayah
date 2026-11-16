@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3276021007,
+      "name": "Harjamukti"
+    },
+    {
+      "code": 3276021008,
+      "name": "Curug"
+    },
+    {
+      "code": 3276021009,
+      "name": "Tugu"
+    },
+    {
+      "code": 3276021010,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3276021011,
+      "name": "Pasir Gunung Selatan"
+    },
+    {
+      "code": 3276021012,
+      "name": "Cisalak Pasar"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9601302001,
+      "name": "Sailala"
+    },
+    {
+      "code": 9601302002,
+      "name": "Klawana"
+    },
+    {
+      "code": 9601302003,
+      "name": "Kladuk"
+    },
+    {
+      "code": 9601302004,
+      "name": "Klawon"
+    },
+    {
+      "code": 9601302005,
+      "name": "Klakak"
+    },
+    {
+      "code": 9601302006,
+      "name": "Klalwok"
+    }
+  ]
+}

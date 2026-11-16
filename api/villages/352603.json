@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3526031005,
+      "name": "Tunjung"
+    },
+    {
+      "code": 3526032001,
+      "name": "Burneh"
+    },
+    {
+      "code": 3526032002,
+      "name": "Langkap"
+    },
+    {
+      "code": 3526032003,
+      "name": "Banangkah"
+    },
+    {
+      "code": 3526032004,
+      "name": "Alaskembang"
+    },
+    {
+      "code": 3526032006,
+      "name": "Arok"
+    },
+    {
+      "code": 3526032007,
+      "name": "Kapor"
+    },
+    {
+      "code": 3526032008,
+      "name": "Sobih"
+    },
+    {
+      "code": 3526032009,
+      "name": "Pangolangan"
+    },
+    {
+      "code": 3526032010,
+      "name": "Binoh"
+    },
+    {
+      "code": 3526032011,
+      "name": "Perreng"
+    },
+    {
+      "code": 3526032012,
+      "name": "Jambuh"
+    }
+  ]
+}

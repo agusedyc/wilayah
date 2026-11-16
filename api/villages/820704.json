@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 8207042001,
+      "name": "Bere-bere"
+    },
+    {
+      "code": 8207042002,
+      "name": "Sakita"
+    },
+    {
+      "code": 8207042003,
+      "name": "Tawakali"
+    },
+    {
+      "code": 8207042004,
+      "name": "Yao"
+    },
+    {
+      "code": 8207042005,
+      "name": "Bido"
+    },
+    {
+      "code": 8207042006,
+      "name": "Gorua"
+    },
+    {
+      "code": 8207042007,
+      "name": "Korago"
+    },
+    {
+      "code": 8207042008,
+      "name": "Lusuo"
+    },
+    {
+      "code": 8207042009,
+      "name": "Kenari"
+    },
+    {
+      "code": 8207042010,
+      "name": "Loleo Jaya"
+    },
+    {
+      "code": 8207042011,
+      "name": "Maba"
+    },
+    {
+      "code": 8207042012,
+      "name": "Tanjung Saleh"
+    },
+    {
+      "code": 8207042013,
+      "name": "Goa Hira"
+    },
+    {
+      "code": 8207042014,
+      "name": "Gorua Selatan"
+    }
+  ]
+}

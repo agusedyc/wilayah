@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1218032001,
+      "name": "Sei Buluh"
+    },
+    {
+      "code": 1218032002,
+      "name": "Liberia"
+    },
+    {
+      "code": 1218032003,
+      "name": "Mata Pao"
+    },
+    {
+      "code": 1218032004,
+      "name": "Pematang Setrak"
+    },
+    {
+      "code": 1218032005,
+      "name": "Makmur"
+    },
+    {
+      "code": 1218032006,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1218032007,
+      "name": "Pekan Sialang Buah"
+    },
+    {
+      "code": 1218032008,
+      "name": "Pematang Guntung"
+    },
+    {
+      "code": 1218032009,
+      "name": "Sialang Buah"
+    },
+    {
+      "code": 1218032010,
+      "name": "Sentang"
+    },
+    {
+      "code": 1218032011,
+      "name": "Bogak Besar"
+    },
+    {
+      "code": 1218032012,
+      "name": "Pematang Kuala"
+    }
+  ]
+}

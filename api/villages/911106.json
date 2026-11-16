@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9111062005,
+      "name": "Yetti"
+    },
+    {
+      "code": 9111062006,
+      "name": "Kriku"
+    },
+    {
+      "code": 9111062007,
+      "name": "Skofro"
+    },
+    {
+      "code": 9111062008,
+      "name": "Kibay"
+    },
+    {
+      "code": 9111062009,
+      "name": "Sangke"
+    },
+    {
+      "code": 9111062011,
+      "name": "Suskun"
+    },
+    {
+      "code": 9111062013,
+      "name": "Amyu"
+    },
+    {
+      "code": 9111062014,
+      "name": "Kikere"
+    },
+    {
+      "code": 9111062015,
+      "name": "Petewi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9508242001,
+      "name": "Wendama"
+    },
+    {
+      "code": 9508242002,
+      "name": "Embetpem"
+    },
+    {
+      "code": 9508242003,
+      "name": "Yenai"
+    },
+    {
+      "code": 9508242004,
+      "name": "Digilimu"
+    },
+    {
+      "code": 9508242005,
+      "name": "Bisikimu"
+    }
+  ]
+}

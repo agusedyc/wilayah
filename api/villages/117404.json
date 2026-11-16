@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1174042001,
+      "name": "Pondok Kemuning"
+    },
+    {
+      "code": 1174042002,
+      "name": "Seulalah"
+    },
+    {
+      "code": 1174042003,
+      "name": "Pondok Pabrik"
+    },
+    {
+      "code": 1174042004,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1174042005,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 1174042006,
+      "name": "Baro"
+    },
+    {
+      "code": 1174042007,
+      "name": "Meurandeh"
+    },
+    {
+      "code": 1174042008,
+      "name": "Asam Peutik"
+    },
+    {
+      "code": 1174042009,
+      "name": "Baroh Langsa Lama"
+    },
+    {
+      "code": 1174042010,
+      "name": "Seulalah Baru"
+    },
+    {
+      "code": 1174042011,
+      "name": "Sukajadi Kebun Ireng"
+    },
+    {
+      "code": 1174042012,
+      "name": "Meurandeh Tengah"
+    },
+    {
+      "code": 1174042013,
+      "name": "Meurandeh Dayah"
+    },
+    {
+      "code": 1174042014,
+      "name": "Meurandeh Aceh"
+    },
+    {
+      "code": 1174042015,
+      "name": "Batee Puteh"
+    }
+  ]
+}

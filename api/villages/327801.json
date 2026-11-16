@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3278011001,
+      "name": "Yudanagara"
+    },
+    {
+      "code": 3278011002,
+      "name": "Nagarawangi"
+    },
+    {
+      "code": 3278011003,
+      "name": "Cilembang"
+    },
+    {
+      "code": 3278011004,
+      "name": "Argasari"
+    },
+    {
+      "code": 3278011005,
+      "name": "Tugujaya"
+    },
+    {
+      "code": 3278011006,
+      "name": "Tuguraja"
+    }
+  ]
+}

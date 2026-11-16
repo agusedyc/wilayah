@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7208152001,
+      "name": "Malakosa"
+    },
+    {
+      "code": 7208152002,
+      "name": "Balinggi Jati"
+    },
+    {
+      "code": 7208152003,
+      "name": "Balinggi"
+    },
+    {
+      "code": 7208152004,
+      "name": "Suli"
+    },
+    {
+      "code": 7208152005,
+      "name": "Suli Indah"
+    },
+    {
+      "code": 7208152006,
+      "name": "Beraban"
+    },
+    {
+      "code": 7208152007,
+      "name": "Lebagu"
+    },
+    {
+      "code": 7208152008,
+      "name": "Tumpapa Indah"
+    },
+    {
+      "code": 7208152009,
+      "name": "Catur Karya"
+    }
+  ]
+}

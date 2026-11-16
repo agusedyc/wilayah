@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7406162001,
+      "name": "Lamonggi"
+    },
+    {
+      "code": 7406162002,
+      "name": "Tangkeno"
+    },
+    {
+      "code": 7406162003,
+      "name": "Lengora"
+    },
+    {
+      "code": 7406162004,
+      "name": "Enano"
+    },
+    {
+      "code": 7406162005,
+      "name": "Ulungkura"
+    },
+    {
+      "code": 7406162006,
+      "name": "Lengora Selatan"
+    },
+    {
+      "code": 7406162007,
+      "name": "Lengora Pantai"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3273161001,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3273161002,
+      "name": "Kebon Jayanti"
+    },
+    {
+      "code": 3273161003,
+      "name": "Babakan Surabaya"
+    },
+    {
+      "code": 3273161004,
+      "name": "Cicaheum"
+    },
+    {
+      "code": 3273161005,
+      "name": "Babakan Sari"
+    },
+    {
+      "code": 3273161006,
+      "name": "Kebon Kangkung"
+    }
+  ]
+}

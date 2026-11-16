@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 6101022001,
+      "name": "Sungai Kumpai"
+    },
+    {
+      "code": 6101022002,
+      "name": "Sekura"
+    },
+    {
+      "code": 6101022003,
+      "name": "Tri Mandayan"
+    },
+    {
+      "code": 6101022004,
+      "name": "Pedada"
+    },
+    {
+      "code": 6101022005,
+      "name": "Lela"
+    },
+    {
+      "code": 6101022006,
+      "name": "Puringan"
+    },
+    {
+      "code": 6101022007,
+      "name": "Berlimang"
+    },
+    {
+      "code": 6101022008,
+      "name": "Sungai Baru"
+    },
+    {
+      "code": 6101022009,
+      "name": "Sengawang"
+    },
+    {
+      "code": 6101022010,
+      "name": "Teluk Kaseh"
+    },
+    {
+      "code": 6101022011,
+      "name": "Sepadu"
+    },
+    {
+      "code": 6101022012,
+      "name": "Tambatan"
+    },
+    {
+      "code": 6101022013,
+      "name": "Kubangga"
+    },
+    {
+      "code": 6101022020,
+      "name": "Sungai Serabek"
+    },
+    {
+      "code": 6101022021,
+      "name": "Sayang Sedayu"
+    },
+    {
+      "code": 6101022022,
+      "name": "Pipit Teja"
+    },
+    {
+      "code": 6101022024,
+      "name": "Matang Segantar"
+    },
+    {
+      "code": 6101022025,
+      "name": "Mulia"
+    },
+    {
+      "code": 6101022026,
+      "name": "Teluk Kembang"
+    },
+    {
+      "code": 6101022027,
+      "name": "Samustida"
+    },
+    {
+      "code": 6101022028,
+      "name": "Tanjung Keracut"
+    },
+    {
+      "code": 6101022029,
+      "name": "Sebagu"
+    },
+    {
+      "code": 6101022030,
+      "name": "Mekar Sekuntum"
+    },
+    {
+      "code": 6101022031,
+      "name": "Kuala Pangkalan Keramat"
+    },
+    {
+      "code": 6101022032,
+      "name": "Sabing"
+    }
+  ]
+}

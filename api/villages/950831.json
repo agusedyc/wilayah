@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9508312001,
+      "name": "Krepkuri"
+    },
+    {
+      "code": 9508312002,
+      "name": "Alguru"
+    },
+    {
+      "code": 9508312003,
+      "name": "Sagapusatu"
+    },
+    {
+      "code": 9508312004,
+      "name": "Mumugu"
+    },
+    {
+      "code": 9508312005,
+      "name": "Ginid"
+    },
+    {
+      "code": 9508312006,
+      "name": "Banggabeak"
+    }
+  ]
+}

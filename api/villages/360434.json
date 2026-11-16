@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3604342001,
+      "name": "Bandung"
+    },
+    {
+      "code": 3604342002,
+      "name": "Mander"
+    },
+    {
+      "code": 3604342003,
+      "name": "Panamping"
+    },
+    {
+      "code": 3604342004,
+      "name": "Pangawinan"
+    },
+    {
+      "code": 3604342005,
+      "name": "Malabar"
+    },
+    {
+      "code": 3604342006,
+      "name": "Blokang"
+    },
+    {
+      "code": 3604342007,
+      "name": "Babakan"
+    },
+    {
+      "code": 3604342008,
+      "name": "Pringwulung"
+    }
+  ]
+}

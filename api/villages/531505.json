@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 5315051024,
+      "name": "Wae Kelambu"
+    },
+    {
+      "code": 5315051025,
+      "name": "Labuan Bajo"
+    },
+    {
+      "code": 5315052001,
+      "name": "Komodo"
+    },
+    {
+      "code": 5315052002,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 5315052003,
+      "name": "Pasir Panjang"
+    },
+    {
+      "code": 5315052004,
+      "name": "Golo Mori"
+    },
+    {
+      "code": 5315052005,
+      "name": "Warloka"
+    },
+    {
+      "code": 5315052007,
+      "name": "Golo Bilas"
+    },
+    {
+      "code": 5315052008,
+      "name": "Macang Tanggar"
+    },
+    {
+      "code": 5315052009,
+      "name": "Watu Nggelek"
+    },
+    {
+      "code": 5315052015,
+      "name": "Golo Pongkor"
+    },
+    {
+      "code": 5315052016,
+      "name": "Nggorang"
+    },
+    {
+      "code": 5315052018,
+      "name": "Papa Garang"
+    },
+    {
+      "code": 5315052019,
+      "name": "Batu Cermin"
+    },
+    {
+      "code": 5315052020,
+      "name": "Gorontalo"
+    },
+    {
+      "code": 5315052022,
+      "name": "Tiwu Nampar"
+    },
+    {
+      "code": 5315052026,
+      "name": "Seraya Marannu"
+    },
+    {
+      "code": 5315052027,
+      "name": "Compang Longgo"
+    },
+    {
+      "code": 5315052028,
+      "name": "Pantar"
+    }
+  ]
+}

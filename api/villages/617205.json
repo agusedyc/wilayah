@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6172051001,
+      "name": "Sedau"
+    },
+    {
+      "code": 6172051002,
+      "name": "Sagatani"
+    },
+    {
+      "code": 6172051003,
+      "name": "Sijangkung"
+    },
+    {
+      "code": 6172051004,
+      "name": "Pangmilang"
+    }
+  ]
+}

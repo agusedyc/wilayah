@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1613041005,
+      "name": "Bingin Teluk"
+    },
+    {
+      "code": 1613042001,
+      "name": "Pauh"
+    },
+    {
+      "code": 1613042002,
+      "name": "Batu Kucing"
+    },
+    {
+      "code": 1613042003,
+      "name": "Belani"
+    },
+    {
+      "code": 1613042004,
+      "name": "Tanjung Raja"
+    },
+    {
+      "code": 1613042006,
+      "name": "Mandi Angin"
+    },
+    {
+      "code": 1613042007,
+      "name": "Air Bening"
+    },
+    {
+      "code": 1613042008,
+      "name": "Beringin Sakti"
+    },
+    {
+      "code": 1613042009,
+      "name": "Beringin Makmur I"
+    },
+    {
+      "code": 1613042010,
+      "name": "Beringin Makmur II"
+    },
+    {
+      "code": 1613042011,
+      "name": "Pauh I"
+    },
+    {
+      "code": 1613042012,
+      "name": "Ketapat Bening"
+    },
+    {
+      "code": 1613042013,
+      "name": "Mekarsari"
+    }
+  ]
+}

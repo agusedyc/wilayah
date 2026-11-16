@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5304182001,
+      "name": "Ekin"
+    },
+    {
+      "code": 5304182002,
+      "name": "Loonuna"
+    },
+    {
+      "code": 5304182003,
+      "name": "Nualain"
+    },
+    {
+      "code": 5304182004,
+      "name": "Lakmaras"
+    },
+    {
+      "code": 5304182005,
+      "name": "Henes"
+    },
+    {
+      "code": 5304182006,
+      "name": "Debululik"
+    },
+    {
+      "code": 5304182007,
+      "name": "Sisi Fatuberal"
+    },
+    {
+      "code": 5304182008,
+      "name": "Lutha Rato"
+    }
+  ]
+}

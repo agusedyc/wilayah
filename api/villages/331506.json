@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3315062001,
+      "name": "Randurejo"
+    },
+    {
+      "code": 3315062002,
+      "name": "Mlowokarangtalun"
+    },
+    {
+      "code": 3315062003,
+      "name": "Pojok"
+    },
+    {
+      "code": 3315062004,
+      "name": "Jatiharjo"
+    },
+    {
+      "code": 3315062005,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3315062006,
+      "name": "Tuko"
+    },
+    {
+      "code": 3315062007,
+      "name": "Panunggalan"
+    },
+    {
+      "code": 3315062008,
+      "name": "Mangunrejo"
+    },
+    {
+      "code": 3315062009,
+      "name": "Jetaksari"
+    },
+    {
+      "code": 3315062010,
+      "name": "Pulokulon"
+    },
+    {
+      "code": 3315062011,
+      "name": "Jambon"
+    },
+    {
+      "code": 3315062012,
+      "name": "Karangharjo"
+    },
+    {
+      "code": 3315062013,
+      "name": "Sembungharjo"
+    }
+  ]
+}

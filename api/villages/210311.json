@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2103112001,
+      "name": "Sabang Mawang"
+    },
+    {
+      "code": 2103112003,
+      "name": "Sededap"
+    },
+    {
+      "code": 2103112004,
+      "name": "Tanjung Batang"
+    },
+    {
+      "code": 2103112005,
+      "name": "Serantas"
+    },
+    {
+      "code": 2103112006,
+      "name": "Sabang Mawang Barat"
+    },
+    {
+      "code": 2103112010,
+      "name": "Teluk Labuh"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7505112001,
+      "name": "Deme i"
+    },
+    {
+      "code": 7505112002,
+      "name": "Buluwatu"
+    },
+    {
+      "code": 7505112003,
+      "name": "Dulukapa"
+    },
+    {
+      "code": 7505112004,
+      "name": "Deme II"
+    },
+    {
+      "code": 7505112005,
+      "name": "Buladu"
+    },
+    {
+      "code": 7505112006,
+      "name": "Hulawa"
+    },
+    {
+      "code": 7505112007,
+      "name": "Wubudu"
+    },
+    {
+      "code": 7505112008,
+      "name": "Bubalango"
+    },
+    {
+      "code": 7505112009,
+      "name": "Motihelumo"
+    },
+    {
+      "code": 7505112010,
+      "name": "Koluwoka"
+    }
+  ]
+}

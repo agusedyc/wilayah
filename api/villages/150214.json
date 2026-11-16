@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1502142001,
+      "name": "Rantau Limau Manis"
+    },
+    {
+      "code": 1502142002,
+      "name": "Ulak Makam"
+    },
+    {
+      "code": 1502142003,
+      "name": "Air Batu"
+    },
+    {
+      "code": 1502142004,
+      "name": "Rejo Sari"
+    },
+    {
+      "code": 1502142005,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 1502142006,
+      "name": "Tunggul Bulin"
+    },
+    {
+      "code": 1502142007,
+      "name": "Mekar Limau Manis"
+    }
+  ]
+}

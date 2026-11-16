@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3312041008,
+      "name": "Selopuro"
+    },
+    {
+      "code": 3312042001,
+      "name": "Sendangsari"
+    },
+    {
+      "code": 3312042002,
+      "name": "Tegiri"
+    },
+    {
+      "code": 3312042003,
+      "name": "Batuwarno"
+    },
+    {
+      "code": 3312042004,
+      "name": "Sumberejo"
+    },
+    {
+      "code": 3312042005,
+      "name": "Ronggojati"
+    },
+    {
+      "code": 3312042006,
+      "name": "Sumberagung"
+    },
+    {
+      "code": 3312042007,
+      "name": "Kudi"
+    }
+  ]
+}

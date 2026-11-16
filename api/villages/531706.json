@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5317062001,
+      "name": "Bolu Bokat"
+    },
+    {
+      "code": 5317062002,
+      "name": "Mara Desa"
+    },
+    {
+      "code": 5317062003,
+      "name": "Weluk Praimemang"
+    },
+    {
+      "code": 5317062004,
+      "name": "Bolu Bokat Utara"
+    },
+    {
+      "code": 5317062005,
+      "name": "Maradesa Timur"
+    },
+    {
+      "code": 5317062006,
+      "name": "Maradesa Selatan"
+    },
+    {
+      "code": 5317062007,
+      "name": "Bolu Bokat Barat"
+    },
+    {
+      "code": 5317062008,
+      "name": "Wangga Waiyengu"
+    },
+    {
+      "code": 5317062009,
+      "name": "Sambali Loku"
+    },
+    {
+      "code": 5317062010,
+      "name": "Holur Kambata"
+    }
+  ]
+}

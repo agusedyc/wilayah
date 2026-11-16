@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1201011001,
+      "name": "Pasar Batu Gerigis"
+    },
+    {
+      "code": 1201011002,
+      "name": "Padang Masiang"
+    },
+    {
+      "code": 1201012003,
+      "name": "Kampung Solok"
+    },
+    {
+      "code": 1201012004,
+      "name": "Pasar Terandam"
+    },
+    {
+      "code": 1201012005,
+      "name": "Sigambo Gambo"
+    },
+    {
+      "code": 1201012006,
+      "name": "Ujung Batu"
+    },
+    {
+      "code": 1201012007,
+      "name": "Kinali"
+    },
+    {
+      "code": 1201012008,
+      "name": "Kampung Mudik"
+    },
+    {
+      "code": 1201012009,
+      "name": "Aek Dakka"
+    },
+    {
+      "code": 1201012010,
+      "name": "Patupangan"
+    },
+    {
+      "code": 1201012011,
+      "name": "Gabungan Hasang"
+    },
+    {
+      "code": 1201012017,
+      "name": "Bungo Tanjung"
+    },
+    {
+      "code": 1201012018,
+      "name": "Kedai Gedang"
+    }
+  ]
+}

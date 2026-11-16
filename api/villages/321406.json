@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3214062001,
+      "name": "Darangdan"
+    },
+    {
+      "code": 3214062002,
+      "name": "Depok"
+    },
+    {
+      "code": 3214062003,
+      "name": "Cilingga"
+    },
+    {
+      "code": 3214062004,
+      "name": "Nangewer"
+    },
+    {
+      "code": 3214062005,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3214062006,
+      "name": "Linggasari"
+    },
+    {
+      "code": 3214062007,
+      "name": "Sawit"
+    },
+    {
+      "code": 3214062008,
+      "name": "Linggamukti"
+    },
+    {
+      "code": 3214062009,
+      "name": "Gununghejo"
+    },
+    {
+      "code": 3214062010,
+      "name": "Pasirangin"
+    },
+    {
+      "code": 3214062011,
+      "name": "Legoksari"
+    },
+    {
+      "code": 3214062012,
+      "name": "Sirnamanah"
+    },
+    {
+      "code": 3214062013,
+      "name": "Sadarkarya"
+    },
+    {
+      "code": 3214062014,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3214062015,
+      "name": "Nagrak"
+    }
+  ]
+}

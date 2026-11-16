@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6213102001,
+      "name": "Dayu"
+    },
+    {
+      "code": 6213102002,
+      "name": "Wuran"
+    },
+    {
+      "code": 6213102003,
+      "name": "Ipu Mea"
+    },
+    {
+      "code": 6213102004,
+      "name": "Lagan"
+    },
+    {
+      "code": 6213102005,
+      "name": "Putut Tawuluh"
+    },
+    {
+      "code": 6213102006,
+      "name": "Simpang Naneng"
+    },
+    {
+      "code": 6213102007,
+      "name": "Kandris"
+    }
+  ]
+}

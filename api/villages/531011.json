@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5310111017,
+      "name": "Reo"
+    },
+    {
+      "code": 5310111018,
+      "name": "Mata Air"
+    },
+    {
+      "code": 5310111019,
+      "name": "Baru"
+    },
+    {
+      "code": 5310111020,
+      "name": "Wangkung"
+    },
+    {
+      "code": 5310112001,
+      "name": "Robek"
+    },
+    {
+      "code": 5310112009,
+      "name": "Ruis"
+    },
+    {
+      "code": 5310112010,
+      "name": "Bajak"
+    },
+    {
+      "code": 5310112011,
+      "name": "Watu Baur"
+    },
+    {
+      "code": 5310112012,
+      "name": "Salama"
+    },
+    {
+      "code": 5310112016,
+      "name": "Watu Tango"
+    }
+  ]
+}

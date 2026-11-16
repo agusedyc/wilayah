@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1304032001,
+      "name": "Simawang"
+    },
+    {
+      "code": 1304032002,
+      "name": "Balimbiang"
+    },
+    {
+      "code": 1304032003,
+      "name": "III Koto"
+    },
+    {
+      "code": 1304032004,
+      "name": "Padang Magek"
+    },
+    {
+      "code": 1304032005,
+      "name": "Rambatan"
+    }
+  ]
+}

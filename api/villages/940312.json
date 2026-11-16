@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9403122001,
+      "name": "Dei"
+    },
+    {
+      "code": 9403122002,
+      "name": "Obaiyoweta"
+    },
+    {
+      "code": 9403122003,
+      "name": "Bubugiwo"
+    },
+    {
+      "code": 9403122004,
+      "name": "Yimouto"
+    },
+    {
+      "code": 9403122005,
+      "name": "Tamugauwo"
+    },
+    {
+      "code": 9403122006,
+      "name": "Dagouto"
+    },
+    {
+      "code": 9403122007,
+      "name": "Kopabutu"
+    },
+    {
+      "code": 9403122008,
+      "name": "Boutai"
+    },
+    {
+      "code": 9403122009,
+      "name": "Buka Duwata"
+    }
+  ]
+}

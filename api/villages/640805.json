@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6408052001,
+      "name": "Kerayaan"
+    },
+    {
+      "code": 6408052002,
+      "name": "Tanjung Manis"
+    },
+    {
+      "code": 6408052003,
+      "name": "Peridan"
+    },
+    {
+      "code": 6408052004,
+      "name": "Saka"
+    },
+    {
+      "code": 6408052005,
+      "name": "Mandu Dalam"
+    },
+    {
+      "code": 6408052006,
+      "name": "Benua Baru Ilir"
+    },
+    {
+      "code": 6408052011,
+      "name": "Sempayau"
+    },
+    {
+      "code": 6408052012,
+      "name": "Pelawan"
+    },
+    {
+      "code": 6408052013,
+      "name": "Tepian Terap"
+    },
+    {
+      "code": 6408052015,
+      "name": "Maloy"
+    },
+    {
+      "code": 6408052016,
+      "name": "Benua Baru Ulu"
+    },
+    {
+      "code": 6408052017,
+      "name": "Kolek"
+    },
+    {
+      "code": 6408052018,
+      "name": "Pulau Miang"
+    },
+    {
+      "code": 6408052019,
+      "name": "Perupuk"
+    },
+    {
+      "code": 6408052020,
+      "name": "Mandu Pantai Sejahtera"
+    }
+  ]
+}

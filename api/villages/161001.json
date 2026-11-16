@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1610011011,
+      "name": "Muara Kuang"
+    },
+    {
+      "code": 1610012005,
+      "name": "Munggu"
+    },
+    {
+      "code": 1610012006,
+      "name": "Seri Menanti"
+    },
+    {
+      "code": 1610012007,
+      "name": "Rantau Sialang"
+    },
+    {
+      "code": 1610012008,
+      "name": "Kuang Anyar"
+    },
+    {
+      "code": 1610012009,
+      "name": "Kasah"
+    },
+    {
+      "code": 1610012012,
+      "name": "Tanabang Ulu"
+    },
+    {
+      "code": 1610012013,
+      "name": "Seri Kembang"
+    },
+    {
+      "code": 1610012014,
+      "name": "Nagasari"
+    },
+    {
+      "code": 1610012015,
+      "name": "Suka Cinta"
+    },
+    {
+      "code": 1610012016,
+      "name": "Kelampadu"
+    },
+    {
+      "code": 1610012029,
+      "name": "Sukajadi"
+    },
+    {
+      "code": 1610012030,
+      "name": "Ramakasih"
+    },
+    {
+      "code": 1610012031,
+      "name": "Tanabang Ilir"
+    }
+  ]
+}

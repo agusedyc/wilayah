@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7505092001,
+      "name": "Monano"
+    },
+    {
+      "code": 7505092002,
+      "name": "Tudi"
+    },
+    {
+      "code": 7505092003,
+      "name": "Monas"
+    },
+    {
+      "code": 7505092004,
+      "name": "Dunu"
+    },
+    {
+      "code": 7505092005,
+      "name": "Garapia"
+    },
+    {
+      "code": 7505092006,
+      "name": "Sogu"
+    },
+    {
+      "code": 7505092007,
+      "name": "Pilohulata"
+    },
+    {
+      "code": 7505092008,
+      "name": "Mokonowu"
+    },
+    {
+      "code": 7505092009,
+      "name": "Tolitehuyu"
+    },
+    {
+      "code": 7505092010,
+      "name": "Zuriyati"
+    }
+  ]
+}

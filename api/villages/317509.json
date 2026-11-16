@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3175091001,
+      "name": "Ciracas"
+    },
+    {
+      "code": 3175091002,
+      "name": "Cibubur"
+    },
+    {
+      "code": 3175091003,
+      "name": "Kelapa Dua Wetan"
+    },
+    {
+      "code": 3175091004,
+      "name": "Susukan"
+    },
+    {
+      "code": 3175091005,
+      "name": "Rambutan"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 5108042001,
+      "name": "Banyuseri"
+    },
+    {
+      "code": 5108042002,
+      "name": "Tirtasari"
+    },
+    {
+      "code": 5108042003,
+      "name": "Kayuputih"
+    },
+    {
+      "code": 5108042004,
+      "name": "Banyuatis"
+    },
+    {
+      "code": 5108042005,
+      "name": "Gesing"
+    },
+    {
+      "code": 5108042006,
+      "name": "Munduk"
+    },
+    {
+      "code": 5108042007,
+      "name": "Gobleg"
+    },
+    {
+      "code": 5108042008,
+      "name": "Pedawa"
+    },
+    {
+      "code": 5108042009,
+      "name": "Cempaga"
+    },
+    {
+      "code": 5108042010,
+      "name": "Sidetapa"
+    },
+    {
+      "code": 5108042011,
+      "name": "Tampekan"
+    },
+    {
+      "code": 5108042012,
+      "name": "Banjar Tegeha"
+    },
+    {
+      "code": 5108042013,
+      "name": "Banjar"
+    },
+    {
+      "code": 5108042014,
+      "name": "Dencarik"
+    },
+    {
+      "code": 5108042015,
+      "name": "Temukus"
+    },
+    {
+      "code": 5108042016,
+      "name": "Tigawasa"
+    },
+    {
+      "code": 5108042017,
+      "name": "Kaliasem"
+    }
+  ]
+}

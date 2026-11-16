@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3303172001,
+      "name": "Purbasari"
+    },
+    {
+      "code": 3303172002,
+      "name": "Sirandu"
+    },
+    {
+      "code": 3303172003,
+      "name": "Karangjambu"
+    },
+    {
+      "code": 3303172004,
+      "name": "Sanguwatang"
+    },
+    {
+      "code": 3303172005,
+      "name": "Jingkang"
+    },
+    {
+      "code": 3303172006,
+      "name": "Danasari"
+    }
+  ]
+}

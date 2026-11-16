@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7405101001,
+      "name": "Lapuko"
+    },
+    {
+      "code": 7405102010,
+      "name": "Amohola"
+    },
+    {
+      "code": 7405102011,
+      "name": "Tambosupa"
+    },
+    {
+      "code": 7405102012,
+      "name": "Marga Citta"
+    },
+    {
+      "code": 7405102013,
+      "name": "Moramo"
+    },
+    {
+      "code": 7405102014,
+      "name": "Bakutara"
+    },
+    {
+      "code": 7405102015,
+      "name": "Lakomea"
+    },
+    {
+      "code": 7405102016,
+      "name": "Landipo"
+    },
+    {
+      "code": 7405102017,
+      "name": "Lamboo"
+    },
+    {
+      "code": 7405102018,
+      "name": "Pudaria Jaya"
+    },
+    {
+      "code": 7405102019,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 7405102020,
+      "name": "Ulusena"
+    },
+    {
+      "code": 7405102021,
+      "name": "Panambea Barata"
+    },
+    {
+      "code": 7405102022,
+      "name": "Wowosunggu"
+    },
+    {
+      "code": 7405102023,
+      "name": "Wawondengi"
+    },
+    {
+      "code": 7405102025,
+      "name": "Watu Porambaa"
+    },
+    {
+      "code": 7405102026,
+      "name": "Wonua Jaya"
+    },
+    {
+      "code": 7405102027,
+      "name": "Bisikori"
+    },
+    {
+      "code": 7405102028,
+      "name": "Ranooha Raya"
+    },
+    {
+      "code": 7405102029,
+      "name": "Selabangga"
+    }
+  ]
+}

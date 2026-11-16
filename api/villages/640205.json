@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6402052001,
+      "name": "Saliki"
+    },
+    {
+      "code": 6402052002,
+      "name": "Salok Palai"
+    },
+    {
+      "code": 6402052003,
+      "name": "Muara Badak Ulu"
+    },
+    {
+      "code": 6402052004,
+      "name": "Muara Badak Ilir"
+    },
+    {
+      "code": 6402052005,
+      "name": "Tanjung Limau"
+    },
+    {
+      "code": 6402052006,
+      "name": "Tanah Datar"
+    },
+    {
+      "code": 6402052007,
+      "name": "Badak Baru"
+    },
+    {
+      "code": 6402052008,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 6402052009,
+      "name": "Badak Mekar"
+    },
+    {
+      "code": 6402052010,
+      "name": "Gas Alam Badak I"
+    },
+    {
+      "code": 6402052011,
+      "name": "Batu-Batu"
+    },
+    {
+      "code": 6402052012,
+      "name": "Sallo Cela"
+    },
+    {
+      "code": 6402052013,
+      "name": "Sungai Bawang"
+    }
+  ]
+}

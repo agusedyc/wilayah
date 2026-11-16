@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 regencies",
+  "data": [
+    {
+      "code": 9301,
+      "name": "Kabupaten Merauke"
+    },
+    {
+      "code": 9302,
+      "name": "Kabupaten Boven Digoel"
+    },
+    {
+      "code": 9303,
+      "name": "Kabupaten Mappi"
+    },
+    {
+      "code": 9304,
+      "name": "Kabupaten Asmat"
+    }
+  ]
+}

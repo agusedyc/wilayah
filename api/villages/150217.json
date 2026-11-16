@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1502172001,
+      "name": "Baru Pangkalan Jambu"
+    },
+    {
+      "code": 1502172002,
+      "name": "Bukit Perentak"
+    },
+    {
+      "code": 1502172003,
+      "name": "Birun"
+    },
+    {
+      "code": 1502172004,
+      "name": "Tiga Alur"
+    },
+    {
+      "code": 1502172005,
+      "name": "Bungo Tanjung"
+    },
+    {
+      "code": 1502172006,
+      "name": "Sungai Jering"
+    },
+    {
+      "code": 1502172007,
+      "name": "Kampung Limo"
+    },
+    {
+      "code": 1502172008,
+      "name": "Tanjung Mudo"
+    }
+  ]
+}

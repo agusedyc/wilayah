@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9405122001,
+      "name": "Erong Berong"
+    },
+    {
+      "code": 9405122002,
+      "name": "Hikinat"
+    },
+    {
+      "code": 9405122003,
+      "name": "Daung"
+    },
+    {
+      "code": 9405122004,
+      "name": "Kombet"
+    },
+    {
+      "code": 9405122005,
+      "name": "Onop"
+    },
+    {
+      "code": 9405122006,
+      "name": "Kulamagom"
+    },
+    {
+      "code": 9405122007,
+      "name": "Ogamanin"
+    }
+  ]
+}

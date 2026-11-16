@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 2171031001,
+      "name": "Sungai Harapan"
+    },
+    {
+      "code": 2171031002,
+      "name": "Tanjung Pinggir"
+    },
+    {
+      "code": 2171031003,
+      "name": "Tanjung Riau"
+    },
+    {
+      "code": 2171031005,
+      "name": "Tiban Indah"
+    },
+    {
+      "code": 2171031006,
+      "name": "Tiban Baru"
+    },
+    {
+      "code": 2171031007,
+      "name": "Tiban Lama"
+    },
+    {
+      "code": 2171031008,
+      "name": "Patam Lestari"
+    }
+  ]
+}

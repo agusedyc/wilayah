@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1507081001,
+      "name": "Kampung Laut"
+    },
+    {
+      "code": 1507081002,
+      "name": "Tanjung Solok"
+    },
+    {
+      "code": 1507082003,
+      "name": "Teluk Majelis"
+    },
+    {
+      "code": 1507082004,
+      "name": "Kuala Lagan"
+    },
+    {
+      "code": 1507082005,
+      "name": "Majelis Hidayah"
+    },
+    {
+      "code": 1507082006,
+      "name": "Manunggal Makmur"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3206282001,
+      "name": "Arjasari"
+    },
+    {
+      "code": 3206282002,
+      "name": "Ciawang"
+    },
+    {
+      "code": 3206282003,
+      "name": "Cigadog"
+    },
+    {
+      "code": 3206282004,
+      "name": "Linggawangi"
+    },
+    {
+      "code": 3206282005,
+      "name": "Jayamukti"
+    },
+    {
+      "code": 3206282006,
+      "name": "Mandalagiri"
+    },
+    {
+      "code": 3206282007,
+      "name": "Linggamulya"
+    }
+  ]
+}

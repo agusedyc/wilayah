@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 6101042001,
+      "name": "Tebas Kuala"
+    },
+    {
+      "code": 6101042002,
+      "name": "Tebas Sungai"
+    },
+    {
+      "code": 6101042003,
+      "name": "Sempalai"
+    },
+    {
+      "code": 6101042004,
+      "name": "Bekut"
+    },
+    {
+      "code": 6101042005,
+      "name": "Seberkat"
+    },
+    {
+      "code": 6101042006,
+      "name": "Sejiram"
+    },
+    {
+      "code": 6101042007,
+      "name": "Makrampai"
+    },
+    {
+      "code": 6101042008,
+      "name": "Mekar Sekuntum"
+    },
+    {
+      "code": 6101042009,
+      "name": "Mensere"
+    },
+    {
+      "code": 6101042010,
+      "name": "Pusaka"
+    },
+    {
+      "code": 6101042011,
+      "name": "Segedong"
+    },
+    {
+      "code": 6101042012,
+      "name": "Sungai Kelambu"
+    },
+    {
+      "code": 6101042013,
+      "name": "Serumpun Buluh"
+    },
+    {
+      "code": 6101042014,
+      "name": "Pangkalan Kongsi"
+    },
+    {
+      "code": 6101042015,
+      "name": "Dungun Perapakan"
+    },
+    {
+      "code": 6101042016,
+      "name": "Batu Makjage"
+    },
+    {
+      "code": 6101042017,
+      "name": "Serindang"
+    },
+    {
+      "code": 6101042018,
+      "name": "Bukit Sigoler"
+    },
+    {
+      "code": 6101042019,
+      "name": "Matang Labong"
+    },
+    {
+      "code": 6101042020,
+      "name": "Maktangguk"
+    },
+    {
+      "code": 6101042021,
+      "name": "Segarau Parit"
+    },
+    {
+      "code": 6101042022,
+      "name": "Maribas"
+    },
+    {
+      "code": 6101042023,
+      "name": "Seret Ayon"
+    }
+  ]
+}

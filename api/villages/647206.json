@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6472061001,
+      "name": "Loa Bakung"
+    },
+    {
+      "code": 6472061002,
+      "name": "Loa Buah"
+    },
+    {
+      "code": 6472061003,
+      "name": "Karang Asam Ulu"
+    },
+    {
+      "code": 6472061004,
+      "name": "Lok Bahu"
+    },
+    {
+      "code": 6472061005,
+      "name": "Teluk Lerong Ulu"
+    },
+    {
+      "code": 6472061006,
+      "name": "Karang Asam Ilir"
+    },
+    {
+      "code": 6472061007,
+      "name": "Karang Anyar"
+    }
+  ]
+}

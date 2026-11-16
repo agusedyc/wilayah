@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6407172001,
+      "name": "Tebisaq"
+    },
+    {
+      "code": 6407172002,
+      "name": "Kaliq"
+    },
+    {
+      "code": 6407172003,
+      "name": "Tanah Mea"
+    },
+    {
+      "code": 6407172004,
+      "name": "Sang-Sang"
+    },
+    {
+      "code": 6407172005,
+      "name": "Muhur"
+    },
+    {
+      "code": 6407172006,
+      "name": "Muara Kelawit"
+    },
+    {
+      "code": 6407172007,
+      "name": "Bentas"
+    },
+    {
+      "code": 6407172008,
+      "name": "Betung"
+    },
+    {
+      "code": 6407172009,
+      "name": "Kiaq"
+    },
+    {
+      "code": 6407172010,
+      "name": "Tendiq"
+    },
+    {
+      "code": 6407172011,
+      "name": "Penawang"
+    },
+    {
+      "code": 6407172012,
+      "name": "Lendian Liang Nayuq"
+    },
+    {
+      "code": 6407172013,
+      "name": "Kenyanyan"
+    },
+    {
+      "code": 6407172014,
+      "name": "Rikong"
+    },
+    {
+      "code": 6407172015,
+      "name": "Kendesiq"
+    },
+    {
+      "code": 6407172016,
+      "name": "Muara Ponaq"
+    }
+  ]
+}

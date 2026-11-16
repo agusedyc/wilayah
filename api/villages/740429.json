@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7404292001,
+      "name": "Wasuemba"
+    },
+    {
+      "code": 7404292002,
+      "name": "Wabula"
+    },
+    {
+      "code": 7404292003,
+      "name": "Wasampela"
+    },
+    {
+      "code": 7404292004,
+      "name": "Holimombo"
+    },
+    {
+      "code": 7404292005,
+      "name": "Koholimembona"
+    },
+    {
+      "code": 7404292006,
+      "name": "Wabula Satu"
+    },
+    {
+      "code": 7404292007,
+      "name": "Bajo Bahari"
+    }
+  ]
+}

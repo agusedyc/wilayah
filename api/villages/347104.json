@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3471041001,
+      "name": "Suryatmajan"
+    },
+    {
+      "code": 3471041002,
+      "name": "Tegalpanggung"
+    },
+    {
+      "code": 3471041003,
+      "name": "Bausasran"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1215022001,
+      "name": "Sukaramai"
+    },
+    {
+      "code": 1215022002,
+      "name": "Kuta Saga"
+    },
+    {
+      "code": 1215022003,
+      "name": "Kuta Meriah"
+    },
+    {
+      "code": 1215022004,
+      "name": "Kuta Dame"
+    },
+    {
+      "code": 1215022005,
+      "name": "Perpulungen"
+    },
+    {
+      "code": 1215022006,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1215022014,
+      "name": "Majanggut I"
+    },
+    {
+      "code": 1215022015,
+      "name": "Majanggut II"
+    },
+    {
+      "code": 1215022016,
+      "name": "Surung Mersada"
+    },
+    {
+      "code": 1215022021,
+      "name": "Perduhapen"
+    }
+  ]
+}

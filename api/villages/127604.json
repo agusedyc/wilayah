@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1276041001,
+      "name": "Durian"
+    },
+    {
+      "code": 1276041002,
+      "name": "Pelita"
+    },
+    {
+      "code": 1276041003,
+      "name": "Bulian"
+    },
+    {
+      "code": 1276041004,
+      "name": "Berohol"
+    },
+    {
+      "code": 1276041005,
+      "name": "Bandar Sakti"
+    },
+    {
+      "code": 1276041006,
+      "name": "Pinang Mancung"
+    },
+    {
+      "code": 1276041007,
+      "name": "Teluk Karang"
+    }
+  ]
+}

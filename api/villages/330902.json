@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3309022002,
+      "name": "Tanduk"
+    },
+    {
+      "code": 3309022003,
+      "name": "Banyuanyar"
+    },
+    {
+      "code": 3309022004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3309022005,
+      "name": "Ngargosari"
+    },
+    {
+      "code": 3309022006,
+      "name": "Selodoko"
+    },
+    {
+      "code": 3309022007,
+      "name": "Ngenden"
+    },
+    {
+      "code": 3309022008,
+      "name": "Ngampon"
+    },
+    {
+      "code": 3309022009,
+      "name": "Gondangslamet"
+    },
+    {
+      "code": 3309022010,
+      "name": "Candi"
+    },
+    {
+      "code": 3309022011,
+      "name": "Urutsewu"
+    }
+  ]
+}

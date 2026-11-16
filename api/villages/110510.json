@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 1105102001,
+      "name": "Blang Luah LM"
+    },
+    {
+      "code": 1105102002,
+      "name": "Cot Rambong"
+    },
+    {
+      "code": 1105102003,
+      "name": "Lhok Malee"
+    },
+    {
+      "code": 1105102004,
+      "name": "Pasi Malee"
+    },
+    {
+      "code": 1105102005,
+      "name": "Napai"
+    },
+    {
+      "code": 1105102006,
+      "name": "Blang Cot Mameh"
+    },
+    {
+      "code": 1105102007,
+      "name": "Blang Cot Rubek"
+    },
+    {
+      "code": 1105102008,
+      "name": "Alue Leuhob"
+    },
+    {
+      "code": 1105102009,
+      "name": "Leubok Pasi Ara"
+    },
+    {
+      "code": 1105102010,
+      "name": "Ulee Pasi Ara"
+    },
+    {
+      "code": 1105102011,
+      "name": "Cot Lagan LM"
+    },
+    {
+      "code": 1105102012,
+      "name": "Lueng Baro"
+    },
+    {
+      "code": 1105102013,
+      "name": "Kulam Kaju"
+    },
+    {
+      "code": 1105102014,
+      "name": "Alue Perman"
+    },
+    {
+      "code": 1105102015,
+      "name": "Peuleukueng"
+    },
+    {
+      "code": 1105102016,
+      "name": "Pasi Jeut"
+    },
+    {
+      "code": 1105102017,
+      "name": "Mon Pasong"
+    },
+    {
+      "code": 1105102018,
+      "name": "Pasi Mali"
+    },
+    {
+      "code": 1105102019,
+      "name": "Karak"
+    },
+    {
+      "code": 1105102020,
+      "name": "Ie Sayang"
+    },
+    {
+      "code": 1105102021,
+      "name": "Ulee Pulo"
+    },
+    {
+      "code": 1105102022,
+      "name": "Pasi Panyang"
+    },
+    {
+      "code": 1105102023,
+      "name": "Alue Keumuning"
+    },
+    {
+      "code": 1105102024,
+      "name": "Simpang Teumarom"
+    }
+  ]
+}

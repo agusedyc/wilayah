@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7605052001,
+      "name": "Kabiraan"
+    },
+    {
+      "code": 7605052002,
+      "name": "Sambabo"
+    },
+    {
+      "code": 7605052003,
+      "name": "Tandeallo"
+    },
+    {
+      "code": 7605052004,
+      "name": "Ulumanda"
+    },
+    {
+      "code": 7605052005,
+      "name": "Salutambung"
+    },
+    {
+      "code": 7605052006,
+      "name": "Popenga"
+    },
+    {
+      "code": 7605052007,
+      "name": "Sulai"
+    },
+    {
+      "code": 7605052008,
+      "name": "Panggalo"
+    }
+  ]
+}

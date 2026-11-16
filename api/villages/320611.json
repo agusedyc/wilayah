@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3206112001,
+      "name": "Bojongkapol"
+    },
+    {
+      "code": 3206112002,
+      "name": "Pedangkamulyan"
+    },
+    {
+      "code": 3206112003,
+      "name": "Bojonggambir"
+    },
+    {
+      "code": 3206112004,
+      "name": "Ciroyom"
+    },
+    {
+      "code": 3206112005,
+      "name": "Wandasari"
+    },
+    {
+      "code": 3206112006,
+      "name": "Campakasari"
+    },
+    {
+      "code": 3206112007,
+      "name": "Mangkonjaya"
+    },
+    {
+      "code": 3206112008,
+      "name": "Kertanegla"
+    },
+    {
+      "code": 3206112009,
+      "name": "Purwaraharja"
+    },
+    {
+      "code": 3206112010,
+      "name": "Girimukti"
+    }
+  ]
+}

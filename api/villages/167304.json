@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1673041001,
+      "name": "Durian Rampak"
+    },
+    {
+      "code": 1673041002,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1673041003,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1673041004,
+      "name": "Marga Bakti"
+    },
+    {
+      "code": 1673041005,
+      "name": "Belalau I"
+    },
+    {
+      "code": 1673041006,
+      "name": "Belalau II"
+    },
+    {
+      "code": 1673041007,
+      "name": "Taba Baru"
+    },
+    {
+      "code": 1673041008,
+      "name": "Margorejo"
+    },
+    {
+      "code": 1673041009,
+      "name": "Petanang Ulu"
+    },
+    {
+      "code": 1673041010,
+      "name": "Petanang Ilir"
+    }
+  ]
+}

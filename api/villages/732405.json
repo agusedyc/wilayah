@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7324052001,
+      "name": "Tawakua"
+    },
+    {
+      "code": 7324052002,
+      "name": "Tampinna"
+    },
+    {
+      "code": 7324052003,
+      "name": "Solo"
+    },
+    {
+      "code": 7324052004,
+      "name": "Taripa"
+    },
+    {
+      "code": 7324052005,
+      "name": "Mantadulu"
+    },
+    {
+      "code": 7324052006,
+      "name": "Balirejo"
+    },
+    {
+      "code": 7324052007,
+      "name": "Maliwowo"
+    },
+    {
+      "code": 7324052008,
+      "name": "Lamaeto"
+    },
+    {
+      "code": 7324052009,
+      "name": "Watangpanua"
+    },
+    {
+      "code": 7324052010,
+      "name": "Wanasari"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 1103172001,
+      "name": "Babah Krueng"
+    },
+    {
+      "code": 1103172002,
+      "name": "Kruet Lintang"
+    },
+    {
+      "code": 1103172003,
+      "name": "Jengki"
+    },
+    {
+      "code": 1103172004,
+      "name": "Buket Meriam"
+    },
+    {
+      "code": 1103172005,
+      "name": "Alue Gureb"
+    },
+    {
+      "code": 1103172006,
+      "name": "Seuneubok Teupin"
+    },
+    {
+      "code": 1103172007,
+      "name": "Seuneubok Teungoh"
+    },
+    {
+      "code": 1103172008,
+      "name": "Alue Bugeng"
+    },
+    {
+      "code": 1103172009,
+      "name": "Seuneubok Punti"
+    },
+    {
+      "code": 1103172010,
+      "name": "Seumatang Keude"
+    },
+    {
+      "code": 1103172011,
+      "name": "Seuneubok Jalan"
+    },
+    {
+      "code": 1103172012,
+      "name": "Seuneubok Paya"
+    },
+    {
+      "code": 1103172013,
+      "name": "Alue Tho"
+    },
+    {
+      "code": 1103172014,
+      "name": "Seuneubok Rawang"
+    },
+    {
+      "code": 1103172015,
+      "name": "Alue Bu Alue Nireh"
+    },
+    {
+      "code": 1103172016,
+      "name": "Seuneubok Dalam"
+    },
+    {
+      "code": 1103172017,
+      "name": "Seuneubok Lapang"
+    },
+    {
+      "code": 1103172018,
+      "name": "Gelanggang Meurak"
+    },
+    {
+      "code": 1103172019,
+      "name": "Alue Bu Alue Lhok"
+    },
+    {
+      "code": 1103172020,
+      "name": "Tualang Pateng"
+    }
+  ]
+}

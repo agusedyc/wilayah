@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3302082001,
+      "name": "Plangkapan"
+    },
+    {
+      "code": 3302082002,
+      "name": "Gumelar Lor"
+    },
+    {
+      "code": 3302082003,
+      "name": "Gumelar Kidul"
+    },
+    {
+      "code": 3302082004,
+      "name": "Karangpetir"
+    },
+    {
+      "code": 3302082005,
+      "name": "Gebangsari"
+    },
+    {
+      "code": 3302082006,
+      "name": "Prembun"
+    },
+    {
+      "code": 3302082007,
+      "name": "Buniayu"
+    },
+    {
+      "code": 3302082008,
+      "name": "Pesantren"
+    },
+    {
+      "code": 3302082009,
+      "name": "Karangpucung"
+    },
+    {
+      "code": 3302082010,
+      "name": "Kamulyan"
+    },
+    {
+      "code": 3302082011,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 3302082012,
+      "name": "Watuagung"
+    }
+  ]
+}

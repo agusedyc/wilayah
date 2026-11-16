@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3303022001,
+      "name": "Tidu"
+    },
+    {
+      "code": 3303022002,
+      "name": "Wirasaba"
+    },
+    {
+      "code": 3303022003,
+      "name": "Kembangan"
+    },
+    {
+      "code": 3303022004,
+      "name": "Cipawon"
+    },
+    {
+      "code": 3303022005,
+      "name": "Karangcengis"
+    },
+    {
+      "code": 3303022006,
+      "name": "Karanggedang"
+    },
+    {
+      "code": 3303022007,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3303022008,
+      "name": "Kutawis"
+    },
+    {
+      "code": 3303022009,
+      "name": "Kebutuh"
+    },
+    {
+      "code": 3303022010,
+      "name": "Penaruban"
+    },
+    {
+      "code": 3303022011,
+      "name": "Kedungjati"
+    },
+    {
+      "code": 3303022012,
+      "name": "Bukateja"
+    },
+    {
+      "code": 3303022013,
+      "name": "Majasari"
+    },
+    {
+      "code": 3303022014,
+      "name": "Bajong"
+    }
+  ]
+}

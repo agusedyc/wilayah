@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5208032001,
+      "name": "Kayangan"
+    },
+    {
+      "code": 5208032002,
+      "name": "Santong"
+    },
+    {
+      "code": 5208032003,
+      "name": "Selengen"
+    },
+    {
+      "code": 5208032004,
+      "name": "Sesait"
+    },
+    {
+      "code": 5208032005,
+      "name": "Gumantar"
+    },
+    {
+      "code": 5208032006,
+      "name": "Salut"
+    },
+    {
+      "code": 5208032007,
+      "name": "Dangiang"
+    },
+    {
+      "code": 5208032008,
+      "name": "Pendua"
+    },
+    {
+      "code": 5208032009,
+      "name": "Pansor"
+    },
+    {
+      "code": 5208032010,
+      "name": "Santong Mulia"
+    }
+  ]
+}

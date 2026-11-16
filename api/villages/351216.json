@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3512162001,
+      "name": "Lubawang"
+    },
+    {
+      "code": 3512162002,
+      "name": "Kalisari"
+    },
+    {
+      "code": 3512162003,
+      "name": "Tepos"
+    },
+    {
+      "code": 3512162004,
+      "name": "Selobanteng"
+    },
+    {
+      "code": 3512162005,
+      "name": "Banyuglugur"
+    },
+    {
+      "code": 3512162006,
+      "name": "Telempong"
+    },
+    {
+      "code": 3512162007,
+      "name": "Kalianget"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 regencies",
+  "data": [
+    {
+      "code": 7501,
+      "name": "Kabupaten Gorontalo"
+    },
+    {
+      "code": 7502,
+      "name": "Kabupaten Boalemo"
+    },
+    {
+      "code": 7503,
+      "name": "Kabupaten Bone Bolango"
+    },
+    {
+      "code": 7504,
+      "name": "Kabupaten Pohuwato"
+    },
+    {
+      "code": 7505,
+      "name": "Kabupaten Gorontalo Utara"
+    },
+    {
+      "code": 7571,
+      "name": "Kota Gorontalo"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3208091001,
+      "name": "Citangtu"
+    },
+    {
+      "code": 3208091002,
+      "name": "Kuningan"
+    },
+    {
+      "code": 3208091003,
+      "name": "Winduhaji"
+    },
+    {
+      "code": 3208091004,
+      "name": "Windusengkahan"
+    },
+    {
+      "code": 3208091005,
+      "name": "Cijoho"
+    },
+    {
+      "code": 3208091006,
+      "name": "Purwawinangun"
+    },
+    {
+      "code": 3208091007,
+      "name": "Cigintung"
+    },
+    {
+      "code": 3208091008,
+      "name": "Cirendang"
+    },
+    {
+      "code": 3208091009,
+      "name": "Ciporang"
+    },
+    {
+      "code": 3208091010,
+      "name": "Awirarangan"
+    },
+    {
+      "code": 3208092011,
+      "name": "Cibinuang"
+    },
+    {
+      "code": 3208092012,
+      "name": "Karangtawang"
+    },
+    {
+      "code": 3208092013,
+      "name": "Kedungarum"
+    },
+    {
+      "code": 3208092014,
+      "name": "Ancaran"
+    },
+    {
+      "code": 3208092015,
+      "name": "Kasturi"
+    },
+    {
+      "code": 3208092016,
+      "name": "Padarek"
+    }
+  ]
+}

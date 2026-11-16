@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3202022001,
+      "name": "Cidadap"
+    },
+    {
+      "code": 3202022002,
+      "name": "Loji"
+    },
+    {
+      "code": 3202022003,
+      "name": "Kertajaya"
+    },
+    {
+      "code": 3202022004,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3202022005,
+      "name": "Cibuntu"
+    },
+    {
+      "code": 3202022006,
+      "name": "Mekarasih"
+    },
+    {
+      "code": 3202022007,
+      "name": "Sangrawayang"
+    }
+  ]
+}

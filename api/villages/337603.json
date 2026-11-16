@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3376031001,
+      "name": "Kalinyamat Wetan"
+    },
+    {
+      "code": 3376031002,
+      "name": "Bandung"
+    },
+    {
+      "code": 3376031003,
+      "name": "Debong Kidul"
+    },
+    {
+      "code": 3376031004,
+      "name": "Tunon"
+    },
+    {
+      "code": 3376031005,
+      "name": "Keturen"
+    },
+    {
+      "code": 3376031006,
+      "name": "Debong Kulon"
+    },
+    {
+      "code": 3376031007,
+      "name": "Debong Tengah"
+    },
+    {
+      "code": 3376031008,
+      "name": "Randugunting"
+    }
+  ]
+}

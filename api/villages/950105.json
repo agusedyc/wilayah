@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9501052001,
+      "name": "Bolakme"
+    },
+    {
+      "code": 9501052002,
+      "name": "Munak"
+    },
+    {
+      "code": 9501052003,
+      "name": "Tenonggame"
+    },
+    {
+      "code": 9501052004,
+      "name": "Bandua"
+    },
+    {
+      "code": 9501052005,
+      "name": "Lani Timur"
+    },
+    {
+      "code": 9501052006,
+      "name": "Nunggarugum"
+    },
+    {
+      "code": 9501052007,
+      "name": "Poitmos"
+    },
+    {
+      "code": 9501052008,
+      "name": "Kugitero"
+    },
+    {
+      "code": 9501052009,
+      "name": "Wenamela"
+    },
+    {
+      "code": 9501052010,
+      "name": "Bimu"
+    },
+    {
+      "code": 9501052011,
+      "name": "Tekani"
+    },
+    {
+      "code": 9501052012,
+      "name": "Owagambak"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9202342001,
+      "name": "Moubja"
+    },
+    {
+      "code": 9202342002,
+      "name": "Meyof II"
+    },
+    {
+      "code": 9202342003,
+      "name": "Membowi"
+    },
+    {
+      "code": 9202342004,
+      "name": "Ririnfos"
+    },
+    {
+      "code": 9202342005,
+      "name": "Wariori Indah"
+    },
+    {
+      "code": 9202342006,
+      "name": "Merejemeg"
+    },
+    {
+      "code": 9202342007,
+      "name": "Wamfoura"
+    },
+    {
+      "code": 9202342008,
+      "name": "Meyeruk"
+    },
+    {
+      "code": 9202342009,
+      "name": "Aurmios"
+    },
+    {
+      "code": 9202342010,
+      "name": "Muara Wariori"
+    }
+  ]
+}

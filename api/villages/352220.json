@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3522202001,
+      "name": "Batokan"
+    },
+    {
+      "code": 3522202002,
+      "name": "Betet"
+    },
+    {
+      "code": 3522202003,
+      "name": "Tembeling"
+    },
+    {
+      "code": 3522202004,
+      "name": "Sidomukti"
+    },
+    {
+      "code": 3522202005,
+      "name": "Besah"
+    },
+    {
+      "code": 3522202006,
+      "name": "Sambeng"
+    },
+    {
+      "code": 3522202007,
+      "name": "Ngaglik"
+    },
+    {
+      "code": 3522202008,
+      "name": "Kasiman"
+    },
+    {
+      "code": 3522202009,
+      "name": "Sekaran"
+    },
+    {
+      "code": 3522202010,
+      "name": "Tambakmerak"
+    }
+  ]
+}

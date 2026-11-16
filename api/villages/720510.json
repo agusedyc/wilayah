@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7205102001,
+      "name": "Mokupo"
+    },
+    {
+      "code": 7205102002,
+      "name": "Mendaan"
+    },
+    {
+      "code": 7205102003,
+      "name": "Baruga"
+    },
+    {
+      "code": 7205102004,
+      "name": "Monano"
+    },
+    {
+      "code": 7205102005,
+      "name": "Busak I"
+    },
+    {
+      "code": 7205102006,
+      "name": "Busak II"
+    },
+    {
+      "code": 7205102007,
+      "name": "Lamakan"
+    }
+  ]
+}

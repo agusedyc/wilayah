@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1101052001,
+      "name": "Kuta Buloh II"
+    },
+    {
+      "code": 1101052002,
+      "name": "Kuta Buloh I"
+    },
+    {
+      "code": 1101052003,
+      "name": "Ie Dingen"
+    },
+    {
+      "code": 1101052004,
+      "name": "Drien Jalo"
+    },
+    {
+      "code": 1101052005,
+      "name": "Jambo Papeun"
+    },
+    {
+      "code": 1101052006,
+      "name": "Buket Meuh"
+    },
+    {
+      "code": 1101052007,
+      "name": "Blang Kuala"
+    },
+    {
+      "code": 1101052008,
+      "name": "Rot Teungoh"
+    },
+    {
+      "code": 1101052009,
+      "name": "Alue Baro"
+    },
+    {
+      "code": 1101052010,
+      "name": "Ladang Tuha"
+    },
+    {
+      "code": 1101052011,
+      "name": "Lhok Mamplam"
+    },
+    {
+      "code": 1101052012,
+      "name": "Arun Tunggai"
+    },
+    {
+      "code": 1101052013,
+      "name": "Blang Teungoh"
+    },
+    {
+      "code": 1101052014,
+      "name": "Blang Bladeh"
+    },
+    {
+      "code": 1101052015,
+      "name": "Ie Buboh"
+    },
+    {
+      "code": 1101052016,
+      "name": "Keude Meukek"
+    },
+    {
+      "code": 1101052017,
+      "name": "Kuta Baro"
+    },
+    {
+      "code": 1101052018,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1101052019,
+      "name": "Labuhan Tarok"
+    },
+    {
+      "code": 1101052020,
+      "name": "Lhok Aman"
+    },
+    {
+      "code": 1101052021,
+      "name": "Alue Meutuah"
+    },
+    {
+      "code": 1101052022,
+      "name": "Ladang Baro"
+    },
+    {
+      "code": 1101052023,
+      "name": "Labuhan Tarok II"
+    }
+  ]
+}

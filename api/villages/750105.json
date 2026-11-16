@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7501052004,
+      "name": "Tontayuo"
+    },
+    {
+      "code": 7501052005,
+      "name": "Biluhu Timur"
+    },
+    {
+      "code": 7501052006,
+      "name": "Kayubulan"
+    },
+    {
+      "code": 7501052007,
+      "name": "Bongo"
+    },
+    {
+      "code": 7501052008,
+      "name": "Lopo"
+    },
+    {
+      "code": 7501052009,
+      "name": "Lamu"
+    },
+    {
+      "code": 7501052012,
+      "name": "Olimoo'o"
+    },
+    {
+      "code": 7501052014,
+      "name": "Buhudaa"
+    },
+    {
+      "code": 7501052015,
+      "name": "Langgula"
+    }
+  ]
+}

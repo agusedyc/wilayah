@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 regencies",
+  "data": [
+    {
+      "code": 3101,
+      "name": "Kabupaten Administrasi Kepulauan Seribu"
+    },
+    {
+      "code": 3171,
+      "name": "Kota Administrasi Jakarta Pusat"
+    },
+    {
+      "code": 3172,
+      "name": "Kota Administrasi Jakarta Utara"
+    },
+    {
+      "code": 3173,
+      "name": "Kota Administrasi Jakarta Barat"
+    },
+    {
+      "code": 3174,
+      "name": "Kota Administrasi Jakarta Selatan"
+    },
+    {
+      "code": 3175,
+      "name": "Kota Administrasi Jakarta Timur"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9501302001,
+      "name": "Wogi"
+    },
+    {
+      "code": 9501302002,
+      "name": "Elaboge"
+    },
+    {
+      "code": 9501302003,
+      "name": "Holasili"
+    },
+    {
+      "code": 9501302004,
+      "name": "Yerega"
+    },
+    {
+      "code": 9501302005,
+      "name": "Olagi"
+    },
+    {
+      "code": 9501302006,
+      "name": "Gigilobo"
+    },
+    {
+      "code": 9501302007,
+      "name": "Apnae"
+    },
+    {
+      "code": 9501302008,
+      "name": "Wonenggulik"
+    }
+  ]
+}

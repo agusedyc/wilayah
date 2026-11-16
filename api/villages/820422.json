@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8204222001,
+      "name": "Wayatim"
+    },
+    {
+      "code": 8204222002,
+      "name": "Tomara"
+    },
+    {
+      "code": 8204222003,
+      "name": "Tutupa"
+    },
+    {
+      "code": 8204222004,
+      "name": "Tabapoma"
+    },
+    {
+      "code": 8204222005,
+      "name": "Bibinoi"
+    },
+    {
+      "code": 8204222006,
+      "name": "Songa"
+    },
+    {
+      "code": 8204222007,
+      "name": "Tawa"
+    }
+  ]
+}

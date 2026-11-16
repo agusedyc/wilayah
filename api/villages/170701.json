@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1707011004,
+      "name": "Kampung Jawa"
+    },
+    {
+      "code": 1707011006,
+      "name": "Pasar Muara Aman"
+    },
+    {
+      "code": 1707012002,
+      "name": "Gandung"
+    },
+    {
+      "code": 1707012005,
+      "name": "Tunggang"
+    },
+    {
+      "code": 1707012007,
+      "name": "Talang Ulu"
+    },
+    {
+      "code": 1707012014,
+      "name": "Nangai Amen"
+    },
+    {
+      "code": 1707012016,
+      "name": "Lebong Tambang"
+    },
+    {
+      "code": 1707012022,
+      "name": "Ladang Palembang"
+    },
+    {
+      "code": 1707012023,
+      "name": "Kampung Dalam"
+    },
+    {
+      "code": 1707012024,
+      "name": "Kampung Muara Aman"
+    },
+    {
+      "code": 1707012028,
+      "name": "Lokasari"
+    },
+    {
+      "code": 1707012033,
+      "name": "Gandung Baru"
+    }
+  ]
+}

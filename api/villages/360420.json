@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3604202001,
+      "name": "Tunjung Teja"
+    },
+    {
+      "code": 3604202002,
+      "name": "Sukasari"
+    },
+    {
+      "code": 3604202003,
+      "name": "Panunggulan"
+    },
+    {
+      "code": 3604202004,
+      "name": "Malanggah"
+    },
+    {
+      "code": 3604202005,
+      "name": "Kemuning"
+    },
+    {
+      "code": 3604202006,
+      "name": "Bojong Menteng"
+    },
+    {
+      "code": 3604202007,
+      "name": "Bojong Catang"
+    },
+    {
+      "code": 3604202008,
+      "name": "Bojong Pandan"
+    },
+    {
+      "code": 3604202009,
+      "name": "Pancaregang"
+    }
+  ]
+}

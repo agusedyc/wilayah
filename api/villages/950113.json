@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9501132001,
+      "name": "Napua"
+    },
+    {
+      "code": 9501132002,
+      "name": "Holima"
+    },
+    {
+      "code": 9501132003,
+      "name": "Lani Matuan"
+    },
+    {
+      "code": 9501132004,
+      "name": "Okilik"
+    },
+    {
+      "code": 9501132005,
+      "name": "Healekma"
+    },
+    {
+      "code": 9501132006,
+      "name": "Yelekama"
+    },
+    {
+      "code": 9501132007,
+      "name": "Sapalek"
+    },
+    {
+      "code": 9501132008,
+      "name": "Yomaima"
+    },
+    {
+      "code": 9501132009,
+      "name": "Wilekama"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1103082001,
+      "name": "Bayeun"
+    },
+    {
+      "code": 1103082002,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1103082003,
+      "name": "Alue Raya"
+    },
+    {
+      "code": 1103082004,
+      "name": "Alue Kumba"
+    },
+    {
+      "code": 1103082005,
+      "name": "Seuneubok Dalam"
+    },
+    {
+      "code": 1103082006,
+      "name": "Alue Seuleumak"
+    },
+    {
+      "code": 1103082007,
+      "name": "Sarah Kayee"
+    },
+    {
+      "code": 1103082008,
+      "name": "Damar Siput"
+    },
+    {
+      "code": 1103082009,
+      "name": "Simpang Peut"
+    },
+    {
+      "code": 1103082010,
+      "name": "Simpang Aneuh"
+    },
+    {
+      "code": 1103082011,
+      "name": "Alue Punti"
+    },
+    {
+      "code": 1103082012,
+      "name": "Alue Kaul"
+    },
+    {
+      "code": 1103082013,
+      "name": "Sarah Teube"
+    },
+    {
+      "code": 1103082014,
+      "name": "Alue Tuwi"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6211082001,
+      "name": "Paduran Sebangau"
+    },
+    {
+      "code": 6211082002,
+      "name": "Paduran Mulya"
+    },
+    {
+      "code": 6211082003,
+      "name": "Sebangau Mulya"
+    },
+    {
+      "code": 6211082004,
+      "name": "Sebangau Permai"
+    },
+    {
+      "code": 6211082005,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6211082006,
+      "name": "Sebangau Jaya"
+    },
+    {
+      "code": 6211082007,
+      "name": "Sei Hambawang"
+    },
+    {
+      "code": 6211082008,
+      "name": "Sei Bakau"
+    }
+  ]
+}

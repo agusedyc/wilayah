@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6101082001,
+      "name": "Sebubus"
+    },
+    {
+      "code": 6101082002,
+      "name": "Nibung"
+    },
+    {
+      "code": 6101082003,
+      "name": "Malek"
+    },
+    {
+      "code": 6101082004,
+      "name": "Tanah Hitam"
+    },
+    {
+      "code": 6101082005,
+      "name": "Matang Danau"
+    },
+    {
+      "code": 6101082006,
+      "name": "Kalimantan"
+    },
+    {
+      "code": 6101082007,
+      "name": "Temajuk"
+    },
+    {
+      "code": 6101082008,
+      "name": "Mentibar"
+    }
+  ]
+}

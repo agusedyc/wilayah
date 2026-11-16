@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5308132001,
+      "name": "Kotabaru"
+    },
+    {
+      "code": 5308132002,
+      "name": "Tou"
+    },
+    {
+      "code": 5308132003,
+      "name": "Tou Timur"
+    },
+    {
+      "code": 5308132004,
+      "name": "Loboniki"
+    },
+    {
+      "code": 5308132005,
+      "name": "Ndondo"
+    },
+    {
+      "code": 5308132006,
+      "name": "Niopanda"
+    },
+    {
+      "code": 5308132007,
+      "name": "Hangalande"
+    },
+    {
+      "code": 5308132012,
+      "name": "Tou Barat"
+    },
+    {
+      "code": 5308132013,
+      "name": "Liselande"
+    },
+    {
+      "code": 5308132014,
+      "name": "Rangalaka"
+    },
+    {
+      "code": 5308132015,
+      "name": "Pise"
+    },
+    {
+      "code": 5308132016,
+      "name": "Neotonda"
+    },
+    {
+      "code": 5308132017,
+      "name": "Nuanaga"
+    }
+  ]
+}

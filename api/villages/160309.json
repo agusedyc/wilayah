@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1603092001,
+      "name": "Tenam Bungkuk"
+    },
+    {
+      "code": 1603092002,
+      "name": "Kota Padang"
+    },
+    {
+      "code": 1603092003,
+      "name": "Gunung Agung"
+    },
+    {
+      "code": 1603092004,
+      "name": "Sri Tanjung"
+    },
+    {
+      "code": 1603092005,
+      "name": "Tebing Abang"
+    },
+    {
+      "code": 1603092006,
+      "name": "Batu Surau"
+    },
+    {
+      "code": 1603092007,
+      "name": "Tanjung Raya"
+    },
+    {
+      "code": 1603092008,
+      "name": "Muara Tenang"
+    },
+    {
+      "code": 1603092009,
+      "name": "Rekimai Jaya"
+    },
+    {
+      "code": 1603092010,
+      "name": "Palak Tanah"
+    },
+    {
+      "code": 1603092011,
+      "name": "Kota Agung"
+    },
+    {
+      "code": 1603092012,
+      "name": "Swarna Dwipa"
+    }
+  ]
+}

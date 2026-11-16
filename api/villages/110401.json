@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1104012003,
+      "name": "Delung Sekinel"
+    },
+    {
+      "code": 1104012005,
+      "name": "Gelampang Gading"
+    },
+    {
+      "code": 1104012006,
+      "name": "Gewat"
+    },
+    {
+      "code": 1104012008,
+      "name": "Jamat"
+    },
+    {
+      "code": 1104012009,
+      "name": "Kemerleng"
+    },
+    {
+      "code": 1104012010,
+      "name": "Kute Baru"
+    },
+    {
+      "code": 1104012011,
+      "name": "Kute Keramil"
+    },
+    {
+      "code": 1104012012,
+      "name": "Kute Rayang"
+    },
+    {
+      "code": 1104012013,
+      "name": "Kute Riyem"
+    },
+    {
+      "code": 1104012014,
+      "name": "Kute Robel"
+    },
+    {
+      "code": 1104012015,
+      "name": "Linge"
+    },
+    {
+      "code": 1104012016,
+      "name": "Lumut"
+    },
+    {
+      "code": 1104012018,
+      "name": "Mungkur"
+    },
+    {
+      "code": 1104012019,
+      "name": "Owaq"
+    },
+    {
+      "code": 1104012020,
+      "name": "Pantan Nangka"
+    },
+    {
+      "code": 1104012021,
+      "name": "Penarun"
+    },
+    {
+      "code": 1104012022,
+      "name": "Simpang Tige Uning"
+    },
+    {
+      "code": 1104012023,
+      "name": "Umang"
+    },
+    {
+      "code": 1104012024,
+      "name": "Despot Linge"
+    },
+    {
+      "code": 1104012025,
+      "name": "Gemboyah"
+    },
+    {
+      "code": 1104012031,
+      "name": "Arul Item"
+    },
+    {
+      "code": 1104012032,
+      "name": "Ise-Ise"
+    },
+    {
+      "code": 1104012033,
+      "name": "Kute Reje"
+    },
+    {
+      "code": 1104012034,
+      "name": "Reje Payung"
+    },
+    {
+      "code": 1104012035,
+      "name": "Pantan Reduk"
+    },
+    {
+      "code": 1104012036,
+      "name": "Antara"
+    }
+  ]
+}

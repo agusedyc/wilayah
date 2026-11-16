@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5101051001,
+      "name": "Pendem"
+    },
+    {
+      "code": 5101051003,
+      "name": "Loloan Timur"
+    },
+    {
+      "code": 5101051005,
+      "name": "Dauhwaru"
+    },
+    {
+      "code": 5101051009,
+      "name": "Sangkaragung"
+    },
+    {
+      "code": 5101052002,
+      "name": "Perancak"
+    },
+    {
+      "code": 5101052004,
+      "name": "Batu Agung"
+    },
+    {
+      "code": 5101052006,
+      "name": "Budeng"
+    },
+    {
+      "code": 5101052007,
+      "name": "Air Kuning"
+    },
+    {
+      "code": 5101052008,
+      "name": "Yehkuning"
+    },
+    {
+      "code": 5101052010,
+      "name": "Dangintukadaya"
+    }
+  ]
+}

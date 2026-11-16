@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1209091001,
+      "name": "Binjai Serbangan"
+    },
+    {
+      "code": 1209092002,
+      "name": "Air Joman"
+    },
+    {
+      "code": 1209092003,
+      "name": "Air Joman Baru"
+    },
+    {
+      "code": 1209092005,
+      "name": "Banjar"
+    },
+    {
+      "code": 1209092007,
+      "name": "Pasar Lembu"
+    },
+    {
+      "code": 1209092008,
+      "name": "Punggulan"
+    },
+    {
+      "code": 1209092012,
+      "name": "Subur"
+    }
+  ]
+}

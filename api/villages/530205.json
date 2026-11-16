@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5302051010,
+      "name": "Niki-Niki"
+    },
+    {
+      "code": 5302052001,
+      "name": "Taebesa"
+    },
+    {
+      "code": 5302052002,
+      "name": "Nakfunu"
+    },
+    {
+      "code": 5302052003,
+      "name": "Oe'ekam"
+    },
+    {
+      "code": 5302052004,
+      "name": "Baki"
+    },
+    {
+      "code": 5302052005,
+      "name": "Tumu"
+    },
+    {
+      "code": 5302052006,
+      "name": "Noebesa"
+    },
+    {
+      "code": 5302052007,
+      "name": "Nobi-Nobi"
+    },
+    {
+      "code": 5302052008,
+      "name": "Sopo"
+    },
+    {
+      "code": 5302052009,
+      "name": "Bone"
+    },
+    {
+      "code": 5302052011,
+      "name": "Maunum Niki-Niki"
+    }
+  ]
+}

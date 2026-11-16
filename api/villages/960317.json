@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9603171001,
+      "name": "Waisai"
+    },
+    {
+      "code": 9603171002,
+      "name": "Sapordanco"
+    },
+    {
+      "code": 9603171003,
+      "name": "Bonkawir"
+    },
+    {
+      "code": 9603171004,
+      "name": "Warmasen"
+    }
+  ]
+}

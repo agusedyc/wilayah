@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7310021001,
+      "name": "Kalu-Kalukuang"
+    },
+    {
+      "code": 7310022002,
+      "name": "Pammas"
+    },
+    {
+      "code": 7310022003,
+      "name": "Sabaru"
+    },
+    {
+      "code": 7310022004,
+      "name": "Kanyurang"
+    },
+    {
+      "code": 7310022005,
+      "name": "Doang-Doangan Lompo"
+    },
+    {
+      "code": 7310022006,
+      "name": "Marasende"
+    },
+    {
+      "code": 7310022007,
+      "name": "Dewakang"
+    }
+  ]
+}

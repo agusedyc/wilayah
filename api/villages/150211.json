@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1502112001,
+      "name": "Sungai Ulak"
+    },
+    {
+      "code": 1502112002,
+      "name": "Aur Berduri"
+    },
+    {
+      "code": 1502112003,
+      "name": "Telun"
+    },
+    {
+      "code": 1502112004,
+      "name": "Nalo Gedang"
+    },
+    {
+      "code": 1502112005,
+      "name": "Baru Nalo"
+    },
+    {
+      "code": 1502112006,
+      "name": "Mentawak"
+    },
+    {
+      "code": 1502112007,
+      "name": "Danau"
+    }
+  ]
+}

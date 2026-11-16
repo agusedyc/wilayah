@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3309102001,
+      "name": "Canden"
+    },
+    {
+      "code": 3309102002,
+      "name": "Senting"
+    },
+    {
+      "code": 3309102003,
+      "name": "Tempursari"
+    },
+    {
+      "code": 3309102004,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3309102005,
+      "name": "Glintang"
+    },
+    {
+      "code": 3309102006,
+      "name": "Catur"
+    },
+    {
+      "code": 3309102007,
+      "name": "Tawengan"
+    },
+    {
+      "code": 3309102008,
+      "name": "Sambi"
+    },
+    {
+      "code": 3309102009,
+      "name": "Demangan"
+    },
+    {
+      "code": 3309102010,
+      "name": "Kepoh"
+    },
+    {
+      "code": 3309102011,
+      "name": "Jagoan"
+    },
+    {
+      "code": 3309102012,
+      "name": "Babadan"
+    },
+    {
+      "code": 3309102013,
+      "name": "Ngaglik"
+    },
+    {
+      "code": 3309102014,
+      "name": "Trosobo"
+    },
+    {
+      "code": 3309102015,
+      "name": "Cermo"
+    },
+    {
+      "code": 3309102016,
+      "name": "Nglembu"
+    }
+  ]
+}

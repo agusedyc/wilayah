@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1671091001,
+      "name": "Dua-puluh Ilir Dua"
+    },
+    {
+      "code": 1671091002,
+      "name": "Ario Kemuning"
+    },
+    {
+      "code": 1671091003,
+      "name": "Sekipjaya"
+    },
+    {
+      "code": 1671091004,
+      "name": "Pahlawan"
+    },
+    {
+      "code": 1671091005,
+      "name": "Pipareja"
+    },
+    {
+      "code": 1671091006,
+      "name": "Talangaman"
+    }
+  ]
+}

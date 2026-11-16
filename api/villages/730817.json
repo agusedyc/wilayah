@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 7308171001,
+      "name": "Otting"
+    },
+    {
+      "code": 7308171002,
+      "name": "Tokaseng"
+    },
+    {
+      "code": 7308172003,
+      "name": "Palongki"
+    },
+    {
+      "code": 7308172004,
+      "name": "Tajong"
+    },
+    {
+      "code": 7308172005,
+      "name": "Ulo"
+    },
+    {
+      "code": 7308172006,
+      "name": "Lanca"
+    },
+    {
+      "code": 7308172007,
+      "name": "Itterung"
+    },
+    {
+      "code": 7308172008,
+      "name": "Mattoanging"
+    },
+    {
+      "code": 7308172009,
+      "name": "Lamuru"
+    },
+    {
+      "code": 7308172010,
+      "name": "Waji"
+    },
+    {
+      "code": 7308172011,
+      "name": "Ajjalireng"
+    },
+    {
+      "code": 7308172012,
+      "name": "Sijelling"
+    },
+    {
+      "code": 7308172013,
+      "name": "Lea"
+    },
+    {
+      "code": 7308172014,
+      "name": "Padaidi"
+    },
+    {
+      "code": 7308172015,
+      "name": "Pongka"
+    },
+    {
+      "code": 7308172016,
+      "name": "Lappae"
+    },
+    {
+      "code": 7308172017,
+      "name": "Patangnga"
+    }
+  ]
+}

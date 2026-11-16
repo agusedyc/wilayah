@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7373071001,
+      "name": "Mawa"
+    },
+    {
+      "code": 7373071002,
+      "name": "Purangi"
+    },
+    {
+      "code": 7373071003,
+      "name": "Peta"
+    },
+    {
+      "code": 7373071004,
+      "name": "Sendana"
+    }
+  ]
+}

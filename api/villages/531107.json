@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5311071001,
+      "name": "Kawangu"
+    },
+    {
+      "code": 5311071002,
+      "name": "Watumbaka"
+    },
+    {
+      "code": 5311072003,
+      "name": "Kambatatana"
+    },
+    {
+      "code": 5311072007,
+      "name": "Palaka Hembi"
+    },
+    {
+      "code": 5311072008,
+      "name": "Kadumbul"
+    },
+    {
+      "code": 5311072009,
+      "name": "Maubokul"
+    },
+    {
+      "code": 5311072012,
+      "name": "Laindeha"
+    }
+  ]
+}

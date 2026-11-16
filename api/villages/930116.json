@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9301162001,
+      "name": "Po-Epe"
+    },
+    {
+      "code": 9301162002,
+      "name": "Yawimu"
+    },
+    {
+      "code": 9301162003,
+      "name": "Taga Epe"
+    },
+    {
+      "code": 9301162004,
+      "name": "Nakias"
+    },
+    {
+      "code": 9301162005,
+      "name": "Salam Epe"
+    },
+    {
+      "code": 9301162006,
+      "name": "Yomop"
+    }
+  ]
+}

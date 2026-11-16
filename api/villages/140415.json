@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1404151002,
+      "name": "Pelangiran"
+    },
+    {
+      "code": 1404152001,
+      "name": "Rotan Semelur"
+    },
+    {
+      "code": 1404152003,
+      "name": "Simpang Kateman"
+    },
+    {
+      "code": 1404152004,
+      "name": "Tanjungsimpang"
+    },
+    {
+      "code": 1404152005,
+      "name": "Baung Rejo Jaya"
+    },
+    {
+      "code": 1404152006,
+      "name": "Tagagiri Tama Jaya"
+    },
+    {
+      "code": 1404152007,
+      "name": "Pinang Jaya"
+    },
+    {
+      "code": 1404152008,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1404152009,
+      "name": "Tegal Rejo"
+    },
+    {
+      "code": 1404152010,
+      "name": "Intan Mulia Jaya"
+    },
+    {
+      "code": 1404152011,
+      "name": "Saka Palas Jaya"
+    },
+    {
+      "code": 1404152012,
+      "name": "Catur Karya"
+    },
+    {
+      "code": 1404152013,
+      "name": "Bagan Jaya"
+    },
+    {
+      "code": 1404152014,
+      "name": "Telukbunian"
+    },
+    {
+      "code": 1404152015,
+      "name": "Terusan Beringin Jaya"
+    },
+    {
+      "code": 1404152016,
+      "name": "Hidayah"
+    }
+  ]
+}

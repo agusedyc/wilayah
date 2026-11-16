@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9304032001,
+      "name": "Sawa"
+    },
+    {
+      "code": 9304032002,
+      "name": "Erma"
+    },
+    {
+      "code": 9304032003,
+      "name": "Bu"
+    },
+    {
+      "code": 9304032004,
+      "name": "Er"
+    },
+    {
+      "code": 9304032005,
+      "name": "Pupis"
+    },
+    {
+      "code": 9304032006,
+      "name": "Sona"
+    },
+    {
+      "code": 9304032007,
+      "name": "Agani"
+    },
+    {
+      "code": 9304032008,
+      "name": "Mumugu"
+    },
+    {
+      "code": 9304032009,
+      "name": "Sauti"
+    },
+    {
+      "code": 9304032010,
+      "name": "Mumugi II"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3205392001,
+      "name": "Selaawi"
+    },
+    {
+      "code": 3205392002,
+      "name": "Putrajawa"
+    },
+    {
+      "code": 3205392003,
+      "name": "Cigawir"
+    },
+    {
+      "code": 3205392004,
+      "name": "Pelitaasih"
+    },
+    {
+      "code": 3205392005,
+      "name": "Cirapuhan"
+    },
+    {
+      "code": 3205392006,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3205392007,
+      "name": "Samida"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7202262001,
+      "name": "Korobono"
+    },
+    {
+      "code": 7202262002,
+      "name": "Omporiwo"
+    },
+    {
+      "code": 7202262003,
+      "name": "Wayura"
+    },
+    {
+      "code": 7202262004,
+      "name": "Tokilo"
+    },
+    {
+      "code": 7202262005,
+      "name": "Tindoli"
+    },
+    {
+      "code": 7202262006,
+      "name": "Tolambo"
+    },
+    {
+      "code": 7202262007,
+      "name": "Singkona"
+    },
+    {
+      "code": 7202262008,
+      "name": "Salindu"
+    },
+    {
+      "code": 7202262009,
+      "name": "Barati"
+    }
+  ]
+}

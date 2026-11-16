@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1607212001,
+      "name": "Penuguan"
+    },
+    {
+      "code": 1607212002,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1607212003,
+      "name": "Sumber Mukti"
+    },
+    {
+      "code": 1607212004,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 1607212005,
+      "name": "Wonodadi"
+    },
+    {
+      "code": 1607212006,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1607212007,
+      "name": "Songo Makmur"
+    },
+    {
+      "code": 1607212008,
+      "name": "Karang Manunggal"
+    },
+    {
+      "code": 1607212009,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1607212010,
+      "name": "Ringin Harjo"
+    },
+    {
+      "code": 1607212011,
+      "name": "Bumi Rejo"
+    },
+    {
+      "code": 1607212012,
+      "name": "Kelapa Dua"
+    }
+  ]
+}

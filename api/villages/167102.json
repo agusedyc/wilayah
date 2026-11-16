@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1671021002,
+      "name": "Satu Ulu"
+    },
+    {
+      "code": 1671021003,
+      "name": "Dua Ulu"
+    },
+    {
+      "code": 1671021004,
+      "name": "Tiga Empat Ulu"
+    },
+    {
+      "code": 1671021005,
+      "name": "Lima Ulu"
+    },
+    {
+      "code": 1671021006,
+      "name": "Tujuh Ulu"
+    }
+  ]
+}

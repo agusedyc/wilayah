@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9508122001,
+      "name": "Meborok"
+    },
+    {
+      "code": 9508122002,
+      "name": "Yuguru"
+    },
+    {
+      "code": 9508122003,
+      "name": "Lemurak"
+    },
+    {
+      "code": 9508122004,
+      "name": "Setmit"
+    },
+    {
+      "code": 9508122005,
+      "name": "Aptam"
+    },
+    {
+      "code": 9508122006,
+      "name": "Ngenamba"
+    },
+    {
+      "code": 9508122007,
+      "name": "Narugum"
+    },
+    {
+      "code": 9508122008,
+      "name": "Eregenmanggal"
+    },
+    {
+      "code": 9508122009,
+      "name": "Talpam"
+    },
+    {
+      "code": 9508122010,
+      "name": "Siginimarem"
+    },
+    {
+      "code": 9508122011,
+      "name": "Bone"
+    },
+    {
+      "code": 9508122012,
+      "name": "Olunmu"
+    },
+    {
+      "code": 9508122013,
+      "name": "Sabiem"
+    },
+    {
+      "code": 9508122014,
+      "name": "Pereki"
+    }
+  ]
+}

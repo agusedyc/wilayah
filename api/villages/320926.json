@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3209262004,
+      "name": "Budur"
+    },
+    {
+      "code": 3209262005,
+      "name": "Babakan"
+    },
+    {
+      "code": 3209262006,
+      "name": "Ciwaringin"
+    },
+    {
+      "code": 3209262007,
+      "name": "Gintungranjeng"
+    },
+    {
+      "code": 3209262008,
+      "name": "Gintung Kidul"
+    },
+    {
+      "code": 3209262009,
+      "name": "Gintung Tengah"
+    },
+    {
+      "code": 3209262010,
+      "name": "Bringin"
+    },
+    {
+      "code": 3209262011,
+      "name": "Galagamba"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7307021001,
+      "name": "Sangiaseri"
+    },
+    {
+      "code": 7307022002,
+      "name": "Puncak"
+    },
+    {
+      "code": 7307022003,
+      "name": "Songing"
+    },
+    {
+      "code": 7307022004,
+      "name": "Aska"
+    },
+    {
+      "code": 7307022005,
+      "name": "Talle"
+    },
+    {
+      "code": 7307022006,
+      "name": "Palae"
+    },
+    {
+      "code": 7307022007,
+      "name": "Bulu Kamase"
+    },
+    {
+      "code": 7307022008,
+      "name": "Palangka"
+    },
+    {
+      "code": 7307022009,
+      "name": "Polewali"
+    },
+    {
+      "code": 7307022010,
+      "name": "Gareccing"
+    },
+    {
+      "code": 7307022011,
+      "name": "Alenangka"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9507112001,
+      "name": "Dugume"
+    },
+    {
+      "code": 9507112002,
+      "name": "Wulundia"
+    },
+    {
+      "code": 9507112003,
+      "name": "Dapogi"
+    },
+    {
+      "code": 9507112004,
+      "name": "Kulumburu"
+    },
+    {
+      "code": 9507112005,
+      "name": "Molobok"
+    },
+    {
+      "code": 9507112006,
+      "name": "Tugunakwi"
+    },
+    {
+      "code": 9507112007,
+      "name": "Yanuru"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3375021002,
+      "name": "Noyontaansari"
+    },
+    {
+      "code": 3375021004,
+      "name": "Kauman"
+    },
+    {
+      "code": 3375021007,
+      "name": "Poncol"
+    },
+    {
+      "code": 3375021008,
+      "name": "Klego"
+    },
+    {
+      "code": 3375021009,
+      "name": "Gamer"
+    },
+    {
+      "code": 3375021010,
+      "name": "Setono"
+    },
+    {
+      "code": 3375021012,
+      "name": "Kali Baros"
+    }
+  ]
+}

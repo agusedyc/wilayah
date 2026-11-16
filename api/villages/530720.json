@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5307202001,
+      "name": "Waihawa"
+    },
+    {
+      "code": 5307202002,
+      "name": "Nenbura"
+    },
+    {
+      "code": 5307202003,
+      "name": "Wogalirit"
+    },
+    {
+      "code": 5307202004,
+      "name": "Watumerak"
+    },
+    {
+      "code": 5307202005,
+      "name": "Wolonterang"
+    },
+    {
+      "code": 5307202006,
+      "name": "Kloangpopot"
+    },
+    {
+      "code": 5307202007,
+      "name": "Wolomotong"
+    },
+    {
+      "code": 5307202008,
+      "name": "Mahe Tanah"
+    },
+    {
+      "code": 5307202009,
+      "name": "Pelibaler"
+    }
+  ]
+}

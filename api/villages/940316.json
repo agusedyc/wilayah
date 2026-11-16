@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9403162001,
+      "name": "Ukauwo"
+    },
+    {
+      "code": 9403162002,
+      "name": "Waipa"
+    },
+    {
+      "code": 9403162003,
+      "name": "Ukago"
+    },
+    {
+      "code": 9403162004,
+      "name": "Totiyo"
+    },
+    {
+      "code": 9403162005,
+      "name": "Biyadide"
+    },
+    {
+      "code": 9403162006,
+      "name": "Pekege"
+    }
+  ]
+}

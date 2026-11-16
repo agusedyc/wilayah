@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 3208102001,
+      "name": "Geresik"
+    },
+    {
+      "code": 3208102002,
+      "name": "Kadurama"
+    },
+    {
+      "code": 3208102003,
+      "name": "Ciawigebang"
+    },
+    {
+      "code": 3208102004,
+      "name": "Lebaksiuh"
+    },
+    {
+      "code": 3208102005,
+      "name": "Ciputat"
+    },
+    {
+      "code": 3208102006,
+      "name": "Pajawanlor"
+    },
+    {
+      "code": 3208102007,
+      "name": "Sidaraja"
+    },
+    {
+      "code": 3208102008,
+      "name": "Kapandayan"
+    },
+    {
+      "code": 3208102009,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 3208102010,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3208102011,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3208102012,
+      "name": "Cihaur"
+    },
+    {
+      "code": 3208102013,
+      "name": "Ciawilor"
+    },
+    {
+      "code": 3208102014,
+      "name": "Cigarukgak"
+    },
+    {
+      "code": 3208102015,
+      "name": "Sukadana"
+    },
+    {
+      "code": 3208102016,
+      "name": "Cihirup"
+    },
+    {
+      "code": 3208102017,
+      "name": "Karamatmulya"
+    },
+    {
+      "code": 3208102018,
+      "name": "Pamijahan"
+    },
+    {
+      "code": 3208102019,
+      "name": "Karangkamulyan"
+    },
+    {
+      "code": 3208102020,
+      "name": "Padarama"
+    },
+    {
+      "code": 3208102021,
+      "name": "Cikubangmulya"
+    },
+    {
+      "code": 3208102022,
+      "name": "Dukuhdalem"
+    },
+    {
+      "code": 3208102023,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3208102024,
+      "name": "Cijagamulya"
+    }
+  ]
+}

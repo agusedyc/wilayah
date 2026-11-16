@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3673021001,
+      "name": "Kasemen"
+    },
+    {
+      "code": 3673021002,
+      "name": "Mesjid Priyayi"
+    },
+    {
+      "code": 3673021003,
+      "name": "Terumbu"
+    },
+    {
+      "code": 3673021004,
+      "name": "Warung Jaud"
+    },
+    {
+      "code": 3673021006,
+      "name": "Bendung"
+    },
+    {
+      "code": 3673021007,
+      "name": "Banten"
+    },
+    {
+      "code": 3673021008,
+      "name": "Sawah Luhur"
+    },
+    {
+      "code": 3673021009,
+      "name": "Kilasah"
+    },
+    {
+      "code": 3673021010,
+      "name": "Kasunyatan"
+    },
+    {
+      "code": 3673021011,
+      "name": "Margaluyu"
+    }
+  ]
+}

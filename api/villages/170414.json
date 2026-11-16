@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1704142001,
+      "name": "Pulau Panggung"
+    },
+    {
+      "code": 1704142002,
+      "name": "Talang Besar"
+    },
+    {
+      "code": 1704142003,
+      "name": "Talang Jawi I"
+    },
+    {
+      "code": 1704142004,
+      "name": "Talang Jawi II"
+    },
+    {
+      "code": 1704142005,
+      "name": "Air Kering"
+    },
+    {
+      "code": 1704142006,
+      "name": "Gunung Kaya"
+    },
+    {
+      "code": 1704142007,
+      "name": "Ulak Agung"
+    },
+    {
+      "code": 1704142008,
+      "name": "Talang Padang"
+    },
+    {
+      "code": 1704142009,
+      "name": "Air Kering II"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 regencies",
+  "data": [
+    {
+      "code": 9601,
+      "name": "Kabupaten Sorong"
+    },
+    {
+      "code": 9602,
+      "name": "Kabupaten Sorong Selatan"
+    },
+    {
+      "code": 9603,
+      "name": "Kabupaten Raja Ampat"
+    },
+    {
+      "code": 9604,
+      "name": "Kabupaten Tambrauw"
+    },
+    {
+      "code": 9605,
+      "name": "Kabupaten Maybrat"
+    },
+    {
+      "code": 9671,
+      "name": "Kota Sorong"
+    }
+  ]
+}

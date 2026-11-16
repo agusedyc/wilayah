@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 1105072001,
+      "name": "Arongan"
+    },
+    {
+      "code": 1105072002,
+      "name": "Alue Bagok"
+    },
+    {
+      "code": 1105072003,
+      "name": "Alue Sundak"
+    },
+    {
+      "code": 1105072004,
+      "name": "Alue Batee"
+    },
+    {
+      "code": 1105072005,
+      "name": "Cot Buloh"
+    },
+    {
+      "code": 1105072006,
+      "name": "Cot Kumbang"
+    },
+    {
+      "code": 1105072007,
+      "name": "Cot Juru Mudi"
+    },
+    {
+      "code": 1105072008,
+      "name": "Drien Rampak"
+    },
+    {
+      "code": 1105072009,
+      "name": "Kubu"
+    },
+    {
+      "code": 1105072010,
+      "name": "Keub"
+    },
+    {
+      "code": 1105072011,
+      "name": "Pante Mutia"
+    },
+    {
+      "code": 1105072012,
+      "name": "Peuribu"
+    },
+    {
+      "code": 1105072013,
+      "name": "Panton Makmu"
+    },
+    {
+      "code": 1105072014,
+      "name": "Panton Bahagia"
+    },
+    {
+      "code": 1105072015,
+      "name": "Peulanteu LB"
+    },
+    {
+      "code": 1105072016,
+      "name": "Rimba Langgeh"
+    },
+    {
+      "code": 1105072017,
+      "name": "Suak Keumudee"
+    },
+    {
+      "code": 1105072018,
+      "name": "Seuneubok Lhong"
+    },
+    {
+      "code": 1105072019,
+      "name": "Suak Ie Beuso"
+    },
+    {
+      "code": 1105072020,
+      "name": "Suak Bidok"
+    },
+    {
+      "code": 1105072021,
+      "name": "Simpang peut"
+    },
+    {
+      "code": 1105072022,
+      "name": "Seuneubok Teungoh"
+    },
+    {
+      "code": 1105072023,
+      "name": "Teupin Peraho"
+    },
+    {
+      "code": 1105072024,
+      "name": "Ujong Beusa"
+    },
+    {
+      "code": 1105072025,
+      "name": "Ujong Simpang"
+    },
+    {
+      "code": 1105072026,
+      "name": "Gunong Pulo"
+    },
+    {
+      "code": 1105072027,
+      "name": "Karang Hampa"
+    }
+  ]
+}

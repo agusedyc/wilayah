@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601312001,
+      "name": "Ciodeng"
+    },
+    {
+      "code": 3601312002,
+      "name": "Pasirtenjo"
+    },
+    {
+      "code": 3601312003,
+      "name": "Bojongmanik"
+    },
+    {
+      "code": 3601312004,
+      "name": "Campakawarna"
+    },
+    {
+      "code": 3601312005,
+      "name": "Pasirloa"
+    },
+    {
+      "code": 3601312006,
+      "name": "Pasirlancar"
+    },
+    {
+      "code": 3601312007,
+      "name": "Sindangresmi"
+    },
+    {
+      "code": 3601312008,
+      "name": "Pasirdurung"
+    },
+    {
+      "code": 3601312009,
+      "name": "Kadumalati"
+    }
+  ]
+}

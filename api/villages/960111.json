@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9601112001,
+      "name": "Indiwi"
+    },
+    {
+      "code": 9601112002,
+      "name": "Klabot"
+    },
+    {
+      "code": 9601112003,
+      "name": "Mlat"
+    },
+    {
+      "code": 9601112004,
+      "name": "Mlawes"
+    },
+    {
+      "code": 9601112005,
+      "name": "Mlasfa"
+    },
+    {
+      "code": 9601112006,
+      "name": "Kanolo"
+    },
+    {
+      "code": 9601112007,
+      "name": "Somir"
+    },
+    {
+      "code": 9601112008,
+      "name": "Warkti"
+    }
+  ]
+}

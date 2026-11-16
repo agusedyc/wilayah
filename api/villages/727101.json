@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7271011004,
+      "name": "Besusu Barat"
+    },
+    {
+      "code": 7271011006,
+      "name": "Besusu Tengah"
+    },
+    {
+      "code": 7271011007,
+      "name": "Besusu Timur"
+    },
+    {
+      "code": 7271011009,
+      "name": "Lolu Selatan"
+    },
+    {
+      "code": 7271011010,
+      "name": "Lolu Utara"
+    }
+  ]
+}

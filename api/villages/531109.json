@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5311092001,
+      "name": "Rindi"
+    },
+    {
+      "code": 5311092002,
+      "name": "Tanaraing"
+    },
+    {
+      "code": 5311092003,
+      "name": "Haikatapu"
+    },
+    {
+      "code": 5311092004,
+      "name": "Kabaru"
+    },
+    {
+      "code": 5311092005,
+      "name": "Hanggaroru"
+    },
+    {
+      "code": 5311092006,
+      "name": "Lailanjang"
+    },
+    {
+      "code": 5311092007,
+      "name": "Tamburi"
+    },
+    {
+      "code": 5311092008,
+      "name": "Kayuri"
+    }
+  ]
+}

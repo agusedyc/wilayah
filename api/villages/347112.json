@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3471121001,
+      "name": "Keparakan"
+    },
+    {
+      "code": 3471121002,
+      "name": "Wirogunan"
+    },
+    {
+      "code": 3471121003,
+      "name": "Brontokusuman"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6472051002,
+      "name": "Sempaja Selatan"
+    },
+    {
+      "code": 6472051003,
+      "name": "Lempake"
+    },
+    {
+      "code": 6472051004,
+      "name": "Sungai Siring"
+    },
+    {
+      "code": 6472051010,
+      "name": "Sempaja Utara"
+    },
+    {
+      "code": 6472051011,
+      "name": "Tanah Merah"
+    },
+    {
+      "code": 6472051012,
+      "name": "Sempaja Barat"
+    },
+    {
+      "code": 6472051013,
+      "name": "Sempaja Timur"
+    },
+    {
+      "code": 6472051014,
+      "name": "Budaya Pampang"
+    }
+  ]
+}

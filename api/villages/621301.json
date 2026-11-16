@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6213011012,
+      "name": "Tamiang Layang"
+    },
+    {
+      "code": 6213012003,
+      "name": "Pulau Patai"
+    },
+    {
+      "code": 6213012004,
+      "name": "Sarapat"
+    },
+    {
+      "code": 6213012005,
+      "name": "Magantis"
+    },
+    {
+      "code": 6213012006,
+      "name": "Jaar"
+    },
+    {
+      "code": 6213012007,
+      "name": "Matabu"
+    },
+    {
+      "code": 6213012008,
+      "name": "Dorong"
+    },
+    {
+      "code": 6213012009,
+      "name": "Didi"
+    },
+    {
+      "code": 6213012010,
+      "name": "Karang Langit"
+    },
+    {
+      "code": 6213012011,
+      "name": "Haringen"
+    },
+    {
+      "code": 6213012018,
+      "name": "Jaweten"
+    },
+    {
+      "code": 6213012019,
+      "name": "Matarah"
+    },
+    {
+      "code": 6213012020,
+      "name": "Maragut"
+    },
+    {
+      "code": 6213012021,
+      "name": "Mangkarap"
+    },
+    {
+      "code": 6213012022,
+      "name": "Gumpa"
+    },
+    {
+      "code": 6213012023,
+      "name": "Sumur"
+    },
+    {
+      "code": 6213012024,
+      "name": "Harara"
+    }
+  ]
+}

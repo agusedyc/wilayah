@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7174021003,
+      "name": "Kotobangun"
+    },
+    {
+      "code": 7174021004,
+      "name": "Tumubui"
+    },
+    {
+      "code": 7174021005,
+      "name": "Sinindian"
+    },
+    {
+      "code": 7174021006,
+      "name": "Matali"
+    },
+    {
+      "code": 7174021007,
+      "name": "Motoboi Besar"
+    },
+    {
+      "code": 7174021008,
+      "name": "Kobo Besar"
+    },
+    {
+      "code": 7174022001,
+      "name": "Moyag"
+    },
+    {
+      "code": 7174022002,
+      "name": "Kobo Kecil"
+    },
+    {
+      "code": 7174022009,
+      "name": "Moyag Tampoan"
+    },
+    {
+      "code": 7174022010,
+      "name": "Moyag Todulan"
+    }
+  ]
+}

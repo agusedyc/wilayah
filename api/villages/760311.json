@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7603112001,
+      "name": "Mokallang"
+    },
+    {
+      "code": 7603112002,
+      "name": "Masoso"
+    },
+    {
+      "code": 7603112003,
+      "name": "Saluassing"
+    },
+    {
+      "code": 7603112004,
+      "name": "Salubulo"
+    },
+    {
+      "code": 7603112005,
+      "name": "Salukadi"
+    },
+    {
+      "code": 7603112006,
+      "name": "Salukepopok"
+    },
+    {
+      "code": 7603112007,
+      "name": "Ulumambi Barat"
+    },
+    {
+      "code": 7603112008,
+      "name": "Limbadebata"
+    },
+    {
+      "code": 7603112009,
+      "name": "Tanete Tomba"
+    },
+    {
+      "code": 7603112010,
+      "name": "Bambang"
+    },
+    {
+      "code": 7603112011,
+      "name": "Rantelemo"
+    },
+    {
+      "code": 7603112012,
+      "name": "Saludengen"
+    },
+    {
+      "code": 7603112013,
+      "name": "Ulumambi"
+    },
+    {
+      "code": 7603112014,
+      "name": "Bambang Timur"
+    },
+    {
+      "code": 7603112015,
+      "name": "Minanga"
+    },
+    {
+      "code": 7603112016,
+      "name": "Sikamase"
+    },
+    {
+      "code": 7603112017,
+      "name": "Rantetarima"
+    },
+    {
+      "code": 7603112018,
+      "name": "Salururu"
+    },
+    {
+      "code": 7603112019,
+      "name": "Salutabang"
+    },
+    {
+      "code": 7603112020,
+      "name": "Balatana"
+    }
+  ]
+}

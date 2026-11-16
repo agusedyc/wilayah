@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1602232001,
+      "name": "Benawa"
+    },
+    {
+      "code": 1602232002,
+      "name": "Serapek"
+    },
+    {
+      "code": 1602232003,
+      "name": "Sugih Waras"
+    },
+    {
+      "code": 1602232004,
+      "name": "Muara Telang"
+    },
+    {
+      "code": 1602232005,
+      "name": "Kuripan"
+    },
+    {
+      "code": 1602232006,
+      "name": "Cinta Marga"
+    },
+    {
+      "code": 1602232007,
+      "name": "Penyandingan"
+    },
+    {
+      "code": 1602232008,
+      "name": "Talang Pengeran"
+    },
+    {
+      "code": 1602232009,
+      "name": "Ulak Ketapang"
+    },
+    {
+      "code": 1602232010,
+      "name": "Mulyaguna"
+    },
+    {
+      "code": 1602232011,
+      "name": "Panca Tunggal Benawa"
+    },
+    {
+      "code": 1602232012,
+      "name": "Bumi Harapan"
+    },
+    {
+      "code": 1602232013,
+      "name": "Sinar Harapan Mulya"
+    },
+    {
+      "code": 1602232014,
+      "name": "Seriguna"
+    }
+  ]
+}

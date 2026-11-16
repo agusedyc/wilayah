@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Showing 24 villages",
+  "data": [
+    {
+      "code": 7405022001,
+      "name": "Pewutaa"
+    },
+    {
+      "code": 7405022002,
+      "name": "Aopa"
+    },
+    {
+      "code": 7405022003,
+      "name": "Motaha"
+    },
+    {
+      "code": 7405022004,
+      "name": "Lamoen"
+    },
+    {
+      "code": 7405022005,
+      "name": "Puusanggula"
+    },
+    {
+      "code": 7405022006,
+      "name": "Puao"
+    },
+    {
+      "code": 7405022007,
+      "name": "Sandey"
+    },
+    {
+      "code": 7405022008,
+      "name": "Teteasa"
+    },
+    {
+      "code": 7405022009,
+      "name": "Simbangu"
+    },
+    {
+      "code": 7405022010,
+      "name": "Lamooso"
+    },
+    {
+      "code": 7405022011,
+      "name": "Landabaro"
+    },
+    {
+      "code": 7405022012,
+      "name": "Puunggoni"
+    },
+    {
+      "code": 7405022013,
+      "name": "Sandarsi Jaya"
+    },
+    {
+      "code": 7405022014,
+      "name": "Puuroe"
+    },
+    {
+      "code": 7405022015,
+      "name": "Lamoeri"
+    },
+    {
+      "code": 7405022016,
+      "name": "Kasebo"
+    },
+    {
+      "code": 7405022017,
+      "name": "Mataiwoi"
+    },
+    {
+      "code": 7405022018,
+      "name": "Angata"
+    },
+    {
+      "code": 7405022019,
+      "name": "Pudambu"
+    },
+    {
+      "code": 7405022020,
+      "name": "Matabondu"
+    },
+    {
+      "code": 7405022040,
+      "name": "Mokoau"
+    },
+    {
+      "code": 7405022041,
+      "name": "Boloso"
+    },
+    {
+      "code": 7405022042,
+      "name": "Puulipu"
+    },
+    {
+      "code": 7405022043,
+      "name": "Langgea Indah"
+    }
+  ]
+}

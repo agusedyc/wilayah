@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5311081001,
+      "name": "Lumbukore"
+    },
+    {
+      "code": 5311082002,
+      "name": "Umalulu"
+    },
+    {
+      "code": 5311082003,
+      "name": "Patawang"
+    },
+    {
+      "code": 5311082004,
+      "name": "Wanga"
+    },
+    {
+      "code": 5311082005,
+      "name": "Matawai Atu"
+    },
+    {
+      "code": 5311082006,
+      "name": "Mutunggeding"
+    },
+    {
+      "code": 5311082007,
+      "name": "Lairuru"
+    },
+    {
+      "code": 5311082008,
+      "name": "Watuhadang"
+    },
+    {
+      "code": 5311082009,
+      "name": "Watupuda"
+    },
+    {
+      "code": 5311082010,
+      "name": "Ngaru Kanoru"
+    }
+  ]
+}

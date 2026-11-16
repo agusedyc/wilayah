@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3212062008,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3212062015,
+      "name": "Bangodua"
+    },
+    {
+      "code": 3212062016,
+      "name": "Beduyut"
+    },
+    {
+      "code": 3212062017,
+      "name": "Rancasari"
+    },
+    {
+      "code": 3212062018,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3212062019,
+      "name": "Karanggetas"
+    },
+    {
+      "code": 3212062020,
+      "name": "Tegalgirang"
+    },
+    {
+      "code": 3212062021,
+      "name": "Malangsari"
+    }
+  ]
+}

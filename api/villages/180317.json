@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1803172001,
+      "name": "Negera Kemakmuran"
+    },
+    {
+      "code": 1803172002,
+      "name": "Bonglai Tengah"
+    },
+    {
+      "code": 1803172003,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 1803172004,
+      "name": "Lubuk Rukam"
+    },
+    {
+      "code": 1803172005,
+      "name": "Ibul Jaya"
+    },
+    {
+      "code": 1803172006,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 1803172007,
+      "name": "Gedung Makrifat"
+    },
+    {
+      "code": 1803172008,
+      "name": "Gedung Raja"
+    },
+    {
+      "code": 1803172009,
+      "name": "Gedung Negara"
+    },
+    {
+      "code": 1803172010,
+      "name": "Tulung Buyut"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1604312001,
+      "name": "Banjar Negara"
+    },
+    {
+      "code": 1604312002,
+      "name": "Tanjung Payang"
+    },
+    {
+      "code": 1604312003,
+      "name": "Tanjung Tebat"
+    },
+    {
+      "code": 1604312004,
+      "name": "Nantal"
+    },
+    {
+      "code": 1604312005,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 1604312006,
+      "name": "Karang Baru"
+    },
+    {
+      "code": 1604312007,
+      "name": "Kerung"
+    },
+    {
+      "code": 1604312008,
+      "name": "Muara Cawang"
+    },
+    {
+      "code": 1604312009,
+      "name": "Talang Sawah"
+    },
+    {
+      "code": 1604312010,
+      "name": "Talang Sejemput"
+    }
+  ]
+}

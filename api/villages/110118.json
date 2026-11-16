@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1101182001,
+      "name": "Ladang Rimba"
+    },
+    {
+      "code": 1101182002,
+      "name": "Gunong Kapho"
+    },
+    {
+      "code": 1101182003,
+      "name": "Kampong Teungoh"
+    },
+    {
+      "code": 1101182004,
+      "name": "Krueng Batee"
+    },
+    {
+      "code": 1101182005,
+      "name": "Pulo Paya"
+    },
+    {
+      "code": 1101182006,
+      "name": "Jambo Papeun"
+    },
+    {
+      "code": 1101182007,
+      "name": "Cot Bayu"
+    },
+    {
+      "code": 1101182008,
+      "name": "Naca"
+    },
+    {
+      "code": 1101182009,
+      "name": "Ie Jeureuneh"
+    },
+    {
+      "code": 1101182010,
+      "name": "Lhok Raya"
+    }
+  ]
+}

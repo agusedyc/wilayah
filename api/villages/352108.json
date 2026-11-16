@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3521082001,
+      "name": "Banjaransari"
+    },
+    {
+      "code": 3521082002,
+      "name": "Bendo"
+    },
+    {
+      "code": 3521082003,
+      "name": "Tambakromo"
+    },
+    {
+      "code": 3521082004,
+      "name": "Tungkulrejo"
+    },
+    {
+      "code": 3521082005,
+      "name": "Bintoyo"
+    },
+    {
+      "code": 3521082006,
+      "name": "Sukowiyono"
+    },
+    {
+      "code": 3521082007,
+      "name": "Munggut"
+    },
+    {
+      "code": 3521082011,
+      "name": "Pacing"
+    },
+    {
+      "code": 3521082012,
+      "name": "Padas"
+    },
+    {
+      "code": 3521082013,
+      "name": "Kedungprahu"
+    },
+    {
+      "code": 3521082014,
+      "name": "Sambiroto"
+    },
+    {
+      "code": 3521082015,
+      "name": "Kwadungan Lor"
+    }
+  ]
+}

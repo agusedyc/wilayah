@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7172011001,
+      "name": "Pasir Panjang"
+    },
+    {
+      "code": 7172011002,
+      "name": "Paudean"
+    },
+    {
+      "code": 7172011003,
+      "name": "Batulubang"
+    },
+    {
+      "code": 7172011004,
+      "name": "Papusungan"
+    },
+    {
+      "code": 7172011006,
+      "name": "Pancuran"
+    },
+    {
+      "code": 7172011011,
+      "name": "Dorbolaang"
+    },
+    {
+      "code": 7172011016,
+      "name": "Kelapa Dua"
+    }
+  ]
+}

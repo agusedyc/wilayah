@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5206182001,
+      "name": "Panda"
+    },
+    {
+      "code": 5206182002,
+      "name": "Belo"
+    },
+    {
+      "code": 5206182003,
+      "name": "Tonggondoa"
+    },
+    {
+      "code": 5206182004,
+      "name": "Tonggorisa"
+    },
+    {
+      "code": 5206182005,
+      "name": "Teke"
+    },
+    {
+      "code": 5206182006,
+      "name": "Ntonggu"
+    },
+    {
+      "code": 5206182007,
+      "name": "Nata"
+    },
+    {
+      "code": 5206182008,
+      "name": "Dore"
+    },
+    {
+      "code": 5206182009,
+      "name": "Roi"
+    },
+    {
+      "code": 5206182011,
+      "name": "Ragi"
+    },
+    {
+      "code": 5206182012,
+      "name": "Padolo"
+    },
+    {
+      "code": 5206182013,
+      "name": "Bre"
+    }
+  ]
+}

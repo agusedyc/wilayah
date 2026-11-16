@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3276091001,
+      "name": "Cinere"
+    },
+    {
+      "code": 3276091002,
+      "name": "Gandul"
+    },
+    {
+      "code": 3276091003,
+      "name": "Pangkalan Jati"
+    },
+    {
+      "code": 3276091004,
+      "name": "Pangkalan Jati Baru"
+    }
+  ]
+}

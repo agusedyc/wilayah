@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7315091001,
+      "name": "Pammase"
+    },
+    {
+      "code": 7315091002,
+      "name": "Marawi"
+    },
+    {
+      "code": 7315091003,
+      "name": "Fakkie"
+    },
+    {
+      "code": 7315091004,
+      "name": "Tiroang"
+    },
+    {
+      "code": 7315091005,
+      "name": "Mattiro Deceng"
+    },
+    {
+      "code": 7315091006,
+      "name": "Samaturue"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6104252001,
+      "name": "Beringin Jaya"
+    },
+    {
+      "code": 6104252002,
+      "name": "Sungai Melayu Baru"
+    },
+    {
+      "code": 6104252003,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 6104252004,
+      "name": "Karya Mukti"
+    },
+    {
+      "code": 6104252005,
+      "name": "Piansak"
+    },
+    {
+      "code": 6104252006,
+      "name": "Jairan Jaya"
+    },
+    {
+      "code": 6104252007,
+      "name": "Kepuluk"
+    },
+    {
+      "code": 6104252008,
+      "name": "Sungai Melayu Jaya"
+    },
+    {
+      "code": 6104252009,
+      "name": "Sungai Melayu"
+    },
+    {
+      "code": 6104252010,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 6104252011,
+      "name": "Makmur Abadi"
+    }
+  ]
+}

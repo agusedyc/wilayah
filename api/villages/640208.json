@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6402082004,
+      "name": "Loleng"
+    },
+    {
+      "code": 6402082005,
+      "name": "Kota Bangun Ulu"
+    },
+    {
+      "code": 6402082006,
+      "name": "Kota Bangun Ilir"
+    },
+    {
+      "code": 6402082007,
+      "name": "Liang"
+    },
+    {
+      "code": 6402082008,
+      "name": "Muhuran"
+    },
+    {
+      "code": 6402082009,
+      "name": "Pela"
+    },
+    {
+      "code": 6402082017,
+      "name": "Kedang Murung"
+    },
+    {
+      "code": 6402082018,
+      "name": "Kota Bangun Seberang"
+    },
+    {
+      "code": 6402082019,
+      "name": "Liang Ulu"
+    },
+    {
+      "code": 6402082020,
+      "name": "Sebelimbingan"
+    },
+    {
+      "code": 6402082021,
+      "name": "Sangkuliman"
+    }
+  ]
+}

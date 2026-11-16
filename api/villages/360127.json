@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3601272001,
+      "name": "Sindangkerta"
+    },
+    {
+      "code": 3601272002,
+      "name": "Manglid"
+    },
+    {
+      "code": 3601272003,
+      "name": "Cikiruh"
+    },
+    {
+      "code": 3601272004,
+      "name": "Cikadu"
+    },
+    {
+      "code": 3601272005,
+      "name": "Kiarapayung"
+    },
+    {
+      "code": 3601272006,
+      "name": "Kutakarang"
+    },
+    {
+      "code": 3601272007,
+      "name": "Citeluk"
+    },
+    {
+      "code": 3601272008,
+      "name": "Kiarajangkung"
+    },
+    {
+      "code": 3601272009,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3601272010,
+      "name": "Malangnengah"
+    }
+  ]
+}

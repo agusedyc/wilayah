@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6407102015,
+      "name": "Jerang Dayak"
+    },
+    {
+      "code": 6407102016,
+      "name": "Mendung"
+    },
+    {
+      "code": 6407102017,
+      "name": "Jerang Melayu"
+    },
+    {
+      "code": 6407102018,
+      "name": "Dasaq"
+    },
+    {
+      "code": 6407102020,
+      "name": "Tepian Ulaq"
+    },
+    {
+      "code": 6407102021,
+      "name": "Sebelang"
+    },
+    {
+      "code": 6407102022,
+      "name": "Muara Baroh"
+    },
+    {
+      "code": 6407102023,
+      "name": "Teluk Tempudau"
+    },
+    {
+      "code": 6407102024,
+      "name": "Tanjung Laong"
+    },
+    {
+      "code": 6407102025,
+      "name": "Tanjung Pagar"
+    },
+    {
+      "code": 6407102029,
+      "name": "Gunung Bayan"
+    },
+    {
+      "code": 6407102030,
+      "name": "Muara Beloan"
+    }
+  ]
+}

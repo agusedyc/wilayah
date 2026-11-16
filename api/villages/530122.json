@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5301222001,
+      "name": "Soliu"
+    },
+    {
+      "code": 5301222002,
+      "name": "Saukibe"
+    },
+    {
+      "code": 5301222003,
+      "name": "Oelfatu"
+    },
+    {
+      "code": 5301222004,
+      "name": "Timau"
+    },
+    {
+      "code": 5301222005,
+      "name": "Honuk"
+    },
+    {
+      "code": 5301222006,
+      "name": "Faumes"
+    }
+  ]
+}

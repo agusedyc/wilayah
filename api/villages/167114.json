@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1671141001,
+      "name": "Plaju Ulu"
+    },
+    {
+      "code": 1671141002,
+      "name": "Plaju Darat"
+    },
+    {
+      "code": 1671141003,
+      "name": "Plaju Ilir"
+    },
+    {
+      "code": 1671141004,
+      "name": "Baguskuning"
+    },
+    {
+      "code": 1671141005,
+      "name": "Komperta"
+    },
+    {
+      "code": 1671141006,
+      "name": "Talangputri"
+    },
+    {
+      "code": 1671141007,
+      "name": "Talangbubuk"
+    }
+  ]
+}

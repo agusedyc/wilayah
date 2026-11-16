@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9103172001,
+      "name": "Yongsu Sapari"
+    },
+    {
+      "code": 9103172002,
+      "name": "Yongsu Dosoyo"
+    },
+    {
+      "code": 9103172003,
+      "name": "Newa"
+    },
+    {
+      "code": 9103173004,
+      "name": "Desa Adat Nechive"
+    }
+  ]
+}

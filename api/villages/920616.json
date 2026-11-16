@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9206162001,
+      "name": "Aroba"
+    },
+    {
+      "code": 9206162002,
+      "name": "Yaru"
+    },
+    {
+      "code": 9206162003,
+      "name": "Sido Makmur"
+    },
+    {
+      "code": 9206162004,
+      "name": "Wimbro"
+    },
+    {
+      "code": 9206162005,
+      "name": "Sangguar"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1673011001,
+      "name": "Air Kuti"
+    },
+    {
+      "code": 1673011002,
+      "name": "Majapahit"
+    },
+    {
+      "code": 1673011003,
+      "name": "Taba Jemekeh"
+    },
+    {
+      "code": 1673011004,
+      "name": "Nikan Jaya"
+    },
+    {
+      "code": 1673011005,
+      "name": "Taba Lestari"
+    },
+    {
+      "code": 1673011007,
+      "name": "Batu Urip Taba"
+    },
+    {
+      "code": 1673011015,
+      "name": "Taba Koji"
+    },
+    {
+      "code": 1673011016,
+      "name": "Watervang"
+    }
+  ]
+}

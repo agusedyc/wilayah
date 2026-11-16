@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 6104112001,
+      "name": "Nanga Tayap"
+    },
+    {
+      "code": 6104112002,
+      "name": "Pangkalan Telok"
+    },
+    {
+      "code": 6104112003,
+      "name": "Pangkalan Suka"
+    },
+    {
+      "code": 6104112004,
+      "name": "Betenung"
+    },
+    {
+      "code": 6104112005,
+      "name": "Batu Mas"
+    },
+    {
+      "code": 6104112006,
+      "name": "Sungai Kelik"
+    },
+    {
+      "code": 6104112007,
+      "name": "Lembah Hijau Satu"
+    },
+    {
+      "code": 6104112008,
+      "name": "Lembah Hijau Dua"
+    },
+    {
+      "code": 6104112009,
+      "name": "Siantau Raya"
+    },
+    {
+      "code": 6104112010,
+      "name": "Sebadak Raya"
+    },
+    {
+      "code": 6104112011,
+      "name": "Simpang Tiga Sembelangaan"
+    },
+    {
+      "code": 6104112012,
+      "name": "Mensubang"
+    },
+    {
+      "code": 6104112013,
+      "name": "Tajok Kayong"
+    },
+    {
+      "code": 6104112014,
+      "name": "Kayong Utara"
+    },
+    {
+      "code": 6104112015,
+      "name": "Kayong Hulu"
+    },
+    {
+      "code": 6104112016,
+      "name": "Sepakat Jaya"
+    },
+    {
+      "code": 6104112017,
+      "name": "Cegolak"
+    },
+    {
+      "code": 6104112018,
+      "name": "Pateh Benteng"
+    },
+    {
+      "code": 6104112019,
+      "name": "Tanjung Medan"
+    },
+    {
+      "code": 6104112020,
+      "name": "Kayung Tuhe"
+    }
+  ]
+}

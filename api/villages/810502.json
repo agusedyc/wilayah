@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8105022001,
+      "name": "Geser"
+    },
+    {
+      "code": 8105022002,
+      "name": "Kiltay"
+    },
+    {
+      "code": 8105022003,
+      "name": "Kilwaru"
+    },
+    {
+      "code": 8105022004,
+      "name": "Kellu"
+    },
+    {
+      "code": 8105022005,
+      "name": "Keffing"
+    },
+    {
+      "code": 8105022028,
+      "name": "Kilfura"
+    }
+  ]
+}

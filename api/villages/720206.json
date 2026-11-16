@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7202062003,
+      "name": "Bancea"
+    },
+    {
+      "code": 7202062004,
+      "name": "Boe"
+    },
+    {
+      "code": 7202062005,
+      "name": "Pendolo"
+    },
+    {
+      "code": 7202062006,
+      "name": "Pandayora"
+    },
+    {
+      "code": 7202062007,
+      "name": "Mayoa"
+    },
+    {
+      "code": 7202062008,
+      "name": "Uelene"
+    },
+    {
+      "code": 7202062018,
+      "name": "Mayasari"
+    },
+    {
+      "code": 7202062019,
+      "name": "Pandajaya"
+    },
+    {
+      "code": 7202062020,
+      "name": "Mayajaya"
+    },
+    {
+      "code": 7202062021,
+      "name": "Bangunjaya"
+    },
+    {
+      "code": 7202062022,
+      "name": "Panjo"
+    },
+    {
+      "code": 7202062023,
+      "name": "Pasir Putih"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3272051001,
+      "name": "Baros"
+    },
+    {
+      "code": 3272051002,
+      "name": "Jayaraksa"
+    },
+    {
+      "code": 3272051003,
+      "name": "Jayamekar"
+    },
+    {
+      "code": 3272051004,
+      "name": "Sudajaya Hilir"
+    }
+  ]
+}

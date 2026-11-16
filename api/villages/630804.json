@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "message": "Showing 30 villages",
+  "data": [
+    {
+      "code": 6308042001,
+      "name": "Panyiuran"
+    },
+    {
+      "code": 6308042002,
+      "name": "Simpang Empat"
+    },
+    {
+      "code": 6308042003,
+      "name": "Padang Darat"
+    },
+    {
+      "code": 6308042004,
+      "name": "Teluk Baru"
+    },
+    {
+      "code": 6308042005,
+      "name": "Ilir Mesjid"
+    },
+    {
+      "code": 6308042006,
+      "name": "Jarang Kuantan"
+    },
+    {
+      "code": 6308042007,
+      "name": "Jumba"
+    },
+    {
+      "code": 6308042008,
+      "name": "Telaga Sari"
+    },
+    {
+      "code": 6308042009,
+      "name": "Telaga Silaba"
+    },
+    {
+      "code": 6308042010,
+      "name": "Banyu Hirang"
+    },
+    {
+      "code": 6308042011,
+      "name": "Kayakah"
+    },
+    {
+      "code": 6308042012,
+      "name": "Bajawit"
+    },
+    {
+      "code": 6308042013,
+      "name": "Padang Tanggul"
+    },
+    {
+      "code": 6308042014,
+      "name": "Teluk Paring"
+    },
+    {
+      "code": 6308042015,
+      "name": "Rukam Hilir"
+    },
+    {
+      "code": 6308042016,
+      "name": "Mamar"
+    },
+    {
+      "code": 6308042017,
+      "name": "Cempaka"
+    },
+    {
+      "code": 6308042018,
+      "name": "Keramat"
+    },
+    {
+      "code": 6308042019,
+      "name": "Ujung Murung"
+    },
+    {
+      "code": 6308042020,
+      "name": "Kota Raja"
+    },
+    {
+      "code": 6308042021,
+      "name": "Pulau Tambak"
+    },
+    {
+      "code": 6308042022,
+      "name": "Harusan Telaga"
+    },
+    {
+      "code": 6308042023,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 6308042024,
+      "name": "Cangkering"
+    },
+    {
+      "code": 6308042025,
+      "name": "Kutai Kecil"
+    },
+    {
+      "code": 6308042026,
+      "name": "Teluk Sari"
+    },
+    {
+      "code": 6308042027,
+      "name": "Murung Panggang"
+    },
+    {
+      "code": 6308042028,
+      "name": "Telaga Hanyar"
+    },
+    {
+      "code": 6308042029,
+      "name": "Rukam Hulu"
+    },
+    {
+      "code": 6308042030,
+      "name": "Murung Sari"
+    }
+  ]
+}

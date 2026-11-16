@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7403271005,
+      "name": "Danagoa"
+    },
+    {
+      "code": 7403271007,
+      "name": "Kontumolepe"
+    },
+    {
+      "code": 7403271008,
+      "name": "Tombula"
+    },
+    {
+      "code": 7403272003,
+      "name": "Lahontohe"
+    },
+    {
+      "code": 7403272004,
+      "name": "Lamorende"
+    },
+    {
+      "code": 7403272006,
+      "name": "Lakologou"
+    },
+    {
+      "code": 7403272009,
+      "name": "Matano Oe"
+    },
+    {
+      "code": 7403272014,
+      "name": "Lapadindi"
+    },
+    {
+      "code": 7403272015,
+      "name": "Oempu"
+    },
+    {
+      "code": 7403272016,
+      "name": "Fongkaniwa"
+    },
+    {
+      "code": 7403272017,
+      "name": "Tanjung"
+    },
+    {
+      "code": 7403272019,
+      "name": "Kotano Wuna"
+    }
+  ]
+}

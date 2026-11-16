@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2102041001,
+      "name": "Meral Kota"
+    },
+    {
+      "code": 2102041002,
+      "name": "Baran Barat"
+    },
+    {
+      "code": 2102041003,
+      "name": "Sungai Raya"
+    },
+    {
+      "code": 2102041006,
+      "name": "Baran Timur"
+    },
+    {
+      "code": 2102041007,
+      "name": "Sungai Pasir"
+    },
+    {
+      "code": 2102041008,
+      "name": "Parit Benut"
+    }
+  ]
+}

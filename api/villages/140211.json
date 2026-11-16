@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1402112001,
+      "name": "Morong"
+    },
+    {
+      "code": 1402112002,
+      "name": "Pasir Bongkal"
+    },
+    {
+      "code": 1402112003,
+      "name": "Pasir Selabau"
+    },
+    {
+      "code": 1402112004,
+      "name": "Pasir Batu Mandi"
+    },
+    {
+      "code": 1402112005,
+      "name": "Pasir Kelampaian"
+    },
+    {
+      "code": 1402112006,
+      "name": "Kuala Lala"
+    },
+    {
+      "code": 1402112007,
+      "name": "Sungai Lala"
+    },
+    {
+      "code": 1402112008,
+      "name": "Kelawat"
+    },
+    {
+      "code": 1402112009,
+      "name": "Perkebunan Sungai Parit"
+    },
+    {
+      "code": 1402112010,
+      "name": "Perkebunan Sungai Lala"
+    },
+    {
+      "code": 1402112011,
+      "name": "Tanjung Danau"
+    },
+    {
+      "code": 1402112012,
+      "name": "Sungai Air Putih"
+    }
+  ]
+}

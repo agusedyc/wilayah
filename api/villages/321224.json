@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3212242001,
+      "name": "Bogor"
+    },
+    {
+      "code": 3212242002,
+      "name": "Sukra"
+    },
+    {
+      "code": 3212242003,
+      "name": "Ujunggebang"
+    },
+    {
+      "code": 3212242004,
+      "name": "Tegaltaman"
+    },
+    {
+      "code": 3212242005,
+      "name": "Sukra Wetan"
+    },
+    {
+      "code": 3212242006,
+      "name": "Sumuradem"
+    },
+    {
+      "code": 3212242007,
+      "name": "Sumuradem Timur"
+    },
+    {
+      "code": 3212242017,
+      "name": "Karanglayung"
+    }
+  ]
+}

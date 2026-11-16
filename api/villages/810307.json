@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 8103072001,
+      "name": "Abat"
+    },
+    {
+      "code": 8103072002,
+      "name": "Labobar"
+    },
+    {
+      "code": 8103072008,
+      "name": "Watmasa"
+    },
+    {
+      "code": 8103072009,
+      "name": "Awear Rumngeur"
+    },
+    {
+      "code": 8103072010,
+      "name": "Karatat"
+    },
+    {
+      "code": 8103072011,
+      "name": "Wunlah"
+    },
+    {
+      "code": 8103072012,
+      "name": "Kiloon"
+    },
+    {
+      "code": 8103072013,
+      "name": "Lingada"
+    },
+    {
+      "code": 8103072014,
+      "name": "Teineman"
+    },
+    {
+      "code": 8103072015,
+      "name": "Wabar"
+    },
+    {
+      "code": 8103072016,
+      "name": "Romnus"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6204031002,
+      "name": "Bangkuang"
+    },
+    {
+      "code": 6204032001,
+      "name": "Salat Baru"
+    },
+    {
+      "code": 6204032003,
+      "name": "Teluk Betung"
+    },
+    {
+      "code": 6204032004,
+      "name": "Babai"
+    },
+    {
+      "code": 6204032005,
+      "name": "Janggi"
+    },
+    {
+      "code": 6204032006,
+      "name": "Malitin"
+    },
+    {
+      "code": 6204032007,
+      "name": "Muara Arai"
+    },
+    {
+      "code": 6204032008,
+      "name": "Talio"
+    },
+    {
+      "code": 6204032009,
+      "name": "Tampijak"
+    },
+    {
+      "code": 6204032010,
+      "name": "Bintang Kurung"
+    },
+    {
+      "code": 6204032011,
+      "name": "Teluk Sampudau"
+    }
+  ]
+}

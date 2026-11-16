@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7314081001,
+      "name": "Empagae"
+    },
+    {
+      "code": 7314081002,
+      "name": "Sidenreng"
+    },
+    {
+      "code": 7314081003,
+      "name": "Kanyuara"
+    },
+    {
+      "code": 7314082004,
+      "name": "Mojong"
+    },
+    {
+      "code": 7314082005,
+      "name": "Damai"
+    },
+    {
+      "code": 7314082006,
+      "name": "Talumae"
+    },
+    {
+      "code": 7314082007,
+      "name": "Aka-akae"
+    },
+    {
+      "code": 7314082008,
+      "name": "Talawe"
+    }
+  ]
+}

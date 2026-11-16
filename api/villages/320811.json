@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3208112001,
+      "name": "Cihideunggirang"
+    },
+    {
+      "code": 3208112002,
+      "name": "Cihideunghilir"
+    },
+    {
+      "code": 3208112003,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3208112004,
+      "name": "Kertawinangun"
+    },
+    {
+      "code": 3208112005,
+      "name": "Datar"
+    },
+    {
+      "code": 3208112006,
+      "name": "Legok"
+    },
+    {
+      "code": 3208112007,
+      "name": "Cikeusik"
+    },
+    {
+      "code": 3208112008,
+      "name": "Cieurih"
+    },
+    {
+      "code": 3208112009,
+      "name": "Cibulan"
+    },
+    {
+      "code": 3208112010,
+      "name": "Nanggela"
+    },
+    {
+      "code": 3208112011,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3208112012,
+      "name": "Bunder"
+    }
+  ]
+}

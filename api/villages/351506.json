@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3515062001,
+      "name": "Kalisampurno"
+    },
+    {
+      "code": 3515062002,
+      "name": "Ketapang"
+    },
+    {
+      "code": 3515062004,
+      "name": "Kalitengah"
+    },
+    {
+      "code": 3515062005,
+      "name": "Gempolsari"
+    },
+    {
+      "code": 3515062006,
+      "name": "Sentul"
+    },
+    {
+      "code": 3515062007,
+      "name": "Penatarsewu"
+    },
+    {
+      "code": 3515062008,
+      "name": "Banjarasri"
+    },
+    {
+      "code": 3515062009,
+      "name": "Banjarpanji"
+    },
+    {
+      "code": 3515062010,
+      "name": "Kedungbanteng"
+    },
+    {
+      "code": 3515062011,
+      "name": "Kalidawir"
+    },
+    {
+      "code": 3515062012,
+      "name": "Putat"
+    },
+    {
+      "code": 3515062013,
+      "name": "Ngaban"
+    },
+    {
+      "code": 3515062014,
+      "name": "Kludan"
+    },
+    {
+      "code": 3515062015,
+      "name": "Boro"
+    },
+    {
+      "code": 3515062016,
+      "name": "Kedensari"
+    },
+    {
+      "code": 3515062017,
+      "name": "Ketegan"
+    },
+    {
+      "code": 3515062018,
+      "name": "Ganggangpanjang"
+    },
+    {
+      "code": 3515062019,
+      "name": "Randegan"
+    }
+  ]
+}

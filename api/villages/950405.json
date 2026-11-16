@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 9504052001,
+      "name": "Goyage"
+    },
+    {
+      "code": 9504052002,
+      "name": "Yemarima"
+    },
+    {
+      "code": 9504052003,
+      "name": "Tigikun"
+    },
+    {
+      "code": 9504052004,
+      "name": "Dugi"
+    },
+    {
+      "code": 9504052005,
+      "name": "Doge"
+    },
+    {
+      "code": 9504052006,
+      "name": "Benari"
+    },
+    {
+      "code": 9504052007,
+      "name": "Wijamurik"
+    },
+    {
+      "code": 9504052008,
+      "name": "Woji"
+    },
+    {
+      "code": 9504052009,
+      "name": "Mampulaga"
+    },
+    {
+      "code": 9504052010,
+      "name": "Tidur Mabuk"
+    },
+    {
+      "code": 9504052011,
+      "name": "Bini"
+    },
+    {
+      "code": 9504052012,
+      "name": "Didelonik"
+    },
+    {
+      "code": 9504052013,
+      "name": "Kumbu"
+    },
+    {
+      "code": 9504052014,
+      "name": "Peko"
+    },
+    {
+      "code": 9504052015,
+      "name": "Tiri"
+    },
+    {
+      "code": 9504052016,
+      "name": "Tigir"
+    },
+    {
+      "code": 9504052017,
+      "name": "Bopa"
+    },
+    {
+      "code": 9504052018,
+      "name": "Angkasa"
+    },
+    {
+      "code": 9504052019,
+      "name": "Gilok"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7501112001,
+      "name": "Dulamayo"
+    },
+    {
+      "code": 7501112008,
+      "name": "Upomela"
+    },
+    {
+      "code": 7501112009,
+      "name": "Tohupo"
+    },
+    {
+      "code": 7501112010,
+      "name": "Molanihu"
+    },
+    {
+      "code": 7501112011,
+      "name": "Molopatodu"
+    },
+    {
+      "code": 7501112012,
+      "name": "Molas"
+    },
+    {
+      "code": 7501112013,
+      "name": "Batulayar"
+    },
+    {
+      "code": 7501112014,
+      "name": "Batuloreng"
+    },
+    {
+      "code": 7501112015,
+      "name": "Bongohulawa"
+    },
+    {
+      "code": 7501112016,
+      "name": "Otopade"
+    },
+    {
+      "code": 7501112018,
+      "name": "Huntu Lo Hulawa"
+    },
+    {
+      "code": 7501112022,
+      "name": "Owalanga"
+    },
+    {
+      "code": 7501112023,
+      "name": "Liyodu"
+    },
+    {
+      "code": 7501112024,
+      "name": "Liyoto"
+    },
+    {
+      "code": 7501112025,
+      "name": "Kayumerah"
+    }
+  ]
+}

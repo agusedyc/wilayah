@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1807212001,
+      "name": "Labuhan Ratu"
+    },
+    {
+      "code": 1807212002,
+      "name": "Labuhan Ratu III"
+    },
+    {
+      "code": 1807212003,
+      "name": "Labuhan Ratu IV"
+    },
+    {
+      "code": 1807212004,
+      "name": "Labuhan Ratu V"
+    },
+    {
+      "code": 1807212005,
+      "name": "Labuhan Ratu VI"
+    },
+    {
+      "code": 1807212006,
+      "name": "Rajabasa Lama"
+    },
+    {
+      "code": 1807212007,
+      "name": "Rajabasa Lama I"
+    },
+    {
+      "code": 1807212008,
+      "name": "Rajabasa Lama II"
+    },
+    {
+      "code": 1807212009,
+      "name": "Labuhan Ratu VII"
+    },
+    {
+      "code": 1807212010,
+      "name": "Labuhan Ratu VIII"
+    },
+    {
+      "code": 1807212011,
+      "name": "Labuhan Ratu IX"
+    }
+  ]
+}

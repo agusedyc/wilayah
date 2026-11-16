@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3324162001,
+      "name": "Wonotenggang"
+    },
+    {
+      "code": 3324162002,
+      "name": "Pojoksari"
+    },
+    {
+      "code": 3324162003,
+      "name": "Randusari"
+    },
+    {
+      "code": 3324162004,
+      "name": "Karangsari"
+    },
+    {
+      "code": 3324162005,
+      "name": "Parakan"
+    },
+    {
+      "code": 3324162006,
+      "name": "Tambaksari"
+    },
+    {
+      "code": 3324162007,
+      "name": "Jatipurwo"
+    },
+    {
+      "code": 3324162008,
+      "name": "Rowosari"
+    },
+    {
+      "code": 3324162009,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3324162010,
+      "name": "Tanjunganom"
+    },
+    {
+      "code": 3324162011,
+      "name": "Sendangdawuhan"
+    },
+    {
+      "code": 3324162012,
+      "name": "Kebonsari"
+    },
+    {
+      "code": 3324162013,
+      "name": "Bulak"
+    },
+    {
+      "code": 3324162014,
+      "name": "Gebanganom"
+    },
+    {
+      "code": 3324162015,
+      "name": "Gempolsewu"
+    },
+    {
+      "code": 3324162016,
+      "name": "Sendangsikucing"
+    }
+  ]
+}

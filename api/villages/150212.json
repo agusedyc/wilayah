@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1502122001,
+      "name": "Lubuk Gaung"
+    },
+    {
+      "code": 1502122002,
+      "name": "Salam Buku"
+    },
+    {
+      "code": 1502122003,
+      "name": "Pulau Baru"
+    },
+    {
+      "code": 1502122004,
+      "name": "Nibung"
+    },
+    {
+      "code": 1502122005,
+      "name": "Titian Teras"
+    },
+    {
+      "code": 1502122006,
+      "name": "Kederasan Panjang"
+    },
+    {
+      "code": 1502122007,
+      "name": "Rantau Alai"
+    },
+    {
+      "code": 1502122008,
+      "name": "Tambang Besi"
+    },
+    {
+      "code": 1502122009,
+      "name": "Pelangki"
+    },
+    {
+      "code": 1502122010,
+      "name": "Pulau Layang"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5319091001,
+      "name": "Lempang Paji"
+    },
+    {
+      "code": 5319092002,
+      "name": "Sangan Kalo"
+    },
+    {
+      "code": 5319092003,
+      "name": "Sipi"
+    },
+    {
+      "code": 5319092004,
+      "name": "Gising"
+    },
+    {
+      "code": 5319092005,
+      "name": "Langga Sai"
+    },
+    {
+      "code": 5319092006,
+      "name": "Teno Mese"
+    },
+    {
+      "code": 5319092007,
+      "name": "Golo Wuas"
+    },
+    {
+      "code": 5319092008,
+      "name": "Nanga Meje"
+    },
+    {
+      "code": 5319092009,
+      "name": "Paan Waru"
+    },
+    {
+      "code": 5319092010,
+      "name": "Golo Linus"
+    },
+    {
+      "code": 5319092011,
+      "name": "Benteng Pau"
+    },
+    {
+      "code": 5319092012,
+      "name": "Wae Rasan"
+    },
+    {
+      "code": 5319092013,
+      "name": "Mosi Ngaran"
+    },
+    {
+      "code": 5319092014,
+      "name": "Nanga Puun"
+    }
+  ]
+}

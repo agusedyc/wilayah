@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9302112001,
+      "name": "Kuken"
+    },
+    {
+      "code": 9302112002,
+      "name": "Kolopkam"
+    },
+    {
+      "code": 9302112003,
+      "name": "Awaken"
+    },
+    {
+      "code": 9302112004,
+      "name": "Arimbit"
+    },
+    {
+      "code": 9302112005,
+      "name": "Anyumka"
+    }
+  ]
+}

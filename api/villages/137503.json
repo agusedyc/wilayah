@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1375031001,
+      "name": "Aur Kuning"
+    },
+    {
+      "code": 1375031002,
+      "name": "Birugo"
+    },
+    {
+      "code": 1375031003,
+      "name": "Belakang Balok"
+    },
+    {
+      "code": 1375031004,
+      "name": "Sapiran"
+    },
+    {
+      "code": 1375031005,
+      "name": "Kubu Tanjung"
+    },
+    {
+      "code": 1375031006,
+      "name": "Pakan Labuah"
+    },
+    {
+      "code": 1375031007,
+      "name": "Parit Antang"
+    },
+    {
+      "code": 1375031008,
+      "name": "Ladang Cakiah"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5312151001,
+      "name": "Wailiang"
+    },
+    {
+      "code": 5312151002,
+      "name": "Komerda"
+    },
+    {
+      "code": 5312151003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 5312151004,
+      "name": "Kampung Sawah"
+    },
+    {
+      "code": 5312151008,
+      "name": "Pada Eweta"
+    },
+    {
+      "code": 5312151009,
+      "name": "Maliti"
+    },
+    {
+      "code": 5312152005,
+      "name": "Kodaka"
+    },
+    {
+      "code": 5312152006,
+      "name": "Tebara"
+    },
+    {
+      "code": 5312152007,
+      "name": "Kalembu Kuni"
+    },
+    {
+      "code": 5312152010,
+      "name": "Soba Rade"
+    },
+    {
+      "code": 5312152011,
+      "name": "Lapale"
+    },
+    {
+      "code": 5312152012,
+      "name": "Modu Waimaringu"
+    },
+    {
+      "code": 5312152013,
+      "name": "Puu Mawo"
+    }
+  ]
+}

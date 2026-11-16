@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1409132001,
+      "name": "Pulaubaru"
+    },
+    {
+      "code": 1409132002,
+      "name": "Pulauberalo"
+    },
+    {
+      "code": 1409132003,
+      "name": "Pulaukulur"
+    },
+    {
+      "code": 1409132004,
+      "name": "Pelukahan"
+    },
+    {
+      "code": 1409132005,
+      "name": "Pengalihan"
+    },
+    {
+      "code": 1409132006,
+      "name": "Lumbok"
+    },
+    {
+      "code": 1409132007,
+      "name": "Teratak Jering"
+    },
+    {
+      "code": 1409132008,
+      "name": "Tanjungpisang"
+    },
+    {
+      "code": 1409132009,
+      "name": "Danau"
+    },
+    {
+      "code": 1409132010,
+      "name": "Kasang Limau Sundai"
+    },
+    {
+      "code": 1409132011,
+      "name": "Koto Rajo"
+    },
+    {
+      "code": 1409132012,
+      "name": "Tanjung"
+    },
+    {
+      "code": 1409132013,
+      "name": "Sungaisorik"
+    },
+    {
+      "code": 1409132014,
+      "name": "Rawang Oguang"
+    }
+  ]
+}

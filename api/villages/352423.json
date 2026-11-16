@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3524232001,
+      "name": "Wonokromo"
+    },
+    {
+      "code": 3524232002,
+      "name": "Soko"
+    },
+    {
+      "code": 3524232003,
+      "name": "Guminingrejo"
+    },
+    {
+      "code": 3524232004,
+      "name": "Bakalanpule"
+    },
+    {
+      "code": 3524232005,
+      "name": "Takeranklating"
+    },
+    {
+      "code": 3524232006,
+      "name": "Kelorarum"
+    },
+    {
+      "code": 3524232007,
+      "name": "Jotosanur"
+    },
+    {
+      "code": 3524232008,
+      "name": "Pengumbulanadi"
+    },
+    {
+      "code": 3524232009,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3524232010,
+      "name": "Dukuhagung"
+    },
+    {
+      "code": 3524232011,
+      "name": "Tambakrigadung"
+    },
+    {
+      "code": 3524232012,
+      "name": "Botoputih"
+    },
+    {
+      "code": 3524232013,
+      "name": "Balongwangi"
+    }
+  ]
+}

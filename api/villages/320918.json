@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 3209182001,
+      "name": "Cempaka"
+    },
+    {
+      "code": 3209182002,
+      "name": "Pamijahan"
+    },
+    {
+      "code": 3209182003,
+      "name": "Lurah"
+    },
+    {
+      "code": 3209182004,
+      "name": "Marikangen"
+    },
+    {
+      "code": 3209182005,
+      "name": "Bode Lor"
+    },
+    {
+      "code": 3209182006,
+      "name": "Bodesari"
+    },
+    {
+      "code": 3209182007,
+      "name": "Gombang"
+    },
+    {
+      "code": 3209182008,
+      "name": "Karangmulya"
+    },
+    {
+      "code": 3209182009,
+      "name": "Karangasem"
+    },
+    {
+      "code": 3209182010,
+      "name": "Plumbon"
+    },
+    {
+      "code": 3209182011,
+      "name": "Purbawinangun"
+    },
+    {
+      "code": 3209182012,
+      "name": "Kebarepan"
+    },
+    {
+      "code": 3209182013,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3209182014,
+      "name": "Kedungsana"
+    },
+    {
+      "code": 3209182015,
+      "name": "Danamulya"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9103052001,
+      "name": "Sama"
+    },
+    {
+      "code": 9103052002,
+      "name": "Manda Yawan"
+    },
+    {
+      "code": 9103052003,
+      "name": "Mamda"
+    },
+    {
+      "code": 9103052004,
+      "name": "Mamei"
+    },
+    {
+      "code": 9103052005,
+      "name": "Nambom"
+    },
+    {
+      "code": 9103052006,
+      "name": "Kwansu"
+    },
+    {
+      "code": 9103052007,
+      "name": "Soaib"
+    },
+    {
+      "code": 9103052008,
+      "name": "Sabeab Kecil"
+    },
+    {
+      "code": 9103052009,
+      "name": "Sekori"
+    },
+    {
+      "code": 9103052010,
+      "name": "Skoaim"
+    },
+    {
+      "code": 9103052011,
+      "name": "Benggwin Progo"
+    },
+    {
+      "code": 9103052012,
+      "name": "Aib"
+    }
+  ]
+}

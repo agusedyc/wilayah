@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3323081001,
+      "name": "Parakan Wetan"
+    },
+    {
+      "code": 3323081006,
+      "name": "Parakan Kauman"
+    },
+    {
+      "code": 3323082002,
+      "name": "Campursalam"
+    },
+    {
+      "code": 3323082003,
+      "name": "Wanutengah"
+    },
+    {
+      "code": 3323082004,
+      "name": "Nglondong"
+    },
+    {
+      "code": 3323082005,
+      "name": "Bagusan"
+    },
+    {
+      "code": 3323082007,
+      "name": "Dangkel"
+    },
+    {
+      "code": 3323082008,
+      "name": "Mandisari"
+    },
+    {
+      "code": 3323082009,
+      "name": "Tegalroso"
+    },
+    {
+      "code": 3323082010,
+      "name": "Traji"
+    },
+    {
+      "code": 3323082011,
+      "name": "Watukumpul"
+    },
+    {
+      "code": 3323082012,
+      "name": "Ringinanom"
+    },
+    {
+      "code": 3323082013,
+      "name": "Depokharjo"
+    },
+    {
+      "code": 3323082014,
+      "name": "Caturanom"
+    },
+    {
+      "code": 3323082015,
+      "name": "Glapansari"
+    },
+    {
+      "code": 3323082016,
+      "name": "Sunggingsari"
+    }
+  ]
+}

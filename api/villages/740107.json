@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7401071001,
+      "name": "Dawi-Dawi"
+    },
+    {
+      "code": 7401071002,
+      "name": "Pomalaa"
+    },
+    {
+      "code": 7401071009,
+      "name": "Tonggoni"
+    },
+    {
+      "code": 7401071011,
+      "name": "Kumoro"
+    },
+    {
+      "code": 7401072003,
+      "name": "Huko-Huko"
+    },
+    {
+      "code": 7401072004,
+      "name": "Pelambua"
+    },
+    {
+      "code": 7401072005,
+      "name": "Tambea"
+    },
+    {
+      "code": 7401072006,
+      "name": "Sopura"
+    },
+    {
+      "code": 7401072007,
+      "name": "Pesouha"
+    },
+    {
+      "code": 7401072008,
+      "name": "Totobo"
+    },
+    {
+      "code": 7401072010,
+      "name": "Oko-Oko"
+    },
+    {
+      "code": 7401072012,
+      "name": "Hakatutobu"
+    }
+  ]
+}

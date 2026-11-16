@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 7308191001,
+      "name": "Unyi"
+    },
+    {
+      "code": 7308192002,
+      "name": "Mario"
+    },
+    {
+      "code": 7308192003,
+      "name": "Laccori"
+    },
+    {
+      "code": 7308192004,
+      "name": "Pattiro"
+    },
+    {
+      "code": 7308192005,
+      "name": "Cabbeng"
+    },
+    {
+      "code": 7308192006,
+      "name": "Panyili"
+    },
+    {
+      "code": 7308192007,
+      "name": "Sanrangeng"
+    },
+    {
+      "code": 7308192008,
+      "name": "Sailong"
+    },
+    {
+      "code": 7308192009,
+      "name": "Melle"
+    },
+    {
+      "code": 7308192010,
+      "name": "Pakkasalo"
+    },
+    {
+      "code": 7308192011,
+      "name": "Tawaroe"
+    },
+    {
+      "code": 7308192012,
+      "name": "Uloe"
+    },
+    {
+      "code": 7308192013,
+      "name": "Ujung"
+    },
+    {
+      "code": 7308192014,
+      "name": "Padacenga"
+    },
+    {
+      "code": 7308192015,
+      "name": "Lallatang"
+    },
+    {
+      "code": 7308192016,
+      "name": "Kampoti"
+    },
+    {
+      "code": 7308192017,
+      "name": "Praja Maju"
+    },
+    {
+      "code": 7308192018,
+      "name": "Tocina"
+    },
+    {
+      "code": 7308192019,
+      "name": "Tempe"
+    },
+    {
+      "code": 7308192020,
+      "name": "Solo"
+    },
+    {
+      "code": 7308192021,
+      "name": "Watang Padacenga"
+    },
+    {
+      "code": 7308192022,
+      "name": "Matajang"
+    }
+  ]
+}

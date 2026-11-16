@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3213242001,
+      "name": "Anggasari"
+    },
+    {
+      "code": 3213242002,
+      "name": "Batangsari"
+    },
+    {
+      "code": 3213242003,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3213242004,
+      "name": "Mandalawangi"
+    },
+    {
+      "code": 3213242005,
+      "name": "Curugreja"
+    },
+    {
+      "code": 3213242006,
+      "name": "Sukareja"
+    },
+    {
+      "code": 3213242007,
+      "name": "Sukasari"
+    }
+  ]
+}

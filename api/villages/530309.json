@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5303092006,
+      "name": "Fatumtasa"
+    },
+    {
+      "code": 5303092007,
+      "name": "Oesoko"
+    },
+    {
+      "code": 5303092008,
+      "name": "Humusu Sainiup"
+    },
+    {
+      "code": 5303092009,
+      "name": "Humusu Oekolo"
+    },
+    {
+      "code": 5303092010,
+      "name": "Humusu Wini"
+    }
+  ]
+}

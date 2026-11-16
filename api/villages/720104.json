@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7201041009,
+      "name": "Luwuk"
+    },
+    {
+      "code": 7201041010,
+      "name": "Baru"
+    },
+    {
+      "code": 7201041011,
+      "name": "Soho"
+    },
+    {
+      "code": 7201041012,
+      "name": "Bungin"
+    },
+    {
+      "code": 7201041031,
+      "name": "Karaton"
+    },
+    {
+      "code": 7201041033,
+      "name": "Kaleke"
+    },
+    {
+      "code": 7201041034,
+      "name": "Bungin Timur"
+    },
+    {
+      "code": 7201041035,
+      "name": "Mangkio Baru"
+    },
+    {
+      "code": 7201042008,
+      "name": "Tontouan"
+    },
+    {
+      "code": 7201042013,
+      "name": "Lumpoknyo"
+    }
+  ]
+}

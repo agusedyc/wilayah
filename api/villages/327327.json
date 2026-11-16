@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3273271001,
+      "name": "Cimincrang"
+    },
+    {
+      "code": 3273271002,
+      "name": "Cisaranten Kidul"
+    },
+    {
+      "code": 3273271003,
+      "name": "Rancabolang"
+    },
+    {
+      "code": 3273271004,
+      "name": "Rancanumpang"
+    }
+  ]
+}

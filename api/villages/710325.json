@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 7103252001,
+      "name": "Marore"
+    },
+    {
+      "code": 7103252002,
+      "name": "Kawio"
+    },
+    {
+      "code": 7103252003,
+      "name": "Matutuang"
+    }
+  ]
+}

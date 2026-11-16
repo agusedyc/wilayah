@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 2105072001,
+      "name": "Air Asuk"
+    },
+    {
+      "code": 2105072002,
+      "name": "Air Sena"
+    },
+    {
+      "code": 2105072003,
+      "name": "Teluk Siantan"
+    },
+    {
+      "code": 2105072004,
+      "name": "Lidi"
+    },
+    {
+      "code": 2105072005,
+      "name": "Liuk"
+    },
+    {
+      "code": 2105072006,
+      "name": "Teluk Sunting"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7315111001,
+      "name": "Pacongang"
+    },
+    {
+      "code": 7315111002,
+      "name": "Macinnae"
+    },
+    {
+      "code": 7315111003,
+      "name": "Temmassarangnge"
+    },
+    {
+      "code": 7315111004,
+      "name": "Mamminasae"
+    },
+    {
+      "code": 7315111005,
+      "name": "Laleng Bata"
+    },
+    {
+      "code": 7315111006,
+      "name": "Benteng Sawitto"
+    }
+  ]
+}

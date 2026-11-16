@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1608162001,
+      "name": "Jayapura"
+    },
+    {
+      "code": 1608162002,
+      "name": "Bunga Mayang"
+    },
+    {
+      "code": 1608162003,
+      "name": "Way Salak"
+    },
+    {
+      "code": 1608162004,
+      "name": "Mendah"
+    },
+    {
+      "code": 1608162005,
+      "name": "Tumijaya"
+    },
+    {
+      "code": 1608162006,
+      "name": "Condong"
+    },
+    {
+      "code": 1608162007,
+      "name": "Peracak Jaya"
+    },
+    {
+      "code": 1608162008,
+      "name": "Kambang"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 1207021026,
+      "name": "Pekan Tanjung Morawa"
+    },
+    {
+      "code": 1207022001,
+      "name": "Medan Senembah"
+    },
+    {
+      "code": 1207022002,
+      "name": "Ujung Serdang"
+    },
+    {
+      "code": 1207022003,
+      "name": "Limau Manis"
+    },
+    {
+      "code": 1207022004,
+      "name": "Bandar Labuhan"
+    },
+    {
+      "code": 1207022005,
+      "name": "Bangun Rejo"
+    },
+    {
+      "code": 1207022006,
+      "name": "Aek Pancur"
+    },
+    {
+      "code": 1207022007,
+      "name": "Sei Merah"
+    },
+    {
+      "code": 1207022008,
+      "name": "Naga Timbul"
+    },
+    {
+      "code": 1207022009,
+      "name": "Lengau Seprang"
+    },
+    {
+      "code": 1207022010,
+      "name": "Tanjung Mulia"
+    },
+    {
+      "code": 1207022011,
+      "name": "Punden Rejo"
+    },
+    {
+      "code": 1207022012,
+      "name": "Tanjung Morawa-B"
+    },
+    {
+      "code": 1207022013,
+      "name": "Dagang Kerawan"
+    },
+    {
+      "code": 1207022014,
+      "name": "Tanjung Morawa-A"
+    },
+    {
+      "code": 1207022015,
+      "name": "Buntu Bedimbar"
+    },
+    {
+      "code": 1207022016,
+      "name": "Bangun Sari"
+    },
+    {
+      "code": 1207022017,
+      "name": "Dagang Kelambir"
+    },
+    {
+      "code": 1207022018,
+      "name": "Dalu Sepuluh-A"
+    },
+    {
+      "code": 1207022019,
+      "name": "Dalu Sepuluh-B"
+    },
+    {
+      "code": 1207022020,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1207022021,
+      "name": "Perdamean"
+    },
+    {
+      "code": 1207022022,
+      "name": "Penara Kebun"
+    },
+    {
+      "code": 1207022023,
+      "name": "Bangun Sari Baru"
+    },
+    {
+      "code": 1207022024,
+      "name": "Telaga Sari"
+    },
+    {
+      "code": 1207022025,
+      "name": "Tanjung Baru"
+    }
+  ]
+}

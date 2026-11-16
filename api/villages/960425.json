@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604252001,
+      "name": "Atai"
+    },
+    {
+      "code": 9604252002,
+      "name": "Akmuri"
+    },
+    {
+      "code": 9604252003,
+      "name": "Awori"
+    },
+    {
+      "code": 9604252004,
+      "name": "Itafiti"
+    },
+    {
+      "code": 9604252005,
+      "name": "Atunari"
+    },
+    {
+      "code": 9604252006,
+      "name": "Ajami Waripi"
+    },
+    {
+      "code": 9604252007,
+      "name": "Narai"
+    },
+    {
+      "code": 9604252008,
+      "name": "Aranari"
+    },
+    {
+      "code": 9604252009,
+      "name": "Waumi"
+    },
+    {
+      "code": 9604252010,
+      "name": "Aneti"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "message": "Showing 27 villages",
+  "data": [
+    {
+      "code": 1606112001,
+      "name": "Karang Agung"
+    },
+    {
+      "code": 1606112002,
+      "name": "Karang Rejo"
+    },
+    {
+      "code": 1606112003,
+      "name": "Karang Makmur"
+    },
+    {
+      "code": 1606112004,
+      "name": "Perumpung Raya"
+    },
+    {
+      "code": 1606112005,
+      "name": "Galih Sari"
+    },
+    {
+      "code": 1606112006,
+      "name": "Karang Tirta"
+    },
+    {
+      "code": 1606112007,
+      "name": "Purwo Agung"
+    },
+    {
+      "code": 1606112008,
+      "name": "Karya Mukti"
+    },
+    {
+      "code": 1606112009,
+      "name": "Sri Karang Rejo"
+    },
+    {
+      "code": 1606112010,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1606112011,
+      "name": "Agung Jaya"
+    },
+    {
+      "code": 1606112012,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1606112013,
+      "name": "Jaya Agung"
+    },
+    {
+      "code": 1606112014,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1606112015,
+      "name": "Mandala Sari"
+    },
+    {
+      "code": 1606112016,
+      "name": "Bandar Agung"
+    },
+    {
+      "code": 1606112017,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 1606112018,
+      "name": "Sri Gading"
+    },
+    {
+      "code": 1606112019,
+      "name": "Mulya Agung"
+    },
+    {
+      "code": 1606112020,
+      "name": "Karang Mukti"
+    },
+    {
+      "code": 1606112021,
+      "name": "Madya Mulya"
+    },
+    {
+      "code": 1606112022,
+      "name": "Mulya Jaya"
+    },
+    {
+      "code": 1606112023,
+      "name": "Sari Agung"
+    },
+    {
+      "code": 1606112024,
+      "name": "Suka Jadi"
+    },
+    {
+      "code": 1606112025,
+      "name": "Ringin Agung"
+    },
+    {
+      "code": 1606112026,
+      "name": "Tri Mulya Agung"
+    },
+    {
+      "code": 1606112027,
+      "name": "Mekar Jaya"
+    }
+  ]
+}

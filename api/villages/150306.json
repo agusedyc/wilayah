@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1503062001,
+      "name": "Mandiangin"
+    },
+    {
+      "code": 1503062002,
+      "name": "Rangkiling Simpang"
+    },
+    {
+      "code": 1503062003,
+      "name": "Pemusiran"
+    },
+    {
+      "code": 1503062004,
+      "name": "Gurun Tuo Simpang"
+    },
+    {
+      "code": 1503062005,
+      "name": "Gurun Mudo"
+    },
+    {
+      "code": 1503062006,
+      "name": "Gurun Tuo"
+    },
+    {
+      "code": 1503062007,
+      "name": "Rangkiling"
+    },
+    {
+      "code": 1503062008,
+      "name": "Mandiangin Tuo"
+    },
+    {
+      "code": 1503062009,
+      "name": "Kertopati"
+    },
+    {
+      "code": 1503062010,
+      "name": "Muaro Ketalo"
+    },
+    {
+      "code": 1503062011,
+      "name": "Taman Dewa"
+    },
+    {
+      "code": 1503062012,
+      "name": "Simpang Kertopati"
+    },
+    {
+      "code": 1503062013,
+      "name": "Bukit Peranginan"
+    },
+    {
+      "code": 1503062020,
+      "name": "Gurun Baru"
+    },
+    {
+      "code": 1503062021,
+      "name": "Kute Jaye"
+    },
+    {
+      "code": 1503062022,
+      "name": "Mandiangin Pasar"
+    },
+    {
+      "code": 1503062023,
+      "name": "Sungai Rotan"
+    },
+    {
+      "code": 1503062028,
+      "name": "Talang Serdang"
+    }
+  ]
+}

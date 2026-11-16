@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7403191004,
+      "name": "Dana"
+    },
+    {
+      "code": 7403191007,
+      "name": "Wali"
+    },
+    {
+      "code": 7403192001,
+      "name": "Lakapodo"
+    },
+    {
+      "code": 7403192002,
+      "name": "Wakadia"
+    },
+    {
+      "code": 7403192003,
+      "name": "Matarawa"
+    },
+    {
+      "code": 7403192005,
+      "name": "Bhangkali Barat"
+    },
+    {
+      "code": 7403192006,
+      "name": "Bangkali"
+    },
+    {
+      "code": 7403192008,
+      "name": "Labaha"
+    }
+  ]
+}

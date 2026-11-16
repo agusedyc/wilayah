@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 3471111001,
+      "name": "Purwokinanti"
+    },
+    {
+      "code": 3471111002,
+      "name": "Gunungketur"
+    }
+  ]
+}

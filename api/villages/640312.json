@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6403122001,
+      "name": "Tembudan"
+    },
+    {
+      "code": 6403122002,
+      "name": "Kayu Indah"
+    },
+    {
+      "code": 6403122003,
+      "name": "Batu Putih"
+    },
+    {
+      "code": 6403122004,
+      "name": "Lobang Kelatak"
+    },
+    {
+      "code": 6403122005,
+      "name": "Ampen Medang"
+    },
+    {
+      "code": 6403122006,
+      "name": "Balikukup"
+    },
+    {
+      "code": 6403122007,
+      "name": "Sumber Agung"
+    }
+  ]
+}

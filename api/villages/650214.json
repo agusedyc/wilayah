@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 6502142001,
+      "name": "Long Lake"
+    },
+    {
+      "code": 6502142002,
+      "name": "Punan Mirau"
+    },
+    {
+      "code": 6502142003,
+      "name": "Long Rat"
+    },
+    {
+      "code": 6502142004,
+      "name": "Halanga"
+    },
+    {
+      "code": 6502142005,
+      "name": "Metut"
+    },
+    {
+      "code": 6502142006,
+      "name": "Long Jalan"
+    },
+    {
+      "code": 6502142007,
+      "name": "Nahakramo"
+    },
+    {
+      "code": 6502142008,
+      "name": "Tanjung Nanga"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1813072001,
+      "name": "Pajar Bulan"
+    },
+    {
+      "code": 1813072002,
+      "name": "Bumi Waras"
+    },
+    {
+      "code": 1813072003,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1813072004,
+      "name": "Penggawa V Ilir"
+    },
+    {
+      "code": 1813072005,
+      "name": "Ulu Krui"
+    },
+    {
+      "code": 1813072006,
+      "name": "Gunung Kemala"
+    },
+    {
+      "code": 1813072007,
+      "name": "Labuhan Mandi"
+    },
+    {
+      "code": 1813072008,
+      "name": "Suka Baru"
+    },
+    {
+      "code": 1813072009,
+      "name": "Penggawa Lima"
+    },
+    {
+      "code": 1813072010,
+      "name": "Gunungkemala Timur"
+    }
+  ]
+}

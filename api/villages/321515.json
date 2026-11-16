@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3215152001,
+      "name": "Mekarmaya"
+    },
+    {
+      "code": 3215152002,
+      "name": "Cilamaya"
+    },
+    {
+      "code": 3215152003,
+      "name": "Muara"
+    },
+    {
+      "code": 3215152004,
+      "name": "Muarabaru"
+    },
+    {
+      "code": 3215152005,
+      "name": "Sukatani"
+    },
+    {
+      "code": 3215152006,
+      "name": "Tegalwaru"
+    },
+    {
+      "code": 3215152007,
+      "name": "Tegalsari"
+    },
+    {
+      "code": 3215152008,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3215152009,
+      "name": "Cikarang"
+    },
+    {
+      "code": 3215152010,
+      "name": "Rawagempol Wetan"
+    },
+    {
+      "code": 3215152011,
+      "name": "Rawagempol Kulon"
+    },
+    {
+      "code": 3215152012,
+      "name": "Sukakerta"
+    }
+  ]
+}

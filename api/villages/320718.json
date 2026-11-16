@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3207182005,
+      "name": "Kawasen"
+    },
+    {
+      "code": 3207182006,
+      "name": "Cicapar"
+    },
+    {
+      "code": 3207182007,
+      "name": "Cibadak"
+    },
+    {
+      "code": 3207182008,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3207182009,
+      "name": "Sindanghayu"
+    },
+    {
+      "code": 3207182010,
+      "name": "Sindangasih"
+    },
+    {
+      "code": 3207182012,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3207182013,
+      "name": "Ciherang"
+    },
+    {
+      "code": 3207182014,
+      "name": "Purwasari"
+    },
+    {
+      "code": 3207182015,
+      "name": "Ratawangi"
+    },
+    {
+      "code": 3207182016,
+      "name": "Ciulu"
+    },
+    {
+      "code": 3207182018,
+      "name": "Sukasari"
+    }
+  ]
+}

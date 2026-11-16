@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7108012001,
+      "name": "Sangkub I"
+    },
+    {
+      "code": 7108012002,
+      "name": "Busisingo"
+    },
+    {
+      "code": 7108012003,
+      "name": "Sang Tombolang"
+    },
+    {
+      "code": 7108012004,
+      "name": "Tombolango"
+    },
+    {
+      "code": 7108012005,
+      "name": "Pangkusa"
+    },
+    {
+      "code": 7108012006,
+      "name": "Sangkub II"
+    },
+    {
+      "code": 7108012007,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 7108012008,
+      "name": "Sampiro"
+    },
+    {
+      "code": 7108012009,
+      "name": "Sangkub III"
+    },
+    {
+      "code": 7108012010,
+      "name": "Busisingo Utara"
+    },
+    {
+      "code": 7108012011,
+      "name": "Ampeng Sembeka"
+    },
+    {
+      "code": 7108012012,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 7108012013,
+      "name": "Sangkub Timur"
+    },
+    {
+      "code": 7108012014,
+      "name": "Monompia"
+    },
+    {
+      "code": 7108012015,
+      "name": "Mokusato"
+    },
+    {
+      "code": 7108012016,
+      "name": "Sangkub Empat"
+    }
+  ]
+}

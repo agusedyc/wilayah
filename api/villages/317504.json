@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3175041001,
+      "name": "Kramatjati"
+    },
+    {
+      "code": 3175041002,
+      "name": "Tengah"
+    },
+    {
+      "code": 3175041003,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3175041004,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 3175041005,
+      "name": "Balekambang"
+    },
+    {
+      "code": 3175041006,
+      "name": "Cililitan"
+    },
+    {
+      "code": 3175041007,
+      "name": "Cawang"
+    }
+  ]
+}

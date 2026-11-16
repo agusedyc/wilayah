@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5320052001,
+      "name": "Lobohede"
+    },
+    {
+      "code": 5320052002,
+      "name": "Molie"
+    },
+    {
+      "code": 5320052003,
+      "name": "Daieko"
+    },
+    {
+      "code": 5320052004,
+      "name": "Pedarro"
+    },
+    {
+      "code": 5320052005,
+      "name": "Tanajawa"
+    },
+    {
+      "code": 5320052006,
+      "name": "Ledeae"
+    },
+    {
+      "code": 5320052007,
+      "name": "Wadumaddi"
+    },
+    {
+      "code": 5320052008,
+      "name": "Lederaga"
+    },
+    {
+      "code": 5320052009,
+      "name": "Gurimonearu"
+    },
+    {
+      "code": 5320052010,
+      "name": "Ramedue"
+    }
+  ]
+}

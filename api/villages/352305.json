@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3523052001,
+      "name": "Medalem"
+    },
+    {
+      "code": 3523052002,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3523052003,
+      "name": "Kaligede"
+    },
+    {
+      "code": 3523052004,
+      "name": "Banyuurip"
+    },
+    {
+      "code": 3523052005,
+      "name": "Leran"
+    },
+    {
+      "code": 3523052006,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3523052007,
+      "name": "Sendang"
+    },
+    {
+      "code": 3523052008,
+      "name": "Wanglukulon"
+    },
+    {
+      "code": 3523052009,
+      "name": "Wangluwetan"
+    },
+    {
+      "code": 3523052010,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3523052011,
+      "name": "Rayung"
+    },
+    {
+      "code": 3523052012,
+      "name": "Katerban"
+    }
+  ]
+}

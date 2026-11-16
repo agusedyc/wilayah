@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7410052001,
+      "name": "Kurolabu"
+    },
+    {
+      "code": 7410052002,
+      "name": "Torombia"
+    },
+    {
+      "code": 7410052003,
+      "name": "Lamoahi"
+    },
+    {
+      "code": 7410052004,
+      "name": "Lanosangia"
+    },
+    {
+      "code": 7410052005,
+      "name": "Pebaoa"
+    },
+    {
+      "code": 7410052006,
+      "name": "Petetea'a"
+    },
+    {
+      "code": 7410052007,
+      "name": "Lelamo"
+    },
+    {
+      "code": 7410052008,
+      "name": "Waode Buri"
+    },
+    {
+      "code": 7410052009,
+      "name": "Ulunambo"
+    },
+    {
+      "code": 7410052010,
+      "name": "Bira"
+    },
+    {
+      "code": 7410052011,
+      "name": "E'erinere"
+    },
+    {
+      "code": 7410052012,
+      "name": "Labelete"
+    },
+    {
+      "code": 7410052013,
+      "name": "Wamboule"
+    },
+    {
+      "code": 7410052014,
+      "name": "Wowonga Jaya"
+    }
+  ]
+}

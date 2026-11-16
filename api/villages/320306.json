@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3203062001,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3203062002,
+      "name": "Bojongpicung"
+    },
+    {
+      "code": 3203062004,
+      "name": "Cibarengkok"
+    },
+    {
+      "code": 3203062006,
+      "name": "Kemang"
+    },
+    {
+      "code": 3203062007,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3203062008,
+      "name": "Jati"
+    },
+    {
+      "code": 3203062009,
+      "name": "Cikondang"
+    },
+    {
+      "code": 3203062010,
+      "name": "Sukarama"
+    },
+    {
+      "code": 3203062012,
+      "name": "Sukaratu"
+    },
+    {
+      "code": 3203062013,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3203062014,
+      "name": "Jatisari"
+    }
+  ]
+}

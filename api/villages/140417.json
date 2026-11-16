@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1404172001,
+      "name": "Pulauburung"
+    },
+    {
+      "code": 1404172002,
+      "name": "Teluknibung"
+    },
+    {
+      "code": 1404172003,
+      "name": "Sungaidanai"
+    },
+    {
+      "code": 1404172004,
+      "name": "Mayang Sari Jaya"
+    },
+    {
+      "code": 1404172005,
+      "name": "Bukit Sari Intan Jaya"
+    },
+    {
+      "code": 1404172006,
+      "name": "Manunggal Jaya"
+    },
+    {
+      "code": 1404172007,
+      "name": "Bangun Harjo Jaya"
+    },
+    {
+      "code": 1404172008,
+      "name": "Ringin Jaya"
+    },
+    {
+      "code": 1404172009,
+      "name": "Sri Damai"
+    },
+    {
+      "code": 1404172010,
+      "name": "Sapta Jaya"
+    },
+    {
+      "code": 1404172011,
+      "name": "Keramat Jaya"
+    },
+    {
+      "code": 1404172012,
+      "name": "Binagun Jaya"
+    },
+    {
+      "code": 1404172013,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1404172014,
+      "name": "Sukaharjo Jaya"
+    }
+  ]
+}

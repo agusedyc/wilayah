@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9401132001,
+      "name": "Mambor"
+    },
+    {
+      "code": 9401132002,
+      "name": "Hariti"
+    },
+    {
+      "code": 9401132003,
+      "name": "Moor"
+    },
+    {
+      "code": 9401132004,
+      "name": "Kama"
+    },
+    {
+      "code": 9401132005,
+      "name": "Arui"
+    }
+  ]
+}

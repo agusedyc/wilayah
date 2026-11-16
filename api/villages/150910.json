@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1509102001,
+      "name": "Pinang Belai"
+    },
+    {
+      "code": 1509102002,
+      "name": "Sekutur Jaya"
+    },
+    {
+      "code": 1509102003,
+      "name": "Bukit Pemuatan"
+    },
+    {
+      "code": 1509102004,
+      "name": "Napal Putih"
+    },
+    {
+      "code": 1509102005,
+      "name": "Sako Makmur"
+    },
+    {
+      "code": 1509102006,
+      "name": "Pagar Puding Lamo"
+    },
+    {
+      "code": 1509102007,
+      "name": "Tanjung Aur Seberang"
+    },
+    {
+      "code": 1509102008,
+      "name": "Teluk Melintang"
+    }
+  ]
+}

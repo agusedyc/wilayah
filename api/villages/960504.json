@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9605042001,
+      "name": "Kisor"
+    },
+    {
+      "code": 9605042002,
+      "name": "Sorry"
+    },
+    {
+      "code": 9605042003,
+      "name": "Imsun"
+    },
+    {
+      "code": 9605042004,
+      "name": "Sabah"
+    },
+    {
+      "code": 9605042005,
+      "name": "Tahsimara"
+    },
+    {
+      "code": 9605042006,
+      "name": "Fuog"
+    },
+    {
+      "code": 9605042007,
+      "name": "Asiaf Saman"
+    },
+    {
+      "code": 9605042008,
+      "name": "Hora Iek"
+    },
+    {
+      "code": 9605042009,
+      "name": "Fuog Selatan"
+    },
+    {
+      "code": 9605042010,
+      "name": "Same Rakator"
+    },
+    {
+      "code": 9605042011,
+      "name": "Roma"
+    },
+    {
+      "code": 9605042012,
+      "name": "Krus"
+    },
+    {
+      "code": 9605042013,
+      "name": "Awet Main"
+    },
+    {
+      "code": 9605042014,
+      "name": "Yeek"
+    },
+    {
+      "code": 9605042015,
+      "name": "Kaitana"
+    },
+    {
+      "code": 9605042016,
+      "name": "Tolak"
+    }
+  ]
+}

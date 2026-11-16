@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6503142001,
+      "name": "Sanur"
+    },
+    {
+      "code": 6503142002,
+      "name": "Makmur"
+    },
+    {
+      "code": 6503142003,
+      "name": "Semunad"
+    },
+    {
+      "code": 6503142004,
+      "name": "Sekikilan"
+    },
+    {
+      "code": 6503142005,
+      "name": "Kalunsayan"
+    },
+    {
+      "code": 6503142006,
+      "name": "Tembalang"
+    },
+    {
+      "code": 6503142007,
+      "name": "Salang"
+    },
+    {
+      "code": 6503142008,
+      "name": "Tinampak I"
+    },
+    {
+      "code": 6503142009,
+      "name": "Tinampak II"
+    },
+    {
+      "code": 6503142010,
+      "name": "Naputi"
+    },
+    {
+      "code": 6503142011,
+      "name": "Tau Baru"
+    },
+    {
+      "code": 6503142012,
+      "name": "Balatikon"
+    }
+  ]
+}

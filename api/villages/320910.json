@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3209102004,
+      "name": "Munjul"
+    },
+    {
+      "code": 3209102005,
+      "name": "Sidamulya"
+    },
+    {
+      "code": 3209102006,
+      "name": "Mertapada Kulon"
+    },
+    {
+      "code": 3209102007,
+      "name": "Mertapada Wetan"
+    },
+    {
+      "code": 3209102008,
+      "name": "Buntet"
+    },
+    {
+      "code": 3209102009,
+      "name": "Kanci Kulon"
+    },
+    {
+      "code": 3209102010,
+      "name": "Kanci"
+    },
+    {
+      "code": 3209102011,
+      "name": "Astanajapura"
+    },
+    {
+      "code": 3209102012,
+      "name": "Kendal"
+    },
+    {
+      "code": 3209102013,
+      "name": "Japura Kidul"
+    },
+    {
+      "code": 3209102014,
+      "name": "Japurabakti"
+    }
+  ]
+}

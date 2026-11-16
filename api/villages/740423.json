@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7404231005,
+      "name": "Kamaru"
+    },
+    {
+      "code": 7404232001,
+      "name": "Kakenauwe"
+    },
+    {
+      "code": 7404232002,
+      "name": "Waoleona"
+    },
+    {
+      "code": 7404232003,
+      "name": "Lawele"
+    },
+    {
+      "code": 7404232004,
+      "name": "Suandala"
+    },
+    {
+      "code": 7404232006,
+      "name": "Lasembangi"
+    },
+    {
+      "code": 7404232007,
+      "name": "Bonelalo"
+    },
+    {
+      "code": 7404232008,
+      "name": "Wasuamba"
+    },
+    {
+      "code": 7404232009,
+      "name": "Wagari"
+    },
+    {
+      "code": 7404232010,
+      "name": "Sribatara"
+    },
+    {
+      "code": 7404232011,
+      "name": "Togomangura"
+    },
+    {
+      "code": 7404232012,
+      "name": "Wasambaa"
+    },
+    {
+      "code": 7404232013,
+      "name": "Benteng"
+    },
+    {
+      "code": 7404232014,
+      "name": "Talaga Baru"
+    },
+    {
+      "code": 7404232015,
+      "name": "Nambo"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7307081001,
+      "name": "Mannanti"
+    },
+    {
+      "code": 7307082002,
+      "name": "Saotengah"
+    },
+    {
+      "code": 7307082003,
+      "name": "Kalobba"
+    },
+    {
+      "code": 7307082004,
+      "name": "Tellu Limpoe"
+    },
+    {
+      "code": 7307082005,
+      "name": "Massaile"
+    },
+    {
+      "code": 7307082006,
+      "name": "Lembang Lohe"
+    },
+    {
+      "code": 7307082007,
+      "name": "Pattongko"
+    },
+    {
+      "code": 7307082008,
+      "name": "Bua"
+    },
+    {
+      "code": 7307082009,
+      "name": "Suka Maju"
+    },
+    {
+      "code": 7307082010,
+      "name": "Erabaru"
+    },
+    {
+      "code": 7307082011,
+      "name": "Samaturue"
+    }
+  ]
+}

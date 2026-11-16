@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3173031001,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 3173031002,
+      "name": "Krukut"
+    },
+    {
+      "code": 3173031003,
+      "name": "Maphar"
+    },
+    {
+      "code": 3173031004,
+      "name": "Tangki"
+    },
+    {
+      "code": 3173031005,
+      "name": "Mangga Besar"
+    },
+    {
+      "code": 3173031006,
+      "name": "Keagungan"
+    },
+    {
+      "code": 3173031007,
+      "name": "Glodok"
+    },
+    {
+      "code": 3173031008,
+      "name": "Pinangsia"
+    }
+  ]
+}

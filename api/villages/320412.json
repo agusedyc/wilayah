@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3204121001,
+      "name": "Pasawahan"
+    },
+    {
+      "code": 3204122002,
+      "name": "Dayeuhkolot"
+    },
+    {
+      "code": 3204122003,
+      "name": "Cangkuang Wetan"
+    },
+    {
+      "code": 3204122004,
+      "name": "Cangkuang Kulon"
+    },
+    {
+      "code": 3204122005,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3204122006,
+      "name": "Citeureup"
+    }
+  ]
+}

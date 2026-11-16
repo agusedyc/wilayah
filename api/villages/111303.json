@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1113032001,
+      "name": "Ampa Kolak"
+    },
+    {
+      "code": 1113032002,
+      "name": "Cane Toa"
+    },
+    {
+      "code": 1113032003,
+      "name": "Padang Pasir"
+    },
+    {
+      "code": 1113032005,
+      "name": "Pinang Rugub"
+    },
+    {
+      "code": 1113032006,
+      "name": "Kuning"
+    },
+    {
+      "code": 1113032008,
+      "name": "Mangang"
+    },
+    {
+      "code": 1113032011,
+      "name": "Rempelam"
+    },
+    {
+      "code": 1113032012,
+      "name": "Cane Uken"
+    },
+    {
+      "code": 1113032013,
+      "name": "Tungel"
+    },
+    {
+      "code": 1113032014,
+      "name": "Kota Rikit Gaib"
+    },
+    {
+      "code": 1113032016,
+      "name": "Lukup Baru"
+    },
+    {
+      "code": 1113032017,
+      "name": "Penomon Jaya"
+    },
+    {
+      "code": 1113032018,
+      "name": "Tungel Baru"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5302202001,
+      "name": "Kot'olin"
+    },
+    {
+      "code": 5302202002,
+      "name": "Nunbena"
+    },
+    {
+      "code": 5302202003,
+      "name": "Fatuat"
+    },
+    {
+      "code": 5302202004,
+      "name": "Hoibeti"
+    },
+    {
+      "code": 5302202005,
+      "name": "Nualunat"
+    },
+    {
+      "code": 5302202006,
+      "name": "Binenok"
+    },
+    {
+      "code": 5302202007,
+      "name": "Ponite"
+    },
+    {
+      "code": 5302202008,
+      "name": "O'obibi"
+    }
+  ]
+}

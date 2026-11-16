@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3215102001,
+      "name": "Payungsari"
+    },
+    {
+      "code": 3215102002,
+      "name": "Karangjaya"
+    },
+    {
+      "code": 3215102003,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3215102005,
+      "name": "Sungaibuntu"
+    },
+    {
+      "code": 3215102006,
+      "name": "Dongkal"
+    },
+    {
+      "code": 3215102007,
+      "name": "Kertamulya"
+    },
+    {
+      "code": 3215102008,
+      "name": "Puspasari"
+    },
+    {
+      "code": 3215102010,
+      "name": "Labanjaya"
+    },
+    {
+      "code": 3215102012,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3215102016,
+      "name": "Rangdumulya"
+    },
+    {
+      "code": 3215102017,
+      "name": "Kendaljaya"
+    },
+    {
+      "code": 3215102018,
+      "name": "Malangsari"
+    }
+  ]
+}

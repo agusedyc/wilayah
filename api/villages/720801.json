@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7208011017,
+      "name": "Masigi"
+    },
+    {
+      "code": 7208011018,
+      "name": "Maesa"
+    },
+    {
+      "code": 7208011019,
+      "name": "Loji"
+    },
+    {
+      "code": 7208011020,
+      "name": "Bantaya"
+    },
+    {
+      "code": 7208011021,
+      "name": "Kampal"
+    },
+    {
+      "code": 7208012011,
+      "name": "Olaya"
+    },
+    {
+      "code": 7208012012,
+      "name": "Pembalowo"
+    },
+    {
+      "code": 7208012013,
+      "name": "Mertasari"
+    },
+    {
+      "code": 7208012022,
+      "name": "Bambalemo"
+    },
+    {
+      "code": 7208012023,
+      "name": "Lebo"
+    },
+    {
+      "code": 7208012035,
+      "name": "Bambalemo Ranomaisi"
+    }
+  ]
+}

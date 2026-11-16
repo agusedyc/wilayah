@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3504182001,
+      "name": "Sambitan"
+    },
+    {
+      "code": 3504182002,
+      "name": "Bono"
+    },
+    {
+      "code": 3504182003,
+      "name": "Sukoanyar"
+    },
+    {
+      "code": 3504182004,
+      "name": "Duwet"
+    },
+    {
+      "code": 3504182005,
+      "name": "Tamban"
+    },
+    {
+      "code": 3504182006,
+      "name": "Ngebong"
+    },
+    {
+      "code": 3504182007,
+      "name": "Sodo"
+    },
+    {
+      "code": 3504182008,
+      "name": "Gombang"
+    },
+    {
+      "code": 3504182009,
+      "name": "Pakel"
+    },
+    {
+      "code": 3504182010,
+      "name": "Suwaluh"
+    },
+    {
+      "code": 3504182011,
+      "name": "Pecuk"
+    },
+    {
+      "code": 3504182012,
+      "name": "Bangunmulyo"
+    },
+    {
+      "code": 3504182013,
+      "name": "Kasreman"
+    },
+    {
+      "code": 3504182014,
+      "name": "Sanan"
+    },
+    {
+      "code": 3504182015,
+      "name": "Bangunjaya"
+    },
+    {
+      "code": 3504182016,
+      "name": "Ngrance"
+    },
+    {
+      "code": 3504182017,
+      "name": "Gebang"
+    },
+    {
+      "code": 3504182018,
+      "name": "Gesikan"
+    },
+    {
+      "code": 3504182019,
+      "name": "Gempolan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1408052001,
+      "name": "Muara Kelantan"
+    },
+    {
+      "code": 1408052002,
+      "name": "Teluk Lancang"
+    },
+    {
+      "code": 1408052003,
+      "name": "Sungai Selodang"
+    },
+    {
+      "code": 1408052004,
+      "name": "Olak"
+    },
+    {
+      "code": 1408052005,
+      "name": "Lubuk Jering"
+    },
+    {
+      "code": 1408052006,
+      "name": "Muara Bungkal"
+    },
+    {
+      "code": 1408052007,
+      "name": "Lubuk Umbut"
+    },
+    {
+      "code": 1408052008,
+      "name": "Bencah Umbai"
+    },
+    {
+      "code": 1408052009,
+      "name": "Tasik Betung"
+    }
+  ]
+}

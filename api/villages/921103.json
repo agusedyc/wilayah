@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9211032001,
+      "name": "Wama"
+    },
+    {
+      "code": 9211032002,
+      "name": "Disi"
+    },
+    {
+      "code": 9211032003,
+      "name": "Hiyou"
+    },
+    {
+      "code": 9211032004,
+      "name": "Sesum"
+    },
+    {
+      "code": 9211032005,
+      "name": "Benyas"
+    },
+    {
+      "code": 9211032006,
+      "name": "Aryawenmoho"
+    },
+    {
+      "code": 9211032007,
+      "name": "Neney"
+    }
+  ]
+}

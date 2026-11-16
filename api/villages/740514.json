@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7405141001,
+      "name": "Amondo"
+    },
+    {
+      "code": 7405142002,
+      "name": "Lakara"
+    },
+    {
+      "code": 7405142003,
+      "name": "Parasi"
+    },
+    {
+      "code": 7405142004,
+      "name": "Ulu Lakara"
+    },
+    {
+      "code": 7405142005,
+      "name": "Watumbohoti"
+    },
+    {
+      "code": 7405142006,
+      "name": "Wawowonua"
+    },
+    {
+      "code": 7405142007,
+      "name": "Waturapa"
+    },
+    {
+      "code": 7405142008,
+      "name": "Koeono"
+    },
+    {
+      "code": 7405142009,
+      "name": "Lalowua"
+    },
+    {
+      "code": 7405142010,
+      "name": "Mondoe"
+    }
+  ]
+}

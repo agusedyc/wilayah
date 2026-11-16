@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1109072001,
+      "name": "Seneubuk"
+    },
+    {
+      "code": 1109072002,
+      "name": "Suak Lamatan"
+    },
+    {
+      "code": 1109072003,
+      "name": "Alus Alus"
+    },
+    {
+      "code": 1109072004,
+      "name": "Batu Ralang"
+    },
+    {
+      "code": 1109072005,
+      "name": "Ulul Mayang"
+    },
+    {
+      "code": 1109072006,
+      "name": "Kebun Baru"
+    },
+    {
+      "code": 1109072007,
+      "name": "Badegong"
+    },
+    {
+      "code": 1109072008,
+      "name": "Latiung"
+    },
+    {
+      "code": 1109072009,
+      "name": "Pasir Tinggi"
+    },
+    {
+      "code": 1109072010,
+      "name": "Labuhan Jaya"
+    },
+    {
+      "code": 1109072011,
+      "name": "Labuhan Bajau"
+    },
+    {
+      "code": 1109072012,
+      "name": "Blang Sebel"
+    },
+    {
+      "code": 1109072013,
+      "name": "Ana Ao"
+    },
+    {
+      "code": 1109072014,
+      "name": "Lataling"
+    },
+    {
+      "code": 1109072015,
+      "name": "Pulau Bangkalak"
+    },
+    {
+      "code": 1109072016,
+      "name": "Labuhan Bakti"
+    },
+    {
+      "code": 1109072017,
+      "name": "Trans Jernge"
+    },
+    {
+      "code": 1109072018,
+      "name": "Trans Meranti"
+    },
+    {
+      "code": 1109072019,
+      "name": "Trans Baru"
+    }
+  ]
+}

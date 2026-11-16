@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1112032001,
+      "name": "Kedai"
+    },
+    {
+      "code": 1112032002,
+      "name": "Padang"
+    },
+    {
+      "code": 1112032003,
+      "name": "Tengah"
+    },
+    {
+      "code": 1112032005,
+      "name": "Paya"
+    },
+    {
+      "code": 1112032006,
+      "name": "Seuneulop"
+    },
+    {
+      "code": 1112032007,
+      "name": "Lhok Puntoy"
+    },
+    {
+      "code": 1112032009,
+      "name": "Ladang Panah"
+    },
+    {
+      "code": 1112032010,
+      "name": "Pusu Ingin Jaya"
+    },
+    {
+      "code": 1112032011,
+      "name": "Panton Makmur"
+    },
+    {
+      "code": 1112032022,
+      "name": "Lhueng Baro"
+    },
+    {
+      "code": 1112032023,
+      "name": "Tokoh"
+    },
+    {
+      "code": 1112032024,
+      "name": "Blang Manggeng"
+    },
+    {
+      "code": 1112032025,
+      "name": "Pante Raja"
+    },
+    {
+      "code": 1112032026,
+      "name": "Sejahtera"
+    },
+    {
+      "code": 1112032027,
+      "name": "Lhok Pawoh"
+    },
+    {
+      "code": 1112032029,
+      "name": "Pante Pirak"
+    },
+    {
+      "code": 1112032030,
+      "name": "Ujung Padang"
+    },
+    {
+      "code": 1112032031,
+      "name": "Pante Cermin"
+    }
+  ]
+}

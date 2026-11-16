@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6301062001,
+      "name": "Batu Tungku"
+    },
+    {
+      "code": 6301062002,
+      "name": "Panyipatan"
+    },
+    {
+      "code": 6301062003,
+      "name": "Kandangan Baru"
+    },
+    {
+      "code": 6301062004,
+      "name": "Kandangan Lama"
+    },
+    {
+      "code": 6301062005,
+      "name": "Batakan"
+    },
+    {
+      "code": 6301062006,
+      "name": "Kuringkit"
+    },
+    {
+      "code": 6301062007,
+      "name": "Tanjung Dewa"
+    },
+    {
+      "code": 6301062008,
+      "name": "Suka Ramah"
+    },
+    {
+      "code": 6301062009,
+      "name": "Batu Mulya"
+    },
+    {
+      "code": 6301062010,
+      "name": "Bumi Asih"
+    }
+  ]
+}

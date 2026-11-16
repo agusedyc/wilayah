@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 1202142001,
+      "name": "Garoga Sibargot"
+    },
+    {
+      "code": 1202142002,
+      "name": "Lontung Jae I"
+    },
+    {
+      "code": 1202142003,
+      "name": "Parsosoran"
+    },
+    {
+      "code": 1202142004,
+      "name": "Padang Siandomang"
+    },
+    {
+      "code": 1202142005,
+      "name": "Sibaganding"
+    },
+    {
+      "code": 1202142006,
+      "name": "Sirmpang Bolon"
+    },
+    {
+      "code": 1202142007,
+      "name": "Gonting Garoga"
+    },
+    {
+      "code": 1202142008,
+      "name": "Lontung Jae II"
+    },
+    {
+      "code": 1202142009,
+      "name": "Gonting Salak"
+    },
+    {
+      "code": 1202142010,
+      "name": "Sibalanga"
+    },
+    {
+      "code": 1202142011,
+      "name": "Aek Tangga"
+    },
+    {
+      "code": 1202142012,
+      "name": "Parinsoran"
+    },
+    {
+      "code": 1202142013,
+      "name": "Parmanuhan"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3305232001,
+      "name": "Patukrejo"
+    },
+    {
+      "code": 3305232002,
+      "name": "Ngasinan"
+    },
+    {
+      "code": 3305232003,
+      "name": "Pujodadi"
+    },
+    {
+      "code": 3305232004,
+      "name": "Balorejo"
+    },
+    {
+      "code": 3305232005,
+      "name": "Rowosari"
+    },
+    {
+      "code": 3305232006,
+      "name": "Tlogorejo"
+    },
+    {
+      "code": 3305232007,
+      "name": "Bonorowo"
+    },
+    {
+      "code": 3305232008,
+      "name": "Sirnoboyo"
+    },
+    {
+      "code": 3305232009,
+      "name": "Bonjokkidul"
+    },
+    {
+      "code": 3305232010,
+      "name": "Bonjoklor"
+    },
+    {
+      "code": 3305232011,
+      "name": "Mrentul"
+    }
+  ]
+}

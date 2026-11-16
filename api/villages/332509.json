@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3325092004,
+      "name": "Menjangan"
+    },
+    {
+      "code": 3325092005,
+      "name": "Karangtengah"
+    },
+    {
+      "code": 3325092006,
+      "name": "Mangunharjo"
+    },
+    {
+      "code": 3325092007,
+      "name": "Tenggulangharjo"
+    },
+    {
+      "code": 3325092008,
+      "name": "Kalimanggis"
+    },
+    {
+      "code": 3325092009,
+      "name": "Keborangan"
+    },
+    {
+      "code": 3325092010,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3325092011,
+      "name": "Subah"
+    },
+    {
+      "code": 3325092012,
+      "name": "Kumejing"
+    },
+    {
+      "code": 3325092014,
+      "name": "Durenombo"
+    },
+    {
+      "code": 3325092019,
+      "name": "Clapar"
+    },
+    {
+      "code": 3325092020,
+      "name": "Adinuso"
+    },
+    {
+      "code": 3325092021,
+      "name": "Sengon"
+    },
+    {
+      "code": 3325092023,
+      "name": "Gondang"
+    },
+    {
+      "code": 3325092024,
+      "name": "Kuripan"
+    },
+    {
+      "code": 3325092025,
+      "name": "Kemiri Barat"
+    },
+    {
+      "code": 3325092026,
+      "name": "Kemiri Timur"
+    }
+  ]
+}

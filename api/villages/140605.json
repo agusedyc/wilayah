@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1406051001,
+      "name": "KepenuhanTengah"
+    },
+    {
+      "code": 1406052003,
+      "name": "Kepenuhan Barat"
+    },
+    {
+      "code": 1406052004,
+      "name": "Kepenuhan Hilir"
+    },
+    {
+      "code": 1406052005,
+      "name": "Kepenuhan Timur"
+    },
+    {
+      "code": 1406052006,
+      "name": "Kepenuhan Barat Sei Rokan Jaya"
+    },
+    {
+      "code": 1406052007,
+      "name": "Kepenuhan Raya"
+    },
+    {
+      "code": 1406052008,
+      "name": "Kepenuhan Baru"
+    },
+    {
+      "code": 1406052009,
+      "name": "Kepenuhan Barat Mulya"
+    },
+    {
+      "code": 1406052010,
+      "name": "Ulak Patian"
+    },
+    {
+      "code": 1406052012,
+      "name": "Rantau Binuang Sakti"
+    }
+  ]
+}

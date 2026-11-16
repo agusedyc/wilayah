@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1805082001,
+      "name": "Banjar Agung"
+    },
+    {
+      "code": 1805082007,
+      "name": "Tri Darma Wirajaya"
+    },
+    {
+      "code": 1805082009,
+      "name": "Moris Jaya"
+    },
+    {
+      "code": 1805082010,
+      "name": "Tunggal Warga"
+    },
+    {
+      "code": 1805082011,
+      "name": "Dwi Warga Tunggal Jaya"
+    },
+    {
+      "code": 1805082019,
+      "name": "Tri Mulya Jaya"
+    },
+    {
+      "code": 1805082020,
+      "name": "Tri Mukti Jaya"
+    },
+    {
+      "code": 1805082021,
+      "name": "Tri Tunggal Jaya"
+    },
+    {
+      "code": 1805082022,
+      "name": "Warga Makmur Jaya"
+    },
+    {
+      "code": 1805082023,
+      "name": "Warga Indah Jaya"
+    },
+    {
+      "code": 1805082024,
+      "name": "Banjar Dewa"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 8271061001,
+      "name": "Takoma"
+    },
+    {
+      "code": 8271061002,
+      "name": "Tanah Raja"
+    },
+    {
+      "code": 8271061003,
+      "name": "Muhajirin"
+    },
+    {
+      "code": 8271061004,
+      "name": "Stadion"
+    },
+    {
+      "code": 8271061005,
+      "name": "Maliaro"
+    },
+    {
+      "code": 8271061006,
+      "name": "Kampung Pisang"
+    },
+    {
+      "code": 8271061007,
+      "name": "Marikurubu"
+    },
+    {
+      "code": 8271061008,
+      "name": "Kota Baru"
+    },
+    {
+      "code": 8271061009,
+      "name": "Gamalama"
+    },
+    {
+      "code": 8271061010,
+      "name": "Kalumpang"
+    },
+    {
+      "code": 8271061011,
+      "name": "Moya"
+    },
+    {
+      "code": 8271061012,
+      "name": "Santiong"
+    },
+    {
+      "code": 8271061013,
+      "name": "Makassar Barat"
+    },
+    {
+      "code": 8271061014,
+      "name": "Makassar Timur"
+    },
+    {
+      "code": 8271061015,
+      "name": "Salahuddin"
+    },
+    {
+      "code": 8271061016,
+      "name": "Tongole"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7307071001,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 7307072002,
+      "name": "Batu Belerang"
+    },
+    {
+      "code": 7307072003,
+      "name": "Biji Nangka"
+    },
+    {
+      "code": 7307072004,
+      "name": "Barambang"
+    },
+    {
+      "code": 7307072005,
+      "name": "Bonto Sinala"
+    },
+    {
+      "code": 7307072006,
+      "name": "Kassi Buleng"
+    },
+    {
+      "code": 7307072007,
+      "name": "Bonto Katute"
+    },
+    {
+      "code": 7307072008,
+      "name": "Bonto Tengnga"
+    }
+  ]
+}

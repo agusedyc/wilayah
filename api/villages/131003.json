@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1310032003,
+      "name": "Sungai Rumbai"
+    },
+    {
+      "code": 1310032004,
+      "name": "Kurnia Koto Salak"
+    },
+    {
+      "code": 1310032007,
+      "name": "Sungai Rumbai Timur"
+    },
+    {
+      "code": 1310032008,
+      "name": "Kurnia Selatan"
+    }
+  ]
+}

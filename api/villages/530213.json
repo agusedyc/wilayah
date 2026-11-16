@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 5302132001,
+      "name": "Konbaki"
+    },
+    {
+      "code": 5302132002,
+      "name": "Fatumnutu"
+    },
+    {
+      "code": 5302132003,
+      "name": "Bijeli"
+    },
+    {
+      "code": 5302132004,
+      "name": "Loli"
+    },
+    {
+      "code": 5302132005,
+      "name": "Usapimnasi"
+    },
+    {
+      "code": 5302132006,
+      "name": "Mnesatbubuk"
+    },
+    {
+      "code": 5302132007,
+      "name": "Puna"
+    },
+    {
+      "code": 5302132008,
+      "name": "Laob"
+    },
+    {
+      "code": 5302132009,
+      "name": "Oelnunuh"
+    },
+    {
+      "code": 5302132010,
+      "name": "Balu"
+    },
+    {
+      "code": 5302132011,
+      "name": "Sainoni"
+    }
+  ]
+}

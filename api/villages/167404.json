@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1674041001,
+      "name": "Tanjung Rambang"
+    },
+    {
+      "code": 1674042003,
+      "name": "Karya Mulya"
+    },
+    {
+      "code": 1674042005,
+      "name": "Rambang Senuling"
+    },
+    {
+      "code": 1674042006,
+      "name": "Jungai"
+    },
+    {
+      "code": 1674042007,
+      "name": "Talang Batu"
+    },
+    {
+      "code": 1674042008,
+      "name": "Karangan"
+    },
+    {
+      "code": 1674042009,
+      "name": "Karang Bindu"
+    },
+    {
+      "code": 1674042010,
+      "name": "Sinar Rambang"
+    },
+    {
+      "code": 1674042011,
+      "name": "Kemang Tanduk"
+    }
+  ]
+}

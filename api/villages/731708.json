@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 7317081001,
+      "name": "Sakti"
+    },
+    {
+      "code": 7317082002,
+      "name": "Barowa"
+    },
+    {
+      "code": 7317082003,
+      "name": "Puty"
+    },
+    {
+      "code": 7317082004,
+      "name": "Raja"
+    },
+    {
+      "code": 7317082005,
+      "name": "Posi"
+    },
+    {
+      "code": 7317082006,
+      "name": "Karang-Karangan"
+    },
+    {
+      "code": 7317082007,
+      "name": "Lare-Lare"
+    },
+    {
+      "code": 7317082008,
+      "name": "Lengkong"
+    },
+    {
+      "code": 7317082009,
+      "name": "Tiromanda"
+    },
+    {
+      "code": 7317082010,
+      "name": "Tana Rigella"
+    },
+    {
+      "code": 7317082011,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 7317082012,
+      "name": "Padang Kalua"
+    },
+    {
+      "code": 7317082013,
+      "name": "Pammesakang"
+    },
+    {
+      "code": 7317082014,
+      "name": "Pabbaresseng"
+    },
+    {
+      "code": 7317082015,
+      "name": "Toddopuli"
+    }
+  ]
+}

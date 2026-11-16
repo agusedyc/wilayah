@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9404031001,
+      "name": "Wania"
+    },
+    {
+      "code": 9404032002,
+      "name": "Kaugapa"
+    },
+    {
+      "code": 9404032003,
+      "name": "Poumako"
+    },
+    {
+      "code": 9404032004,
+      "name": "Tipuka"
+    },
+    {
+      "code": 9404032005,
+      "name": "Muare"
+    },
+    {
+      "code": 9404032006,
+      "name": "Hiripau"
+    }
+  ]
+}

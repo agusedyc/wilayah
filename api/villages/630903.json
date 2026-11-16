@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 6309032001,
+      "name": "Murung Baru"
+    },
+    {
+      "code": 6309032002,
+      "name": "Lukbayur"
+    },
+    {
+      "code": 6309032003,
+      "name": "Walangkir"
+    },
+    {
+      "code": 6309032004,
+      "name": "Warukin"
+    },
+    {
+      "code": 6309032005,
+      "name": "Barimbun"
+    },
+    {
+      "code": 6309032006,
+      "name": "Mangkusip"
+    },
+    {
+      "code": 6309032007,
+      "name": "Pamarangan Kanan"
+    },
+    {
+      "code": 6309032008,
+      "name": "\"Pulau Ku\"\"u\""
+    },
+    {
+      "code": 6309032009,
+      "name": "Tanta"
+    },
+    {
+      "code": 6309032010,
+      "name": "Padang Panjang"
+    },
+    {
+      "code": 6309032011,
+      "name": "Puain Kanan"
+    },
+    {
+      "code": 6309032012,
+      "name": "Padangin"
+    },
+    {
+      "code": 6309032013,
+      "name": "Tamiyang"
+    },
+    {
+      "code": 6309032014,
+      "name": "Tanta Hulu"
+    }
+  ]
+}

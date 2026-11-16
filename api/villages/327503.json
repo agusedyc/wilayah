@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3275031001,
+      "name": "Kaliabang Tengah"
+    },
+    {
+      "code": 3275031002,
+      "name": "Perwira"
+    },
+    {
+      "code": 3275031003,
+      "name": "Harapanbaru"
+    },
+    {
+      "code": 3275031004,
+      "name": "Teluk Pucung"
+    },
+    {
+      "code": 3275031005,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3275031006,
+      "name": "Harapanjaya"
+    }
+  ]
+}

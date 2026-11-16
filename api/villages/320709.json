@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3207092001,
+      "name": "Kawali"
+    },
+    {
+      "code": 3207092002,
+      "name": "Talagasari"
+    },
+    {
+      "code": 3207092004,
+      "name": "Karangpawitan"
+    },
+    {
+      "code": 3207092005,
+      "name": "Winduraja"
+    },
+    {
+      "code": 3207092006,
+      "name": "Margamulya"
+    },
+    {
+      "code": 3207092011,
+      "name": "Citeureup"
+    },
+    {
+      "code": 3207092013,
+      "name": "Purwasari"
+    },
+    {
+      "code": 3207092014,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3207092015,
+      "name": "Kawalimukti"
+    },
+    {
+      "code": 3207092016,
+      "name": "Selasari"
+    },
+    {
+      "code": 3207092019,
+      "name": "Linggapura"
+    }
+  ]
+}

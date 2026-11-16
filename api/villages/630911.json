@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6309112001,
+      "name": "Teratau"
+    },
+    {
+      "code": 6309112002,
+      "name": "Namun"
+    },
+    {
+      "code": 6309112003,
+      "name": "Jaro"
+    },
+    {
+      "code": 6309112004,
+      "name": "Solan"
+    },
+    {
+      "code": 6309112005,
+      "name": "Muang"
+    },
+    {
+      "code": 6309112006,
+      "name": "Lano"
+    },
+    {
+      "code": 6309112007,
+      "name": "Purui"
+    },
+    {
+      "code": 6309112008,
+      "name": "Garagata"
+    },
+    {
+      "code": 6309112009,
+      "name": "Nalui"
+    }
+  ]
+}

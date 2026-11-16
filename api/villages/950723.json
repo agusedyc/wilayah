@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9507232001,
+      "name": "Wamiru"
+    },
+    {
+      "code": 9507232002,
+      "name": "Dugu-dugu"
+    },
+    {
+      "code": 9507232003,
+      "name": "Andugume"
+    },
+    {
+      "code": 9507232004,
+      "name": "Tinime"
+    },
+    {
+      "code": 9507232005,
+      "name": "Mume"
+    },
+    {
+      "code": 9507232006,
+      "name": "Nenggeya"
+    },
+    {
+      "code": 9507232007,
+      "name": "Tenawi"
+    },
+    {
+      "code": 9507232008,
+      "name": "Kobanu"
+    },
+    {
+      "code": 9507232009,
+      "name": "Piragi"
+    },
+    {
+      "code": 9507232010,
+      "name": "Nabei"
+    },
+    {
+      "code": 9507232011,
+      "name": "Mingga"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6202162001,
+      "name": "Luwuk Sampun"
+    },
+    {
+      "code": 6202162002,
+      "name": "Tumbang Mujam"
+    },
+    {
+      "code": 6202162003,
+      "name": "Merah"
+    },
+    {
+      "code": 6202162004,
+      "name": "Tanjung Jorong"
+    },
+    {
+      "code": 6202162005,
+      "name": "Sebungsu"
+    },
+    {
+      "code": 6202162006,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 6202162007,
+      "name": "Wonosari"
+    },
+    {
+      "code": 6202162008,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 6202162009,
+      "name": "Damar Makmur"
+    },
+    {
+      "code": 6202162010,
+      "name": "Cempaka Putih"
+    },
+    {
+      "code": 6202162011,
+      "name": "Jati Waringin"
+    }
+  ]
+}

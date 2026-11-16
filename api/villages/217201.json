@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 2172011001,
+      "name": "Tanjung Pinang Barat"
+    },
+    {
+      "code": 2172011002,
+      "name": "Kemboja"
+    },
+    {
+      "code": 2172011003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 2172011004,
+      "name": "Bukit Cermin"
+    }
+  ]
+}

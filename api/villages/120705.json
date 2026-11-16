@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Showing 25 villages",
+  "data": [
+    {
+      "code": 1207052001,
+      "name": "Bintang Meriah"
+    },
+    {
+      "code": 1207052002,
+      "name": "Sugau"
+    },
+    {
+      "code": 1207052003,
+      "name": "Tiang Layar"
+    },
+    {
+      "code": 1207052004,
+      "name": "Durin Simbelang"
+    },
+    {
+      "code": 1207052005,
+      "name": "Namo Riam"
+    },
+    {
+      "code": 1207052006,
+      "name": "Durin Tonggal"
+    },
+    {
+      "code": 1207052007,
+      "name": "Hulu"
+    },
+    {
+      "code": 1207052008,
+      "name": "Pertampilen"
+    },
+    {
+      "code": 1207052009,
+      "name": "Salam Tani"
+    },
+    {
+      "code": 1207052010,
+      "name": "Tengah"
+    },
+    {
+      "code": 1207052011,
+      "name": "Namo Simpur"
+    },
+    {
+      "code": 1207052012,
+      "name": "Simalingkar A"
+    },
+    {
+      "code": 1207052013,
+      "name": "Namo Bintang"
+    },
+    {
+      "code": 1207052014,
+      "name": "Lama"
+    },
+    {
+      "code": 1207052015,
+      "name": "Namo Rih"
+    },
+    {
+      "code": 1207052016,
+      "name": "Tuntungan I"
+    },
+    {
+      "code": 1207052017,
+      "name": "Gunung Tinggi"
+    },
+    {
+      "code": 1207052018,
+      "name": "Tuntungan II"
+    },
+    {
+      "code": 1207052019,
+      "name": "Durin Jangak"
+    },
+    {
+      "code": 1207052020,
+      "name": "Sembahe Baru"
+    },
+    {
+      "code": 1207052021,
+      "name": "Tanjung Anom"
+    },
+    {
+      "code": 1207052022,
+      "name": "Sei Glugur"
+    },
+    {
+      "code": 1207052023,
+      "name": "Suka Raya"
+    },
+    {
+      "code": 1207052024,
+      "name": "Baru"
+    },
+    {
+      "code": 1207052025,
+      "name": "Perumnas Simalingkar"
+    }
+  ]
+}

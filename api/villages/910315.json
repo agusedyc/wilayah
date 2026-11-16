@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9103152001,
+      "name": "Tabbeyan"
+    },
+    {
+      "code": 9103152002,
+      "name": "Kwarja"
+    },
+    {
+      "code": 9103152003,
+      "name": "Ongan Jaya"
+    },
+    {
+      "code": 9103152004,
+      "name": "Bumi Sahaja"
+    },
+    {
+      "code": 9103152005,
+      "name": "Nawa Mulya"
+    },
+    {
+      "code": 9103152006,
+      "name": "Nawa Mukti"
+    },
+    {
+      "code": 9103152007,
+      "name": "Taqwa Bangun"
+    },
+    {
+      "code": 9103152008,
+      "name": "Purnama Jati"
+    },
+    {
+      "code": 9103153009,
+      "name": "Desa Adat Bundru"
+    }
+  ]
+}

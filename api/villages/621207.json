@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6212072001,
+      "name": "Oreng"
+    },
+    {
+      "code": 6212072002,
+      "name": "Olung Muro"
+    },
+    {
+      "code": 6212072003,
+      "name": "Olung Hanangan"
+    },
+    {
+      "code": 6212072004,
+      "name": "Dirung Lingkin"
+    },
+    {
+      "code": 6212072005,
+      "name": "Datah Kotou"
+    },
+    {
+      "code": 6212072006,
+      "name": "Tahujan Ontu"
+    },
+    {
+      "code": 6212072007,
+      "name": "Puruk Kambang"
+    }
+  ]
+}

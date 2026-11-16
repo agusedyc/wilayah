@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5303192001,
+      "name": "Fafinesu A"
+    },
+    {
+      "code": 5303192002,
+      "name": "Fafinesu B"
+    },
+    {
+      "code": 5303192003,
+      "name": "Fafinesu C"
+    },
+    {
+      "code": 5303192004,
+      "name": "Oenain"
+    },
+    {
+      "code": 5303192005,
+      "name": "Baunuan"
+    },
+    {
+      "code": 5303192006,
+      "name": "Fafinesu"
+    }
+  ]
+}

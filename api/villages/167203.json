@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1672031006,
+      "name": "Jangkar Mas"
+    },
+    {
+      "code": 1672031012,
+      "name": "Bumi Agung"
+    },
+    {
+      "code": 1672031019,
+      "name": "Muara Siban"
+    },
+    {
+      "code": 1672031022,
+      "name": "Agung Lawangan"
+    },
+    {
+      "code": 1672031023,
+      "name": "Pagar Wangi"
+    },
+    {
+      "code": 1672031024,
+      "name": "Burung Dinang"
+    },
+    {
+      "code": 1672031025,
+      "name": "Rebah Tinggi"
+    }
+  ]
+}

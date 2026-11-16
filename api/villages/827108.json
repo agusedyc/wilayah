@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8271081001,
+      "name": "Tagafo"
+    },
+    {
+      "code": 8271081002,
+      "name": "Loto"
+    },
+    {
+      "code": 8271081003,
+      "name": "Takome"
+    },
+    {
+      "code": 8271081004,
+      "name": "Sulamadaha"
+    },
+    {
+      "code": 8271081005,
+      "name": "Tobololo"
+    },
+    {
+      "code": 8271081006,
+      "name": "Bula"
+    },
+    {
+      "code": 8271081007,
+      "name": "Kulaba"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604132001,
+      "name": "Werur"
+    },
+    {
+      "code": 9604132002,
+      "name": "Bukit"
+    },
+    {
+      "code": 9604132003,
+      "name": "Wertam"
+    },
+    {
+      "code": 9604132004,
+      "name": "Werwaf"
+    },
+    {
+      "code": 9604132005,
+      "name": "Werbes"
+    },
+    {
+      "code": 9604132006,
+      "name": "Nombrak"
+    },
+    {
+      "code": 9604132007,
+      "name": "Bikar"
+    },
+    {
+      "code": 9604132008,
+      "name": "Syunai"
+    },
+    {
+      "code": 9604132009,
+      "name": "Suyam"
+    },
+    {
+      "code": 9604132010,
+      "name": "Wertim"
+    }
+  ]
+}

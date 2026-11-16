@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1216082001,
+      "name": "Batu Nagodang Siatas"
+    },
+    {
+      "code": 1216082002,
+      "name": "Onan Ganjang"
+    },
+    {
+      "code": 1216082003,
+      "name": "Parbotihan"
+    },
+    {
+      "code": 1216082004,
+      "name": "Sihikit"
+    },
+    {
+      "code": 1216082005,
+      "name": "Parnapa"
+    },
+    {
+      "code": 1216082006,
+      "name": "Janji Nagodang"
+    },
+    {
+      "code": 1216082007,
+      "name": "Sampe Tua"
+    },
+    {
+      "code": 1216082008,
+      "name": "Hutajulu"
+    },
+    {
+      "code": 1216082009,
+      "name": "Sibuluan"
+    },
+    {
+      "code": 1216082010,
+      "name": "Sigalogo"
+    },
+    {
+      "code": 1216082011,
+      "name": "Aek Godang Arbaan"
+    },
+    {
+      "code": 1216082012,
+      "name": "Sanggaran II"
+    }
+  ]
+}

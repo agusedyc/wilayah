@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1403152001,
+      "name": "Tasik Serai"
+    },
+    {
+      "code": 1403152002,
+      "name": "Tasik Serai Barat"
+    },
+    {
+      "code": 1403152003,
+      "name": "Kualo Penaso"
+    },
+    {
+      "code": 1403152004,
+      "name": "Beringin"
+    },
+    {
+      "code": 1403152005,
+      "name": "Koto Pait Beringin"
+    },
+    {
+      "code": 1403152006,
+      "name": "Melibur"
+    },
+    {
+      "code": 1403152007,
+      "name": "Tasik Serai Timur"
+    },
+    {
+      "code": 1403152008,
+      "name": "Tasik Tebing Serai"
+    },
+    {
+      "code": 1403152009,
+      "name": "Serai Wangi"
+    }
+  ]
+}

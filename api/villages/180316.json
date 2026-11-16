@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1803162001,
+      "name": "Negara Tulang Bawang"
+    },
+    {
+      "code": 1803162002,
+      "name": "Kota Napal"
+    },
+    {
+      "code": 1803162003,
+      "name": "Tanah Abang"
+    },
+    {
+      "code": 1803162004,
+      "name": "Sukadana Udik"
+    },
+    {
+      "code": 1803162005,
+      "name": "Sukadana Ilir"
+    },
+    {
+      "code": 1803162006,
+      "name": "Haduyang Ratu"
+    },
+    {
+      "code": 1803162007,
+      "name": "Iso Rejo"
+    },
+    {
+      "code": 1803162008,
+      "name": "Mulyo Rejo II"
+    },
+    {
+      "code": 1803162009,
+      "name": "Tulang Bawang Baru"
+    },
+    {
+      "code": 1803162010,
+      "name": "Mulyo Rejo I"
+    },
+    {
+      "code": 1803162011,
+      "name": "Suka Maju"
+    }
+  ]
+}

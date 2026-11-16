@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3524082001,
+      "name": "Dateng"
+    },
+    {
+      "code": 3524082002,
+      "name": "Jabung"
+    },
+    {
+      "code": 3524082003,
+      "name": "Keduyung"
+    },
+    {
+      "code": 3524082004,
+      "name": "Centini"
+    },
+    {
+      "code": 3524082005,
+      "name": "Durikulon"
+    },
+    {
+      "code": 3524082006,
+      "name": "Pesanggrahan"
+    },
+    {
+      "code": 3524082007,
+      "name": "Gelap"
+    },
+    {
+      "code": 3524082008,
+      "name": "Mojoasem"
+    },
+    {
+      "code": 3524082009,
+      "name": "Siser"
+    },
+    {
+      "code": 3524082010,
+      "name": "Bulutigo"
+    },
+    {
+      "code": 3524082011,
+      "name": "Pelangwot"
+    },
+    {
+      "code": 3524082012,
+      "name": "Laren"
+    },
+    {
+      "code": 3524082013,
+      "name": "Gampangsejati"
+    },
+    {
+      "code": 3524082014,
+      "name": "Tamanprijeg"
+    },
+    {
+      "code": 3524082015,
+      "name": "Karangtawar"
+    },
+    {
+      "code": 3524082016,
+      "name": "Tejoasri"
+    },
+    {
+      "code": 3524082017,
+      "name": "Godog"
+    },
+    {
+      "code": 3524082018,
+      "name": "Bulubrangsi"
+    },
+    {
+      "code": 3524082019,
+      "name": "Karangwungulor"
+    },
+    {
+      "code": 3524082020,
+      "name": "Brangsi"
+    }
+  ]
+}

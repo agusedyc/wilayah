@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7402412001,
+      "name": "Wonggeduku"
+    },
+    {
+      "code": 7402412002,
+      "name": "Puday"
+    },
+    {
+      "code": 7402412003,
+      "name": "Waturay"
+    },
+    {
+      "code": 7402412004,
+      "name": "Tobimeita"
+    },
+    {
+      "code": 7402412005,
+      "name": "Kasukia"
+    },
+    {
+      "code": 7402412006,
+      "name": "Baruga"
+    },
+    {
+      "code": 7402412007,
+      "name": "Teteona"
+    },
+    {
+      "code": 7402412008,
+      "name": "Ambuuwiu"
+    },
+    {
+      "code": 7402412009,
+      "name": "Linonggasai"
+    },
+    {
+      "code": 7402412010,
+      "name": "Lambangi"
+    },
+    {
+      "code": 7402412011,
+      "name": "Lahotutu"
+    },
+    {
+      "code": 7402412012,
+      "name": "Lamokuni"
+    },
+    {
+      "code": 7402412013,
+      "name": "Ranotundobu"
+    },
+    {
+      "code": 7402412014,
+      "name": "Anggadola"
+    }
+  ]
+}

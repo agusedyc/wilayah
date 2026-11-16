@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1209212001,
+      "name": "Aek Songsongan"
+    },
+    {
+      "code": 1209212002,
+      "name": "Perkebunan Bandar Selamat"
+    },
+    {
+      "code": 1209212003,
+      "name": "Perkebunan Bandar Pulau"
+    },
+    {
+      "code": 1209212004,
+      "name": "Aek Bamban"
+    },
+    {
+      "code": 1209212005,
+      "name": "Marjanji Aceh"
+    },
+    {
+      "code": 1209212006,
+      "name": "Lobu Rappa"
+    },
+    {
+      "code": 1209212007,
+      "name": "Tangga"
+    },
+    {
+      "code": 1209212008,
+      "name": "Situnjak"
+    },
+    {
+      "code": 1209212009,
+      "name": "Mekar Marjanji"
+    }
+  ]
+}

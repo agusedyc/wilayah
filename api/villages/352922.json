@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3529222001,
+      "name": "Ketupat"
+    },
+    {
+      "code": 3529222002,
+      "name": "Jungkat"
+    },
+    {
+      "code": 3529222003,
+      "name": "Kropoh"
+    },
+    {
+      "code": 3529222004,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3529222005,
+      "name": "Alas Malang"
+    },
+    {
+      "code": 3529222006,
+      "name": "Poteran"
+    },
+    {
+      "code": 3529222007,
+      "name": "Brakas"
+    },
+    {
+      "code": 3529222008,
+      "name": "Tonduk"
+    },
+    {
+      "code": 3529222009,
+      "name": "Guwa-Guwa"
+    }
+  ]
+}

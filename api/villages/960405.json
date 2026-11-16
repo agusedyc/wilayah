@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9604052001,
+      "name": "Sausapor"
+    },
+    {
+      "code": 9604052002,
+      "name": "Emaos"
+    },
+    {
+      "code": 9604052003,
+      "name": "Jokte"
+    },
+    {
+      "code": 9604052004,
+      "name": "Uigwem"
+    },
+    {
+      "code": 9604052005,
+      "name": "Sungguwan"
+    },
+    {
+      "code": 9604052006,
+      "name": "Sau Uram"
+    },
+    {
+      "code": 9604052007,
+      "name": "Nanggou"
+    },
+    {
+      "code": 9604052008,
+      "name": "Bondek"
+    },
+    {
+      "code": 9604052009,
+      "name": "Bondonggwan"
+    },
+    {
+      "code": 9604052010,
+      "name": "Syurauw"
+    }
+  ]
+}

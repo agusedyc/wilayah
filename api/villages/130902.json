@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1309022001,
+      "name": "Bosua"
+    },
+    {
+      "code": 1309022002,
+      "name": "Beriulou"
+    },
+    {
+      "code": 1309022003,
+      "name": "Nemnemleleu"
+    },
+    {
+      "code": 1309022004,
+      "name": "Mara"
+    },
+    {
+      "code": 1309022006,
+      "name": "Sioban"
+    },
+    {
+      "code": 1309022007,
+      "name": "Matobe"
+    },
+    {
+      "code": 1309022008,
+      "name": "Saureinu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5271051001,
+      "name": "Mataram Barat"
+    },
+    {
+      "code": 5271051002,
+      "name": "Dasan Agung"
+    },
+    {
+      "code": 5271051003,
+      "name": "Monjok"
+    },
+    {
+      "code": 5271051004,
+      "name": "Karang Baru"
+    },
+    {
+      "code": 5271051005,
+      "name": "Rembiga"
+    },
+    {
+      "code": 5271051006,
+      "name": "Gomong"
+    },
+    {
+      "code": 5271051007,
+      "name": "Dasan Agung Baru"
+    },
+    {
+      "code": 5271051008,
+      "name": "Monjok Timur"
+    },
+    {
+      "code": 5271051009,
+      "name": "Monjok Barat"
+    }
+  ]
+}

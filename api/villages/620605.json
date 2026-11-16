@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6206051009,
+      "name": "Samba Kahayan"
+    },
+    {
+      "code": 6206052001,
+      "name": "Tumbang Lahang"
+    },
+    {
+      "code": 6206052002,
+      "name": "Tewang Panjang"
+    },
+    {
+      "code": 6206052003,
+      "name": "Petak Puti"
+    },
+    {
+      "code": 6206052004,
+      "name": "Telok"
+    },
+    {
+      "code": 6206052005,
+      "name": "Samba Danum"
+    },
+    {
+      "code": 6206052006,
+      "name": "Samba Bakumpai"
+    },
+    {
+      "code": 6206052007,
+      "name": "Samba Katung"
+    },
+    {
+      "code": 6206052008,
+      "name": "Napu Sahur"
+    },
+    {
+      "code": 6206052010,
+      "name": "Batu Badinding"
+    },
+    {
+      "code": 6206052011,
+      "name": "Rantau Asem"
+    },
+    {
+      "code": 6206052012,
+      "name": "Mirah Kalanaman"
+    },
+    {
+      "code": 6206052013,
+      "name": "Tumbang Kalemei"
+    },
+    {
+      "code": 6206052014,
+      "name": "Tumbang Marak"
+    },
+    {
+      "code": 6206052015,
+      "name": "Tumbang Hangei"
+    },
+    {
+      "code": 6206052016,
+      "name": "Tumbang Pariyei"
+    }
+  ]
+}

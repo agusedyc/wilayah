@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7410042001,
+      "name": "Kotawo"
+    },
+    {
+      "code": 7410042002,
+      "name": "Karya Bhakti"
+    },
+    {
+      "code": 7410042003,
+      "name": "Marga Karya"
+    },
+    {
+      "code": 7410042004,
+      "name": "Kasulatombi"
+    },
+    {
+      "code": 7410042005,
+      "name": "Dampala Jaya"
+    },
+    {
+      "code": 7410042006,
+      "name": "Rahmat Baru"
+    },
+    {
+      "code": 7410042007,
+      "name": "Soloy Agung"
+    },
+    {
+      "code": 7410042008,
+      "name": "Bumi Lapero"
+    },
+    {
+      "code": 7410042009,
+      "name": "Karya Mulya"
+    },
+    {
+      "code": 7410042010,
+      "name": "Lambale"
+    },
+    {
+      "code": 7410042011,
+      "name": "Lapandewa"
+    },
+    {
+      "code": 7410042012,
+      "name": "Lauki"
+    },
+    {
+      "code": 7410042013,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7410042014,
+      "name": "Labulanda"
+    }
+  ]
+}

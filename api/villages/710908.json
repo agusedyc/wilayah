@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7109082001,
+      "name": "Kinali"
+    },
+    {
+      "code": 7109082002,
+      "name": "Hiung"
+    },
+    {
+      "code": 7109082003,
+      "name": "Kiawang"
+    },
+    {
+      "code": 7109082004,
+      "name": "Kawahang"
+    },
+    {
+      "code": 7109082005,
+      "name": "Batubulan"
+    },
+    {
+      "code": 7109082006,
+      "name": "Nameng"
+    },
+    {
+      "code": 7109082007,
+      "name": "Mini"
+    },
+    {
+      "code": 7109082008,
+      "name": "Winangun"
+    }
+  ]
+}

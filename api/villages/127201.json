@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1272011001,
+      "name": "Kebun Sayur"
+    },
+    {
+      "code": 1272011002,
+      "name": "Tomuan"
+    },
+    {
+      "code": 1272011003,
+      "name": "Pahlawan"
+    },
+    {
+      "code": 1272011004,
+      "name": "Asuhan"
+    },
+    {
+      "code": 1272011005,
+      "name": "Merdeka"
+    },
+    {
+      "code": 1272011006,
+      "name": "Pardomuan"
+    },
+    {
+      "code": 1272011007,
+      "name": "Siopat Suhu"
+    }
+  ]
+}

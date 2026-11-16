@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3507202001,
+      "name": "Ngajum"
+    },
+    {
+      "code": 3507202002,
+      "name": "Palaan"
+    },
+    {
+      "code": 3507202003,
+      "name": "Ngasem"
+    },
+    {
+      "code": 3507202004,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3507202005,
+      "name": "Kranggan"
+    },
+    {
+      "code": 3507202006,
+      "name": "Kesamben"
+    },
+    {
+      "code": 3507202007,
+      "name": "Babadan"
+    },
+    {
+      "code": 3507202008,
+      "name": "Balesari"
+    },
+    {
+      "code": 3507202009,
+      "name": "Maguan"
+    }
+  ]
+}

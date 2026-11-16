@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1103052001,
+      "name": "Lokop"
+    },
+    {
+      "code": 1103052002,
+      "name": "Terujak"
+    },
+    {
+      "code": 1103052003,
+      "name": "Tualang"
+    },
+    {
+      "code": 1103052004,
+      "name": "Leles"
+    },
+    {
+      "code": 1103052005,
+      "name": "Ujung Karang"
+    },
+    {
+      "code": 1103052006,
+      "name": "Nalon"
+    },
+    {
+      "code": 1103052007,
+      "name": "Jering"
+    },
+    {
+      "code": 1103052008,
+      "name": "Loot"
+    },
+    {
+      "code": 1103052009,
+      "name": "Seku Alan"
+    },
+    {
+      "code": 1103052010,
+      "name": "Sunti"
+    },
+    {
+      "code": 1103052011,
+      "name": "Umah Taring"
+    },
+    {
+      "code": 1103052012,
+      "name": "Bunin"
+    },
+    {
+      "code": 1103052013,
+      "name": "Sembuang"
+    },
+    {
+      "code": 1103052014,
+      "name": "Seuleumak"
+    },
+    {
+      "code": 1103052015,
+      "name": "Mesir"
+    },
+    {
+      "code": 1103052016,
+      "name": "Rampah"
+    },
+    {
+      "code": 1103052022,
+      "name": "Arul Durin"
+    }
+  ]
+}

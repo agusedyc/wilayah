@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9115122001,
+      "name": "Wapoga"
+    },
+    {
+      "code": 9115122002,
+      "name": "Pirare"
+    },
+    {
+      "code": 9115122003,
+      "name": "Awera"
+    },
+    {
+      "code": 9115122004,
+      "name": "Syewa Merare"
+    },
+    {
+      "code": 9115122005,
+      "name": "Kamarisano"
+    },
+    {
+      "code": 9115122006,
+      "name": "Waweri"
+    },
+    {
+      "code": 9115122007,
+      "name": "Dokis"
+    }
+  ]
+}

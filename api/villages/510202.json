@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5102022001,
+      "name": "Gunung Salak"
+    },
+    {
+      "code": 5102022002,
+      "name": "Gadungan"
+    },
+    {
+      "code": 5102022003,
+      "name": "Bantas"
+    },
+    {
+      "code": 5102022004,
+      "name": "Mambang"
+    },
+    {
+      "code": 5102022005,
+      "name": "Megati"
+    },
+    {
+      "code": 5102022006,
+      "name": "Tangguntiti"
+    },
+    {
+      "code": 5102022007,
+      "name": "Beraban"
+    },
+    {
+      "code": 5102022008,
+      "name": "Tegal Mengkeb"
+    },
+    {
+      "code": 5102022009,
+      "name": "Dalang"
+    },
+    {
+      "code": 5102022010,
+      "name": "Gadungsari"
+    }
+  ]
+}

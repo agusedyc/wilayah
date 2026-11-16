@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7301082001,
+      "name": "Kayuadi"
+    },
+    {
+      "code": 7301082002,
+      "name": "Batang"
+    },
+    {
+      "code": 7301082003,
+      "name": "Nyiur Indah"
+    },
+    {
+      "code": 7301082004,
+      "name": "Tambuna"
+    },
+    {
+      "code": 7301082005,
+      "name": "Jinato"
+    },
+    {
+      "code": 7301082006,
+      "name": "Rajuni"
+    },
+    {
+      "code": 7301082007,
+      "name": "Latondu"
+    },
+    {
+      "code": 7301082008,
+      "name": "Tarupa"
+    },
+    {
+      "code": 7301082009,
+      "name": "Khusus Pasitallu"
+    }
+  ]
+}

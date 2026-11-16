@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3314072001,
+      "name": "Plumbon"
+    },
+    {
+      "code": 3314072002,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3314072003,
+      "name": "Cemeng"
+    },
+    {
+      "code": 3314072004,
+      "name": "Bedoro"
+    },
+    {
+      "code": 3314072005,
+      "name": "Toyogo"
+    },
+    {
+      "code": 3314072006,
+      "name": "Banyurip"
+    },
+    {
+      "code": 3314072007,
+      "name": "Gringging"
+    },
+    {
+      "code": 3314072008,
+      "name": "Banaran"
+    },
+    {
+      "code": 3314072009,
+      "name": "Sambungmacan"
+    }
+  ]
+}

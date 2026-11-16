@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1404191002,
+      "name": "Kempas Jaya"
+    },
+    {
+      "code": 1404191007,
+      "name": "Harapan Tani"
+    },
+    {
+      "code": 1404192001,
+      "name": "Pekan Tua"
+    },
+    {
+      "code": 1404192003,
+      "name": "Rumbai Jaya"
+    },
+    {
+      "code": 1404192004,
+      "name": "Bayas Jaya"
+    },
+    {
+      "code": 1404192005,
+      "name": "Sungaiara"
+    },
+    {
+      "code": 1404192006,
+      "name": "Sungaigantang"
+    },
+    {
+      "code": 1404192008,
+      "name": "Karya Tani"
+    },
+    {
+      "code": 1404192009,
+      "name": "Kerta Jaya"
+    },
+    {
+      "code": 1404192010,
+      "name": "Kulim Jaya"
+    },
+    {
+      "code": 1404192011,
+      "name": "Danaupulai Indah"
+    },
+    {
+      "code": 1404192012,
+      "name": "Sungairabit"
+    }
+  ]
+}

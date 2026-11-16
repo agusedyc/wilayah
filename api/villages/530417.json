@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5304172001,
+      "name": "Lasiolat"
+    },
+    {
+      "code": 5304172002,
+      "name": "Maneikun"
+    },
+    {
+      "code": 5304172003,
+      "name": "Lakan Mau"
+    },
+    {
+      "code": 5304172004,
+      "name": "Dualasi Raiulun"
+    },
+    {
+      "code": 5304172005,
+      "name": "Dualasi"
+    },
+    {
+      "code": 5304172006,
+      "name": "Fatulotu"
+    },
+    {
+      "code": 5304172007,
+      "name": "Baudaok"
+    }
+  ]
+}

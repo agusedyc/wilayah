@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7324102001,
+      "name": "Kalaena Kiri"
+    },
+    {
+      "code": 7324102002,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 7324102003,
+      "name": "Pertasi Kencana"
+    },
+    {
+      "code": 7324102004,
+      "name": "Non Blok"
+    },
+    {
+      "code": 7324102005,
+      "name": "Argomulyo"
+    },
+    {
+      "code": 7324102006,
+      "name": "Sumber Makmur"
+    },
+    {
+      "code": 7324102007,
+      "name": "Mekar Sari"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5204232001,
+      "name": "Pungkit"
+    },
+    {
+      "code": 5204232002,
+      "name": "Sebewe"
+    },
+    {
+      "code": 5204232003,
+      "name": "Penyaring"
+    },
+    {
+      "code": 5204232004,
+      "name": "Kukin"
+    },
+    {
+      "code": 5204232005,
+      "name": "Baru Tahan"
+    },
+    {
+      "code": 5204232006,
+      "name": "Songkar"
+    }
+  ]
+}

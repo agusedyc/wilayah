@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9206042001,
+      "name": "Aranday"
+    },
+    {
+      "code": 9206042007,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 9206042008,
+      "name": "Kecap"
+    },
+    {
+      "code": 9206042009,
+      "name": "Manunggal Karya"
+    }
+  ]
+}

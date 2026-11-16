@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3204272001,
+      "name": "Mandalasari"
+    },
+    {
+      "code": 3204272002,
+      "name": "Cikancung"
+    },
+    {
+      "code": 3204272003,
+      "name": "Cikasungka"
+    },
+    {
+      "code": 3204272004,
+      "name": "Cihanyir"
+    },
+    {
+      "code": 3204272005,
+      "name": "Ciluluk"
+    },
+    {
+      "code": 3204272006,
+      "name": "Hegarmanah"
+    },
+    {
+      "code": 3204272007,
+      "name": "Mekarlaksana"
+    },
+    {
+      "code": 3204272008,
+      "name": "Tanjunglaya"
+    },
+    {
+      "code": 3204272009,
+      "name": "Srirahayu"
+    }
+  ]
+}

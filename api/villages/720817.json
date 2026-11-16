@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7208172001,
+      "name": "Marantale"
+    },
+    {
+      "code": 7208172002,
+      "name": "Tandaigi"
+    },
+    {
+      "code": 7208172003,
+      "name": "Silanga"
+    },
+    {
+      "code": 7208172004,
+      "name": "Siniu"
+    },
+    {
+      "code": 7208172005,
+      "name": "Towera"
+    },
+    {
+      "code": 7208172006,
+      "name": "Toraranga"
+    },
+    {
+      "code": 7208172007,
+      "name": "Uevolo"
+    },
+    {
+      "code": 7208172008,
+      "name": "Siniu Sayogindano"
+    },
+    {
+      "code": 7208172009,
+      "name": "Silanga Barat"
+    }
+  ]
+}

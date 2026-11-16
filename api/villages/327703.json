@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3277031001,
+      "name": "Pasirkaliki"
+    },
+    {
+      "code": 3277031002,
+      "name": "Cibabat"
+    },
+    {
+      "code": 3277031003,
+      "name": "Citeureup"
+    },
+    {
+      "code": 3277031004,
+      "name": "Cipageran"
+    }
+  ]
+}

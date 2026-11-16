@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8172052001,
+      "name": "Kanara"
+    },
+    {
+      "code": 8172052002,
+      "name": "Warkar"
+    },
+    {
+      "code": 8172052003,
+      "name": "Yapas"
+    },
+    {
+      "code": 8172052004,
+      "name": "Rumoin"
+    },
+    {
+      "code": 8172052005,
+      "name": "Hirit"
+    },
+    {
+      "code": 8172052006,
+      "name": "Tiflen"
+    },
+    {
+      "code": 8172052007,
+      "name": "Niela"
+    }
+  ]
+}

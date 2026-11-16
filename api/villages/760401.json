@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7604011001,
+      "name": "Tinambung"
+    },
+    {
+      "code": 7604012002,
+      "name": "Karama"
+    },
+    {
+      "code": 7604012003,
+      "name": "Tangnga Tangnga"
+    },
+    {
+      "code": 7604012004,
+      "name": "Lekopadis"
+    },
+    {
+      "code": 7604012005,
+      "name": "Galung Lombok"
+    },
+    {
+      "code": 7604012006,
+      "name": "Tandung"
+    },
+    {
+      "code": 7604012007,
+      "name": "Batulaya"
+    },
+    {
+      "code": 7604012008,
+      "name": "Sepabatu"
+    }
+  ]
+}

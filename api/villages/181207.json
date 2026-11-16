@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1812072001,
+      "name": "Kibang Budi Jaya"
+    },
+    {
+      "code": 1812072002,
+      "name": "Lesung Bhakti Jaya"
+    },
+    {
+      "code": 1812072003,
+      "name": "Mekar Sari Jaya"
+    },
+    {
+      "code": 1812072004,
+      "name": "Pagar Jaya"
+    },
+    {
+      "code": 1812072005,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 1812072006,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1812072007,
+      "name": "Kibang Yekti Jaya"
+    },
+    {
+      "code": 1812072008,
+      "name": "Kibang Tri Jaya"
+    },
+    {
+      "code": 1812072009,
+      "name": "Gilang Tunggal Makarta"
+    },
+    {
+      "code": 1812072010,
+      "name": "Kibang Mulya Jaya"
+    }
+  ]
+}

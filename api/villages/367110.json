@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3671101001,
+      "name": "Neglasari"
+    },
+    {
+      "code": 3671101002,
+      "name": "Karang Sari"
+    },
+    {
+      "code": 3671101003,
+      "name": "Selapajang Jaya"
+    },
+    {
+      "code": 3671101004,
+      "name": "Kedaung Wetan"
+    },
+    {
+      "code": 3671101005,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 3671101006,
+      "name": "Karang Anyar"
+    },
+    {
+      "code": 3671101007,
+      "name": "Kedaung Baru"
+    }
+  ]
+}

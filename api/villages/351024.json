@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3510242001,
+      "name": "Gumuk"
+    },
+    {
+      "code": 3510242002,
+      "name": "Jelun"
+    },
+    {
+      "code": 3510242003,
+      "name": "Licin"
+    },
+    {
+      "code": 3510242004,
+      "name": "Banjar"
+    },
+    {
+      "code": 3510242005,
+      "name": "Segobang"
+    },
+    {
+      "code": 3510242006,
+      "name": "Pakel"
+    },
+    {
+      "code": 3510242007,
+      "name": "Kluncing"
+    },
+    {
+      "code": 3510242008,
+      "name": "Tamansari"
+    }
+  ]
+}

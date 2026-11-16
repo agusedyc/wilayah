@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9507192001,
+      "name": "Yiwili"
+    },
+    {
+      "code": 9507192002,
+      "name": "Golo"
+    },
+    {
+      "code": 9507192003,
+      "name": "Golomi"
+    },
+    {
+      "code": 9507192004,
+      "name": "Yugumobur"
+    },
+    {
+      "code": 9507192005,
+      "name": "Milidi"
+    },
+    {
+      "code": 9507192006,
+      "name": "Uniwani"
+    },
+    {
+      "code": 9507192007,
+      "name": "Wiringgambut"
+    },
+    {
+      "code": 9507192008,
+      "name": "Wuluwebur"
+    },
+    {
+      "code": 9507192009,
+      "name": "Kiludo"
+    },
+    {
+      "code": 9507192010,
+      "name": "Giruwi"
+    }
+  ]
+}

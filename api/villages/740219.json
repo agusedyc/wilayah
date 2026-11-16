@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7402191009,
+      "name": "Puuduria"
+    },
+    {
+      "code": 7402192004,
+      "name": "Duriaasi"
+    },
+    {
+      "code": 7402192006,
+      "name": "Lalousu"
+    },
+    {
+      "code": 7402192008,
+      "name": "Wawoone"
+    },
+    {
+      "code": 7402192010,
+      "name": "Wawosolo"
+    },
+    {
+      "code": 7402192012,
+      "name": "Wawonggole"
+    },
+    {
+      "code": 7402192015,
+      "name": "Tetemotaha"
+    },
+    {
+      "code": 7402192016,
+      "name": "Dawi-dawi"
+    },
+    {
+      "code": 7402192017,
+      "name": "Bendewuta"
+    },
+    {
+      "code": 7402192018,
+      "name": "Langgonawe"
+    },
+    {
+      "code": 7402192019,
+      "name": "Lalohao"
+    },
+    {
+      "code": 7402192020,
+      "name": "Wukusao"
+    },
+    {
+      "code": 7402192026,
+      "name": "Tawarolondo"
+    },
+    {
+      "code": 7402192027,
+      "name": "Polandangi"
+    },
+    {
+      "code": 7402192028,
+      "name": "Anggoro"
+    },
+    {
+      "code": 7402192029,
+      "name": "Tetewonua"
+    }
+  ]
+}

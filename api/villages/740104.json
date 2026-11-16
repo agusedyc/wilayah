@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7401041001,
+      "name": "Lamokato"
+    },
+    {
+      "code": 7401041002,
+      "name": "Watuliandu"
+    },
+    {
+      "code": 7401041003,
+      "name": "Balandete"
+    },
+    {
+      "code": 7401041004,
+      "name": "Lalombaa"
+    },
+    {
+      "code": 7401041005,
+      "name": "Sabilambo"
+    },
+    {
+      "code": 7401041006,
+      "name": "Laloeha"
+    },
+    {
+      "code": 7401041007,
+      "name": "Tahoa"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 3578311001,
+      "name": "Sambikerep"
+    },
+    {
+      "code": 3578311002,
+      "name": "Made"
+    },
+    {
+      "code": 3578311003,
+      "name": "Beringin"
+    },
+    {
+      "code": 3578311004,
+      "name": "Lontar"
+    }
+  ]
+}

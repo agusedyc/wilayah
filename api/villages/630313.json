@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6303132001,
+      "name": "Pindahan Baru"
+    },
+    {
+      "code": 6303132002,
+      "name": "Handil Purai"
+    },
+    {
+      "code": 6303132003,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 6303132004,
+      "name": "Lawahan"
+    },
+    {
+      "code": 6303132005,
+      "name": "Babirik"
+    },
+    {
+      "code": 6303132006,
+      "name": "Jambu Burung"
+    },
+    {
+      "code": 6303132007,
+      "name": "Tambak Padi"
+    },
+    {
+      "code": 6303132008,
+      "name": "Haur Kuning"
+    },
+    {
+      "code": 6303132009,
+      "name": "Jambu Raya"
+    },
+    {
+      "code": 6303132010,
+      "name": "Rumpiang"
+    },
+    {
+      "code": 6303132011,
+      "name": "Salat Makmur"
+    },
+    {
+      "code": 6303132012,
+      "name": "Muara Halayung"
+    }
+  ]
+}

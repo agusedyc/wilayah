@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6101102001,
+      "name": "Balai Gemuruh"
+    },
+    {
+      "code": 6101102002,
+      "name": "Sungai Sapa'"
+    },
+    {
+      "code": 6101102003,
+      "name": "Madak"
+    },
+    {
+      "code": 6101102004,
+      "name": "Sabung"
+    },
+    {
+      "code": 6101102005,
+      "name": "Tebuah Elok"
+    },
+    {
+      "code": 6101102006,
+      "name": "Sungai Deden"
+    },
+    {
+      "code": 6101102007,
+      "name": "Bukit Mulya"
+    },
+    {
+      "code": 6101102008,
+      "name": "Mukti Raharja"
+    },
+    {
+      "code": 6101102009,
+      "name": "Sempurna"
+    },
+    {
+      "code": 6101102010,
+      "name": "Mensade"
+    },
+    {
+      "code": 6101102011,
+      "name": "Karaban Jaya"
+    },
+    {
+      "code": 6101102012,
+      "name": "Arga Pura"
+    },
+    {
+      "code": 6101102013,
+      "name": "Sapak Hulu Trans"
+    }
+  ]
+}

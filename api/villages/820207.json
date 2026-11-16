@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8202072001,
+      "name": "Lililef Waibulan"
+    },
+    {
+      "code": 8202072002,
+      "name": "Lililef Sawai"
+    },
+    {
+      "code": 8202072003,
+      "name": "Sawai Itepo"
+    },
+    {
+      "code": 8202072004,
+      "name": "Kobe"
+    },
+    {
+      "code": 8202072005,
+      "name": "Woekob"
+    },
+    {
+      "code": 8202072006,
+      "name": "Woejerana"
+    },
+    {
+      "code": 8202072007,
+      "name": "Kulo Jaya"
+    }
+  ]
+}

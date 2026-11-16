@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1208312001,
+      "name": "Ujung Saribu"
+    },
+    {
+      "code": 1208312002,
+      "name": "Silimakuta Barat"
+    },
+    {
+      "code": 1208312003,
+      "name": "Siboras"
+    },
+    {
+      "code": 1208312004,
+      "name": "Mardingding"
+    },
+    {
+      "code": 1208312005,
+      "name": "Naga Saribu"
+    },
+    {
+      "code": 1208312007,
+      "name": "Saribu Jandi"
+    },
+    {
+      "code": 1208312008,
+      "name": "Sinar Naga Mariah"
+    },
+    {
+      "code": 1208312009,
+      "name": "Ujung Mariah"
+    },
+    {
+      "code": 1208312010,
+      "name": "Bandar Saribu"
+    },
+    {
+      "code": 1208312011,
+      "name": "Naga Bosar"
+    }
+  ]
+}

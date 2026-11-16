@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3374141001,
+      "name": "Cangkiran"
+    },
+    {
+      "code": 3374141002,
+      "name": "Bubakan"
+    },
+    {
+      "code": 3374141003,
+      "name": "Karangmalang"
+    },
+    {
+      "code": 3374141004,
+      "name": "Polaman"
+    },
+    {
+      "code": 3374141005,
+      "name": "Purwosari"
+    },
+    {
+      "code": 3374141006,
+      "name": "Tambangan"
+    },
+    {
+      "code": 3374141007,
+      "name": "Wonolopo"
+    },
+    {
+      "code": 3374141008,
+      "name": "Mijen"
+    },
+    {
+      "code": 3374141009,
+      "name": "Jatibarang"
+    },
+    {
+      "code": 3374141010,
+      "name": "Kedungpane"
+    },
+    {
+      "code": 3374141011,
+      "name": "Ngadirgo"
+    },
+    {
+      "code": 3374141012,
+      "name": "Wonoplumbon"
+    },
+    {
+      "code": 3374141013,
+      "name": "Jatisari"
+    },
+    {
+      "code": 3374141014,
+      "name": "Pesantren"
+    }
+  ]
+}

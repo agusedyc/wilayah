@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216071001,
+      "name": "Wanasari"
+    },
+    {
+      "code": 3216072002,
+      "name": "Wanajaya"
+    },
+    {
+      "code": 3216072003,
+      "name": "Kertamukti"
+    },
+    {
+      "code": 3216072004,
+      "name": "Muktiwari"
+    },
+    {
+      "code": 3216072005,
+      "name": "Sarimukti"
+    },
+    {
+      "code": 3216072006,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3216072007,
+      "name": "Cibuntu"
+    }
+  ]
+}

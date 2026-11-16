@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9503472001,
+      "name": "Hilipuk"
+    },
+    {
+      "code": 9503472002,
+      "name": "Homidipmu"
+    },
+    {
+      "code": 9503472003,
+      "name": "Kini"
+    },
+    {
+      "code": 9503472004,
+      "name": "Yaruhuk"
+    },
+    {
+      "code": 9503472005,
+      "name": "Jamin"
+    },
+    {
+      "code": 9503472006,
+      "name": "Dindok"
+    },
+    {
+      "code": 9503472007,
+      "name": "Sohondipmu"
+    }
+  ]
+}

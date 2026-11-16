@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9301062001,
+      "name": "Yasa Mulya"
+    },
+    {
+      "code": 9301062002,
+      "name": "Sumber Harapan"
+    },
+    {
+      "code": 9301062003,
+      "name": "Waninggap Say"
+    },
+    {
+      "code": 9301062004,
+      "name": "Amun Kay"
+    },
+    {
+      "code": 9301062005,
+      "name": "Hidup Baru"
+    },
+    {
+      "code": 9301062006,
+      "name": "Sarmayam Indah"
+    },
+    {
+      "code": 9301062007,
+      "name": "Ngguti Bob"
+    },
+    {
+      "code": 9301062008,
+      "name": "Waninggap Miraf"
+    },
+    {
+      "code": 9301062009,
+      "name": "Isano Mbias"
+    },
+    {
+      "code": 9301062010,
+      "name": "Yaba Maru"
+    },
+    {
+      "code": 9301062011,
+      "name": "Soa"
+    },
+    {
+      "code": 9301062012,
+      "name": "Tambat"
+    },
+    {
+      "code": 9301062013,
+      "name": "Bersehati"
+    },
+    {
+      "code": 9301062014,
+      "name": "Kamangi"
+    }
+  ]
+}

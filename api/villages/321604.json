@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216042001,
+      "name": "Sukawijaya"
+    },
+    {
+      "code": 3216042002,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3216042003,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3216042004,
+      "name": "Sukarapih"
+    },
+    {
+      "code": 3216042005,
+      "name": "Sukarahayu"
+    },
+    {
+      "code": 3216042006,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3216042007,
+      "name": "Sukabakti"
+    }
+  ]
+}

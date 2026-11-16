@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3326012001,
+      "name": "Klesem"
+    },
+    {
+      "code": 3326012002,
+      "name": "Bodas"
+    },
+    {
+      "code": 3326012003,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3326012004,
+      "name": "Gembong"
+    },
+    {
+      "code": 3326012005,
+      "name": "Garungwiyoro"
+    },
+    {
+      "code": 3326012006,
+      "name": "Bojongkoneng"
+    },
+    {
+      "code": 3326012007,
+      "name": "Bubak"
+    },
+    {
+      "code": 3326012008,
+      "name": "Wangkelang"
+    },
+    {
+      "code": 3326012009,
+      "name": "Kandangserang"
+    },
+    {
+      "code": 3326012010,
+      "name": "Luragung"
+    },
+    {
+      "code": 3326012011,
+      "name": "Lambur"
+    },
+    {
+      "code": 3326012012,
+      "name": "Tajur"
+    },
+    {
+      "code": 3326012013,
+      "name": "Trajumas"
+    },
+    {
+      "code": 3326012014,
+      "name": "Karanggondang"
+    }
+  ]
+}

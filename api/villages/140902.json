@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1409021016,
+      "name": "Pasar Teluk"
+    },
+    {
+      "code": 1409021018,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1409021025,
+      "name": "Sungaijering"
+    },
+    {
+      "code": 1409022001,
+      "name": "Bandar Alai"
+    },
+    {
+      "code": 1409022002,
+      "name": "Pulaukedundung"
+    },
+    {
+      "code": 1409022003,
+      "name": "Pulauaro"
+    },
+    {
+      "code": 1409022004,
+      "name": "Seberang Taluk"
+    },
+    {
+      "code": 1409022005,
+      "name": "Pulau Baru"
+    },
+    {
+      "code": 1409022006,
+      "name": "Koto Tuo"
+    },
+    {
+      "code": 1409022007,
+      "name": "Kopah"
+    },
+    {
+      "code": 1409022008,
+      "name": "Munsalo"
+    },
+    {
+      "code": 1409022014,
+      "name": "Sawah"
+    },
+    {
+      "code": 1409022015,
+      "name": "Koto Taluk"
+    },
+    {
+      "code": 1409022017,
+      "name": "Koto Kari"
+    },
+    {
+      "code": 1409022019,
+      "name": "Pintu Gobang"
+    },
+    {
+      "code": 1409022020,
+      "name": "Jake"
+    },
+    {
+      "code": 1409022021,
+      "name": "Pulau Godang Kari"
+    },
+    {
+      "code": 1409022022,
+      "name": "Jaya"
+    },
+    {
+      "code": 1409022023,
+      "name": "Beringin Taluk"
+    },
+    {
+      "code": 1409022024,
+      "name": "Sitorajo"
+    },
+    {
+      "code": 1409022026,
+      "name": "Seberang Taluk Hilir"
+    },
+    {
+      "code": 1409022027,
+      "name": "Titian Modang Kopah"
+    },
+    {
+      "code": 1409022028,
+      "name": "Pulaubanjar Kari"
+    }
+  ]
+}

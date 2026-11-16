@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1803062005,
+      "name": "Tanjung Harta"
+    },
+    {
+      "code": 1803062006,
+      "name": "Ogan Lima"
+    },
+    {
+      "code": 1803062007,
+      "name": "Hujan Mas"
+    },
+    {
+      "code": 1803062008,
+      "name": "Simpang Agung"
+    },
+    {
+      "code": 1803062009,
+      "name": "Bumi Nabung"
+    },
+    {
+      "code": 1803062010,
+      "name": "Kamplas"
+    },
+    {
+      "code": 1803062011,
+      "name": "Kistang"
+    },
+    {
+      "code": 1803062012,
+      "name": "Cahaya Negeri"
+    },
+    {
+      "code": 1803062013,
+      "name": "Lepang Besar"
+    },
+    {
+      "code": 1803062016,
+      "name": "Pengaringan"
+    },
+    {
+      "code": 1803062017,
+      "name": "Gunung Betuah"
+    },
+    {
+      "code": 1803062021,
+      "name": "Way Wakak"
+    },
+    {
+      "code": 1803062023,
+      "name": "Pematang Kasih"
+    },
+    {
+      "code": 1803062024,
+      "name": "Bumi Mandiri"
+    }
+  ]
+}

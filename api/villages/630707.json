@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 6307071001,
+      "name": "Birayang"
+    },
+    {
+      "code": 6307072002,
+      "name": "Kias"
+    },
+    {
+      "code": 6307072003,
+      "name": "Kapar"
+    },
+    {
+      "code": 6307072004,
+      "name": "Tembok Bahalang"
+    },
+    {
+      "code": 6307072005,
+      "name": "Limbar"
+    },
+    {
+      "code": 6307072006,
+      "name": "Lok Basar"
+    },
+    {
+      "code": 6307072007,
+      "name": "Paya"
+    },
+    {
+      "code": 6307072008,
+      "name": "Cukan Lipai"
+    },
+    {
+      "code": 6307072009,
+      "name": "Birayang Surapati"
+    },
+    {
+      "code": 6307072010,
+      "name": "Mahela"
+    },
+    {
+      "code": 6307072011,
+      "name": "Rangas"
+    },
+    {
+      "code": 6307072012,
+      "name": "Wawai Gardu"
+    },
+    {
+      "code": 6307072013,
+      "name": "Labuhan"
+    },
+    {
+      "code": 6307072014,
+      "name": "Birayang Timur"
+    },
+    {
+      "code": 6307072015,
+      "name": "Tanah Habang"
+    },
+    {
+      "code": 6307072016,
+      "name": "Banua Rantau"
+    },
+    {
+      "code": 6307072017,
+      "name": "Anduhum"
+    },
+    {
+      "code": 6307072018,
+      "name": "Wawai"
+    },
+    {
+      "code": 6307072019,
+      "name": "Lunjuk"
+    }
+  ]
+}

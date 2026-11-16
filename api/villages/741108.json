@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7411081006,
+      "name": "Sanggona"
+    },
+    {
+      "code": 7411082003,
+      "name": "Pehanggo"
+    },
+    {
+      "code": 7411082004,
+      "name": "Tondowatu"
+    },
+    {
+      "code": 7411082005,
+      "name": "Tawanga"
+    },
+    {
+      "code": 7411082007,
+      "name": "Uete"
+    },
+    {
+      "code": 7411082008,
+      "name": "Undolo"
+    },
+    {
+      "code": 7411082010,
+      "name": "Lalombai"
+    },
+    {
+      "code": 7411082014,
+      "name": "Amokuni"
+    },
+    {
+      "code": 7411082018,
+      "name": "Amololu"
+    },
+    {
+      "code": 7411082019,
+      "name": "Aukora"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7406011007,
+      "name": "Boeara"
+    },
+    {
+      "code": 7406011008,
+      "name": "Kastarib"
+    },
+    {
+      "code": 7406011010,
+      "name": "Boepinang"
+    },
+    {
+      "code": 7406011015,
+      "name": "Boepinang Barat"
+    },
+    {
+      "code": 7406011016,
+      "name": "Barangga"
+    },
+    {
+      "code": 7406011017,
+      "name": "Kasabolo"
+    },
+    {
+      "code": 7406012009,
+      "name": "Pokurumba"
+    },
+    {
+      "code": 7406012011,
+      "name": "Pallimae"
+    },
+    {
+      "code": 7406012018,
+      "name": "Salosa"
+    },
+    {
+      "code": 7406012019,
+      "name": "Mattiro Walie"
+    }
+  ]
+}

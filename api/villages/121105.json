@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1211051014,
+      "name": "Parongil"
+    },
+    {
+      "code": 1211052008,
+      "name": "Palipi"
+    },
+    {
+      "code": 1211052010,
+      "name": "Longkotan"
+    },
+    {
+      "code": 1211052011,
+      "name": "Bongkaras"
+    },
+    {
+      "code": 1211052012,
+      "name": "Tungtung Batu"
+    },
+    {
+      "code": 1211052013,
+      "name": "Polling Anak-Anak"
+    },
+    {
+      "code": 1211052015,
+      "name": "Siratah"
+    },
+    {
+      "code": 1211052016,
+      "name": "Uruk Mblin"
+    },
+    {
+      "code": 1211052017,
+      "name": "Siboras"
+    },
+    {
+      "code": 1211052018,
+      "name": "Bonian"
+    },
+    {
+      "code": 1211052019,
+      "name": "Sumbari"
+    },
+    {
+      "code": 1211052020,
+      "name": "Bakal Gajah"
+    },
+    {
+      "code": 1211052021,
+      "name": "Lae Panginuman"
+    },
+    {
+      "code": 1211052022,
+      "name": "Lae Ambat"
+    },
+    {
+      "code": 1211052023,
+      "name": "Lae Rambong"
+    },
+    {
+      "code": 1211052024,
+      "name": "Lae Pangaroan"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5302272001,
+      "name": "Tetaf"
+    },
+    {
+      "code": 5302272002,
+      "name": "Naukae"
+    },
+    {
+      "code": 5302272003,
+      "name": "Supul"
+    },
+    {
+      "code": 5302272004,
+      "name": "Lakat"
+    },
+    {
+      "code": 5302272005,
+      "name": "Enoneontes"
+    },
+    {
+      "code": 5302272006,
+      "name": "O'of"
+    },
+    {
+      "code": 5302272007,
+      "name": "Tubmonas"
+    },
+    {
+      "code": 5302272008,
+      "name": "Oe Oe"
+    }
+  ]
+}

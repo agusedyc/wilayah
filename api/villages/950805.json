@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9508052001,
+      "name": "Geselma"
+    },
+    {
+      "code": 9508052002,
+      "name": "Talem"
+    },
+    {
+      "code": 9508052003,
+      "name": "Kosolpem"
+    }
+  ]
+}

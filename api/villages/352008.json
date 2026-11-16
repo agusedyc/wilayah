@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3520081009,
+      "name": "Panekan"
+    },
+    {
+      "code": 3520082004,
+      "name": "Terung"
+    },
+    {
+      "code": 3520082005,
+      "name": "Cepoko"
+    },
+    {
+      "code": 3520082006,
+      "name": "Milangasri"
+    },
+    {
+      "code": 3520082007,
+      "name": "Wates"
+    },
+    {
+      "code": 3520082008,
+      "name": "Sidowayah"
+    },
+    {
+      "code": 3520082010,
+      "name": "Tanjungsari"
+    },
+    {
+      "code": 3520082011,
+      "name": "Sumberdodol"
+    },
+    {
+      "code": 3520082012,
+      "name": "Manjung"
+    },
+    {
+      "code": 3520082013,
+      "name": "Tapak"
+    },
+    {
+      "code": 3520082014,
+      "name": "Sukowidi"
+    },
+    {
+      "code": 3520082015,
+      "name": "Bedagung"
+    },
+    {
+      "code": 3520082016,
+      "name": "Ngiliran"
+    },
+    {
+      "code": 3520082017,
+      "name": "Jabung"
+    },
+    {
+      "code": 3520082018,
+      "name": "Rejomulyo"
+    },
+    {
+      "code": 3520082019,
+      "name": "Turi"
+    },
+    {
+      "code": 3520082020,
+      "name": "Banjarejo"
+    }
+  ]
+}

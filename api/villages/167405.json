@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1674051001,
+      "name": "Pasar Prabumulih I"
+    },
+    {
+      "code": 1674051002,
+      "name": "Pasar Prabumulih II"
+    },
+    {
+      "code": 1674051003,
+      "name": "Wonosari"
+    },
+    {
+      "code": 1674051004,
+      "name": "Mangga Besar"
+    },
+    {
+      "code": 1674051005,
+      "name": "Anak Petai"
+    },
+    {
+      "code": 1674051006,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1674051007,
+      "name": "Sidogede"
+    }
+  ]
+}

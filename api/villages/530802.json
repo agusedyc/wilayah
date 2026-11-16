@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 5308022001,
+      "name": "Aejeti"
+    },
+    {
+      "code": 5308022002,
+      "name": "Puutara"
+    },
+    {
+      "code": 5308022003,
+      "name": "Paderape"
+    },
+    {
+      "code": 5308022004,
+      "name": "Ndoriwoi"
+    },
+    {
+      "code": 5308022005,
+      "name": "Rorurangga"
+    },
+    {
+      "code": 5308022006,
+      "name": "Rendoraterua"
+    },
+    {
+      "code": 5308022007,
+      "name": "Redorori"
+    },
+    {
+      "code": 5308022008,
+      "name": "Kazo Kapo"
+    },
+    {
+      "code": 5308022009,
+      "name": "Renga Menge"
+    }
+  ]
+}

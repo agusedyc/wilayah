@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6302061001,
+      "name": "Kotabaru Hulu"
+    },
+    {
+      "code": 6302062009,
+      "name": "Megasari"
+    },
+    {
+      "code": 6302062010,
+      "name": "Sebelimbingan"
+    },
+    {
+      "code": 6302062011,
+      "name": "Stagen"
+    },
+    {
+      "code": 6302062012,
+      "name": "Rampa"
+    },
+    {
+      "code": 6302062013,
+      "name": "Sungai Taib"
+    },
+    {
+      "code": 6302062014,
+      "name": "Semayap"
+    },
+    {
+      "code": 6302062015,
+      "name": "Dirgahayu"
+    },
+    {
+      "code": 6302062022,
+      "name": "Gunung Ulin"
+    },
+    {
+      "code": 6302062025,
+      "name": "Gunung Sari"
+    }
+  ]
+}

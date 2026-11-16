@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1113042001,
+      "name": "Jabo"
+    },
+    {
+      "code": 1113042002,
+      "name": "Kutesange"
+    },
+    {
+      "code": 1113042003,
+      "name": "Padang"
+    },
+    {
+      "code": 1113042006,
+      "name": "Rumpi"
+    },
+    {
+      "code": 1113042007,
+      "name": "Bukut"
+    },
+    {
+      "code": 1113042008,
+      "name": "Terangun"
+    },
+    {
+      "code": 1113042010,
+      "name": "Rempelam Pinang"
+    },
+    {
+      "code": 1113042011,
+      "name": "Soyo"
+    },
+    {
+      "code": 1113042012,
+      "name": "Terlis"
+    },
+    {
+      "code": 1113042013,
+      "name": "Kutereje"
+    },
+    {
+      "code": 1113042014,
+      "name": "Persada Tongra"
+    },
+    {
+      "code": 1113042015,
+      "name": "Berhut"
+    },
+    {
+      "code": 1113042016,
+      "name": "Gewat"
+    },
+    {
+      "code": 1113042017,
+      "name": "Pantan Lues"
+    },
+    {
+      "code": 1113042018,
+      "name": "Makmur Jaya"
+    },
+    {
+      "code": 1113042020,
+      "name": "Blang Kuncir"
+    },
+    {
+      "code": 1113042023,
+      "name": "Reje Pudung"
+    },
+    {
+      "code": 1113042024,
+      "name": "Garut"
+    },
+    {
+      "code": 1113042025,
+      "name": "Telege Jernih"
+    },
+    {
+      "code": 1113042026,
+      "name": "Rime Raya"
+    },
+    {
+      "code": 1113042027,
+      "name": "Lestari"
+    },
+    {
+      "code": 1113042028,
+      "name": "Gawar Belangi"
+    },
+    {
+      "code": 1113042029,
+      "name": "Blang Kala"
+    }
+  ]
+}

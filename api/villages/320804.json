@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3208042001,
+      "name": "Sumberjaya"
+    },
+    {
+      "code": 3208042002,
+      "name": "Cilayung"
+    },
+    {
+      "code": 3208042003,
+      "name": "Ciwaru"
+    },
+    {
+      "code": 3208042004,
+      "name": "Garajati"
+    },
+    {
+      "code": 3208042005,
+      "name": "Baok"
+    },
+    {
+      "code": 3208042006,
+      "name": "Andamui"
+    },
+    {
+      "code": 3208042007,
+      "name": "Sagaranten"
+    },
+    {
+      "code": 3208042008,
+      "name": "Citundun"
+    },
+    {
+      "code": 3208042009,
+      "name": "Lebakherang"
+    },
+    {
+      "code": 3208042010,
+      "name": "Karangbaru"
+    },
+    {
+      "code": 3208042011,
+      "name": "Linggajaya"
+    },
+    {
+      "code": 3208042012,
+      "name": "Citikur"
+    }
+  ]
+}

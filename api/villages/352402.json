@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3524022001,
+      "name": "Talunrejo"
+    },
+    {
+      "code": 3524022002,
+      "name": "Banjargondang"
+    },
+    {
+      "code": 3524022003,
+      "name": "Bluluk"
+    },
+    {
+      "code": 3524022004,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3524022005,
+      "name": "Bronjong"
+    },
+    {
+      "code": 3524022006,
+      "name": "Songowareng"
+    },
+    {
+      "code": 3524022007,
+      "name": "Kuwurejo"
+    },
+    {
+      "code": 3524022008,
+      "name": "Sumberbanjar"
+    },
+    {
+      "code": 3524022009,
+      "name": "Primpen"
+    }
+  ]
+}

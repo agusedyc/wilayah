@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6306051001,
+      "name": "Kandangan Kota"
+    },
+    {
+      "code": 6306051002,
+      "name": "Kandangan Utara"
+    },
+    {
+      "code": 6306051003,
+      "name": "Kandangan Barat"
+    },
+    {
+      "code": 6306051004,
+      "name": "Jambu Hilir"
+    },
+    {
+      "code": 6306052005,
+      "name": "Gambah Luar"
+    },
+    {
+      "code": 6306052006,
+      "name": "Gambah Luar Muka"
+    },
+    {
+      "code": 6306052007,
+      "name": "Gambah Dalam"
+    },
+    {
+      "code": 6306052008,
+      "name": "Gambah Dalam Barat"
+    },
+    {
+      "code": 6306052009,
+      "name": "Sungai Kupang"
+    },
+    {
+      "code": 6306052010,
+      "name": "Bangkau"
+    },
+    {
+      "code": 6306052011,
+      "name": "Lungau"
+    },
+    {
+      "code": 6306052012,
+      "name": "Sungai Paring"
+    },
+    {
+      "code": 6306052013,
+      "name": "Bariang"
+    },
+    {
+      "code": 6306052014,
+      "name": "Amawang Kiri"
+    },
+    {
+      "code": 6306052015,
+      "name": "Amawang Kiri Muka"
+    },
+    {
+      "code": 6306052016,
+      "name": "Amawang Kanan"
+    },
+    {
+      "code": 6306052017,
+      "name": "Tibung Raya"
+    },
+    {
+      "code": 6306052018,
+      "name": "Baluti"
+    }
+  ]
+}

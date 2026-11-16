@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6101152001,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 6101152002,
+      "name": "Tebing Batu"
+    },
+    {
+      "code": 6101152003,
+      "name": "Sebawi"
+    },
+    {
+      "code": 6101152004,
+      "name": "Sepuk Tanjung"
+    },
+    {
+      "code": 6101152005,
+      "name": "Sebangun"
+    },
+    {
+      "code": 6101152006,
+      "name": "Sempalai Sebedang"
+    },
+    {
+      "code": 6101152007,
+      "name": "Tempatan"
+    }
+  ]
+}

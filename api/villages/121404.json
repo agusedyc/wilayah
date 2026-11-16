@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1214042001,
+      "name": "Duru"
+    },
+    {
+      "code": 1214042002,
+      "name": "Tuwaso"
+    },
+    {
+      "code": 1214042003,
+      "name": "Hilioromao"
+    },
+    {
+      "code": 1214042004,
+      "name": "Eho"
+    },
+    {
+      "code": 1214042005,
+      "name": "Sialema"
+    },
+    {
+      "code": 1214042006,
+      "name": "Bowonifaoso"
+    },
+    {
+      "code": 1214042007,
+      "name": "Hilianombasela"
+    },
+    {
+      "code": 1214042008,
+      "name": "Lumbui Melayu"
+    },
+    {
+      "code": 1214042009,
+      "name": "Hiliorodua Tebolo"
+    },
+    {
+      "code": 1214042010,
+      "name": "Tebolo Melayu"
+    },
+    {
+      "code": 1214042021,
+      "name": "Lumbui Nias"
+    },
+    {
+      "code": 1214042022,
+      "name": "Baruyu Sibohou"
+    },
+    {
+      "code": 1214042023,
+      "name": "Sepakat"
+    },
+    {
+      "code": 1214042024,
+      "name": "Tano Mokinu"
+    },
+    {
+      "code": 1214042025,
+      "name": "Hilikana"
+    },
+    {
+      "code": 1214042026,
+      "name": "Hilinifaese"
+    },
+    {
+      "code": 1214042027,
+      "name": "Omega"
+    }
+  ]
+}

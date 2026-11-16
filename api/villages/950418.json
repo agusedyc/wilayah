@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9504182001,
+      "name": "Tinggom"
+    },
+    {
+      "code": 9504182002,
+      "name": "Egoni"
+    },
+    {
+      "code": 9504182003,
+      "name": "Martelo"
+    },
+    {
+      "code": 9504182004,
+      "name": "Lerewere"
+    },
+    {
+      "code": 9504182005,
+      "name": "Yakep"
+    },
+    {
+      "code": 9504182006,
+      "name": "Welesi"
+    },
+    {
+      "code": 9504182007,
+      "name": "Orelukban"
+    },
+    {
+      "code": 9504182008,
+      "name": "Baguni"
+    },
+    {
+      "code": 9504182009,
+      "name": "Kulutin"
+    },
+    {
+      "code": 9504182010,
+      "name": "Yamulo"
+    }
+  ]
+}

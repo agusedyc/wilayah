@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3276081001,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3276081002,
+      "name": "Cilodong"
+    },
+    {
+      "code": 3276081003,
+      "name": "Kalibaru"
+    },
+    {
+      "code": 3276081004,
+      "name": "Kalimulya"
+    },
+    {
+      "code": 3276081005,
+      "name": "Jatimulya"
+    }
+  ]
+}

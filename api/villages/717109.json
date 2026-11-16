@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7171091001,
+      "name": "Malalayang Satu"
+    },
+    {
+      "code": 7171091002,
+      "name": "Bahu"
+    },
+    {
+      "code": 7171091003,
+      "name": "Kleak"
+    },
+    {
+      "code": 7171091004,
+      "name": "Batu Kota"
+    },
+    {
+      "code": 7171091005,
+      "name": "Malalayang Satu Timur"
+    },
+    {
+      "code": 7171091006,
+      "name": "Malalayang Satu Barat"
+    },
+    {
+      "code": 7171091007,
+      "name": "Malalayang Dua"
+    },
+    {
+      "code": 7171091008,
+      "name": "Winangun Satu"
+    },
+    {
+      "code": 7171091009,
+      "name": "Winangun Dua"
+    }
+  ]
+}

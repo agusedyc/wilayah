@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3601082001,
+      "name": "Pasanggrahan"
+    },
+    {
+      "code": 3601082002,
+      "name": "Sukasaba"
+    },
+    {
+      "code": 3601082005,
+      "name": "Gunungbatu"
+    },
+    {
+      "code": 3601082006,
+      "name": "Panacaran"
+    },
+    {
+      "code": 3601082007,
+      "name": "Curuglanglang"
+    },
+    {
+      "code": 3601082008,
+      "name": "Munjul"
+    },
+    {
+      "code": 3601082009,
+      "name": "Cibitung"
+    },
+    {
+      "code": 3601082011,
+      "name": "Kotadukuh"
+    },
+    {
+      "code": 3601082018,
+      "name": "Lebak"
+    }
+  ]
+}

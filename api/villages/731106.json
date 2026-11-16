@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7311061007,
+      "name": "Mattappawalie"
+    },
+    {
+      "code": 7311062001,
+      "name": "Pujananting"
+    },
+    {
+      "code": 7311062002,
+      "name": "Gattareng"
+    },
+    {
+      "code": 7311062003,
+      "name": "Pattappa"
+    },
+    {
+      "code": 7311062004,
+      "name": "Jangan Jangan"
+    },
+    {
+      "code": 7311062005,
+      "name": "Bulo Bulo"
+    },
+    {
+      "code": 7311062006,
+      "name": "Bacu Bacu"
+    }
+  ]
+}

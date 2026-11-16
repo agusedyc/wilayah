@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 6105022001,
+      "name": "Nanga Tempunak"
+    },
+    {
+      "code": 6105022002,
+      "name": "Mensiap Baru"
+    },
+    {
+      "code": 6105022003,
+      "name": "Tanjung Perada"
+    },
+    {
+      "code": 6105022004,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 6105022005,
+      "name": "Mangkurat Baru"
+    },
+    {
+      "code": 6105022006,
+      "name": "Paribang Baru"
+    },
+    {
+      "code": 6105022007,
+      "name": "Repak Sari"
+    },
+    {
+      "code": 6105022008,
+      "name": "Pagal Baru"
+    },
+    {
+      "code": 6105022009,
+      "name": "Kenyabur Baru"
+    },
+    {
+      "code": 6105022010,
+      "name": "Benua Baru"
+    },
+    {
+      "code": 6105022011,
+      "name": "Tinum Baru"
+    },
+    {
+      "code": 6105022012,
+      "name": "Pangkal Baru"
+    },
+    {
+      "code": 6105022013,
+      "name": "Pulau Jaya"
+    },
+    {
+      "code": 6105022014,
+      "name": "Kuala Tiga"
+    },
+    {
+      "code": 6105022015,
+      "name": "Gurung Mali"
+    },
+    {
+      "code": 6105022016,
+      "name": "Merti Jaya"
+    },
+    {
+      "code": 6105022017,
+      "name": "Benua Kencana"
+    },
+    {
+      "code": 6105022018,
+      "name": "Balai Harapan"
+    },
+    {
+      "code": 6105022019,
+      "name": "Tempunak Kapuas"
+    },
+    {
+      "code": 6105022020,
+      "name": "Riam Batu"
+    },
+    {
+      "code": 6105022021,
+      "name": "Pudau Bersatu"
+    },
+    {
+      "code": 6105022022,
+      "name": "Kupan Jaya"
+    },
+    {
+      "code": 6105022023,
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": 6105022024,
+      "name": "Jaya Mentari"
+    },
+    {
+      "code": 6105022025,
+      "name": "Pekulai Bersatu"
+    },
+    {
+      "code": 6105022026,
+      "name": "Mensiap Jaya"
+    }
+  ]
+}

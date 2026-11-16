@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1604282001,
+      "name": "Muara Payang"
+    },
+    {
+      "code": 1604282002,
+      "name": "Muara Gelumpai"
+    },
+    {
+      "code": 1604282003,
+      "name": "Talang Tinggi"
+    },
+    {
+      "code": 1604282004,
+      "name": "Lawang Agung Lama"
+    },
+    {
+      "code": 1604282005,
+      "name": "Lawang Agung Baru"
+    },
+    {
+      "code": 1604282006,
+      "name": "Muara Jauh"
+    },
+    {
+      "code": 1604282007,
+      "name": "Bandu Agung"
+    }
+  ]
+}

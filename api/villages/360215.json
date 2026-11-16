@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3602152001,
+      "name": "Sukarendah"
+    },
+    {
+      "code": 3602152002,
+      "name": "Warunggunung"
+    },
+    {
+      "code": 3602152003,
+      "name": "Cibuah"
+    },
+    {
+      "code": 3602152004,
+      "name": "Pasir Tangkil"
+    },
+    {
+      "code": 3602152005,
+      "name": "Baros"
+    },
+    {
+      "code": 3602152006,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3602152007,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3602152008,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3602152009,
+      "name": "Jagabaya"
+    },
+    {
+      "code": 3602152010,
+      "name": "Selaraja"
+    },
+    {
+      "code": 3602152011,
+      "name": "Cempaka"
+    },
+    {
+      "code": 3602152012,
+      "name": "Sindangsari"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1171072001,
+      "name": "Geuceu Komplek"
+    },
+    {
+      "code": 1171072002,
+      "name": "Lamlagang"
+    },
+    {
+      "code": 1171072003,
+      "name": "Geuceu Iniem"
+    },
+    {
+      "code": 1171072004,
+      "name": "Geuceu Kayee Jato"
+    },
+    {
+      "code": 1171072005,
+      "name": "Lam Ara"
+    },
+    {
+      "code": 1171072006,
+      "name": "Lhong Raya"
+    },
+    {
+      "code": 1171072007,
+      "name": "Mibo"
+    },
+    {
+      "code": 1171072008,
+      "name": "Peunyerat"
+    },
+    {
+      "code": 1171072009,
+      "name": "Lhong Cut"
+    },
+    {
+      "code": 1171072010,
+      "name": "Lampeuot"
+    }
+  ]
+}

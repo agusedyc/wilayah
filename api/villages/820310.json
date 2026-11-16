@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8203102001,
+      "name": "Gorua"
+    },
+    {
+      "code": 8203102002,
+      "name": "Popilo"
+    },
+    {
+      "code": 8203102003,
+      "name": "Luari"
+    },
+    {
+      "code": 8203102004,
+      "name": "Popilo Utara"
+    },
+    {
+      "code": 8203102005,
+      "name": "Tolonuo"
+    },
+    {
+      "code": 8203102006,
+      "name": "Gorua Selatan"
+    },
+    {
+      "code": 8203102007,
+      "name": "Gorua Utara"
+    },
+    {
+      "code": 8203102008,
+      "name": "Kokota Jaya"
+    },
+    {
+      "code": 8203102009,
+      "name": "Ruko"
+    },
+    {
+      "code": 8203102010,
+      "name": "Tolonua Selatan"
+    }
+  ]
+}

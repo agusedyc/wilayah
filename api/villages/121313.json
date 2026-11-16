@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "message": "Showing 31 villages",
+  "data": [
+    {
+      "code": 1213131017,
+      "name": "Muara Soma"
+    },
+    {
+      "code": 1213132001,
+      "name": "Aek Guo"
+    },
+    {
+      "code": 1213132002,
+      "name": "Aek Holbung"
+    },
+    {
+      "code": 1213132003,
+      "name": "Aek Manggis"
+    },
+    {
+      "code": 1213132004,
+      "name": "Aek Nabara"
+    },
+    {
+      "code": 1213132005,
+      "name": "Aek Nangali"
+    },
+    {
+      "code": 1213132006,
+      "name": "Ampung Julu"
+    },
+    {
+      "code": 1213132007,
+      "name": "Ampung Padang"
+    },
+    {
+      "code": 1213132008,
+      "name": "Ampung Siala"
+    },
+    {
+      "code": 1213132009,
+      "name": "Bangkelang"
+    },
+    {
+      "code": 1213132010,
+      "name": "Banjar Malayu"
+    },
+    {
+      "code": 1213132011,
+      "name": "Batu Madinding"
+    },
+    {
+      "code": 1213132012,
+      "name": "Bulu Soma"
+    },
+    {
+      "code": 1213132013,
+      "name": "Guo Batu"
+    },
+    {
+      "code": 1213132014,
+      "name": "Hadangkahan"
+    },
+    {
+      "code": 1213132015,
+      "name": "Hatupangan"
+    },
+    {
+      "code": 1213132016,
+      "name": "Muara Parlampungan"
+    },
+    {
+      "code": 1213132018,
+      "name": "Rantobi"
+    },
+    {
+      "code": 1213132019,
+      "name": "Rao Rao"
+    },
+    {
+      "code": 1213132020,
+      "name": "Simanguntong"
+    },
+    {
+      "code": 1213132021,
+      "name": "Sipogu"
+    },
+    {
+      "code": 1213132022,
+      "name": "Sopo Tinjak"
+    },
+    {
+      "code": 1213132023,
+      "name": "Tarlola"
+    },
+    {
+      "code": 1213132024,
+      "name": "Tombang Kaluang"
+    },
+    {
+      "code": 1213132025,
+      "name": "Huta Lobu"
+    },
+    {
+      "code": 1213132026,
+      "name": "Lubuk Samboa"
+    },
+    {
+      "code": 1213132027,
+      "name": "Jambur Baru"
+    },
+    {
+      "code": 1213132028,
+      "name": "Aek Baru Jae"
+    },
+    {
+      "code": 1213132029,
+      "name": "Aek Baru Julu"
+    },
+    {
+      "code": 1213132030,
+      "name": "Lubuk Bondar Panjang"
+    },
+    {
+      "code": 1213132031,
+      "name": "Tor Naincat"
+    }
+  ]
+}

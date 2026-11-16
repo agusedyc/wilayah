@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5316062001,
+      "name": "Witurombaua"
+    },
+    {
+      "code": 5316062002,
+      "name": "Lewangera"
+    },
+    {
+      "code": 5316062003,
+      "name": "Wajo"
+    },
+    {
+      "code": 5316062004,
+      "name": "Kotowuji Timur"
+    },
+    {
+      "code": 5316062005,
+      "name": "Kotowuji Barat"
+    },
+    {
+      "code": 5316062006,
+      "name": "Mbaenuamuri"
+    },
+    {
+      "code": 5316062007,
+      "name": "Udiworowatu"
+    },
+    {
+      "code": 5316062008,
+      "name": "Kotodirumali"
+    },
+    {
+      "code": 5316062009,
+      "name": "Pautola"
+    },
+    {
+      "code": 5316062010,
+      "name": "Ladolima"
+    },
+    {
+      "code": 5316062011,
+      "name": "Keli"
+    },
+    {
+      "code": 5316062012,
+      "name": "Ngera"
+    },
+    {
+      "code": 5316062013,
+      "name": "Ladolima Timur"
+    },
+    {
+      "code": 5316062014,
+      "name": "Ladolima Utara"
+    },
+    {
+      "code": 5316062015,
+      "name": "Wajo Timur"
+    },
+    {
+      "code": 5316062016,
+      "name": "Paumali"
+    }
+  ]
+}

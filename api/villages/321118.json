@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3211181001,
+      "name": "Kota Kaler"
+    },
+    {
+      "code": 3211181002,
+      "name": "Situ"
+    },
+    {
+      "code": 3211181003,
+      "name": "Talun"
+    },
+    {
+      "code": 3211182004,
+      "name": "Padasuka"
+    },
+    {
+      "code": 3211182005,
+      "name": "Mulyasari"
+    },
+    {
+      "code": 3211182006,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3211182007,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3211182008,
+      "name": "Margamukti"
+    },
+    {
+      "code": 3211182009,
+      "name": "Sirnamulya"
+    },
+    {
+      "code": 3211182010,
+      "name": "Kebonjati"
+    },
+    {
+      "code": 3211182011,
+      "name": "Jatihurip"
+    },
+    {
+      "code": 3211182012,
+      "name": "Jatimulya"
+    },
+    {
+      "code": 3211182013,
+      "name": "Rancamulya"
+    }
+  ]
+}

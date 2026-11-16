@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6207092001,
+      "name": "Sebabi"
+    },
+    {
+      "code": 6207092002,
+      "name": "Sandul"
+    },
+    {
+      "code": 6207092003,
+      "name": "Kalang"
+    },
+    {
+      "code": 6207092004,
+      "name": "Derawa"
+    },
+    {
+      "code": 6207092005,
+      "name": "Wana Tirta"
+    },
+    {
+      "code": 6207092006,
+      "name": "Suka Mulya"
+    },
+    {
+      "code": 6207092007,
+      "name": "Durian Kait"
+    },
+    {
+      "code": 6207092008,
+      "name": "Sahabu"
+    },
+    {
+      "code": 6207092009,
+      "name": "Batu Menangis"
+    }
+  ]
+}

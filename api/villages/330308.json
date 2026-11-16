@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3303082001,
+      "name": "Karangturi"
+    },
+    {
+      "code": 3303082002,
+      "name": "Onje"
+    },
+    {
+      "code": 3303082003,
+      "name": "Sindang"
+    },
+    {
+      "code": 3303082004,
+      "name": "Tangkisan"
+    },
+    {
+      "code": 3303082005,
+      "name": "Kradenan"
+    },
+    {
+      "code": 3303082006,
+      "name": "Lambur"
+    },
+    {
+      "code": 3303082007,
+      "name": "Selaganggeng"
+    },
+    {
+      "code": 3303082008,
+      "name": "Mangunegara"
+    },
+    {
+      "code": 3303082009,
+      "name": "Karangnangka"
+    },
+    {
+      "code": 3303082010,
+      "name": "Mrebet"
+    },
+    {
+      "code": 3303082011,
+      "name": "Bojong"
+    },
+    {
+      "code": 3303082012,
+      "name": "Serayu Karanganyar"
+    },
+    {
+      "code": 3303082013,
+      "name": "Serayu Larangan"
+    },
+    {
+      "code": 3303082014,
+      "name": "Campakoah"
+    },
+    {
+      "code": 3303082015,
+      "name": "Pagerandong"
+    },
+    {
+      "code": 3303082016,
+      "name": "Cipaku"
+    },
+    {
+      "code": 3303082017,
+      "name": "Binangun"
+    },
+    {
+      "code": 3303082018,
+      "name": "Pengalusan"
+    },
+    {
+      "code": 3303082019,
+      "name": "Sangkanayu"
+    }
+  ]
+}

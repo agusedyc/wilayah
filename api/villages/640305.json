@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6403051003,
+      "name": "Sungai Bedungun"
+    },
+    {
+      "code": 6403051004,
+      "name": "Tanjung Redeb"
+    },
+    {
+      "code": 6403051005,
+      "name": "Bugis"
+    },
+    {
+      "code": 6403051006,
+      "name": "Gayam"
+    },
+    {
+      "code": 6403051007,
+      "name": "Karang Ambun"
+    },
+    {
+      "code": 6403051008,
+      "name": "Gunung Panjang"
+    }
+  ]
+}

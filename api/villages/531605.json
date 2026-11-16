@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5316052001,
+      "name": "Tendatoto"
+    },
+    {
+      "code": 5316052002,
+      "name": "Totomala"
+    },
+    {
+      "code": 5316052003,
+      "name": "Tendakinde"
+    },
+    {
+      "code": 5316052004,
+      "name": "Anakoli"
+    },
+    {
+      "code": 5316052005,
+      "name": "Natatoto"
+    }
+  ]
+}

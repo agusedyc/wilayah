@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3213092001,
+      "name": "Ciasem Girang"
+    },
+    {
+      "code": 3213092002,
+      "name": "Ciasem Tengah"
+    },
+    {
+      "code": 3213092003,
+      "name": "Dukuh"
+    },
+    {
+      "code": 3213092004,
+      "name": "Ciasem Hilir"
+    },
+    {
+      "code": 3213092005,
+      "name": "Sukahaji"
+    },
+    {
+      "code": 3213092006,
+      "name": "Sukamandijaya"
+    },
+    {
+      "code": 3213092007,
+      "name": "Ciasem Baru"
+    },
+    {
+      "code": 3213092008,
+      "name": "Pinangsari"
+    },
+    {
+      "code": 3213092009,
+      "name": "Jatibaru"
+    }
+  ]
+}

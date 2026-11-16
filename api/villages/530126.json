@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5301262001,
+      "name": "Nunuanah"
+    },
+    {
+      "code": 5301262002,
+      "name": "Kifu"
+    },
+    {
+      "code": 5301262003,
+      "name": "Netemnanu Selatan"
+    },
+    {
+      "code": 5301262004,
+      "name": "Netemnanu Utara"
+    },
+    {
+      "code": 5301262005,
+      "name": "Netemnanu"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 6303182001,
+      "name": "Rantau Bujur"
+    },
+    {
+      "code": 6303182002,
+      "name": "Lok Tanah"
+    },
+    {
+      "code": 6303182003,
+      "name": "Telaga Baru"
+    },
+    {
+      "code": 6303182004,
+      "name": "Rampah"
+    }
+  ]
+}

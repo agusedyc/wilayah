@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3404042001,
+      "name": "Sendangarum"
+    },
+    {
+      "code": 3404042002,
+      "name": "Sendangmulyo"
+    },
+    {
+      "code": 3404042003,
+      "name": "Sendangagung"
+    },
+    {
+      "code": 3404042004,
+      "name": "Sendangsari"
+    },
+    {
+      "code": 3404042005,
+      "name": "Sendangrejo"
+    }
+  ]
+}

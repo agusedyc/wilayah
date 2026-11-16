@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1304042001,
+      "name": "Baringin"
+    },
+    {
+      "code": 1304042002,
+      "name": "Limo Kaum"
+    },
+    {
+      "code": 1304042003,
+      "name": "Parambahan"
+    },
+    {
+      "code": 1304042004,
+      "name": "Cubadak"
+    },
+    {
+      "code": 1304042005,
+      "name": "Labuh"
+    }
+  ]
+}

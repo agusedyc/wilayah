@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1504081008,
+      "name": "Terusan"
+    },
+    {
+      "code": 1504082001,
+      "name": "Bulian Jaya"
+    },
+    {
+      "code": 1504082002,
+      "name": "Tidar Kuranji"
+    },
+    {
+      "code": 1504082003,
+      "name": "Kehidupan Baru"
+    },
+    {
+      "code": 1504082004,
+      "name": "Bukit Sari"
+    },
+    {
+      "code": 1504082005,
+      "name": "Karya Mukti"
+    },
+    {
+      "code": 1504082006,
+      "name": "Terusan"
+    },
+    {
+      "code": 1504082007,
+      "name": "Danau Embat"
+    }
+  ]
+}

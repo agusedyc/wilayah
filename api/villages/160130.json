@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1601302001,
+      "name": "Batu Marta I"
+    },
+    {
+      "code": 1601302002,
+      "name": "Batu Marta II"
+    },
+    {
+      "code": 1601302003,
+      "name": "Lekis Rejo"
+    },
+    {
+      "code": 1601302004,
+      "name": "Lubuk Banjar"
+    },
+    {
+      "code": 1601302005,
+      "name": "Marta Jaya"
+    },
+    {
+      "code": 1601302006,
+      "name": "Batu Raden"
+    },
+    {
+      "code": 1601302007,
+      "name": "Battu Winangun"
+    }
+  ]
+}

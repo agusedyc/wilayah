@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1307032001,
+      "name": "Koto Baru Simalanggang"
+    },
+    {
+      "code": 1307032002,
+      "name": "Taeh Bukik"
+    },
+    {
+      "code": 1307032003,
+      "name": "Simalanggang"
+    },
+    {
+      "code": 1307032004,
+      "name": "Sungai Beringin"
+    },
+    {
+      "code": 1307032005,
+      "name": "Piobang"
+    },
+    {
+      "code": 1307032006,
+      "name": "Taeh Baruah"
+    },
+    {
+      "code": 1307032007,
+      "name": "Koto Tangah Simalanggang"
+    }
+  ]
+}

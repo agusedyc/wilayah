@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1102102001,
+      "name": "Simpang Semadam"
+    },
+    {
+      "code": 1102102002,
+      "name": "Semadam Awal"
+    },
+    {
+      "code": 1102102003,
+      "name": "Semadam Asal"
+    },
+    {
+      "code": 1102102004,
+      "name": "Lawe Kinga Gabungan"
+    },
+    {
+      "code": 1102102005,
+      "name": "Lawe Kinga Tebing Tinggi"
+    },
+    {
+      "code": 1102102006,
+      "name": "Kebun Sere"
+    },
+    {
+      "code": 1102102007,
+      "name": "Lawe Beringin Horas"
+    },
+    {
+      "code": 1102102008,
+      "name": "Lawe. Berigin Gayo"
+    },
+    {
+      "code": 1102102009,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1102102010,
+      "name": "Pasar Puntung"
+    },
+    {
+      "code": 1102102011,
+      "name": "Titi Pasir"
+    },
+    {
+      "code": 1102102012,
+      "name": "Lawe Petanduk I"
+    },
+    {
+      "code": 1102102013,
+      "name": "Ngkeran Alur Buluh"
+    },
+    {
+      "code": 1102102014,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 1102102015,
+      "name": "Sepakat Segenap"
+    },
+    {
+      "code": 1102102016,
+      "name": "Selamat Indah"
+    },
+    {
+      "code": 1102102017,
+      "name": "Lawe Kinge Lapter"
+    },
+    {
+      "code": 1102102018,
+      "name": "Lawe Mejile"
+    },
+    {
+      "code": 1102102019,
+      "name": "Lawe Petanduk-II"
+    }
+  ]
+}

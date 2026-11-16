@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9502142001,
+      "name": "Oksop"
+    },
+    {
+      "code": 9502142002,
+      "name": "Mimin"
+    },
+    {
+      "code": 9502142003,
+      "name": "Atenor"
+    },
+    {
+      "code": 9502142004,
+      "name": "Oktumi"
+    },
+    {
+      "code": 9502142005,
+      "name": "Alutbakon"
+    }
+  ]
+}

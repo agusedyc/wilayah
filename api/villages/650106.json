@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 6501062001,
+      "name": "Salimbatu"
+    },
+    {
+      "code": 6501062002,
+      "name": "Silva Rahayu"
+    },
+    {
+      "code": 6501062003,
+      "name": "Tanjung Buka"
+    }
+  ]
+}

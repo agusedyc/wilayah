@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5307132001,
+      "name": "Natarmage"
+    },
+    {
+      "code": 5307132002,
+      "name": "Tanarawa"
+    },
+    {
+      "code": 5307132003,
+      "name": "Pruda"
+    },
+    {
+      "code": 5307132004,
+      "name": "Werang"
+    },
+    {
+      "code": 5307132005,
+      "name": "Tua Bao"
+    },
+    {
+      "code": 5307132006,
+      "name": "Ilinmedo"
+    },
+    {
+      "code": 5307132007,
+      "name": "Watu Moning"
+    }
+  ]
+}

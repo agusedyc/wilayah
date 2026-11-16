@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1871111001,
+      "name": "Tanjung Senang"
+    },
+    {
+      "code": 1871111002,
+      "name": "Way Kandis"
+    },
+    {
+      "code": 1871111003,
+      "name": "Labuhan Dalam"
+    },
+    {
+      "code": 1871111004,
+      "name": "Perumnas Way Kandis"
+    },
+    {
+      "code": 1871111005,
+      "name": "Pematang Wangi"
+    }
+  ]
+}

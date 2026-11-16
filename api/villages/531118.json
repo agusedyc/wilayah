@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5311182001,
+      "name": "Watumbelar"
+    },
+    {
+      "code": 5311182002,
+      "name": "Bidipraing"
+    },
+    {
+      "code": 5311182003,
+      "name": "Umamanu"
+    },
+    {
+      "code": 5311182004,
+      "name": "Mondulambi"
+    },
+    {
+      "code": 5311182005,
+      "name": "Kangeli"
+    },
+    {
+      "code": 5311182006,
+      "name": "Laihau"
+    }
+  ]
+}

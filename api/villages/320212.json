@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3202122001,
+      "name": "Kalaparea"
+    },
+    {
+      "code": 3202122002,
+      "name": "Pawenang"
+    },
+    {
+      "code": 3202122003,
+      "name": "Nagrak Utara"
+    },
+    {
+      "code": 3202122004,
+      "name": "Cisarua"
+    },
+    {
+      "code": 3202122009,
+      "name": "Balekambang"
+    },
+    {
+      "code": 3202122010,
+      "name": "Babakan Panjang"
+    },
+    {
+      "code": 3202122011,
+      "name": "Darmareja"
+    },
+    {
+      "code": 3202122012,
+      "name": "Cihanyawar"
+    },
+    {
+      "code": 3202122013,
+      "name": "Nagrak Selatan"
+    },
+    {
+      "code": 3202122014,
+      "name": "Girijaya"
+    }
+  ]
+}

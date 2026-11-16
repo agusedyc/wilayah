@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "message": "Showing 21 villages",
+  "data": [
+    {
+      "code": 3325111013,
+      "name": "Watesalit"
+    },
+    {
+      "code": 3325111014,
+      "name": "Proyonanggan Tengah"
+    },
+    {
+      "code": 3325111015,
+      "name": "Kauman"
+    },
+    {
+      "code": 3325111016,
+      "name": "Karangasem Utara"
+    },
+    {
+      "code": 3325111017,
+      "name": "Kasepuhan"
+    },
+    {
+      "code": 3325111018,
+      "name": "Sambong"
+    },
+    {
+      "code": 3325111019,
+      "name": "Proyonanggan Utara"
+    },
+    {
+      "code": 3325111020,
+      "name": "Proyonanggan Selatan"
+    },
+    {
+      "code": 3325111021,
+      "name": "Karangasem Selatan"
+    },
+    {
+      "code": 3325112001,
+      "name": "Rowobelang"
+    },
+    {
+      "code": 3325112002,
+      "name": "Cepokokuning"
+    },
+    {
+      "code": 3325112003,
+      "name": "Pasekaran"
+    },
+    {
+      "code": 3325112004,
+      "name": "Kalisalak"
+    },
+    {
+      "code": 3325112005,
+      "name": "Kecepak"
+    },
+    {
+      "code": 3325112006,
+      "name": "Klidang Wetan"
+    },
+    {
+      "code": 3325112007,
+      "name": "Klidang Lor"
+    },
+    {
+      "code": 3325112008,
+      "name": "Kalipucang Wetan"
+    },
+    {
+      "code": 3325112009,
+      "name": "Kalipucang Kulon"
+    },
+    {
+      "code": 3325112010,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3325112011,
+      "name": "Denasri Kulon"
+    },
+    {
+      "code": 3325112012,
+      "name": "Denasri Wetan"
+    }
+  ]
+}

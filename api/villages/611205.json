@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6112052001,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 6112052002,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 6112052003,
+      "name": "Teluk Nibung"
+    },
+    {
+      "code": 6112052004,
+      "name": "Padang Tikar Satu"
+    },
+    {
+      "code": 6112052005,
+      "name": "Padang Tikar Dua"
+    },
+    {
+      "code": 6112052006,
+      "name": "Tasik Malaya"
+    },
+    {
+      "code": 6112052007,
+      "name": "Sungai Besar"
+    },
+    {
+      "code": 6112052008,
+      "name": "Sungai Jawi"
+    },
+    {
+      "code": 6112052009,
+      "name": "Nipah Panjang"
+    },
+    {
+      "code": 6112052010,
+      "name": "Ambarawa"
+    },
+    {
+      "code": 6112052011,
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": 6112052012,
+      "name": "Sungai Kerawang"
+    },
+    {
+      "code": 6112052013,
+      "name": "Sumber Agung"
+    },
+    {
+      "code": 6112052014,
+      "name": "Muara Tiga"
+    },
+    {
+      "code": 6112052015,
+      "name": "Medan Mas"
+    }
+  ]
+}

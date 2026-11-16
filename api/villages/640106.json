@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Showing 26 villages",
+  "data": [
+    {
+      "code": 6401061001,
+      "name": "Long Ikis"
+    },
+    {
+      "code": 6401062002,
+      "name": "Muara Adang"
+    },
+    {
+      "code": 6401062003,
+      "name": "Teluk Waru"
+    },
+    {
+      "code": 6401062004,
+      "name": "Tajur"
+    },
+    {
+      "code": 6401062005,
+      "name": "Semuntai"
+    },
+    {
+      "code": 6401062006,
+      "name": "Lombok"
+    },
+    {
+      "code": 6401062007,
+      "name": "Pait"
+    },
+    {
+      "code": 6401062008,
+      "name": "Olung"
+    },
+    {
+      "code": 6401062009,
+      "name": "Kayungo"
+    },
+    {
+      "code": 6401062010,
+      "name": "Jemparing"
+    },
+    {
+      "code": 6401062011,
+      "name": "Tiwei"
+    },
+    {
+      "code": 6401062012,
+      "name": "Belimbing"
+    },
+    {
+      "code": 6401062013,
+      "name": "Long Gelang"
+    },
+    {
+      "code": 6401062014,
+      "name": "Krayan Jaya"
+    },
+    {
+      "code": 6401062015,
+      "name": "Bukit Saloka"
+    },
+    {
+      "code": 6401062016,
+      "name": "Krayan Sentosa"
+    },
+    {
+      "code": 6401062017,
+      "name": "Krayan Makmur"
+    },
+    {
+      "code": 6401062018,
+      "name": "Kayungo Sari"
+    },
+    {
+      "code": 6401062019,
+      "name": "Krayan Bahagia"
+    },
+    {
+      "code": 6401062020,
+      "name": "Sawit Jaya"
+    },
+    {
+      "code": 6401062021,
+      "name": "Sekurou Jaya"
+    },
+    {
+      "code": 6401062022,
+      "name": "Kerta Bhakti"
+    },
+    {
+      "code": 6401062023,
+      "name": "Adang Jaya"
+    },
+    {
+      "code": 6401062024,
+      "name": "Tajer Mulya"
+    },
+    {
+      "code": 6401062025,
+      "name": "Brewe"
+    },
+    {
+      "code": 6401062026,
+      "name": "Atang Pait"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5320061001,
+      "name": "Ledeke"
+    },
+    {
+      "code": 5320061002,
+      "name": "Ledeunu"
+    },
+    {
+      "code": 5320062003,
+      "name": "Bolua"
+    },
+    {
+      "code": 5320062004,
+      "name": "Kolorae"
+    },
+    {
+      "code": 5320062005,
+      "name": "Ballu"
+    }
+  ]
+}

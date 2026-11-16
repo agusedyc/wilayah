@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3401112001,
+      "name": "Kebonharjo"
+    },
+    {
+      "code": 3401112002,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3401112003,
+      "name": "Purwoharjo"
+    },
+    {
+      "code": 3401112004,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3401112005,
+      "name": "Gerbosari"
+    },
+    {
+      "code": 3401112006,
+      "name": "Ngargosari"
+    },
+    {
+      "code": 3401112007,
+      "name": "Pagerharjo"
+    }
+  ]
+}

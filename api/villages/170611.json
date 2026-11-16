@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1706112001,
+      "name": "Lubuk Sanai"
+    },
+    {
+      "code": 1706112002,
+      "name": "Rawa Mulya"
+    },
+    {
+      "code": 1706112003,
+      "name": "Rawa Bangun"
+    },
+    {
+      "code": 1706112004,
+      "name": "Tanjung Mulya"
+    },
+    {
+      "code": 1706112005,
+      "name": "Pauh Terenja"
+    },
+    {
+      "code": 1706112006,
+      "name": "Dusun Baru Pelokan"
+    },
+    {
+      "code": 1706112007,
+      "name": "Lubuk Sanai II"
+    },
+    {
+      "code": 1706112009,
+      "name": "Lubuk Sanai III"
+    }
+  ]
+}

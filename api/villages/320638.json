@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3206382001,
+      "name": "Cipacing"
+    },
+    {
+      "code": 3206382002,
+      "name": "Pagerageung"
+    },
+    {
+      "code": 3206382003,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3206382004,
+      "name": "Tanjungkerta"
+    },
+    {
+      "code": 3206382005,
+      "name": "Puteran"
+    },
+    {
+      "code": 3206382006,
+      "name": "Guranteng"
+    },
+    {
+      "code": 3206382007,
+      "name": "Nanggewer"
+    },
+    {
+      "code": 3206382008,
+      "name": "Sukapada"
+    },
+    {
+      "code": 3206382009,
+      "name": "Pagersari"
+    },
+    {
+      "code": 3206382010,
+      "name": "Sukadana"
+    }
+  ]
+}

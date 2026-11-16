@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 1173042001,
+      "name": "Batuphat Barat"
+    },
+    {
+      "code": 1173042002,
+      "name": "Blang Panyang"
+    },
+    {
+      "code": 1173042003,
+      "name": "Meunasah Dayah"
+    },
+    {
+      "code": 1173042004,
+      "name": "Paloh Punti"
+    },
+    {
+      "code": 1173042005,
+      "name": "Blang Pulo"
+    },
+    {
+      "code": 1173042006,
+      "name": "Batuphat Timur"
+    },
+    {
+      "code": 1173042007,
+      "name": "Blang Naleung Mameh"
+    },
+    {
+      "code": 1173042008,
+      "name": "Cot Trieng"
+    },
+    {
+      "code": 1173042009,
+      "name": "Padang Sakti"
+    },
+    {
+      "code": 1173042010,
+      "name": "Meuria Paloh"
+    },
+    {
+      "code": 1173042011,
+      "name": "Ujong Pacu"
+    }
+  ]
+}

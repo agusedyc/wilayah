@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7171081001,
+      "name": "Paniki Bawah"
+    },
+    {
+      "code": 7171081002,
+      "name": "Lapangan"
+    },
+    {
+      "code": 7171081003,
+      "name": "Mapanget Barat"
+    },
+    {
+      "code": 7171081004,
+      "name": "Kima Atas"
+    },
+    {
+      "code": 7171081005,
+      "name": "Buha"
+    },
+    {
+      "code": 7171081006,
+      "name": "Bengkol"
+    },
+    {
+      "code": 7171081008,
+      "name": "Kairagi Satu"
+    },
+    {
+      "code": 7171081009,
+      "name": "Kairagi Dua"
+    },
+    {
+      "code": 7171081010,
+      "name": "Paniki Satu"
+    },
+    {
+      "code": 7171081011,
+      "name": "Paniki Dua"
+    }
+  ]
+}

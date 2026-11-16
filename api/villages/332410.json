@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3324102001,
+      "name": "Margomulyo"
+    },
+    {
+      "code": 3324102002,
+      "name": "Tegorejo"
+    },
+    {
+      "code": 3324102003,
+      "name": "Pesawahan"
+    },
+    {
+      "code": 3324102004,
+      "name": "Pekuncen"
+    },
+    {
+      "code": 3324102005,
+      "name": "Puguh"
+    },
+    {
+      "code": 3324102006,
+      "name": "Dawungsari"
+    },
+    {
+      "code": 3324102007,
+      "name": "Pucangrejo"
+    },
+    {
+      "code": 3324102008,
+      "name": "Gubugsari"
+    },
+    {
+      "code": 3324102009,
+      "name": "Pegandon"
+    },
+    {
+      "code": 3324102010,
+      "name": "Penanggulan"
+    },
+    {
+      "code": 3324102011,
+      "name": "Wonosari"
+    },
+    {
+      "code": 3324102012,
+      "name": "Karangmulyo"
+    }
+  ]
+}

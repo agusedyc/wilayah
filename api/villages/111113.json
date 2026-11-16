@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 1111132001,
+      "name": "Bandar Bireuen"
+    },
+    {
+      "code": 1111132002,
+      "name": "Bireuen Meunasah Reulet"
+    },
+    {
+      "code": 1111132003,
+      "name": "Bireuen Meunasah Blang"
+    },
+    {
+      "code": 1111132004,
+      "name": "Bireuen Meunasah Capa"
+    },
+    {
+      "code": 1111132005,
+      "name": "Bireuen Meunasah Dayah"
+    },
+    {
+      "code": 1111132006,
+      "name": "Bireuen Meunasah Tgk Digadong"
+    },
+    {
+      "code": 1111132007,
+      "name": "Geudong-Geudong"
+    },
+    {
+      "code": 1111132008,
+      "name": "Pulo Ara Geudong Teungoh"
+    },
+    {
+      "code": 1111132009,
+      "name": "Geudong Alue"
+    },
+    {
+      "code": 1111132010,
+      "name": "Pulo Kiton"
+    },
+    {
+      "code": 1111132011,
+      "name": "Lhok Awe Teungoh"
+    },
+    {
+      "code": 1111132012,
+      "name": "Geulanggang Teungoh"
+    },
+    {
+      "code": 1111132013,
+      "name": "Cot Gapu"
+    },
+    {
+      "code": 1111132014,
+      "name": "Geulanggang Kulam"
+    },
+    {
+      "code": 1111132015,
+      "name": "Geulanggang Gampong"
+    },
+    {
+      "code": 1111132016,
+      "name": "Blang Tingkeum"
+    },
+    {
+      "code": 1111132017,
+      "name": "Buket Teukueh"
+    },
+    {
+      "code": 1111132018,
+      "name": "Blang Reuling"
+    },
+    {
+      "code": 1111132019,
+      "name": "Cot Jrat"
+    },
+    {
+      "code": 1111132020,
+      "name": "Cot Peutek"
+    },
+    {
+      "code": 1111132021,
+      "name": "Uteun Reutoh"
+    },
+    {
+      "code": 1111132022,
+      "name": "Geulanggang Baro"
+    },
+    {
+      "code": 1111132023,
+      "name": "Gampong Baro"
+    }
+  ]
+}

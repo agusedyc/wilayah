@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3312031002,
+      "name": "Girikikis"
+    },
+    {
+      "code": 3312031011,
+      "name": "Giriwoyo"
+    },
+    {
+      "code": 3312032001,
+      "name": "Tirtosuworo"
+    },
+    {
+      "code": 3312032003,
+      "name": "Guwotirto"
+    },
+    {
+      "code": 3312032004,
+      "name": "Ngancar"
+    },
+    {
+      "code": 3312032005,
+      "name": "Bulurejo"
+    },
+    {
+      "code": 3312032006,
+      "name": "Gedongrejo"
+    },
+    {
+      "code": 3312032007,
+      "name": "Pidekso"
+    },
+    {
+      "code": 3312032008,
+      "name": "Tukulrejo"
+    },
+    {
+      "code": 3312032009,
+      "name": "Bumiharjo"
+    },
+    {
+      "code": 3312032010,
+      "name": "Selomarto"
+    },
+    {
+      "code": 3312032012,
+      "name": "Sejati"
+    },
+    {
+      "code": 3312032013,
+      "name": "Sendangagung"
+    },
+    {
+      "code": 3312032014,
+      "name": "Platarejo"
+    },
+    {
+      "code": 3312032015,
+      "name": "Sirnoboyo"
+    },
+    {
+      "code": 3312032016,
+      "name": "Tawangharjo"
+    }
+  ]
+}

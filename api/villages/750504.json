@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7505042001,
+      "name": "Bulontiyo Timur"
+    },
+    {
+      "code": 7505042002,
+      "name": "Bulontiyo Barat"
+    },
+    {
+      "code": 7505042007,
+      "name": "Buloila"
+    },
+    {
+      "code": 7505042009,
+      "name": "Kasia"
+    },
+    {
+      "code": 7505042010,
+      "name": "Kikia"
+    },
+    {
+      "code": 7505042012,
+      "name": "Tumba"
+    },
+    {
+      "code": 7505042013,
+      "name": "Mebongo"
+    },
+    {
+      "code": 7505042014,
+      "name": "Lelato"
+    },
+    {
+      "code": 7505042016,
+      "name": "Pulohenti"
+    },
+    {
+      "code": 7505042019,
+      "name": "Puncak Mandiri"
+    },
+    {
+      "code": 7505042020,
+      "name": "Hutakalo"
+    }
+  ]
+}

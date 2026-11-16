@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3529082001,
+      "name": "Galis"
+    },
+    {
+      "code": 3529082002,
+      "name": "Gedugan"
+    },
+    {
+      "code": 3529082003,
+      "name": "Bringsang"
+    },
+    {
+      "code": 3529082004,
+      "name": "Aenganyar"
+    },
+    {
+      "code": 3529082005,
+      "name": "Lombang"
+    },
+    {
+      "code": 3529082006,
+      "name": "Jate"
+    },
+    {
+      "code": 3529082007,
+      "name": "Banbaru"
+    },
+    {
+      "code": 3529082008,
+      "name": "Banmaleng"
+    }
+  ]
+}

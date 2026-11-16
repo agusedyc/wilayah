@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1802182001,
+      "name": "Sriwijaya Mataram"
+    },
+    {
+      "code": 1802182002,
+      "name": "Uman Agung Mataram"
+    },
+    {
+      "code": 1802182003,
+      "name": "Terbanggi Ilir"
+    },
+    {
+      "code": 1802182004,
+      "name": "Jatidatar Mataram"
+    },
+    {
+      "code": 1802182005,
+      "name": "Sendang Agung Mataram"
+    },
+    {
+      "code": 1802182006,
+      "name": "Mataram Udik"
+    },
+    {
+      "code": 1802182007,
+      "name": "Terbanggi Mulya"
+    },
+    {
+      "code": 1802182008,
+      "name": "Mataram Jaya"
+    },
+    {
+      "code": 1802182009,
+      "name": "Sumber Rejeki Mataram"
+    }
+  ]
+}

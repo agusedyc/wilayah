@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3278041003,
+      "name": "Indihiang"
+    },
+    {
+      "code": 3278041004,
+      "name": "Sirnagalih"
+    },
+    {
+      "code": 3278041005,
+      "name": "Parakannyasag"
+    },
+    {
+      "code": 3278041006,
+      "name": "Panyingkiran"
+    },
+    {
+      "code": 3278041007,
+      "name": "Sukamaju Kaler"
+    },
+    {
+      "code": 3278041008,
+      "name": "Sukamaju Kidul"
+    }
+  ]
+}

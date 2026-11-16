@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6371051001,
+      "name": "Kertak Baru Ilir"
+    },
+    {
+      "code": 6371051002,
+      "name": "Kertak Baru Ulu"
+    },
+    {
+      "code": 6371051003,
+      "name": "Mawar"
+    },
+    {
+      "code": 6371051004,
+      "name": "Teluk Dalam"
+    },
+    {
+      "code": 6371051005,
+      "name": "Antasan Besar"
+    },
+    {
+      "code": 6371051006,
+      "name": "Pasar Lama"
+    },
+    {
+      "code": 6371051007,
+      "name": "Seberang Mesjid"
+    },
+    {
+      "code": 6371051008,
+      "name": "Gadang"
+    },
+    {
+      "code": 6371051009,
+      "name": "Melayu"
+    },
+    {
+      "code": 6371051010,
+      "name": "Sungai Baru"
+    },
+    {
+      "code": 6371051011,
+      "name": "Pekapuran Laut"
+    },
+    {
+      "code": 6371051012,
+      "name": "Kelayan Luar"
+    }
+  ]
+}

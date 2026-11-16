@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 1172012004,
+      "name": "Krueng Raya"
+    },
+    {
+      "code": 1172012005,
+      "name": "Aneuk Laot"
+    },
+    {
+      "code": 1172012006,
+      "name": "Kuta Timu"
+    },
+    {
+      "code": 1172012007,
+      "name": "Kuta Barat"
+    },
+    {
+      "code": 1172012008,
+      "name": "Kuta Ateuh"
+    }
+  ]
+}

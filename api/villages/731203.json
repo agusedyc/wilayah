@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7312031001,
+      "name": "Ujung"
+    },
+    {
+      "code": 7312031002,
+      "name": "Cabenge"
+    },
+    {
+      "code": 7312031003,
+      "name": "Pajalesang"
+    },
+    {
+      "code": 7312031004,
+      "name": "Macanre"
+    },
+    {
+      "code": 7312032005,
+      "name": "Abbanuange"
+    },
+    {
+      "code": 7312032006,
+      "name": "Tetewatu"
+    },
+    {
+      "code": 7312032007,
+      "name": "Baringeng"
+    },
+    {
+      "code": 7312032009,
+      "name": "Masing"
+    },
+    {
+      "code": 7312032010,
+      "name": "Kebo"
+    },
+    {
+      "code": 7312032011,
+      "name": "Parenring"
+    },
+    {
+      "code": 7312032012,
+      "name": "Paroto"
+    },
+    {
+      "code": 7312032013,
+      "name": "Palangiseng"
+    }
+  ]
+}

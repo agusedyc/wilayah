@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 9203051001,
+      "name": "Danaweria"
+    },
+    {
+      "code": 9203052002,
+      "name": "Kayu Merah"
+    },
+    {
+      "code": 9203052003,
+      "name": "Katemba"
+    },
+    {
+      "code": 9203052004,
+      "name": "Nemewikarya"
+    },
+    {
+      "code": 9203052005,
+      "name": "Raduria"
+    },
+    {
+      "code": 9203052006,
+      "name": "Brongkendik"
+    },
+    {
+      "code": 9203052007,
+      "name": "Air Besar"
+    },
+    {
+      "code": 9203052008,
+      "name": "Mandopma"
+    },
+    {
+      "code": 9203052009,
+      "name": "Kanantare"
+    },
+    {
+      "code": 9203052010,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 9203052011,
+      "name": "Pirma"
+    },
+    {
+      "code": 9203052012,
+      "name": "Sakartemin"
+    },
+    {
+      "code": 9203052013,
+      "name": "Hambrangkendik"
+    },
+    {
+      "code": 9203052014,
+      "name": "Unipokpok"
+    }
+  ]
+}

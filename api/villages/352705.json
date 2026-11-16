@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3527052001,
+      "name": "Kebun Sareh"
+    },
+    {
+      "code": 3527052002,
+      "name": "Karangnangger"
+    },
+    {
+      "code": 3527052003,
+      "name": "Rapa Laok"
+    },
+    {
+      "code": 3527052004,
+      "name": "Rapa Daya"
+    },
+    {
+      "code": 3527052005,
+      "name": "Astapah"
+    },
+    {
+      "code": 3527052006,
+      "name": "Sogian"
+    },
+    {
+      "code": 3527052007,
+      "name": "Gersempal"
+    },
+    {
+      "code": 3527052008,
+      "name": "Temoran"
+    },
+    {
+      "code": 3527052009,
+      "name": "Meteng"
+    },
+    {
+      "code": 3527052010,
+      "name": "Madulang"
+    },
+    {
+      "code": 3527052011,
+      "name": "Kamondung"
+    },
+    {
+      "code": 3527052012,
+      "name": "Omben"
+    },
+    {
+      "code": 3527052013,
+      "name": "Tambak"
+    },
+    {
+      "code": 3527052014,
+      "name": "Angsokah"
+    },
+    {
+      "code": 3527052015,
+      "name": "Jranguan"
+    },
+    {
+      "code": 3527052016,
+      "name": "Rongdalam"
+    },
+    {
+      "code": 3527052017,
+      "name": "Napo Laok"
+    },
+    {
+      "code": 3527052018,
+      "name": "Napo Daya"
+    },
+    {
+      "code": 3527052019,
+      "name": "Karanggayam"
+    },
+    {
+      "code": 3527052020,
+      "name": "Pandan"
+    }
+  ]
+}

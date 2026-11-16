@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3320052001,
+      "name": "Geneng"
+    },
+    {
+      "code": 3320052002,
+      "name": "Raguklampitan"
+    },
+    {
+      "code": 3320052003,
+      "name": "Ngasem"
+    },
+    {
+      "code": 3320052004,
+      "name": "Bawu"
+    },
+    {
+      "code": 3320052005,
+      "name": "Mindahan"
+    },
+    {
+      "code": 3320052006,
+      "name": "Somosari"
+    },
+    {
+      "code": 3320052007,
+      "name": "Batealit"
+    },
+    {
+      "code": 3320052008,
+      "name": "Bringin"
+    },
+    {
+      "code": 3320052009,
+      "name": "Bantrung"
+    },
+    {
+      "code": 3320052010,
+      "name": "Pekalongan"
+    },
+    {
+      "code": 3320052011,
+      "name": "Mindahan Kidul"
+    }
+  ]
+}

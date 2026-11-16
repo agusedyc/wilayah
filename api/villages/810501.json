@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 8105012003,
+      "name": "Bula"
+    },
+    {
+      "code": 8105012004,
+      "name": "Salas"
+    },
+    {
+      "code": 8105012010,
+      "name": "Englas"
+    },
+    {
+      "code": 8105012011,
+      "name": "Bula Air Fatolo"
+    },
+    {
+      "code": 8105012012,
+      "name": "Sesar"
+    },
+    {
+      "code": 8105012022,
+      "name": "Tansi Ambon"
+    },
+    {
+      "code": 8105012023,
+      "name": "Kampung Wailola"
+    },
+    {
+      "code": 8105012024,
+      "name": "Kampung Gorom"
+    },
+    {
+      "code": 8105012025,
+      "name": "Limumir"
+    },
+    {
+      "code": 8105012026,
+      "name": "Fattolo"
+    }
+  ]
+}

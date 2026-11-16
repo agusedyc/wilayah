@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7505052001,
+      "name": "Tolinggula Tengah"
+    },
+    {
+      "code": 7505052002,
+      "name": "Tolinggula Pantai"
+    },
+    {
+      "code": 7505052003,
+      "name": "Tolinggula Ulu"
+    },
+    {
+      "code": 7505052006,
+      "name": "Limbato"
+    },
+    {
+      "code": 7505052007,
+      "name": "Papualangi"
+    },
+    {
+      "code": 7505052008,
+      "name": "Molangga"
+    },
+    {
+      "code": 7505052011,
+      "name": "Cempaka Putih"
+    },
+    {
+      "code": 7505052014,
+      "name": "Tolite Jaya"
+    },
+    {
+      "code": 7505052017,
+      "name": "Ilomangga"
+    },
+    {
+      "code": 7505052018,
+      "name": "Ilotunggula"
+    }
+  ]
+}

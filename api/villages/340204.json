@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 3402042001,
+      "name": "Seloharjo"
+    },
+    {
+      "code": 3402042002,
+      "name": "Panjangrejo"
+    },
+    {
+      "code": 3402042003,
+      "name": "Srihardono"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3602012002,
+      "name": "Cilangkahan"
+    },
+    {
+      "code": 3602012003,
+      "name": "Pagelaran"
+    },
+    {
+      "code": 3602012004,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 3602012005,
+      "name": "Malingping Utara"
+    },
+    {
+      "code": 3602012006,
+      "name": "Bolang"
+    },
+    {
+      "code": 3602012009,
+      "name": "Cipeundeuy"
+    },
+    {
+      "code": 3602012013,
+      "name": "Rahong"
+    },
+    {
+      "code": 3602012014,
+      "name": "Kadujajar"
+    },
+    {
+      "code": 3602012016,
+      "name": "Kersaratu"
+    },
+    {
+      "code": 3602012018,
+      "name": "Malingping Selatan"
+    },
+    {
+      "code": 3602012019,
+      "name": "Sumberwaras"
+    },
+    {
+      "code": 3602012023,
+      "name": "Sukamanah"
+    },
+    {
+      "code": 3602012024,
+      "name": "Senanghati"
+    },
+    {
+      "code": 3602012026,
+      "name": "Sangiang"
+    }
+  ]
+}

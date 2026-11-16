@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3520172001,
+      "name": "Sukowidi"
+    },
+    {
+      "code": 3520172002,
+      "name": "Semen"
+    },
+    {
+      "code": 3520172003,
+      "name": "Goranggareng"
+    },
+    {
+      "code": 3520172004,
+      "name": "Petungrejo"
+    },
+    {
+      "code": 3520172005,
+      "name": "Nguntoronadi"
+    },
+    {
+      "code": 3520172006,
+      "name": "Simbatan"
+    },
+    {
+      "code": 3520172007,
+      "name": "Purworejo"
+    },
+    {
+      "code": 3520172008,
+      "name": "Kenongomulyo"
+    },
+    {
+      "code": 3520172009,
+      "name": "Driyorejo"
+    }
+  ]
+}

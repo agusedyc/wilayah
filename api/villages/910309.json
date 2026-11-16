@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9103092001,
+      "name": "Beneik"
+    },
+    {
+      "code": 9103092002,
+      "name": "Ganusa"
+    },
+    {
+      "code": 9103092003,
+      "name": "Guryard"
+    },
+    {
+      "code": 9103092004,
+      "name": "Santosa"
+    },
+    {
+      "code": 9103092005,
+      "name": "Sawa Suma"
+    },
+    {
+      "code": 9103092006,
+      "name": "Nandaizi"
+    }
+  ]
+}

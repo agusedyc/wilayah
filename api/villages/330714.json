@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3307142001,
+      "name": "Kupangan"
+    },
+    {
+      "code": 3307142002,
+      "name": "Mergosari"
+    },
+    {
+      "code": 3307142003,
+      "name": "Sukoharjo"
+    },
+    {
+      "code": 3307142004,
+      "name": "Rogojati"
+    },
+    {
+      "code": 3307142005,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3307142006,
+      "name": "Sempol"
+    },
+    {
+      "code": 3307142007,
+      "name": "Plodongan"
+    },
+    {
+      "code": 3307142008,
+      "name": "Suroyudan"
+    },
+    {
+      "code": 3307142009,
+      "name": "Gumiwang"
+    },
+    {
+      "code": 3307142010,
+      "name": "Gunungtugel"
+    },
+    {
+      "code": 3307142011,
+      "name": "Pulus"
+    },
+    {
+      "code": 3307142012,
+      "name": "Pucungwetan"
+    },
+    {
+      "code": 3307142013,
+      "name": "Kajeksan"
+    },
+    {
+      "code": 3307142014,
+      "name": "Tlogo"
+    },
+    {
+      "code": 3307142015,
+      "name": "Kalibening"
+    },
+    {
+      "code": 3307142016,
+      "name": "Garunglor"
+    },
+    {
+      "code": 3307142017,
+      "name": "Jebengplampitan"
+    }
+  ]
+}

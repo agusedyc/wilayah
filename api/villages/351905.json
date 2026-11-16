@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3519052001,
+      "name": "Kare"
+    },
+    {
+      "code": 3519052002,
+      "name": "Kepel"
+    },
+    {
+      "code": 3519052003,
+      "name": "Bodag"
+    },
+    {
+      "code": 3519052004,
+      "name": "Bolo"
+    },
+    {
+      "code": 3519052005,
+      "name": "Kuwiran"
+    },
+    {
+      "code": 3519052006,
+      "name": "Randualas"
+    },
+    {
+      "code": 3519052007,
+      "name": "Cermo"
+    },
+    {
+      "code": 3519052008,
+      "name": "Morang"
+    }
+  ]
+}

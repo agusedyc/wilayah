@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7403151003,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 7403151004,
+      "name": "Laiworu"
+    },
+    {
+      "code": 7403152001,
+      "name": "Wawesa"
+    },
+    {
+      "code": 7403152002,
+      "name": "Wakorambu"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 5315102001,
+      "name": "Liang Ndara"
+    },
+    {
+      "code": 5315102002,
+      "name": "Tandong Belang"
+    },
+    {
+      "code": 5315102003,
+      "name": "Cunca Lolos"
+    },
+    {
+      "code": 5315102004,
+      "name": "Cunca Wulang"
+    },
+    {
+      "code": 5315102005,
+      "name": "Golo Damu"
+    },
+    {
+      "code": 5315102006,
+      "name": "Golo Ndoal"
+    },
+    {
+      "code": 5315102007,
+      "name": "Golo Sembea"
+    },
+    {
+      "code": 5315102008,
+      "name": "Golo Desat"
+    },
+    {
+      "code": 5315102009,
+      "name": "Kempo"
+    },
+    {
+      "code": 5315102010,
+      "name": "Wae Jare"
+    },
+    {
+      "code": 5315102011,
+      "name": "Golo Tantong"
+    },
+    {
+      "code": 5315102012,
+      "name": "Tiwi Riwung"
+    },
+    {
+      "code": 5315102013,
+      "name": "Watu Wangka"
+    },
+    {
+      "code": 5315102014,
+      "name": "Compang Liang Ndara"
+    },
+    {
+      "code": 5315102015,
+      "name": "Watu Galang"
+    }
+  ]
+}

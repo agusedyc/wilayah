@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5305122001,
+      "name": "Mataru Selatan"
+    },
+    {
+      "code": 5305122002,
+      "name": "Mataru Utara"
+    },
+    {
+      "code": 5305122003,
+      "name": "Lakatuli"
+    },
+    {
+      "code": 5305122004,
+      "name": "Mataru Timur"
+    },
+    {
+      "code": 5305122005,
+      "name": "Kamaifui"
+    },
+    {
+      "code": 5305122006,
+      "name": "Mataru Barat"
+    },
+    {
+      "code": 5305122007,
+      "name": "Taman Mataru"
+    }
+  ]
+}

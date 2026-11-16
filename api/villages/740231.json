@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7402311004,
+      "name": "Ambodiaa"
+    },
+    {
+      "code": 7402312001,
+      "name": "Nekudu"
+    },
+    {
+      "code": 7402312002,
+      "name": "Lasada"
+    },
+    {
+      "code": 7402312003,
+      "name": "Asinua Jaya"
+    },
+    {
+      "code": 7402312005,
+      "name": "Angohi"
+    },
+    {
+      "code": 7402312006,
+      "name": "Awua Jaya"
+    },
+    {
+      "code": 7402312007,
+      "name": "Awua Sari"
+    },
+    {
+      "code": 7402312008,
+      "name": "Asipako"
+    }
+  ]
+}

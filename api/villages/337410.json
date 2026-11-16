@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3374101001,
+      "name": "Meteseh"
+    },
+    {
+      "code": 3374101002,
+      "name": "Rowosari"
+    },
+    {
+      "code": 3374101003,
+      "name": "Mangunharjo"
+    },
+    {
+      "code": 3374101004,
+      "name": "Bulusan"
+    },
+    {
+      "code": 3374101005,
+      "name": "Kramas"
+    },
+    {
+      "code": 3374101006,
+      "name": "Tembalang"
+    },
+    {
+      "code": 3374101007,
+      "name": "Jangli"
+    },
+    {
+      "code": 3374101008,
+      "name": "Tandang"
+    },
+    {
+      "code": 3374101009,
+      "name": "Kedungmundu"
+    },
+    {
+      "code": 3374101010,
+      "name": "Sendangguwo"
+    },
+    {
+      "code": 3374101011,
+      "name": "Sendangmulyo"
+    },
+    {
+      "code": 3374101012,
+      "name": "Sambiroto"
+    }
+  ]
+}

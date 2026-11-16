@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3207292001,
+      "name": "Cimaragas"
+    },
+    {
+      "code": 3207292002,
+      "name": "Beber"
+    },
+    {
+      "code": 3207292003,
+      "name": "Raksabaya"
+    },
+    {
+      "code": 3207292004,
+      "name": "Bojongmalang"
+    },
+    {
+      "code": 3207292005,
+      "name": "Jayaraksa"
+    }
+  ]
+}

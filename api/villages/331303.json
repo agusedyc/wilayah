@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3313032001,
+      "name": "Paseban"
+    },
+    {
+      "code": 3313032002,
+      "name": "Lemahbang"
+    },
+    {
+      "code": 3313032003,
+      "name": "Jatirejo"
+    },
+    {
+      "code": 3313032004,
+      "name": "Kwangsan"
+    },
+    {
+      "code": 3313032005,
+      "name": "Karangbangun"
+    },
+    {
+      "code": 3313032006,
+      "name": "Ploso"
+    },
+    {
+      "code": 3313032007,
+      "name": "Giriwondo"
+    },
+    {
+      "code": 3313032008,
+      "name": "Kadipiro"
+    },
+    {
+      "code": 3313032009,
+      "name": "Jumantoro"
+    },
+    {
+      "code": 3313032010,
+      "name": "Kedawung"
+    },
+    {
+      "code": 3313032011,
+      "name": "Jumapolo"
+    },
+    {
+      "code": 3313032012,
+      "name": "Bakalan"
+    }
+  ]
+}

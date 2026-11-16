@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 6309102001,
+      "name": "Bilas"
+    },
+    {
+      "code": 6309102002,
+      "name": "Kaong"
+    },
+    {
+      "code": 6309102003,
+      "name": "Pangelak"
+    },
+    {
+      "code": 6309102004,
+      "name": "Kinarum"
+    },
+    {
+      "code": 6309102005,
+      "name": "Masingai II"
+    },
+    {
+      "code": 6309102006,
+      "name": "Masingai I"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3312242001,
+      "name": "Songbledeg"
+    },
+    {
+      "code": 3312242002,
+      "name": "Ketos"
+    },
+    {
+      "code": 3312242003,
+      "name": "Paranggupito"
+    },
+    {
+      "code": 3312242004,
+      "name": "Gudangharjo"
+    },
+    {
+      "code": 3312242005,
+      "name": "Gunturharjo"
+    },
+    {
+      "code": 3312242006,
+      "name": "Sambiharjo"
+    },
+    {
+      "code": 3312242007,
+      "name": "Johunut"
+    },
+    {
+      "code": 3312242008,
+      "name": "Gendayakan"
+    }
+  ]
+}

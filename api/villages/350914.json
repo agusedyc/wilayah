@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3509142001,
+      "name": "Pakis"
+    },
+    {
+      "code": 3509142002,
+      "name": "Kemuning Sari Lor"
+    },
+    {
+      "code": 3509142003,
+      "name": "Panti"
+    },
+    {
+      "code": 3509142004,
+      "name": "Glagahwero"
+    },
+    {
+      "code": 3509142005,
+      "name": "Suci"
+    },
+    {
+      "code": 3509142006,
+      "name": "Kemiri"
+    },
+    {
+      "code": 3509142007,
+      "name": "Serut"
+    }
+  ]
+}

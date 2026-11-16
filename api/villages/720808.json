@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 7208082001,
+      "name": "Kasimbar"
+    },
+    {
+      "code": 7208082002,
+      "name": "Posona"
+    },
+    {
+      "code": 7208082003,
+      "name": "Laemanta"
+    },
+    {
+      "code": 7208082004,
+      "name": "Donggulu"
+    },
+    {
+      "code": 7208082005,
+      "name": "Kasimbar Selatan"
+    },
+    {
+      "code": 7208082006,
+      "name": "Kasimbar Barat"
+    },
+    {
+      "code": 7208082007,
+      "name": "Silampayang"
+    },
+    {
+      "code": 7208082008,
+      "name": "Tovalo"
+    },
+    {
+      "code": 7208082009,
+      "name": "Donggulu Selatan"
+    },
+    {
+      "code": 7208082010,
+      "name": "Labuan Donggulu"
+    },
+    {
+      "code": 7208082011,
+      "name": "Kasimbar Palapi"
+    },
+    {
+      "code": 7208082012,
+      "name": "Peningka"
+    },
+    {
+      "code": 7208082013,
+      "name": "Laemanta Utara"
+    },
+    {
+      "code": 7208082014,
+      "name": "Ogodopi Kasimbar"
+    },
+    {
+      "code": 7208082015,
+      "name": "Sendana"
+    },
+    {
+      "code": 7208082016,
+      "name": "Kasimbar Utara"
+    },
+    {
+      "code": 7208082017,
+      "name": "Posona Atas"
+    },
+    {
+      "code": 7208082018,
+      "name": "Sumber Tani"
+    }
+  ]
+}

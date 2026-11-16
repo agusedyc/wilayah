@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 3602112001,
+      "name": "Sarageni"
+    },
+    {
+      "code": 3602112002,
+      "name": "Gununganten"
+    },
+    {
+      "code": 3602112003,
+      "name": "Sudamanik"
+    },
+    {
+      "code": 3602112004,
+      "name": "Tambak"
+    },
+    {
+      "code": 3602112005,
+      "name": "Cimarga"
+    },
+    {
+      "code": 3602112006,
+      "name": "Karyajaya"
+    },
+    {
+      "code": 3602112007,
+      "name": "Margajaya"
+    },
+    {
+      "code": 3602112008,
+      "name": "Jayamanik"
+    },
+    {
+      "code": 3602112009,
+      "name": "Margaluyu"
+    },
+    {
+      "code": 3602112010,
+      "name": "Margatirta"
+    },
+    {
+      "code": 3602112011,
+      "name": "Intenjaya"
+    },
+    {
+      "code": 3602112012,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3602112013,
+      "name": "Jayasari"
+    },
+    {
+      "code": 3602112014,
+      "name": "Girimukti"
+    },
+    {
+      "code": 3602112015,
+      "name": "Sangkanmanik"
+    },
+    {
+      "code": 3602112016,
+      "name": "Sangiangjaya"
+    },
+    {
+      "code": 3602112017,
+      "name": "Mekarmulya"
+    }
+  ]
+}

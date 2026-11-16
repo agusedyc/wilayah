@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3216192001,
+      "name": "Cibatu"
+    },
+    {
+      "code": 3216192002,
+      "name": "Sukasejati"
+    },
+    {
+      "code": 3216192003,
+      "name": "Ciantra"
+    },
+    {
+      "code": 3216192004,
+      "name": "Sukadami"
+    },
+    {
+      "code": 3216192005,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3216192006,
+      "name": "Serang"
+    },
+    {
+      "code": 3216192007,
+      "name": "Pasirsari"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7322152001,
+      "name": "Buangin"
+    },
+    {
+      "code": 7322152002,
+      "name": "Terpedojaya"
+    },
+    {
+      "code": 7322152003,
+      "name": "Dandang"
+    },
+    {
+      "code": 7322152004,
+      "name": "Kampung Baru"
+    },
+    {
+      "code": 7322152005,
+      "name": "Teteuri"
+    },
+    {
+      "code": 7322152006,
+      "name": "Kalotok"
+    },
+    {
+      "code": 7322152007,
+      "name": "Batualang"
+    },
+    {
+      "code": 7322152008,
+      "name": "Bone Subur"
+    },
+    {
+      "code": 7322152009,
+      "name": "Pompaniki"
+    },
+    {
+      "code": 7322152010,
+      "name": "Mari-mari"
+    }
+  ]
+}

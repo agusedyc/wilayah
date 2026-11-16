@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7472021001,
+      "name": "Wale"
+    },
+    {
+      "code": 7472021002,
+      "name": "Tomba"
+    },
+    {
+      "code": 7472021003,
+      "name": "Bataraguru"
+    },
+    {
+      "code": 7472021004,
+      "name": "Wangkanapi"
+    },
+    {
+      "code": 7472021005,
+      "name": "Batulo"
+    },
+    {
+      "code": 7472021007,
+      "name": "Kadolo Katapi"
+    },
+    {
+      "code": 7472021011,
+      "name": "Bukit Wolio Indah"
+    }
+  ]
+}

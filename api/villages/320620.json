@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3206202001,
+      "name": "Cisarua"
+    },
+    {
+      "code": 3206202002,
+      "name": "Cikondang"
+    },
+    {
+      "code": 3206202003,
+      "name": "Cijulang"
+    },
+    {
+      "code": 3206202004,
+      "name": "Ciampanan"
+    },
+    {
+      "code": 3206202005,
+      "name": "Cineam"
+    },
+    {
+      "code": 3206202006,
+      "name": "Rajadatu"
+    },
+    {
+      "code": 3206202007,
+      "name": "Ancol"
+    },
+    {
+      "code": 3206202008,
+      "name": "Nagaratengah"
+    },
+    {
+      "code": 3206202009,
+      "name": "Pasirmukti"
+    },
+    {
+      "code": 3206202010,
+      "name": "Madiasari"
+    }
+  ]
+}

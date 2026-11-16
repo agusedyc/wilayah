@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9603152001,
+      "name": "Lilinta"
+    },
+    {
+      "code": 9603152002,
+      "name": "Gamta"
+    },
+    {
+      "code": 9603152003,
+      "name": "Biga"
+    },
+    {
+      "code": 9603152004,
+      "name": "Kapatcol"
+    },
+    {
+      "code": 9603152005,
+      "name": "Magey"
+    }
+  ]
+}

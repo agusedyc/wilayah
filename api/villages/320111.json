@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3201112001,
+      "name": "Cidokom"
+    },
+    {
+      "code": 3201112002,
+      "name": "Padurenan"
+    },
+    {
+      "code": 3201112003,
+      "name": "Pengasinan"
+    },
+    {
+      "code": 3201112004,
+      "name": "Curug"
+    },
+    {
+      "code": 3201112005,
+      "name": "Gunungsindur"
+    },
+    {
+      "code": 3201112006,
+      "name": "Jampang"
+    },
+    {
+      "code": 3201112007,
+      "name": "Cibadung"
+    },
+    {
+      "code": 3201112008,
+      "name": "Cibinong"
+    },
+    {
+      "code": 3201112009,
+      "name": "Rawakalong"
+    },
+    {
+      "code": 3201112010,
+      "name": "Pabuaran"
+    }
+  ]
+}

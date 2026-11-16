@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7413112001,
+      "name": "Masara"
+    },
+    {
+      "code": 7413112002,
+      "name": "Lahaji"
+    },
+    {
+      "code": 7413112003,
+      "name": "Umba"
+    },
+    {
+      "code": 7413112004,
+      "name": "Kombikuno"
+    },
+    {
+      "code": 7413112005,
+      "name": "Latawe"
+    },
+    {
+      "code": 7413112006,
+      "name": "Tangkumaho"
+    }
+  ]
+}

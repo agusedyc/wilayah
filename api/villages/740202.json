@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7402021001,
+      "name": "Puunaaha"
+    },
+    {
+      "code": 7402021002,
+      "name": "Tumpas"
+    },
+    {
+      "code": 7402021003,
+      "name": "Latoma"
+    },
+    {
+      "code": 7402021004,
+      "name": "Ambekairi"
+    },
+    {
+      "code": 7402021005,
+      "name": "Arombu"
+    },
+    {
+      "code": 7402021006,
+      "name": "Asinua"
+    },
+    {
+      "code": 7402021011,
+      "name": "Wawonggole"
+    },
+    {
+      "code": 7402021012,
+      "name": "Tuoy"
+    },
+    {
+      "code": 7402021013,
+      "name": "Unaaha"
+    },
+    {
+      "code": 7402021015,
+      "name": "Inolobunggadue"
+    },
+    {
+      "code": 7402021016,
+      "name": "Asambu"
+    },
+    {
+      "code": 7402021017,
+      "name": "Tobeu"
+    }
+  ]
+}

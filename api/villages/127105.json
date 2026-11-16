@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1271051001,
+      "name": "Kesawan"
+    },
+    {
+      "code": 1271051002,
+      "name": "Silalas"
+    },
+    {
+      "code": 1271051003,
+      "name": "Glugur Kota"
+    },
+    {
+      "code": 1271051004,
+      "name": "Pulo Berayan Kota"
+    },
+    {
+      "code": 1271051005,
+      "name": "Sei Agul"
+    },
+    {
+      "code": 1271051006,
+      "name": "Karang Berombak"
+    }
+  ]
+}

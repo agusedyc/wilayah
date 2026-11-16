@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1402031019,
+      "name": "Simpang Kelayang"
+    },
+    {
+      "code": 1402032007,
+      "name": "Pulau Sengkilo"
+    },
+    {
+      "code": 1402032008,
+      "name": "Kota Medan"
+    },
+    {
+      "code": 1402032009,
+      "name": "Simpang Kota Medan"
+    },
+    {
+      "code": 1402032010,
+      "name": "Polak Pisang"
+    },
+    {
+      "code": 1402032018,
+      "name": "Pelangko"
+    },
+    {
+      "code": 1402032020,
+      "name": "Teluk Sejuah"
+    },
+    {
+      "code": 1402032021,
+      "name": "Bongkal Malang"
+    },
+    {
+      "code": 1402032022,
+      "name": "Dusun Tua"
+    },
+    {
+      "code": 1402032024,
+      "name": "Sungai Banyak Ikan"
+    },
+    {
+      "code": 1402032025,
+      "name": "Tanjung Beludu"
+    },
+    {
+      "code": 1402032026,
+      "name": "Sungai Pasir Putih"
+    },
+    {
+      "code": 1402032027,
+      "name": "Sungai Golang"
+    },
+    {
+      "code": 1402032028,
+      "name": "Pasir Beringin"
+    },
+    {
+      "code": 1402032029,
+      "name": "Sungai Kuning Benio"
+    },
+    {
+      "code": 1402032030,
+      "name": "Bukit Selanjut"
+    },
+    {
+      "code": 1402032031,
+      "name": "Dusun Tua Pelang"
+    }
+  ]
+}

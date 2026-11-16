@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7102172001,
+      "name": "Palamba"
+    },
+    {
+      "code": 7102172002,
+      "name": "Atep"
+    },
+    {
+      "code": 7102172003,
+      "name": "Manembo"
+    },
+    {
+      "code": 7102172004,
+      "name": "Temboan"
+    },
+    {
+      "code": 7102172005,
+      "name": "Rumbia"
+    },
+    {
+      "code": 7102172006,
+      "name": "Winebetan"
+    },
+    {
+      "code": 7102172007,
+      "name": "Kaayuran Atas"
+    },
+    {
+      "code": 7102172008,
+      "name": "Kaayuran Bawah"
+    },
+    {
+      "code": 7102172009,
+      "name": "Kawatak"
+    },
+    {
+      "code": 7102172010,
+      "name": "Atep Satu"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7403072001,
+      "name": "Langkoroni"
+    },
+    {
+      "code": 7403072002,
+      "name": "Latompa"
+    },
+    {
+      "code": 7403072003,
+      "name": "Raimuna"
+    },
+    {
+      "code": 7403072004,
+      "name": "Maligano"
+    },
+    {
+      "code": 7403072005,
+      "name": "Lapole"
+    },
+    {
+      "code": 7403072007,
+      "name": "Pohorua"
+    }
+  ]
+}

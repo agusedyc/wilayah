@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3574051001,
+      "name": "Jrebeng Kulon"
+    },
+    {
+      "code": 3574051002,
+      "name": "Kareng Lor"
+    },
+    {
+      "code": 3574051003,
+      "name": "Sumber Wetan"
+    },
+    {
+      "code": 3574051004,
+      "name": "Jrebeng Lor"
+    },
+    {
+      "code": 3574051005,
+      "name": "Kedopok"
+    },
+    {
+      "code": 3574051006,
+      "name": "Jrebeng Wetan"
+    }
+  ]
+}

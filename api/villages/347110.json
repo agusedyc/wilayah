@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Showing 2 villages",
+  "data": [
+    {
+      "code": 3471101001,
+      "name": "Ngupasan"
+    },
+    {
+      "code": 3471101002,
+      "name": "Prawirodirjan"
+    }
+  ]
+}

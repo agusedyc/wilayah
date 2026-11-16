@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1376051001,
+      "name": "Padang Karambia"
+    },
+    {
+      "code": 1376051002,
+      "name": "Kototuo Limokampuang"
+    },
+    {
+      "code": 1376051003,
+      "name": "Limbukan"
+    },
+    {
+      "code": 1376051005,
+      "name": "Balai Panjang"
+    },
+    {
+      "code": 1376051006,
+      "name": "Kapalo Koto Ampangan"
+    },
+    {
+      "code": 1376051010,
+      "name": "Sawahpadang Aua Kuniang"
+    }
+  ]
+}

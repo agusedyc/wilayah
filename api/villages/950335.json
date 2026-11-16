@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9503352001,
+      "name": "Wanim"
+    },
+    {
+      "code": 9503352002,
+      "name": "Lolat"
+    },
+    {
+      "code": 9503352003,
+      "name": "Bunde"
+    },
+    {
+      "code": 9503352004,
+      "name": "Serahak"
+    },
+    {
+      "code": 9503352005,
+      "name": "Webile"
+    },
+    {
+      "code": 9503352006,
+      "name": "Dinggila"
+    },
+    {
+      "code": 9503352007,
+      "name": "Esalek"
+    },
+    {
+      "code": 9503352008,
+      "name": "Denema"
+    }
+  ]
+}

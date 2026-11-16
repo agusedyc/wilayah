@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1308082001,
+      "name": "Muara Tais"
+    },
+    {
+      "code": 1308082002,
+      "name": "Lubuak Gadang"
+    },
+    {
+      "code": 1308082005,
+      "name": "Pintu Padang"
+    },
+    {
+      "code": 1308082006,
+      "name": "Muaro Tais Koto Gadang"
+    }
+  ]
+}

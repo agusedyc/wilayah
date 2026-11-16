@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 3602092001,
+      "name": "Kerta"
+    },
+    {
+      "code": 3602092002,
+      "name": "Bojongjuruh"
+    },
+    {
+      "code": 3602092003,
+      "name": "Leuwiipuh"
+    },
+    {
+      "code": 3602092004,
+      "name": "Lebakkeusik"
+    },
+    {
+      "code": 3602092005,
+      "name": "Cilegongilir"
+    },
+    {
+      "code": 3602092006,
+      "name": "Keusik"
+    },
+    {
+      "code": 3602092007,
+      "name": "Cibaturkeusik"
+    },
+    {
+      "code": 3602092009,
+      "name": "Kumpay"
+    },
+    {
+      "code": 3602092010,
+      "name": "Jalupanggirang"
+    },
+    {
+      "code": 3602092011,
+      "name": "Bendungan"
+    },
+    {
+      "code": 3602092012,
+      "name": "Kertaraharja"
+    },
+    {
+      "code": 3602092013,
+      "name": "Cisampih"
+    },
+    {
+      "code": 3602092014,
+      "name": "Gunungsari"
+    },
+    {
+      "code": 3602092015,
+      "name": "Tamansari"
+    },
+    {
+      "code": 3602092016,
+      "name": "Cidahu"
+    },
+    {
+      "code": 3602092017,
+      "name": "Ciruji"
+    },
+    {
+      "code": 3602092018,
+      "name": "Kaduhauk"
+    },
+    {
+      "code": 3602092019,
+      "name": "Labanjaya"
+    },
+    {
+      "code": 3602092020,
+      "name": "Umbuljaya"
+    },
+    {
+      "code": 3602092021,
+      "name": "Kertarahayu"
+    }
+  ]
+}

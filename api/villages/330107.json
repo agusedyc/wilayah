@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3301072001,
+      "name": "Karangkemiri"
+    },
+    {
+      "code": 3301072002,
+      "name": "Karangrena"
+    },
+    {
+      "code": 3301072003,
+      "name": "Maos Kidul"
+    },
+    {
+      "code": 3301072004,
+      "name": "Maos Lor"
+    },
+    {
+      "code": 3301072005,
+      "name": "Kalijaran"
+    },
+    {
+      "code": 3301072006,
+      "name": "Mernek"
+    },
+    {
+      "code": 3301072007,
+      "name": "Panisihan"
+    },
+    {
+      "code": 3301072008,
+      "name": "Glempang"
+    },
+    {
+      "code": 3301072009,
+      "name": "Karangreja"
+    },
+    {
+      "code": 3301072010,
+      "name": "Klapagada"
+    }
+  ]
+}

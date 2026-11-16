@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7411031001,
+      "name": "Ladongi"
+    },
+    {
+      "code": 7411031002,
+      "name": "Atula"
+    },
+    {
+      "code": 7411031003,
+      "name": "Raa-Raa"
+    },
+    {
+      "code": 7411031004,
+      "name": "Welala"
+    },
+    {
+      "code": 7411032005,
+      "name": "Putemata"
+    },
+    {
+      "code": 7411032009,
+      "name": "Lalowosula"
+    },
+    {
+      "code": 7411032010,
+      "name": "Wunggoloko"
+    },
+    {
+      "code": 7411032011,
+      "name": "Anggaloosi"
+    },
+    {
+      "code": 7411032013,
+      "name": "Pombeyoha"
+    },
+    {
+      "code": 7411032018,
+      "name": "Tongandiu"
+    }
+  ]
+}

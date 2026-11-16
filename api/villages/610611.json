@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 6106112001,
+      "name": "Sejiram"
+    },
+    {
+      "code": 6106112002,
+      "name": "Beluis Harum"
+    },
+    {
+      "code": 6106112003,
+      "name": "Gurung"
+    },
+    {
+      "code": 6106112004,
+      "name": "Bati"
+    },
+    {
+      "code": 6106112005,
+      "name": "Seneban"
+    },
+    {
+      "code": 6106112006,
+      "name": "Belikai"
+    },
+    {
+      "code": 6106112007,
+      "name": "Ranyai"
+    },
+    {
+      "code": 6106112008,
+      "name": "Emperiang"
+    },
+    {
+      "code": 6106112009,
+      "name": "Pala Kota"
+    },
+    {
+      "code": 6106112010,
+      "name": "Nanga Lot"
+    },
+    {
+      "code": 6106112011,
+      "name": "Tanjung Keliling"
+    },
+    {
+      "code": 6106112012,
+      "name": "Tajau Mada"
+    },
+    {
+      "code": 6106112013,
+      "name": "Jerenjang"
+    },
+    {
+      "code": 6106112014,
+      "name": "Bekuan"
+    },
+    {
+      "code": 6106112015,
+      "name": "Nanga Pala"
+    }
+  ]
+}

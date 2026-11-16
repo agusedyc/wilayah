@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6106042001,
+      "name": "Banua Martinus"
+    },
+    {
+      "code": 6106042002,
+      "name": "Menua Sadap"
+    },
+    {
+      "code": 6106042003,
+      "name": "Pulau Manak"
+    },
+    {
+      "code": 6106042004,
+      "name": "Banua Ujung"
+    },
+    {
+      "code": 6106042005,
+      "name": "Saujung Giling Manik"
+    },
+    {
+      "code": 6106042006,
+      "name": "Ulak Pauk"
+    },
+    {
+      "code": 6106042007,
+      "name": "Langan Baru"
+    },
+    {
+      "code": 6106042008,
+      "name": "Batu Lintang"
+    },
+    {
+      "code": 6106042009,
+      "name": "Rantau Prapat"
+    },
+    {
+      "code": 6106042010,
+      "name": "Tamao"
+    }
+  ]
+}

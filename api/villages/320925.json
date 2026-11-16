@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3209252001,
+      "name": "Kalianyar"
+    },
+    {
+      "code": 3209252002,
+      "name": "Pangurangan Kulon"
+    },
+    {
+      "code": 3209252003,
+      "name": "Pangurangan Wetan"
+    },
+    {
+      "code": 3209252004,
+      "name": "Pangurangan Lor"
+    },
+    {
+      "code": 3209252005,
+      "name": "Pangurangan"
+    },
+    {
+      "code": 3209252006,
+      "name": "Gujeg"
+    },
+    {
+      "code": 3209252007,
+      "name": "Lemahtamba"
+    },
+    {
+      "code": 3209252008,
+      "name": "Karanganyar"
+    },
+    {
+      "code": 3209252009,
+      "name": "Kroya"
+    }
+  ]
+}

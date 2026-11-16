@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3329102001,
+      "name": "Cenang"
+    },
+    {
+      "code": 3329102002,
+      "name": "Dukuhmaja"
+    },
+    {
+      "code": 3329102003,
+      "name": "Jatirokeh"
+    },
+    {
+      "code": 3329102004,
+      "name": "Karangsembung"
+    },
+    {
+      "code": 3329102005,
+      "name": "Songgom"
+    },
+    {
+      "code": 3329102006,
+      "name": "Wanacala"
+    },
+    {
+      "code": 3329102007,
+      "name": "Wanatawang"
+    },
+    {
+      "code": 3329102008,
+      "name": "Gegerkunci"
+    },
+    {
+      "code": 3329102009,
+      "name": "Jatimakmur"
+    },
+    {
+      "code": 3329102010,
+      "name": "Songgom Lor"
+    }
+  ]
+}

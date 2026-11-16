@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 9605072001,
+      "name": "Fategomi"
+    },
+    {
+      "code": 9605072002,
+      "name": "Tehak Besar"
+    },
+    {
+      "code": 9605072003,
+      "name": "Fan"
+    },
+    {
+      "code": 9605072004,
+      "name": "Gohsames"
+    },
+    {
+      "code": 9605072005,
+      "name": "Asmuruf U"
+    },
+    {
+      "code": 9605072006,
+      "name": "Mirafaan"
+    },
+    {
+      "code": 9605072007,
+      "name": "Asmuruf Tee"
+    },
+    {
+      "code": 9605072008,
+      "name": "Tehak Tee"
+    },
+    {
+      "code": 9605072009,
+      "name": "Framafir"
+    },
+    {
+      "code": 9605072010,
+      "name": "Subrit"
+    },
+    {
+      "code": 9605072011,
+      "name": "Inta"
+    },
+    {
+      "code": 9605072012,
+      "name": "Bahwat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7414071002,
+      "name": "Tolandona"
+    },
+    {
+      "code": 7414072001,
+      "name": "Baruta Lestari"
+    },
+    {
+      "code": 7414072003,
+      "name": "Doda Bahari"
+    },
+    {
+      "code": 7414072004,
+      "name": "Baruta"
+    },
+    {
+      "code": 7414072006,
+      "name": "Baruta Analalaki"
+    },
+    {
+      "code": 7414072007,
+      "name": "Tolandona Matanaeo"
+    }
+  ]
+}

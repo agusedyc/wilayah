@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1116062001,
+      "name": "Bukit Rata"
+    },
+    {
+      "code": 1116062002,
+      "name": "Pangkalan"
+    },
+    {
+      "code": 1116062003,
+      "name": "Tanjung Mancang"
+    },
+    {
+      "code": 1116062004,
+      "name": "Simpang Kanan"
+    },
+    {
+      "code": 1116062005,
+      "name": "Tanjung Genteng"
+    },
+    {
+      "code": 1116062006,
+      "name": "Gerenggam"
+    },
+    {
+      "code": 1116062007,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1116062008,
+      "name": "Alur Selebu"
+    },
+    {
+      "code": 1116062010,
+      "name": "Sungai Liput"
+    },
+    {
+      "code": 1116062011,
+      "name": "Kebun Sungai Liput"
+    },
+    {
+      "code": 1116062012,
+      "name": "Purwodadi"
+    },
+    {
+      "code": 1116062013,
+      "name": "Jawa"
+    },
+    {
+      "code": 1116062014,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1116062015,
+      "name": "Karang Jadi"
+    },
+    {
+      "code": 1116062016,
+      "name": "Seumadam"
+    },
+    {
+      "code": 1116062021,
+      "name": "Alur Mentawak"
+    }
+  ]
+}

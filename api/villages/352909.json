@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3529092001,
+      "name": "Bakeong"
+    },
+    {
+      "code": 3529092002,
+      "name": "Payudan Dundang"
+    },
+    {
+      "code": 3529092003,
+      "name": "Pordapor"
+    },
+    {
+      "code": 3529092004,
+      "name": "Guluk-guluk"
+    },
+    {
+      "code": 3529092005,
+      "name": "Ketawang Laok"
+    },
+    {
+      "code": 3529092006,
+      "name": "Pananggungan"
+    },
+    {
+      "code": 3529092007,
+      "name": "Bragung"
+    },
+    {
+      "code": 3529092008,
+      "name": "Tambuko"
+    },
+    {
+      "code": 3529092009,
+      "name": "Payudan Nangger"
+    },
+    {
+      "code": 3529092010,
+      "name": "Payudan Daleman"
+    },
+    {
+      "code": 3529092011,
+      "name": "Payudan Karangsokon"
+    },
+    {
+      "code": 3529092012,
+      "name": "Batuampar"
+    }
+  ]
+}

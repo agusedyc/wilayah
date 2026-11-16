@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8272041001,
+      "name": "Toloa"
+    },
+    {
+      "code": 8272041002,
+      "name": "Dokiri"
+    },
+    {
+      "code": 8272041003,
+      "name": "Tuguiha"
+    },
+    {
+      "code": 8272041004,
+      "name": "Tomalou"
+    },
+    {
+      "code": 8272041005,
+      "name": "Gurabati"
+    },
+    {
+      "code": 8272041006,
+      "name": "Tongowai"
+    },
+    {
+      "code": 8272042007,
+      "name": "Mare Kofo"
+    },
+    {
+      "code": 8272042008,
+      "name": "Mare Gam"
+    }
+  ]
+}

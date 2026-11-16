@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3601202002,
+      "name": "Citalahab"
+    },
+    {
+      "code": 3601202004,
+      "name": "Kadulimus"
+    },
+    {
+      "code": 3601202005,
+      "name": "Bandung"
+    },
+    {
+      "code": 3601202006,
+      "name": "Mogana"
+    },
+    {
+      "code": 3601202007,
+      "name": "Banjar"
+    },
+    {
+      "code": 3601202008,
+      "name": "Gunungputri"
+    },
+    {
+      "code": 3601202010,
+      "name": "Cibodas"
+    },
+    {
+      "code": 3601202011,
+      "name": "Kadubale"
+    },
+    {
+      "code": 3601202012,
+      "name": "Cibeureum"
+    },
+    {
+      "code": 3601202013,
+      "name": "Kadumaneuh"
+    },
+    {
+      "code": 3601202014,
+      "name": "Pasirawi"
+    }
+  ]
+}

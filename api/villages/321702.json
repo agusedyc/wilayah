@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3217022001,
+      "name": "Karyawangi"
+    },
+    {
+      "code": 3217022002,
+      "name": "Cihanjuang"
+    },
+    {
+      "code": 3217022003,
+      "name": "Cihanjuangrahayu"
+    },
+    {
+      "code": 3217022004,
+      "name": "Cihideung"
+    },
+    {
+      "code": 3217022005,
+      "name": "Ciwaruga"
+    },
+    {
+      "code": 3217022006,
+      "name": "Cigugurgirang"
+    },
+    {
+      "code": 3217022007,
+      "name": "Sariwangi"
+    }
+  ]
+}

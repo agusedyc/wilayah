@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7111062001,
+      "name": "Biniha Timur"
+    },
+    {
+      "code": 7111062002,
+      "name": "Biniha"
+    },
+    {
+      "code": 7111062003,
+      "name": "Biniha Selatan"
+    },
+    {
+      "code": 7111062004,
+      "name": "Duminanga"
+    },
+    {
+      "code": 7111062005,
+      "name": "Halabolu"
+    },
+    {
+      "code": 7111062006,
+      "name": "Trans Patoa"
+    },
+    {
+      "code": 7111062007,
+      "name": "Bakida"
+    },
+    {
+      "code": 7111062008,
+      "name": "Sinandaka"
+    },
+    {
+      "code": 7111062009,
+      "name": "Soputa"
+    },
+    {
+      "code": 7111062010,
+      "name": "Pangia"
+    },
+    {
+      "code": 7111062011,
+      "name": "Motolohu"
+    }
+  ]
+}

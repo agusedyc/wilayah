@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 9105011004,
+      "name": "Tarau"
+    },
+    {
+      "code": 9105011005,
+      "name": "Serui Kota"
+    },
+    {
+      "code": 9105011006,
+      "name": "Serui Jaya"
+    },
+    {
+      "code": 9105012014,
+      "name": "Serui Laut"
+    },
+    {
+      "code": 9105012015,
+      "name": "Banawa"
+    },
+    {
+      "code": 9105012017,
+      "name": "Turu"
+    },
+    {
+      "code": 9105012019,
+      "name": "Pasir Hitam"
+    },
+    {
+      "code": 9105012020,
+      "name": "Pasir Putih"
+    },
+    {
+      "code": 9105012023,
+      "name": "Manaini"
+    },
+    {
+      "code": 9105012024,
+      "name": "Imandoa"
+    },
+    {
+      "code": 9105012026,
+      "name": "Barawaikap"
+    },
+    {
+      "code": 9105012027,
+      "name": "Bawai"
+    },
+    {
+      "code": 9105012028,
+      "name": "Nundawipi"
+    }
+  ]
+}

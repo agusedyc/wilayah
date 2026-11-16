@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1225032001,
+      "name": "Onolimbu Raya"
+    },
+    {
+      "code": 1225032002,
+      "name": "Ononamolo III"
+    },
+    {
+      "code": 1225032003,
+      "name": "Sisobaoho"
+    },
+    {
+      "code": 1225032004,
+      "name": "Iraonogeba"
+    },
+    {
+      "code": 1225032005,
+      "name": "Lolohia"
+    },
+    {
+      "code": 1225032006,
+      "name": "Fadorosifulubanua"
+    },
+    {
+      "code": 1225032007,
+      "name": "Hillidaura"
+    },
+    {
+      "code": 1225032008,
+      "name": "Sisarahili II"
+    },
+    {
+      "code": 1225032009,
+      "name": "Lasara Bagawu"
+    },
+    {
+      "code": 1225032010,
+      "name": "Sisobandrao"
+    },
+    {
+      "code": 1225032011,
+      "name": "Mazingo"
+    },
+    {
+      "code": 1225032012,
+      "name": "Onolimbu You"
+    },
+    {
+      "code": 1225032013,
+      "name": "Lasarafaga"
+    },
+    {
+      "code": 1225032014,
+      "name": "Orahili Badalu"
+    }
+  ]
+}

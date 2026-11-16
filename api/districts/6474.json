@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 districts",
+  "data": [
+    {
+      "code": 647401,
+      "name": "Bontang Utara"
+    },
+    {
+      "code": 647402,
+      "name": "Bontang Selatan"
+    },
+    {
+      "code": 647403,
+      "name": "Bontang Barat"
+    }
+  ]
+}

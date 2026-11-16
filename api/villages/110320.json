@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1103202001,
+      "name": "Simpang Jernih"
+    },
+    {
+      "code": 1103202002,
+      "name": "Batu Sumbang"
+    },
+    {
+      "code": 1103202003,
+      "name": "Pante Kera"
+    },
+    {
+      "code": 1103202004,
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": 1103202005,
+      "name": "Melidi"
+    },
+    {
+      "code": 1103202006,
+      "name": "Tampur Paloh"
+    },
+    {
+      "code": 1103202007,
+      "name": "Tampur Boor"
+    },
+    {
+      "code": 1103202008,
+      "name": "HTI Rantau Naro"
+    }
+  ]
+}

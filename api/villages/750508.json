@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7505082001,
+      "name": "Ponelo"
+    },
+    {
+      "code": 7505082002,
+      "name": "Malambe"
+    },
+    {
+      "code": 7505082003,
+      "name": "Otiola"
+    },
+    {
+      "code": 7505082004,
+      "name": "Tihengo"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 8106032001,
+      "name": "Murnaten"
+    },
+    {
+      "code": 8106032002,
+      "name": "Nikulukan"
+    },
+    {
+      "code": 8106032003,
+      "name": "Niwelehu"
+    },
+    {
+      "code": 8106032004,
+      "name": "Nuniali"
+    },
+    {
+      "code": 8106032005,
+      "name": "Lisabata"
+    },
+    {
+      "code": 8106032006,
+      "name": "Wakolo"
+    },
+    {
+      "code": 8106032007,
+      "name": "Patahuwe"
+    },
+    {
+      "code": 8106032008,
+      "name": "Taniwel"
+    },
+    {
+      "code": 8106032009,
+      "name": "Hulung"
+    },
+    {
+      "code": 8106032010,
+      "name": "Kasieh"
+    },
+    {
+      "code": 8106032011,
+      "name": "Nukuhai"
+    },
+    {
+      "code": 8106032012,
+      "name": "Pasinalo"
+    },
+    {
+      "code": 8106032028,
+      "name": "Uweth"
+    },
+    {
+      "code": 8106032029,
+      "name": "Laturake"
+    },
+    {
+      "code": 8106032030,
+      "name": "Buria"
+    },
+    {
+      "code": 8106032031,
+      "name": "Riring"
+    },
+    {
+      "code": 8106032032,
+      "name": "Rumahsoal"
+    },
+    {
+      "code": 8106032033,
+      "name": "Lohiasapalewa"
+    },
+    {
+      "code": 8106032034,
+      "name": "Niniari"
+    }
+  ]
+}

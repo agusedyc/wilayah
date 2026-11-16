@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1309062001,
+      "name": "Katurei"
+    },
+    {
+      "code": 1309062002,
+      "name": "Sagulubbeg"
+    },
+    {
+      "code": 1309062003,
+      "name": "Pasakiat Taileleu"
+    }
+  ]
+}

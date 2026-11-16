@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5207032001,
+      "name": "Meraran"
+    },
+    {
+      "code": 5207032002,
+      "name": "Air Suning"
+    },
+    {
+      "code": 5207032003,
+      "name": "Rempe"
+    },
+    {
+      "code": 5207032004,
+      "name": "Seteluk Atas"
+    },
+    {
+      "code": 5207032005,
+      "name": "Seteluk Tengah"
+    },
+    {
+      "code": 5207032008,
+      "name": "Kelanir"
+    },
+    {
+      "code": 5207032011,
+      "name": "Tapir"
+    },
+    {
+      "code": 5207032013,
+      "name": "Lamusung"
+    },
+    {
+      "code": 5207032014,
+      "name": "Seran"
+    },
+    {
+      "code": 5207032015,
+      "name": "Desaloka"
+    }
+  ]
+}

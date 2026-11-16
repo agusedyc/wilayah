@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 regencies",
+  "data": [
+    {
+      "code": 9202,
+      "name": "Kabupaten Manokwari"
+    },
+    {
+      "code": 9203,
+      "name": "Kabupaten Fak Fak"
+    },
+    {
+      "code": 9206,
+      "name": "Kabupaten Teluk Bintuni"
+    },
+    {
+      "code": 9207,
+      "name": "Kabupaten Teluk Wondama"
+    },
+    {
+      "code": 9208,
+      "name": "Kabupaten Kaimana"
+    },
+    {
+      "code": 9211,
+      "name": "Kabupaten Manokwari Selatan"
+    },
+    {
+      "code": 9212,
+      "name": "Kabupaten Pegunungan Arfak"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106092001,
+      "name": "Luhutuban"
+    },
+    {
+      "code": 8106092002,
+      "name": "Masawoy"
+    },
+    {
+      "code": 8106092003,
+      "name": "Tuniwara"
+    },
+    {
+      "code": 8106092004,
+      "name": "Kelang Asaude"
+    },
+    {
+      "code": 8106092005,
+      "name": "Tomalehu Barat"
+    },
+    {
+      "code": 8106092006,
+      "name": "Tomalehu Timur"
+    },
+    {
+      "code": 8106092007,
+      "name": "Buano Hatuputih"
+    }
+  ]
+}

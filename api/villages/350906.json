@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3509062001,
+      "name": "Tanggulkulon"
+    },
+    {
+      "code": 3509062002,
+      "name": "Tanggulwetan"
+    },
+    {
+      "code": 3509062003,
+      "name": "Patemon"
+    },
+    {
+      "code": 3509062004,
+      "name": "Darungan"
+    },
+    {
+      "code": 3509062005,
+      "name": "Manggisan"
+    },
+    {
+      "code": 3509062006,
+      "name": "Selodakon"
+    },
+    {
+      "code": 3509062007,
+      "name": "Kramat Sukoharjo"
+    },
+    {
+      "code": 3509062008,
+      "name": "Klatakan"
+    }
+  ]
+}

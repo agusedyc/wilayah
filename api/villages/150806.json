@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "Showing 15 villages",
+  "data": [
+    {
+      "code": 1508062001,
+      "name": "Baru Pelepat"
+    },
+    {
+      "code": 1508062002,
+      "name": "Dwi Karya Bakti"
+    },
+    {
+      "code": 1508062003,
+      "name": "Rantau Keloyang"
+    },
+    {
+      "code": 1508062004,
+      "name": "Balai Jaya"
+    },
+    {
+      "code": 1508062005,
+      "name": "Rantel"
+    },
+    {
+      "code": 1508062006,
+      "name": "Senamat"
+    },
+    {
+      "code": 1508062007,
+      "name": "Sungai Beringin"
+    },
+    {
+      "code": 1508062008,
+      "name": "Sungai Gurun"
+    },
+    {
+      "code": 1508062009,
+      "name": "Batu Kerbau"
+    },
+    {
+      "code": 1508062010,
+      "name": "Gapura Suci"
+    },
+    {
+      "code": 1508062011,
+      "name": "Mulya Bakti"
+    },
+    {
+      "code": 1508062012,
+      "name": "Mulya Jaya"
+    },
+    {
+      "code": 1508062013,
+      "name": "Cilodang"
+    },
+    {
+      "code": 1508062014,
+      "name": "Bukit Telago"
+    },
+    {
+      "code": 1508062015,
+      "name": "Sekampil"
+    }
+  ]
+}

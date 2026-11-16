@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5312112001,
+      "name": "Katiku Loku"
+    },
+    {
+      "code": 5312112002,
+      "name": "Hupu Mada"
+    },
+    {
+      "code": 5312112003,
+      "name": "Praibakul"
+    },
+    {
+      "code": 5312112004,
+      "name": "Hoba Wawi"
+    },
+    {
+      "code": 5312112005,
+      "name": "Waihura"
+    },
+    {
+      "code": 5312112006,
+      "name": "Pahola"
+    },
+    {
+      "code": 5312112007,
+      "name": "Bali Loku"
+    },
+    {
+      "code": 5312112008,
+      "name": "Tara Manu"
+    },
+    {
+      "code": 5312112009,
+      "name": "Mamodu"
+    },
+    {
+      "code": 5312112010,
+      "name": "Rua"
+    },
+    {
+      "code": 5312112011,
+      "name": "Rewa Rara"
+    },
+    {
+      "code": 5312112012,
+      "name": "Wei Mangoma"
+    },
+    {
+      "code": 5312112013,
+      "name": "Ana Wolu"
+    },
+    {
+      "code": 5312112014,
+      "name": "Pari Rara"
+    }
+  ]
+}

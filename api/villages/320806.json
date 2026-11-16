@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 3208062001,
+      "name": "Dukuhpicung"
+    },
+    {
+      "code": 3208062002,
+      "name": "Walaharcageur"
+    },
+    {
+      "code": 3208062003,
+      "name": "Wilanagara"
+    },
+    {
+      "code": 3208062004,
+      "name": "Cigedang"
+    },
+    {
+      "code": 3208062005,
+      "name": "Luragungtonggoh"
+    },
+    {
+      "code": 3208062006,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3208062007,
+      "name": "Cirahayu"
+    },
+    {
+      "code": 3208062008,
+      "name": "Margasari"
+    },
+    {
+      "code": 3208062009,
+      "name": "Sindangsuka"
+    },
+    {
+      "code": 3208062010,
+      "name": "Cikandang"
+    },
+    {
+      "code": 3208062011,
+      "name": "Panyosogan"
+    },
+    {
+      "code": 3208062012,
+      "name": "Gunungkarung"
+    },
+    {
+      "code": 3208062013,
+      "name": "Luragunglandeuh"
+    },
+    {
+      "code": 3208062014,
+      "name": "Dukuhmaja"
+    },
+    {
+      "code": 3208062015,
+      "name": "Benda"
+    },
+    {
+      "code": 3208062016,
+      "name": "Cikaduwetan"
+    }
+  ]
+}

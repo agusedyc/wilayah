@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804202001,
+      "name": "Pahayu Jaya"
+    },
+    {
+      "code": 1804202002,
+      "name": "Basungan"
+    },
+    {
+      "code": 1804202003,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 1804202004,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 1804202005,
+      "name": "Sidodadi"
+    },
+    {
+      "code": 1804202006,
+      "name": "Marga Jaya"
+    },
+    {
+      "code": 1804202007,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1804202008,
+      "name": "Batu Api"
+    },
+    {
+      "code": 1804202009,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1804202010,
+      "name": "Suka Mulya"
+    }
+  ]
+}

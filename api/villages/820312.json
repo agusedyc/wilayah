@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8203122001,
+      "name": "Yaro"
+    },
+    {
+      "code": 8203122002,
+      "name": "Mawea"
+    },
+    {
+      "code": 8203122003,
+      "name": "Meti"
+    },
+    {
+      "code": 8203122004,
+      "name": "Katana"
+    },
+    {
+      "code": 8203122005,
+      "name": "Gonga"
+    },
+    {
+      "code": 8203122006,
+      "name": "Todokuiha"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5306192001,
+      "name": "Kalike"
+    },
+    {
+      "code": 5306192002,
+      "name": "Kalike Aimatan"
+    },
+    {
+      "code": 5306192003,
+      "name": "Sulengwaseng"
+    },
+    {
+      "code": 5306192004,
+      "name": "Kenere"
+    },
+    {
+      "code": 5306192005,
+      "name": "Lemanu"
+    },
+    {
+      "code": 5306192006,
+      "name": "Lewograran"
+    },
+    {
+      "code": 5306192007,
+      "name": "Bubuatagamu"
+    }
+  ]
+}

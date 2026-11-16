@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7401081001,
+      "name": "Watubangga"
+    },
+    {
+      "code": 7401081006,
+      "name": "Tandebura"
+    },
+    {
+      "code": 7401081015,
+      "name": "Wolulu"
+    },
+    {
+      "code": 7401082002,
+      "name": "Lamundre"
+    },
+    {
+      "code": 7401082007,
+      "name": "Kukutio"
+    },
+    {
+      "code": 7401082011,
+      "name": "Langgosipi"
+    },
+    {
+      "code": 7401082012,
+      "name": "Sumber Rejeki"
+    },
+    {
+      "code": 7401082016,
+      "name": "Peoho"
+    },
+    {
+      "code": 7401082017,
+      "name": "Mataosu"
+    },
+    {
+      "code": 7401082018,
+      "name": "Polenga"
+    },
+    {
+      "code": 7401082020,
+      "name": "Kastura"
+    },
+    {
+      "code": 7401082023,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 7401082025,
+      "name": "Mataosu Ujung"
+    },
+    {
+      "code": 7401082026,
+      "name": "Ranoteta"
+    }
+  ]
+}

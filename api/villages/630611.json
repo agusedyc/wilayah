@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6306112001,
+      "name": "Siang Gantung"
+    },
+    {
+      "code": 6306112002,
+      "name": "Baru"
+    },
+    {
+      "code": 6306112003,
+      "name": "Tanjung Selor"
+    },
+    {
+      "code": 6306112004,
+      "name": "Badaun"
+    },
+    {
+      "code": 6306112005,
+      "name": "Bajayau"
+    },
+    {
+      "code": 6306112006,
+      "name": "Bajayau Tengah"
+    },
+    {
+      "code": 6306112007,
+      "name": "Bajayau Lama"
+    }
+  ]
+}

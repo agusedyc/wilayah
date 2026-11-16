@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1209132001,
+      "name": "Sei Alim Ulu"
+    },
+    {
+      "code": 1209132003,
+      "name": "Pinanggiripan"
+    },
+    {
+      "code": 1209132006,
+      "name": "Perkebunan Pulahan"
+    },
+    {
+      "code": 1209132007,
+      "name": "Hessa Perlompongan"
+    },
+    {
+      "code": 1209132008,
+      "name": "Perkebunan Air Batu I/II"
+    },
+    {
+      "code": 1209132009,
+      "name": "Perkebunan Air Batu III/IX"
+    },
+    {
+      "code": 1209132010,
+      "name": "Danau Sijabut"
+    },
+    {
+      "code": 1209132012,
+      "name": "Air Teluk Hessa"
+    },
+    {
+      "code": 1209132013,
+      "name": "Air Genting"
+    },
+    {
+      "code": 1209132014,
+      "name": "Hessa Air Genting"
+    },
+    {
+      "code": 1209132018,
+      "name": "Sijabut Teratai"
+    },
+    {
+      "code": 1209132019,
+      "name": "Pulau Pule"
+    }
+  ]
+}

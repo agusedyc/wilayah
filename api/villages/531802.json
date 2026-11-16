@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 5318022001,
+      "name": "Mali Mada"
+    },
+    {
+      "code": 5318022002,
+      "name": "Wano Talla"
+    },
+    {
+      "code": 5318022003,
+      "name": "Wee Paboba"
+    },
+    {
+      "code": 5318022004,
+      "name": "Mata Loko"
+    },
+    {
+      "code": 5318022005,
+      "name": "Wee Namba"
+    },
+    {
+      "code": 5318022006,
+      "name": "Puu Potto"
+    },
+    {
+      "code": 5318022007,
+      "name": "Bodo Ponda"
+    },
+    {
+      "code": 5318022008,
+      "name": "Reda Wano"
+    },
+    {
+      "code": 5318022009,
+      "name": "Odi Paurata"
+    },
+    {
+      "code": 5318022010,
+      "name": "Pandua Tana"
+    },
+    {
+      "code": 5318022011,
+      "name": "Djela Manu"
+    },
+    {
+      "code": 5318022012,
+      "name": "Mawo Maliti"
+    }
+  ]
+}

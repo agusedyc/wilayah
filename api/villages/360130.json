@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3601302001,
+      "name": "Kadubelang"
+    },
+    {
+      "code": 3601302002,
+      "name": "Pareang"
+    },
+    {
+      "code": 3601302003,
+      "name": "Wirasinga"
+    },
+    {
+      "code": 3601302004,
+      "name": "Rancabugel"
+    },
+    {
+      "code": 3601302005,
+      "name": "Kadujangkung"
+    },
+    {
+      "code": 3601302006,
+      "name": "Medong"
+    },
+    {
+      "code": 3601302007,
+      "name": "Sukamulya"
+    },
+    {
+      "code": 3601302008,
+      "name": "Mekarjaya"
+    }
+  ]
+}

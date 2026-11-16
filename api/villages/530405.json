@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 5304052001,
+      "name": "Fatuketi"
+    },
+    {
+      "code": 5304052002,
+      "name": "Dualaus"
+    },
+    {
+      "code": 5304052003,
+      "name": "Jenilu"
+    },
+    {
+      "code": 5304052004,
+      "name": "Kenebibi"
+    },
+    {
+      "code": 5304052005,
+      "name": "Leosama"
+    },
+    {
+      "code": 5304052006,
+      "name": "Kabuna"
+    }
+  ]
+}

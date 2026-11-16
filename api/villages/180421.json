@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1804212001,
+      "name": "Argomulyo"
+    },
+    {
+      "code": 1804212002,
+      "name": "Batu Kebayan"
+    },
+    {
+      "code": 1804212003,
+      "name": "Atar Bawang"
+    },
+    {
+      "code": 1804212004,
+      "name": "Campang Tiga"
+    },
+    {
+      "code": 1804212005,
+      "name": "Luas"
+    },
+    {
+      "code": 1804212006,
+      "name": "Bakhu"
+    },
+    {
+      "code": 1804212007,
+      "name": "Way Ngison"
+    },
+    {
+      "code": 1804212008,
+      "name": "Kubu Liku Jaya"
+    },
+    {
+      "code": 1804212009,
+      "name": "Sumber Rejo"
+    },
+    {
+      "code": 1804212010,
+      "name": "Atar Kuwau"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9206242001,
+      "name": "Igomu"
+    },
+    {
+      "code": 9206242002,
+      "name": "Mesna"
+    },
+    {
+      "code": 9206242003,
+      "name": "Sumuy"
+    }
+  ]
+}

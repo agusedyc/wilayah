@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 3305262001,
+      "name": "Widoro"
+    },
+    {
+      "code": 3305262002,
+      "name": "Seling"
+    },
+    {
+      "code": 3305262003,
+      "name": "Pencil"
+    },
+    {
+      "code": 3305262004,
+      "name": "Kedungwaru"
+    },
+    {
+      "code": 3305262005,
+      "name": "Kaligending"
+    },
+    {
+      "code": 3305262006,
+      "name": "Plumbon"
+    },
+    {
+      "code": 3305262007,
+      "name": "Pujotirto"
+    },
+    {
+      "code": 3305262008,
+      "name": "Wadasmalang"
+    },
+    {
+      "code": 3305262009,
+      "name": "Tlepok"
+    },
+    {
+      "code": 3305262010,
+      "name": "Kalisono"
+    },
+    {
+      "code": 3305262011,
+      "name": "Langse"
+    },
+    {
+      "code": 3305262012,
+      "name": "Banioro"
+    },
+    {
+      "code": 3305262013,
+      "name": "Karangsambung"
+    },
+    {
+      "code": 3305262014,
+      "name": "Totogan"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 3329122001,
+      "name": "Babakan"
+    },
+    {
+      "code": 3329122002,
+      "name": "Blubuk"
+    },
+    {
+      "code": 3329122003,
+      "name": "Bojongsari"
+    },
+    {
+      "code": 3329122004,
+      "name": "Dukuhsalam"
+    },
+    {
+      "code": 3329122005,
+      "name": "Jatisawit"
+    },
+    {
+      "code": 3329122006,
+      "name": "Kalibuntu"
+    },
+    {
+      "code": 3329122007,
+      "name": "Karangdempel"
+    },
+    {
+      "code": 3329122008,
+      "name": "Karangjunti"
+    },
+    {
+      "code": 3329122009,
+      "name": "Karangsambung"
+    },
+    {
+      "code": 3329122010,
+      "name": "Kecipir"
+    },
+    {
+      "code": 3329122011,
+      "name": "Kedungneng"
+    },
+    {
+      "code": 3329122012,
+      "name": "Limbangan"
+    },
+    {
+      "code": 3329122013,
+      "name": "Losari Kidul"
+    },
+    {
+      "code": 3329122014,
+      "name": "Losari Lor"
+    },
+    {
+      "code": 3329122015,
+      "name": "Negla"
+    },
+    {
+      "code": 3329122016,
+      "name": "Pekauman"
+    },
+    {
+      "code": 3329122017,
+      "name": "Pengabean"
+    },
+    {
+      "code": 3329122018,
+      "name": "Prapag Kidul"
+    },
+    {
+      "code": 3329122019,
+      "name": "Prapag Lor"
+    },
+    {
+      "code": 3329122020,
+      "name": "Randegan"
+    },
+    {
+      "code": 3329122021,
+      "name": "Randusari"
+    },
+    {
+      "code": 3329122022,
+      "name": "Rungkang"
+    }
+  ]
+}

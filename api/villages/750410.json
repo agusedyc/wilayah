@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 7504102001,
+      "name": "Bulili"
+    },
+    {
+      "code": 7504102002,
+      "name": "Buntulia Barat"
+    },
+    {
+      "code": 7504102003,
+      "name": "Buntulia Selatan"
+    },
+    {
+      "code": 7504102004,
+      "name": "Duhiadaa"
+    },
+    {
+      "code": 7504102005,
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": 7504102006,
+      "name": "Buntulia Jaya"
+    },
+    {
+      "code": 7504102007,
+      "name": "Padengo"
+    },
+    {
+      "code": 7504102008,
+      "name": "Mootilango"
+    }
+  ]
+}

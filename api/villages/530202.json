@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 5302022001,
+      "name": "Biloto"
+    },
+    {
+      "code": 5302022003,
+      "name": "Kesetnana"
+    },
+    {
+      "code": 5302022006,
+      "name": "Tuasene"
+    },
+    {
+      "code": 5302022008,
+      "name": "Oinlasi"
+    },
+    {
+      "code": 5302022010,
+      "name": "Bisene"
+    },
+    {
+      "code": 5302022012,
+      "name": "Noinbila"
+    },
+    {
+      "code": 5302022013,
+      "name": "Bikekneno"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 7402331001,
+      "name": "Kapoiala"
+    },
+    {
+      "code": 7402332002,
+      "name": "Lalimbue Jaya"
+    },
+    {
+      "code": 7402332003,
+      "name": "Labotoy"
+    },
+    {
+      "code": 7402332004,
+      "name": "Muara Sampara"
+    },
+    {
+      "code": 7402332005,
+      "name": "Sambaraasi"
+    },
+    {
+      "code": 7402332006,
+      "name": "Lamendora"
+    },
+    {
+      "code": 7402332007,
+      "name": "Tani Indah"
+    },
+    {
+      "code": 7402332008,
+      "name": "Pereoa"
+    },
+    {
+      "code": 7402332009,
+      "name": "Ulu Lalimbue"
+    },
+    {
+      "code": 7402332010,
+      "name": "Lalimbue"
+    },
+    {
+      "code": 7402332011,
+      "name": "Tombawatu"
+    },
+    {
+      "code": 7402332012,
+      "name": "Lalonggombuno"
+    },
+    {
+      "code": 7402332013,
+      "name": "Kapoiala Baru"
+    },
+    {
+      "code": 7402332014,
+      "name": "Labotoy Jaya"
+    }
+  ]
+}

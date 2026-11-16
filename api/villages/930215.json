@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9302152001,
+      "name": "Subur"
+    },
+    {
+      "code": 9302152002,
+      "name": "Kaisa"
+    },
+    {
+      "code": 9302152003,
+      "name": "Wagai"
+    },
+    {
+      "code": 9302152004,
+      "name": "Aiwat"
+    }
+  ]
+}

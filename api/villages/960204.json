@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 9602042001,
+      "name": "Tarof"
+    },
+    {
+      "code": 9602042002,
+      "name": "Negeri Besar"
+    },
+    {
+      "code": 9602042003,
+      "name": "Siwatori"
+    },
+    {
+      "code": 9602042004,
+      "name": "Kasuweri"
+    },
+    {
+      "code": 9602042005,
+      "name": "Migori"
+    },
+    {
+      "code": 9602042006,
+      "name": "Tambani"
+    },
+    {
+      "code": 9602042007,
+      "name": "Daubak"
+    },
+    {
+      "code": 9602042008,
+      "name": "Totona"
+    },
+    {
+      "code": 9602042009,
+      "name": "Nayakore"
+    },
+    {
+      "code": 9602042010,
+      "name": "Arbasina"
+    },
+    {
+      "code": 9602042011,
+      "name": "Birawaku"
+    },
+    {
+      "code": 9602042012,
+      "name": "Korewatara"
+    },
+    {
+      "code": 9602042013,
+      "name": "Tapas"
+    },
+    {
+      "code": 9602042014,
+      "name": "Topdan"
+    },
+    {
+      "code": 9602042015,
+      "name": "Migrito"
+    },
+    {
+      "code": 9602042016,
+      "name": "Daimar"
+    }
+  ]
+}

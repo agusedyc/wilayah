@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1901032001,
+      "name": "Batu Rusa"
+    },
+    {
+      "code": 1901032002,
+      "name": "Balun Ijuk"
+    },
+    {
+      "code": 1901032003,
+      "name": "Riding Panjang"
+    },
+    {
+      "code": 1901032004,
+      "name": "Jurung"
+    },
+    {
+      "code": 1901032005,
+      "name": "Kimak"
+    },
+    {
+      "code": 1901032006,
+      "name": "Pagarawan"
+    },
+    {
+      "code": 1901032007,
+      "name": "Merawang"
+    },
+    {
+      "code": 1901032008,
+      "name": "Air Anyir"
+    },
+    {
+      "code": 1901032009,
+      "name": "Dwi Makmur"
+    },
+    {
+      "code": 1901032010,
+      "name": "Jada Bahrin"
+    }
+  ]
+}

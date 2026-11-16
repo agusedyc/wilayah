@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 6307012001,
+      "name": "Pengambau Hilir Luar"
+    },
+    {
+      "code": 6307012002,
+      "name": "Panggung"
+    },
+    {
+      "code": 6307012003,
+      "name": "Barikin"
+    },
+    {
+      "code": 6307012004,
+      "name": "Andang"
+    },
+    {
+      "code": 6307012005,
+      "name": "Pengambau Hilir Dalam"
+    },
+    {
+      "code": 6307012006,
+      "name": "Haruyan"
+    },
+    {
+      "code": 6307012007,
+      "name": "Haruyan Seberang"
+    },
+    {
+      "code": 6307012008,
+      "name": "Pengambau Hulu"
+    },
+    {
+      "code": 6307012009,
+      "name": "Sungai Harang"
+    },
+    {
+      "code": 6307012010,
+      "name": "Batu Panggung"
+    },
+    {
+      "code": 6307012011,
+      "name": "Mangunang"
+    },
+    {
+      "code": 6307012012,
+      "name": "Hapulang"
+    },
+    {
+      "code": 6307012013,
+      "name": "Lok Buntar"
+    },
+    {
+      "code": 6307012014,
+      "name": "Tabat Padang"
+    },
+    {
+      "code": 6307012015,
+      "name": "Mangunang Seberang"
+    },
+    {
+      "code": 6307012016,
+      "name": "Pandanu"
+    },
+    {
+      "code": 6307012017,
+      "name": "Teluk Mesjid"
+    }
+  ]
+}

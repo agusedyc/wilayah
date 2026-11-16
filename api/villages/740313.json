@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7403131003,
+      "name": "Labunia"
+    },
+    {
+      "code": 7403132001,
+      "name": "Wambona"
+    },
+    {
+      "code": 7403132004,
+      "name": "Bakealu"
+    },
+    {
+      "code": 7403132005,
+      "name": "Pure"
+    },
+    {
+      "code": 7403132006,
+      "name": "Wakorumba"
+    }
+  ]
+}

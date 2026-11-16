@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7471061001,
+      "name": "Puday"
+    },
+    {
+      "code": 7471061002,
+      "name": "Lapulu"
+    },
+    {
+      "code": 7471061003,
+      "name": "Abeli"
+    },
+    {
+      "code": 7471061004,
+      "name": "Benuanirae"
+    },
+    {
+      "code": 7471061006,
+      "name": "Anggalomelai"
+    },
+    {
+      "code": 7471061007,
+      "name": "Talia"
+    },
+    {
+      "code": 7471061008,
+      "name": "Poasia"
+    }
+  ]
+}

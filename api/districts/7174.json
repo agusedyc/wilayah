@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 districts",
+  "data": [
+    {
+      "code": 717401,
+      "name": "Kotamobagu Utara"
+    },
+    {
+      "code": 717402,
+      "name": "Kotamobagu Timur"
+    },
+    {
+      "code": 717403,
+      "name": "Kotamobagu Selatan"
+    },
+    {
+      "code": 717404,
+      "name": "Kotamobagu Barat"
+    }
+  ]
+}

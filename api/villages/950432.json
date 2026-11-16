@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9504322001,
+      "name": "Yuneri"
+    },
+    {
+      "code": 9504322002,
+      "name": "Yido"
+    },
+    {
+      "code": 9504322003,
+      "name": "Omibur"
+    },
+    {
+      "code": 9504322004,
+      "name": "Tenabaga"
+    },
+    {
+      "code": 9504322005,
+      "name": "Wonabunggame"
+    },
+    {
+      "code": 9504322006,
+      "name": "Gembileme"
+    },
+    {
+      "code": 9504322007,
+      "name": "Wenome"
+    },
+    {
+      "code": 9504322008,
+      "name": "Mopi"
+    },
+    {
+      "code": 9504322009,
+      "name": "Kanggilo"
+    },
+    {
+      "code": 9504322010,
+      "name": "Yudimba"
+    },
+    {
+      "code": 9504322011,
+      "name": "Umar"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9601232001,
+      "name": "Saengkeduk"
+    },
+    {
+      "code": 9601232002,
+      "name": "Selekobo"
+    },
+    {
+      "code": 9601232003,
+      "name": "Suye"
+    },
+    {
+      "code": 9601232004,
+      "name": "Klamede"
+    },
+    {
+      "code": 9601232005,
+      "name": "Sambatie"
+    },
+    {
+      "code": 9601232006,
+      "name": "Klagele"
+    }
+  ]
+}

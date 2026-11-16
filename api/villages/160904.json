@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 1609042001,
+      "name": "Lawang Agung"
+    },
+    {
+      "code": 1609042002,
+      "name": "Bayur Tengah"
+    },
+    {
+      "code": 1609042003,
+      "name": "Tanjung Tebat"
+    },
+    {
+      "code": 1609042004,
+      "name": "Sugihan"
+    },
+    {
+      "code": 1609042005,
+      "name": "Penyandingan"
+    },
+    {
+      "code": 1609042006,
+      "name": "Alun Dua"
+    },
+    {
+      "code": 1609042007,
+      "name": "Bandar Alam Baru"
+    },
+    {
+      "code": 1609042008,
+      "name": "Dusun Tengah"
+    },
+    {
+      "code": 1609042009,
+      "name": "Ulak Agung Ilir"
+    },
+    {
+      "code": 1609042011,
+      "name": "Gunung Gare"
+    },
+    {
+      "code": 1609042018,
+      "name": "Ulak Agung Ulu"
+    },
+    {
+      "code": 1609042019,
+      "name": "Muaradua Kisam"
+    },
+    {
+      "code": 1609042020,
+      "name": "Sukananti"
+    },
+    {
+      "code": 1609042021,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1609042022,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1609042028,
+      "name": "Panantian"
+    },
+    {
+      "code": 1609042029,
+      "name": "Sukaraja"
+    },
+    {
+      "code": 1609042040,
+      "name": "Simpang Lubuk Dalam"
+    }
+  ]
+}

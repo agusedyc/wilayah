@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 9602122001,
+      "name": "Manggroholo"
+    },
+    {
+      "code": 9602122002,
+      "name": "Komanggaret"
+    },
+    {
+      "code": 9602122003,
+      "name": "Sayal"
+    },
+    {
+      "code": 9602122004,
+      "name": "Kayabo"
+    },
+    {
+      "code": 9602122005,
+      "name": "Sisir"
+    },
+    {
+      "code": 9602122006,
+      "name": "Mlaswat"
+    },
+    {
+      "code": 9602122007,
+      "name": "Kwowok"
+    },
+    {
+      "code": 9602122008,
+      "name": "Sira"
+    },
+    {
+      "code": 9602122009,
+      "name": "Kenaya"
+    }
+  ]
+}

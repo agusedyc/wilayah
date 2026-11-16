@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3376021001,
+      "name": "Kejambon"
+    },
+    {
+      "code": 3376021002,
+      "name": "Slerok"
+    },
+    {
+      "code": 3376021003,
+      "name": "Panggung"
+    },
+    {
+      "code": 3376021004,
+      "name": "Mangkukusuman"
+    },
+    {
+      "code": 3376021005,
+      "name": "Mintaragen"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3206172001,
+      "name": "Sukapura"
+    },
+    {
+      "code": 3206172002,
+      "name": "Leuwibudah"
+    },
+    {
+      "code": 3206172003,
+      "name": "Sirnajaya"
+    },
+    {
+      "code": 3206172004,
+      "name": "Mekarjaya"
+    },
+    {
+      "code": 3206172005,
+      "name": "Linggaraja"
+    },
+    {
+      "code": 3206172006,
+      "name": "Janggala"
+    },
+    {
+      "code": 3206172007,
+      "name": "Margalaksana"
+    },
+    {
+      "code": 3206172008,
+      "name": "Tarunajaya"
+    }
+  ]
+}

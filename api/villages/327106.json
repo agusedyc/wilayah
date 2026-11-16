@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3271061001,
+      "name": "Tanah Sareal"
+    },
+    {
+      "code": 3271061002,
+      "name": "Kebon Pedes"
+    },
+    {
+      "code": 3271061003,
+      "name": "Kedung Badak"
+    },
+    {
+      "code": 3271061004,
+      "name": "Sukaresmi"
+    },
+    {
+      "code": 3271061005,
+      "name": "Kedung Waringin"
+    },
+    {
+      "code": 3271061006,
+      "name": "Kedung Jaya"
+    },
+    {
+      "code": 3271061007,
+      "name": "Sukadamai"
+    },
+    {
+      "code": 3271061008,
+      "name": "Mekar Wangi"
+    },
+    {
+      "code": 3271061009,
+      "name": "Kencana"
+    },
+    {
+      "code": 3271061010,
+      "name": "Kayu Manis"
+    },
+    {
+      "code": 3271061011,
+      "name": "Cibadak"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1302122001,
+      "name": "Sulit Air"
+    },
+    {
+      "code": 1302122002,
+      "name": "Tanjung Balik"
+    },
+    {
+      "code": 1302122003,
+      "name": "Paninjauan"
+    },
+    {
+      "code": 1302122004,
+      "name": "Kuncir"
+    },
+    {
+      "code": 1302122005,
+      "name": "Katialo"
+    },
+    {
+      "code": 1302122006,
+      "name": "Pasilihan"
+    },
+    {
+      "code": 1302122007,
+      "name": "Bukit Kanduang"
+    },
+    {
+      "code": 1302122008,
+      "name": "Sibarambang"
+    },
+    {
+      "code": 1302122009,
+      "name": "Labuh Panjang"
+    }
+  ]
+}

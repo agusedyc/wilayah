@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7202192001,
+      "name": "Dewua"
+    },
+    {
+      "code": 7202192002,
+      "name": "Sangginora"
+    },
+    {
+      "code": 7202192003,
+      "name": "Tangkura"
+    },
+    {
+      "code": 7202192004,
+      "name": "Malitu"
+    },
+    {
+      "code": 7202192005,
+      "name": "Patiwunga"
+    },
+    {
+      "code": 7202192006,
+      "name": "Betalemba"
+    },
+    {
+      "code": 7202192007,
+      "name": "Pantangolemba"
+    },
+    {
+      "code": 7202192008,
+      "name": "Padalembara"
+    },
+    {
+      "code": 7202192009,
+      "name": "Taunca"
+    }
+  ]
+}

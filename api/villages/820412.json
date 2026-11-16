@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8204122001,
+      "name": "Ngute-Ngute"
+    },
+    {
+      "code": 8204122002,
+      "name": "Laluin"
+    },
+    {
+      "code": 8204122003,
+      "name": "Posi-Posi"
+    },
+    {
+      "code": 8204122004,
+      "name": "Sagawele"
+    },
+    {
+      "code": 8204122005,
+      "name": "Orimakurunga"
+    },
+    {
+      "code": 8204122006,
+      "name": "Pasir Putih"
+    }
+  ]
+}

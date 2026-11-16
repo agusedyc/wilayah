@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3520182001,
+      "name": "Sambirobyong"
+    },
+    {
+      "code": 3520182002,
+      "name": "Campursari"
+    },
+    {
+      "code": 3520182003,
+      "name": "Kalang"
+    },
+    {
+      "code": 3520182004,
+      "name": "Durenan"
+    },
+    {
+      "code": 3520182005,
+      "name": "Sidorejo"
+    },
+    {
+      "code": 3520182006,
+      "name": "Getasanyar"
+    },
+    {
+      "code": 3520182007,
+      "name": "Sidomulyo"
+    },
+    {
+      "code": 3520182008,
+      "name": "Sumbersawit"
+    },
+    {
+      "code": 3520182009,
+      "name": "Sidokerto"
+    },
+    {
+      "code": 3520182010,
+      "name": "Widorokandang"
+    }
+  ]
+}

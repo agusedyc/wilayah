@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1305052001,
+      "name": "Balah Aie"
+    },
+    {
+      "code": 1305052002,
+      "name": "Sungai Sariak"
+    },
+    {
+      "code": 1305052003,
+      "name": "Lurah Ampalu"
+    },
+    {
+      "code": 1305052004,
+      "name": "Lareh Nan Panjang"
+    },
+    {
+      "code": 1305052005,
+      "name": "Lareh Nan Panjang Selatan"
+    },
+    {
+      "code": 1305052006,
+      "name": "Lareh Nan Panjang Barat"
+    },
+    {
+      "code": 1305052007,
+      "name": "Bisati Sungai Sariak"
+    },
+    {
+      "code": 1305052008,
+      "name": "Ambuang Kapua Sungai Sariak"
+    },
+    {
+      "code": 1305052009,
+      "name": "Lareh Nan Panjang Sungai Sariak"
+    },
+    {
+      "code": 1305052010,
+      "name": "Limpato Sungai Sariak"
+    },
+    {
+      "code": 1305052011,
+      "name": "Balah Aie Utara"
+    },
+    {
+      "code": 1305052012,
+      "name": "Balah Aie Timur"
+    }
+  ]
+}

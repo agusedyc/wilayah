@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 7202232001,
+      "name": "Tuare"
+    },
+    {
+      "code": 7202232002,
+      "name": "Kageroa"
+    },
+    {
+      "code": 7202232003,
+      "name": "Tomehipi"
+    },
+    {
+      "code": 7202232004,
+      "name": "Lengkeka"
+    },
+    {
+      "code": 7202232005,
+      "name": "Kolori"
+    },
+    {
+      "code": 7202232006,
+      "name": "Lelio"
+    }
+  ]
+}

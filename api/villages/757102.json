@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7571021010,
+      "name": "Biawao"
+    },
+    {
+      "code": 7571021012,
+      "name": "Biawu"
+    },
+    {
+      "code": 7571021013,
+      "name": "Limba B"
+    },
+    {
+      "code": 7571021019,
+      "name": "Limba U I"
+    },
+    {
+      "code": 7571021020,
+      "name": "Limba U II"
+    }
+  ]
+}

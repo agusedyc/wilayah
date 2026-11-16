@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 5309191001,
+      "name": "Mangulewa"
+    },
+    {
+      "code": 5309192002,
+      "name": "Turekisa"
+    },
+    {
+      "code": 5309192003,
+      "name": "Rakalaba"
+    },
+    {
+      "code": 5309192004,
+      "name": "Sobo"
+    },
+    {
+      "code": 5309192005,
+      "name": "Sobo I"
+    },
+    {
+      "code": 5309192006,
+      "name": "Rakateda I"
+    },
+    {
+      "code": 5309192007,
+      "name": "Rakateda II"
+    },
+    {
+      "code": 5309192008,
+      "name": "Watunay"
+    },
+    {
+      "code": 5309192009,
+      "name": "Dizi Gedha"
+    },
+    {
+      "code": 5309192010,
+      "name": "Bea Pawe"
+    },
+    {
+      "code": 5309192011,
+      "name": "Bopoma"
+    },
+    {
+      "code": 5309192012,
+      "name": "Rakalaba I"
+    },
+    {
+      "code": 5309192013,
+      "name": "Sobo II"
+    }
+  ]
+}

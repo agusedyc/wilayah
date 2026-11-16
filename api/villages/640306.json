@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 6403061003,
+      "name": "Gunung Tabur"
+    },
+    {
+      "code": 6403062001,
+      "name": "Tasuk"
+    },
+    {
+      "code": 6403062002,
+      "name": "Birang"
+    },
+    {
+      "code": 6403062004,
+      "name": "Maluang"
+    },
+    {
+      "code": 6403062005,
+      "name": "Samburakat"
+    },
+    {
+      "code": 6403062006,
+      "name": "Sambakungan"
+    },
+    {
+      "code": 6403062007,
+      "name": "Merancang Ulu"
+    },
+    {
+      "code": 6403062008,
+      "name": "Merancang Ilir"
+    },
+    {
+      "code": 6403062009,
+      "name": "Pulau Besing"
+    },
+    {
+      "code": 6403062010,
+      "name": "Melati Jaya"
+    },
+    {
+      "code": 6403062011,
+      "name": "Batu-Batu"
+    }
+  ]
+}

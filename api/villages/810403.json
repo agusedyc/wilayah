@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8104032001,
+      "name": "Savana Jaya"
+    },
+    {
+      "code": 8104032002,
+      "name": "Waetele"
+    },
+    {
+      "code": 8104032003,
+      "name": "Waekasar"
+    },
+    {
+      "code": 8104032004,
+      "name": "Waenetat"
+    },
+    {
+      "code": 8104032016,
+      "name": "Waekerta"
+    },
+    {
+      "code": 8104032019,
+      "name": "Wanareja"
+    },
+    {
+      "code": 8104032027,
+      "name": "Gogorea"
+    }
+  ]
+}

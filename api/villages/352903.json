@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3529032001,
+      "name": "Kasengan"
+    },
+    {
+      "code": 3529032002,
+      "name": "Lalangon"
+    },
+    {
+      "code": 3529032003,
+      "name": "Tenonan"
+    },
+    {
+      "code": 3529032004,
+      "name": "Lanjuk"
+    },
+    {
+      "code": 3529032005,
+      "name": "Gadding"
+    },
+    {
+      "code": 3529032006,
+      "name": "Giring"
+    },
+    {
+      "code": 3529032007,
+      "name": "Gunung Kembar"
+    },
+    {
+      "code": 3529032008,
+      "name": "Jaba'an"
+    },
+    {
+      "code": 3529032009,
+      "name": "Manding Laok"
+    },
+    {
+      "code": 3529032010,
+      "name": "Manding Timur"
+    },
+    {
+      "code": 3529032011,
+      "name": "Manding Daya"
+    }
+  ]
+}

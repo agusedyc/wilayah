@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6110052001,
+      "name": "Nanga Sayan"
+    },
+    {
+      "code": 6110052002,
+      "name": "Pekawai"
+    },
+    {
+      "code": 6110052003,
+      "name": "Landau Sandak"
+    },
+    {
+      "code": 6110052004,
+      "name": "Madya Raya"
+    },
+    {
+      "code": 6110052005,
+      "name": "Karangan Purun"
+    },
+    {
+      "code": 6110052006,
+      "name": "Mekar Pelita"
+    },
+    {
+      "code": 6110052007,
+      "name": "Bora"
+    },
+    {
+      "code": 6110052008,
+      "name": "Meta Bersatu"
+    },
+    {
+      "code": 6110052009,
+      "name": "Nanga Kasai"
+    },
+    {
+      "code": 6110052010,
+      "name": "Nanga Kompi"
+    },
+    {
+      "code": 6110052011,
+      "name": "Nanga Mancur"
+    },
+    {
+      "code": 6110052012,
+      "name": "Siling Permai"
+    },
+    {
+      "code": 6110052013,
+      "name": "Lingkar Indah"
+    },
+    {
+      "code": 6110052014,
+      "name": "Sayan Jaya"
+    },
+    {
+      "code": 6110052015,
+      "name": "Nanga Pak"
+    },
+    {
+      "code": 6110052016,
+      "name": "Tumbak Raya"
+    },
+    {
+      "code": 6110052017,
+      "name": "Berobai Permai"
+    },
+    {
+      "code": 6110052018,
+      "name": "Nanga Raku"
+    }
+  ]
+}

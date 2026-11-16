@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 3202322001,
+      "name": "Parungseah"
+    },
+    {
+      "code": 3202322002,
+      "name": "Sudajayagirang"
+    },
+    {
+      "code": 3202322003,
+      "name": "Karawang"
+    },
+    {
+      "code": 3202322004,
+      "name": "Warnasari"
+    },
+    {
+      "code": 3202322005,
+      "name": "Sukajaya"
+    },
+    {
+      "code": 3202322006,
+      "name": "Perbawati"
+    }
+  ]
+}

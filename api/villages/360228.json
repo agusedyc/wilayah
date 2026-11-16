@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3602282001,
+      "name": "Peucangpari"
+    },
+    {
+      "code": 3602282002,
+      "name": "Cibungur"
+    },
+    {
+      "code": 3602282003,
+      "name": "Mugijaya"
+    },
+    {
+      "code": 3602282004,
+      "name": "Cikate"
+    },
+    {
+      "code": 3602282005,
+      "name": "Cigemblong"
+    },
+    {
+      "code": 3602282006,
+      "name": "Cikadongdong"
+    },
+    {
+      "code": 3602282007,
+      "name": "Cikaret"
+    },
+    {
+      "code": 3602282008,
+      "name": "Wangunjaya"
+    },
+    {
+      "code": 3602282009,
+      "name": "Cikaratuan"
+    }
+  ]
+}

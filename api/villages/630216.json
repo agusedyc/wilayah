@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6302162001,
+      "name": "Semisir"
+    },
+    {
+      "code": 6302162002,
+      "name": "Sungai Pasir"
+    },
+    {
+      "code": 6302162003,
+      "name": "Mekarpura"
+    },
+    {
+      "code": 6302162004,
+      "name": "Selaru"
+    },
+    {
+      "code": 6302162005,
+      "name": "Sungup Kanan"
+    },
+    {
+      "code": 6302162006,
+      "name": "Pantai Baru"
+    },
+    {
+      "code": 6302162007,
+      "name": "Salino"
+    }
+  ]
+}

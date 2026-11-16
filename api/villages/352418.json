@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3524182001,
+      "name": "Bantengputih"
+    },
+    {
+      "code": 3524182002,
+      "name": "Karangrejo"
+    },
+    {
+      "code": 3524182003,
+      "name": "Latukan"
+    },
+    {
+      "code": 3524182004,
+      "name": "Guci"
+    },
+    {
+      "code": 3524182005,
+      "name": "Kaligerman"
+    },
+    {
+      "code": 3524182006,
+      "name": "Sungelebak"
+    },
+    {
+      "code": 3524182007,
+      "name": "Prijekngablak"
+    },
+    {
+      "code": 3524182008,
+      "name": "Tracal"
+    },
+    {
+      "code": 3524182009,
+      "name": "Sonoadi"
+    },
+    {
+      "code": 3524182010,
+      "name": "Kalanganyar"
+    },
+    {
+      "code": 3524182011,
+      "name": "Banjarmadu"
+    },
+    {
+      "code": 3524182012,
+      "name": "Kendalkemlagi"
+    },
+    {
+      "code": 3524182013,
+      "name": "Kawistolegi"
+    },
+    {
+      "code": 3524182014,
+      "name": "Jagran"
+    },
+    {
+      "code": 3524182015,
+      "name": "Karangwungu"
+    },
+    {
+      "code": 3524182016,
+      "name": "Sumberwudi"
+    },
+    {
+      "code": 3524182017,
+      "name": "Karanggeneng"
+    },
+    {
+      "code": 3524182018,
+      "name": "Mertani"
+    }
+  ]
+}

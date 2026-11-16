@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 7108021001,
+      "name": "Bintauna"
+    },
+    {
+      "code": 7108022002,
+      "name": "Huntuk"
+    },
+    {
+      "code": 7108022003,
+      "name": "Mome"
+    },
+    {
+      "code": 7108022004,
+      "name": "Kuhanga"
+    },
+    {
+      "code": 7108022005,
+      "name": "Padang"
+    },
+    {
+      "code": 7108022006,
+      "name": "Pimpi"
+    },
+    {
+      "code": 7108022007,
+      "name": "Bunia"
+    },
+    {
+      "code": 7108022008,
+      "name": "Talaga"
+    },
+    {
+      "code": 7108022009,
+      "name": "Batulintik"
+    },
+    {
+      "code": 7108022010,
+      "name": "Bintauna Pantai"
+    },
+    {
+      "code": 7108022011,
+      "name": "Minanga"
+    },
+    {
+      "code": 7108022012,
+      "name": "Kopi"
+    },
+    {
+      "code": 7108022013,
+      "name": "Voa'a"
+    },
+    {
+      "code": 7108022014,
+      "name": "Bunong"
+    },
+    {
+      "code": 7108022015,
+      "name": "Padang Barat"
+    },
+    {
+      "code": 7108022016,
+      "name": "Vahuta"
+    }
+  ]
+}

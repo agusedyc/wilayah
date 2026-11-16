@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "Showing 17 villages",
+  "data": [
+    {
+      "code": 1704072001,
+      "name": "Muara Dua"
+    },
+    {
+      "code": 1704072002,
+      "name": "Gedung Menung"
+    },
+    {
+      "code": 1704072003,
+      "name": "Ulak Pandan"
+    },
+    {
+      "code": 1704072005,
+      "name": "Merpas"
+    },
+    {
+      "code": 1704072007,
+      "name": "Tanjung Betuah"
+    },
+    {
+      "code": 1704072008,
+      "name": "Air Palawan"
+    },
+    {
+      "code": 1704072009,
+      "name": "Tebing Rambutan"
+    },
+    {
+      "code": 1704072010,
+      "name": "Batu Lungun"
+    },
+    {
+      "code": 1704072011,
+      "name": "Sumber Harapan"
+    },
+    {
+      "code": 1704072012,
+      "name": "Suku Tiga"
+    },
+    {
+      "code": 1704072013,
+      "name": "Bukit Indah"
+    },
+    {
+      "code": 1704072014,
+      "name": "Suka Jaya"
+    },
+    {
+      "code": 1704072015,
+      "name": "Pasar Baru"
+    },
+    {
+      "code": 1704072016,
+      "name": "Tri Jaya"
+    },
+    {
+      "code": 1704072017,
+      "name": "Air Batang"
+    },
+    {
+      "code": 1704072018,
+      "name": "Sinar Banten"
+    },
+    {
+      "code": 1704072019,
+      "name": "Pasar Jum'at"
+    }
+  ]
+}

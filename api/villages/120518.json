@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1205181001,
+      "name": "Tangkahan Durian"
+    },
+    {
+      "code": 1205181004,
+      "name": "Pangkalan Batu"
+    },
+    {
+      "code": 1205182002,
+      "name": "Sei Tualang"
+    },
+    {
+      "code": 1205182003,
+      "name": "Lubuk Kasih"
+    },
+    {
+      "code": 1205182005,
+      "name": "Lubuk Kertang"
+    },
+    {
+      "code": 1205182006,
+      "name": "Perlis"
+    },
+    {
+      "code": 1205182007,
+      "name": "Kelantan"
+    }
+  ]
+}

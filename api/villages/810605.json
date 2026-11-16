@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 8106052001,
+      "name": "Tihulale"
+    },
+    {
+      "code": 8106052002,
+      "name": "Rumahkay"
+    },
+    {
+      "code": 8106052003,
+      "name": "Latu"
+    },
+    {
+      "code": 8106052004,
+      "name": "Tomalehu"
+    },
+    {
+      "code": 8106052005,
+      "name": "Hualoy"
+    },
+    {
+      "code": 8106052006,
+      "name": "Seriholo"
+    },
+    {
+      "code": 8106052007,
+      "name": "Tala"
+    }
+  ]
+}

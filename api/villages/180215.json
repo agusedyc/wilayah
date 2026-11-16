@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1802152001,
+      "name": "Rengas"
+    },
+    {
+      "code": 1802152002,
+      "name": "Kesuma Dadi"
+    },
+    {
+      "code": 1802152003,
+      "name": "Sinar Banten"
+    },
+    {
+      "code": 1802152004,
+      "name": "Kesuma Jaya"
+    },
+    {
+      "code": 1802152005,
+      "name": "Binjai Ngagung"
+    },
+    {
+      "code": 1802152006,
+      "name": "Kedatuan"
+    },
+    {
+      "code": 1802152007,
+      "name": "Goras Jaya"
+    },
+    {
+      "code": 1802152008,
+      "name": "Bangun Sari"
+    }
+  ]
+}

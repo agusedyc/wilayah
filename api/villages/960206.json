@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9602062001,
+      "name": "Haha"
+    },
+    {
+      "code": 9602062002,
+      "name": "Klaogin"
+    },
+    {
+      "code": 9602062003,
+      "name": "Tofot"
+    },
+    {
+      "code": 9602062004,
+      "name": "Sbir"
+    },
+    {
+      "code": 9602062005,
+      "name": "Srer"
+    },
+    {
+      "code": 9602062006,
+      "name": "Woloin"
+    },
+    {
+      "code": 9602062007,
+      "name": "Kamaro"
+    },
+    {
+      "code": 9602062008,
+      "name": "Kakas"
+    }
+  ]
+}

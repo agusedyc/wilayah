@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3301202001,
+      "name": "Binangun"
+    },
+    {
+      "code": 3301202002,
+      "name": "Bantarsari"
+    },
+    {
+      "code": 3301202003,
+      "name": "Cikedondong"
+    },
+    {
+      "code": 3301202004,
+      "name": "Kedungwadas"
+    },
+    {
+      "code": 3301202005,
+      "name": "Citembong"
+    },
+    {
+      "code": 3301202006,
+      "name": "Kamulyan"
+    },
+    {
+      "code": 3301202007,
+      "name": "Rawajaya"
+    },
+    {
+      "code": 3301202008,
+      "name": "Bulaksari"
+    }
+  ]
+}

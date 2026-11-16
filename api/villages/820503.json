@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 8205032005,
+      "name": "Wai Ina"
+    },
+    {
+      "code": 8205032006,
+      "name": "Kabau Pantai"
+    },
+    {
+      "code": 8205032007,
+      "name": "Ona"
+    },
+    {
+      "code": 8205032008,
+      "name": "Kabau Darat"
+    },
+    {
+      "code": 8205032009,
+      "name": "Nahi"
+    },
+    {
+      "code": 8205032010,
+      "name": "Paratina"
+    }
+  ]
+}

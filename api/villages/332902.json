@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3329022001,
+      "name": "Bangbayang"
+    },
+    {
+      "code": 3329022002,
+      "name": "Banjarsari"
+    },
+    {
+      "code": 3329022003,
+      "name": "Bantarkawung"
+    },
+    {
+      "code": 3329022004,
+      "name": "Bantarwaru"
+    },
+    {
+      "code": 3329022005,
+      "name": "Cibentang"
+    },
+    {
+      "code": 3329022006,
+      "name": "Cinanas"
+    },
+    {
+      "code": 3329022007,
+      "name": "Ciomas"
+    },
+    {
+      "code": 3329022008,
+      "name": "Jipang"
+    },
+    {
+      "code": 3329022009,
+      "name": "Karangpari"
+    },
+    {
+      "code": 3329022010,
+      "name": "Kebandungan"
+    },
+    {
+      "code": 3329022011,
+      "name": "Legok"
+    },
+    {
+      "code": 3329022012,
+      "name": "Pangebatan"
+    },
+    {
+      "code": 3329022013,
+      "name": "Pengarasan"
+    },
+    {
+      "code": 3329022014,
+      "name": "Sindangwangi"
+    },
+    {
+      "code": 3329022015,
+      "name": "Tambakserang"
+    },
+    {
+      "code": 3329022016,
+      "name": "Terlaya"
+    },
+    {
+      "code": 3329022017,
+      "name": "Telaga"
+    },
+    {
+      "code": 3329022018,
+      "name": "Waru"
+    }
+  ]
+}

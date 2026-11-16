@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 3309122001,
+      "name": "Kenteng"
+    },
+    {
+      "code": 3309122002,
+      "name": "Potronayan"
+    },
+    {
+      "code": 3309122003,
+      "name": "Sembungan"
+    },
+    {
+      "code": 3309122004,
+      "name": "Jeron"
+    },
+    {
+      "code": 3309122005,
+      "name": "Ketitang"
+    },
+    {
+      "code": 3309122006,
+      "name": "Rembun"
+    },
+    {
+      "code": 3309122007,
+      "name": "Guli"
+    },
+    {
+      "code": 3309122008,
+      "name": "Tegalgiri"
+    },
+    {
+      "code": 3309122009,
+      "name": "Bendo"
+    },
+    {
+      "code": 3309122010,
+      "name": "Keyongan"
+    },
+    {
+      "code": 3309122011,
+      "name": "Pojok"
+    },
+    {
+      "code": 3309122012,
+      "name": "Glonggong"
+    },
+    {
+      "code": 3309122013,
+      "name": "Pulutan"
+    }
+  ]
+}

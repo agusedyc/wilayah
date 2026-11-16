@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 1706092001,
+      "name": "Sungai Ipuh"
+    },
+    {
+      "code": 1706092002,
+      "name": "Lubuk Sahung"
+    },
+    {
+      "code": 1706092003,
+      "name": "Surian Bungkal"
+    },
+    {
+      "code": 1706092004,
+      "name": "Sungai Gading"
+    },
+    {
+      "code": 1706092005,
+      "name": "Pondok Baru"
+    },
+    {
+      "code": 1706092006,
+      "name": "Sungai Jerinjing"
+    },
+    {
+      "code": 1706092007,
+      "name": "Lubuk Bangko"
+    },
+    {
+      "code": 1706092008,
+      "name": "Talang Buai"
+    },
+    {
+      "code": 1706092009,
+      "name": "Aur Cina"
+    },
+    {
+      "code": 1706092010,
+      "name": "Talang Medan"
+    },
+    {
+      "code": 1706092011,
+      "name": "Sungai Ipuh Satu"
+    },
+    {
+      "code": 1706092012,
+      "name": "Sungai Ipuh Dua"
+    }
+  ]
+}

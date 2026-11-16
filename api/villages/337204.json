@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3372041001,
+      "name": "Kepatihan Kulon"
+    },
+    {
+      "code": 3372041002,
+      "name": "Kepatihan Wetan"
+    },
+    {
+      "code": 3372041003,
+      "name": "Sudiroprajan"
+    },
+    {
+      "code": 3372041004,
+      "name": "Gandekan"
+    },
+    {
+      "code": 3372041005,
+      "name": "Sewu"
+    },
+    {
+      "code": 3372041006,
+      "name": "Pucangsawit"
+    },
+    {
+      "code": 3372041007,
+      "name": "Jagalan"
+    },
+    {
+      "code": 3372041008,
+      "name": "Purwodiningratan"
+    },
+    {
+      "code": 3372041009,
+      "name": "Tegalharjo"
+    },
+    {
+      "code": 3372041010,
+      "name": "Jebres"
+    },
+    {
+      "code": 3372041011,
+      "name": "Mojosongo"
+    }
+  ]
+}

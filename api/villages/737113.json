@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7371131001,
+      "name": "Tidung"
+    },
+    {
+      "code": 7371131002,
+      "name": "Kassi - Kassi"
+    },
+    {
+      "code": 7371131003,
+      "name": "Mappala"
+    },
+    {
+      "code": 7371131004,
+      "name": "Buakana"
+    },
+    {
+      "code": 7371131005,
+      "name": "Bonto Makkio"
+    },
+    {
+      "code": 7371131006,
+      "name": "Rappocini"
+    },
+    {
+      "code": 7371131007,
+      "name": "Balla Parang"
+    },
+    {
+      "code": 7371131008,
+      "name": "Banta-Bantaeng"
+    },
+    {
+      "code": 7371131009,
+      "name": "Karunrung"
+    },
+    {
+      "code": 7371131010,
+      "name": "Gunung Sari"
+    },
+    {
+      "code": 7371131011,
+      "name": "Minasa Upa"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3204172001,
+      "name": "Cimaung"
+    },
+    {
+      "code": 3204172002,
+      "name": "Jagabaya"
+    },
+    {
+      "code": 3204172003,
+      "name": "Pasirhuni"
+    },
+    {
+      "code": 3204172004,
+      "name": "Campakamulya"
+    },
+    {
+      "code": 3204172005,
+      "name": "Cipinang"
+    },
+    {
+      "code": 3204172006,
+      "name": "Mekarsari"
+    },
+    {
+      "code": 3204172007,
+      "name": "Sukamaju"
+    },
+    {
+      "code": 3204172008,
+      "name": "Cikalong"
+    },
+    {
+      "code": 3204172009,
+      "name": "Malasari"
+    },
+    {
+      "code": 3204172010,
+      "name": "Warjabakti"
+    }
+  ]
+}

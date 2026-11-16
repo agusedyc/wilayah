@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 6303192001,
+      "name": "Tatah Bangkal"
+    },
+    {
+      "code": 6303192002,
+      "name": "Bangkal Tengah"
+    },
+    {
+      "code": 6303192003,
+      "name": "Layap Baru"
+    },
+    {
+      "code": 6303192004,
+      "name": "Tatah Layap"
+    },
+    {
+      "code": 6303192005,
+      "name": "Mekar Sari"
+    },
+    {
+      "code": 6303192006,
+      "name": "Pandan Sari"
+    },
+    {
+      "code": 6303192007,
+      "name": "Tampang Awang"
+    },
+    {
+      "code": 6303192008,
+      "name": "Pemangkih Darat"
+    },
+    {
+      "code": 6303192009,
+      "name": "Pemangkih Baru"
+    },
+    {
+      "code": 6303192010,
+      "name": "Pemangkih Tengah"
+    },
+    {
+      "code": 6303192011,
+      "name": "Tatah Jaruju"
+    },
+    {
+      "code": 6303192012,
+      "name": "Jaruju Laut"
+    },
+    {
+      "code": 6303192013,
+      "name": "Thaibah Raya"
+    }
+  ]
+}

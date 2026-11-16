@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 5272021004,
+      "name": "Kumbe"
+    },
+    {
+      "code": 5272021008,
+      "name": "Lampe"
+    },
+    {
+      "code": 5272021009,
+      "name": "Dodu"
+    },
+    {
+      "code": 5272021011,
+      "name": "Nungga"
+    },
+    {
+      "code": 5272021018,
+      "name": "Kodo"
+    },
+    {
+      "code": 5272021019,
+      "name": "Oi Fo'o"
+    },
+    {
+      "code": 5272021020,
+      "name": "Lelamase"
+    },
+    {
+      "code": 5272021021,
+      "name": "Oimbo"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 7209042001,
+      "name": "Pusungi"
+    },
+    {
+      "code": 7209042002,
+      "name": "Tete B"
+    },
+    {
+      "code": 7209042003,
+      "name": "Tete A"
+    },
+    {
+      "code": 7209042004,
+      "name": "Uebone"
+    },
+    {
+      "code": 7209042005,
+      "name": "Mantangisi"
+    },
+    {
+      "code": 7209042006,
+      "name": "Bantuga"
+    },
+    {
+      "code": 7209042007,
+      "name": "Borone"
+    },
+    {
+      "code": 7209042008,
+      "name": "Balanggala"
+    },
+    {
+      "code": 7209042009,
+      "name": "Sabo"
+    },
+    {
+      "code": 7209042010,
+      "name": "Longge"
+    },
+    {
+      "code": 7209042011,
+      "name": "Tampabatu"
+    },
+    {
+      "code": 7209042012,
+      "name": "Urundaka"
+    },
+    {
+      "code": 7209042013,
+      "name": "Balingara"
+    },
+    {
+      "code": 7209042014,
+      "name": "Bulan Jaya"
+    },
+    {
+      "code": 7209042015,
+      "name": "Giri Mulyo"
+    },
+    {
+      "code": 7209042017,
+      "name": "Wanasari"
+    },
+    {
+      "code": 7209042019,
+      "name": "Kajulangko"
+    },
+    {
+      "code": 7209042020,
+      "name": "Uemakuni"
+    },
+    {
+      "code": 7209042021,
+      "name": "Mpoa"
+    },
+    {
+      "code": 7209042022,
+      "name": "Sukamaju"
+    }
+  ]
+}

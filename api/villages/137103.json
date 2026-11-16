@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1371031001,
+      "name": "Flamboyan Baru"
+    },
+    {
+      "code": 1371031002,
+      "name": "Rimbo Kaluang"
+    },
+    {
+      "code": 1371031003,
+      "name": "Ujung Gurun"
+    },
+    {
+      "code": 1371031004,
+      "name": "Purus"
+    },
+    {
+      "code": 1371031005,
+      "name": "Padang Pasir"
+    },
+    {
+      "code": 1371031006,
+      "name": "Olo"
+    },
+    {
+      "code": 1371031007,
+      "name": "Kampung Jawa"
+    },
+    {
+      "code": 1371031008,
+      "name": "Belakang Tangsi"
+    },
+    {
+      "code": 1371031009,
+      "name": "Kampung Pondok"
+    },
+    {
+      "code": 1371031010,
+      "name": "Berok Nipah"
+    }
+  ]
+}

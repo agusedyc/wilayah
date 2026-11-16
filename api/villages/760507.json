@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7605072001,
+      "name": "Onang"
+    },
+    {
+      "code": 7605072002,
+      "name": "Tubo"
+    },
+    {
+      "code": 7605072003,
+      "name": "Onang Utara"
+    },
+    {
+      "code": 7605072004,
+      "name": "Tubo Selatan"
+    },
+    {
+      "code": 7605072005,
+      "name": "Bonde bonde"
+    },
+    {
+      "code": 7605072006,
+      "name": "Tubo Tengah"
+    },
+    {
+      "code": 7605072007,
+      "name": "Tubo Poang"
+    }
+  ]
+}

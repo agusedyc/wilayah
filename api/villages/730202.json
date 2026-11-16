@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 7302021001,
+      "name": "Tanah Kongkong"
+    },
+    {
+      "code": 7302021002,
+      "name": "Bentengnge"
+    },
+    {
+      "code": 7302021003,
+      "name": "Terang Terang"
+    },
+    {
+      "code": 7302021004,
+      "name": "Kalumeme"
+    },
+    {
+      "code": 7302021005,
+      "name": "Bintarore"
+    },
+    {
+      "code": 7302021006,
+      "name": "Kasimpureng"
+    },
+    {
+      "code": 7302021007,
+      "name": "Caile"
+    },
+    {
+      "code": 7302021008,
+      "name": "Loka"
+    },
+    {
+      "code": 7302021009,
+      "name": "Ela Ela"
+    }
+  ]
+}

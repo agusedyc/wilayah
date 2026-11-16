@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5307012001,
+      "name": "Masabewa"
+    },
+    {
+      "code": 5307012003,
+      "name": "Wolowiro"
+    },
+    {
+      "code": 5307012004,
+      "name": "Mbengu"
+    },
+    {
+      "code": 5307012005,
+      "name": "Paga"
+    },
+    {
+      "code": 5307012008,
+      "name": "Lenandareta"
+    },
+    {
+      "code": 5307012012,
+      "name": "Mauloo"
+    },
+    {
+      "code": 5307012013,
+      "name": "Wolorega"
+    },
+    {
+      "code": 5307012015,
+      "name": "Wolowona"
+    },
+    {
+      "code": 5307012017,
+      "name": "Begu"
+    },
+    {
+      "code": 5307012018,
+      "name": "Kotandelu"
+    },
+    {
+      "code": 5307012019,
+      "name": "Lowolabo"
+    },
+    {
+      "code": 5307012020,
+      "name": "Aebubu"
+    },
+    {
+      "code": 5307012021,
+      "name": "Regapu’u"
+    },
+    {
+      "code": 5307012022,
+      "name": "Rejo"
+    }
+  ]
+}

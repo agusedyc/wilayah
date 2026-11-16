@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1806182001,
+      "name": "Belu"
+    },
+    {
+      "code": 1806182002,
+      "name": "Negara Batin"
+    },
+    {
+      "code": 1806182003,
+      "name": "Banjar Masin"
+    },
+    {
+      "code": 1806182004,
+      "name": "Kanyangan"
+    },
+    {
+      "code": 1806182005,
+      "name": "Kandang Besi"
+    },
+    {
+      "code": 1806182006,
+      "name": "Teba Bunuk"
+    },
+    {
+      "code": 1806182007,
+      "name": "Way Gelang"
+    },
+    {
+      "code": 1806182008,
+      "name": "Tala Gening"
+    },
+    {
+      "code": 1806182009,
+      "name": "Gedung Jambu"
+    },
+    {
+      "code": 1806182010,
+      "name": "Maja"
+    },
+    {
+      "code": 1806182011,
+      "name": "Pulau Benawang"
+    },
+    {
+      "code": 1806182012,
+      "name": "Payung"
+    },
+    {
+      "code": 1806182013,
+      "name": "Kesugihan"
+    },
+    {
+      "code": 1806182014,
+      "name": "Pejajaran"
+    },
+    {
+      "code": 1806182015,
+      "name": "Kalimiring"
+    },
+    {
+      "code": 1806182016,
+      "name": "Tanjung Agung"
+    }
+  ]
+}

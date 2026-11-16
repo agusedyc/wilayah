@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "message": "Showing 20 villages",
+  "data": [
+    {
+      "code": 9508162001,
+      "name": "Yal"
+    },
+    {
+      "code": 9508162002,
+      "name": "Yimogi"
+    },
+    {
+      "code": 9508162003,
+      "name": "Gimi"
+    },
+    {
+      "code": 9508162004,
+      "name": "Mugiarem"
+    },
+    {
+      "code": 9508162005,
+      "name": "Palpam"
+    },
+    {
+      "code": 9508162006,
+      "name": "Samba"
+    },
+    {
+      "code": 9508162007,
+      "name": "Sitdobo"
+    },
+    {
+      "code": 9508162008,
+      "name": "Diringgama"
+    },
+    {
+      "code": 9508162009,
+      "name": "Dangenpem"
+    },
+    {
+      "code": 9508162010,
+      "name": "Undo"
+    },
+    {
+      "code": 9508162011,
+      "name": "Betbere"
+    },
+    {
+      "code": 9508162012,
+      "name": "Muruldumu"
+    },
+    {
+      "code": 9508162013,
+      "name": "Yaba"
+    },
+    {
+      "code": 9508162014,
+      "name": "Dengpa"
+    },
+    {
+      "code": 9508162015,
+      "name": "Girimnak"
+    },
+    {
+      "code": 9508162016,
+      "name": "Lambule"
+    },
+    {
+      "code": 9508162017,
+      "name": "Sujomdobo"
+    },
+    {
+      "code": 9508162018,
+      "name": "Suelama"
+    },
+    {
+      "code": 9508162019,
+      "name": "Gularem"
+    },
+    {
+      "code": 9508162020,
+      "name": "Biledumu"
+    }
+  ]
+}

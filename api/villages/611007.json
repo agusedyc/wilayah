@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 6110072001,
+      "name": "Nanga Sokan"
+    },
+    {
+      "code": 6110072002,
+      "name": "Tanjung Sokan"
+    },
+    {
+      "code": 6110072003,
+      "name": "Sijau"
+    },
+    {
+      "code": 6110072004,
+      "name": "Keluing Taja"
+    },
+    {
+      "code": 6110072005,
+      "name": "Nanga Betangai"
+    },
+    {
+      "code": 6110072006,
+      "name": "Gelata"
+    },
+    {
+      "code": 6110072007,
+      "name": "Nanga Ora"
+    },
+    {
+      "code": 6110072008,
+      "name": "Nanga Libas"
+    },
+    {
+      "code": 6110072009,
+      "name": "Telaga Raya"
+    },
+    {
+      "code": 6110072010,
+      "name": "Teluk Pongkal"
+    },
+    {
+      "code": 6110072011,
+      "name": "Nanga Tangkit"
+    },
+    {
+      "code": 6110072012,
+      "name": "Penyengkuang"
+    },
+    {
+      "code": 6110072013,
+      "name": "Melana"
+    },
+    {
+      "code": 6110072014,
+      "name": "Nanga Potai"
+    },
+    {
+      "code": 6110072015,
+      "name": "Sepakat"
+    },
+    {
+      "code": 6110072016,
+      "name": "Muara Tanjung"
+    },
+    {
+      "code": 6110072017,
+      "name": "Landau Kabu"
+    },
+    {
+      "code": 6110072018,
+      "name": "Tanjung Mahung"
+    }
+  ]
+}

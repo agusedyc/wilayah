@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 3603121005,
+      "name": "Sindangsari"
+    },
+    {
+      "code": 3603121010,
+      "name": "Kutabumi"
+    },
+    {
+      "code": 3603121012,
+      "name": "Kuta Jaya"
+    },
+    {
+      "code": 3603121014,
+      "name": "Kuta Baru"
+    },
+    {
+      "code": 3603122001,
+      "name": "Pasar Kemis"
+    },
+    {
+      "code": 3603122008,
+      "name": "Sukamantri"
+    },
+    {
+      "code": 3603122011,
+      "name": "Pangadegan"
+    },
+    {
+      "code": 3603122013,
+      "name": "Gelam Jaya"
+    },
+    {
+      "code": 3603122015,
+      "name": "Suka Asih"
+    }
+  ]
+}

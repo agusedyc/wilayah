@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7402101001,
+      "name": "Abuki"
+    },
+    {
+      "code": 7402102007,
+      "name": "Sambeani"
+    },
+    {
+      "code": 7402102008,
+      "name": "Asolu"
+    },
+    {
+      "code": 7402102009,
+      "name": "Punggaluku"
+    },
+    {
+      "code": 7402102012,
+      "name": "Walay"
+    },
+    {
+      "code": 7402102015,
+      "name": "Epeea"
+    },
+    {
+      "code": 7402102024,
+      "name": "Kumapo"
+    },
+    {
+      "code": 7402102035,
+      "name": "Unaasi Jaya"
+    },
+    {
+      "code": 7402102038,
+      "name": "Kasuwura Indah"
+    },
+    {
+      "code": 7402102039,
+      "name": "Arubia Jaya"
+    },
+    {
+      "code": 7402102040,
+      "name": "Padangguni Utama"
+    },
+    {
+      "code": 7402102042,
+      "name": "Anggoro"
+    }
+  ]
+}

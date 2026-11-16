@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9302012001,
+      "name": "Ampera"
+    },
+    {
+      "code": 9302012002,
+      "name": "Sokanggo"
+    },
+    {
+      "code": 9302012003,
+      "name": "Persatuan"
+    },
+    {
+      "code": 9302012004,
+      "name": "Mariam"
+    },
+    {
+      "code": 9302012005,
+      "name": "Mawan"
+    }
+  ]
+}

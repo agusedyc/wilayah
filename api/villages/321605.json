@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3216052001,
+      "name": "Satriajaya"
+    },
+    {
+      "code": 3216052002,
+      "name": "Jejalenjaya"
+    },
+    {
+      "code": 3216052003,
+      "name": "Satriamekar"
+    },
+    {
+      "code": 3216052004,
+      "name": "Sriamur"
+    },
+    {
+      "code": 3216052005,
+      "name": "Srimukti"
+    },
+    {
+      "code": 3216052006,
+      "name": "Srijaya"
+    },
+    {
+      "code": 3216052007,
+      "name": "Srimahi"
+    },
+    {
+      "code": 3216052008,
+      "name": "Karangsatria"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9304232001,
+      "name": "Mabul"
+    },
+    {
+      "code": 9304232002,
+      "name": "Banum"
+    },
+    {
+      "code": 9304232003,
+      "name": "Ayak"
+    },
+    {
+      "code": 9304232004,
+      "name": "Amakot"
+    },
+    {
+      "code": 9304232005,
+      "name": "Nagatun"
+    },
+    {
+      "code": 9304232006,
+      "name": "Ujung Batu"
+    },
+    {
+      "code": 9304232007,
+      "name": "Kapayap Tiga"
+    }
+  ]
+}

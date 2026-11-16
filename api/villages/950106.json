@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 9501062001,
+      "name": "Walelagama"
+    },
+    {
+      "code": 9501062002,
+      "name": "Pugima"
+    },
+    {
+      "code": 9501062003,
+      "name": "Itlay Halitopo"
+    },
+    {
+      "code": 9501062004,
+      "name": "Kubulakma"
+    },
+    {
+      "code": 9501062005,
+      "name": "Kulaken"
+    },
+    {
+      "code": 9501062006,
+      "name": "Wamusage"
+    }
+  ]
+}

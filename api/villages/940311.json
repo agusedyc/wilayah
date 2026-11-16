@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 9403111006,
+      "name": "Badawo"
+    },
+    {
+      "code": 9403112001,
+      "name": "Uwamani"
+    },
+    {
+      "code": 9403112002,
+      "name": "Muyadebe"
+    },
+    {
+      "code": 9403112003,
+      "name": "Woubutu"
+    },
+    {
+      "code": 9403112004,
+      "name": "Kugitadi"
+    },
+    {
+      "code": 9403112005,
+      "name": "Kobouyagapa"
+    },
+    {
+      "code": 9403112007,
+      "name": "Geko"
+    },
+    {
+      "code": 9403112008,
+      "name": "Kinou"
+    },
+    {
+      "code": 9403112009,
+      "name": "Toko"
+    },
+    {
+      "code": 9403112010,
+      "name": "Yagiyo Butu"
+    },
+    {
+      "code": 9403112011,
+      "name": "Obaidagi"
+    }
+  ]
+}

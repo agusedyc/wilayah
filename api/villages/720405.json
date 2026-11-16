@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7204052001,
+      "name": "Buga"
+    },
+    {
+      "code": 7204052002,
+      "name": "Batuilo"
+    },
+    {
+      "code": 7204052003,
+      "name": "Kamalu"
+    },
+    {
+      "code": 7204052004,
+      "name": "Muara Besar"
+    },
+    {
+      "code": 7204052005,
+      "name": "Bilo"
+    },
+    {
+      "code": 7204052006,
+      "name": "Labuan Lobo"
+    },
+    {
+      "code": 7204052007,
+      "name": "Sambujan"
+    },
+    {
+      "code": 7204052008,
+      "name": "Pulias"
+    },
+    {
+      "code": 7204052009,
+      "name": "Kabetan"
+    },
+    {
+      "code": 7204052010,
+      "name": "Pagaitan"
+    },
+    {
+      "code": 7204052011,
+      "name": "Bambalaga"
+    }
+  ]
+}

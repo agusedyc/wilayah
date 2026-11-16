@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7571071001,
+      "name": "Tanggikiki"
+    },
+    {
+      "code": 7571071002,
+      "name": "Tapa"
+    },
+    {
+      "code": 7571071003,
+      "name": "Bulotadaa Barat"
+    },
+    {
+      "code": 7571071004,
+      "name": "Bulotadaa Timur"
+    },
+    {
+      "code": 7571071005,
+      "name": "Molosipat U"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1812082001,
+      "name": "Pagar Dewa"
+    },
+    {
+      "code": 1812082002,
+      "name": "Pagar Dewa Suka Mulya"
+    },
+    {
+      "code": 1812082003,
+      "name": "Cahyou Randu"
+    },
+    {
+      "code": 1812082004,
+      "name": "Bujung Dewa"
+    },
+    {
+      "code": 1812082005,
+      "name": "Bujung Sari Marga"
+    },
+    {
+      "code": 1812082006,
+      "name": "Marga Jaya Indah"
+    }
+  ]
+}

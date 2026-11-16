@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 6303092001,
+      "name": "Maniapun"
+    },
+    {
+      "code": 6303092002,
+      "name": "Lok Tunggul"
+    },
+    {
+      "code": 6303092003,
+      "name": "Lobang Baru"
+    },
+    {
+      "code": 6303092004,
+      "name": "Pengaron"
+    },
+    {
+      "code": 6303092005,
+      "name": "Benteng"
+    },
+    {
+      "code": 6303092006,
+      "name": "Ati'im"
+    },
+    {
+      "code": 6303092007,
+      "name": "Alimukim"
+    },
+    {
+      "code": 6303092008,
+      "name": "Panyiuran"
+    },
+    {
+      "code": 6303092009,
+      "name": "Antaraku"
+    },
+    {
+      "code": 6303092010,
+      "name": "Mangkauk"
+    },
+    {
+      "code": 6303092015,
+      "name": "Kertak Empat"
+    },
+    {
+      "code": 6303092018,
+      "name": "Lumpangi"
+    }
+  ]
+}

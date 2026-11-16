@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7307031001,
+      "name": "Samataring"
+    },
+    {
+      "code": 7307032002,
+      "name": "Sanjai"
+    },
+    {
+      "code": 7307032003,
+      "name": "Pattalassang"
+    },
+    {
+      "code": 7307032004,
+      "name": "Panaikang"
+    },
+    {
+      "code": 7307032005,
+      "name": "Saukang"
+    },
+    {
+      "code": 7307032006,
+      "name": "Kampala"
+    },
+    {
+      "code": 7307032007,
+      "name": "Lasiai"
+    },
+    {
+      "code": 7307032008,
+      "name": "Biroro"
+    },
+    {
+      "code": 7307032009,
+      "name": "Kaloling"
+    },
+    {
+      "code": 7307032010,
+      "name": "Pasimarannu"
+    },
+    {
+      "code": 7307032011,
+      "name": "Tongke-Tongke"
+    },
+    {
+      "code": 7307032012,
+      "name": "Salohe"
+    },
+    {
+      "code": 7307032013,
+      "name": "Bongki Lengkese"
+    }
+  ]
+}

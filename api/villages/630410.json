@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6304101001,
+      "name": "Lepasan"
+    },
+    {
+      "code": 6304102002,
+      "name": "Banua Anyar"
+    },
+    {
+      "code": 6304102003,
+      "name": "Murung Raya"
+    },
+    {
+      "code": 6304102004,
+      "name": "Palingkau"
+    },
+    {
+      "code": 6304102005,
+      "name": "Balukung"
+    },
+    {
+      "code": 6304102006,
+      "name": "Banitan"
+    },
+    {
+      "code": 6304102007,
+      "name": "Batik"
+    },
+    {
+      "code": 6304102008,
+      "name": "Bahalayung"
+    },
+    {
+      "code": 6304102009,
+      "name": "Sungai Selirik"
+    }
+  ]
+}

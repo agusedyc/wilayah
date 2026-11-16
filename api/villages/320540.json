@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 3205402001,
+      "name": "Cipareuan"
+    },
+    {
+      "code": 3205402002,
+      "name": "Cibiuk Kaler"
+    },
+    {
+      "code": 3205402003,
+      "name": "Cibiuk Kidul"
+    },
+    {
+      "code": 3205402004,
+      "name": "Majasari"
+    },
+    {
+      "code": 3205402005,
+      "name": "Lingkungpasir"
+    }
+  ]
+}

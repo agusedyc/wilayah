@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 3528092001,
+      "name": "Bicorong"
+    },
+    {
+      "code": 3528092002,
+      "name": "Klompang Barat"
+    },
+    {
+      "code": 3528092003,
+      "name": "Klompang Timur"
+    },
+    {
+      "code": 3528092004,
+      "name": "Cenlecen"
+    },
+    {
+      "code": 3528092005,
+      "name": "Bajang"
+    },
+    {
+      "code": 3528092006,
+      "name": "Banban"
+    },
+    {
+      "code": 3528092007,
+      "name": "Somalang"
+    },
+    {
+      "code": 3528092008,
+      "name": "Palalang"
+    },
+    {
+      "code": 3528092009,
+      "name": "Seddur"
+    },
+    {
+      "code": 3528092010,
+      "name": "Pakong"
+    },
+    {
+      "code": 3528092011,
+      "name": "Bandungan"
+    },
+    {
+      "code": 3528092012,
+      "name": "Lebbek"
+    }
+  ]
+}

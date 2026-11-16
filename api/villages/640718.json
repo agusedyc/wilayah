@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 6407182001,
+      "name": "Sakaq Lotoq"
+    },
+    {
+      "code": 6407182002,
+      "name": "Sakaq Tada"
+    },
+    {
+      "code": 6407182003,
+      "name": "Gemuruh"
+    },
+    {
+      "code": 6407182004,
+      "name": "Karangan"
+    },
+    {
+      "code": 6407182005,
+      "name": "Merayaq"
+    },
+    {
+      "code": 6407182006,
+      "name": "Linggang Marimun"
+    },
+    {
+      "code": 6407182007,
+      "name": "Kelumpang"
+    },
+    {
+      "code": 6407182008,
+      "name": "Gadur"
+    },
+    {
+      "code": 6407182009,
+      "name": "Linggang Muara Batuq"
+    },
+    {
+      "code": 6407182010,
+      "name": "Muara Jawaq"
+    },
+    {
+      "code": 6407182011,
+      "name": "Abit"
+    },
+    {
+      "code": 6407182012,
+      "name": "Rembayan"
+    },
+    {
+      "code": 6407182014,
+      "name": "Gunung Rampah"
+    },
+    {
+      "code": 6407182015,
+      "name": "Jengan"
+    },
+    {
+      "code": 6407182016,
+      "name": "Muara Kalaq"
+    },
+    {
+      "code": 6407182017,
+      "name": "Tondoh"
+    }
+  ]
+}

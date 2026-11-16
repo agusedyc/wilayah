@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 1211021007,
+      "name": "Pegagan Julu I"
+    },
+    {
+      "code": 1211022001,
+      "name": "Pegagan Julu X"
+    },
+    {
+      "code": 1211022002,
+      "name": "Pegagan Julu IX"
+    },
+    {
+      "code": 1211022003,
+      "name": "Pegagan Julu VIII"
+    },
+    {
+      "code": 1211022004,
+      "name": "Pegagan Julu VII"
+    },
+    {
+      "code": 1211022005,
+      "name": "Pegagan Julu VI"
+    },
+    {
+      "code": 1211022006,
+      "name": "Pegagan Julu V"
+    },
+    {
+      "code": 1211022008,
+      "name": "Pegagan Julu IV"
+    },
+    {
+      "code": 1211022009,
+      "name": "Pegagan Julu III"
+    },
+    {
+      "code": 1211022010,
+      "name": "Pegagan Julu II"
+    },
+    {
+      "code": 1211022014,
+      "name": "Tanjung Beringin"
+    },
+    {
+      "code": 1211022015,
+      "name": "Dolok Tolong"
+    },
+    {
+      "code": 1211022017,
+      "name": "Pargambiran"
+    },
+    {
+      "code": 1211022018,
+      "name": "Perjuangan"
+    },
+    {
+      "code": 1211022020,
+      "name": "Kuta Gugung"
+    },
+    {
+      "code": 1211022024,
+      "name": "Sileuh-leuh Parsaoran"
+    },
+    {
+      "code": 1211022025,
+      "name": "Barisan Nauli"
+    },
+    {
+      "code": 1211022026,
+      "name": "Pangguruan"
+    },
+    {
+      "code": 1211022027,
+      "name": "Tanjung Beringin I"
+    }
+  ]
+}

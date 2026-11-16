@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1218132001,
+      "name": "Bah Sumbu"
+    },
+    {
+      "code": 1218132002,
+      "name": "Naga Kesiangan"
+    },
+    {
+      "code": 1218132003,
+      "name": "Jambu"
+    },
+    {
+      "code": 1218132004,
+      "name": "Mariah Padang"
+    },
+    {
+      "code": 1218132005,
+      "name": "Pertapaan"
+    },
+    {
+      "code": 1218132006,
+      "name": "Paya Lombang"
+    },
+    {
+      "code": 1218132007,
+      "name": "Sei Serimah"
+    },
+    {
+      "code": 1218132008,
+      "name": "Paya Bagas"
+    },
+    {
+      "code": 1218132009,
+      "name": "Paya Mabar"
+    },
+    {
+      "code": 1218132010,
+      "name": "Sei. Priok"
+    },
+    {
+      "code": 1218132011,
+      "name": "Kuta Baru"
+    },
+    {
+      "code": 1218132018,
+      "name": "Kedai Damar"
+    },
+    {
+      "code": 1218132019,
+      "name": "Penonggol"
+    },
+    {
+      "code": 1218132020,
+      "name": "Gunung Kataran"
+    }
+  ]
+}

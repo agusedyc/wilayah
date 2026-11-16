@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 1304052001,
+      "name": "Tanjung Barulak"
+    },
+    {
+      "code": 1304052002,
+      "name": "Saruaso"
+    },
+    {
+      "code": 1304052003,
+      "name": "Koto Tangah"
+    },
+    {
+      "code": 1304052004,
+      "name": "Pagaruyung"
+    }
+  ]
+}

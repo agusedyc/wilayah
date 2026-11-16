@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7315101001,
+      "name": "Lanrisang"
+    },
+    {
+      "code": 7315102002,
+      "name": "Samaulue"
+    },
+    {
+      "code": 7315102003,
+      "name": "Mallongi-longi"
+    },
+    {
+      "code": 7315102004,
+      "name": "Amassangang"
+    },
+    {
+      "code": 7315102005,
+      "name": "Barang Palie"
+    },
+    {
+      "code": 7315102006,
+      "name": "Waetuoe"
+    },
+    {
+      "code": 7315102007,
+      "name": "Lerang"
+    }
+  ]
+}

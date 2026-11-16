@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 2104082001,
+      "name": "Selayar"
+    },
+    {
+      "code": 2104082002,
+      "name": "Penuba"
+    },
+    {
+      "code": 2104082003,
+      "name": "Penuba Timur"
+    },
+    {
+      "code": 2104082004,
+      "name": "Pantai Harapan"
+    }
+  ]
+}

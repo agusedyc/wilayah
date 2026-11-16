@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 1305132001,
+      "name": "Malai V Suku"
+    },
+    {
+      "code": 1305132002,
+      "name": "Gasan Gadang"
+    },
+    {
+      "code": 1305132003,
+      "name": "Malai V Suku Timur"
+    }
+  ]
+}

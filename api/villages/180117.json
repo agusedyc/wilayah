@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 1801172001,
+      "name": "Batuliman Indah"
+    },
+    {
+      "code": 1801172002,
+      "name": "Sinar Palembang"
+    },
+    {
+      "code": 1801172003,
+      "name": "Rantau Minyak"
+    },
+    {
+      "code": 1801172004,
+      "name": "Sido Asri"
+    },
+    {
+      "code": 1801172005,
+      "name": "Way Gelam"
+    },
+    {
+      "code": 1801172006,
+      "name": "Cinta Mulya"
+    },
+    {
+      "code": 1801172007,
+      "name": "Banyumas"
+    },
+    {
+      "code": 1801172008,
+      "name": "Beringin Kencana"
+    },
+    {
+      "code": 1801172009,
+      "name": "Sinar Pasemah"
+    },
+    {
+      "code": 1801172010,
+      "name": "Rawa Selapan"
+    },
+    {
+      "code": 1801172011,
+      "name": "Bumi Jaya"
+    },
+    {
+      "code": 1801172012,
+      "name": "Trimomukti"
+    },
+    {
+      "code": 1801172013,
+      "name": "Titiwangi"
+    },
+    {
+      "code": 1801172014,
+      "name": "Karya Mulya Sari"
+    }
+  ]
+}

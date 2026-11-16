@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 8204242001,
+      "name": "Batulak"
+    },
+    {
+      "code": 8204242002,
+      "name": "Boso"
+    },
+    {
+      "code": 8204242003,
+      "name": "Dolik"
+    },
+    {
+      "code": 8204242004,
+      "name": "Fulai"
+    },
+    {
+      "code": 8204242005,
+      "name": "Gumira"
+    },
+    {
+      "code": 8204242006,
+      "name": "Moloku"
+    },
+    {
+      "code": 8204242007,
+      "name": "Nurjihat"
+    },
+    {
+      "code": 8204242008,
+      "name": "Posi Posi"
+    },
+    {
+      "code": 8204242009,
+      "name": "Samat"
+    },
+    {
+      "code": 8204242010,
+      "name": "Samo"
+    },
+    {
+      "code": 8204242011,
+      "name": "Suka Damai"
+    },
+    {
+      "code": 8204242012,
+      "name": "Tokaka"
+    }
+  ]
+}

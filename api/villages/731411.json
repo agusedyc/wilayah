@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "Showing 12 villages",
+  "data": [
+    {
+      "code": 7314111001,
+      "name": "Batu"
+    },
+    {
+      "code": 7314112002,
+      "name": "Compong"
+    },
+    {
+      "code": 7314112003,
+      "name": "Belawae"
+    },
+    {
+      "code": 7314112004,
+      "name": "Botto"
+    },
+    {
+      "code": 7314112005,
+      "name": "Bila Riase"
+    },
+    {
+      "code": 7314112006,
+      "name": "Bola Bulu"
+    },
+    {
+      "code": 7314112007,
+      "name": "Tana Toro"
+    },
+    {
+      "code": 7314112008,
+      "name": "Lombo"
+    },
+    {
+      "code": 7314112009,
+      "name": "Lagading"
+    },
+    {
+      "code": 7314112010,
+      "name": "Dengeng-Dengeng"
+    },
+    {
+      "code": 7314112011,
+      "name": "Buntu Buangin"
+    },
+    {
+      "code": 7314112012,
+      "name": "Leppangeng"
+    }
+  ]
+}

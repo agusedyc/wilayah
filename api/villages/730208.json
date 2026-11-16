@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "message": "Showing 13 villages",
+  "data": [
+    {
+      "code": 7302081001,
+      "name": "Borong Rappoa"
+    },
+    {
+      "code": 7302082002,
+      "name": "Mattirowalie"
+    },
+    {
+      "code": 7302082003,
+      "name": "Kindang"
+    },
+    {
+      "code": 7302082004,
+      "name": "Arinhua"
+    },
+    {
+      "code": 7302082005,
+      "name": "Tamaona"
+    },
+    {
+      "code": 7302082006,
+      "name": "Benteng Palioi"
+    },
+    {
+      "code": 7302082007,
+      "name": "Balibo"
+    },
+    {
+      "code": 7302082008,
+      "name": "Garuntungan"
+    },
+    {
+      "code": 7302082009,
+      "name": "Orogading"
+    },
+    {
+      "code": 7302082010,
+      "name": "Sipaenre"
+    },
+    {
+      "code": 7302082011,
+      "name": "Kahayya"
+    },
+    {
+      "code": 7302082012,
+      "name": "Somba Palioli"
+    },
+    {
+      "code": 7302082013,
+      "name": "Sopa"
+    }
+  ]
+}

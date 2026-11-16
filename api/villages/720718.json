@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 7207182001,
+      "name": "Lumbi-lumbia"
+    },
+    {
+      "code": 7207182002,
+      "name": "Kambani"
+    },
+    {
+      "code": 7207182003,
+      "name": "Tatabau"
+    },
+    {
+      "code": 7207182004,
+      "name": "Buko"
+    },
+    {
+      "code": 7207182005,
+      "name": "Palapat"
+    },
+    {
+      "code": 7207182006,
+      "name": "Labangun"
+    },
+    {
+      "code": 7207182007,
+      "name": "Seano"
+    },
+    {
+      "code": 7207182008,
+      "name": "Lelang Matamaling"
+    },
+    {
+      "code": 7207182009,
+      "name": "Apal"
+    },
+    {
+      "code": 7207182010,
+      "name": "Sapelang"
+    },
+    {
+      "code": 7207182011,
+      "name": "Landonan Bebeau"
+    }
+  ]
+}

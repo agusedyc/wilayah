@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9507242001,
+      "name": "Wamitu"
+    },
+    {
+      "code": 9507242002,
+      "name": "Balimneri"
+    },
+    {
+      "code": 9507242003,
+      "name": "Timotani"
+    },
+    {
+      "code": 9507242004,
+      "name": "Kungganeri"
+    },
+    {
+      "code": 9507242005,
+      "name": "Gwilonik"
+    },
+    {
+      "code": 9507242006,
+      "name": "Ilim"
+    },
+    {
+      "code": 9507242007,
+      "name": "Dinuwi"
+    }
+  ]
+}

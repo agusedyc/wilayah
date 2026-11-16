@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 5321122001,
+      "name": "Babotin"
+    },
+    {
+      "code": 5321122002,
+      "name": "Kereana"
+    },
+    {
+      "code": 5321122003,
+      "name": "Babotin Maemina"
+    },
+    {
+      "code": 5321122004,
+      "name": "Babotin Selatan"
+    },
+    {
+      "code": 5321122005,
+      "name": "Takarai"
+    }
+  ]
+}

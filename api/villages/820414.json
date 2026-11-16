@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 8204142001,
+      "name": "Sidopo"
+    },
+    {
+      "code": 8204142002,
+      "name": "Lolarogurua"
+    },
+    {
+      "code": 8204142003,
+      "name": "Nusa Babullah"
+    },
+    {
+      "code": 8204142004,
+      "name": "Jojame"
+    },
+    {
+      "code": 8204142005,
+      "name": "Yaba"
+    },
+    {
+      "code": 8204142006,
+      "name": "Geti Lama"
+    },
+    {
+      "code": 8204142007,
+      "name": "Geti Baru"
+    },
+    {
+      "code": 8204142008,
+      "name": "Gilalang"
+    }
+  ]
+}

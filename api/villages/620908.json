@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 6209082001,
+      "name": "Batu Tambun"
+    },
+    {
+      "code": 6209082002,
+      "name": "Kinipan"
+    },
+    {
+      "code": 6209082003,
+      "name": "Ginih"
+    },
+    {
+      "code": 6209082004,
+      "name": "Benakitan"
+    },
+    {
+      "code": 6209082005,
+      "name": "Liku"
+    },
+    {
+      "code": 6209082006,
+      "name": "Mengkalang"
+    },
+    {
+      "code": 6209082007,
+      "name": "Karang Mas"
+    },
+    {
+      "code": 6209082008,
+      "name": "Kina"
+    },
+    {
+      "code": 6209082009,
+      "name": "Jamuat"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 3172021001,
+      "name": "Tanjung Priok"
+    },
+    {
+      "code": 3172021002,
+      "name": "Sunter Jaya"
+    },
+    {
+      "code": 3172021003,
+      "name": "Papanggo"
+    },
+    {
+      "code": 3172021004,
+      "name": "Sungai Bambu"
+    },
+    {
+      "code": 3172021005,
+      "name": "Kebon Bawang"
+    },
+    {
+      "code": 3172021006,
+      "name": "Sunter Agung"
+    },
+    {
+      "code": 3172021007,
+      "name": "Warakas"
+    }
+  ]
+}

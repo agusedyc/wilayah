@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 5306122001,
+      "name": "Watololong"
+    },
+    {
+      "code": 5306122002,
+      "name": "Tuwagoetobi"
+    },
+    {
+      "code": 5306122003,
+      "name": "Weranggere"
+    },
+    {
+      "code": 5306122004,
+      "name": "Oringbele"
+    },
+    {
+      "code": 5306122005,
+      "name": "Watoone"
+    },
+    {
+      "code": 5306122006,
+      "name": "Lamabelawa"
+    },
+    {
+      "code": 5306122007,
+      "name": "Pledo"
+    },
+    {
+      "code": 5306122008,
+      "name": "Lewopulo"
+    },
+    {
+      "code": 5306122009,
+      "name": "Sandosi"
+    },
+    {
+      "code": 5306122010,
+      "name": "Balaweling"
+    },
+    {
+      "code": 5306122011,
+      "name": "Tobitika"
+    },
+    {
+      "code": 5306122012,
+      "name": "Riangduli"
+    },
+    {
+      "code": 5306122013,
+      "name": "Waiwuring"
+    },
+    {
+      "code": 5306122014,
+      "name": "Bao Bage"
+    },
+    {
+      "code": 5306122015,
+      "name": "Lamaleka"
+    },
+    {
+      "code": 5306122016,
+      "name": "Balaweling Noten"
+    }
+  ]
+}

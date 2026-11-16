@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1205201001,
+      "name": "Sawit Seberang"
+    },
+    {
+      "code": 1205202002,
+      "name": "Alur Gadung"
+    },
+    {
+      "code": 1205202003,
+      "name": "Simpang Tiga"
+    },
+    {
+      "code": 1205202004,
+      "name": "Sei Litur Tasik"
+    },
+    {
+      "code": 1205202005,
+      "name": "Sawit Hulu"
+    },
+    {
+      "code": 1205202006,
+      "name": "Mekar Sawit"
+    },
+    {
+      "code": 1205202007,
+      "name": "Alur Melati"
+    }
+  ]
+}

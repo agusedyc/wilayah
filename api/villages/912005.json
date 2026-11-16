@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 9120052001,
+      "name": "Baudi"
+    },
+    {
+      "code": 9120052002,
+      "name": "Trimuris"
+    },
+    {
+      "code": 9120052003,
+      "name": "Bagusa"
+    },
+    {
+      "code": 9120052004,
+      "name": "Kapeso"
+    },
+    {
+      "code": 9120052005,
+      "name": "Suaseso"
+    },
+    {
+      "code": 9120052006,
+      "name": "Warembori"
+    },
+    {
+      "code": 9120052007,
+      "name": "Yoke"
+    },
+    {
+      "code": 9120052008,
+      "name": "Taya"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Showing 6 villages",
+  "data": [
+    {
+      "code": 1508102001,
+      "name": "Tanjung Menanti"
+    },
+    {
+      "code": 1508102002,
+      "name": "Babeko"
+    },
+    {
+      "code": 1508102003,
+      "name": "Sepunggur"
+    },
+    {
+      "code": 1508102004,
+      "name": "Simpang Bebeko"
+    },
+    {
+      "code": 1508102005,
+      "name": "Suka Makmur"
+    },
+    {
+      "code": 1508102006,
+      "name": "Tuo Sepunggur"
+    }
+  ]
+}

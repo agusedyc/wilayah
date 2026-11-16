@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9501312001,
+      "name": "Piramid"
+    },
+    {
+      "code": 9501312002,
+      "name": "Yonggime"
+    },
+    {
+      "code": 9501312003,
+      "name": "Perabaga"
+    },
+    {
+      "code": 9501312004,
+      "name": "Algonik"
+    },
+    {
+      "code": 9501312005,
+      "name": "Yalinggume"
+    },
+    {
+      "code": 9501312006,
+      "name": "Abuneri"
+    },
+    {
+      "code": 9501312007,
+      "name": "Gobalimo"
+    },
+    {
+      "code": 9501312008,
+      "name": "Balima"
+    },
+    {
+      "code": 9501312009,
+      "name": "Yumbun"
+    },
+    {
+      "code": 9501312010,
+      "name": "Beam"
+    }
+  ]
+}

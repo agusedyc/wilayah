@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Showing 3 villages",
+  "data": [
+    {
+      "code": 9401022001,
+      "name": "Napan"
+    },
+    {
+      "code": 9401022002,
+      "name": "Masipawa"
+    },
+    {
+      "code": 9401022003,
+      "name": "Weinami"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 7471081001,
+      "name": "Kadia"
+    },
+    {
+      "code": 7471081002,
+      "name": "Bende"
+    },
+    {
+      "code": 7471081003,
+      "name": "Pondambea"
+    },
+    {
+      "code": 7471081004,
+      "name": "Wowawanggu"
+    },
+    {
+      "code": 7471081005,
+      "name": "Anaiwoi"
+    }
+  ]
+}

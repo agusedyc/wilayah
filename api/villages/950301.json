@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "message": "Showing 22 villages",
+  "data": [
+    {
+      "code": 9503011001,
+      "name": "Obolma"
+    },
+    {
+      "code": 9503012002,
+      "name": "Ibiroma"
+    },
+    {
+      "code": 9503012003,
+      "name": "Hihundes"
+    },
+    {
+      "code": 9503012004,
+      "name": "Wanem"
+    },
+    {
+      "code": 9503012005,
+      "name": "Anjelma"
+    },
+    {
+      "code": 9503012006,
+      "name": "Pusuaga"
+    },
+    {
+      "code": 9503012007,
+      "name": "Wulik Punua"
+    },
+    {
+      "code": 9503012008,
+      "name": "Kilise"
+    },
+    {
+      "code": 9503012009,
+      "name": "Air Garam"
+    },
+    {
+      "code": 9503012010,
+      "name": "Esalien"
+    },
+    {
+      "code": 9503012011,
+      "name": "Lukulema"
+    },
+    {
+      "code": 9503012012,
+      "name": "Tukuarek"
+    },
+    {
+      "code": 9503012013,
+      "name": "Kima"
+    },
+    {
+      "code": 9503012014,
+      "name": "Yagarelo"
+    },
+    {
+      "code": 9503012015,
+      "name": "Soroh"
+    },
+    {
+      "code": 9503012016,
+      "name": "Eroma"
+    },
+    {
+      "code": 9503012017,
+      "name": "Lotia"
+    },
+    {
+      "code": 9503012018,
+      "name": "Wuluagaima"
+    },
+    {
+      "code": 9503012019,
+      "name": "Huken"
+    },
+    {
+      "code": 9503012020,
+      "name": "Huguma"
+    },
+    {
+      "code": 9503012021,
+      "name": "Parela"
+    },
+    {
+      "code": 9503012023,
+      "name": "Hesmat"
+    }
+  ]
+}

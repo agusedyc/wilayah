@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 1206021006,
+      "name": "Tambak Lau Mulgab I"
+    },
+    {
+      "code": 1206021007,
+      "name": "Tambak Lau Mulgab II"
+    },
+    {
+      "code": 1206021008,
+      "name": "Gundaling I"
+    },
+    {
+      "code": 1206021009,
+      "name": "Gundaling II"
+    },
+    {
+      "code": 1206022001,
+      "name": "Daulu"
+    },
+    {
+      "code": 1206022002,
+      "name": "Gurusinga"
+    },
+    {
+      "code": 1206022003,
+      "name": "Raya"
+    },
+    {
+      "code": 1206022004,
+      "name": "Rumah Berastagi"
+    },
+    {
+      "code": 1206022005,
+      "name": "Sempajaya"
+    },
+    {
+      "code": 1206022010,
+      "name": "Lau Gumba"
+    }
+  ]
+}

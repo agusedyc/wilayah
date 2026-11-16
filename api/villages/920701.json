@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 9207011001,
+      "name": "Wasior I"
+    },
+    {
+      "code": 9207012002,
+      "name": "Rado"
+    },
+    {
+      "code": 9207012003,
+      "name": "Dotir"
+    },
+    {
+      "code": 9207012004,
+      "name": "Maniwak"
+    },
+    {
+      "code": 9207012005,
+      "name": "Wasior II"
+    },
+    {
+      "code": 9207012006,
+      "name": "Maimari"
+    },
+    {
+      "code": 9207012007,
+      "name": "Moru"
+    },
+    {
+      "code": 9207012009,
+      "name": "Manopi"
+    },
+    {
+      "code": 9207012010,
+      "name": "Ramiki"
+    },
+    {
+      "code": 9207012011,
+      "name": "Iriati"
+    }
+  ]
+}

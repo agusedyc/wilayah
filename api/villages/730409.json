@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 7304092001,
+      "name": "Bulo Bulo"
+    },
+    {
+      "code": 7304092002,
+      "name": "Arungkeke"
+    },
+    {
+      "code": 7304092003,
+      "name": "Palajau"
+    },
+    {
+      "code": 7304092004,
+      "name": "Boronglamu"
+    },
+    {
+      "code": 7304092005,
+      "name": "Arungkeke Pallantikang"
+    },
+    {
+      "code": 7304092006,
+      "name": "Kalumpangloe"
+    },
+    {
+      "code": 7304092007,
+      "name": "Kampala"
+    }
+  ]
+}

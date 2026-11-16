@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Showing 5 villages",
+  "data": [
+    {
+      "code": 9403062001,
+      "name": "Duma"
+    },
+    {
+      "code": 9403062002,
+      "name": "Bomosiga"
+    },
+    {
+      "code": 9403062003,
+      "name": "Japesigaiwaka"
+    },
+    {
+      "code": 9403062004,
+      "name": "Waitapa"
+    },
+    {
+      "code": 9403062005,
+      "name": "Duma II"
+    }
+  ]
+}

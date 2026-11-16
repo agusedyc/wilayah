@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 7373081001,
+      "name": "Mungkajang"
+    },
+    {
+      "code": 7373081002,
+      "name": "Murante"
+    },
+    {
+      "code": 7373081003,
+      "name": "Latuppa"
+    },
+    {
+      "code": 7373081004,
+      "name": "Kambo"
+    }
+  ]
+}

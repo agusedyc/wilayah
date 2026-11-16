@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "message": "Showing 14 villages",
+  "data": [
+    {
+      "code": 5321042001,
+      "name": "Wesey"
+    },
+    {
+      "code": 5321042002,
+      "name": "Haitimuk"
+    },
+    {
+      "code": 5321042003,
+      "name": "Laleten"
+    },
+    {
+      "code": 5321042004,
+      "name": "Kleseleon"
+    },
+    {
+      "code": 5321042005,
+      "name": "Angkaes"
+    },
+    {
+      "code": 5321042006,
+      "name": "Wederok"
+    },
+    {
+      "code": 5321042007,
+      "name": "Lamudur"
+    },
+    {
+      "code": 5321042008,
+      "name": "Forekmodok"
+    },
+    {
+      "code": 5321042009,
+      "name": "Umalawain"
+    },
+    {
+      "code": 5321042010,
+      "name": "Lakulo"
+    },
+    {
+      "code": 5321042011,
+      "name": "Leunklot"
+    },
+    {
+      "code": 5321042012,
+      "name": "Haliklaran"
+    },
+    {
+      "code": 5321042013,
+      "name": "Bonetasea"
+    },
+    {
+      "code": 5321042014,
+      "name": "Taaba"
+    }
+  ]
+}

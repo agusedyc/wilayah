@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 5271011004,
+      "name": "Ampenan Selatan"
+    },
+    {
+      "code": 5271011005,
+      "name": "Ampenan Tengah"
+    },
+    {
+      "code": 5271011006,
+      "name": "Pejeruk"
+    },
+    {
+      "code": 5271011007,
+      "name": "Ampenan Utara"
+    },
+    {
+      "code": 5271011008,
+      "name": "Taman Sari"
+    },
+    {
+      "code": 5271011009,
+      "name": "Banjar"
+    },
+    {
+      "code": 5271011010,
+      "name": "Kebun Sari"
+    },
+    {
+      "code": 5271011011,
+      "name": "Pejarakan Karya"
+    },
+    {
+      "code": 5271011012,
+      "name": "Dayan Peken"
+    },
+    {
+      "code": 5271011013,
+      "name": "Bintaro"
+    }
+  ]
+}

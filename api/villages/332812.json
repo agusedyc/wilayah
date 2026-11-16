@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "Showing 19 villages",
+  "data": [
+    {
+      "code": 3328122001,
+      "name": "Pegirikan"
+    },
+    {
+      "code": 3328122002,
+      "name": "Pekiringan"
+    },
+    {
+      "code": 3328122003,
+      "name": "Gembongkulon"
+    },
+    {
+      "code": 3328122004,
+      "name": "Pasangan"
+    },
+    {
+      "code": 3328122005,
+      "name": "Langgen"
+    },
+    {
+      "code": 3328122006,
+      "name": "Bengle"
+    },
+    {
+      "code": 3328122007,
+      "name": "Dukuhmalang"
+    },
+    {
+      "code": 3328122008,
+      "name": "Pesayangan"
+    },
+    {
+      "code": 3328122009,
+      "name": "Kajen"
+    },
+    {
+      "code": 3328122010,
+      "name": "Kebasen"
+    },
+    {
+      "code": 3328122011,
+      "name": "Tegalwangi"
+    },
+    {
+      "code": 3328122012,
+      "name": "Kaligayam"
+    },
+    {
+      "code": 3328122013,
+      "name": "Talang"
+    },
+    {
+      "code": 3328122014,
+      "name": "Kaladawa"
+    },
+    {
+      "code": 3328122015,
+      "name": "Cangkring"
+    },
+    {
+      "code": 3328122016,
+      "name": "Dawuhan"
+    },
+    {
+      "code": 3328122017,
+      "name": "Getaskerep"
+    },
+    {
+      "code": 3328122018,
+      "name": "Pacul"
+    },
+    {
+      "code": 3328122019,
+      "name": "Wangandawa"
+    }
+  ]
+}

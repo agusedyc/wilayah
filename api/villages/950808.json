@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9508082001,
+      "name": "Tribid"
+    },
+    {
+      "code": 9508082002,
+      "name": "Gearek"
+    },
+    {
+      "code": 9508082003,
+      "name": "Kibid"
+    },
+    {
+      "code": 9508082004,
+      "name": "Weneworarosa"
+    },
+    {
+      "code": 9508082005,
+      "name": "Gebem"
+    },
+    {
+      "code": 9508082006,
+      "name": "Bomegi"
+    },
+    {
+      "code": 9508082007,
+      "name": "Gilingga"
+    }
+  ]
+}

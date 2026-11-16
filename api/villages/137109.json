@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Showing 9 villages",
+  "data": [
+    {
+      "code": 1371091001,
+      "name": "Pasar Ambacang"
+    },
+    {
+      "code": 1371091002,
+      "name": "Anduring"
+    },
+    {
+      "code": 1371091003,
+      "name": "Lubuk Lintah"
+    },
+    {
+      "code": 1371091004,
+      "name": "Ampang"
+    },
+    {
+      "code": 1371091005,
+      "name": "Kalumbuk"
+    },
+    {
+      "code": 1371091006,
+      "name": "Korong Gadang"
+    },
+    {
+      "code": 1371091007,
+      "name": "Kuranji"
+    },
+    {
+      "code": 1371091008,
+      "name": "Gunung Sarik"
+    },
+    {
+      "code": 1371091009,
+      "name": "Sungai Sapih"
+    }
+  ]
+}

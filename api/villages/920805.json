@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 9208052001,
+      "name": "Rauna"
+    },
+    {
+      "code": 9208052002,
+      "name": "Werafuta"
+    },
+    {
+      "code": 9208052003,
+      "name": "Ubia Sermuku"
+    },
+    {
+      "code": 9208052004,
+      "name": "Bahumia"
+    },
+    {
+      "code": 9208052005,
+      "name": "Waho"
+    },
+    {
+      "code": 9208052006,
+      "name": "Wamesa"
+    },
+    {
+      "code": 9208052007,
+      "name": "Kooy"
+    }
+  ]
+}

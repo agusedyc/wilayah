@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Showing 4 villages",
+  "data": [
+    {
+      "code": 9508142001,
+      "name": "Gemam"
+    },
+    {
+      "code": 9508142002,
+      "name": "Puruwa"
+    },
+    {
+      "code": 9508142003,
+      "name": "Yutpul"
+    },
+    {
+      "code": 9508142004,
+      "name": "Kilmid"
+    }
+  ]
+}

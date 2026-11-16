@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 7212102001,
+      "name": "Tiu"
+    },
+    {
+      "code": 7212102002,
+      "name": "Tontowea"
+    },
+    {
+      "code": 7212102003,
+      "name": "Togo Mulyo"
+    },
+    {
+      "code": 7212102004,
+      "name": "Maralee"
+    },
+    {
+      "code": 7212102005,
+      "name": "Mondowe"
+    },
+    {
+      "code": 7212102006,
+      "name": "Sampalowo"
+    },
+    {
+      "code": 7212102007,
+      "name": "Moleono"
+    },
+    {
+      "code": 7212102008,
+      "name": "Onepute"
+    },
+    {
+      "code": 7212102009,
+      "name": "Ulu Laa"
+    },
+    {
+      "code": 7212102010,
+      "name": "Tadaku Jaya"
+    }
+  ]
+}

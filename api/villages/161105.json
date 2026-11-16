@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Showing 16 villages",
+  "data": [
+    {
+      "code": 1611052001,
+      "name": "Umo Jati"
+    },
+    {
+      "code": 1611052002,
+      "name": "Tanjung Jati"
+    },
+    {
+      "code": 1611052003,
+      "name": "Pagar Jati"
+    },
+    {
+      "code": 1611052004,
+      "name": "Nibung"
+    },
+    {
+      "code": 1611052005,
+      "name": "Batu Ampar"
+    },
+    {
+      "code": 1611052006,
+      "name": "Karang Tanding"
+    },
+    {
+      "code": 1611052007,
+      "name": "Lubuk Cik"
+    },
+    {
+      "code": 1611052008,
+      "name": "Rantau Kasai"
+    },
+    {
+      "code": 1611052009,
+      "name": "Suka Rami"
+    },
+    {
+      "code": 1611052010,
+      "name": "Rantau Alih"
+    },
+    {
+      "code": 1611052011,
+      "name": "Tanjung Alam"
+    },
+    {
+      "code": 1611052012,
+      "name": "Lesung Batu"
+    },
+    {
+      "code": 1611052013,
+      "name": "Babatan"
+    },
+    {
+      "code": 1611052014,
+      "name": "Muara Danau"
+    },
+    {
+      "code": 1611052015,
+      "name": "Endalo"
+    },
+    {
+      "code": 1611052016,
+      "name": "Lubuk Tapang"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Showing 23 villages",
+  "data": [
+    {
+      "code": 6203071001,
+      "name": "Palingkau Baru"
+    },
+    {
+      "code": 6203071002,
+      "name": "Palingkau Lama"
+    },
+    {
+      "code": 6203072003,
+      "name": "Tajepan"
+    },
+    {
+      "code": 6203072004,
+      "name": "Mampai"
+    },
+    {
+      "code": 6203072005,
+      "name": "Muara Dadahup"
+    },
+    {
+      "code": 6203072006,
+      "name": "Belawang"
+    },
+    {
+      "code": 6203072008,
+      "name": "Palangkau Lama"
+    },
+    {
+      "code": 6203072010,
+      "name": "Palangkau Baru"
+    },
+    {
+      "code": 6203072014,
+      "name": "Talekung Punei"
+    },
+    {
+      "code": 6203072015,
+      "name": "Karya Bersama"
+    },
+    {
+      "code": 6203072016,
+      "name": "Palingkau Jaya"
+    },
+    {
+      "code": 6203072017,
+      "name": "Palingkau Asri"
+    },
+    {
+      "code": 6203072018,
+      "name": "Palingkau Sejahtera"
+    },
+    {
+      "code": 6203072019,
+      "name": "Saka Binjai"
+    },
+    {
+      "code": 6203072020,
+      "name": "Bina Sejahtera"
+    },
+    {
+      "code": 6203072021,
+      "name": "Suka Reja"
+    },
+    {
+      "code": 6203072022,
+      "name": "Suka Mukti"
+    },
+    {
+      "code": 6203072023,
+      "name": "Bina Karya"
+    },
+    {
+      "code": 6203072024,
+      "name": "Bina Mekar"
+    },
+    {
+      "code": 6203072025,
+      "name": "Rawa Subur"
+    },
+    {
+      "code": 6203072026,
+      "name": "Sumber Mulya"
+    },
+    {
+      "code": 6203072027,
+      "name": "Bumi Rahayu"
+    },
+    {
+      "code": 6203072028,
+      "name": "Manggala Permai"
+    }
+  ]
+}

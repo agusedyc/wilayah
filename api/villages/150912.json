@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 1509122001,
+      "name": "Tanah Garo"
+    },
+    {
+      "code": 1509122002,
+      "name": "Pintas Tuo"
+    },
+    {
+      "code": 1509122003,
+      "name": "Embacang Gedang"
+    },
+    {
+      "code": 1509122004,
+      "name": "Bangun Seranten"
+    },
+    {
+      "code": 1509122005,
+      "name": "Tambun Arang"
+    },
+    {
+      "code": 1509122006,
+      "name": "Sungai Jernih"
+    },
+    {
+      "code": 1509122007,
+      "name": "Bangko Pintas"
+    },
+    {
+      "code": 1509122008,
+      "name": "Olak Kemang"
+    }
+  ]
+}

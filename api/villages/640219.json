@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 6402192001,
+      "name": "Kedang Ipil"
+    },
+    {
+      "code": 6402192002,
+      "name": "Sedulang"
+    },
+    {
+      "code": 6402192003,
+      "name": "Benua Baru"
+    },
+    {
+      "code": 6402192004,
+      "name": "Kota Bangun I"
+    },
+    {
+      "code": 6402192005,
+      "name": "Kota Bangun II"
+    },
+    {
+      "code": 6402192006,
+      "name": "Kota Bangun III"
+    },
+    {
+      "code": 6402192007,
+      "name": "Sumber Sari"
+    },
+    {
+      "code": 6402192008,
+      "name": "Sari Nadi"
+    },
+    {
+      "code": 6402192009,
+      "name": "Suka Bumi"
+    },
+    {
+      "code": 6402192010,
+      "name": "Wonosari"
+    }
+  ]
+}

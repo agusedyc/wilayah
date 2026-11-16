@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Showing 8 villages",
+  "data": [
+    {
+      "code": 3213052001,
+      "name": "Cihambulu"
+    },
+    {
+      "code": 3213052002,
+      "name": "Siluman"
+    },
+    {
+      "code": 3213052003,
+      "name": "Pringkasap"
+    },
+    {
+      "code": 3213052004,
+      "name": "Pabuaran"
+    },
+    {
+      "code": 3213052005,
+      "name": "Karanghegar"
+    },
+    {
+      "code": 3213052006,
+      "name": "Salamjaya"
+    },
+    {
+      "code": 3213052007,
+      "name": "Kadawung"
+    },
+    {
+      "code": 3213052008,
+      "name": "Balebandung Jaya"
+    }
+  ]
+}

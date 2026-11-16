@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Showing 18 villages",
+  "data": [
+    {
+      "code": 3502072001,
+      "name": "Karangpatihan"
+    },
+    {
+      "code": 3502072002,
+      "name": "Tegalrejo"
+    },
+    {
+      "code": 3502072003,
+      "name": "Bedrug"
+    },
+    {
+      "code": 3502072004,
+      "name": "Wagir Kidul"
+    },
+    {
+      "code": 3502072005,
+      "name": "Singgahan"
+    },
+    {
+      "code": 3502072006,
+      "name": "Patik"
+    },
+    {
+      "code": 3502072007,
+      "name": "Pulung"
+    },
+    {
+      "code": 3502072008,
+      "name": "Pulung Merdiko"
+    },
+    {
+      "code": 3502072009,
+      "name": "Sidoharjo"
+    },
+    {
+      "code": 3502072010,
+      "name": "Wotan"
+    },
+    {
+      "code": 3502072011,
+      "name": "Plunturan"
+    },
+    {
+      "code": 3502072012,
+      "name": "Pomahan"
+    },
+    {
+      "code": 3502072013,
+      "name": "Kesugihan"
+    },
+    {
+      "code": 3502072014,
+      "name": "Serag"
+    },
+    {
+      "code": 3502072015,
+      "name": "Wayang"
+    },
+    {
+      "code": 3502072016,
+      "name": "Munggung"
+    },
+    {
+      "code": 3502072017,
+      "name": "Bekiring"
+    },
+    {
+      "code": 3502072018,
+      "name": "Banaran"
+    }
+  ]
+}

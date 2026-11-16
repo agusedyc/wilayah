@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 1209082002,
+      "name": "Meranti"
+    },
+    {
+      "code": 1209082004,
+      "name": "Perkebunan Sei Balai"
+    },
+    {
+      "code": 1209082011,
+      "name": "Sei Beluru"
+    },
+    {
+      "code": 1209082012,
+      "name": "Serdang"
+    },
+    {
+      "code": 1209082019,
+      "name": "Gajah"
+    },
+    {
+      "code": 1209082021,
+      "name": "Air Putih"
+    },
+    {
+      "code": 1209082022,
+      "name": "Sukajadi"
+    }
+  ]
+}

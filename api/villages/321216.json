@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Showing 10 villages",
+  "data": [
+    {
+      "code": 3212162001,
+      "name": "Panyindangan Kulon"
+    },
+    {
+      "code": 3212162002,
+      "name": "Rambatan Wetan"
+    },
+    {
+      "code": 3212162003,
+      "name": "Panyindangan Wetan"
+    },
+    {
+      "code": 3212162004,
+      "name": "Kenanga"
+    },
+    {
+      "code": 3212162005,
+      "name": "Terusan"
+    },
+    {
+      "code": 3212162006,
+      "name": "Dermayu"
+    },
+    {
+      "code": 3212162007,
+      "name": "Sindang"
+    },
+    {
+      "code": 3212162008,
+      "name": "Penganjang"
+    },
+    {
+      "code": 3212162009,
+      "name": "Babadan"
+    },
+    {
+      "code": 3212162014,
+      "name": "Wanantara"
+    }
+  ]
+}

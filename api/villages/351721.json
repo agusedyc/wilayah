@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Showing 11 villages",
+  "data": [
+    {
+      "code": 3517212001,
+      "name": "Ketapangkuning"
+    },
+    {
+      "code": 3517212002,
+      "name": "Keboan"
+    },
+    {
+      "code": 3517212003,
+      "name": "Kedungbogo"
+    },
+    {
+      "code": 3517212004,
+      "name": "Ngusikan"
+    },
+    {
+      "code": 3517212005,
+      "name": "Sumbernongko"
+    },
+    {
+      "code": 3517212006,
+      "name": "Cupak"
+    },
+    {
+      "code": 3517212007,
+      "name": "Manunggal"
+    },
+    {
+      "code": 3517212008,
+      "name": "Ngampel"
+    },
+    {
+      "code": 3517212009,
+      "name": "Mojodanu"
+    },
+    {
+      "code": 3517212010,
+      "name": "Kromong"
+    },
+    {
+      "code": 3517212011,
+      "name": "Asemgede"
+    }
+  ]
+}

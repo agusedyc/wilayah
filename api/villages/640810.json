@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Showing 7 villages",
+  "data": [
+    {
+      "code": 6408102001,
+      "name": "Kaliorang"
+    },
+    {
+      "code": 6408102006,
+      "name": "Bukit Makmur"
+    },
+    {
+      "code": 6408102007,
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": 6408102008,
+      "name": "Citra Manunggal Jaya"
+    },
+    {
+      "code": 6408102009,
+      "name": "Bangun Jaya"
+    },
+    {
+      "code": 6408102010,
+      "name": "Bumi Sejahtera"
+    },
+    {
+      "code": 6408102013,
+      "name": "Selangkau"
+    }
+  ]
+}

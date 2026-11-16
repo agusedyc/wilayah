@@ -17,6 +17,23 @@ self.addEventListener('install', (event) => {
   );
 });
 
+async function refreshIfStale() {
+  try {
+    const res = await fetch('api/version.json', { cache: 'no-store' });
+    if (!res.ok) return;
+    const next = `wilayah-${(await res.json()).data_version}`;
+    if (next === CACHE) return;
+    CACHE = next;
+    for (const key of await caches.keys()) {
+      if (key.startsWith('wilayah-') && key !== CACHE) await caches.delete(key);
+    }
+    const cache = await caches.open(CACHE);
+    await Promise.all(SHELL.map((url) => cache.add(url).catch(() => {})));
+  } catch {
+    /* offline: pertahankan cache yang ada */
+  }
+}
+
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     (async () => {
@@ -37,6 +54,7 @@ self.addEventListener('fetch', (event) => {
   if (req.mode === 'navigate') {
     event.respondWith(
       (async () => {
+        await refreshIfStale();
         try {
           const res = await fetch(req);
           if (res.ok) (await caches.open(CACHE)).put('index.html', res.clone());

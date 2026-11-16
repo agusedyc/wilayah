@@ -40,20 +40,29 @@ export function ancestorsOf(code) {
   };
 }
 
-export function searchRows(rows, q, limit = 50) {
-  const needle = String(q).trim().toLowerCase();
-  if (!needle) return [];
+export function createSearch(rows) {
   const names = new Map(rows.map((r) => [r.code, r.name]));
-  const levelKeys = [...new Set(rows.map((r) => String(r.code).length))].sort((a, b) => a - b);
-  const ordered = levelKeys.flatMap((len) => rows.filter((r) => String(r.code).length === len));
-  const hits = ordered.filter(
-    (r) => String(r.code).startsWith(needle) || r.name.toLowerCase().includes(needle),
-  );
-  return hits.slice(0, limit).map((r) => {
-    const a = ancestorsOf(r.code);
-    const path = [a.prov, a.kab, a.kec].filter(Boolean).map((c) => names.get(c) || '').filter(Boolean).join(' / ');
-    return { ...r, path };
-  });
+  const prepared = rows
+    .map((r) => ({ code: r.code, name: r.name, lower: r.name.toLowerCase(), len: String(r.code).length }))
+    .sort((a, b) => a.len - b.len || a.code - b.code);
+
+  return (q, limit = 50) => {
+    const needle = String(q).trim().toLowerCase();
+    if (!needle) return [];
+    const hits = [];
+    for (const r of prepared) {
+      if (!String(r.code).startsWith(needle) && !r.lower.includes(needle)) continue;
+      const a = ancestorsOf(r.code);
+      const path = [a.prov, a.kab, a.kec]
+        .filter(Boolean)
+        .map((c) => names.get(c) || '')
+        .filter(Boolean)
+        .join(' / ');
+      hits.push({ code: r.code, name: r.name, path });
+      if (hits.length === limit) break;
+    }
+    return hits;
+  };
 }
 
 // ---- wiring browser ----
@@ -116,7 +125,7 @@ let indexPromise;
 function loadIndex() {
   indexPromise ||= fetch('api/search.txt')
     .then((r) => (r.ok ? r.text() : Promise.reject(new Error(`index ${r.status}`))))
-    .then(parseIndex)
+    .then((text) => createSearch(parseIndex(text)))
     .catch((err) => {
       indexPromise = null;
       throw err;
@@ -171,7 +180,7 @@ function initSearch() {
       }
       let hits;
       try {
-        hits = searchRows(await ensure(), q);
+        hits = (await ensure())(q);
       } catch {
         box.hidden = false;
         box.replaceChildren(placeholder('Indeks pencarian gagal dimuat.'));

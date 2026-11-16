@@ -80,9 +80,12 @@ function resetColumns(from) {
 }
 
 function showDetail(btn) {
-  const path = [...document.querySelectorAll('.explorer .item[aria-current="true"] .name')]
-    .map((el) => el.textContent);
-  if (!path.includes(btn.querySelector('.name').textContent)) path.push(btn.querySelector('.name').textContent);
+  const levels = ['prov', 'kab', 'kec', 'desa'];
+  const upto = levels.indexOf(btn.closest('section').dataset.level);
+  const path = levels
+    .slice(0, upto + 1)
+    .map((lv) => document.querySelector(`.explorer section[data-level="${lv}"] .item[aria-current="true"] .name`)?.textContent)
+    .filter(Boolean);
 
   const box = document.getElementById('detail');
   const title = document.createElement('h2');
@@ -131,14 +134,14 @@ async function fillCascade(code) {
   ];
   const lastFilled = steps.filter(([, , active]) => active).length - 1;
   resetColumns(lastFilled + 1);
+  for (const el of document.querySelectorAll('.explorer .item[aria-current="true"]')) {
+    el.removeAttribute('aria-current');
+  }
   for (const [col, url, active] of steps) {
     if (!active) continue;
     await htmx.ajax('GET', url, { target: `#${col}`, swap: 'innerHTML' });
     const btn = document.querySelector(`#${col} .item[data-code="${active}"]`);
     if (!btn) continue;
-    for (const el of document.querySelectorAll('.explorer .item[aria-current="true"]')) {
-      if (el.closest('section').dataset.level !== col.slice(4)) el.removeAttribute('aria-current');
-    }
     btn.setAttribute('aria-current', 'true');
     btn.scrollIntoView({ block: 'nearest' });
     if (btn.classList.contains('leaf')) showDetail(btn);
@@ -231,9 +234,10 @@ function boot() {
   document.querySelector('.explorer').addEventListener('click', (evt) => {
     const btn = evt.target.closest('.item');
     if (!btn) return;
-    const index = ['prov', 'kab', 'kec', 'desa'].indexOf(btn.closest('section').dataset.level);
+    const levels = ['prov', 'kab', 'kec', 'desa'];
+    const index = levels.indexOf(btn.closest('section').dataset.level);
     for (const el of document.querySelectorAll('.explorer .item[aria-current="true"]')) {
-      el.removeAttribute('aria-current');
+      if (levels.indexOf(el.closest('section').dataset.level) >= index) el.removeAttribute('aria-current');
     }
     btn.setAttribute('aria-current', 'true');
     document.getElementById('detail').hidden = true;
@@ -254,7 +258,7 @@ function boot() {
 
 if (typeof document !== 'undefined' && globalThis.htmx) boot();
 
-if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+if (typeof navigator !== 'undefined' && 'serviceWorker' in navigator && location.protocol.startsWith('http')) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('sw.js').catch(() => {});
   });

@@ -12,13 +12,22 @@
 <script type="module" src="app.js"></script>
 </head>
 <body>
-<header class="head">
-  <h1>Kode Wilayah</h1>
-  <p class="lede">Telusuri wilayah administratif Indonesia dari provinsi sampai kelurahan/desa.</p>
-  <p class="stats">38 provinsi · 514 kabupaten/kota · 7.285 kecamatan · 83.762 desa</p>
+<header class="masthead">
+  <div class="title">
+    <p class="kicker">Wilayah Administratif Indonesia</p>
+    <h1>Kode Wilayah</h1>
+  </div>
+  <dl class="facts">
+    <div><dt>Provinsi</dt><dd>38</dd></div>
+    <div><dt>Kabupaten/Kota</dt><dd>514</dd></div>
+    <div><dt>Kecamatan</dt><dd>7.285</dd></div>
+    <div><dt>Kelurahan/Desa</dt><dd>83.762</dd></div>
+  </dl>
 </header>
 
 <main>
+  <p class="lede">Telusuri dari provinsi sampai kelurahan/desa, atau cari langsung dengan nama maupun kode.</p>
+
   <div class="search">
     <label for="q">Cari nama atau kode wilayah</label>
     <input id="q" type="search" placeholder="mis. bakongan atau 1101012001" autocomplete="off" spellcheck="false">
@@ -50,8 +59,7 @@
 </main>
 
 <footer class="foot">
-  <p>Data snapshot Kemendagri via <a href="https://kodewilayah.web.id/">kodewilayah.web.id</a>.
-  <span id="ver"></span></p>
+  <p>Data snapshot Kemendagri via <a href="https://kodewilayah.web.id/">kodewilayah.web.id</a>. <span id="ver"></span></p>
 </footer>
 </body>
 </html>

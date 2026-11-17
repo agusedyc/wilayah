@@ -6,7 +6,7 @@ kecamatan → kelurahan/desa. Statis penuh — tanpa backend, jalan di GitHub Pa
 ## Pakai lokal
 
 ```bash
-docker compose up -d      # http://localhost:8080
+docker compose up -d      # http://localhost:8765 (Tailscale) atau IP host:8765
 docker compose down
 ```
 

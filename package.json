@@ -1,10 +1,5 @@
 {
   "name": "wilayah",
   "private": true,
-  "type": "module",
-  "scripts": {
-    "test": "node --test tools/",
-    "generate": "node tools/generate.mjs",
-    "check": "node tools/generate.mjs --check"
-  }
+  "type": "module"
 }

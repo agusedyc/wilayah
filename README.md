@@ -6,7 +6,7 @@ kecamatan → kelurahan/desa. Statis penuh — tanpa backend, jalan di GitHub Pa
 ## Pakai lokal
 
 ```bash
-docker compose up -d      # http://localhost:8765 (Tailscale) atau IP host:8765
+docker compose up -d      # http://localhost:8765
 docker compose down
 ```
 
@@ -24,24 +24,8 @@ api/version.json                tanggal snapshot (versi cache service worker)
 ```
 
 Semua file itu sekaligus API publik statis, mis.
-`https://<user>.github.io/<repo>/api/districts/1101.json`.
+`https://agusedyc.github.io/wilayah/api/districts/1101.json`.
 Bentuk respons sama dengan API sumber: `{ success, message, data: [{ code, name }] }`.
-
-Perbarui data:
-
-```bash
-node tools/generate.mjs          # ambil ulang seluruh pohon (±15 ribu request)
-node tools/generate.mjs --check   # bandingkan jumlah per level
-```
-
-Generator menahan `search.txt`/`version.json` bila ada request gagal, dan tidak menimpa file
-yang gagal diambil. Jalankan ulang untuk melengkapi.
-
-## Test
-
-```bash
-node --test tools/
-```
 
 ## Deploy
 
